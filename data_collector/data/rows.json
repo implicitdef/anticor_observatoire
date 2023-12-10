@@ -1,5 +1,254 @@
 [
   {
+    "id": 1438,
+    "titre": "Relaxe d’Éric Dupond-Moretti : le parquet ne se pourvoit pas en cassation, la décision devient définitive",
+    "contenu": "La relaxe d’Éric Dupond-Moretti va devenir définitive. Le procureur général à la Cour de Cassation Rémy Heitz annonce qu’il ne formera «pas de pourvoi en cassation contre cette décision». Le magistrat, qui avait pourtant requis la condamnation du ministre de la Justice lors de son procès pour conflit d’intérêts devant la Cour de Justice de la République (CJR), estime désormais qu’il «faut passer à autre chose». « Je pense qu’il faut aller vers l’apaisement », soutient Rémy Heitz.",
+    "url": "https://www.lefigaro.fr/politique/relaxe-d-eric-dupond-moretti-le-parquet-ne-se-pourvoit-pas-en-cassation-20231204",
+    "date": "2023-12-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      },
+      {
+        "id": 1327,
+        "value": "Rémy Heitz"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1436,
+    "titre": "Intelligence artificielle : comment un ministre devenu lobbyiste a retourné le gouvernement",
+    "contenu": "Comme secrétaire d’État chargé du numérique, Cédric O défendait la régulation de l’intelligence artificielle. Il conseille à présent l’inverse à Élisabeth Borne, en tant que lobbyiste du secteur, au nom de la principale start-up française. La Haute Autorité pour la transparence lui avait pourtant demandé de se tenir à l’écart des affaires publiques.",
+    "url": "https://www.mediapart.fr/journal/france/011223/intelligence-artificielle-comment-un-ministre-devenu-lobbyiste-retourne-le-gouvernement",
+    "date": "2023-12-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1306,
+        "value": "Cédric O"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 105,
+        "value": "Mistral AI"
+      },
+      {
+        "id": 106,
+        "value": "Haute Autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1439,
+    "titre": "Une enquête ouverte sur la gestion de la ville de Vichy",
+    "contenu": "Le parquet de Cusset dans l'Allier a indiqué avoir ouvert une enquête préliminaire à la suite d'irrégularités dénoncées par l'association Anticor dans la gestion de la ville de Vichy, qui a annoncé de son côté vouloir porter plainte. L'ouverture de cette enquête fait suite à un signalement d'Anticor qui s'appuie sur un rapport de la chambre régionale des comptes (CRC) publié en 2021, portant sur la période 2013 à 2018 et les mandats de Claude Malhuret (Horizons) puis Frédéric Aguilera (LR). Le rapport de la CRC souligne notamment que l'exécutif (maire, adjoints et six conseillers délégués) se serait réparti 15.000 euros de trop-perçus d'indemnités en 2018.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/une-enquete-ouverte-sur-la-gestion-de-la-ville-de-vichy-9666709",
+    "date": "2023-12-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151602,
+        "value": "03 - Allier"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1328,
+        "value": "Claude Malhuret"
+      },
+      {
+        "id": 1329,
+        "value": "Frédéric Aguilera"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 107,
+        "value": "Chambre régionale des comptes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
+  },
+  {
+    "id": 1435,
+    "titre": "Procès Bygmalion : un an de prison avec sursis requis contre Nicolas Sarkozy",
+    "contenu": "Un an de prison avec sursis a été requis jeudi 30 novembre contre Nicolas Sarkozy dans le procès en appel sur les dépenses excessives de sa campagne présidentielle perdue en 2012, pour lesquelles il a été condamné en première instance à un an d’emprisonnement ferme. Selon le ministère public, Nicolas Sarkozy « a enfreint en connaissance de cause la limitation légale des dépenses électorales ».",
+    "url": "https://www.lemonde.fr/societe/article/2023/11/30/proces-bygmalion-un-an-de-prison-avec-sursis-requis-contre-nicolas-sarkozy_6203225_3224.html",
+    "date": "2023-11-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1434,
+    "titre": "Olivier Dussopt jugé pour favoritisme : 10 mois d’emprisonnement avec sursis requis",
+    "contenu": "Le tribunal de Paris a requis ce mercredi 29 novembre 10 mois de prison avec sursis et 15 000 euros d’amende contre le ministre du Travail, accusé de favoritisme dans le cadre d’un marché public de 2009 lorsqu’il était maire d’Annonay.",
+    "url": "https://www.liberation.fr/societe/police-justice/olivier-dussopt-juge-pour-favoritisme-10-mois-demprisonnement-avec-sursis-requis-20231129_NWUSEZ3DQZET5A4PICCSK5QL54/?redirected=1",
+    "date": "2023-11-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1234,
+        "value": "Olivier Dussopt"
+      },
+      {
+        "id": 1326,
+        "value": "Olivier Brousse"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 51,
+        "value": "Ministère du travail"
+      },
+      {
+        "id": 104,
+        "value": "Saur"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1433,
+    "titre": "Procès Dupond-Moretti : une relaxe pour absence d’« élément intentionnel »",
+    "contenu": "Dans sa décision rendue mercredi 29 novembre, la Cour de justice de la République a estimé que le garde des sceaux était certes « en situation objective de conflits d’intérêts » et que ses décisions étaient matériellement constitutives de « prises illégales d’intérêts », mais l’a relaxé, estimant qu’il ne le savait pas.",
+    "url": "https://www.lemonde.fr/societe/article/2023/11/29/proces-dupond-moretti-une-relaxe-pour-absence-d-element-intentionnel_6203022_3224.html",
+    "date": "2023-11-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
+  },
+  {
     "id": 1431,
     "titre": "Des bureaux parisiens de la région Auvergne-Rhône-Alpes et de l’association Régions de France ont été perquisitionnés lundi dans le cadre d’une enquête sur des « soupçons d’emplois fantômes »",
     "contenu": "Des perquisitions ont eu lieu, lundi 27 novembre, dans les bureaux de la région Auvergne-Rhône-Alpes, à Paris, mais aussi dans ceux de l’association Régions de France, dans le cadre de l’enquête du Parquet national financier (PNF) sur des soupçons d’emplois fictifs de quatre proches du président de région Laurent Wauquiez. Selon la cellule investigation de Radio France, les perquisitions ont été menées dans ces deux endroits « afin de recueillir les éléments relatifs aux prestations de travail de ces quatre agents ».",
@@ -70,11 +319,35 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
     "procedure": []
+  },
+  {
+    "id": 1437,
+    "titre": "Procès‐bâillons : le promoteur lyonnais Alila condamné pour son acharnement contre Mediacités",
+    "contenu": "Le 21 novembre dernier, le tribunal judiciaire de Lyon a relaxé Mediacités face au promoteur Alila, l’un des leaders de la construction de logements sociaux en France. Il a considéré que les poursuites intentées contre la rédaction étaient abusives et a condamné le groupe du PDG Hervé Legros à 5 000 euros de dommages et intérêts et 5 000 euros de remboursement de frais de justice.",
+    "url": "https://www.mediacites.fr/la-fabrique/national/2023/11/27/proces-baillons-le-promoteur-lyonnais-alila-condamne-pour-son-acharnement-contre-mediacites/",
+    "date": "2023-11-27",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [
+      {
+        "id": 1195754,
+        "value": "Procédure baîllon"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1429,
@@ -112,7 +385,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -188,7 +461,7 @@
   },
   {
     "id": 1426,
-    "titre": "Deux anciens élus d’Houplin-Ancoisne condamnés à Lille dans l’affaire de « la maison des courants d’air »",
+    "titre": "Deux anciens élus d’Houplin-Ancoisne condamnés à Lille dans l’affaire de « la maison des courants d’air »",
     "contenu": "Jean Crespel, marie d’Houplin-Ancoisne, et Philippe Six qui était son adjoint ont été condamnés par la 8e chambre correctionnelle de Lille,à 5000 euros d’amende pour prise illégale d’intérêts. On leur reprochait la vente d’une maison, au fils de Philippe Six, à un prix moindre.",
     "url": "https://www.lavoixdunord.fr/1398990/article/2023-11-20/deux-anciens-elus-d-houplin-ancoisne-condamnes-lille-dans-l-affaire-de-la-maison",
     "date": "2023-11-22",
@@ -247,7 +520,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -281,7 +554,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -315,7 +588,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -349,7 +622,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -383,7 +656,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -441,7 +714,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -475,7 +748,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -504,7 +777,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -585,7 +858,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -653,7 +926,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -774,7 +1047,12 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1284,
+        "value": "Anne Hidalgo"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [
@@ -798,7 +1076,12 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1308,
+        "value": "François Molins"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -822,7 +1105,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -870,7 +1153,12 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1284,
+        "value": "Anne Hidalgo"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -890,7 +1178,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 99,
+        "value": "Sanofi"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -902,7 +1195,12 @@
     "url": "https://www.linforme.com/banque-finance/article/le-rn-devra-bien-payer-1-8-million-d-euros-dans-l-affaire-des-kits-de-campagne_1158.html?utm_campaign=quotidienne&utm_medium=email&utm_source=newsletter",
     "date": "2023-11-07",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [
       {
@@ -964,9 +1262,19 @@
     "url": "https://www.lefigaro.fr/nice/soupcons-de-favoritisme-a-vallauris-une-enquete-ouverte-a-dix-jours-d-une-election-municipale-20231103",
     "date": "2023-11-05",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -994,7 +1302,12 @@
         "value": "987 - Polynésie Française"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1309,
+        "value": "Damas Teuira"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -1115,7 +1428,12 @@
         "value": "92 - Hauts-de-Seine"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1310,
+        "value": "Michèle Alliot-Marie"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -1144,7 +1462,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -1178,7 +1496,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -1292,7 +1610,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -1355,9 +1673,28 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      },
+      {
+        "id": 1311,
+        "value": "Marie-Laure Piazza"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -1374,7 +1711,12 @@
         "value": "81 - Tarn"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1188,
+        "value": "André Cabrol"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -1403,9 +1745,24 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1270,
+        "value": "Elisabeth Borne"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 33,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -1456,7 +1813,12 @@
         "value": "37 - Indre-et-Loire"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1230,
+        "value": "Florence Alary"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -1524,8 +1886,22 @@
         "value": "69 - Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1312,
+        "value": "Arabelle Chambre-Foa"
+      },
+      {
+        "id": 1313,
+        "value": "Gérard Collomb"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 100,
+        "value": "Vinci"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -1538,7 +1914,7 @@
   {
     "id": 1383,
     "titre": "A Rueil-Malmaison, le système Ollier éclaboussé par les affaires",
-    "contenu": "Opérations immobilières suspectes, dircab tout puissant, soupçons de favoritisme… «Libé» révèle de nouveaux éléments embarrassants pour la commune des Hauts-de-Seine dirigée depuis 19 ans par le maire LR Patrick Ollier.",
+    "contenu": "Opérations immobilières suspectes, dircab tout puissant, soupçons de favoritisme… Libération révèle de nouveaux éléments embarrassants pour la commune des Hauts-de-Seine dirigée depuis 19 ans par le maire LR Patrick Ollier.",
     "url": "https://www.liberation.fr/societe/police-justice/a-rueil-malmaison-le-systeme-ollier-eclabousse-par-les-affaires-20231013_G25ELL4FPZGJVEGRLOOK74563Y/?redirected=1",
     "date": "2023-10-16",
     "etiquettes": "",
@@ -1548,7 +1924,12 @@
         "value": "92 - Hauts-de-Seine"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1315,
+        "value": "Patrick Ollier"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -1577,7 +1958,12 @@
         "value": "2A - Corse-du-Sud"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1279,
+        "value": "Stéphane Vannucci"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -1595,7 +1981,7 @@
   },
   {
     "id": 1381,
-    "titre": "Subvention à une maison d'édition: l'enquête visant David Belliard, adjoint à la mairie de Paris, classée",
+    "titre": "Subvention à une maison d'édition : l'enquête visant David Belliard, adjoint à la mairie de Paris, classée",
     "contenu": "Les investigations pour prise illégale d'intérêts, lancées en mai 2021, ont été classées. Rachida Dati, présidente LR du groupe d'opposition, avait adressé un signalement à la justice.",
     "url": "https://www.bfmtv.com/paris/subvention-a-une-maison-d-edition-l-enquete-visant-david-belliard-adjoint-a-la-mairie-de-paris-classee_AN-202310130842.html",
     "date": "2023-10-16",
@@ -1606,11 +1992,26 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1314,
+        "value": "David Belliard"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
   },
   {
     "id": 1379,
@@ -1619,7 +2020,12 @@
     "url": "https://www.bfmtv.com/crypto/tracfin-pointe-le-role-accru-des-cryptomonnaies-dans-la-delinquance-financiere_AD-202310100554.html",
     "date": "2023-10-16",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [
       {
@@ -1627,7 +2033,12 @@
         "value": "Tracfin"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [
       {
         "id": 1153329,
@@ -1643,7 +2054,12 @@
     "url": "https://www.20minutes.fr/justice/4057314-20231011-soupcons-emploi-fictif-rn-enquete-visant-edwige-diaz-classee-suite",
     "date": "2023-10-16",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151847,
+        "value": "33 - Gironde"
+      }
+    ],
     "personnalites": [
       {
         "id": 183,
@@ -1681,11 +2097,39 @@
     "url": "https://www.lefigaro.fr/faits-divers/une-mafia-internationale-originaire-des-balkans-demantelee-en-france-et-a-monaco-20231010",
     "date": "2023-10-16",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 73,
+        "value": "Office antistupéfiants (Ofast)"
+      },
+      {
+        "id": 74,
+        "value": "Office central pour la répression de la grande délinquance financière"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1195707,
+        "value": "Mafia"
+      }
+    ],
     "procedure": []
   },
   {
@@ -1701,7 +2145,12 @@
         "value": "34 - Hérault"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1266,
+        "value": "François Commeinhes"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -1726,11 +2175,16 @@
     "etiquettes": "",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 63,
+        "value": "Assurance Maladie"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -1749,12 +2203,22 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1316,
+        "value": "Nabil Ennasri"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 83,
+        "value": "BFM TV"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -1772,9 +2236,36 @@
     "url": "https://www.lemonde.fr/politique/article/2023/10/04/cumul-des-mandats-reserve-parlementaire-l-espoir-d-un-retour-de-balancier-des-deputes-de-la-majorite_6192401_823448.html",
     "date": "2023-10-05",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 143,
+        "value": "Dino Cinieri"
+      },
+      {
+        "id": 178,
+        "value": "Frédéric Descrozaille"
+      },
+      {
+        "id": 424,
+        "value": "Naïma Moutchou"
+      },
+      {
+        "id": 584,
+        "value": "André Villiers"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -1792,12 +2283,17 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1229,
+        "value": "Guy Wildenstein"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -1823,7 +2319,12 @@
     ],
     "personnalites": [],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -1840,7 +2341,12 @@
         "value": "31 - Haute-Garonne"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1231,
+        "value": "Thierry Fourcassier"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -1865,10 +2371,29 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 42,
+        "value": "IN Groupe"
+      },
+      {
+        "id": 43,
+        "value": "Surys"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1368,
@@ -1883,8 +2408,30 @@
         "value": "92 - Hauts-de-Seine"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1178,
+        "value": "Jean Bonnefont"
+      },
+      {
+        "id": 1179,
+        "value": "Bernard Forterre"
+      },
+      {
+        "id": 1191,
+        "value": "Charles Ceccaldi-Raynaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 31,
+        "value": "Charbonnages de France"
+      },
+      {
+        "id": 101,
+        "value": "Compagnie générale des eaux"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -1892,7 +2439,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1369,
@@ -1907,7 +2459,12 @@
         "value": "31 - Haute-Garonne"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1231,
+        "value": "Thierry Fourcassier"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -1925,7 +2482,7 @@
   },
   {
     "id": 1367,
-    "titre": "Soupçons de blanchiment: une enquête préliminaire vise Bernard Arnault et Nikolaï Sarkisov",
+    "titre": "Soupçons de blanchiment : une enquête préliminaire vise Bernard Arnault et Nikolaï Sarkisov",
     "contenu": "Le parquet de Paris a confirmé l'existence d'une enquête pour des soupçons de blanchiment portant sur des opérations immobilières impliquant Bernard Arnault et l'oligarque russe Nikolaï Sarkisov.",
     "url": "https://www.bfmtv.com/economie/entreprises/soupcons-de-blanchiment-une-enquete-preliminaire-vise-bernard-arnault-et-nikolai-sarkisov_AD-202309290413.html#xtor=CS9-144-[twitter]-[BFMTV]",
     "date": "2023-09-29",
@@ -1936,11 +2493,25 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1317,
+        "value": "Bernard Arnault"
+      },
+      {
+        "id": 1318,
+        "value": "Nikolaï Sarkisov"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1363,
@@ -1955,8 +2526,46 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 335,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 433,
+        "value": "Julien Odoul"
+      },
+      {
+        "id": 1292,
+        "value": "Jean-Marie Le Pen"
+      },
+      {
+        "id": 1321,
+        "value": "Louis Aliot"
+      },
+      {
+        "id": 1322,
+        "value": "Bruno Gollnisch"
+      },
+      {
+        "id": 1323,
+        "value": "Nicolas Bay"
+      },
+      {
+        "id": 1324,
+        "value": "Wallerand de Saint-Just"
+      },
+      {
+        "id": 1325,
+        "value": "Fernand Le Rachinel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -1979,8 +2588,22 @@
         "value": "2A - Corse-du-Sud"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1319,
+        "value": "Patrick Strzoda"
+      },
+      {
+        "id": 1320,
+        "value": "Josiane Chevalier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 103,
+        "value": "Petit Bar"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -1998,7 +2621,12 @@
         "value": "45 - Loiret"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1232,
+        "value": "Thierry Cousin"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -2022,7 +2650,12 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1303,
+        "value": "Marlène Schiappa"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [
@@ -2051,7 +2684,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -2137,7 +2770,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -2185,7 +2818,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -2209,7 +2842,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -2314,8 +2947,22 @@
     "date": "2023-09-11",
     "etiquettes": "",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1310,
+        "value": "Michèle Alliot-Marie"
+      },
+      {
+        "id": 1330,
+        "value": "Florimond Olive"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -2338,7 +2985,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -2381,7 +3028,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -2400,7 +3047,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -2419,7 +3066,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -2481,7 +3128,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -2524,7 +3171,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [
@@ -2548,7 +3195,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -2567,7 +3214,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -2586,7 +3233,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -2605,7 +3252,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -21917,7 +22564,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -21994,7 +22641,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -22013,7 +22660,7 @@
     "categorie": [
       {
         "id": 1152014,
-        "value": "Revue de presse"
+        "value": "Actualité"
       }
     ],
     "theme": [],
