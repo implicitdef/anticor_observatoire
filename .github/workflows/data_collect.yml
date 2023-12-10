@@ -1,0 +1,27 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 5,11,17,23 * * *" # 4 times a day
+
+jobs:
+  main-job:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./data_collector
+    steps:
+      - uses: actions/checkout@v4
+        with:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "yarn"
+      - run: node --version
+      - run: yarn --version
+      - run: yarn install --frozen-lockfile
+      - run: yarn start
+        env:
+          BASEROW_API_TOKEN: ${{ secrets.BASEROW_API_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Auto commit of latest BaseRow data
