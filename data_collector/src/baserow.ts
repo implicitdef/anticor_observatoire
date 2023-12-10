@@ -133,24 +133,24 @@ function mapRow(row: Row) {
     url: field_1556850,
     date: field_1556851,
     etiquettes: field_1556852,
-    departement: field_1556853,
+    departement: removeColors(field_1556853),
     personnalites: field_1557648,
     personnes_morales: field_1557650,
-    categorie: field_1557681,
-    theme: field_1557682,
-    procedure: field_1561023,
+    categorie: removeColors(field_1557681),
+    theme: removeColors(field_1557682),
+    procedure: removeColors(field_1561023),
   }
 }
 
-// function noEmptyObjects(arr: (string | {})[]): string[] {
-//   return arr.filter((elem) => {
-//     if (typeof elem !== 'string') {
-//       return elem
-//     }
-//   })
-// }
+function removeColors<A extends { color: string }>(
+  arr: (string | A)[],
+): (string | Omit<A, 'color'>)[] {
+  return arr.map((elem) => {
+    return typeof elem === 'string' ? elem : removeColor(elem)
+  })
+}
 
-// const emptyObjSchema = z.object({})
-// function isEmptyObject(a: any): boolean {
-
-// }
+function removeColor<A extends { color: string }>(a: A): Omit<A, 'color'> {
+  const { color, ...rest } = a
+  return rest
+}
