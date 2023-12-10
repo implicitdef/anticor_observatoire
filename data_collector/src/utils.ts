@@ -12,5 +12,6 @@ export function getBaserowApiToken(): string {
 export function writeToJsonFile(path: string, data: any) {
   console.log(`Writing to JSON file ${path}`)
   fs.removeSync(path)
+  fs.ensureFileSync(path)
   fs.writeJSONSync(path, data, { spaces: 2 })
 }

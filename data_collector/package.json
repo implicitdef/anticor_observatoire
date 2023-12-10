@@ -1,6 +1,10 @@
 {
   "name": "data_collector",
   "private": true,
+  "engines": {
+    "node": "20.9.0",
+    "yarn": "1.22.21"
+  },
   "dependencies": {
     "@tsconfig/node20": "^20.1.2",
     "@tsconfig/recommended": "^1.0.3",
