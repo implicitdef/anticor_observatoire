@@ -1,5 +1,24 @@
 [
   {
+    "id": 1444,
+    "titre": "Dans les cabinets ministériels du macronisme, le grand appel d’air vers le secteur privé",
+    "contenu": "Un an et demi seulement après la réélection du chef de l’Etat, de nombreux collaborateurs quittent déjà leurs fonctions. Fatigue, manque d’enthousiasme, proximité avec le monde des affaires, peur du vide de l’après-Macron : les raisons multiples de ce phénomène dessinent un pouvoir qui s’essouffle.",
+    "url": "https://www.liberation.fr/politique/dans-les-cabinets-ministeriels-du-macronisme-le-grand-appel-dair-du-secteur-prive-20231204_6RNUHTQ7UJGSXOEMKKTDES6SMI/",
+    "date": "2023-12-04",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1438,
     "titre": "Relaxe d’Éric Dupond-Moretti : le parquet ne se pourvoit pas en cassation, la décision devient définitive",
     "contenu": "La relaxe d’Éric Dupond-Moretti va devenir définitive. Le procureur général à la Cour de Cassation Rémy Heitz annonce qu’il ne formera «pas de pourvoi en cassation contre cette décision». Le magistrat, qui avait pourtant requis la condamnation du ministre de la Justice lors de son procès pour conflit d’intérêts devant la Cour de Justice de la République (CJR), estime désormais qu’il «faut passer à autre chose». « Je pense qu’il faut aller vers l’apaisement », soutient Rémy Heitz.",
@@ -124,6 +143,40 @@
     ]
   },
   {
+    "id": 1440,
+    "titre": "Détournements de fonds publics à Beausoleil: après le maire Gérard Spinelli, d’autres élus locaux condamnés",
+    "contenu": "Quatre prévenus ont été condamnés à Nice, suivant les pas de Gérard Spinelli dans une procédure de plaider-coupable. Trois d’entre eux écopent de prison avec sursis.",
+    "url": "https://www.nicematin.com/faits-divers/detournements-de-fonds-publics-a-beausoleil-apres-le-maire-gerard-spinelli-d-autres-elus-locaux-condamnes-888736",
+    "date": "2023-11-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1353,
+        "value": "Gérard Spinelli"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
     "id": 1435,
     "titre": "Procès Bygmalion : un an de prison avec sursis requis contre Nicolas Sarkozy",
     "contenu": "Un an de prison avec sursis a été requis jeudi 30 novembre contre Nicolas Sarkozy dans le procès en appel sur les dépenses excessives de sa campagne présidentielle perdue en 2012, pour lesquelles il a été condamné en première instance à un an d’emprisonnement ferme. Selon le ministère public, Nicolas Sarkozy « a enfreint en connaissance de cause la limitation légale des dépenses électorales ».",
@@ -152,6 +205,40 @@
       {
         "id": 1152012,
         "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1442,
+    "titre": "Deux cadres d’Emmaüs jugés pour détournement de fonds",
+    "contenu": "Deux cadres d’Emmaüs sont dans la tourmente. La disparition inexpliquée entre 2017 et 2023 de 57.000 euros des caisses de l’association dans le Tarn-et-Garonne a été au centre, mardi soir à Montauban, du procès pour détournement de fonds de deux responsables de l’association caritative et de leurs épouses.",
+    "url": "https://www.20minutes.fr/justice/4064508-20231129-tarn-garonne-deux-cadres-emmaus-juges-detournement-fonds",
+    "date": "2023-11-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151979,
+        "value": "82 - Tarn-et-Garonne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 119,
+        "value": "Emmaüs"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -249,6 +336,40 @@
     ]
   },
   {
+    "id": 1441,
+    "titre": "Une procédure judiciaire lancée contre une élue du Rayol-Canadel pour prise illégale d’intérêts",
+    "contenu": "À l’initiative d’opposants au maire du Rayol-Canadel, une procédure judiciaire a été lancée à l’encontre de Bettina de Ponfilly, 3e adjointe. Cette dernière est accusée d'avoir vendu un terrain communal à un prix nettement en dessous de celui appliqué sur le marché.",
+    "url": "https://www.varmatin.com/urbanisme/plainte-contre-une-elue-pour-prise-illegale-d-interets-888470",
+    "date": "2023-11-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151980,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1355,
+        "value": "Bettina de Ponfilly"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
+      }
+    ]
+  },
+  {
     "id": 1431,
     "titre": "Des bureaux parisiens de la région Auvergne-Rhône-Alpes et de l’association Régions de France ont été perquisitionnés lundi dans le cadre d’une enquête sur des « soupçons d’emplois fantômes »",
     "contenu": "Des perquisitions ont eu lieu, lundi 27 novembre, dans les bureaux de la région Auvergne-Rhône-Alpes, à Paris, mais aussi dans ceux de l’association Régions de France, dans le cadre de l’enquête du Parquet national financier (PNF) sur des soupçons d’emplois fictifs de quatre proches du président de région Laurent Wauquiez. Selon la cellule investigation de Radio France, les perquisitions ont été menées dans ces deux endroits « afin de recueillir les éléments relatifs aux prestations de travail de ces quatre agents ».",
@@ -332,9 +453,28 @@
     "url": "https://www.mediacites.fr/la-fabrique/national/2023/11/27/proces-baillons-le-promoteur-lyonnais-alila-condamne-pour-son-acharnement-contre-mediacites/",
     "date": "2023-11-27",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1354,
+        "value": "Hervé Legros"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 117,
+        "value": "Alila"
+      },
+      {
+        "id": 118,
+        "value": "Mediacités"
+      }
+    ],
     "categorie": [],
     "theme": [
       {
@@ -3608,9 +3748,32 @@
     "url": "https://www.20minutes.fr/paris/4048228-20230807-conflit-interets-bruno-maire-ecarte-sujets-lies-aeroports-paris",
     "date": "2023-08-10",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1356,
+        "value": "Augustin de Romanet"
+      },
+      {
+        "id": 1357,
+        "value": "Bruno Le Maire"
+      },
+      {
+        "id": 1358,
+        "value": "Sibylle Le Maire"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 120,
+        "value": "Aéroports de Paris (ADP)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -25610,6 +25773,20 @@
     "titre": "Une association au cœur de la campagne 2017 de Jean-Luc Mélenchon mise en examen pour « escroquerie aggravée »",
     "contenu": "",
     "url": "https://www.mediapart.fr/journal/france/220322/une-association-au-coeur-de-la-campagne-2017-de-jean-luc-melenchon-mise-en-examen-pour-escroquerie-aggrave",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1445,
+    "titre": "Une caisse noire et un parfum de corruption remettent en cause la privatisation d'ADP",
+    "contenu": "",
+    "url": "",
     "date": null,
     "etiquettes": "",
     "departement": [],
