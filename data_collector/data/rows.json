@@ -2266,7 +2266,12 @@
         "value": "Assemblée Nationale"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -2504,7 +2509,12 @@
       }
     ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [
       {
@@ -2573,7 +2583,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1362,
@@ -2604,9 +2619,19 @@
         "value": "Petit Bar"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1361,
@@ -2635,7 +2660,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1364,
@@ -2657,7 +2687,12 @@
       }
     ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [
       {
         "id": 1152022,
@@ -2679,8 +2714,18 @@
         "value": "67 - Bas-Rhin"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1331,
+        "value": "Eva Kaili"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -2688,7 +2733,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1366,
@@ -2703,11 +2753,30 @@
         "value": "31 - Haute-Garonne"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1332,
+        "value": "Frédéric Brasilès"
+      },
+      {
+        "id": 1333,
+        "value": "Julien Roumagnac"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
   },
   {
     "id": 1360,
@@ -2722,7 +2791,12 @@
         "value": "59 - Nord"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1334,
+        "value": "Martine Aubry"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -2731,7 +2805,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1359,
@@ -2746,7 +2825,12 @@
         "value": "93 - Seine-Saint-Denis"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1335,
+        "value": "Brigitte Marsigny"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -2755,7 +2839,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1358,
@@ -2764,17 +2853,37 @@
     "url": "https://www.francetvinfo.fr/politique/eric-dupond-moretti/le-proces-d-eric-dupont-moretti-juge-pour-prise-illegale-d-interet-se-tiendra-du-6-au-17-novembre_6061959.html",
     "date": "2023-09-18",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      }
+    ],
     "categorie": [
       {
-        "id": 1152014,
-        "value": "Actualité"
+        "id": 1152012,
+        "value": "Observatoire de la probité"
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1356,
@@ -2789,7 +2898,12 @@
         "value": "45 - Loiret"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1336,
+        "value": "Frank Supplisson"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -2798,7 +2912,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1357,
@@ -2813,8 +2932,30 @@
         "value": "21 - Côte-d'Or"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1337,
+        "value": "Didier Proriol"
+      },
+      {
+        "id": 1338,
+        "value": "Armelle Carrasco"
+      },
+      {
+        "id": 1339,
+        "value": "Stéphane Gaigné"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 108,
+        "value": "Ressources"
+      },
+      {
+        "id": 109,
+        "value": "A3PICS"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -2822,7 +2963,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1355,
@@ -2837,7 +2983,12 @@
         "value": "30 - Gard"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1341,
+        "value": "Julien Sanchez"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -2851,7 +3002,12 @@
         "value": "Usage des deniers publics"
       }
     ],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
   },
   {
     "id": 1354,
@@ -2866,7 +3022,12 @@
         "value": "59 - Nord"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1340,
+        "value": "Claude Merly"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -2875,7 +3036,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1351,
@@ -2884,9 +3050,32 @@
     "url": "https://www.francetvinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/affaire-ziad-takieddine-nicolas-sarkozy-convoque-dans-les-prochaines-semaines-en-vue-d-une-mise-en-examen_6047048.html",
     "date": "2023-09-11",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1184,
+        "value": "Ziad Takieddine"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains"
+      },
+      {
+        "id": 29,
+        "value": "Élysée"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -2894,7 +3083,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
+      }
+    ]
   },
   {
     "id": 1349,
@@ -2909,8 +3103,34 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1342,
+        "value": "Stéphane Fouks"
+      },
+      {
+        "id": 1343,
+        "value": "Henri Proglio"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 71,
+        "value": "Havas"
+      },
+      {
+        "id": 110,
+        "value": "Image 7"
+      },
+      {
+        "id": 111,
+        "value": "Messier & Associés"
+      },
+      {
+        "id": 112,
+        "value": "EDF"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -2918,7 +3138,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1352,
@@ -2927,9 +3152,24 @@
     "url": "https://www.francebleu.fr/infos/politique/le-maire-d-orange-yann-bompard-soupconne-d-emploi-fictif-9880600",
     "date": "2023-09-11",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151981,
+        "value": "84 - Vaucluse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1344,
+        "value": "Yann Bompard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 113,
+        "value": "Ligue du Sud"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -2937,7 +3177,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1350,
@@ -2946,7 +3191,12 @@
     "url": "https://www.liberation.fr/international/europe/parlement-europeen-michele-alliot-marie-soupconnee-demploi-fictif-20230911_WMSWGXLOLNFW7HHC4NFLWF5RBQ/?redirected=1",
     "date": "2023-09-11",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 1310,
@@ -2970,7 +3220,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
   },
   {
     "id": 1353,
@@ -2979,9 +3234,24 @@
     "url": "https://www.francetvinfo.fr/sante/drogue-addictions/enquete-quand-le-ministere-de-la-sante-retoque-deux-campagnes-de-prevention-sur-l-alcool_6054125.html",
     "date": "2023-09-11",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1345,
+        "value": "François Braun"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 114,
+        "value": "Ministère de la Santé"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -3003,9 +3273,28 @@
     "url": "https://www.francetvinfo.fr/faits-divers/justice-proces/affaire-squarcini-lvmh-l-ancien-patron-du-renseignement-interieur-renvoye-devant-le-tribunal-correctionnel-de-paris_6044876.html",
     "date": "2023-09-08",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1346,
+        "value": "Bernard Squarcini"
+      },
+      {
+        "id": 1347,
+        "value": "Franck Alioui"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 115,
+        "value": "LVMH"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -3013,7 +3302,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1347,
@@ -3457,8 +3751,8 @@
   {
     "id": 1307,
     "titre": "Annecy : l’élue Marion Lafarie, maire-adjointe en charge des mobilités, visée par une enquête pour prise illégale d’intérêts. En cause, son implication dans une société de livraison à vélo, alors qu’elle est élue en charge des problématiques de mobilité.",
-    "contenu": "",
-    "url": "https://www.lanouvellerepublique.fr/a-la-une/isabelle-adjani-l-actrice-au-coeur-de-scandales-financiers",
+    "contenu": "Maire-adjointe en charge des mobilités, Marion Lafarie, proche de François Astorg, fait l’objet d’une enquête préliminaire ouverte ce lundi 17 juillet 2023 par le parquet d’Annecy. En cause, son implication dans une société de livraison à vélo, alors qu’elle est élue en charge des problématiques de mobilité.",
+    "url": "https://lessorsavoyard.lemessager.fr/649301250/article/2023-07-18/annecy-l-elue-marion-lafarie-visee-par-une-enquete-pour-prise-illegale-d",
     "date": "2023-07-23",
     "etiquettes": "",
     "departement": [],
@@ -3471,8 +3765,8 @@
   {
     "id": 1308,
     "titre": "Fraude fiscale, blanchiment d’argent, escroquerie… L’actrice Isabelle Adjani est au cœur d’affaires judiciaires.",
-    "contenu": "",
-    "url": "https://www.nicematin.com/politique/affaire-paganin-perquisition-a-la-mairie-d-auribeau-ce-jeudi-matin--862337",
+    "contenu": "L’actrice aux cinq César, Isabelle Adjani, connue pour ses rôles dans L’été meurtrier (1983), La Reine Margot (1994) ou plus récemment Mascarade (2022), sera jugée le 19 octobre 2023 par le tribunal correctionnel de Paris pour fraude fiscale et blanchiment.",
+    "url": "https://www.lanouvellerepublique.fr/a-la-une/isabelle-adjani-l-actrice-au-coeur-de-scandales-financiers",
     "date": "2023-07-23",
     "etiquettes": "",
     "departement": [],
