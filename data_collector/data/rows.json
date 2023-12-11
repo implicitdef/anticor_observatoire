@@ -1753,7 +1753,7 @@
     ],
     "personnes_morales": [
       {
-        "id": 33,
+        "id": 76,
         "value": "Anticor"
       }
     ],
@@ -3316,27 +3316,30 @@
     "url": "https://www.mediapart.fr/journal/france/060923/les-bongo-de-foccart-dupond-moretti-un-demi-siecle-d-argent-et-de-francafrique",
     "date": "2023-09-06",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [
+    "departement": [
       {
-        "id": 1152014,
-        "value": "Actualité"
+        "id": 1151970,
+        "value": "75 - Paris"
       }
     ],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1346,
-    "titre": "Escroquerie au CPF : des agents de La Poste soupçonnés de corruption",
-    "contenu": "Des agents de La Poste sont soupçonnés de corruption dans le cadre d'une escroquerie au Compte personnel de formation (CPF), indique une note confidentielle de la police.",
-    "url": "https://www.capital.fr/economie-politique/escroquerie-au-cpf-des-agents-de-la-poste-soupconnes-de-corruption-1478080",
-    "date": "2023-09-04",
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      },
+      {
+        "id": 1348,
+        "value": "Jacques Foccart"
+      },
+      {
+        "id": 1349,
+        "value": "Omar Bongo"
+      },
+      {
+        "id": 1350,
+        "value": "Robert Bourgi"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -3355,8 +3358,18 @@
     "date": "2023-09-01",
     "etiquettes": "",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1196,
+        "value": "Filippo Noseda"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 38,
+        "value": "Mishcon de Reya"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -3372,15 +3385,54 @@
     "procedure": []
   },
   {
+    "id": 1346,
+    "titre": "Un nouveau type d'escroquerie au CPF détecté, des agents de La Poste soupçonnés de corruption",
+    "contenu": "Les escrocs spécialisés dans le détournement de CPF, le Compte personnel de formation, ont développé un nouveau mode opératoire depuis quelque temps. Ils se tournent désormais vers des agents de la Poste.",
+    "url": "https://www.francetvinfo.fr/economie/fraude/des-agents-de-la-poste-recrutes-par-des-escrocs-au-compte-cpf-la-nouvelle-arnaque-du-moment_6037550.html",
+    "date": "2023-09-01",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 116,
+        "value": "La Poste"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1342,
-    "titre": "Campagne 2007 de Nicolas Sarkozy: Éric Woerth également renvoyé en correctionnelle",
+    "titre": "Campagne 2007 de Nicolas Sarkozy : Éric Woerth également renvoyé en correctionnelle",
     "contenu": "Dix-huit ans après, le député de l’Oise comparaîtra au côté de l’ancien chef d’État en 2025. Il était trésorier de la campagne 2007 de Nicolas Sarkozy pour laquelle des fonds publics libyens auraient été utilisés.",
     "url": "https://www.courrier-picard.fr/id443426/article/2023-08-27/campagne-2007-de-nicolas-sarkozy-eric-woerth-egalement-renvoye-en",
     "date": "2023-08-30",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151959,
+        "value": "60 - Oise"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 595,
+        "value": "Éric Woerth"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -3388,7 +3440,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1343,
@@ -3397,9 +3454,24 @@
     "url": "https://www.lequipe.fr/Tous-sports/Article/Le-directeur-general-delegue-de-paris-2024-vise-par-une-plainte-pour-favoritisme-et-trafic-d-influence/1416670",
     "date": "2023-08-30",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1187,
+        "value": "Sébastien Chesbeuf"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 8,
+        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -3407,7 +3479,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
+      }
+    ]
   },
   {
     "id": 1344,
@@ -3416,9 +3493,19 @@
     "url": "https://www.lalettrea.fr/medias_plateformes/2023/08/30/netflix-vise-par-un-controle-fiscal-en-france,110037479-eve",
     "date": "2023-08-30",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 35,
+        "value": "Netflix"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -3435,13 +3522,27 @@
   },
   {
     "id": 1341,
-    "titre": "Enquête pour \"détournements de fonds publics\" à la Métropole Nice Côte d'Azur: tout est parti de la Tinée",
+    "titre": "Enquête pour \"détournements de fonds publics\" à la Métropole Nice Côte d'Azur : tout est parti de la Tinée",
     "contenu": "L’enquête pour \"détournements de fonds publics\" de la Métropole est partie d’une alerte à St-Etienne-de-Tinée. Au centre : l’ancien responsable et époux de la maire, Jean-Marie Fabron.",
     "url": "https://www.nicematin.com/justice/enquete-a-la-metropole-tout-est-parti-de-la-tinee-868420",
     "date": "2023-08-25",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1351,
+        "value": "Jean-Marie Fabron"
+      },
+      {
+        "id": 1352,
+        "value": "Colette Fabron"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -3461,7 +3562,12 @@
     "etiquettes": "",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -3554,7 +3660,7 @@
   },
   {
     "id": 1335,
-    "titre": "Caisse locale des retraites : des mairies visées par une enquête pour détournement de fonds publics - Nouvelle-Calédonie la 1ère",
+    "titre": "Caisse locale des retraites : des mairies visées par une enquête pour détournement de fonds publics",
     "contenu": "Dans une situation financière critique, la Caisse locale de retraites a-t-elle été flouée par des employeurs publics comme des municipalités ou des établissements hospitaliers ? La justice se pose la question. Des investigations sont en cours.",
     "url": "https://la1ere.francetvinfo.fr/nouvellecaledonie/caisse-locale-des-retraites-des-mairies-visees-par-une-enquete-pour-detournement-de-fonds-publics-1418219.html",
     "date": "2023-08-03",
@@ -3562,9 +3668,19 @@
     "departement": [],
     "personnalites": [],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1334,
