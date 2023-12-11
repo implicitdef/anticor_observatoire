@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="px-4 py-28">
+    <div className="px-4 py-28">
       <h1 className="text-6xl font-bold mb-10">
         Page d'accueil France Corruption
       </h1>
@@ -13,6 +13,6 @@ export default function Home() {
         occaecat cupidatat non proident, sunt in culpa qui officia deserunt
         mollit anim id est laborum.
       </p>
-    </main>
+    </div>
   );
 }
