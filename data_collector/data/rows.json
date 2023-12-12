@@ -1,12 +1,51 @@
 [
   {
+    "id": 1446,
+    "titre": "Soupçons de trafic de logements sociaux chez Grand Lyon Habitat",
+    "contenu": "Le parquet de Lyon enquête depuis plusieurs mois sur un possible système de location illicite au sein du bailleur social Grand Lyon Habitat. Deux salariés de l'agence des Etats-Unis, dans le 8e arrondissement de Lyon, ont été interpellés par la police mi-novembre.",
+    "url": "https://www.mediacites.fr/breve/lyon/2023/12/04/soupcons-de-trafic-de-logements-sociaux-chez-grand-lyon-habitat/",
+    "date": "2023-12-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 123,
+        "value": "Grand Lyon Habitat"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
+  },
+  {
     "id": 1444,
     "titre": "Dans les cabinets ministériels du macronisme, le grand appel d’air vers le secteur privé",
     "contenu": "Un an et demi seulement après la réélection du chef de l’Etat, de nombreux collaborateurs quittent déjà leurs fonctions. Fatigue, manque d’enthousiasme, proximité avec le monde des affaires, peur du vide de l’après-Macron : les raisons multiples de ce phénomène dessinent un pouvoir qui s’essouffle.",
     "url": "https://www.liberation.fr/politique/dans-les-cabinets-ministeriels-du-macronisme-le-grand-appel-dair-du-secteur-prive-20231204_6RNUHTQ7UJGSXOEMKKTDES6SMI/",
     "date": "2023-12-04",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [
@@ -17,6 +56,77 @@
     ],
     "theme": [],
     "procedure": []
+  },
+  {
+    "id": 1447,
+    "titre": "Le parquet de Paris enquête sur un possible abus de confiance à la Banque de France",
+    "contenu": "L'ACPR, le superviseur bancaire adossé à la Banque de France, a porté plainte après la découverte d'importantes dépenses non justifiées dans les comptes de son CSE. Le parquet de Paris a confié l'enquête à la brigade de répression de la délinquance astucieuse.",
+    "url": "https://www.lalettre.fr/fr/entreprises_finance/2023/12/04/le-parquet-de-paris-enquete-sur-un-possible-abus-de-confiance-a-la-banque-de-france,110114707-art",
+    "date": "2023-12-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 124,
+        "value": "Banque de France"
+      },
+      {
+        "id": 125,
+        "value": "Autorité de contrôle prudentiel et de résolution (ACPR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1448,
+    "titre": "Quand un conseiller de Jean-Luc Moudenc émarge à France 3 Occitanie",
+    "contenu": "Élu municipal à Toulouse, le journaliste Thierry Sentous a aussi été le conseiller aéronautique du maire Jean-Luc Moudenc pendant six ans. Alors qu'il continue à cultiver les liens de la Métropole avec la filière, il couvre l'actualité du secteur sur France 3 Occitanie.",
+    "url": "https://www.lalettre.fr/fr/medias_audiovisuel/2023/12/04/quand-un-conseiller-de-jean-luc-moudenc-emarge-a-france-3-occitanie,110114681-art",
+    "date": "2023-12-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151845,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1363,
+        "value": "Jean-Luc Moudenc"
+      },
+      {
+        "id": 1364,
+        "value": "Thierry Sentous"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
   },
   {
     "id": 1438,
