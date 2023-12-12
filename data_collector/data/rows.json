@@ -1,5 +1,73 @@
 [
   {
+    "id": 1449,
+    "titre": "Air France-KLM : Florence Parly en piste pour la présidence du conseil d'administration",
+    "contenu": "Neuf ans après avoir claqué la porte d'Air France pour partir à la SNCF, Florence Parly s'apprête à revenir par la grande porte chez Air France-KLM. A 60 ans, l'ex-ministre des Armées a été cooptée par le conseil d'administration d'Air France-KLM, jeudi, pour reprendre le fauteuil d'administrateur d'Isabelle Parize dès le printemps prochain.",
+    "url": "https://www.lesechos.fr/industrie-services/tourisme-transport/air-france-klm-florence-parly-en-piste-pour-la-presidence-du-conseil-dadministration-2040231",
+    "date": "2023-12-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1365,
+        "value": "Florence Parly"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 127,
+        "value": "Ministère des armées"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1451,
+    "titre": "L’ancien ministre Jean-Christophe Combe nommé directeur général d’une agence de communication à Paris",
+    "contenu": "Plus de quatre mois après sa non-reconduction au ministère des Solidarités, de l’Autonomie et des Personnes handicapées (entre le 4 juillet 2022 et le 20 juillet 2023), Jean-Christophe Combe vient d’être nommé directeur général de l’agence de communication Voix Publique, basée à Paris.",
+    "url": "https://www.lunion.fr/id546109/article/2023-12-05/lancien-ministre-jean-christophe-combe-nomme-directeur-general-dune-agence-de",
+    "date": "2023-12-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1367,
+        "value": "Jean-Christophe Combe"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 128,
+        "value": "Voix Publique"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1446,
     "titre": "Soupçons de trafic de logements sociaux chez Grand Lyon Habitat",
     "contenu": "Le parquet de Lyon enquête depuis plusieurs mois sur un possible système de location illicite au sein du bailleur social Grand Lyon Habitat. Deux salariés de l'agence des Etats-Unis, dans le 8e arrondissement de Lyon, ont été interpellés par la police mi-novembre.",
@@ -779,6 +847,40 @@
         "value": "Usage des deniers publics"
       }
     ],
+    "procedure": []
+  },
+  {
+    "id": 1450,
+    "titre": "Jean-François Carenco nommé président délégué de Federec",
+    "contenu": "Federec a annoncé, ce mardi 21 novembre, la nomination de l’ancien ministre chargé des Outre-Mer Jean-François Carenco au poste de président délégué. L’ancien haut fonctionnaire, passé par la présidence de la Commission de régulation de l’énergie, aura pour principale mission de coordonner les acteurs de la filière du recyclage et de porter leur voix auprès des pouvoirs publics.",
+    "url": "https://www.aefinfo.fr/depeche/702979-jean-francois-carenco-nomme-president-delegue-de-federec",
+    "date": "2023-11-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1366,
+        "value": "Jean-François Carenco"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 126,
+        "value": "Fédération professionnelle des entreprises du recyclage (Federec)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [],
     "procedure": []
   },
   {
@@ -4169,21 +4271,7 @@
     "id": 1311,
     "titre": "Jean-Luc Pallin, maire puis conseiller municipal du Temple, près de Bordeaux, a été démis de ses fonctions le 13 juillet après avoir été condamné pour \"faux\" et \"favoritisme\".",
     "contenu": "",
-    "url": "https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/un-policier-soupconne-d-avoir-ete-corrompu-par-un-trafiquant-de-drogue-ecroue-2814584.html",
-    "date": "2023-07-23",
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1309,
-    "titre": "Les gendarmes de la section de recherche de Fréjus-Marseille ont perquisitionné la mairie d’Auribeau jeudi. Le Parquet de Grasse a ouvert une enquête pour prise illégale d’intérêts dans l’affaire Paganin, où la maire Michèle Paganin est prise à partie.",
-    "contenu": "",
-    "url": "https://www.marianne.net/economie/soupcons-de-prise-illegale-dinterets-a-la-bpi-la-cour-des-comptes-transmet-au-pnf",
+    "url": "https://actu.fr/nouvelle-aquitaine/le-temple_33528/pres-de-bordeaux-un-elu-doublement-condamne-par-la-justice-demis-de-ses-fonctions_59864579.html",
     "date": "2023-07-23",
     "etiquettes": "",
     "departement": [],
@@ -4208,10 +4296,24 @@
     "procedure": []
   },
   {
+    "id": 1309,
+    "titre": "Soupçon de prise illégale d'intérêts: perquisition ce jeudi matin à la mairie d’Auribeau",
+    "contenu": "Les gendarmes de la section de recherche de Fréjus-Marseille ont perquisitionné la mairie d’Auribeau ce jeudi matin. Le Parquet de Grasse a ouvert une enquête pour prise illégale d’intérêts dans l’affaire Paganin, où la maire Michèle Paganin est prise à partie par nombre de contradicteurs.",
+    "url": "https://www.nicematin.com/politique/affaire-paganin-perquisition-a-la-mairie-d-auribeau-ce-jeudi-matin--862337",
+    "date": "2023-07-23",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1310,
     "titre": "Soupçons de prise illégale d'intérêts à la BPI : la Cour des comptes transmet le dossier au Parquet National Financier.",
-    "contenu": "",
-    "url": "https://actu.fr/nouvelle-aquitaine/le-temple_33528/pres-de-bordeaux-un-elu-doublement-condamne-par-la-justice-demis-de-ses-fonctions_59864579.html",
+    "contenu": "Après s’être inquiétée de « questions déontologiques » dans un récent rapport dédié aux activités d’investissements de la banque publique, la Cour des comptes vient de transmettre le dossier au PNF.",
+    "url": "https://www.marianne.net/economie/soupcons-de-prise-illegale-dinterets-a-la-bpi-la-cour-des-comptes-transmet-au-pnf",
     "date": "2023-07-23",
     "etiquettes": "",
     "departement": [],
@@ -4225,7 +4327,7 @@
     "id": 1312,
     "titre": "Un policier soupçonné d'avoir été corrompu pour informer un trafiquant de drogue sur de prochaines opérations policières lorsqu'il travaillait à la PJ de Seine-Saint-Denis. Il a été écroué fin juin.",
     "contenu": "",
-    "url": "https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/plusieurs-charges-abandonnees-contre-le-maire-de-tarbes-qui-devra-tout-de-meme-se-justifier-de-favoritisme-devant-la-justice-2815865.html",
+    "url": "https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/un-policier-soupconne-d-avoir-ete-corrompu-par-un-trafiquant-de-drogue-ecroue-2814584.html",
     "date": "2023-07-23",
     "etiquettes": "",
     "departement": [],
