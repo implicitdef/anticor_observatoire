@@ -93,6 +93,67 @@
     ]
   },
   {
+    "id": 1466,
+    "titre": "Affaire des assistants du FN au Parlement européen : Marine Le Pen et 26 autres personnes seront jugées pour détournement de fonds publics",
+    "contenu": "Marine Le Pen et plusieurs autres personnes sont accusées d'avoir salarié avec des fonds européens des collaborateurs qui travaillaient en réalité pour le Front national.",
+    "url": "https://www.francetvinfo.fr/politique/front-national/affaire-des-assistants-du-fn-au-parlement-europeen-marine-le-pen-et-une-vingtaine-d-autres-personnes-renvoyees-en-correctionnel-pour-detournement-de-fonds-publics_6230829.html",
+    "date": "2023-12-08",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [
+      {
+        "id": 335,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 433,
+        "value": "Julien Odoul"
+      },
+      {
+        "id": 1292,
+        "value": "Jean-Marie Le Pen"
+      },
+      {
+        "id": 1321,
+        "value": "Louis Aliot"
+      },
+      {
+        "id": 1322,
+        "value": "Bruno Gollnisch"
+      },
+      {
+        "id": 1323,
+        "value": "Nicolas Bay"
+      },
+      {
+        "id": 1324,
+        "value": "Wallerand de Saint-Just"
+      },
+      {
+        "id": 1325,
+        "value": "Fernand Le Rachinel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National"
+      },
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1449,
     "titre": "Air France-KLM : Florence Parly en piste pour la présidence du conseil d'administration",
     "contenu": "Neuf ans après avoir claqué la porte d'Air France pour partir à la SNCF, Florence Parly s'apprête à revenir par la grande porte chez Air France-KLM. A 60 ans, l'ex-ministre des Armées a été cooptée par le conseil d'administration d'Air France-KLM, jeudi, pour reprendre le fauteuil d'administrateur d'Isabelle Parize dès le printemps prochain.",
@@ -121,6 +182,212 @@
       {
         "id": 1152013,
         "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1465,
+    "titre": "Comment le RN fait la cour aux lobbys du bâtiment, du tabac ou de la santé",
+    "contenu": "A rebours de leur discours en faveur des catégories populaires, les députés du parti d’extrême droite relaient les demandes des industriels de plusieurs secteurs.",
+    "url": "https://www.lemonde.fr/politique/article/2023/12/08/le-discret-flirt-entre-le-rassemblement-national-et-les-lobbys_6204574_823448.html",
+    "date": "2023-12-08",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1467,
+    "titre": "Est-ce bien aux contribuables de payer les avocats et la communication des ministres en procès ?",
+    "contenu": "Le ministère de la justice refuse d’indiquer si l’État a pris en charge les frais liés à la défense d’Éric Dupond-Moretti, qui, au vu des honoraires pratiqués dans ce type d’affaire, pourraient s’élever à au moins quelques centaines de milliers d’euros. Même silence au sein du cabinet d’Olivier Dussopt, qui a organisé la communication du ministre du travail avant son procès.",
+    "url": "https://www.mediapart.fr/journal/france/081223/est-ce-bien-aux-contribuables-de-payer-les-avocats-et-la-communication-des-ministres-en-proces",
+    "date": "2023-12-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1234,
+        "value": "Olivier Dussopt"
+      },
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 51,
+        "value": "Ministère du travail"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152022,
+        "value": "Usage des deniers publics"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1464,
+    "titre": "« Qatargate » : après les 800 000 euros en cash, les SMS compromettants d’Eva Kaili",
+    "contenu": "L’eurodéputée et ancienne vice-présidente du Parlement européen, inculpée pour « corruption » dans l’affaire du « Qatargate », a mené une campagne d’influence en faveur de l’émirat à Bruxelles, en lien direct avec les lobbyistes occultes et deux ministres du Qatar. Elle dément avoir été téléguidée.",
+    "url": "https://www.mediapart.fr/journal/international/081223/qatargate-apres-les-800-000-euros-en-cash-les-sms-compromettants-d-eva-kaili",
+    "date": "2023-12-08",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [
+      {
+        "id": 1331,
+        "value": "Eva Kaili"
+      },
+      {
+        "id": 1380,
+        "value": "Francesco Giorgi"
+      },
+      {
+        "id": 1381,
+        "value": "Antonio Panzeri"
+      },
+      {
+        "id": 1382,
+        "value": "Mohammed al-Thani"
+      },
+      {
+        "id": 1383,
+        "value": "Ali al-Marri"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
+  },
+  {
+    "id": 1463,
+    "titre": "Les ports français infiltrés par la mafia de la drogue",
+    "contenu": "Le ministre délégué aux Comptes publics, Thomas Cazenave, annonce le redéploiement à terme de centaines de douaniers et l’installation de scanners mobiles pour faire face à la corruption qui gagne les ports français.",
+    "url": "https://www.leparisien.fr/faits-divers/les-ports-francais-infiltres-par-la-mafia-de-la-drogue-nous-devons-etre-a-la-hauteur-de-la-menace-07-12-2023-W4N4LWDXGVHFLN7FSNAC2CKLEA.php?ts=1702468191021",
+    "date": "2023-12-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151974,
+        "value": "76 - Seine-Maritime"
+      },
+      {
+        "id": 1151958,
+        "value": "59 - Nord"
+      },
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1379,
+        "value": "Thomas Cazenave"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 143,
+        "value": "Office européen des drogues et toxicomanies"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1195707,
+        "value": "Mafia"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1462,
+    "titre": "La banque LCL embarrassée par un conflit d'intérêts au tribunal de commerce de Lyon",
+    "contenu": "Un ancien salarié d'une filiale de LCL a jugé une affaire mettant en cause la banque alors que les règles de déontologie l'obligeaient à se déporter. Une enquête préliminaire a été ouverte pour \"trafic d'influence\" et \"prise illégale d'intérêts\".",
+    "url": "https://www.lalettre.fr/fr/entreprises_finance/2023/12/06/la-banque-lcl-embarrassee-par-un-conflit-d-interets-au-tribunal-de-commerce-de-lyon,110116412-art",
+    "date": "2023-12-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 142,
+        "value": "LCL"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -163,6 +430,48 @@
       }
     ],
     "procedure": []
+  },
+  {
+    "id": 1461,
+    "titre": "Subventions à Ryanair : des perquisitions menées à Charentes Tourisme",
+    "contenu": "Les gendarmes de la section de recherches de Bordeaux ont mené des perquisitions à la CCI 17, l'aéroport, les locaux de Charentes Tourisme et le bureau du maire de Châtelaillon. Une opération menée dans le cadre de l'enquête sur un détournement présumé de subventions au profit de Ryanair.",
+    "url": "https://www.francebleu.fr/infos/economie-social/subventions-a-ryanair-des-perquisitions-menees-a-charentes-tourisme-par-la-brigade-financiere-5664915",
+    "date": "2023-12-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151712,
+        "value": "16 - Charente"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1378,
+        "value": "Stéphane Villain"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 139,
+        "value": "Charente tourisme"
+      },
+      {
+        "id": 140,
+        "value": "CCI Charente-Maritime"
+      },
+      {
+        "id": 141,
+        "value": "Ryanair"
+      }
+    ],
+    "categorie": [],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1456,
@@ -534,6 +843,49 @@
       }
     ],
     "procedure": []
+  },
+  {
+    "id": 1459,
+    "titre": "Manche numérique : la cour d’appel confirme la relaxe des anciens dirigeants",
+    "contenu": "La cour d’appel de Caen (Calvados) a confirmé la relaxe de Marc Lefèvre et Serge Deslandes, anciens présidents du département de la Manche et de Manche Numérique, vendredi 1er décembre 2023. Tous deux avaient été poursuivis pour favoritisme.",
+    "url": "https://www.ouest-france.fr/normandie/manche/manche-numerique-la-cour-dappel-confirme-la-relaxe-des-anciens-dirigeants-e78aa178-905c-11ee-8602-1e868188f4e2",
+    "date": "2023-12-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151711,
+        "value": "14 - Calvados"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1376,
+        "value": "Marc Lefèvre"
+      },
+      {
+        "id": 1377,
+        "value": "Serge Deslandes"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 138,
+        "value": "Manche numérique"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
   },
   {
     "id": 1457,
@@ -4204,8 +4556,22 @@
     "url": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/anticor-denonce-la-gestion-en-eaux-troubles-des-ports-de-la-cote-d-azur-2827034.html",
     "date": "2023-08-20",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1151980,
+        "value": "83 - Var"
+      },
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1387,
+        "value": "Kevin Luciano"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 76,
@@ -4233,9 +4599,36 @@
     "url": "https://actu.fr/ile-de-france/puteaux_92062/affaire-des-chaufferies-de-la-defense-pas-de-proces-pour-les-deux-principaux-prevenus_59974443.html",
     "date": "2023-08-19",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1178,
+        "value": "Jean Bonnefont"
+      },
+      {
+        "id": 1179,
+        "value": "Bernard Forterre"
+      },
+      {
+        "id": 1191,
+        "value": "Charles Ceccaldi-Raynaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 31,
+        "value": "Charbonnages de France"
+      },
+      {
+        "id": 101,
+        "value": "Compagnie générale des eaux"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -4294,9 +4687,24 @@
     "url": "https://www.mediapart.fr/journal/international/080823/le-numero-d-equilibriste-de-patrick-drahi-pour-seduire-le-monde-financier",
     "date": "2023-08-08",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1384,
+        "value": "Patrick Drahi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 144,
+        "value": "Altice"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -4313,7 +4721,12 @@
     "url": "https://www.lemonde.fr/societe/article/2023/08/04/affaire-dupond-moretti-les-magistrats-mis-en-cause-par-le-ministre-de-la-justice-veulent-temoigner-a-son-proces_6184442_3224.html",
     "date": "2023-08-04",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [
@@ -4332,9 +4745,19 @@
     "url": "https://la1ere.francetvinfo.fr/nouvellecaledonie/caisse-locale-des-retraites-des-mairies-visees-par-une-enquete-pour-detournement-de-fonds-publics-1418219.html",
     "date": "2023-08-03",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151996,
+        "value": "98 - Nouvelle Calédonie"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 145,
+        "value": "Caisse locale de retraites"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -4356,10 +4779,30 @@
     "url": "https://www.streetpress.com/sujet/1690795208-altice-patrick-drahi-magouilles-bras-droit-armando-pereira-portugal-evasion-fiscale",
     "date": "2023-08-01",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1384,
+        "value": "Patrick Drahi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 144,
+        "value": "Altice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -4370,12 +4813,32 @@
     "url": "https://www.parismatch.com/actu/societe/adrien-labi-enquete-sur-linvestisseur-qui-voulait-faire-main-basse-sur-paris-227812",
     "date": "2023-07-30",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1385,
+        "value": "Adrien Labi"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1331,
@@ -4384,12 +4847,32 @@
     "url": "https://la1ere.francetvinfo.fr/martinique/le-maire-de-bellefontaine-condamne-a-deux-ans-d-ineligibilite-et-dix-mille-euros-d-amende-1417265.html",
     "date": "2023-07-30",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1151991,
+        "value": "972 - Martinique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1386,
+        "value": "Felix Ismain"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1333,
@@ -4560,10 +5043,10 @@
     "procedure": []
   },
   {
-    "id": 1311,
-    "titre": "Jean-Luc Pallin, maire puis conseiller municipal du Temple, près de Bordeaux, a été démis de ses fonctions le 13 juillet après avoir été condamné pour \"faux\" et \"favoritisme\".",
+    "id": 1313,
+    "titre": "Plusieurs charges abandonnées contre le maire de Tarbes, Gérard Trémège, qui devra tout de même se justifier de favoritisme devant la justice.",
     "contenu": "",
-    "url": "https://actu.fr/nouvelle-aquitaine/le-temple_33528/pres-de-bordeaux-un-elu-doublement-condamne-par-la-justice-demis-de-ses-fonctions_59864579.html",
+    "url": "https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/plusieurs-charges-abandonnees-contre-le-maire-de-tarbes-qui-devra-tout-de-meme-se-justifier-de-favoritisme-devant-la-justice-2815865.html",
     "date": "2023-07-23",
     "etiquettes": "",
     "departement": [],
@@ -4574,13 +5057,18 @@
     "procedure": []
   },
   {
-    "id": 1313,
-    "titre": "Plusieurs charges abandonnées contre le maire de Tarbes, Gérard Trémège, qui devra tout de même se justifier de favoritisme devant la justice.",
-    "contenu": "",
-    "url": "https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/plusieurs-charges-abandonnees-contre-le-maire-de-tarbes-qui-devra-tout-de-meme-se-justifier-de-favoritisme-devant-la-justice-2815865.html",
+    "id": 1311,
+    "titre": "Près de Bordeaux, un élu doublement condamné par la justice démis de ses fonctions",
+    "contenu": "Jean-Luc Pallin, maire puis conseiller municipal du Temple, près de Bordeaux, a été démis de ses fonctions le 13 juillet 2023 après avoir été condamné pour \"faux\" et \"favoritisme\".",
+    "url": "https://actu.fr/nouvelle-aquitaine/le-temple_33528/pres-de-bordeaux-un-elu-doublement-condamne-par-la-justice-demis-de-ses-fonctions_59864579.html",
     "date": "2023-07-23",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151847,
+        "value": "33 - Gironde"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
@@ -4608,12 +5096,41 @@
     "url": "https://www.marianne.net/economie/soupcons-de-prise-illegale-dinterets-a-la-bpi-la-cour-des-comptes-transmet-au-pnf",
     "date": "2023-07-23",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1264,
+        "value": "Nicolas Dufourcq"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 62,
+        "value": "Bpifrance"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1312,
@@ -8669,8 +9186,30 @@
         "value": "92 - Hauts-de-Seine"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1178,
+        "value": "Jean Bonnefont"
+      },
+      {
+        "id": 1179,
+        "value": "Bernard Forterre"
+      },
+      {
+        "id": 1191,
+        "value": "Charles Ceccaldi-Raynaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 31,
+        "value": "Charbonnages de France"
+      },
+      {
+        "id": 101,
+        "value": "Compagnie générale des eaux"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -10408,8 +10947,30 @@
         "value": "92 - Hauts-de-Seine"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1178,
+        "value": "Jean Bonnefont"
+      },
+      {
+        "id": 1179,
+        "value": "Bernard Forterre"
+      },
+      {
+        "id": 1191,
+        "value": "Charles Ceccaldi-Raynaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 31,
+        "value": "Charbonnages de France"
+      },
+      {
+        "id": 101,
+        "value": "Compagnie générale des eaux"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -23975,8 +24536,30 @@
         "value": "92 - Hauts-de-Seine"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1178,
+        "value": "Jean Bonnefont"
+      },
+      {
+        "id": 1179,
+        "value": "Bernard Forterre"
+      },
+      {
+        "id": 1191,
+        "value": "Charles Ceccaldi-Raynaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 31,
+        "value": "Charbonnages de France"
+      },
+      {
+        "id": 101,
+        "value": "Compagnie générale des eaux"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -24107,20 +24690,6 @@
     "url": "https://www.mediapart.fr/journal/france/070121/quand-emmanuel-macron-pietine-les-autorites-administratives-independantes",
     "date": "2021-01-07",
     "etiquettes": "Laure de la Raudière,Orange",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1430,
-    "titre": "",
-    "contenu": "",
-    "url": "",
-    "date": null,
-    "etiquettes": "",
     "departement": [],
     "personnalites": [],
     "personnes_morales": [],
@@ -26384,20 +26953,6 @@
     "titre": "Une association au cœur de la campagne 2017 de Jean-Luc Mélenchon mise en examen pour « escroquerie aggravée »",
     "contenu": "",
     "url": "https://www.mediapart.fr/journal/france/220322/une-association-au-coeur-de-la-campagne-2017-de-jean-luc-melenchon-mise-en-examen-pour-escroquerie-aggrave",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1445,
-    "titre": "Une caisse noire et un parfum de corruption remettent en cause la privatisation d'ADP",
-    "contenu": "",
-    "url": "",
     "date": null,
     "etiquettes": "",
     "departement": [],
