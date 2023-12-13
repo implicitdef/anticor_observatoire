@@ -1,5 +1,98 @@
 [
   {
+    "id": 1458,
+    "titre": "Les chauffeurs de la République au service de la famille de la ministre Grandjean",
+    "contenu": "Les chauffeurs de la ministre chargée de la formation professionnelle se sont plaints auprès de l’administration que leur mission de service public soit souvent transformée en mission de services privés. La ministre rétorque que ce sont les chauffeurs eux-mêmes qui proposent de dépanner.",
+    "url": "https://www.mediapart.fr/journal/france/131223/les-chauffeurs-de-la-republique-au-service-de-la-famille-de-la-ministre-grandjean",
+    "date": "2023-12-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1375,
+        "value": "Carole Grandjean"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152022,
+        "value": "Usage des deniers publics"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1452,
+    "titre": "Favoritisme dans l’armée : des haut gradés et un sous-traitant jugés en septembre",
+    "contenu": "De haut gradés bientôt devant la justice financière : un général, un colonel et d’autres militaires seront jugés en septembre 2024 avec une société sous-traitante de la logistique des opérations extérieures (Opex) des années 2010 pour des soupçons de corruption et de favoritisme.",
+    "url": "https://www.mediapart.fr/journal/fil-dactualites/121223/favoritisme-dans-l-armee-des-haut-grades-et-un-sous-traitant-juges-en-septembre",
+    "date": "2023-12-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1368,
+        "value": "Philippe Rives"
+      },
+      {
+        "id": 1369,
+        "value": "Philippe Boussard"
+      },
+      {
+        "id": 1370,
+        "value": "Philippe Boussard"
+      },
+      {
+        "id": 1371,
+        "value": "Christophe Marie"
+      },
+      {
+        "id": 1372,
+        "value": "Philippe de Jonquières"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 127,
+        "value": "Ministère des armées"
+      },
+      {
+        "id": 129,
+        "value": "International Chartering Systems"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
     "id": 1449,
     "titre": "Air France-KLM : Florence Parly en piste pour la présidence du conseil d'administration",
     "contenu": "Neuf ans après avoir claqué la porte d'Air France pour partir à la SNCF, Florence Parly s'apprête à revenir par la grande porte chez Air France-KLM. A 60 ans, l'ex-ministre des Armées a été cooptée par le conseil d'administration d'Air France-KLM, jeudi, pour reprendre le fauteuil d'administrateur d'Isabelle Parize dès le printemps prochain.",
@@ -31,6 +124,86 @@
       }
     ],
     "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1453,
+    "titre": "Quand Binance donne des formations cryptos aux chômeurs français et leur fait ouvrir un compte",
+    "contenu": "Une enquête du Financial Times révèle que la filiale française du géant des cryptomonnaies a cherché à acquérir des clients après les avoir formés aux enjeux de la blockchain.",
+    "url": "https://www.bfmtv.com/crypto/quand-binance-donne-des-formations-cryptos-aux-chomeurs-francais-et-leur-fait-ouvrir-un-compte_AV-202312060354.html",
+    "date": "2023-12-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 130,
+        "value": "Simplon"
+      },
+      {
+        "id": 131,
+        "value": "Binance"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1153329,
+        "value": "Cryptomonnaies"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1456,
+    "titre": "La confiscation obligatoire des biens mafieux adoptée à l’Assemblée nationale",
+    "contenu": "Mardi 5 décembre, l’Assemblée nationale a adopté à l’unanimité la proposition de loi pour améliorer le dispositif de confiscation des biens mafieux. Elle comprend un amendement rendant ces confiscations obligatoires. Une disposition que défend avec acharnement le collectif antimafia Massimu Susini depuis quatre ans.",
+    "url": "https://france3-regions.francetvinfo.fr/corse/la-confiscation-obligatoire-des-biens-mafieux-adoptee-a-l-assemblee-nationale-la-breche-est-ouverte-le-temps-du-deni-est-termine-2884757.html",
+    "date": "2023-12-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 135,
+        "value": "Massimu Susini"
+      },
+      {
+        "id": 136,
+        "value": "Agence de Gestion et de Recouvrement des Avoirs Saisis et Confisqués (AGRASC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1195707,
+        "value": "Mafia"
+      }
+    ],
     "procedure": []
   },
   {
@@ -98,6 +271,91 @@
       {
         "id": 1153422,
         "value": "Enquête"
+      }
+    ]
+  },
+  {
+    "id": 1455,
+    "titre": "Trafic d’antiquités : le Palais des beaux-arts de Lille rattrapé par le scandale",
+    "contenu": "Le musée a acquis en 2011 un portrait funéraire égyptien pour près de 100 000 euros avec l’aval du Louvre. Mais l’objet, dont la provenance s’est avérée douteuse, aurait été modifié visuellement. Saisi en mai 2023 dans la plus grande discrétion, il a été placé sous scellé judiciaire.",
+    "url": "https://www.liberation.fr/societe/police-justice/trafic-dantiquites-le-palais-des-beaux-arts-de-lille-rattrape-par-le-scandale-20231205_5VUFFHI625DW5EATYV6G345CJI/?redirected=1",
+    "date": "2023-12-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151958,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1373,
+        "value": "Christophe Kunicki"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 132,
+        "value": "Palais des beaux-arts de Lille"
+      },
+      {
+        "id": 133,
+        "value": "Pierre Bergé & Associés"
+      },
+      {
+        "id": 134,
+        "value": "Drouot"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
+  },
+  {
+    "id": 1454,
+    "titre": "ADP Ingénierie signe une convention judiciaire d'intérêt public avec le Parquet national financier",
+    "contenu": "La filiale ingénierie d'ADP est convenue avec le PNF de mettre un terme aux investigations dont elle faisait l'objet et se rapportant à des faits anciens liés à certains contrats conclus  en Libye en 2007 et 2008, et dans l'émirat de Fujaïrah en 2011. ADP Ingénierie a accepté de payer immédiatement une amende de 14,6 M€. Conformément à la loi cela n'emporte aucune reconnaissance de culpabilité.",
+    "url": "https://www.lemoniteur.fr/article/adp-ingenierie-signe-une-convention-judiciaire-d-interet-public-avec-le-parquet-national-financier.2321046",
+    "date": "2023-12-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 120,
+        "value": "Aéroports de Paris (ADP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1198995,
+        "value": "Convention judiciaire d'intérêt public (CJIP)"
       }
     ]
   },
@@ -275,6 +533,40 @@
         "value": "Lobbying / influence"
       }
     ],
+    "procedure": []
+  },
+  {
+    "id": 1457,
+    "titre": "Quatre personnes condamnées pour avoir détourné des subventions avec une association",
+    "contenu": "Trois des dirigeants de l'association La Vague Bleue 13 et l'un de ses adhérents ont été condamnés pour escroquerie et abus de confiance à des peines allant de six mois de prison avec sursis à deux mois ferme.",
+    "url": "https://www.20minutes.fr/justice/4064971-20231201-marseille-condamnations-avoir-detourne-subventions-asso",
+    "date": "2023-12-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1374,
+        "value": "Henri Jibrayel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 137,
+        "value": "La Vague bleue 13"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
     "procedure": []
   },
   {
@@ -6756,9 +7048,19 @@
     "departement": [],
     "personnalites": [],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1198995,
+        "value": "Convention judiciaire d'intérêt public (CJIP)"
+      }
+    ]
   },
   {
     "id": 1163,
@@ -7264,9 +7566,19 @@
     "departement": [],
     "personnalites": [],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1198995,
+        "value": "Convention judiciaire d'intérêt public (CJIP)"
+      }
+    ]
   },
   {
     "id": 1131,
@@ -8753,9 +9065,19 @@
     "departement": [],
     "personnalites": [],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1198995,
+        "value": "Convention judiciaire d'intérêt public (CJIP)"
+      }
+    ]
   },
   {
     "id": 1044,
@@ -12929,16 +13251,26 @@
   {
     "id": 803,
     "titre": "1,1 milliard d'euros d'amende : McDonald's bat le record de l'histoire fiscale française",
-    "contenu": "Le géant McDonald’s va devoir verser plus de 1 milliard d’euros à la France pour clore un litige avec notre administration fiscale. Ce montant, supérieur aux 965 millions d’euros que le moteur de recherche Google a dû payer en 2019, constitue un record.\nPour faire face à une telle tuile, l’américain a déjà mis en boîte 500 millions de dollars (474 millions d’euros), inscrits dans ses comptes au premier trimestre 2022. Une somme destinée à « un éventuel règlement lié à une question fiscale internationale », a reconnu le directeur financier Kevin Ozan le 28 avril, sans donner plus de précisions. A cette amende, destinée au Parquet national financier (PNF), s’ajoutera un redressement (avec pénalités) infligé par la Direction des vérifications nationales et internationales : une sanction salée d’environ 600 millions d’euros. Là encore, le groupe, prévoyant, a déjà provisionné 530 millions d’euros dans le bilan de sa filiale française en 2020. Le règlement devrait s’effectuer d’ici peu dans le cadre d’une convention judiciaire d’intérêt public (CJIP) : créé en 2018, ce dispositif vise à mettre la pression sur les sociétés en cas de soupçons de fraude fiscale pour accélérer les procédures et clore les poursuites engagées.\nVoilà qui vient solder une très longue affaire, démarrée dès 2013 et marquée par des perquisitions au siège de l’entreprise à Guyancourt (Yvelines) et par les gardes à vue de trois anciens dirigeants (Denis Hennequin, Jean-Pierre Petit et Salvatore Perri). L’origine du problème ? Le fisc tricolore reproche à McDo d’avoir appliqué un niveau de redevance anormalement élevé à ses restaurants pour transférer une partie importante de son chiffre d’affaires vers le Luxembourg puis le Royaume-Uni.",
+    "contenu": "Le géant McDonald’s va devoir verser plus de 1 milliard d’euros à la France pour clore un litige avec notre administration fiscale. Ce montant, supérieur aux 965 millions d’euros que le moteur de recherche Google a dû payer en 2019, constitue un record.",
     "url": "https://www.capital.fr/entreprises-marches/11-milliard-deuros-damende-mcdonalds-bat-le-record-de-lhistoire-fiscale-francaise-1436990",
     "date": "2022-05-20",
     "etiquettes": "McDonald's,Parquet National Financier",
     "departement": [],
     "personnalites": [],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1198995,
+        "value": "Convention judiciaire d'intérêt public (CJIP)"
+      }
+    ]
   },
   {
     "id": 785,
@@ -13373,9 +13705,28 @@
     "date": "2022-05-09",
     "etiquettes": "Bernard Squarcini,François Ruffin,LVMH",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 517,
+        "value": "François Ruffin"
+      },
+      {
+        "id": 1346,
+        "value": "Bernard Squarcini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 115,
+        "value": "LVMH"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -14114,11 +14465,35 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 517,
+        "value": "François Ruffin"
+      },
+      {
+        "id": 1346,
+        "value": "Bernard Squarcini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 115,
+        "value": "LVMH"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1198995,
+        "value": "Convention judiciaire d'intérêt public (CJIP)"
+      }
+    ]
   },
   {
     "id": 596,
@@ -14379,11 +14754,35 @@
     "date": "2021-12-16",
     "etiquettes": "Bernard Arnault,Bernard Squarcini,DGSI,François Ruffin,Hermès,LVMH",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 517,
+        "value": "François Ruffin"
+      },
+      {
+        "id": 1346,
+        "value": "Bernard Squarcini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 115,
+        "value": "LVMH"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1198995,
+        "value": "Convention judiciaire d'intérêt public (CJIP)"
+      }
+    ]
   },
   {
     "id": 582,
