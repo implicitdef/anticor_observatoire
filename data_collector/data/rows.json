@@ -1,5 +1,116 @@
 [
   {
+    "id": 1600,
+    "titre": "L’eurodéputée Eva Kaïlí a aidé des armateurs grecs à éviter les sanctions russes",
+    "contenu": "Inculpée pour « corruption » dans l’affaire du « Qatargate », Eva Kaïlí a aussi, lorsqu’elle était vice-présidente du Parlement européen, introduit des lobbyistes auprès d'armateurs grecs, afin qu'ils évitent d’être soumis aux sanctions européennes vis-à-vis de la Russie.",
+    "url": "https://www.mediapart.fr/journal/international/141223/qatargate-l-eurodeputee-eva-kaili-aide-des-armateurs-grecs-eviter-les-sanctions-russes",
+    "date": "2023-12-14",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [
+      {
+        "id": 1331,
+        "value": "Eva Kaili"
+      },
+      {
+        "id": 1389,
+        "value": "Mario Mauro"
+      },
+      {
+        "id": 1390,
+        "value": "Spyros Pappas"
+      },
+      {
+        "id": 1391,
+        "value": "Evángelos Marinákis"
+      },
+      {
+        "id": 1392,
+        "value": "George Prokopiou"
+      },
+      {
+        "id": 1393,
+        "value": "Ioanna Prokopiou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 149,
+        "value": "Sovcomflot"
+      },
+      {
+        "id": 150,
+        "value": "ING"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1602,
+    "titre": "L’Inde entrave l’enquête de la justice française sur Dassault",
+    "contenu": "Le gouvernement indien de Narendra Modi a refusé, sans le dire officiellement, d’exécuter la demande d’entraide des juges français dans le cadre de l’enquête pour corruption sur la vente des Rafale de Dassault à l’Inde pour 7,8 milliards d’euros.",
+    "url": "https://www.mediapart.fr/journal/international/141223/rafale-papers-l-inde-entrave-l-enquete-de-la-justice-francaise-sur-dassault",
+    "date": "2023-12-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1275,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 1394,
+        "value": "François Hollande"
+      },
+      {
+        "id": 1395,
+        "value": "Narendra Modi"
+      },
+      {
+        "id": 1396,
+        "value": "Sushen Gupta"
+      },
+      {
+        "id": 1397,
+        "value": "Anil Ambani"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 151,
+        "value": "Dassault"
+      },
+      {
+        "id": 152,
+        "value": "Sherpa"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1468,
     "titre": "Deux dirigeants de Goldmarket soupçonnés de blanchiment de fraude fiscale pour 16 millions d'euros",
     "contenu": "Goldmarket, qui compte une dizaine d'agences en France, achète de l'or aux particuliers pour la faire fondre, en Allemagne notamment. Selon une source policière, les agences françaises de l'enseigne achetaient de l'or aux particuliers, mais c'est une autre entreprise, basée en Belgique et dirigée par le frère du dirigeant de Goldmarket, qui versait finalement la somme promise aux clients.",
@@ -159,6 +270,40 @@
     "procedure": []
   },
   {
+    "id": 1603,
+    "titre": "Très lourd redressement fiscal pour le député macroniste Emmanuel Pellerin",
+    "contenu": "Le député macroniste Emmanuel Pellerin a fait l'objet d'un très lourd redressement fiscal. Selon Bercy, il aurait caché plus d'1 million d'euros.",
+    "url": "https://www.linforme.com/banque-finance/article/tres-lourd-redressement-fiscal-pour-le-depute-macroniste-emmanuel-pellerin_1233.html",
+    "date": "2023-12-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 452,
+        "value": "Emmanuel Pellerin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1452,
     "titre": "Favoritisme dans l’armée : des haut gradés et un sous-traitant jugés en septembre",
     "contenu": "De haut gradés bientôt devant la justice financière : un général, un colonel et d’autres militaires seront jugés en septembre 2024 avec une société sous-traitante de la logistique des opérations extérieures (Opex) des années 2010 pour des soupçons de corruption et de favoritisme.",
@@ -214,6 +359,137 @@
       {
         "id": 1153424,
         "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1604,
+    "titre": "Le maire du Barcarès décoré d'une médaille d'honneur par la préfecture",
+    "contenu": "Le maire du Barcarès, Alain Ferrand, reçoit une médaille d'honneur de la préfecture des Pyrénées-Orientales, malgré sa condamnation à trois reprises par la justice et sa mise en examen dans diverses autres affaires",
+    "url": "https://www.francebleu.fr/infos/societe/le-maire-du-barcares-decore-d-une-medaille-d-honneur-par-la-prefecture-un-mauvais-message-selon-anticor-66-8753413",
+    "date": "2023-12-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151964,
+        "value": "66 - Pyrénées-Orientales"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1398,
+        "value": "Alain Ferrand"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1607,
+    "titre": "L'ancienne préfète du Loiret et du Centre-Val de Loire, Régine Engström, condamnée par la justice pour prise illégale d'intérêts",
+    "contenu": "Le tribunal correctionnel de Paris a condamné ce lundi, Régine Engström à 25 000€ d'amende et une interdiction d'exercer une fonction publique d'un an avec sursis. Elle avait été soupçonnée d'avoir soutenu un projet immobilier de son ancien employeur Nexity.",
+    "url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/l-ancienne-prefete-du-loiret-et-du-centre-val-de-loire-regine-engstrom-condamnee-par-la-justice-pour-prise-illegale-d-interets-2887784.html",
+    "date": "2023-12-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151948,
+        "value": "45 - Loiret"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1272,
+        "value": "Régine Engström"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 77,
+        "value": "Nexity"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1605,
+    "titre": "Vitrolles: 18 mois de prison avec sursis et deux ans d'inéligibilité requis contre le maire",
+    "contenu": "18 mois de prison avec sursis, 2.000 euros d'amende et deux ans inéligibilité ont été requis lundi 11 décembre par le parquet contre Loïc Gachon, maire de Vitrolles (Bouches-du-Rhône). Il est accusé d'avoir voté en faveur de subventions métropolitaines pour le camp des Milles où son épouse occupait un poste visant justement à chercher des fonds.",
+    "url": "https://www.bfmtv.com/marseille/vitrolles-18-mois-de-prison-avec-sursis-et-deux-ans-d-ineligibilite-requis-contre-le-maire_AN-202312111026.html",
+    "date": "2023-12-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1399,
+        "value": "Loïc Gachon"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1606,
+    "titre": "Gestion des déchets : l'association France assainissement veut porter plainte contre le SMD3",
+    "contenu": "L’association France assainissement eau, qui compte 80 adhérents dans le département, conteste le système de gestion des déchets englobant le SMD3.",
+    "url": "https://www.sudouest.fr/environnement/gestion-des-dechets-cette-association-veut-porter-plainte-contre-un-syndicat-de-dordogne-17752315.php",
+    "date": "2023-12-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151718,
+        "value": "24 - Dordogne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1400,
+        "value": "Jacques Margalef"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 153,
+        "value": "Syndicat mixte départemental des déchets de la Dordogne (SMD3)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
       }
     ]
   },
@@ -27270,6 +27546,20 @@
         "value": "Observatoire des pantouflages"
       }
     ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1601,
+    "titre": "",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
     "theme": [],
     "procedure": []
   },
