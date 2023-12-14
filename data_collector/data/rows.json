@@ -111,6 +111,35 @@
     "procedure": []
   },
   {
+    "id": 1608,
+    "titre": "Accusé de favoritisme, François Alfonsi relaxé par le tribunal correctionnel de Bastia",
+    "contenu": "Le tribunal correctionnel de Bastia a relaxé François Alfonsi poursuivi pour favoritisme. Il était reproché à l’ancien maire d’Osani des irrégularités dans l’attribution d’un marché public réalisé en 2017.",
+    "url": "https://france3-regions.francetvinfo.fr/corse/justice-accuse-de-favoritisme-francois-alfonsi-relaxe-par-le-tribunal-correctionnel-de-bastia-2889473.html",
+    "date": "2023-12-13",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [
+      {
+        "id": 1271,
+        "value": "François Alfonsi"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
+  },
+  {
     "id": 1468,
     "titre": "Deux dirigeants de Goldmarket soupçonnés de blanchiment de fraude fiscale pour 16 millions d'euros",
     "contenu": "Goldmarket, qui compte une dizaine d'agences en France, achète de l'or aux particuliers pour la faire fondre, en Allemagne notamment. Selon une source policière, les agences françaises de l'enseigne achetaient de l'or aux particuliers, mais c'est une autre entreprise, basée en Belgique et dirigée par le frère du dirigeant de Goldmarket, qui versait finalement la somme promise aux clients.",
