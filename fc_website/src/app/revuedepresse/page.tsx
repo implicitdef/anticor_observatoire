@@ -6,9 +6,7 @@ export default function RevueDePresse() {
   const items = getData().slice(0, 50);
   return (
     <div className="px-4 py-28">
-      <h1 className="text-6xl font-bold mb-10">
-        Liste des items de la revue de presse
-      </h1>
+      <h1 className="text-6xl font-bold mb-10">Actualités</h1>
 
       <ul className="grid grid-cols-3 gap-8">
         {items.map((item) => {
@@ -24,7 +22,7 @@ export default function RevueDePresse() {
               <h2 className="font-bold text-2xl pb-8 ">
                 <Link href={url}>{item.titre}</Link>
               </h2>
-              <p className="pb-8">{item.contenu}</p>
+              <p className="pb-8">{shorten(item.contenu)}</p>
               <Link href={url}>Lire la suite →</Link>
             </li>
           );
@@ -32,4 +30,10 @@ export default function RevueDePresse() {
       </ul>
     </div>
   );
+}
+
+function shorten(s: string) {
+  const limit = 200;
+  if (s.length <= limit) return s;
+  return s.slice(0, limit) + `...`;
 }
