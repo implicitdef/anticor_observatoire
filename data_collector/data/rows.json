@@ -139,6 +139,44 @@
     "procedure": []
   },
   {
+    "id": 1622,
+    "titre": "L’ex-maire d’Argenteuil condamné pour favoritisme dans l’externalisation du journal municipal",
+    "contenu": "L’ancien maire d’Argenteuil (Val-d’Oise) Philippe Doucet, a été condamné jeudi à 18 mois de prison avec sursis, 20 000 euros d’amende et deux ans d’inéligibilité pour favoritisme et prise illégale d’intérêt par le tribunal correctionnel de Paris.",
+    "url": "https://94.citoyens.com/2023/lex-maire-dargenteuil-condamne-pour-favoritisme-dans-lexternalisation-du-journal-municipal,14-12-2023.html",
+    "date": "2023-12-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151989,
+        "value": "95 - Val-d'Oise"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1244,
+        "value": "Philippe Doucet"
+      },
+      {
+        "id": 1414,
+        "value": "Alain Assouline"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
     "id": 1602,
     "titre": "L’Inde entrave l’enquête de la justice française sur Dassault",
     "contenu": "Le gouvernement indien de Narendra Modi a refusé, sans le dire officiellement, d’exécuter la demande d’entraide des juges français dans le cadre de l’enquête pour corruption sur la vente des Rafale de Dassault à l’Inde pour 7,8 milliards d’euros.",
