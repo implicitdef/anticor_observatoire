@@ -1,5 +1,87 @@
 [
   {
+    "id": 1621,
+    "titre": "Une figure du banditisme corse et un policier devant le tribunal de Marseille en avril prochain",
+    "contenu": "Un policier de l'Office Central de Lutte Contre la Criminalité Organisée, Vincent Duszynski, et José Menconi, figure du banditisme insulaire, comparaîtront en avril devant le tribunal correctionnel de Marseille pour destruction de document. Placé en garde à vue, José Menconi avait passé un coup de téléphone à sa compagne pour lui demander de \"faire le ménage\" avant une perquisition.",
+    "url": "https://france3-regions.francetvinfo.fr/corse/justice-une-figure-du-banditisme-corse-et-un-policier-devant-le-tribunal-de-marseille-en-avril-prochain-2890361.html",
+    "date": "2023-12-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151843,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1412,
+        "value": "José Menconi"
+      },
+      {
+        "id": 1413,
+        "value": "Vincent Duszynski"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 160,
+        "value": "Office Central de Lutte Contre la Criminalité Organisée"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1618,
+    "titre": "Isabelle Adjani condamnée pour fraude fiscale à deux ans de prison avec sursis et 250 000 euros d’amende",
+    "contenu": "Le tribunal correctionnel de Paris a condamné l’actrice Isabelle Adjani à deux ans de prison avec sursis et 250 000 euros d’amende pour fraude fiscale aggravée et blanchiment d’argent ce jeudi 14 décembre. Une peine plus sévère que celle demandée par le Parquet national financier (PNF), qui avait requis 18 mois de prison avec sursis et 250 000 euros d’amende, ainsi que deux ans d’inéligibilité, lors de l’audience du 19 octobre. Ce jugement est motivé par la «domiciliation fictive au Portugal» de l’actrice et par le «prêt de 2 millions d’euros requalifié en donation déguisée».",
+    "url": "https://www.liberation.fr/societe/police-justice/isabelle-adjani-condamnee-pour-fraude-fiscale-a-deux-ans-de-prison-avec-sursis-et-250-000-euros-damende-20231214_HJBYONC4P5B65AMSV4IPYIESQM/",
+    "date": "2023-12-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1294,
+        "value": "Isabelle Adjani"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": []
+  },
+  {
     "id": 1600,
     "titre": "L’eurodéputée Eva Kaïlí a aidé des armateurs grecs à éviter les sanctions russes",
     "contenu": "Inculpée pour « corruption » dans l’affaire du « Qatargate », Eva Kaïlí a aussi, lorsqu’elle était vice-présidente du Parlement européen, introduit des lobbyistes auprès d'armateurs grecs, afin qu'ils évitent d’être soumis aux sanctions européennes vis-à-vis de la Russie.",
@@ -138,6 +220,39 @@
         "value": "Relaxe / classement"
       }
     ]
+  },
+  {
+    "id": 1619,
+    "titre": "À Paris Habitat, l’attribution d’un logement cossu à une élue du CSE déclenche une guerre syndicale",
+    "contenu": "Le parquet national financier a été saisi d’une plainte contre une élue syndicale du bailleur social de Paris, accusée de s’être attribué indûment son logement social. Ses accusateurs ont été démis de leurs fonctions.",
+    "url": "https://www.lefigaro.fr/actualite-france/a-paris-habitat-l-attribution-d-un-logement-cossu-a-une-elue-du-cse-declenche-une-guerre-syndicale-20231213",
+    "date": "2023-12-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 159,
+        "value": "Paris Habitat"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
   },
   {
     "id": 1468,
@@ -421,6 +536,44 @@
     "procedure": []
   },
   {
+    "id": 1612,
+    "titre": "Affaire David Rachline : le parquet de Draguignan ouvre une enquête sur Fréjus",
+    "contenu": "Le parquet a décidé d’ouvrir une enquête préliminaire sur la gestion de la commune de Fréjus. Autrefois présenté comme un modèle à suivre pour le parti lepéniste depuis sa conquête de la ville en 2014, le maire RN est au cœur d’une tempête pour des soupçons d’atteinte à la probité.",
+    "url": "https://www.nouvelobs.com/politique/20231210.OBS81924/info-obs-affaire-david-rachline-le-parquet-de-draguignan-ouvre-une-enquete-sur-frejus.html",
+    "date": "2023-12-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151980,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1403,
+        "value": "David Rachline"
+      },
+      {
+        "id": 1404,
+        "value": "Vigogne Le Coat"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1607,
     "titre": "L'ancienne préfète du Loiret et du Centre-Val de Loire, Régine Engström, condamnée par la justice pour prise illégale d'intérêts",
     "contenu": "Le tribunal correctionnel de Paris a condamné ce lundi, Régine Engström à 25 000€ d'amende et une interdiction d'exercer une fonction publique d'un an avec sursis. Elle avait été soupçonnée d'avoir soutenu un projet immobilier de son ancien employeur Nexity.",
@@ -456,7 +609,7 @@
   },
   {
     "id": 1605,
-    "titre": "Vitrolles: 18 mois de prison avec sursis et deux ans d'inéligibilité requis contre le maire",
+    "titre": "Vitrolles : 18 mois de prison avec sursis et deux ans d'inéligibilité requis contre le maire",
     "contenu": "18 mois de prison avec sursis, 2.000 euros d'amende et deux ans inéligibilité ont été requis lundi 11 décembre par le parquet contre Loïc Gachon, maire de Vitrolles (Bouches-du-Rhône). Il est accusé d'avoir voté en faveur de subventions métropolitaines pour le camp des Milles où son épouse occupait un poste visant justement à chercher des fonds.",
     "url": "https://www.bfmtv.com/marseille/vitrolles-18-mois-de-prison-avec-sursis-et-deux-ans-d-ineligibilite-requis-contre-le-maire_AN-202312111026.html",
     "date": "2023-12-11",
@@ -521,6 +674,35 @@
         "value": "Plainte"
       }
     ]
+  },
+  {
+    "id": 1617,
+    "titre": "Christophe Ferrari entendu en garde à vue sur les soupçons d’utilisation personnelle de sa voiture de service",
+    "contenu": "La président de la Métropole de Grenoble Christophe Ferrari a été entendu sous le régime de la garde à vue, le 30 novembre 2023, dans le cadre de l'enquête ouverte en septembre 2022 pour \"détournement de bien par personne dépositaire ou chargée d’une mission de service public\". À l'origine, un signalement de son ancien chef de cabinet, évoquant une utilisation personnelle de sa voiture de service.",
+    "url": "https://www.placegrenet.fr/2023/12/09/grenoble-christophe-ferrari-entendu-en-garde-a-vue-sur-les-soupcons-dutilisation-personnelle-de-sa-voiture-de-service/619750",
+    "date": "2023-12-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151852,
+        "value": "38 - Isère"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1409,
+        "value": "Christophe Ferrari"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
   },
   {
     "id": 1466,
@@ -618,6 +800,44 @@
     "procedure": []
   },
   {
+    "id": 1613,
+    "titre": "Bruno Clément-Ziza, encore un conseiller de ministre débauché par un lobby de patrons",
+    "contenu": "L’ancien directeur de cabinet de Carole Grandjean, la ministre déléguée chargée de la Formation professionnelle, est désormais à l’Association française des entreprises privées, en plein débat sur le maintien ou non des aides aux grosses entreprises pour l’embauche d’apprentis.",
+    "url": "https://www.liberation.fr/societe/education/bruno-clement-ziza-encore-un-conseiller-de-ministre-debauche-par-un-lobby-de-patrons-20231208_UCTDPV6WQZBQTEXELUHFRCFFMA/",
+    "date": "2023-12-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1375,
+        "value": "Carole Grandjean"
+      },
+      {
+        "id": 1405,
+        "value": "Bruno Clément-Ziza"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1465,
     "titre": "Comment le RN fait la cour aux lobbys du bâtiment, du tabac ou de la santé",
     "contenu": "A rebours de leur discours en faveur des catégories populaires, les députés du parti d’extrême droite relaient les demandes des industriels de plusieurs secteurs.",
@@ -694,6 +914,40 @@
     "procedure": []
   },
   {
+    "id": 1614,
+    "titre": "Polynésie : L’ancien ministre de la Santé Jacques Raynal a été placé en garde à vue en novembre",
+    "contenu": "Mis en cause dans une affaire de prise illégale d’intérêts et de favoritisme, l’ancien ministre de la Santé de Polynésie française Jacques Raynal a été placé en garde à vue le 10 novembre dernier. Les enquêteurs de l’Ocliff soupçonnent l’élu, qui a été en poste entre 2017 et mai 2023, d’avoir favorisé son ancienne société. Fenua Medex a remporté plusieurs appels d’offres passés par l’administration, pour un montant total de à 2,3 millions d’euros.",
+    "url": "https://www.20minutes.fr/faits_divers/4066033-20231208-polynesie-ancien-ministre-sante-jacques-raynal-place-garde-vue-novembre",
+    "date": "2023-12-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151995,
+        "value": "987 - Polynésie Française"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1406,
+        "value": "Jacques Raynal"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 157,
+        "value": "Fenua Medex"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1464,
     "titre": "« Qatargate » : après les 800 000 euros en cash, les SMS compromettants d’Eva Kaili",
     "contenu": "L’eurodéputée et ancienne vice-présidente du Parlement européen, inculpée pour « corruption » dans l’affaire du « Qatargate », a mené une campagne d’influence en faveur de l’émirat à Bruxelles, en lien direct avec les lobbyistes occultes et deux ministres du Qatar. Elle dément avoir été téléguidée.",
@@ -742,6 +996,157 @@
         "value": "Révélation / signalement"
       }
     ]
+  },
+  {
+    "id": 1615,
+    "titre": "Taxation des dividendes : les banques remportent une victoire au Conseil d'Etat",
+    "contenu": "Le Conseil d'Etat a donné raison à la Fédération bancaire française, qui contestait l'interprétation du fisc sur les impôts à payer lors de prêts-emprunts de produits financiers. Cette victoire ne remet pas en cause le volet pénal de la retentissante affaire de fraude fiscale, dite « CumCum ».",
+    "url": "https://www.lesechos.fr/finance-marches/banque-assurances/taxation-des-dividendes-les-banques-remportent-une-victoire-au-conseil-detat-2040359",
+    "date": "2023-12-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 158,
+        "value": "Fédération bancaire française"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1616,
+    "titre": "Vincent Bolloré pourrait finalement échapper à un procès pour corruption en Afrique",
+    "contenu": "Fin novembre, la Cour de Cassation a rendu un arrêt qui donne une occasion inespérée à l’homme d’affaire d’échapper à un procès pour corruption. Elle a ordonné l’annulation de tous les actes de reconnaissance de sa culpabilité qu’il avait signés en 2021 avec le Parquet national financier (PNF).",
+    "url": "https://www.bfmtv.com/economie/international/vincent-bollore-pourrait-finalement-echapper-a-un-proces-pour-corruption-en-afrique_AN-202312080083.html",
+    "date": "2023-12-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1268,
+        "value": "Vincent Bolloré"
+      },
+      {
+        "id": 1407,
+        "value": "Gilles Alix"
+      },
+      {
+        "id": 1408,
+        "value": "Jean-Philippe Dorent"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 70,
+        "value": "Bolloré"
+      },
+      {
+        "id": 71,
+        "value": "Havas"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1610,
+    "titre": "David Derrouet, ancien maire de Fleury-Mérogis, mis en examen pour \"corruption passive\"",
+    "contenu": "La justice s'intéresse à la manne financière du traitement des terres polluées à Fleury-Mérogis. L'ancien maire (DVG) de la ville, David Derrouet, a été interpellé, jeudi 7 décembre, et mis en examen pour \"corruption passive\". L'élu, de 2009 à 2017, est accusé d'avoir laissé enfouir des déchets sur sa commune en échange d'avantages. Il a également été placé sous contrôle judiciaire.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/l-ancien-maire-de-fleury-merogis-david-derrouet-mis-en-examen-pour-corruption-passive-1589138",
+    "date": "2023-12-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151971,
+        "value": "91 - Essonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1401,
+        "value": "David Derrouet"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
+      }
+    ]
+  },
+  {
+    "id": 1620,
+    "titre": "L’affaire du sénateur Guerriau menace tout un « système » local",
+    "contenu": "Le grand public a récemment découvert Joël Guerriau, soupçonné d’avoir drogué une députée dans le but de l’agresser sexuellement. Mais le sénateur centriste de Loire-Atlantique était bien connu à l’échelle locale, son fonctionnement ayant déjà soulevé de nombreuses questions. Aucune alerte n’avait jusqu’alors été prise au sérieux.",
+    "url": "https://www.mediapart.fr/journal/politique/071223/l-affaire-du-senateur-guerriau-menace-tout-un-systeme-local",
+    "date": "2023-12-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151947,
+        "value": "44 - Loire-Atlantique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1410,
+        "value": "Joël Guerriau"
+      },
+      {
+        "id": 1411,
+        "value": "Christine Guerriau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 17,
+        "value": "Horizons"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
   },
   {
     "id": 1463,
@@ -793,6 +1198,57 @@
       }
     ],
     "procedure": []
+  },
+  {
+    "id": 1611,
+    "titre": "Soupçons de favoritisme : la société Corinthe ne fait plus partie du marché de renouvellement des ports à Golfe-Juan",
+    "contenu": "Alors que le parquet de Grasse a ouvert une enquête préliminaire pour favoritisme en novembre dernier autour du renouvellement des concessions des ports de Golfe-Juan, la société Corinthe Ingénierie se retire du groupement d’assistance à maîtrise d’ouvrage.",
+    "url": "https://www.nicematin.com/politique/soupcons-de-favoritisme-la-societe-corinthe-se-retire-des-ports-de-golfe-juan-890199",
+    "date": "2023-12-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1387,
+        "value": "Kevin Luciano"
+      },
+      {
+        "id": 1402,
+        "value": "Stéphan Lenormand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 154,
+        "value": "Corinthe Ingénierie"
+      },
+      {
+        "id": 155,
+        "value": "Teneo Avocats"
+      },
+      {
+        "id": 156,
+        "value": "Cogite"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
+      }
+    ]
   },
   {
     "id": 1462,
@@ -2036,9 +2492,28 @@
     "url": "https://www.lalettre.fr/fr/action-publique_operateurs-de-l-etat/2023/11/21/l-agence-anticorruption-recrute-la-directrice-compliance-de-totalenergies,110099986-art",
     "date": "2023-11-21",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1307,
+        "value": "Marie Mallard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 84,
+        "value": "Agence française anticorruption"
+      },
+      {
+        "id": 161,
+        "value": "TotalEnergies"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -3245,9 +3720,24 @@
     "url": "https://www.decideurs-magazine.com/droit/56503-garance-pineau-est-nommee-directrice-generale-du-medef.html",
     "date": "2023-10-18",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1362,
+        "value": "Garance Pineau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 29,
+        "value": "Élysée"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
