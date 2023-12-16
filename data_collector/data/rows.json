@@ -1,5 +1,57 @@
 [
   {
+    "id": 1642,
+    "titre": "« Barbouzeries » autour du PSG : le communicant Jean-Martial Ribes mis en examen",
+    "contenu": "Selon les informations du « Monde », l’ex-directeur de la communication du président du PSG, Nasser Al-Khelaïfi, a été mis en examen, notamment pour « corruption », dans le cadre de l’information judiciaire ouverte à l’automne 2022 contre le lobbyiste Tayeb Benabderrahmane et l’ex-policier devenu salarié du Paris Saint-Germain Malik Nait-Liman.",
+    "url": "https://www.lemonde.fr/societe/article/2023/12/15/barbouzeries-autour-du-psg-le-communicant-jean-martial-ribes-mis-en-examen_6206039_3224.html",
+    "date": "2023-12-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1443,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 1444,
+        "value": "Tayeb Benabderrahmane"
+      },
+      {
+        "id": 1445,
+        "value": "Malik Nait-Liman"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
+      }
+    ]
+  },
+  {
     "id": 1623,
     "titre": "Eric Ciotti épinglé par la chambre régionale des comptes pour les cumuls d’emplois de son entourage",
     "contenu": "Dans son rapport d’observations définitives, présenté vendredi 15 décembre aux élus du conseil départemental des Alpes-Maritimes, la chambre régionale des comptes de Provence-Alpes-Côte d’Azur pointe les « cumuls d’emplois non déclarés ou non autorisés » pratiqués au sein de l’exécutif départemental.",
@@ -1577,7 +1629,12 @@
         "value": "Ryanair"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [
       {
@@ -1978,7 +2035,7 @@
       },
       {
         "id": 106,
-        "value": "Haute Autorité pour la transparence de la vie publique (HATVP)"
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
       }
     ],
     "categorie": [
@@ -2769,11 +2826,50 @@
         "value": "Anne Hidalgo"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
         "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1643,
+    "titre": "La députée du Loiret Mathilde Paris oublie de déclarer son mari comme salarié du groupe RN à l'Assemblée nationale",
+    "contenu": "L'époux de la députée est devenu salarié du groupe RN à l'Assemblée nationale en novembre 2022. Une situation que Mathilde Paris n'a pas déclarée auprès de la Haute autorité de la transparence de la vie publique, comme le règlement l'y oblige. L'élue plaide l'oubli de bonne foi et assure avoir corrigé son erreur.",
+    "url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/la-deputee-du-loiret-mathilde-paris-oublie-de-declarer-son-mari-comme-salarie-du-groupe-rn-a-l-assemblee-nationale-2875088.html",
+    "date": "2023-11-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151948,
+        "value": "45 - Loiret"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 446,
+        "value": "Mathilde Paris"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
       }
     ],
     "theme": [],
@@ -2825,9 +2921,24 @@
     "url": "https://www.lalettre.fr/fr/action-publique_lobbying/2023/11/16/la-double-casquette-de-cedric-o-lobbyiste-de-mistral-et-conseiller-du-gouvernement-pour-l-ia-generative%2C110098435-art",
     "date": "2023-11-19",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1306,
+        "value": "Cédric O"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 105,
+        "value": "Mistral AI"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -3154,8 +3265,18 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1284,
+        "value": "Anne Hidalgo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 170,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -3167,6 +3288,45 @@
       {
         "id": 1153428,
         "value": "Plainte"
+      }
+    ]
+  },
+  {
+    "id": 1645,
+    "titre": "Affaire des assistants du MoDem : l’accusation insiste sur la « responsabilité centrale » de Bayrou",
+    "contenu": "Le parquet de Paris a requis 30 mois de prison avec sursis et 70 000 euros d’amende contre l’ancien ministre de la justice d’Emmanuel Macron pour des faits de complicité de détournement de fonds publics au profit de son parti, le MoDem.",
+    "url": "https://www.mediapart.fr/journal/france/141123/affaire-des-assistants-du-modem-l-accusation-insiste-sur-la-responsabilite-centrale-de-bayrou",
+    "date": "2023-11-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1300,
+        "value": "François Bayrou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 94,
+        "value": "Mouvement démocrate"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
       }
     ]
   },
@@ -3183,7 +3343,16 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1284,
+        "value": "Anne Hidalgo"
+      },
+      {
+        "id": 1432,
+        "value": "Jean-Louis Missika"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -3223,7 +3392,12 @@
         "value": "Claude Guéant"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 29,
+        "value": "Élysée"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -3258,13 +3432,52 @@
       }
     ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [
       {
         "id": 1152022,
         "value": "Usage des deniers publics"
       }
     ],
+    "procedure": []
+  },
+  {
+    "id": 1644,
+    "titre": "Député et clientéliste : l’Assemblée a trouvé son nouveau héraut",
+    "contenu": "Le député du Val-de-Marne Frédéric Descrozaille (Renaissance) est le chef de file des parlementaires voulant restaurer une enveloppe discrétionnaire à chaque élu, alors que cette réserve avait été supprimée en 2017 après l’affaire Fillon. Mediapart a découvert qu’il a dévoyé une autre enveloppe, celle censée couvrir ses frais, en 2021.",
+    "url": "https://www.mediapart.fr/journal/france/121123/depute-et-clienteliste-l-assemblee-trouve-son-nouveau-heraut",
+    "date": "2023-11-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151988,
+        "value": "94 - Val-de-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 178,
+        "value": "Frédéric Descrozaille"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
     "procedure": []
   },
   {
@@ -3298,9 +3511,24 @@
     "url": "https://www.rtl.fr/actu/politique/marlene-schiappa-se-reconvertit-chez-tilder-cabinet-de-conseil-proche-de-la-macronie-7900320552",
     "date": "2023-11-12",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1446,
+        "value": "Matthias Leridon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 178,
+        "value": "Tilder"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -3347,8 +3575,22 @@
         "value": "77 - Seine-et-Marne"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1438,
+        "value": "Anthony Lemond"
+      },
+      {
+        "id": 1439,
+        "value": "Jérôme Robin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 172,
+        "value": "Matching Numbers Limited"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -3370,9 +3612,28 @@
     "url": "https://www.politico.eu/newsletter/playbook-paris/macron-fait-sa-rentree-scolaire/",
     "date": "2023-11-11",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1361,
+        "value": "Julia Clavel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 29,
+        "value": "Élysée"
+      },
+      {
+        "id": 96,
+        "value": "Orpea"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -3381,6 +3642,100 @@
     ],
     "theme": [],
     "procedure": []
+  },
+  {
+    "id": 1639,
+    "titre": "Le « roi des nuits parisiennes » accusé de trafic d’influence : douze mois de prison avec sursis requis",
+    "contenu": "Les réquisitions sont tombées dans le procès pour trafic d’influence actif et recel de favoritisme de Laurent de Gourcuff, nom connu du Tout-Paris et président de la holding Paris Society. Il aurait truqué le marché public qui lui a permis de décrocher, en 2018, l’exploitation de la restauration et de l’événementiel à l’hippodrome de Longchamp.",
+    "url": "https://www.leparisien.fr/faits-divers/le-roi-des-nuits-parisiennes-accuse-de-trafic-dinfluence-douze-mois-de-prison-avec-sursis-requis-10-11-2023-KC46W4KDVFHTFPTHBFXNY56YE4.php?ts=1702734682248",
+    "date": "2023-11-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1441,
+        "value": "Laurent de Gourcuff"
+      },
+      {
+        "id": 1442,
+        "value": "Benjamin Patou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 174,
+        "value": "Paris Society"
+      },
+      {
+        "id": 175,
+        "value": "Hippodrome de Longchamp"
+      },
+      {
+        "id": 176,
+        "value": "France Galop"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
+    "id": 1638,
+    "titre": "Favoritisme et corruption passive, Nicolas Best, le directeur du CHU de Nîmes jugé en correctionnelle à Paris",
+    "contenu": "Nicolas Best, l'actuel directeur du CHU de Nîmes sera jugé  à Paris pour favoritisme et corruption passive sur fonds de  marchés et de travaux réalisé à l'hôpital de Nîmes et à Annecy  entre 2015 et 2020. L'enquête du parquet national financier a conduit à un renvoi en correctionnelle. Le procès se tiendra à Paris le 13, 15, 16 et 20 novembre.  La défense  soutient que le haut fonctionnaire est innocent.",
+    "url": "https://www.midilibre.fr/2023/11/09/favoritisme-et-corruption-passive-nicolas-best-le-directeur-du-chu-de-nimes-juge-en-correctionnelle-a-paris-11569586.php",
+    "date": "2023-11-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151844,
+        "value": "30 - Gard"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1440,
+        "value": "Nicolas Best"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 173,
+        "value": "Centre hospitalier universitaire (CHU) de Nîmes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1405,
@@ -3402,8 +3757,18 @@
       }
     ],
     "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152022,
+        "value": "Usage des deniers publics"
+      }
+    ],
     "procedure": []
   },
   {
@@ -3411,6 +3776,30 @@
     "titre": "Comment le lobby automobile a enfumé l’Europe sur les normes anti-pollution des voitures",
     "contenu": "Le projet de nouvelle norme européenne pour les gaz d’échappement, Euro 7, est examiné par les eurodéputés le 8 novembre. Déjeuner secret, coups de pression... le lobby des constructeurs a torpillé une première version beaucoup plus protectrice de la santé des citoyens.",
     "url": "https://www.liberation.fr/environnement/comment-le-lobby-automobile-a-enfume-leurope-sur-les-normes-anti-pollution-des-voitures-20231107_VROAW4FKQFEJHKGAZRBO4NRR6I/",
+    "date": "2023-11-07",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1640,
+    "titre": "Du sang sur le « Green Deal » ? Comment l’UE, sous prétexte d’action climatique, s’est mise au service des multinationales des mines et de l’armement",
+    "contenu": "La loi européenne en cours de finalisation sur les matières premières critiques fait la part belle aux intérêts des géants des mines, de l’aéronautique et de l’armement. Une nouvelle étude de l’Observatoire des multinationales avec Corporate Europe Observatory met en lumière le lobbying agressif des industriels pour influencer le contenu de cette législation, jusqu’à l’amener très loin des objectifs climatiques affichés de l’Europe.",
+    "url": "https://multinationales.org/fr/enquetes/du-sang-sur-le-pacte-vert/du-sang-sur-le-green-deal-comment-l-ue-sous-pretexte-d-action-climatique-s-est",
     "date": "2023-11-07",
     "etiquettes": "",
     "departement": [],
@@ -3472,11 +3861,36 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1324,
+        "value": "Wallerand de Saint-Just"
+      },
+      {
+        "id": 1429,
+        "value": "Frédéric Chatillon"
+      },
+      {
+        "id": 1430,
+        "value": "Axel Loustau"
+      },
+      {
+        "id": 1431,
+        "value": "Jean-François Jalkh"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 21,
         "value": "Rassemblement National"
+      },
+      {
+        "id": 168,
+        "value": "Riwal"
+      },
+      {
+        "id": 169,
+        "value": "Jeanne"
       }
     ],
     "categorie": [
@@ -3574,6 +3988,65 @@
       }
     ],
     "procedure": []
+  },
+  {
+    "id": 1637,
+    "titre": "Pantouflages et conflits d’intérêts : à Lyon, la santé mentale dans tous ses états",
+    "contenu": "D’anciens adjoints de Jean-Yves Grall, directeur de l'ARS Auvergne-Rhône-Alpes, se sont fait embaucher par un groupe de cliniques privées après avoir participé à des arrêtés d’ouverture en faveur de leur nouvel employeur.",
+    "url": "https://www.blast-info.fr/articles/2023/pantouflages-et-conflits-dinterets-a-lyon-la-sante-mentale-dans-tous-ses-etats-ZYaffwvcR8ibRtOjac6grA",
+    "date": "2023-11-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1433,
+        "value": "Jean-Yves Grall"
+      },
+      {
+        "id": 1434,
+        "value": "Serge Morais"
+      },
+      {
+        "id": 1435,
+        "value": "Jean-Charles Faivre-Pierret"
+      },
+      {
+        "id": 1436,
+        "value": "Christelle Pierrat"
+      },
+      {
+        "id": 1437,
+        "value": "Céline Vigné"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 171,
+        "value": "Ykoé (ex-Clinipsy)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
   },
   {
     "id": 1401,
