@@ -1,5 +1,126 @@
 [
   {
+    "id": 1623,
+    "titre": "Eric Ciotti épinglé par la chambre régionale des comptes pour les cumuls d’emplois de son entourage",
+    "contenu": "Dans son rapport d’observations définitives, présenté vendredi 15 décembre aux élus du conseil départemental des Alpes-Maritimes, la chambre régionale des comptes de Provence-Alpes-Côte d’Azur pointe les « cumuls d’emplois non déclarés ou non autorisés » pratiqués au sein de l’exécutif départemental.",
+    "url": "https://www.lemonde.fr/societe/article/2023/12/15/la-chambre-regionale-des-comptes-epingle-les-cumuls-d-emplois-de-l-entourage-d-eric-ciotti_6205950_3224.html",
+    "date": "2023-12-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 144,
+        "value": "Éric Ciotti"
+      },
+      {
+        "id": 1415,
+        "value": "Charles-Ange Ginésy"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
+  },
+  {
+    "id": 1624,
+    "titre": "Six à huit mois de sursis requis à l’encontre de l’ancien maire de Metz, Dominique Gros",
+    "contenu": "Dominique Gros devait répondre, devant le tribunal correctionnel de Metz, du délit de « prise illégale d’intérêt » dans deux dossiers : celui des subventions accordées à l’agence Inspire Metz et celui de la place de la Comédie. La décision a été mise en délibéré au 18 janvier.",
+    "url": "https://www.republicain-lorrain.fr/faits-divers-justice/2023/12/15/prise-illegale-d-interet-six-a-huit-mois-de-sursis-requis-a-l-encontre-de-l-ancien-maire-de-metz-dominique-gros",
+    "date": "2023-12-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151957,
+        "value": "57 - Moselle"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1416,
+        "value": "Dominique Gros"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 162,
+        "value": "Inspire Metz"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1626,
+    "titre": "Un an de prison avec sursis et 5 ans d'inéligibilité requis contre Pierre-André Périssol, maire de Moulins",
+    "contenu": "Jeudi 14 décembre, Pierre-André Périssol, maire (LR) de Moulins, était jugé au tribunal judiciaire de Cusset, dans l’Allier. La justice s'interroge sur d'éventuelles \"prises illégales d’intérêts\" et pour \"faux dans un document administratif\". Le procureur de la République a requis une peine d’un an de prison avec sursis et une peine complémentaire de 5 ans d’inéligibilité.",
+    "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/allier/moulins/un-an-de-prison-avec-sursis-et-5-ans-d-ineligibilite-requis-contre-pierre-andre-perissol-maire-de-moulins-2890337.html",
+    "date": "2023-12-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151602,
+        "value": "03 - Allier"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1418,
+        "value": "Pierre-André Périssol"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
     "id": 1621,
     "titre": "Une figure du banditisme corse et un policier devant le tribunal de Marseille en avril prochain",
     "contenu": "Un policier de l'Office Central de Lutte Contre la Criminalité Organisée, Vincent Duszynski, et José Menconi, figure du banditisme insulaire, comparaîtront en avril devant le tribunal correctionnel de Marseille pour destruction de document. Placé en garde à vue, José Menconi avait passé un coup de téléphone à sa compagne pour lui demander de \"faire le ménage\" avant une perquisition.",
@@ -43,6 +164,40 @@
     ]
   },
   {
+    "id": 1627,
+    "titre": "À l’Assemblée nationale, le lobby du tabac met le paquet",
+    "contenu": "Le lobby du tabac tourne à plein régime à l’Assemblée et ce jeu d’influence est une activité essentielle. Une trentaine de lobbyistes seraient mobilisés en permanence en France pour un budget minimum de 1,15 million d’euros par an.",
+    "url": "https://www.humanite.fr/politique/enquete/influence-a-lassemblee-nationale-le-lobby-du-tabac-met-le-paquet",
+    "date": "2023-12-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
+    "procedure": []
+  },
+  {
     "id": 1618,
     "titre": "Isabelle Adjani condamnée pour fraude fiscale à deux ans de prison avec sursis et 250 000 euros d’amende",
     "contenu": "Le tribunal correctionnel de Paris a condamné l’actrice Isabelle Adjani à deux ans de prison avec sursis et 250 000 euros d’amende pour fraude fiscale aggravée et blanchiment d’argent ce jeudi 14 décembre. Une peine plus sévère que celle demandée par le Parquet national financier (PNF), qui avait requis 18 mois de prison avec sursis et 250 000 euros d’amende, ainsi que deux ans d’inéligibilité, lors de l’audience du 19 octobre. Ce jugement est motivé par la «domiciliation fictive au Portugal» de l’actrice et par le «prêt de 2 millions d’euros requalifié en donation déguisée».",
@@ -80,6 +235,40 @@
       }
     ],
     "procedure": []
+  },
+  {
+    "id": 1625,
+    "titre": "L'ancien directeur de la Sécu de Haute-Garonne, Michel Davila, blanchi des accusations de favoritisme",
+    "contenu": "Mis en cause dans un dossier de favoritisme, l'ancien directeur de la CPAM entre 2014 et 2022, Michel Davila, a été relaxé par la Cour d'appel de Toulouse. Il avait été condamné le 10 octobre 2022 à deux mois de prison avec sursis et 3000 euros d'amende pour non-respect du code des marchés publics.",
+    "url": "https://www.ladepeche.fr/2023/12/14/lancien-directeur-de-la-secu-de-haute-garonne-michel-davila-blanchi-des-accusations-de-favoritisme-11642625.php",
+    "date": "2023-12-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151845,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1417,
+        "value": "Michel Davila"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 63,
+        "value": "Assurance Maladie"
+      }
+    ],
+    "categorie": [],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
   },
   {
     "id": 1600,
@@ -3218,6 +3407,30 @@
     "procedure": []
   },
   {
+    "id": 1634,
+    "titre": "Comment le lobby automobile a enfumé l’Europe sur les normes anti-pollution des voitures",
+    "contenu": "Le projet de nouvelle norme européenne pour les gaz d’échappement, Euro 7, est examiné par les eurodéputés le 8 novembre. Déjeuner secret, coups de pression... le lobby des constructeurs a torpillé une première version beaucoup plus protectrice de la santé des citoyens.",
+    "url": "https://www.liberation.fr/environnement/comment-le-lobby-automobile-a-enfume-leurope-sur-les-normes-anti-pollution-des-voitures-20231107_VROAW4FKQFEJHKGAZRBO4NRR6I/",
+    "date": "2023-11-07",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
+    "procedure": []
+  },
+  {
     "id": 1403,
     "titre": "Le dopage de la com' financière de Sanofi dans le collimateur du PNF",
     "contenu": "Une enquête préliminaire a été ouverte à l'encontre de Sanofi par le PNF pour \"manipulation de cours\" autour de la communication financière du groupe à l'occasion du lancement en 2017 du Dupixent, devenu depuis sa molécule phare.",
@@ -3237,7 +3450,12 @@
         "value": "Sanofi"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -3304,8 +3522,57 @@
         "value": "Cour de Justice de la République"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1633,
+    "titre": "Moscovici n’est pas au mieux sur la photo ? Un caprice à 10 000 euros",
+    "contenu": "La Cour des comptes est la juridiction censée contrôler la bonne utilisation des deniers publics. Mais dans son dernier rapport annuel, deux photos du président n’étaient pas parfaites. Les 3 000 exemplaires ont été envoyés au pilon et le tout a été réimprimé. Aux frais des contribuables.",
+    "url": "https://www.mediapart.fr/journal/france/061123/moscovici-n-est-pas-au-mieux-sur-la-photo-un-caprice-10-000-euros",
+    "date": "2023-11-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1428,
+        "value": "Pierre Moscovici"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Cour des comptes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152022,
+        "value": "Usage des deniers publics"
+      }
+    ],
     "procedure": []
   },
   {
@@ -3321,7 +3588,12 @@
         "value": "06 - Alpes-Maritimes"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1427,
+        "value": "Kévin Luciano"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 76,
@@ -3375,6 +3647,182 @@
         "value": "Procès"
       }
     ]
+  },
+  {
+    "id": 1632,
+    "titre": "Le ministre de la Justice, Eric Dupond-Moretti, restera à son poste pendant son procès pour prise illégale d'intérêts",
+    "contenu": "Aucun décret d'intérim ne sera pris pour remplacer le garde des Sceaux durant son procès devant la Cour de justice de la République, du 6 au 17 novembre.",
+    "url": "https://www.francetvinfo.fr/politique/eric-dupond-moretti/le-ministre-eric-dupond-moretti-restera-a-son-poste-pendant-son-proces-pour-prise-illegale-d-interets_6159756.html",
+    "date": "2023-11-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1631,
+    "titre": "Nice : une enquête préliminaire ouverte par le Parquet national financier au sujet des logements sociaux",
+    "contenu": "Une enquête préli­mi­naire a été ouverte il y a un an et demi autour de l'action de l'ancien préfet des Alpes-​Maritimes.",
+    "url": "https://nicepresse.com/nice-une-enquete-ouverte-par-le-parquet-national-financier-au-sujet-des-logements-sociaux/",
+    "date": "2023-11-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1426,
+        "value": "Bernard Gonzalez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
+  },
+  {
+    "id": 1630,
+    "titre": "Soupçons de prise illégale d'intérêts : les bureaux de Bpifrance perquisitionnés",
+    "contenu": "Au cœur d’une enquête préliminaire menée par le Parquet national financier pour prise illégale d’intérêts, la banque publique d'investissements a fait l’objet d’une perquisition. Du matériel informatique a été saisi et le bureau de Nicolas Dufourcq, le directeur général de Bpifrance, a eu droit à une visite des policiers et des magistrats.",
+    "url": "https://www.marianne.net/economie/soupcons-de-prise-illegale-dinterets-les-bureaux-de-bpifrance-perquisitionnes",
+    "date": "2023-11-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1264,
+        "value": "Nicolas Dufourcq"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 62,
+        "value": "Bpifrance"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
+  },
+  {
+    "id": 1628,
+    "titre": "Liens avec la Russie : des élus du RN dans le viseur de la DGSI",
+    "contenu": "En 2019, le service de renseignement intérieur a recensé « les relais d’influence » utilisés par la Russie dans le cadre des élections européennes. Les quatre seuls politiques français cités sont membres du Rassemblement national, ou l’ont été. Parmi eux, une conseillère franco-russe du RN au Parlement européen.",
+    "url": "https://www.mediapart.fr/journal/france/011123/liens-avec-la-russie-des-elus-du-rn-dans-le-viseur-de-la-dgsi",
+    "date": "2023-11-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1419,
+        "value": "Thierry Mariani"
+      },
+      {
+        "id": 1420,
+        "value": "Aymeric Chauprade"
+      },
+      {
+        "id": 1421,
+        "value": "Tamara Volokhova"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National"
+      },
+      {
+        "id": 163,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      },
+      {
+        "id": 164,
+        "value": "Dialogue franco-russe"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
+    "procedure": []
   },
   {
     "id": 1399,
@@ -3443,6 +3891,57 @@
     "categorie": [],
     "theme": [],
     "procedure": []
+  },
+  {
+    "id": 1629,
+    "titre": "Une enquête visant la FFT ouverte pour des soupçons de détournements de billets",
+    "contenu": "Une enquête a été ouverte à la demande de la cour d’appel de Paris après le classement d’une plainte sur des soupçons de détournement concernant la billetterie de Roland-Garros et visant la Fédération française de tennis (FFT), a indiqué le parquet national financier.",
+    "url": "https://www.ouest-france.fr/sport/tennis/roland-garros/roland-garros-une-enquete-visant-la-fft-ouverte-pour-des-soupcons-de-detournements-de-billets-aebdcb68-7761-11ee-bd59-77e74b2221d0",
+    "date": "2023-10-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1291,
+        "value": "Gilles Moretton"
+      },
+      {
+        "id": 1422,
+        "value": "Jean-Luc Barrière"
+      },
+      {
+        "id": 1423,
+        "value": "Hugues Cavallin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 165,
+        "value": "Fédération française de tennis (FFT)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1397,
@@ -6416,7 +6915,7 @@
   {
     "id": 1312,
     "titre": "Un policier soupçonné d'avoir été corrompu pour informer un trafiquant de drogue sur de prochaines opérations policières lorsqu'il travaillait à la PJ de Seine-Saint-Denis. Il a été écroué fin juin.",
-    "contenu": "",
+    "contenu": "Un brigadier d'une quarantaine d'années, désormais en poste dans le Var, est soupçonné d'avoir informé contre rémunération des trafiquants de stupéfiants avant des opérations policières lorsqu'il travaillait à la PJ de Seine-Saint-Denis.",
     "url": "https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/un-policier-soupconne-d-avoir-ete-corrompu-par-un-trafiquant-de-drogue-ecroue-2814584.html",
     "date": "2023-07-23",
     "etiquettes": "",
@@ -6570,17 +7069,42 @@
   },
   {
     "id": 1306,
-    "titre": "Soupçon de prise illégale d’intérêts pour 200 collaborateurs de la BPI \nhttps://buff.ly/43oxU5i",
-    "contenu": "",
-    "url": "https://www.lemessager.fr/649301250/article/2023-07-18/annecy-l-elue-marion-lafarie-visee-par-une-enquete-pour-prise-illegale-d",
+    "titre": "Soupçon de prise illégale d’intérêts pour 200 collaborateurs de la BPI",
+    "contenu": "En 2020, la banque publique lançait un fonds d’investissement pour permettre aux Français « d’investir plus facilement leurs économies dans les entreprises » tricolores. Mais sachant potentiellement que ce fonds allait être d’une grande rentabilité, 200 employés de Bpifrance – dont le grand patron, Nicolas Dufourcq – ont massivement investi, courant ainsi le risque de commettre un éventuel délit.",
+    "url": "https://www.marianne.net/economie/economie-francaise/soupcon-de-prise-illegale-dinterets-pour-200-collaborateurs-de-la-bpi",
     "date": "2023-07-17",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1264,
+        "value": "Nicolas Dufourcq"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 62,
+        "value": "Bpifrance"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
   },
   {
     "id": 1302,
@@ -11697,7 +12221,7 @@
   {
     "id": 1012,
     "titre": "A l’EM Lyon, les rémunérations délirantes des anciens dirigeants et de coûteux flops en cascade",
-    "contenu": "La Chambre régionale des comptes (CRC) publie ce vendredi 14 octobre deux rapports au vitriol sur la gestion de l’EM Lyon ces dernières années. Si le contrôle portait officiellement sur les exercices 2019 à 2021, les magistrats analysent en réalité l’évolution de l’école depuis 2014, date à laquelle Bernard Belletante avait pris la direction d’une « business school » en plein marasme pour la transformer du sol au plafond [relire notre enquête publiée en 2018 : EM Lyon : la révolution libérale du docteur Belletante]. Un héritage dont les magistrats financiers dressent un bilan très sévère.",
+    "contenu": "La Chambre régionale des comptes (CRC) publie ce vendredi 14 octobre deux rapports au vitriol sur la gestion de l’EM Lyon ces dernières années. Si le contrôle portait officiellement sur les exercices 2019 à 2021, les magistrats analysent en réalité l’évolution de l’école depuis 2014, date à laquelle Bernard Belletante avait pris la direction d’une « business school » en plein marasme pour la transformer du sol au plafond. Un héritage dont les magistrats financiers dressent un bilan très sévère.",
     "url": "https://www.mediacites.fr/decryptage/lyon/2022/10/14/a-lem-lyon-les-remunerations-delirantes-des-anciens-dirigeants-et-de-couteux-flops-en-cascade/",
     "date": "2022-10-14",
     "etiquettes": "69 - Rhône,Bernard Belletante,Bpi France,Chambre régionale des comptes,EM Lyon,IBM,Mohamed Kabbaj,Tawhid Chtioui",
@@ -11708,10 +12232,29 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Cour des comptes"
+      },
+      {
+        "id": 166,
+        "value": "EM Lyon"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
   },
   {
     "id": 1015,
@@ -26633,11 +27176,47 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1356,
+        "value": "Augustin de Romanet"
+      },
+      {
+        "id": 1424,
+        "value": "Jérôme Gallot"
+      },
+      {
+        "id": 1425,
+        "value": "Pascal Lagarde"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 50,
+        "value": "Caisse des dépôts et consignations"
+      },
+      {
+        "id": 62,
+        "value": "Bpifrance"
+      },
+      {
+        "id": 167,
+        "value": "CDC Entreprises"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 60,
