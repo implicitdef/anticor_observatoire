@@ -1,5 +1,43 @@
 [
   {
+    "id": 1646,
+    "titre": "Suspicions de détournement de fonds au CSE du gendarme bancaire français",
+    "contenu": "Une enquête a été ouverte sur des suspicions de détournement de fonds après la découverte de plus de 500.000 euros d'opérations potentiellement suspectes. Les suspicions apparaissent au printemps 2023 avec l'arrivée d'un nouveau secrétaire au comité social et économique (CSE), l'instance de représentation du personnel, après des élections professionnelles au sein de l'ACPR (Autorité de contrôle prudentiel et de résolution).",
+    "url": "https://www.lefigaro.fr/flash-eco/suspicions-de-detournement-de-fonds-au-cse-du-gendarme-bancaire-francais-20231216",
+    "date": "2023-12-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 125,
+        "value": "Autorité de contrôle prudentiel et de résolution (ACPR)"
+      },
+      {
+        "id": 179,
+        "value": "Brigade de répression de la délinquance astucieuse"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
+  },
+  {
     "id": 1642,
     "titre": "« Barbouzeries » autour du PSG : le communicant Jean-Martial Ribes mis en examen",
     "contenu": "Selon les informations du « Monde », l’ex-directeur de la communication du président du PSG, Nasser Al-Khelaïfi, a été mis en examen, notamment pour « corruption », dans le cadre de l’information judiciaire ouverte à l’automne 2022 contre le lobbyiste Tayeb Benabderrahmane et l’ex-policier devenu salarié du Paris Saint-Germain Malik Nait-Liman.",
@@ -93,6 +131,39 @@
         "value": "Révélation / signalement"
       }
     ]
+  },
+  {
+    "id": 1647,
+    "titre": "Le parquet national financier analyse une plainte contre Paris Habitat pour prise illégale d'intérêts",
+    "contenu": "Une plainte déposée contre le bailleur social Paris Habitat, accusé de prise illégale d'intérêts et détournements de fonds publics notamment, est en cours d'analyse. Cette plainte, qui dénonce aussi une association de malfaiteurs et un trafic d'influence passif au sein de l'organisme public, a été reçue le 6 novembre au PNF et déposée par deux syndicalistes, désormais révoqués du Comité social et économique (CSE).",
+    "url": "https://www.moneyvox.fr/immobilier/actualites/95668/le-parquet-national-financier-analyse-une-plainte-contre-paris-habitat-pour-prise-illegale-interets",
+    "date": "2023-12-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 159,
+        "value": "Paris Habitat"
+      },
+      {
+        "id": 180,
+        "value": "SUPAP-FSU"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
   },
   {
     "id": 1624,
