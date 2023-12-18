@@ -931,6 +931,44 @@
     "procedure": []
   },
   {
+    "id": 1653,
+    "titre": "Quand l’Elysée dissuade une commission d’enquête parlementaire d’auditionner son conseiller sport",
+    "contenu": "Conseiller sport, Jeux olympiques 2024 et jeunesse d’Emmanuel Macron depuis 2017, Cyril Mourin n’a pas donné suite à une sollicitation de la rapporteuse de la commission d’enquête de l’Assemblée nationale sur les défaillances des fédérations sportives.",
+    "url": "https://www.lemonde.fr/sport/article/2023/12/13/quand-l-elysee-dissuade-une-commission-d-enquete-parlementaire-d-auditionner-son-conseiller-sport_6205582_3242.html",
+    "date": "2023-12-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1453,
+        "value": "Cyril Mourin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 29,
+        "value": "Élysée"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1603,
     "titre": "Très lourd redressement fiscal pour le député macroniste Emmanuel Pellerin",
     "contenu": "Le député macroniste Emmanuel Pellerin a fait l'objet d'un très lourd redressement fiscal. Selon Bercy, il aurait caché plus d'1 million d'euros.",
@@ -29398,6 +29436,20 @@
   },
   {
     "id": 1601,
+    "titre": "",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1654,
     "titre": "",
     "contenu": "",
     "url": "",
