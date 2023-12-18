@@ -1,5 +1,48 @@
 [
   {
+    "id": 1650,
+    "titre": "GDE : Alain Lambert, l'ancien président du Département de l'Orne, bientôt jugé pour trafic d'influence",
+    "contenu": "Alain Lambert, président du conseil départemental de l’Orne de 2007 à 2017, et son directeur de cabinet, Alain Pelleray, se sont-ils rendus coupables de trafic d'influence ? Du 16 au 23 octobre 2024, ils seront jugés par le tribunal correctionnel de Paris pour répondre à cette question dans le cadre du dossier épineux de la déchetterie GDE à Nonant-le-Pin (Orne).",
+    "url": "https://france3-regions.francetvinfo.fr/normandie/orne/gde-alain-lambert-l-ancien-president-du-departement-de-l-orne-bientot-juge-pour-trafic-d-influence-2891948.html",
+    "date": "2023-12-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1205393,
+        "value": "61 - Orne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1449,
+        "value": "Alain Lambert"
+      },
+      {
+        "id": 1450,
+        "value": "Alain Pelleray"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 184,
+        "value": "Guy Dauphin Environnment (GDE)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
     "id": 1649,
     "titre": "Mulhouse : le conservateur d'un musée accusé de vols dans son propre musée",
     "contenu": "Le Musée de l'Impression sur Étoffes (le Mise) à Mulhouse s'est vu dérober, en 2018, des milliers de pièces de collection et notamment, plus de 200 foulards Hermès anciens. Le principal suspect de ces vols n'est autre que l'ancien conservateur du musée lui-même. L'homme, désormais mis en examen dans cette affaire, est soupçonné de s'être servi dans les collections pour revendre les œuvres sur internet.",
@@ -36,6 +79,44 @@
         "value": "Mise en examen"
       }
     ]
+  },
+  {
+    "id": 1652,
+    "titre": "Restitution des « biens mal acquis » : 6 millions d’euros dans le budget, le plus dur reste à faire",
+    "contenu": "6 millions d’euros sont prévus dans le budget pour restituer à des populations de pays étrangers ces « biens mal acquis ». Mais les discussions diplomatiques s’annoncent délicates",
+    "url": "https://www.sudouest.fr/politique/restitution-des-biens-mal-acquis-6-millions-d-euros-dans-le-budget-le-plus-dur-reste-a-faire-17846850.php",
+    "date": "2023-12-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1451,
+        "value": "Teodorin Obiang"
+      },
+      {
+        "id": 1452,
+        "value": "Teodoro Obiang Nguema Mbasogo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 136,
+        "value": "Agence de Gestion et de Recouvrement des Avoirs Saisis et Confisqués (AGRASC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
   },
   {
     "id": 1646,
@@ -465,7 +546,12 @@
         "value": "Assurance Maladie"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": [
       {
