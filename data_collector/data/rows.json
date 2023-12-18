@@ -1,5 +1,43 @@
 [
   {
+    "id": 1649,
+    "titre": "Mulhouse : le conservateur d'un musée accusé de vols dans son propre musée",
+    "contenu": "Le Musée de l'Impression sur Étoffes (le Mise) à Mulhouse s'est vu dérober, en 2018, des milliers de pièces de collection et notamment, plus de 200 foulards Hermès anciens. Le principal suspect de ces vols n'est autre que l'ancien conservateur du musée lui-même. L'homme, désormais mis en examen dans cette affaire, est soupçonné de s'être servi dans les collections pour revendre les œuvres sur internet.",
+    "url": "https://www.francetvinfo.fr/france/grand-est/haut-rhin/mulhouse/mulhouse-le-conservateur-d-un-musee-accuse-de-vols-dans-son-propre-musee_6250194.html",
+    "date": "2023-12-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151966,
+        "value": "68 - Haut-Rhin"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 182,
+        "value": "Musée de l'Impression sur Étoffes"
+      },
+      {
+        "id": 183,
+        "value": "Office central de lutte contre les trafics de biens culturels"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
+      }
+    ]
+  },
+  {
     "id": 1646,
     "titre": "Suspicions de détournement de fonds au CSE du gendarme bancaire français",
     "contenu": "Une enquête a été ouverte sur des suspicions de détournement de fonds après la découverte de plus de 500.000 euros d'opérations potentiellement suspectes. Les suspicions apparaissent au printemps 2023 avec l'arrivée d'un nouveau secrétaire au comité social et économique (CSE), l'instance de représentation du personnel, après des élections professionnelles au sein de l'ACPR (Autorité de contrôle prudentiel et de résolution).",
@@ -164,6 +202,49 @@
     ],
     "theme": [],
     "procedure": []
+  },
+  {
+    "id": 1648,
+    "titre": "Saisie record de cannabis en 2015 : non-lieu requis pour l'ex-patron de l'office antidrogue",
+    "contenu": "Le parquet de Bordeaux a requis un non-lieu pour l'ex-patron de l'office antidrogue François Thierry, mis en examen pour complicité de trafic de stupéfiants après une saisie retentissante de cannabis en 2015 à Paris. Cette prise record de sept tonnes a été le point de départ d'une vaste affaire touchant aux méthodes de l'Office central de répression du trafic illicite de stupéfiants (Ocrtis) et de son responsable de 2010 à 2016. Elle a inspiré le film Enquête sur un scandale d'État, lui-même tiré du livre d'un journaliste de Libération.",
+    "url": "https://www.lefigaro.fr/flash-actu/saisie-record-de-cannabis-en-2015-non-lieu-requis-pour-l-ex-patron-de-l-office-antidrogue-20231215",
+    "date": "2023-12-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151847,
+        "value": "33 - Gironde"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1447,
+        "value": "François Thierry"
+      },
+      {
+        "id": 1448,
+        "value": "Sophiane Hambli"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 181,
+        "value": "Office central de répression du trafic illicite de stupéfiants (Ocrtis)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1624,
