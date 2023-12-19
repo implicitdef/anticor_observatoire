@@ -1,5 +1,158 @@
 [
   {
+    "id": 1656,
+    "titre": "Anticor signale à la justice le transfert d'une haute fonctionnaire de l'AMF à Binance",
+    "contenu": "Anticor a annoncé avoir signalé à la justice des soupçons de prise illégale d'intérêts liés au recrutement d'une ancienne cadre à l'Autorité des marchés financiers (AMF) par Binance, un mois avant l'enregistrement de la plateforme de cryptomonnaies comme prestataire.",
+    "url": "https://www.lefigaro.fr/flash-eco/anticor-signale-a-la-justice-le-transfert-d-une-haute-fonctionnaire-de-l-amf-a-binance-20231219",
+    "date": "2023-12-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1456,
+        "value": "Stéphanie Cabossioras"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 189,
+        "value": "Autorité des Marchés Financiers (AMF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1153329,
+        "value": "Cryptomonnaies"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
+  },
+  {
+    "id": 1658,
+    "titre": "Le financier de l’extrême droite visé par un signalement à la justice",
+    "contenu": "La cellule anti-blanchiment Tracfin a transmis, fin 2022, un signalement à la justice concernant des financements du millionnaire Charles Gave à plusieurs candidats d’extrême droite, dont Éric Zemmour.",
+    "url": "https://www.mediapart.fr/journal/france/191223/le-financier-de-l-extreme-droite-vise-par-un-signalement-la-justice",
+    "date": "2023-12-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1458,
+        "value": "Charles Gave"
+      },
+      {
+        "id": 1459,
+        "value": "Éric Zemmour"
+      },
+      {
+        "id": 1460,
+        "value": "Hervé Juvin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National"
+      },
+      {
+        "id": 190,
+        "value": "Reconquête"
+      },
+      {
+        "id": 191,
+        "value": "Commission nationale des comptes de campagne et des financements politiques (CNCCFP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
+  },
+  {
+    "id": 1655,
+    "titre": "Entre les marchands d’armes et l’Europe, l’idylle s’intensifie",
+    "contenu": "Le Conseil européen des 14 et 15 décembre a réaffirmé la volonté des Vingt-Sept d’investir encore plus dans l’industrie de la défense. Un réseau d’ONG dénonce le rapprochement croissant entre hauts fonctionnaires européens et industriels de l’armement.",
+    "url": "https://www.mediapart.fr/journal/international/181223/entre-les-marchands-d-armes-et-l-europe-l-idylle-s-intensifie",
+    "date": "2023-12-18",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [
+      {
+        "id": 1454,
+        "value": "Timo Pesonen"
+      },
+      {
+        "id": 1455,
+        "value": "Thierry Breton"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 85,
+        "value": "Thales"
+      },
+      {
+        "id": 151,
+        "value": "Dassault"
+      },
+      {
+        "id": 185,
+        "value": "European Network Against Arms Trade (ENAAT)"
+      },
+      {
+        "id": 187,
+        "value": "Airbus"
+      },
+      {
+        "id": 188,
+        "value": "Safran"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1205870,
+        "value": "Armement"
+      }
+    ],
+    "procedure": []
+  },
+  {
     "id": 1650,
     "titre": "GDE : Alain Lambert, l'ancien président du Département de l'Orne, bientôt jugé pour trafic d'influence",
     "contenu": "Alain Lambert, président du conseil départemental de l’Orne de 2007 à 2017, et son directeur de cabinet, Alain Pelleray, se sont-ils rendus coupables de trafic d'influence ? Du 16 au 23 octobre 2024, ils seront jugés par le tribunal correctionnel de Paris pour répondre à cette question dans le cadre du dossier épineux de la déchetterie GDE à Nonant-le-Pin (Orne).",
@@ -79,6 +232,35 @@
         "value": "Mise en examen"
       }
     ]
+  },
+  {
+    "id": 1657,
+    "titre": "Normandie : président de la Région, Hervé Morin épinglé pour ses frais de bouche",
+    "contenu": "Des dépenses « illégales » et « peu transparentes ». Le président de la région Normandie, Hervé Morin, a annoncé lundi « mettre fin au remboursement de ses frais de représentation » comme demandé par la Chambre régionale des comptes (CRC), confirmant des informations de médias locaux. Dans son rapport, qui fait état d’une situation financière régionale « demeurée confortable » entre 2018 et 2021, la CRC explique que la région rembourse au président ses « frais de représentation », composés « quasi exclusivement de frais de repas », pour un montant total de l’ordre de « 6 000 euros par an ».",
+    "url": "https://www.leparisien.fr/faits-divers/normandie-president-de-la-region-herve-morin-epingle-pour-ses-frais-de-bouche-18-12-2023-AZHARG3EBRH7PKGJ72VQRMSYZA.php?ts=1702985263287",
+    "date": "2023-12-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151711,
+        "value": "14 - Calvados"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1457,
+        "value": "Hervé Morin"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
   },
   {
     "id": 1652,
@@ -5761,9 +5943,28 @@
     "url": "https://www.marianne.net/politique/gouvernement/le-conseiller-charge-des-retraites-dolivier-dussopt-rejoint-axa-france-leader-sur-le-marche-de-lepargne-retraite",
     "date": "2023-10-03",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1233,
+        "value": "Léo Roesch"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 51,
+        "value": "Ministère du travail"
+      },
+      {
+        "id": 121,
+        "value": "Axa"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -7410,10 +7611,34 @@
     "url": "https://www.lemonde.fr/societe/article/2023/07/28/la-cour-de-cassation-rejette-les-recours-d-eric-dupond-moretti-et-ouvre-la-voie-a-un-proces-du-ministre-de-la-justice-pour-prise-illegale-d-interets_6183720_3224.html",
     "date": "2023-07-28",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 196,
+        "value": "Cour de cassation"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -7424,12 +7649,37 @@
     "url": "https://www.mediapart.fr/journal/france/280723/la-justice-ouvre-une-nouvelle-enquete-sur-la-campagne-presidentielle-de-valerie-pecresse?userid=21ca08a3-94df-4cfa-870d-f3d3a159e7d1",
     "date": "2023-07-28",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1461,
+        "value": "Valérie Pécresse"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 191,
+        "value": "Commission nationale des comptes de campagne et des financements politiques (CNCCFP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1332,
@@ -7438,10 +7688,37 @@
     "url": "https://www.marianne.net/economie/economie-francaise/favoritisme-ou-bourde-le-duel-suez-veolia-va-t-il-faire-exploser-le-premier-marche-public-de-leau-en-france",
     "date": "2023-07-28",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 101,
+        "value": "Compagnie générale des eaux"
+      },
+      {
+        "id": 193,
+        "value": "Veolia"
+      },
+      {
+        "id": 194,
+        "value": "Suez"
+      },
+      {
+        "id": 195,
+        "value": "Syndicat des eaux d’Île-de-France (Sedif)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -7467,7 +7744,12 @@
     "date": "2023-07-27",
     "etiquettes": "",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1462,
+        "value": "Isabelle Jegouzo"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -10143,9 +10425,24 @@
     "etiquettes": "Autorité des Marchés Financiers,Binance,Cédric O,Changpeng Zhao",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 131,
+        "value": "Binance"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1153329,
+        "value": "Cryptomonnaies"
+      }
+    ],
     "procedure": []
   },
   {
@@ -16851,9 +17148,24 @@
     "etiquettes": "Autorité des Marchés Financiers,Binance",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 131,
+        "value": "Binance"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1153329,
+        "value": "Cryptomonnaies"
+      }
+    ],
     "procedure": []
   },
   {
@@ -18554,16 +18866,36 @@
     "url": "https://www.theblock.co/linked/141778/binance-poaches-french-financial-regulators-deputy-general-counsel",
     "date": "2022-04-13",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1456,
+        "value": "Stéphanie Cabossioras"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 189,
+        "value": "Autorité des Marchés Financiers (AMF)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
         "value": "Observatoire des pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1153329,
+        "value": "Cryptomonnaies"
+      }
+    ],
     "procedure": []
   },
   {
