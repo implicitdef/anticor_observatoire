@@ -1,5 +1,44 @@
 [
   {
+    "id": 1659,
+    "titre": "Ingérence étrangère : le journaliste Rachid M’Barki mis en examen",
+    "contenu": "L’ancien journaliste de BFM-TV, Rachid M’Barki, licencié à l’issue d’une enquête interne, a été mis en examen le 8 décembre des chefs d’« abus de confiance » et de « corruption privée passive ». C’est un nouveau rebondissement dans la vaste enquête menée sur des soupçons d’ingérence étrangère en France, et dans laquelle sont notamment visés un lobbyiste et un spécialiste du Qatar.",
+    "url": "https://www.lemonde.fr/pixels/article/2023/12/19/ingerence-etrangere-le-journaliste-rachid-m-barki-mis-en-examen_6206719_4408996.html",
+    "date": "2024-12-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1241,
+        "value": "Rachid M’Barki"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 83,
+        "value": "BFM TV"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
+      }
+    ]
+  },
+  {
     "id": 1656,
     "titre": "Anticor signale à la justice le transfert d'une haute fonctionnaire de l'AMF à Binance",
     "contenu": "Anticor a annoncé avoir signalé à la justice des soupçons de prise illégale d'intérêts liés au recrutement d'une ancienne cadre à l'Autorité des marchés financiers (AMF) par Binance, un mois avant l'enregistrement de la plateforme de cryptomonnaies comme prestataire.",
@@ -1342,7 +1381,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1605,
@@ -4847,7 +4891,7 @@
       },
       {
         "id": 1423,
-        "value": "Hugues Cavallin"
+        "value": "Hughes Cavallin"
       }
     ],
     "personnes_morales": [
@@ -7729,10 +7773,34 @@
     "url": "https://www.mediapart.fr/journal/international/270723/affaire-pereira-patrick-drahi-l-insu-de-son-plein-gre?userid=21ca08a3-94df-4cfa-870d-f3d3a159e7d1",
     "date": "2023-07-27",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1384,
+        "value": "Patrick Drahi"
+      },
+      {
+        "id": 1463,
+        "value": "Armando Pereira"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 144,
+        "value": "Altice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -7743,15 +7811,30 @@
     "url": "https://www.gazette-du-palais.fr/actualites-professionnelles/isabelle-jegouzo-prend-la-tete-de-lagence-francaise-anticorruption/",
     "date": "2023-07-27",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 1462,
         "value": "Isabelle Jegouzo"
       }
     ],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 84,
+        "value": "Agence française anticorruption"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -7772,16 +7855,45 @@
   {
     "id": 1326,
     "titre": "Foot: une plainte de Platini visant Infantino transférée à la justice suisse",
-    "contenu": "Une plainte déposée par Michel Platini en novembre 2021 contre le patron de la Fifa Gianni Infantino pour trafic d'influence a été transférée à la justice suisse, a indiqué mercredi dans un communiqué l'ancien numéro 10, confirmé par le parquet de Paris.",
+    "contenu": "Une plainte déposée par Michel Platini en novembre 2021 contre le patron de la Fifa Gianni Infantino pour trafic d'influence a été transférée à la justice suisse.",
     "url": "https://www.lefigaro.fr/sports/football/foot-une-plainte-de-platini-visant-infantino-transferee-a-la-justice-suisse-20230726",
     "date": "2023-07-26",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1464,
+        "value": "Michel Platini"
+      },
+      {
+        "id": 1465,
+        "value": "Gianni Infantino"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 199,
+        "value": "Fédération internationale de football association (FIFA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
+      }
+    ]
   },
   {
     "id": 1325,
@@ -7790,12 +7902,41 @@
     "url": "https://www.mediapart.fr/journal/france/260723/la-prefete-de-region-centre-sera-jugee-pour-son-conflit-d-interets?userid=21ca08a3-94df-4cfa-870d-f3d3a159e7d1",
     "date": "2023-07-26",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151948,
+        "value": "45 - Loiret"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1272,
+        "value": "Régine Engström"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 77,
+        "value": "Nexity"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1323,
@@ -7804,12 +7945,41 @@
     "url": "https://www.lemonde.fr/economie/article/2023/07/25/un-cofondateur-d-altice-assigne-a-residence-apres-sa-mise-en-examen-pour-corruption-et-blanchiment-au-portugal_6183261_3234.html",
     "date": "2023-07-25",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1384,
+        "value": "Patrick Drahi"
+      },
+      {
+        "id": 1463,
+        "value": "Armando Pereira"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 144,
+        "value": "Altice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1322,
@@ -7818,26 +7988,95 @@
     "url": "https://www.lemonde.fr/societe/article/2023/07/24/billetterie-de-roland-garros-le-parquet-general-demande-au-pnf-d-ouvrir-une-enquete-preliminaire_6183199_3224.html",
     "date": "2023-07-24",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1291,
+        "value": "Gilles Moretton"
+      },
+      {
+        "id": 1422,
+        "value": "Jean-Luc Barrière"
+      },
+      {
+        "id": 1423,
+        "value": "Hughes Cavallin"
+      },
+      {
+        "id": 1466,
+        "value": "Alain Moreau"
+      },
+      {
+        "id": 1467,
+        "value": "Pascal Da Costa"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 165,
+        "value": "Fédération française de tennis (FFT)"
+      },
+      {
+        "id": 200,
+        "value": "Roland-Garros"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1307,
-    "titre": "Annecy : l’élue Marion Lafarie, maire-adjointe en charge des mobilités, visée par une enquête pour prise illégale d’intérêts. En cause, son implication dans une société de livraison à vélo, alors qu’elle est élue en charge des problématiques de mobilité.",
+    "titre": "Annecy : l’élue Marion Lafarie visée par une enquête pour «prise illégale d’intérêts»",
     "contenu": "Maire-adjointe en charge des mobilités, Marion Lafarie, proche de François Astorg, fait l’objet d’une enquête préliminaire ouverte ce lundi 17 juillet 2023 par le parquet d’Annecy. En cause, son implication dans une société de livraison à vélo, alors qu’elle est élue en charge des problématiques de mobilité.",
     "url": "https://lessorsavoyard.lemessager.fr/649301250/article/2023-07-18/annecy-l-elue-marion-lafarie-visee-par-une-enquete-pour-prise-illegale-d",
     "date": "2023-07-23",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1151969,
+        "value": "74 - Haute-Savoie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1468,
+        "value": "Marion Lafarie"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1308,
@@ -7846,26 +8085,71 @@
     "url": "https://www.lanouvellerepublique.fr/a-la-une/isabelle-adjani-l-actrice-au-coeur-de-scandales-financiers",
     "date": "2023-07-23",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1294,
+        "value": "Isabelle Adjani"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1313,
     "titre": "Plusieurs charges abandonnées contre le maire de Tarbes, Gérard Trémège, qui devra tout de même se justifier de favoritisme devant la justice.",
-    "contenu": "",
+    "contenu": "Inquiété par des affaires judiciaires depuis de nombreuses années, le maire de Tarbes entrevoit le bout du tunnel. Ce vendredi 21 juillet, Gérard Trémège a annoncé à la presse l'abandon de plusieurs charges à son encontre. Ne reste qu'un délit de favoritisme, qu'il assume.",
     "url": "https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/plusieurs-charges-abandonnees-contre-le-maire-de-tarbes-qui-devra-tout-de-meme-se-justifier-de-favoritisme-devant-la-justice-2815865.html",
     "date": "2023-07-23",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1151963,
+        "value": "65 - Hautes-Pyrénées"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1472,
+        "value": "Gérard Trémège"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1311,
@@ -7880,25 +8164,64 @@
         "value": "33 - Gironde"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1471,
+        "value": "Jean-Luc Pallin"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1309,
-    "titre": "Soupçon de prise illégale d'intérêts: perquisition ce jeudi matin à la mairie d’Auribeau",
+    "titre": "Soupçon de prise illégale d'intérêts : perquisition ce jeudi matin à la mairie d’Auribeau",
     "contenu": "Les gendarmes de la section de recherche de Fréjus-Marseille ont perquisitionné la mairie d’Auribeau ce jeudi matin. Le Parquet de Grasse a ouvert une enquête pour prise illégale d’intérêts dans l’affaire Paganin, où la maire Michèle Paganin est prise à partie par nombre de contradicteurs.",
     "url": "https://www.nicematin.com/politique/affaire-paganin-perquisition-a-la-mairie-d-auribeau-ce-jeudi-matin--862337",
     "date": "2023-07-23",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1469,
+        "value": "Michèle Paganin"
+      },
+      {
+        "id": 1470,
+        "value": "Marc Paganin"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1310,
@@ -7950,17 +8273,37 @@
     "url": "https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/un-policier-soupconne-d-avoir-ete-corrompu-par-un-trafiquant-de-drogue-ecroue-2814584.html",
     "date": "2023-07-23",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151972,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 201,
+        "value": "Direction nationale de la Police judiciaire"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1321,
     "titre": "Vers un procès pour favoritisme contre la directrice du MACTe",
-    "contenu": "Placée en garde-à-vue le 12 juillet et longuement auditionnée, Laurella Rinçon est renvoyée en correctionnelle pour favoritisme. La justice reproche à la directrice générale du Mémorial Acte (MACTe) à Pointe-à-Pitre la poursuite de marchés publics en dehors de tout cadre légal. Ary Chalus, le président de la région et du conseil d’administration du musée, l’a convoquée le 24 juillet pour lui signifier sa révocation.<br>",
+    "contenu": "Placée en garde-à-vue le 12 juillet et longuement auditionnée, Laurella Rinçon est renvoyée en correctionnelle pour favoritisme. La justice reproche à la directrice générale du Mémorial Acte (MACTe) à Pointe-à-Pitre la poursuite de marchés publics en dehors de tout cadre légal. Ary Chalus, le président de la région et du conseil d’administration du musée, l’a convoquée le 24 juillet pour lui signifier sa révocation.",
     "url": "https://www.blast-info.fr/articles/2023/guadeloupe-vers-un-proces-pour-favoritisme-contre-la-directrice-du-macte-I2_tRh-0SL2MS054dqx_ZA",
     "date": "2023-07-23",
     "etiquettes": "",
@@ -7970,11 +8313,31 @@
         "value": "971 - Guadeloupe"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1473,
+        "value": "Laurella Rinçon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 202,
+        "value": "Mémorial Acte (MACTe)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1315,
@@ -17894,14 +18257,37 @@
   {
     "id": 793,
     "titre": "Une préfète visée par la justice est candidate à la direction de l’ONF",
-    "contenu": "Vacant depuis près de deux mois, le poste de directeur général de l’Office national des forêts (ONF) attise les ambitions de hauts fonctionnaires proches d’Emmanuel Macron. Il y a quelques jours, La Lettre A dévoilait la candidature de Jean d’Haussonville, actuel directeur général du domaine de Chambord. À cette première candidature vient de s’ajouter celle de Régine Engström, préfète de la région Centre-Val de Loire depuis le 1ᵉʳ mars 2021.\nConcernant Jean d’Haussonville, diplomate de formation et spécialiste des questions culturelles, également commissaire à l’aménagement du domaine de Rambouillet, le corps lui reproche d’avoir retiré à l’ONF la gestion de la forêt de Chambord. Pas question donc de le voir débarquer maintenant à la tête d’un établissement auquel il semblait reprocher un certain manque de compétences.\nMais ce n’est rien par rapport à la réaction en forme de haut-le-cœur des IPEF en apprenant la candidature de la préfète Engström. « Non seulement, elle est connue pour être très autoritaire, ce qui compte tenu du climat social à l’ONF n’est pas une qualité, mais elle est l’objet d’une enquête de la justice et elle a été perquisitionnée », souligne un ingénieur.\nLes problèmes de la préfète nommée par Emmanuel Macron datent de fin janvier dernier. Mediapart publiait alors une enquête mettant en cause Régine Engström dans le dossier de rénovation de la caserne Gudin, à Montargis : elle serait intervenue auprès du ministère de la Culture en faveur du preneur, le groupe immobilier Nexity, son précédent employeur entre 2019 et 2021. Quelques semaines après ces révélations, le Parquet national financier a ouvert une instruction pour prise illégale d’intérêts et envoyé un service de police perquisitionner la préfecture de région !",
+    "contenu": "La préfète de la région Centre-Val de Loire, Régine Engström, veut le poste de directrice générale de l’ONF. Mise en cause pour prise illégale d’intérêts, la candidature de cette haute fonctionnaire suscite un fort rejet des ingénieurs des ponts, eaux et forêts.",
     "url": "https://reporterre.net/Une-prefete-visee-par-la-justice-est-candidate-a-la-direction-de-l-ONF",
     "date": "2022-05-20",
     "etiquettes": "Jean d’Haussonville,Nexity,Office national des forêts,Régine Engström",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1272,
+        "value": "Régine Engström"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Ministère de l'agriculture"
+      },
+      {
+        "id": 197,
+        "value": "Office national des forêts"
+      },
+      {
+        "id": 198,
+        "value": "Ministère de la Transition Écologique"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
