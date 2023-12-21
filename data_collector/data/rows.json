@@ -1,5 +1,48 @@
 [
   {
+    "id": 1662,
+    "titre": "Cumul d'emplois: une association dépose plainte au PNF contre l'entourage d'Éric Ciotti",
+    "contenu": "L'association anti-corruption AC!! a annoncé déposer plainte après un rapport pointant \"des cumuls d'emplois non déclarés ou non autorisés\" au conseil départemental des Alpes-Maritimes.",
+    "url": "https://www.bfmtv.com/cote-d-azur/cumul-d-emplois-une-association-depose-plainte-au-pnf-contre-l-entourage-d-eric-ciotti_AD-202312200407.html",
+    "date": "2023-12-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 144,
+        "value": "Éric Ciotti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains"
+      },
+      {
+        "id": 221,
+        "value": "AC!! Association Anti Corruption"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
+      }
+    ]
+  },
+  {
     "id": 1660,
     "titre": "Mediator : le laboratoire Servier condamné en appel à rembourser 415 millions d'euros à la Sécurité sociale",
     "contenu": "La cour d'appel de Paris a condamné ce mercredi le laboratoire Servier à une amende de plus de neuf millions d'euros, pour tromperie aggravée, homicides et blessures involontaires, mais aussi escroquerie - un délit pour lequel le laboratoire avait été relaxé en première instance - dans l'affaire du Mediator. Une amende beaucoup plus élevée que celle prononcée devant le tribunal correctionnel de Paris en 2021 où le groupe avait été condamné à 2,7 millions d'euros d'amende, c'est en revanche moins que les 13,5 millions d'euros réclamés par le parquet en appel.",
@@ -8415,27 +8458,86 @@
   {
     "id": 1315,
     "titre": "La FFR a fait crédit à Bernard Laporte de ses frais d'avocat",
-    "contenu": "",
-    "url": "https://buff.ly/3OorWNl",
+    "contenu": "En contradiction avec ses précédentes décisions, l'ancien bureau fédéral a signé, juste avant le changement de gouvernance, une convention repoussant à loin l'éventuel remboursement des frais d'avocat de Bernard Laporte, dont le montant a été entre-temps ratiboisé.",
+    "url": "https://www.lequipe.fr/Rugby/Article/La-maison-ffr-fait-credit-a-bernard-laporte/1408998",
     "date": "2023-07-22",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1475,
+        "value": "Bernard Laporte"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 206,
+        "value": "Fédération française de rugby"
+      },
+      {
+        "id": 207,
+        "value": "Altrad"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
   {
     "id": 1316,
     "titre": "Privatisation de l’enseignement supérieur : des « pantouflages » emblématiques",
-    "contenu": "",
-    "url": "https://buff.ly/3O53LSH",
+    "contenu": "Des personnalités politiques et universitaires de haut vol cèdent aux sirènes de l’enseignement supérieur privé. Les établissements payants surfent sur le boom de l’apprentissage et fleurissent grâce à l’argent public, en marge d’une sélection accrue à l’université.  Ils accueillent désormais un quart des étudiants.",
+    "url": "https://www.mediapart.fr/journal/france/220723/privatisation-de-l-enseignement-superieur-des-pantouflages-emblematiques?utm_source=global&utm_medium=social&utm_campaign=SharingApp&xtor=CS3-5",
     "date": "2023-07-22",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1476,
+        "value": "Jean-Michel Blanquer"
+      },
+      {
+        "id": 1477,
+        "value": "Muriel Pénicaud"
+      },
+      {
+        "id": 1478,
+        "value": "Guillaume Pepy"
+      },
+      {
+        "id": 1479,
+        "value": "Martin Hirsch"
+      },
+      {
+        "id": 1480,
+        "value": "Monique Canto-Sperber"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 193,
+        "value": "Veolia"
+      },
+      {
+        "id": 208,
+        "value": "Galileo"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -8448,42 +8550,149 @@
   {
     "id": 1314,
     "titre": "Révélations sur Armando Pereira, l’investisseur masqué de l’empire Drahi, actuellement en détention provisoire. Il est dans le collimateur de la justice portugaise, qui l’accuse de corruption, blanchiment, et fraude fiscale.",
-    "contenu": "",
+    "contenu": "Le propriétaire de SFR et BFM TV tente de prendre ses distances avec son ancien bras droit, actuellement en détention provisoire. Pas évident : celui-ci a financé la plupart de ses projets, d’Altice USA à Sotheby’s.",
     "url": "https://www.linforme.com/tech-telecom/article/comment-armando-pereira-a-infiltre-l-empire-drahi-partie-1_848.html",
     "date": "2023-07-22",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1384,
+        "value": "Patrick Drahi"
+      },
+      {
+        "id": 1463,
+        "value": "Armando Pereira"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 83,
+        "value": "BFM TV"
+      },
+      {
+        "id": 144,
+        "value": "Altice"
+      },
+      {
+        "id": 204,
+        "value": "Sotheby’s"
+      },
+      {
+        "id": 205,
+        "value": "SFR"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
   {
     "id": 1317,
     "titre": "Soupçonné de conflit d’intérêts lié au marché des prestataires privés de Pôle emploi, Marc Ferracci s’éloigne du projet de loi « plein emploi »",
-    "contenu": "",
-    "url": "https://buff.ly/3Q7YJYf",
+    "contenu": "Le député de la majorité renonce à porter le projet de loi qui donnera naissance à France Travail. Une enquête du site d’information Blast met en cause l’élu, ainsi que son père, sur un possible conflit d’intérêts lié au marché des prestataires privés de Pôle emploi. Les deux hommes dénoncent des accusations mensongères.",
+    "url": "https://www.mediapart.fr/journal/politique/200723/soupconne-de-conflit-d-interets-marc-ferracci-s-eloigne-du-projet-de-loi-plein-emploi",
     "date": "2023-07-22",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 210,
+        "value": "Marc Ferracci"
+      },
+      {
+        "id": 1481,
+        "value": "Pierre Ferracci"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 209,
+        "value": "Pôle emploi"
+      },
+      {
+        "id": 210,
+        "value": "Sémaphores"
+      },
+      {
+        "id": 211,
+        "value": "Aksis"
+      },
+      {
+        "id": 212,
+        "value": "Groupe Alpha"
+      },
+      {
+        "id": 213,
+        "value": "Alliance Compétences"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
   {
     "id": 1318,
     "titre": "RDC : les virements suspects de Perenco au premier cercle du président Kabila\nhttps://buff.ly/46VVcCs",
-    "contenu": "",
-    "url": "https://buff.ly/46OGZam",
+    "contenu": "Grâce aux documents « Congo hold-up », Mediapart et Investigate Europe révèlent que la société pétrolière française Perenco a payé 1,3 million de dollars à des entreprises contrôlées par des très proches de Joseph Kabila, lorsqu’il était président du Congo-Kinshasa.",
+    "url": "https://www.mediapart.fr/journal/international/200723/rdc-les-virements-suspects-de-perenco-au-premier-cercle-du-president-kabila",
     "date": "2023-07-20",
     "etiquettes": "",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1482,
+        "value": "Joseph Kabila"
+      },
+      {
+        "id": 1483,
+        "value": "Alain Wan"
+      },
+      {
+        "id": 1484,
+        "value": "Marc Piedbœuf"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 152,
+        "value": "Sherpa"
+      },
+      {
+        "id": 214,
+        "value": "Perenco"
+      },
+      {
+        "id": 215,
+        "value": "Les Amis de la Terre"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -8494,45 +8703,122 @@
     "url": "https://alloforfait.fr/business/news/119415-fftelecoms-roain-bonenfant-nomme-directeur-general.html",
     "date": "2023-07-19",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1256,
+        "value": "Romain Bonenfant"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 216,
+        "value": "Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP)"
+      },
+      {
+        "id": 217,
+        "value": "Fédération Française des Télécoms"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
         "value": "Observatoire des pantouflages"
       }
     ],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1320,
-    "titre": "Après les rapports de la Chambre régionale des comptes épinglant la gestion de la Ville de Carhaix et de Poher communauté, une enquête a été ouverte par le procureur de la République de Brest (Finistère) pour prise illégale d’intérêt et favoritisme.",
-    "contenu": "",
-    "url": "https://www.ouest-france.fr/bretagne/carhaix-plouguer-29270/rapports-de-la-chambre-regionale-des-comptes-a-carhaix-une-enquete-judiciaire-ouverte-b2f256d6-24d7-11ee-b6a8-3abc413c71fc",
-    "date": "2023-07-18",
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
     "procedure": []
   },
   {
     "id": 1319,
-    "titre": "La commission d’enquête parlementaire consacrée aux Uber Files confirme la proximité étroite entre Uber et Emmanuel Macron qui s’est poursuivie après son élection à la présidence de la République.",
-    "contenu": "",
+    "titre": "Enquête Uber Files : ce que dit le rapport de la commission d’enquête parlementaire",
+    "contenu": "La commission d’enquête parlementaire consacrée aux Uber Files confirme les informations révélées en juillet 2022 par la cellule investigation de Radio France. Elle dénonce une proximité étroite entre Uber et Emmanuel Macron qui s’est poursuivie après son élection à la présidence de la République.",
     "url": "https://www.francetvinfo.fr/politique/emmanuel-macron/enquete-uber-files-ce-que-dit-le-rapport-de-la-commission-d-enquete-parlementaire_5955548.html",
     "date": "2023-07-18",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1275,
+        "value": "Emmanuel Macron"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 218,
+        "value": "Uber"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
     "procedure": []
+  },
+  {
+    "id": 1301,
+    "titre": "Rapports de la Chambre régionale des comptes à Carhaix : une enquête ouverte pour favoritisme",
+    "contenu": "Après les rapports de la Chambre régionale des comptes épinglant la gestion de la Ville de Carhaix et de Poher communauté, une enquête a été ouverte par le procureur de la République de Brest (Finistère) pour prise illégale d’intérêt et favoritisme.",
+    "url": "https://www.ouest-france.fr/bretagne/carhaix-plouguer-29270/rapports-de-la-chambre-regionale-des-comptes-a-carhaix-une-enquete-judiciaire-ouverte-b2f256d6-24d7-11ee-b6a8-3abc413c71fc",
+    "date": "2023-07-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151723,
+        "value": "29 - Finistère"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1485,
+        "value": "Christian Troadec"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1306,
@@ -8576,44 +8862,84 @@
   {
     "id": 1302,
     "titre": "Beausoleil : Le Maire Gérard Spinelli comparaîtra devant la justice en septembre. Il lui est reproché d’avoir organisé des soirées privées aux frais du contribuable.",
-    "contenu": "",
+    "contenu": "Après une perquisition au sein de la mairie de Beausoleil en mai par la police judiciaire, et un premier placement en garde à vue, le maire de Beausoleil était déféré devant le Procureur de la République de Nice le 16 juin dernier. Il devra comparaître devant le Tribunal correctionnel le 25 septembre 2023.",
     "url": "https://www.monaco-tribune.com/2023/07/beausoleil-le-maire-gerard-spinelli-comparaitra-devant-la-justice-en-septembre/",
     "date": "2023-07-14",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1353,
+        "value": "Gérard Spinelli"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 219,
+        "value": "Association beausoleilloise des amis d’Alba"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1304,
-    "titre": "La Haute autorité pour la transparence de la vie publique doit rendre un avis sur le projet de reconversion de David Amaré, fonctionnaire de police souhaitant rejoindre le FC Nantes.",
-    "contenu": "",
-    "url": "https://actu.fr/pays-de-la-loire/nantes_44109/nouveau-directeur-de-la-surete-et-de-la-securite-au-fc-nantes-la-hatvp-saisie_59840665.html",
-    "date": "2023-07-14",
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1303,
-    "titre": "Le maire de Moulins Pierre-André Périssol sera jugé en décembre pour prise illégale d’intérêts, pour avoir initié la fusion de deux offices HLM de l’Allier avec Evoléa (groupe Arcade VYV) en tant qu’élu, alors qu'il était encore lié au groupe comme administrateur.",
-    "contenu": "",
+    "titre": "Le maire de Moulins Pierre-André Périssol jugé en décembre 2023 pour « prise illégale d’intérêts »",
+    "contenu": "Maire de Moulins depuis 29 ans, député de l’Allier pendant 2 mandats, Pierre-André Périssol est renvoyé devant le tribunal correctionnel de Cusset le 14 décembre prochain. La justice lui reproche « des prises illégales d’intérêts et des manquements à la probité ».",
     "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/allier/moulins/info-france-3-pierre-andre-perissol-maire-de-moulins-sera-juge-en-decembre-2023-pour-prise-illegale-d-interets-2811431.html",
     "date": "2023-07-14",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151602,
+        "value": "03 - Allier"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1418,
+        "value": "Pierre-André Périssol"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains"
+      },
+      {
+        "id": 220,
+        "value": "Groupe Arcade-VYV"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1305,
@@ -8630,16 +8956,36 @@
     "procedure": []
   },
   {
-    "id": 1301,
-    "titre": "Nicolas Best, directeur général du CHU de Nîmes est renvoyé devant le tribunal correctionnel de Paris pour favoritisme. Une enquête était en cours depuis plusieurs années concernant l'attribution \"douteuse\" de marchés publics à des sociétés privées.",
-    "contenu": "",
-    "url": "https://www.objectifgard.com/faits-divers/nimes-le-directeur-du-chu-officiellement-renvoye-au-tribunal-correctionnel-112829.php",
+    "id": 1304,
+    "titre": "Nouveau directeur de la sûreté et de la sécurité au FC Nantes : la HATVP saisie",
+    "contenu": "La Haute autorité pour la transparence de la vie publique doit rendre un avis sur le projet de reconversion de David Amaré, fonctionnaire de police souhaitant rejoindre le FCN.",
+    "url": "https://actu.fr/pays-de-la-loire/nantes_44109/nouveau-directeur-de-la-surete-et-de-la-securite-au-fc-nantes-la-hatvp-saisie_59840665.html",
     "date": "2023-07-14",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151947,
+        "value": "44 - Loire-Atlantique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1486,
+        "value": "David Amaré"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -8764,6 +9110,45 @@
     "categorie": [],
     "theme": [],
     "procedure": []
+  },
+  {
+    "id": 1320,
+    "titre": "Le directeur du CHU de Nîmes officiellement renvoyé au tribunal correctionnel",
+    "contenu": "Après les rapports de la Chambre régionale des comptes épinglant la gestion de la Ville de Carhaix et de Poher communauté, une enquête a été ouverte par le procureur de la République de Brest (Finistère) pour prise illégale d’intérêt et favoritisme.",
+    "url": "https://www.objectifgard.com/faits-divers/nimes-le-directeur-du-chu-officiellement-renvoye-au-tribunal-correctionnel-112829.php",
+    "date": "2023-07-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151844,
+        "value": "30 - Gard"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1440,
+        "value": "Nicolas Best"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 173,
+        "value": "Centre hospitalier universitaire (CHU) de Nîmes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1293,
