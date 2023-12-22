@@ -1,5 +1,134 @@
 [
   {
+    "id": 1667,
+    "titre": "Affaire Business France : Muriel Pénicaud mise en examen pour « complicité de favoritisme »",
+    "contenu": "L’ex-ministre du travail a été mise en examen, en octobre, dans le cadre d’une enquête visant une soirée organisée à Las Vegas en janvier 2016 à la demande d’Emmanuel Macron, alors ministre de l’économie.",
+    "url": "https://www.lemonde.fr/societe/article/2023/12/22/affaire-business-france-muriel-penicaud-mise-en-examen-pour-complicite-de-favoritisme_6207365_3224.html",
+    "date": "2023-12-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1275,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 1477,
+        "value": "Muriel Pénicaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 51,
+        "value": "Ministère du travail"
+      },
+      {
+        "id": 71,
+        "value": "Havas"
+      },
+      {
+        "id": 229,
+        "value": "Business France"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
+      }
+    ]
+  },
+  {
+    "id": 1665,
+    "titre": "Deux responsables du syndicat Avenir lycéen condamnés pour leur utilisation de fonds publics",
+    "contenu": "Deux responsables du syndicat Avenir lycéen, créé pour soutenir les réformes de l’ex-ministre de l’éducation nationale Jean-Michel Blanquer et accusé d’avoir dilapidé des subventions publiques, ont été condamnés vendredi 22 décembre à Paris à huit mois de prison avec sursis.",
+    "url": "https://www.lemonde.fr/societe/article/2023/12/22/deux-responsables-du-syndicat-avenir-lyceen-condamnes-pour-leur-utilisation-de-fonds-publics_6207320_3224.html",
+    "date": "2023-12-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1476,
+        "value": "Jean-Michel Blanquer"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 227,
+        "value": "Ministère de l'Éducation nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
+    "id": 1666,
+    "titre": "Les Décodeurs  L’ombre de Gazprom plane sur une des plus luxueuses villas de la Côte d’Azur",
+    "contenu": "Officiellement détenue par un milliardaire russo-arménien, la Villa del Mare à Roquebrune-Cap-Martin est en réalité liée au géant russe à travers une cascade de sociétés. La justice française a ouvert une enquête pour blanchiment.",
+    "url": "https://www.lemonde.fr/economie/article/2023/12/22/l-ombre-de-gazprom-plane-sur-une-des-plus-luxueuses-villas-de-la-cote-d-azur_6207330_3234.html",
+    "date": "2023-12-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1489,
+        "value": "Samvel Karapetyan"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 228,
+        "value": "Gazprom"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
+  },
+  {
     "id": 1663,
     "titre": "Champagne et montres de luxe : les cadeaux non déclarés de l’industrie pharmaceutique à la nouvelle ministre de la santé",
     "contenu": "Agnès Firmin Le Bodo, nommée mercredi après la démission d’Aurélien Rousseau, est visée par une enquête sur les cadeaux de la multinationale Urgo. En tant que pharmacienne, elle est soupçonnée d’avoir reçu de 2015 à 2020 pour 20 000 euros de bouteilles de champagne, montres de luxe, etc.",
@@ -35,6 +164,35 @@
       {
         "id": 1153422,
         "value": "Enquête"
+      }
+    ]
+  },
+  {
+    "id": 1664,
+    "titre": "Un réseau de corruption impliquant une greffière démantelé au centre pénitentiaire de Meaux",
+    "contenu": "Un réseau impliquant deux agents du centre pénitentiaire de Meaux-Chauconin (Seine-et-Marne), dont une greffière, a été démantelé après des remises ou tentatives de remise en liberté de trafiquants de drogue. L'enquête porte sur des faits débutés en 2021.",
+    "url": "https://www.francetvinfo.fr/societe/justice/prison-un-reseau-de-corruption-impliquant-une-greffiere-demantelee-au-centre-penitentiaire-de-meaux_6258264.html",
+    "date": "2023-12-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151975,
+        "value": "77 - Seine-et-Marne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
       }
     ]
   },
