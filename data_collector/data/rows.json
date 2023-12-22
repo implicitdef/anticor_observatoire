@@ -6264,9 +6264,24 @@
     "url": "https://www.lalettrea.fr/action-publique_executif/2023/09/28/benoit-cormier-quitte-le-quai-d-orsay-et-rejoint-teneo-a-bruxelles,110059240-bre",
     "date": "2023-09-28",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1246,
+        "value": "Benoît Cormier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 52,
+        "value": "Teneo"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -6283,9 +6298,28 @@
     "url": "https://www.lalettrea.fr/action-publique_executif/2023/09/28/un-ex-magistrat-du-pnf-en-route-vers-un-cabinet-d-avocats-international%2C110059391-eve",
     "date": "2023-09-28",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1254,
+        "value": "Vincent Filhol"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 57,
+        "value": "Stephenson Harwood"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -6302,9 +6336,24 @@
     "url": "https://www.challenges.fr/entreprise/defense/le-general-bonnet-de-paillerets-numero-deux-de-la-dgse-rejoint-orange-cyberdefense_868690",
     "date": "2023-09-27",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1255,
+        "value": "Olivier Bonnet de Paillerets"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 56,
+        "value": "Orange"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
