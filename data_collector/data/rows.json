@@ -1,5 +1,44 @@
 [
   {
+    "id": 1663,
+    "titre": "Champagne et montres de luxe : les cadeaux non déclarés de l’industrie pharmaceutique à la nouvelle ministre de la santé",
+    "contenu": "Agnès Firmin Le Bodo, nommée mercredi après la démission d’Aurélien Rousseau, est visée par une enquête sur les cadeaux de la multinationale Urgo. En tant que pharmacienne, elle est soupçonnée d’avoir reçu de 2015 à 2020 pour 20 000 euros de bouteilles de champagne, montres de luxe, etc.",
+    "url": "https://www.mediapart.fr/journal/france/211223/champagne-et-montres-de-luxe-les-cadeaux-non-declares-de-l-industrie-pharmaceutique-la-nouvelle-ministre-d",
+    "date": "2023-12-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1487,
+        "value": "Agnès Firmin Le Bodo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 222,
+        "value": "Laboratoires Urgo"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
+  },
+  {
     "id": 1662,
     "titre": "Cumul d'emplois: une association dépose plainte au PNF contre l'entourage d'Éric Ciotti",
     "contenu": "L'association anti-corruption AC!! a annoncé déposer plainte après un rapport pointant \"des cumuls d'emplois non déclarés ou non autorisés\" au conseil départemental des Alpes-Maritimes.",
@@ -9040,14 +9079,29 @@
   },
   {
     "id": 1299,
-    "titre": "Charline Avenel, rectrice de Versailles, va rejoindre le groupe d'enseignement supérieur privé Ionis comme directrice générale.",
-    "contenu": "",
+    "titre": "Charline Avenel rejoint Ionis",
+    "contenu": "Charline Avenel, rectrice de Versailles, va prendre la direction générale du groupe Ionis. Le groupe d’enseignement supérieur privé Ionis compte 35 000 étudiants, 29 écoles et entités.",
     "url": "https://www.aefinfo.fr/depeche/671599-charline-avenel-devrait-rejoindre-le-groupe-ionis-comme-directrice-generale",
     "date": "2023-07-13",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1258,
+        "value": "Charline Avenel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 65,
+        "value": "IONIS Education Group"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -9060,31 +9114,35 @@
   {
     "id": 1300,
     "titre": "Le chef de l’État sohaite déléguer aux élus locaux l’attribution des logements sociaux, alors que depuis des années, de nombreux maires se servent du levier locatif comme d’un instrument de clientélisme et de maintien de l’entre-soi.",
-    "contenu": "",
+    "contenu": "Après la révolte des quartiers, le chef de l’État a souhaité déléguer aux élus locaux l’attribution des logements sociaux. Un demi-tour sur le chemin de la mixité sociale : depuis des années, de nombreux maires se servent du levier locatif comme d’un instrument de clientélisme et de maintien de l’entre-soi.",
     "url": "https://www.mediapart.fr/journal/france/130723/macron-confie-les-hlm-aux-maires-et-ouvre-la-porte-l-arbitraire",
     "date": "2023-07-13",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1488,
-    "titre": "Charline Avenel rejoint Ionis",
-    "contenu": "Charline Avenel, rectrice de Versailles, va prendre la direction générale du groupe d’enseignement supérieur privé Ionis, qui compte 35 000 étudiants, 29 écoles et entités.",
-    "url": "https://www.aefinfo.fr/depeche/671599-charline-avenel-devrait-rejoindre-le-groupe-ionis-comme-directrice-generale",
-    "date": "2023-07-12",
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 198,
+        "value": "Ministère de la Transition Écologique"
+      },
+      {
+        "id": 223,
+        "value": "Action Logement"
+      },
+      {
+        "id": 225,
+        "value": "Ministère chargé du logement"
+      }
+    ],
     "categorie": [
       {
-        "id": 1152013,
-        "value": "Observatoire des pantouflages"
+        "id": 1152014,
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -9093,14 +9151,46 @@
   {
     "id": 1298,
     "titre": "« Rafale Papers » : le document qui implique Michel Sapin et Emmanuel Macron\nhttps://buff.ly/3NOh5Ld",
-    "contenu": "",
+    "contenu": "Le groupe Reliance, soupçonné d’avoir été imposé par le premier ministre indien comme bénéficiaire du contrat des Rafale en 2015, aujourd’hui au centre d’une affaire judiciaire, a bénéficié au même moment d’une intervention politique dans son contentieux fiscal en France. Le tout à la suite d’un courrier adressé par son patron aux ministres de l’époque : Michel Sapin et Emmanuel Macron.",
     "url": "https://www.mediapart.fr/journal/international/120723/rafale-papers-le-document-qui-implique-michel-sapin-et-emmanuel-macron",
     "date": "2023-07-12",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1275,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 1394,
+        "value": "François Hollande"
+      },
+      {
+        "id": 1395,
+        "value": "Narendra Modi"
+      },
+      {
+        "id": 1397,
+        "value": "Anil Ambani"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 226,
+        "value": "Reliance Industries"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
