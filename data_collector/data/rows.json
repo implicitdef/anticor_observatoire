@@ -129,6 +129,123 @@
     ]
   },
   {
+    "id": 1668,
+    "titre": "Près de 100 000 euros manquants : la déclaration d’intérêts sous-évaluée de la ministre Sabrina Agresti-Roubache",
+    "contenu": "Les déclarations de Sabrina Agresti-Roubache à la HATVP ont évolué dans le temps, notamment concernant sa rémunération. Ses émoluments ont été sous-évalués de 2018 à 2022, avant qu'elle ne rectifie le tir dans sa fiche publiée ce jeudi 21 décembre.",
+    "url": "https://www.marianne.net/politique/lrem/pres-de-100-000-euros-manquants-la-declaration-dinterets-sous-evaluee-de-la-ministre-sabrina-agresti-roubache",
+    "date": "2023-12-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1490,
+        "value": "Sabrina Agresti-Roubache"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
+  },
+  {
+    "id": 1671,
+    "titre": "Prise illégale d'intérêt : le président du Conseil départemental de la Mayenne a été entendu en garde à vue",
+    "contenu": "Le président du Conseil départemental de la Mayenne, Olivier Richefou, a été placé quelques heures en garde à vue pour répondre de faits de prise illégale d'intérêt, confirme ce vendredi le procureur de la République de Rennes. Il est ressorti libre. Une enquête a été ouverte en octobre dernier.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/prise-illegale-d-interet-le-president-du-conseil-departemental-de-la-mayenne-a-ete-entendu-en-garde-a-vue-3417826",
+    "date": "2023-12-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151954,
+        "value": "53 - Mayenne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1491,
+        "value": "Olivier Richefou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 230,
+        "value": "Actual group"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
+  },
+  {
+    "id": 1670,
+    "titre": "Soupçons de frais de restaurant non justifiés : l’ex-maire d’Argenteuil visé par une nouvelle enquête",
+    "contenu": "Le parquet national financier a ouvert une enquête préliminaire pour détournement de fonds publics. Dans le viseur notamment, des notes de restaurant de l’ancien premier édile d’Argenteuil, Philippe Doucet (PS), pour un montant de 77 000 euros entre 2 010 et 2 014 dont une partie pourrait ne pas être justifiée. Il s’était alloué en plus une allocation annuelle de 9 000 euros prévue à cet effet.",
+    "url": "https://www.leparisien.fr/val-d-oise-95/soupcons-frais-de-restaurant-non-justifies-lex-maire-dargenteuil-vise-par-une-nouvelle-enquete-22-12-2023-KS3VY5NH2NBYXEDVKGZ32VQ3FI.php?ts=1703357428174",
+    "date": "2023-12-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151989,
+        "value": "95 - Val-d'Oise"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1244,
+        "value": "Philippe Doucet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
+  },
+  {
     "id": 1663,
     "titre": "Champagne et montres de luxe : les cadeaux non déclarés de l’industrie pharmaceutique à la nouvelle ministre de la santé",
     "contenu": "Agnès Firmin Le Bodo, nommée mercredi après la démission d’Aurélien Rousseau, est visée par une enquête sur les cadeaux de la multinationale Urgo. En tant que pharmacienne, elle est soupçonnée d’avoir reçu de 2015 à 2020 pour 20 000 euros de bouteilles de champagne, montres de luxe, etc.",
@@ -221,8 +338,8 @@
         "value": "Les Républicains"
       },
       {
-        "id": 221,
-        "value": "AC!! Association Anti Corruption"
+        "id": 170,
+        "value": "AC !! Anti-Corruption"
       }
     ],
     "categorie": [
@@ -10453,6 +10570,20 @@
         "value": "29 - Finistère"
       }
     ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1669,
+    "titre": "Formation des libéraux : déplorant \"un détournement de fonds avéré\", la CNPL critique la gestion financière du FIF-PL",
+    "contenu": "",
+    "url": "https://www.aefinfo.fr/depeche/686048-formation-des-liberaux-deplorant-un-detournement-de-fonds-avere-la-cnpl-critique-la-gestion-financiere-du-fif-pl",
+    "date": "2023-01-19",
+    "etiquettes": "",
+    "departement": [],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
