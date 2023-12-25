@@ -1,5 +1,39 @@
 [
   {
+    "id": 1672,
+    "titre": "Un ancien agent et élu municipal condamné en appel pour détournement de biens publics",
+    "contenu": "Ancien agent municipal et élu de la commune de Montereau-Fault-Yonne (Seine-et-Marne), Damien Buzzi, 50 ans, voit sa condamnation pour détournement de biens publics confirmée en appel. Une procédure en justice avait été lancée par la municipalité en juin 2021. Révoqué de la fonction publique depuis, Damien Buzzi clame son innocence.",
+    "url": "https://www.leparisien.fr/seine-et-marne-77/montereau-fault-yonne-77130/on-ma-piege-un-ancien-agent-et-elu-municipal-condamne-en-appel-pour-detournement-de-biens-publics-24-12-2023-6WIQRAIFCRERVNUM3PC24LGZ3U.php",
+    "date": "2023-12-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151975,
+        "value": "77 - Seine-et-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1492,
+        "value": "Damien Buzzi"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
     "id": 1667,
     "titre": "Affaire Business France : Muriel Pénicaud mise en examen pour « complicité de favoritisme »",
     "contenu": "L’ex-ministre du travail a été mise en examen, en octobre, dans le cadre d’une enquête visant une soirée organisée à Las Vegas en janvier 2016 à la demande d’Emmanuel Macron, alors ministre de l’économie.",
@@ -86,6 +120,45 @@
       {
         "id": 1153425,
         "value": "Condamnation"
+      }
+    ]
+  },
+  {
+    "id": 1673,
+    "titre": "Fraude au chômage partiel : le patron des huissiers mis en cause",
+    "contenu": "Président de la Chambre nationale des commissaires de justice (le nouvel Ordre des huissiers et commissaires-priseurs judiciaires), Benoît Santoire aurait fait travailler ses salariés de Verdun tout en touchant les aides Covid.",
+    "url": "https://www.linforme.com/banque-finance/article/fraude-au-chomage-partiel-le-patron-des-huissiers-mis-en-cause_1305.html?utm_campaign=content&utm_medium=email&utm_source=quotidienne",
+    "date": "2023-12-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1493,
+        "value": "Benoît Santoire"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 231,
+        "value": "Chambre nationale des commissaires de justice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
       }
     ]
   },
