@@ -1,5 +1,64 @@
 [
   {
+    "id": 1674,
+    "titre": "Saint-Tropez : le jardinier des milliardaires est mis en examen",
+    "contenu": "Soupçonné d’avoir mis en place un vaste système de paiements en liquide et de prestations sans factures, Thierry Derbez, qui a longtemps conçu les parcs pharaoniques des milliardaires de la baie de Saint-Tropez, a été mis en examen et placé sous contrôle judiciaire.",
+    "url": "https://www.mediapart.fr/journal/france/251223/saint-tropez-le-jardinier-des-milliardaires-est-mis-en-examen",
+    "date": "2023-12-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151980,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1494,
+        "value": "Thierry Derbez"
+      },
+      {
+        "id": 1495,
+        "value": "Arnaud Mulliez"
+      },
+      {
+        "id": 1496,
+        "value": "Hervé d’Halluin"
+      },
+      {
+        "id": 1497,
+        "value": "Vincent Mignot"
+      },
+      {
+        "id": 1498,
+        "value": "Alain Madar"
+      },
+      {
+        "id": 1499,
+        "value": "Jean Madar"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 232,
+        "value": "TD Développement"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
+      }
+    ]
+  },
+  {
     "id": 1672,
     "titre": "Un ancien agent et élu municipal condamné en appel pour détournement de biens publics",
     "contenu": "Ancien agent municipal et élu de la commune de Montereau-Fault-Yonne (Seine-et-Marne), Damien Buzzi, 50 ans, voit sa condamnation pour détournement de biens publics confirmée en appel. Une procédure en justice avait été lancée par la municipalité en juin 2021. Révoqué de la fonction publique depuis, Damien Buzzi clame son innocence.",
