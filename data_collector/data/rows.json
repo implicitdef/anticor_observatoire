@@ -1,5 +1,99 @@
 [
   {
+    "id": 1675,
+    "titre": "À Nice, la justice est saisie du cas des époux Estrosi",
+    "contenu": "La journaliste Laura Tenoudji a récemment coanimé la cérémonie d’ouverture de l’Eurovision de la chanson junior 2023, événement en partie financé par la municipalité que dirige son mari, Christian Estrosi. Ce n’est pas la première fois que les collaborations de celle que la presse locale a rebaptisée « la première dame de Nice » suscitent la polémique. Deux signalements ont été adressés à la justice.",
+    "url": "https://www.mediapart.fr/journal/france/261223/nice-la-justice-est-saisie-du-cas-des-epoux-estrosi",
+    "date": "2023-12-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1500,
+        "value": "Christian Estrosi"
+      },
+      {
+        "id": 1511,
+        "value": "Laura Tenoudji"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 244,
+        "value": "Eurovision"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
+  },
+  {
+    "id": 1676,
+    "titre": "Sabrina Agresti-Roubache, secrétaire d’Etat à la Ville : «Je ne suis pas une narco-productrice !»",
+    "contenu": "Proche des Macron, la ministre a domicilié l’une de ses sociétés, du temps où elle était productrice dans l’audiovisuel, chez un Corse condamné dans l’affaire du cercle de jeux Wagram.",
+    "url": "https://www.liberation.fr/societe/ville/sabrina-agresti-roubache-secretaire-detat-a-la-ville-je-ne-suis-pas-une-narco-productrice-20231226_MSVUWFE4M5BEXGDK4JPNBFPS34/?redirected=1",
+    "date": "2023-12-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1490,
+        "value": "Sabrina Agresti-Roubache"
+      },
+      {
+        "id": 1512,
+        "value": "Jean Casta"
+      },
+      {
+        "id": 1513,
+        "value": "Jean-Philippe Agresti"
+      },
+      {
+        "id": 1514,
+        "value": "Marc Pietri"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 245,
+        "value": "Cercle de jeu Wagram"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
+  },
+  {
     "id": 1674,
     "titre": "Saint-Tropez : le jardinier des milliardaires est mis en examen",
     "contenu": "Soupçonné d’avoir mis en place un vaste système de paiements en liquide et de prestations sans factures, Thierry Derbez, qui a longtemps conçu les parcs pharaoniques des milliardaires de la baie de Saint-Tropez, a été mis en examen et placé sous contrôle judiciaire.",
