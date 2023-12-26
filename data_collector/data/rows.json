@@ -3569,7 +3569,12 @@
         "value": "Mediacités"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [
       {
         "id": 1195754,
@@ -9437,20 +9442,6 @@
     ]
   },
   {
-    "id": 1305,
-    "titre": "Nice Métropole : possible détournement de fonds publics, \"plusieurs millions d'euros de préjudice\" dans le règlement de certains chantiers dans les vallées de la Tinée et de la Vésubie, après la tempête Alex.",
-    "contenu": "",
-    "url": "https://nicepresse.com/nice-metropole-possible-detournement-de-fonds-publics-plusieurs-millions-deuros-de-prejudice/",
-    "date": "2023-07-14",
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 1304,
     "titre": "Nouveau directeur de la sûreté et de la sécurité au FC Nantes : la HATVP saisie",
     "contenu": "La Haute autorité pour la transparence de la vie publique doit rendre un avis sur le projet de reconversion de David Amaré, fonctionnaire de police souhaitant rejoindre le FCN.",
@@ -9771,6 +9762,40 @@
     ],
     "theme": [],
     "procedure": []
+  },
+  {
+    "id": 1305,
+    "titre": "Tempête Alex : Enquête ouverte pour « détournements de fonds » sur les chantiers de reconstruction dans les Alpes-Maritimes",
+    "contenu": "Des perquisitions sont menées dans des locaux de la métropole Nice Côte d’Azur, à la mairie de Nice. Le procureur précise que d’autres opérations des enquêteurs sont à venir.",
+    "url": "https://www.20minutes.fr/justice/4033793-20230421-tempete-alex-enquete-ouverte-detournements-fonds-chantiers-reconstruction-alpes-maritimes",
+    "date": "2023-04-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1500,
+        "value": "Christian Estrosi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 82,
+        "value": "Métropole Nice Côte d'Azur"
+      }
+    ],
+    "categorie": [],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1289,
