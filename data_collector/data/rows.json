@@ -6907,7 +6907,7 @@
     "personnes_morales": [
       {
         "id": 103,
-        "value": "Petit Bar"
+        "value": "Gang du Petit Bar"
       }
     ],
     "categorie": [
@@ -7744,9 +7744,24 @@
     "url": "https://www.lalettrea.fr/entreprises_luxe-et-conso/2023/08/31/une-ex-conseillere-de-darmanin-pour-diriger-la-com--du-groupe-barriere,110037807-art",
     "date": "2023-08-31",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1248,
+        "value": "Mélusine Binder"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 55,
+        "value": "Groupe Barrière"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -7875,9 +7890,24 @@
     "url": "https://www.lalettrea.fr/entreprises_grande-distribution-et-services/2023/08/30/intermarche-debauche-sylvain-bruno-a-la-com--d-orange,110037412-bre",
     "date": "2023-08-30",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1249,
+        "value": "Sylvain Bruno"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 56,
+        "value": "Orange"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -7927,9 +7957,24 @@
     "url": "https://www.lalettrea.fr/action-publique_lobbying/2023/08/25/la-reconversion-opportune-de-l-ex-depute-gauvain-en-avocat-d-affaires-et-lobbyiste,110036060-art",
     "date": "2023-08-25",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1250,
+        "value": "Raphaël Gauvain"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 57,
+        "value": "Stephenson Harwood"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -8300,7 +8345,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1329,
@@ -8461,12 +8511,45 @@
     "url": "https://www.lemonde.fr/sport/article/2023/07/26/a-un-an-des-jo-le-spectre-des-affaires-plane-sur-paris-2024_6183407_3242.html",
     "date": "2023-07-26",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1501,
+        "value": "Etienne Thobois"
+      },
+      {
+        "id": 1502,
+        "value": "Edouard Donnelly"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 8,
+        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1326,
@@ -9595,57 +9678,149 @@
   {
     "id": 1295,
     "titre": "Damien Guttierez, conseiller municipal d’opposition à La Seyne-sur-Mer, a été condamné à une peine de 20000€ d’amende avec sursis pour prise illégale d’intérêts.",
-    "contenu": "",
+    "contenu": "Damien Guttierez, conseiller municipal d’opposition à La Seyne-sur-Mer, a été condamné à une peine de 20 000 euros d’amende avec sursis pour des faits de \"prise illégale d’intérêts\". Il est reproché à l’élu d’avoir participé à des débats du conseil municipal, les 14 mars et 11 avril 2022, sur des délibérations qui le concernaient.",
     "url": "https://www.varmatin.com/politique/la-mairie-de-la-seyne-fait-condamner-un-elu-d-opposition-pour-prises-illegales-d-interets-859838",
     "date": "2023-07-11",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1151980,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1503,
+        "value": "Damien Guttierez"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1297,
-    "titre": "Louis de Raguenel, pilier d’Europe 1, ex de « Valeurs actuelles », dans la main des barbouzes des Émirats\nhttps://buff.ly/3O8sDdG",
-    "contenu": "",
-    "url": "https://www.mediapart.fr/journal/france/100723/un-pilier-d-europe-1-ex-de-valeurs-actuelles-dans-la-main-des-barbouzes-des-emirats",
-    "date": "2023-07-11",
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1296,
     "titre": "Soupçons de détournements de fonds à la Région Nouvelle-Aquitaine : le président Alain Rousset entendu par la PJ",
-    "contenu": "",
+    "contenu": "La justice cherche à savoir si des moyens de la collectivité ont été indûment mis à disposition de la campagne du candidat sortant en 2015.",
     "url": "https://www.sudouest.fr/politique/soupcons-de-detournements-de-fonds-a-la-region-le-president-alain-rousset-entendu-par-la-pj-15858236.php",
     "date": "2023-07-11",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1151847,
+        "value": "33 - Gironde"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1504,
+        "value": "Alain Rousset"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
+  },
+  {
+    "id": 1297,
+    "titre": "Un pilier d’Europe 1, ex de « Valeurs actuelles », dans la main des barbouzes des Émirats",
+    "contenu": "Plusieurs journalistes professionnels sont mentionnés comme « sous-traitants » rémunérés par l’agence du détective Mario Brero pour ses missions au service des Émirats arabes unis. Parmi eux, Louis de Raguenel (Europe 1, ex-« Valeurs actuelles »), mais aussi Ian Hamel, qui collabore notamment avec « Marianne » et « Le Point ».",
+    "url": "https://www.mediapart.fr/journal/france/100723/un-pilier-d-europe-1-ex-de-valeurs-actuelles-dans-la-main-des-barbouzes-des-emirats",
+    "date": "2023-07-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 233,
+        "value": "Valeurs actuelles"
+      },
+      {
+        "id": 234,
+        "value": "Europe 1"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
     "procedure": []
   },
   {
     "id": 1294,
     "titre": "La Cour des comptes confirme les dérives du recours aux cabinets de conseil sous la présidence Macron https://buff.ly/3NN6ro8",
-    "contenu": "",
+    "contenu": "Dérapages financiers, irrégularités, absence de politique cohérente… Un rapport de la Cour des comptes critique le mauvais emploi des consultants du privé par l’Etat ces dernières années.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2023/07/10/la-cour-des-comptes-confirme-les-derives-du-recours-aux-cabinets-de-conseil-sous-la-presidence-macron_6181297_4355770.html",
     "date": "2023-07-10",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Cour des comptes"
+      },
+      {
+        "id": 235,
+        "value": "Boston Consulting Group"
+      },
+      {
+        "id": 236,
+        "value": "EY"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152022,
+        "value": "Usage des deniers publics"
+      }
+    ],
     "procedure": []
   },
   {
@@ -9689,8 +9864,8 @@
   },
   {
     "id": 1293,
-    "titre": "Ariège : poursuivie pour prise illégale d’intérêt, la présidente du Smectom du Plantaurel Florence Rouch, a été relaxée, ainsi qu’Alain Caillat, ancien directeur général du syndicat.",
-    "contenu": "",
+    "titre": "Poursuivie pour prise illégale d’intérêt, la présidente du Smectom du Plantaurel relaxée",
+    "contenu": "Le tribunal de Foix a rendu sa décision le 7 juillet : poursuivie pour prise illégale d’intérêt, la présidente du Smectom, Florence Rouch, a été relaxée, ainsi qu’Alain Caillat, ancien directeur général du syndicat.",
     "url": "https://www.ladepeche.fr/2023/07/07/ariege-poursuivie-pour-prise-illegale-dinteret-la-presidente-du-smectom-du-plantaurel-relaxee-11327790.php",
     "date": "2023-07-08",
     "etiquettes": "09 - Ariège,Alain Caillat,Florence Rouch,Smectom",
@@ -9700,11 +9875,35 @@
         "value": "09 - Ariège"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1505,
+        "value": "Florence Rouch"
+      },
+      {
+        "id": 1506,
+        "value": "Alain Caillat"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 237,
+        "value": "Smectom"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
   },
   {
     "id": 1489,
@@ -9713,9 +9912,24 @@
     "url": "https://acteurspublics.fr/nomination/quentin-mathieu-rejoint-le-cabinet-de-marc-fesneau",
     "date": "2023-05-22",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1259,
+        "value": "Quentin Mathieu"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Ministère de l'agriculture"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -9732,9 +9946,24 @@
     "url": "https://acteurspublics.fr/nomination/lex-directrice-adjointe-de-cabinet-de-bruno-le-maire-jennifer-pizzicara-pourrait-rejoindre-air-france-klm",
     "date": "2023-05-11",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1260,
+        "value": "Jennifer Pizzicara"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 68,
+        "value": "Air France KLM"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -9751,9 +9980,24 @@
     "url": "https://www.abcbourse.com/marches/safran-philippe-errera-nomme-directeur-international_594521",
     "date": "2023-05-04",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1302,
+        "value": "Philippe Errera"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 188,
+        "value": "Safran"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -9788,7 +10032,12 @@
         "value": "Métropole Nice Côte d'Azur"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": [
       {
@@ -9811,14 +10060,37 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 103,
+        "value": "Gang du Petit Bar"
+      },
+      {
+        "id": 238,
+        "value": "Bank of China"
+      },
+      {
+        "id": 239,
+        "value": "Centre international de commerce de gros France-Asie"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1291,
-    "titre": "François Grosdidier, maire de Metz, condamné à 6 mois de prison avec sursis pour prise illégale d&#8217;intérêt",
+    "titre": "François Grosdidier, maire de Metz, condamné à 6 mois de prison avec sursis pour prise illégale d'intérêt",
     "contenu": "Le tribunal correctionnel d'Epinal condamne le maire de Metz et président de l'Eurométropole de Metz, François Grosdidier, à six mois de prison avec sursis et 10.000 euros d'amende pour prise illégale d'intérêt. Marie Louise Kuntz, elle, est condamné à deux mois avec sursis.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/francois-grosdidier-condamne-a-6-mois-de-prison-avec-sursis-7100477",
     "date": "2023-02-07",
@@ -9829,11 +10101,35 @@
         "value": "57 - Moselle"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1509,
+        "value": "François Grosdidier"
+      },
+      {
+        "id": 1510,
+        "value": "Marie Louise Kuntz"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 242,
+        "value": "Valeur Écologie"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1290,
@@ -9842,12 +10138,49 @@
     "url": "https://www.mediapart.fr/journal/international/070223/gemalto-est-vise-par-une-vaste-enquete-pour-corruption-en-afrique",
     "date": "2023-02-07",
     "etiquettes": "Gemalto,Thalès",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1507,
+        "value": "Raphaël Edery"
+      },
+      {
+        "id": 1508,
+        "value": "Yves Samama"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 97,
+        "value": "Tracfin"
+      },
+      {
+        "id": 240,
+        "value": "Thales Digital Identity and Security (ex-Gemalto)"
+      },
+      {
+        "id": 241,
+        "value": "STIM Plus"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1292,
@@ -9863,10 +10196,25 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 243,
+        "value": "Caisse primaire d’assurance maladie"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1287,
@@ -9875,12 +10223,37 @@
     "url": "https://www.mediapart.fr/journal/france/060223/affaire-dussopt-le-document-qui-ruine-la-defense-du-ministre",
     "date": "2023-02-06",
     "etiquettes": "Ministère du travail,Olivier Dussopt,Parquet National Financier,Saur",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1234,
+        "value": "Olivier Dussopt"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 51,
+        "value": "Ministère du travail"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1288,
@@ -9889,7 +10262,12 @@
     "url": "https://www.liberation.fr/societe/police-justice/soupcons-dingerence-etrangere-lombre-du-bahrein-sur-la-denonciation-de-corruption-du-qatar-en-france-20230206_ZW6SJFHSJZG5VHR5NIDYEDKTNE/?redirected=1",
     "date": "2023-02-06",
     "etiquettes": "BFM TV,Rachid M’Barki",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 320,
@@ -9906,9 +10284,19 @@
         "value": "BFM TV"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1278,
@@ -9917,10 +10305,30 @@
     "url": "https://www.lequipe.fr/Football/Article/Corruption-autour-du-mondial-2022-la-piste-qui-mene-a-la-campagne-presidentielle-de-nicolas-sarkozy/1378583",
     "date": "2023-02-03",
     "etiquettes": "Les Républicains,Nicolas Sarkozy,Parquet National Financier",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 29,
+        "value": "Élysée"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
