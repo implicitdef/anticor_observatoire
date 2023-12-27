@@ -1,5 +1,43 @@
 [
   {
+    "id": 1677,
+    "titre": "Anticor : le gouvernement n’a pas renouvelé l’agrément de l’association de lutte contre la corruption",
+    "contenu": "Pendant six mois, l’état-major d’Anticor aura attendu le renouvellement de son agrément. Mercredi 27 décembre, au lendemain de la date butoir légale, nulle trace dans le Journal officiel de ce sésame qui permettait depuis 2015 à l’association anticorruption d’agir efficacement en justice dans les affaires d’atteinte à la probité, notamment en cas d’inaction du parquet.",
+    "url": "https://www.lemonde.fr/societe/article/2023/12/27/anticor-le-gouvernement-n-a-pas-renouvele-l-agrement-de-l-association-de-lutte-contre-la-corruption_6207886_3224.html",
+    "date": "2023-12-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1270,
+        "value": "Elisabeth Borne"
+      },
+      {
+        "id": 1515,
+        "value": "Catherine Colonna"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1675,
     "titre": "À Nice, la justice est saisie du cas des époux Estrosi",
     "contenu": "La journaliste Laura Tenoudji a récemment coanimé la cérémonie d’ouverture de l’Eurovision de la chanson junior 2023, événement en partie financé par la municipalité que dirige son mari, Christian Estrosi. Ce n’est pas la première fois que les collaborations de celle que la presse locale a rebaptisée « la première dame de Nice » suscitent la polémique. Deux signalements ont été adressés à la justice.",
