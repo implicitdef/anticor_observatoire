@@ -81,6 +81,44 @@
     ]
   },
   {
+    "id": 1678,
+    "titre": "Anticor : Borne se déporte des actes concernant le renouvellement de l’agrément de l’association",
+    "contenu": "Élisabeth Borne veut éviter les conflits d’intérêts. La Première ministre s’est donc déportée de tout acte concernant Anticor, selon un décret publié au Journal officiel, alors que l’association anticorruption attend d’ici à ce mardi soir l’issue à sa demande d’agrément, après l’annulation en justice du précédent.",
+    "url": "https://www.20minutes.fr/societe/4068162-20231226-anticor-borne-deporte-actes-concernant-renouvellement-agrement-association",
+    "date": "2023-12-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1270,
+        "value": "Elisabeth Borne"
+      },
+      {
+        "id": 1515,
+        "value": "Catherine Colonna"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1676,
     "titre": "Sabrina Agresti-Roubache, secrétaire d’Etat à la Ville : «Je ne suis pas une narco-productrice !»",
     "contenu": "Proche des Macron, la ministre a domicilié l’une de ses sociétés, du temps où elle était productrice dans l’audiovisuel, chez un Corse condamné dans l’affaire du cercle de jeux Wagram.",
@@ -3831,6 +3869,49 @@
     ]
   },
   {
+    "id": 1679,
+    "titre": "Aurore Bergé sonde une lobbyiste pour la recruter",
+    "contenu": "Le départ de plusieurs de ses collaborateurs pousse Aurore Bergé à réorganiser son équipe. Parmi les profils étudiés, celui d'Elsa Hervy, déléguée générale de la Fédération française des entreprises de crèches (FFEC), se détache.",
+    "url": "https://www.lalettre.fr/fr/action-publique_executif/2023/11/24/aurore-berge-sonde-une-lobbyiste-pour-la-recruter%2C110101438-bre",
+    "date": "2023-11-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1516,
+        "value": "Aurore Bergé"
+      },
+      {
+        "id": 1517,
+        "value": "Elsa Hervy"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 246,
+        "value": "Fédération française des entreprises de crèches (FFEC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
+    "procedure": []
+  },
+  {
     "id": 1426,
     "titre": "Deux anciens élus d’Houplin-Ancoisne condamnés à Lille dans l’affaire de « la maison des courants d’air »",
     "contenu": "Jean Crespel, marie d’Houplin-Ancoisne, et Philippe Six qui était son adjoint ont été condamnés par la 8e chambre correctionnelle de Lille,à 5000 euros d’amende pour prise illégale d’intérêts. On leur reprochait la vente d’une maison, au fils de Philippe Six, à un prix moindre.",
@@ -3971,6 +4052,76 @@
     "procedure": []
   },
   {
+    "id": 1680,
+    "titre": "Les très chers kits de campagne électorale d’un cadre marseillais du RN",
+    "contenu": "Lors des législatives de 2022, Enzo Alias-Blanes, ancien membre de la direction nationale de la branche jeunesse du RN, a proposé des kits de communication aux candidats de son camp. La commission des comptes de campagne les a jugés bien trop chers et refuse pour partie de les rembourser.",
+    "url": "https://www.mediapart.fr/journal/france/211123/les-tres-chers-kits-de-campagne-electorale-d-un-cadre-marseillais-du-rn",
+    "date": "2023-11-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 350,
+        "value": "Gisèle Lelouis"
+      },
+      {
+        "id": 463,
+        "value": "Kévin Pfeffer"
+      },
+      {
+        "id": 1518,
+        "value": "Enzo Alias-Blanes"
+      },
+      {
+        "id": 1519,
+        "value": "Gilles Pennelle"
+      },
+      {
+        "id": 1520,
+        "value": "Éléonore Bez"
+      },
+      {
+        "id": 1521,
+        "value": "Rémi Berthoux"
+      },
+      {
+        "id": 1522,
+        "value": "Arezki Selloum"
+      },
+      {
+        "id": 1523,
+        "value": "Sandrine Lambert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National"
+      },
+      {
+        "id": 191,
+        "value": "Commission nationale des comptes de campagne et des financements politiques (CNCCFP)"
+      },
+      {
+        "id": 247,
+        "value": "Primis communication"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1472,
     "titre": "Marie Mallard rejoint l'Agence française anticorruption",
     "contenu": "L'Agence anticorruption recrute la directrice compliance de TotalEnergies, Marie Mallard. Elle sera chargée du contrôle des grandes entreprises.",
@@ -4065,6 +4216,39 @@
       {
         "id": 106,
         "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1681,
+    "titre": "Les incroyables dérives d’un patron de CRS qui se faisait appeler « Votre excellence »",
+    "contenu": "Un rapport interne accablant révèle les pratiques abusives du patron de la CRS 4, qualifié « d’emploi fictif » depuis 13 ans. À tel point qu’une enquête pénale a été ouverte notamment pour détournements de fonds publics.",
+    "url": "https://www.leparisien.fr/faits-divers/les-incroyables-derives-dun-patron-de-crs-qui-se-faisait-appeler-votre-excellence-20-11-2023-NDQPGNAET5GZNJBSLXFEULXMEY.php",
+    "date": "2023-11-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151975,
+        "value": "77 - Seine-et-Marne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 248,
+        "value": "Direction centrale des compagnies républicaines de sécurité (DCCRS)"
+      },
+      {
+        "id": 249,
+        "value": "Inspection générale de la Police nationale (IGPN)"
       }
     ],
     "categorie": [
@@ -4191,8 +4375,18 @@
         "value": "64 - Pyrénées-Atlantiques"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1528,
+        "value": "Jacques Pédehontaà"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 170,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -4204,6 +4398,49 @@
       {
         "id": 1153422,
         "value": "Enquête"
+      }
+    ]
+  },
+  {
+    "id": 1684,
+    "titre": "Les arrangements avec les règles du sénateur (LR) Stéphane Le Rudulier",
+    "contenu": "Les largesses de l’élu Les Républicains avec l’argent public et ses rapports avec la mairie de Rognac (Bouches-du-Rhône), qu’il n’a jamais vraiment quittée, donnent une autre image de cet ambitieux parlementaire, qui se veut irréprochable.",
+    "url": "https://www.lemonde.fr/societe/article/2023/11/19/stephane-le-rudulier-l-ambitieux-senateur-lr-qui-s-arrange-avec-les-regles_6201061_3224.html",
+    "date": "2023-11-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1526,
+        "value": "Stéphane Le Rudulier"
+      },
+      {
+        "id": 1527,
+        "value": "Sylvie Miceli-Houdais"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 2,
+        "value": "Sénat"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
       }
     ]
   },
@@ -4223,8 +4460,16 @@
     "personnalites": [],
     "personnes_morales": [
       {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
         "id": 2,
         "value": "Sénat"
+      },
+      {
+        "id": 254,
+        "value": "Google"
       }
     ],
     "categorie": [
@@ -4348,6 +4593,44 @@
     ]
   },
   {
+    "id": 1682,
+    "titre": "MHR : Mohed Altrad recrute Bernard Laporte au poste de directeur du rugby",
+    "contenu": "L’ancien président de la Fédération française de rugby va remplacer Philippe Saint-André à la tête de Montpellier en tant que directeur du rugby, annonce le président du club héraultais. Cette nouvelle collaboration entre les deux hommes intervient moins d’un an après leur condamnation commune dans une affaire de corruption active, de trafic d’influence et d’abus de biens sociaux.",
+    "url": "https://www.20minutes.fr/sport/rugby/4062976-20231119-mhr-mohed-altrad-recrute-bernard-laporte-poste-directeur-rugby",
+    "date": "2023-11-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151848,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1475,
+        "value": "Bernard Laporte"
+      },
+      {
+        "id": 1524,
+        "value": "Mohed Altrad"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 250,
+        "value": "Montpellier Hérault Rugby"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1412,
     "titre": "Olivier Véran « ne sait pas » si Eric Dupond-Moretti doit quitter le gouvernement en cas de condamnation judiciaire",
     "contenu": "Alors que Borne a rappelé la «règle» qui veut qu’un ministre condamné démissionne, le porte-parole du gouvernement se montre incapable de la répéter, préférant défendre son «ami» et appeler à le «laisser tranquille».",
@@ -4416,6 +4699,48 @@
       {
         "id": 1153424,
         "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1683,
+    "titre": "Soupçons de détournement de fonds : la ville de Blois visée par une enquête préliminaire",
+    "contenu": "Une enquête préliminaire a été ouverte par le parquet de Blois après des soupçons de détournement de fonds publics. En cause : la reconversion d'un terrain de près de 10 000m² vendu 80 000 € à un promoteur immobilier alors que 4,8 millions d'euros d'argent public y avaient été investis sur 10 ans.",
+    "url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/loir-cher/blois/soupcons-de-detournement-de-fonds-la-ville-de-blois-visee-par-une-enquete-preliminaire-2843084.html",
+    "date": "2023-11-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151855,
+        "value": "41 - Loir-et-Cher"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      },
+      {
+        "id": 252,
+        "value": "3 Vals Aménagement"
+      },
+      {
+        "id": 253,
+        "value": "Blois Clérancerie"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
       }
     ]
   },
@@ -10490,15 +10815,34 @@
     "url": "https://www.lemonde.fr/politique/article/2023/02/03/l-election-du-depute-meyer-habib-annulee-par-le-conseil-constitutionnel_6160417_823448.html",
     "date": "2023-02-03",
     "etiquettes": "Assemblée Nationale,Les Républicains,Meyer Habib",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 267,
+        "value": "Meyer Habib"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 3,
         "value": "Assemblée Nationale"
+      },
+      {
+        "id": 251,
+        "value": "Conseil constitutionnel"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -10543,16 +10887,45 @@
   {
     "id": 1282,
     "titre": "« Responsable du système frauduleux » : ce que le parquet reproche à Bayrou dans l’affaire des assistants",
-    "contenu": "Mediapart a pris connaissance du réquisitoire du parquet de Paris, qui demande le renvoi en correctionnelle du patron du MoDem et de douze des responsables du parti centriste dans l’affaire des assistants au Parlement européen. Un document au contenu très sévère pour François Bayrou, qui dément toute malversation.",
+    "contenu": "Le réquisitoire du parquet de Paris demande le renvoi en correctionnelle du patron du MoDem et de douze des responsables du parti centriste dans l’affaire des assistants au Parlement européen. Un document au contenu très sévère pour François Bayrou, qui dément toute malversation.",
     "url": "https://www.mediapart.fr/journal/france/030223/responsable-du-systeme-frauduleux-ce-que-le-parquet-reproche-bayrou-dans-l-affaire-des-assistants",
     "date": "2023-02-03",
     "etiquettes": "François Bayrou,Mouvement démocrate",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1300,
+        "value": "François Bayrou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 94,
+        "value": "Mouvement démocrate"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1286,
@@ -12295,7 +12668,16 @@
     "date": "2022-12-23",
     "etiquettes": "Bernard Laporte,Fédération française de rugby,Mohed Altrad,Parquet National Financier,Serge Simon",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1475,
+        "value": "Bernard Laporte"
+      },
+      {
+        "id": 1524,
+        "value": "Mohed Altrad"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -12658,7 +13040,16 @@
     "date": "2022-12-13",
     "etiquettes": "Bernard Laporte,Fédération française de rugby",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1475,
+        "value": "Bernard Laporte"
+      },
+      {
+        "id": 1524,
+        "value": "Mohed Altrad"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -16759,7 +17150,16 @@
     "date": "2022-09-06",
     "etiquettes": "Benard Laporte,Brigade de répression de la délinquance économique,Claude Atcher,Mohed Altrad,Montpellier Hérault Rugby,Parquet National Financier,Serge Simon",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1475,
+        "value": "Bernard Laporte"
+      },
+      {
+        "id": 1524,
+        "value": "Mohed Altrad"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -16896,7 +17296,16 @@
     "date": "2022-08-31",
     "etiquettes": "Bernard Laporte,Ligue nationale de rugby,Mohed Altrad",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1475,
+        "value": "Bernard Laporte"
+      },
+      {
+        "id": 1524,
+        "value": "Mohed Altrad"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -19155,14 +19564,28 @@
   {
     "id": 823,
     "titre": "Affaire Laporte/Altrad: la Fédération française de rugby se constitue partie civile",
-    "contenu": "La Fédération française de rugby (FFR) va se constituer partie civile au procès de son président, Bernard Laporte, et de l'homme d'affaires Mohed Altrad, jugés en septembre pour des soupçons de favoritisme autour du sponsoring du XV de France.\nAu terme d'une enquête du parquet national financier (PNF), MM. Laporte et Altrad ont été renvoyés devant le tribunal correctionnel de Paris notamment pour trafic d'influence, corruption et abus de biens sociaux, pour des faits allégués allant de 2016 à 2021. Ils seront jugés du 7 au 22 septembre. Le numéro 2 de la FFR, Serge Simon, sera également jugé devant le tribunal correctionnel pour prise illégale d'intérêt. Bernard Laporte, président de la FFR depuis 2016, est soupçonné d'avoir usé, essentiellement entre 2016 et 2018, de son influence en faveur de Mohed Altrad, grand argentier du rugby, sponsor du maillot du XV de France et propriétaire du club de Montpellier (Top 14). L'enquête du PNF avait été ouverte en 2017 pour examiner notamment les liens entre les deux hommes, qui contestent les accusations.\n<br>Le directeur général de la Coupe du monde de rugby 2023, Claude Atcher, ainsi que son associé au sein de sa société Score XV, Benoît Rover, seront également jugés en septembre pour recel d'abus de confiance, abus de biens sociaux et travail dissimulé par dissimulation d'activité, a-t-on appris la semaine dernière de source proche du dossier.<br>Selon une autre source proche de l'enquête, la justice soupçonne Atcher d'avoir notamment bénéficié, entre 2017 et 2018 via des prestations inexistantes payées à sa société Score XV, d'environ 80.000 euros que Laporte aurait détournés au préjudice de la FFR.",
+    "contenu": "La Fédération française de rugby (FFR) va se constituer partie civile au procès de son président, Bernard Laporte, et de l'homme d'affaires Mohed Altrad, jugés en septembre pour des soupçons de favoritisme autour du sponsoring du XV de France.",
     "url": "https://www.lanouvellerepublique.fr/sports/affaire-laporte-altrad-la-federation-francaise-de-rugby-se-constitue-partie-civile",
     "date": "2022-06-09",
     "etiquettes": "Bernard Laporte,Claude Atcher,Fédération française de rugby,Mohed Altrad,Parquet National Financier",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1475,
+        "value": "Bernard Laporte"
+      },
+      {
+        "id": 1524,
+        "value": "Mohed Altrad"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -19368,11 +19791,39 @@
     "date": "2022-06-02",
     "etiquettes": "#France2023,Bernard Laporte,Claude Atcher,Mohed Altrad,Parquet National Financier",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1475,
+        "value": "Bernard Laporte"
+      },
+      {
+        "id": 1524,
+        "value": "Mohed Altrad"
+      },
+      {
+        "id": 1525,
+        "value": "Claude Atcher"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 813,
@@ -21212,6 +21663,39 @@
     "categorie": [],
     "theme": [],
     "procedure": []
+  },
+  {
+    "id": 620,
+    "titre": "Affaire Laporte-Altrad : un rapport de police renforce les soupçons de \"trafic d'influence\" et de \"prise illégale d'intérêts\"",
+    "contenu": "Un rapport de police \"accablant\" souligne de nombreux éléments à charge contre le président de la Fédération de rugby Bernard Laporte et le président du club de Montpellier Mohed Altrad. Un procès doit avoir lieu \"en septembre 2022\".",
+    "url": "https://www.francetvinfo.fr/sports/rugby/xv-de-france/affaire-laporte-altrad-un-rapport-de-police-renforce-les-soupcons-de-trafic-d-influence-et-de-prise-illegale-d-interets_4920479.html",
+    "date": "2022-01-17",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [
+      {
+        "id": 1475,
+        "value": "Bernard Laporte"
+      },
+      {
+        "id": 1524,
+        "value": "Mohed Altrad"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 619,
@@ -31880,20 +32364,6 @@
     "titre": "Affaire France Pierre : enquête sur une corruption ordinaire dans le milieu de l’immobilier et de la sécurité",
     "contenu": "",
     "url": "https://www.leparisien.fr/essonne-91/affaire-france-pierre-enquete-sur-une-corruption-ordinaire-dans-le-milieu-de-limmobilier-et-de-la-securite-07-03-2022-4L3NMF3F6FC57ECGELSM3QWX2Y.php",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 620,
-    "titre": "Affaire Laporte-Altrad : un rapport de police renforce les soupçons de \"trafic d'influence\" et de \"prise illégale d'intérêts\"",
-    "contenu": "",
-    "url": "https://www.francetvinfo.fr/sports/rugby/xv-de-france/affaire-laporte-altrad-un-rapport-de-police-renforce-les-soupcons-de-trafic-d-influence-et-de-prise-illegale-d-interets_4920479.html",
     "date": null,
     "etiquettes": "",
     "departement": [],
