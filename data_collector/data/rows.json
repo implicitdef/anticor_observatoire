@@ -637,7 +637,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains"
+        "value": "Les Républicains (LR)"
       },
       {
         "id": 170,
@@ -805,7 +805,7 @@
     "personnes_morales": [
       {
         "id": 21,
-        "value": "Rassemblement National"
+        "value": "Rassemblement National (RN)"
       },
       {
         "id": 190,
@@ -1187,7 +1187,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains"
+        "value": "Les Républicains (LR)"
       }
     ],
     "categorie": [
@@ -1341,7 +1341,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains"
+        "value": "Les Républicains (LR)"
       }
     ],
     "categorie": [
@@ -2069,7 +2069,7 @@
     "personnes_morales": [
       {
         "id": 21,
-        "value": "Rassemblement National"
+        "value": "Rassemblement National (RN)"
       }
     ],
     "categorie": [
@@ -2262,7 +2262,7 @@
     "personnes_morales": [
       {
         "id": 21,
-        "value": "Rassemblement National"
+        "value": "Rassemblement National (RN)"
       },
       {
         "id": 75,
@@ -2362,7 +2362,7 @@
     "personnes_morales": [
       {
         "id": 21,
-        "value": "Rassemblement National"
+        "value": "Rassemblement National (RN)"
       }
     ],
     "categorie": [
@@ -3462,7 +3462,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains"
+        "value": "Les Républicains (LR)"
       }
     ],
     "categorie": [
@@ -3644,6 +3644,10 @@
       {
         "id": 1151970,
         "value": "75 - Paris"
+      },
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
       }
     ],
     "personnalites": [
@@ -4101,7 +4105,7 @@
     "personnes_morales": [
       {
         "id": 21,
-        "value": "Rassemblement National"
+        "value": "Rassemblement National (RN)"
       },
       {
         "id": 191,
@@ -4263,7 +4267,7 @@
   {
     "id": 1419,
     "titre": "Amélie Oudéa-Castéra admet une erreur après son audition par une commission d’enquête parlementaire",
-    "contenu": "Selon nos informations, la ministre des sports a reconnu, dans un courrier adressé vendredi aux députés enquêtant sur les défaillances des fédérations, s’être trompée en justifiant son salaire de l’époque où elle était directrice générale de la Fédération française de tennis.",
+    "contenu": "La ministre des sports a reconnu, dans un courrier adressé vendredi aux députés enquêtant sur les défaillances des fédérations, s’être trompée en justifiant son salaire de l’époque où elle était directrice générale de la Fédération française de tennis.",
     "url": "https://www.lemonde.fr/sport/article/2023/11/17/amelie-oudea-castera-reconnait-une-erreur-apres-son-audition-par-une-commission-d-enquete-parlementaire_6200741_3242.html",
     "date": "2023-11-19",
     "etiquettes": "",
@@ -4346,7 +4350,12 @@
         "value": "16 - Charente"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1537,
+        "value": "Laurent Lévy"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 87,
@@ -4457,7 +4466,16 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1529,
+        "value": "Pascal Savoldelli"
+      },
+      {
+        "id": 1530,
+        "value": "Éric Bocquet"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 1,
@@ -4470,6 +4488,10 @@
       {
         "id": 254,
         "value": "Google"
+      },
+      {
+        "id": 255,
+        "value": "Crédit Suisse"
       }
     ],
     "categorie": [
@@ -4499,7 +4521,12 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1545,
+        "value": "Claude Bigel"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 76,
@@ -4528,7 +4555,12 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1546,
+        "value": "Gabriel Attal"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 4,
@@ -4565,14 +4597,19 @@
     "personnalites": [
       {
         "id": 1288,
-        "value": "Christophe Quinio"
+        "value": "Christophe Quiniou"
       },
       {
         "id": 1289,
         "value": "Nicolas Gagneux"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 262,
+        "value": "6e Sens"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -4653,7 +4690,12 @@
         "value": "Olivier Véran"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -4661,7 +4703,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1413,
@@ -4818,6 +4865,208 @@
     ]
   },
   {
+    "id": 1686,
+    "titre": "Procès Bygmalion : « Si je suis contre Nicolas Sarkozy, ma boîte est morte »",
+    "contenu": "Face à des apparatchiks amnésiques, Guy Alves, cofondateur de Bygmalion, a souligné devant la cour d’appel que Nicolas Sarkozy était « le seul bénéficiaire » de la fraude consistant à faire payer par l’UMP les dépenses du candidat pour sa campagne de 2012.",
+    "url": "https://www.mediapart.fr/journal/france/171123/proces-bygmalion-si-je-suis-contre-nicolas-sarkozy-ma-boite-est-morte",
+    "date": "2023-11-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1533,
+        "value": "Guy Alves"
+      },
+      {
+        "id": 1534,
+        "value": "Éric Cesari"
+      },
+      {
+        "id": 1535,
+        "value": "Bastien Millot"
+      },
+      {
+        "id": 1536,
+        "value": "Guillaume Lambert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      },
+      {
+        "id": 257,
+        "value": "Bygmalion"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1688,
+    "titre": "À la région Île-de-France, un chèque de 20 000 euros aux amis de la laïcité (et de Valérie Pécresse)",
+    "contenu": "La présidente de la région Île-de-France doit attribuer vendredi 17 novembre une généreuse subvention à l’association dirigée par Didier Lemaire. L’ancien professeur de philosophie de Trappes, qui fut au cœur d’une polémique en 2021, est devenu entre-temps… cadre de l’administration régionale.",
+    "url": "https://www.mediapart.fr/journal/politique/161123/la-region-ile-de-france-un-cheque-de-20-000-euros-aux-amis-de-la-laicite-et-de-valerie-pecresse",
+    "date": "2023-11-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151976,
+        "value": "78 - Yvelines"
+      },
+      {
+        "id": 1151972,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1461,
+        "value": "Valérie Pécresse"
+      },
+      {
+        "id": 1542,
+        "value": "Didier Lemaire"
+      },
+      {
+        "id": 1543,
+        "value": "Thibaut de Montbrial"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 260,
+        "value": "Défense des serviteurs de la République"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1687,
+    "titre": "Le plan secret pour « bousiller » l’enquête sur les détournements de la Banque du Liban",
+    "contenu": "Selon des documents saisis à Paris, l’entourage de Riad Salamé, l’ancien gouverneur de la Banque du Liban, envisageait de verser jusqu’à 20 millions d’euros pour « bousiller le dossier », « faire muter la juge », « arrêter toute atteinte libanaise ou française » contre le banquier et ses proches, et « obtenir le retrait de l’agrément » de l’ONG partie civile Sherpa.",
+    "url": "https://www.mediapart.fr/journal/international/161123/le-plan-secret-pour-bousiller-l-enquete-sur-les-detournements-de-la-banque-du-liban",
+    "date": "2023-11-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1538,
+        "value": "Riad Salamé"
+      },
+      {
+        "id": 1539,
+        "value": "Marianne Hoayek"
+      },
+      {
+        "id": 1540,
+        "value": "Wiam Wahhab"
+      },
+      {
+        "id": 1541,
+        "value": "Marwan Kheireddine"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 152,
+        "value": "Sherpa"
+      },
+      {
+        "id": 258,
+        "value": "Banque du Liban"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1685,
+    "titre": "Affaire Münsch-Masset : la Cour de cassation confirme la relaxe de Cathy Münsch",
+    "contenu": "La Cour de cassation a rendu sa décision ce mercredi 15 novembre, et a rejeté le pourvoi du parquet d'Orléans contre la relaxe de Cathy Münsch en appel en novembre 2022. En première instance, elle avait écopé de 18 mois de prison avec sursis pour \"recel de bien provenant d'un délit\".",
+    "url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/tours/affaire-munsch-masset-la-cour-de-cassation-confirme-la-relaxe-de-cathy-munsch-2873486.html",
+    "date": "2023-11-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151851,
+        "value": "37 - Indre-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1531,
+        "value": "Cathy Münsch-Masset"
+      },
+      {
+        "id": 1532,
+        "value": "Guillaume Masset"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 256,
+        "value": "Apajh 37"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
+  },
+  {
     "id": 1645,
     "titre": "Affaire des assistants du MoDem : l’accusation insiste sur la « responsabilité centrale » de Bayrou",
     "contenu": "Le parquet de Paris a requis 30 mois de prison avec sursis et 70 000 euros d’amende contre l’ancien ministre de la justice d’Emmanuel Macron pour des faits de complicité de détournement de fonds publics au profit de son parti, le MoDem.",
@@ -4839,7 +5088,7 @@
     "personnes_morales": [
       {
         "id": 94,
-        "value": "Mouvement démocrate"
+        "value": "Mouvement démocrate (MoDem)"
       }
     ],
     "categorie": [
@@ -4898,6 +5147,40 @@
         "value": "Enquête"
       }
     ]
+  },
+  {
+    "id": 1690,
+    "titre": "Soupçons d’emplois fictifs à la Région Aura : les opposants écologistes annoncent saisir la justice",
+    "contenu": "Le groupe d’opposition des Écologistes de la Région Auvergne-Rhône-Alpes n’a pas l’intention de se contenter des soupçons d’emplois fictifs dévoilés en octobre par France Info. Les élus annoncent en effet, dans un communiqué en date du 9 novembre, avoir adressé un signalement au procureur de la République de Lyon, avec copie au parquet national financier.",
+    "url": "https://www.placegrenet.fr/2023/11/13/soupcons-demplois-fictifs-a-la-region-aura-les-opposants-ecologistes-annoncent-saisir-la-justice/617598",
+    "date": "2023-11-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1295,
+        "value": "Laurent Wauquiez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
   },
   {
     "id": 1408,
@@ -5408,7 +5691,7 @@
     "personnes_morales": [
       {
         "id": 21,
-        "value": "Rassemblement National"
+        "value": "Rassemblement National (RN)"
       },
       {
         "id": 168,
@@ -5798,7 +6081,7 @@
     "personnes_morales": [
       {
         "id": 21,
-        "value": "Rassemblement National"
+        "value": "Rassemblement National (RN)"
       },
       {
         "id": 163,
@@ -5845,7 +6128,7 @@
     "personnes_morales": [
       {
         "id": 21,
-        "value": "Rassemblement National"
+        "value": "Rassemblement National (RN)"
       }
     ],
     "categorie": [
@@ -6096,7 +6379,7 @@
     "personnes_morales": [
       {
         "id": 94,
-        "value": "Mouvement démocrate"
+        "value": "Mouvement démocrate (MoDem)"
       }
     ],
     "categorie": [
@@ -7321,7 +7604,7 @@
     "personnes_morales": [
       {
         "id": 21,
-        "value": "Rassemblement National"
+        "value": "Rassemblement National (RN)"
       }
     ],
     "categorie": [
@@ -7855,7 +8138,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains"
+        "value": "Les Républicains (LR)"
       },
       {
         "id": 29,
@@ -8250,7 +8533,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains"
+        "value": "Les Républicains (LR)"
       }
     ],
     "categorie": [
@@ -9960,7 +10243,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains"
+        "value": "Les Républicains (LR)"
       },
       {
         "id": 220,
@@ -10359,6 +10642,49 @@
       {
         "id": 1153429,
         "value": "Relaxe / classement"
+      }
+    ]
+  },
+  {
+    "id": 1689,
+    "titre": "Le « fonds Marianne » de Valérie Pécresse en Île-de-France",
+    "contenu": "Depuis 2020, au titre de la lutte « contre la radicalisation », la région Île-de-France a distribué deux subventions de 40 000 et 80 000 euros au Centre d’analyse du terrorisme, principal bénéficiaire d’un appel à projets lancé en 2022. Une association présidée par Jean-Charles Brisard, un expert controversé.",
+    "url": "https://www.humanite.fr/politique/fonds-marianne/enquete-le-fonds-marianne-de-valerie-pecresse-en-ile-de-france-800513",
+    "date": "2023-06-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1461,
+        "value": "Valérie Pécresse"
+      },
+      {
+        "id": 1544,
+        "value": "Jean-Charles Brisard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 261,
+        "value": "Centre d’analyse du terrorisme"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
       }
     ]
   },
@@ -10796,15 +11122,30 @@
     "url": "https://www.lemonde.fr/societe/article/2023/02/03/eric-dupond-moretti-conteste-en-droit-des-perquisitions-menees-dans-son-ministere_6160484_3224.html",
     "date": "2023-02-03",
     "etiquettes": "Cour de Justice de la République,Éric Dupond-Moretti,Gouvernement Élisabeth Borne,Ministère de la Justice",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 78,
         "value": "Cour de Justice de la République"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -10853,12 +11194,37 @@
     "url": "https://www.mediapart.fr/journal/france/030223/olivier-dussopt-menace-d-un-proces-dans-une-affaire-de-marche-truque",
     "date": "2023-02-03",
     "etiquettes": "Gouvernement Élisabeth Borne,Ministère du travail,Olivier Dussopt",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1234,
+        "value": "Olivier Dussopt"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "Saur"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1284,
@@ -10877,12 +11243,31 @@
       {
         "id": 1273,
         "value": "Patrick Balkany"
+      },
+      {
+        "id": 1547,
+        "value": "Renaud Guillot-Corail"
       }
     ],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 41,
+        "value": "Brigade de répression de la délinquance économique (BRDE)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1282,
@@ -10910,7 +11295,7 @@
       },
       {
         "id": 94,
-        "value": "Mouvement démocrate"
+        "value": "Mouvement démocrate (MoDem)"
       }
     ],
     "categorie": [
@@ -10933,7 +11318,7 @@
     "contenu": "Une juge bastiaise a été mise en examen pour « prise illégale d’intérêts » par un juge d’instruction de Marseille, a-t-on appris de sources judiciaires et proches du dossier. Il est reproché à cette magistrate, par ailleurs déléguée régionale pour la Corse de l’Union syndicale des magistrats et qui exerce toujours, d’être « juge et partie », a indiqué une source proche du dossier. Elle est soupçonnée de ne pas s’être « déportée » pour des décisions de justice pouvant être liées à « ses intérêts économiques et personnels », notamment à un « domaine viticole » familial.",
     "url": "https://www.20minutes.fr/faits_divers/4021942-20230203-corse-juge-bastiaise-mise-examen-prise-illegale-interets",
     "date": "2023-02-03",
-    "etiquettes": "2B – Haute Corse",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151843,
@@ -10942,7 +11327,12 @@
     ],
     "personnalites": [],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -10952,15 +11342,33 @@
     "contenu": "L’association Fouque en faveur des mineurs protégés ou handicapés est visée par une enquête préliminaire pour détournement de fonds. Son directeur adjoint et actuel président des Restos du Coeur fait partie des mis en cause. La direction de l’association évoque un acharnement du syndicat local CGT.",
     "url": "https://www.francetvinfo.fr/faits-divers/info-franceinfo-a-marseille-l-association-fouque-de-protection-de-l-enfance-visee-par-une-enquete-pour-detournements-de-fonds_5634785.html",
     "date": "2023-02-02",
-    "etiquettes": "13 - Bouches-du-Rhône,CGT,Fouque,Parquet National Financier,Patrice Douret",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151709,
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1549,
+        "value": "Patrice Douret"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 264,
+        "value": "Fouque"
+      },
+      {
+        "id": 271,
+        "value": "Confédération générale du travail (CGT)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -11002,7 +11410,12 @@
     "etiquettes": "Andrea Cozzolino,Marc Tarabella,Parlement Européen",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -11013,7 +11426,7 @@
     "contenu": "Trois membres du Sdis ont été placés en garde à vue mardi. Ces auditions interviennent dans l’enquête ouverte en 2020 par le procureur de l’époque du parquet nord : Eric Tufféry. Elle repose sur des faits présumés « de détournement public », notamment sur des dérives dans la gestion du service des ressources humaines du SDIS.",
     "url": "https://www.lequotidien.re/actualites/faits-divers/soupcon-de-detournement-de-fonds-publics-au-sdis-trois-cadres-en-garde-a-vue/",
     "date": "2023-02-02",
-    "etiquettes": "974 – La Réunion",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151993,
@@ -11021,7 +11434,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 269,
+        "value": "Service Départemental d'Incendie et de Secours de la Réunion (SDIS974)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -11079,13 +11497,46 @@
     "contenu": "La société FeRnK d'Alexandre Ferracci a décroché un marché de 3 millions d'euros pour participer à l'organisation de la Coupe du monde de rugby. Il a pourtant été directeur des ventes et du marketing de l'organisme France 2023, pendant deux ans.",
     "url": "https://www.lalettrea.fr/action-publique_operateurs-de-l-etat/2023/02/02/un-marche-de-la-coupe-du-monde-de-rugby-attribue-a-un-de-ses-anciens-cadres,109909636-art",
     "date": "2023-02-02",
-    "etiquettes": "Alexandre Ferracci,Claude Atcher,FeRnK,France 2023",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1525,
+        "value": "Claude Atcher"
+      },
+      {
+        "id": 1548,
+        "value": "Alexandre Ferracci"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 263,
+        "value": "FeRnK"
+      },
+      {
+        "id": 270,
+        "value": "France 2023"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
   },
   {
     "id": 1243,
@@ -11320,10 +11771,15 @@
     "personnes_morales": [
       {
         "id": 79,
-        "value": "La République En Marche"
+        "value": "La République En Marche (LREM)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -11367,7 +11823,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains"
+        "value": "Les Républicains (LR)"
       }
     ],
     "categorie": [],
@@ -12751,7 +13207,12 @@
     "url": "https://www.mediapart.fr/journal/economie-et-social/191222/cryptomonnaies-une-plainte-contre-binance-eclabousse-les-autorites-francaises",
     "date": "2022-12-19",
     "etiquettes": "Autorité des Marchés Financiers,Binance,Cédric O,Changpeng Zhao",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [
       {
@@ -14181,11 +14642,35 @@
         "value": "37 - Indre-et-Loire"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1531,
+        "value": "Cathy Münsch-Masset"
+      },
+      {
+        "id": 1532,
+        "value": "Guillaume Masset"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 256,
+        "value": "Apajh 37"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1091,
@@ -14205,6 +14690,49 @@
     "categorie": [],
     "theme": [],
     "procedure": []
+  },
+  {
+    "id": 1090,
+    "titre": "Cathy Münsch-Masset relaxée en appel dans l'affaire des détournements de fonds de l'APAJH 37",
+    "contenu": "La conseillère municipale et métropolitaine de Tours, ex-première adjointe au maire, Cathy Münsch-Masset, vient d'être relaxée en appel par le tribunal d'Orléans dans l'affaire du détournement de fonds de l'association APAHJ 37. Lors de son procès en appel, l'avocate générale avait pourtant requis 18 mois de prison dont 10 mois fermes, la confiscation de l'immeuble lui appartenant rue Trianon à Tours, et 5 ans d'inéligibilité. ",
+    "url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/tours/tours-cathy-munsch-relaxee-en-appel-dans-l-affaire-des-detournements-de-fonds-de-l-apajh-37-2655316.html",
+    "date": "2022-11-15",
+    "etiquettes": "37 - Indre-et-Loire,APAHJ 37,Cathy Münsch-Masset",
+    "departement": [
+      {
+        "id": 1151851,
+        "value": "37 - Indre-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1531,
+        "value": "Cathy Münsch-Masset"
+      },
+      {
+        "id": 1532,
+        "value": "Guillaume Masset"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 256,
+        "value": "Apajh 37"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
   },
   {
     "id": 1092,
@@ -14252,25 +14780,6 @@
     "date": "2022-11-15",
     "etiquettes": "Agnès Pannier-Runacher,EP2C,Gouvernement Élisabeth Borne,Ministère de l&#039;Écologie,Perenco",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1090,
-    "titre": "Tours : Cathy Münsch-Masset relaxée en appel dans l'affaire des détournements de fonds de l'APAJH 37",
-    "contenu": "La conseillère municipale et métropolitaine de Tours, ex-première adjointe au maire, Cathy Münsch-Masset, vient d'être relaxée en appel par le tribunal d'Orléans dans l'affaire du détournement de fonds de l'association APAHJ 37. Lors de son procès en appel, l'avocate générale avait pourtant requis 18 mois de prison dont 10 mois fermes, la confiscation de l'immeuble lui appartenant rue Trianon à Tours, et 5 ans d'inéligibilité. ",
-    "url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/tours/tours-cathy-munsch-relaxee-en-appel-dans-l-affaire-des-detournements-de-fonds-de-l-apajh-37-2655316.html",
-    "date": "2022-11-15",
-    "etiquettes": "37 - Indre-et-Loire,APAHJ 37,Cathy Münsch-Masset",
-    "departement": [
-      {
-        "id": 1151851,
-        "value": "37 - Indre-et-Loire"
-      }
-    ],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
@@ -14402,8 +14911,18 @@
     "url": "https://www.linforme.com/banque-finance/article/cedric-o-va-lancer-son-fonds-d-investissement_119.html",
     "date": "2022-11-10",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1306,
+        "value": "Cédric O"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -21371,6 +21890,49 @@
     "procedure": []
   },
   {
+    "id": 700,
+    "titre": "Condamné dans l’affaire de détournements de fonds publics à l’Apajh 37, l’ex-adjointe Cathy Münsch-Masset fait appel",
+    "contenu": "L’ex première adjointe à la ville de Tours, Cathy Münsch-Masset, fait appel de sa condamnation de 18 mois de prison avec sursis et cinq ans d’inéligibilité, dans l’affaire des détournements de fonds publics à l’Apajh 37.",
+    "url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/tours/condamne-dans-l-affaire-de-detournements-de-fonds-publics-a-l-apajh-37-l-ex-adjointe-cathy-munsch-masset-fait-appel-2500609.html",
+    "date": "2022-03-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151851,
+        "value": "37 - Indre-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1531,
+        "value": "Cathy Münsch-Masset"
+      },
+      {
+        "id": 1532,
+        "value": "Guillaume Masset"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 256,
+        "value": "Apajh 37"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
     "id": 1554,
     "titre": "David Tortel",
     "contenu": "Ingénieur en chef des Mines, diplômé de l’Ecole Polytechnique Fédérale de Zurich et de l’école Télécom ParisTech, il a été chef du pôle Cybersécurité du réseau interministériel de l’Etat, puis a travaillé pour l’Anssi (Agence Nationale de la sécurité des systèmes d’information) où il était en charge successivement des activités d’analyse de la menace d’attaques cyber puis des audits et des remédiations. Il est ensuite nommé conseiller de Gérald Darmanin, en charge des technologies et du numérique. En mars 2022 il intègre le cabinet d'audit Deloitte.",
@@ -21540,6 +22102,92 @@
     ],
     "theme": [],
     "procedure": []
+  },
+  {
+    "id": 651,
+    "titre": "Détournements à l'Apajh 37 : prison avec sursis requise contre Cathy Münsch-Masset, du ferme contre son mari",
+    "contenu": "Guillaume Masset et Cathy Münsch-Masset étaient jugés, ce mardi 8 février, pour l'histoire de détournements de fonds publics au préjudice de l'Apajh 37. Pour lui, le parquet a requis de la prison ferme avec mandat de dépôt, pour elle, du sursis simple.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/detournements-de-fonds-publics-a-l-apajh-37-prison-ferme-avec-mandat-de-depot-requis-contre-1644344283",
+    "date": "2022-02-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151851,
+        "value": "37 - Indre-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1531,
+        "value": "Cathy Münsch-Masset"
+      },
+      {
+        "id": 1532,
+        "value": "Guillaume Masset"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 256,
+        "value": "Apajh 37"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 646,
+    "titre": "Tours : de forts soupçons de copinage lors de la nomination de Cathy Münsch-Masset à la tête de l'Apajh 37",
+    "contenu": "France Bleu Touraine révèle de nouveaux éléments au sujet des époux Masset, jugés ce mardi pour l'affaire de détournements de fonds publics présumés au préjudice de l'Apajh 37, qui vient en aide aux handicapés. La nomination de Cathy Münsch-Masset à la tête de la structure en 2014 interroge.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/tours-de-forts-soupcons-de-copinage-lors-de-la-nomination-de-cathy-munsch-masset-a-la-tete-de-l-1643913074",
+    "date": "2022-02-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151851,
+        "value": "37 - Indre-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1531,
+        "value": "Cathy Münsch-Masset"
+      },
+      {
+        "id": 1532,
+        "value": "Guillaume Masset"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 256,
+        "value": "Apajh 37"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
   },
   {
     "id": 1562,
@@ -23240,11 +23888,35 @@
         "value": "37 - Indre-et-Loire"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1531,
+        "value": "Cathy Münsch-Masset"
+      },
+      {
+        "id": 1532,
+        "value": "Guillaume Masset"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 256,
+        "value": "Apajh 37"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 527,
@@ -23820,12 +24492,41 @@
     "url": "https://www.lemonde.fr/international/article/2021/11/06/affaire-salame-l-enquete-transnationale-bute-sur-le-secret-bancaire-libanais_6101178_3210.html",
     "date": "2021-11-06",
     "etiquettes": "Banque du Liban,Parquet National Financier,Riad Salamé",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1538,
+        "value": "Riad Salamé"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 152,
+        "value": "Sherpa"
+      },
+      {
+        "id": 258,
+        "value": "Banque du Liban"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 496,
@@ -25830,12 +26531,41 @@
     "url": "https://www.capital.fr/entreprises-marches/le-n1-de-la-banque-du-liban-interroge-sur-le-detournement-de-fonds-publics-et-levasion-fiscale-1411400",
     "date": "2021-08-05",
     "etiquettes": "Parquet National Financier,Riad Salamé",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1538,
+        "value": "Riad Salamé"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 152,
+        "value": "Sherpa"
+      },
+      {
+        "id": 258,
+        "value": "Banque du Liban"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 368,
@@ -26574,6 +27304,34 @@
     "procedure": []
   },
   {
+    "id": 325,
+    "titre": "Reconversion dans le privé de Fleur Pellerin : l’enquête classée sans suite",
+    "contenu": "L’ex-ministre était soupçonnée d’avoir tissé des liens avec un géant du web sud-coréen, auprès duquel elle avait ensuite levé 200 millions d’euros.",
+    "url": "https://www.sudouest.fr/justice/reconversion-dans-le-prive-de-fleur-pellerin-l-enquete-classee-sans-suite-3998393.php",
+    "date": "2021-07-01",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 323,
+    "titre": "Soupçonné de malversations financières, un ancien « dir cab’ » vendéen recasé en Loire-Atlantique",
+    "contenu": "Alors que la justice enquête sur le détournement de 30 000 euros de fonds publics à la mairie de la Roche-sur-Yon, en Vendée, le fonctionnaire territorial soupçonné a été recruté par la mairie de Petit-Mars, en Loire-Atlantique.",
+    "url": "https://www.mediacites.fr/breve/nantes/2021/07/01/soupconne-de-malversations-financieres-un-ancien-%E2%80%AFdir-cab%E2%80%AF-vendeen-recase-en-loire-atlantique/",
+    "date": "2021-07-01",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1580,
     "titre": "Thierry Delville",
     "contenu": "Diplômé de l’Ecole Nationale Supérieure de Police (ENSP) de Lyon en 1994, il est passé par la Direction centrale de la Sécurité Publique (DCSP) et la Préfecture de Police de Paris. En 2014 il est nommé Délégué ministériel aux industries de sécurité et à la lutte contre les Cybermenaces. En 2018 il devient responsable du développement d’un pôle de cyber intelligence chez PwC France. Puis en juillet 2021 il rejoint Capgemini en tant que Group Chief Security Officer.",
@@ -26589,6 +27347,20 @@
         "value": "Observatoire des pantouflages"
       }
     ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 322,
+    "titre": "Guadeloupe : la Région met un terme aux fonctions de José Gaydu",
+    "contenu": "Une décision prise durant l'entre deux tours : Ary Chalus s'est séparé de José Gaydu, jusque là directeur général adjoint au Conseil Régional. Depuis quelque temps, l'homme était au cœur d'une dénonciation formulée par la CFTC",
+    "url": "https://la1ere.francetvinfo.fr/guadeloupe/la-region-met-un-terme-aux-fonctions-de-jose-gaydu-1048027.html",
+    "date": "2021-06-30",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
     "theme": [],
     "procedure": []
   },
@@ -26990,6 +27762,20 @@
     "procedure": []
   },
   {
+    "id": 290,
+    "titre": "Grand prix de Formule 1 : la note qui embarrasse le département des Bouches-du-Rhône",
+    "contenu": "",
+    "url": "https://www.mediapart.fr/journal/france/140621/grand-prix-de-formule-1-la-note-qui-embarrasse-le-departement-des-bouches-du-rhone",
+    "date": "2021-06-14",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 285,
     "titre": "La Cour des comptes étrille le contrôleur des comptes de campagne",
     "contenu": "La Cour des comptes a contrôlé en 2019 la Commission nationale des comptes de campagne, qui est passée à côté du scandale Bygmalion, faute de pouvoirs d’enquête. Le rapport est si sévère qu’il a été tenu secret jusque-là.\nLa Cour considère que « bien qu’indispensable, le contrôle effectué par la CNCCFP ne permet pas de garantir pleinement le respect de la législation ». Car, « faute de s’être vu reconnaître les pouvoirs nécessaires, la Commission ne peut apporter cette garantie à une opinion dont les interrogations sur l’efficacité du contrôle exercé sur les financements politiques se sont nourries d’irrégularités survenues à l’occasion de scrutins majeurs, affectant la crédibilité de la Commission ». Pour la cour, le contrôle des comptes de campagne souffre d’une double limite : « Il est à la fois trop formel et s’opère sur un champ trop étendu. » \nComme le souligne la cour, « l’ampleur actuelle du volume des contrôles rend difficile leur approfondissement ». Car ce contrôle s’effectue sur une base déclarative, à partir des seules pièces fournies par les candidats. Or, certaines factures sont peu détaillées au vu de leur montant. Si la commission peut demander des compléments aux candidats, le refus de transmettre des pièces n’est pas punissable. Elle ne s’adresse pas non plus à des tiers (fournisseurs, colistiers) en vue d’obtenir des renseignements complémentaires. Pour la cour, « le caractère déclaratif du contrôle permet de déceler uniquement les erreurs, et non les infractions intentionnelles ».\nDans le modèle proposé par la Cour des comptes, les contrôles des candidats non remboursables seraient quasiment automatisés, quand les comptes importants seraient soumis à un contrôle intensif. Pour les élections les plus importantes, la cour recommande de « nommer les rapporteurs en amont du scrutin et de les habiliter à assister à certains événements de la campagne ». Elle propose un « droit d’accès en temps réel aux documents relatifs à ces événements (devis, carnet de reçu-dons, etc.) ainsi qu’au compte bancaire du mandataire ». Elle rappelle que certaines autorités indépendantes disposent de tels pouvoirs d’investigation.",
@@ -27010,6 +27796,20 @@
     "url": "https://www.lemonde.fr/international/article/2021/06/12/francois-fillon-propose-au-directoire-d-un-groupe-petrolier-appartenant-a-l-etat-russe_6083811_3210.html",
     "date": "2021-06-12",
     "etiquettes": "François Fillon,Les Républicains,Zaroubejneft",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 299,
+    "titre": "Le Conseil constitutionnel saisi des remontées d'informations au garde des Sceaux",
+    "contenu": "",
+    "url": "https://www.bfmtv.com/politique/le-conseil-constitutionnel-saisi-des-remontees-d-informations-au-garde-des-sceaux_AD-202106110379.html",
+    "date": "2021-06-11",
+    "etiquettes": "",
     "departement": [],
     "personnalites": [],
     "personnes_morales": [],
@@ -27271,16 +28071,53 @@
   {
     "id": 277,
     "titre": "Le gouverneur de la Banque du Liban visé par une enquête en France",
-    "contenu": "Le Parquet national financier (PNF) a ouvert une enquête préliminaire pour « association de malfaiteurs » et « blanchiment en bande organisée ». Cette enquête fait suite à deux plaintes, l'une déposée par la fondation suisse Accountability Now et l'autre par l'ONG Sherpa et un collectif d'épargnants libanais. Proche du clan de la famille Hariri, il est soupçonné, à l'instar d'autres hauts responsables du pays, d'avoir discrètement transféré d'importantes sommes à l'étranger au moment du soulèvement d'octobre 2019, malgré les restrictions draconiennes adoptées par les banques.\nSelon les plaignants, « le patrimoine global » de Riad Salamé « dépasserait aujourd'hui les 2 milliards de dollars ». « Ses avoirs identifiés au Luxembourg atteignaient 94 millions de dollars en 2018 », indique la plainte, qui s'appuie notamment sur les révélations du site libanais Daraj.com et les investigations de l'Organized Crime and Corruption Reporting Project (OCCRP).",
+    "contenu": "Le Parquet national financier (PNF) a ouvert une enquête préliminaire pour « association de malfaiteurs » et « blanchiment en bande organisée ». Cette enquête fait suite à deux plaintes, l'une déposée par la fondation suisse Accountability Now et l'autre par l'ONG Sherpa et un collectif d'épargnants libanais. Proche du clan de la famille Hariri, il est soupçonné, à l'instar d'autres hauts responsables du pays, d'avoir discrètement transféré d'importantes sommes à l'étranger au moment du soulèvement d'octobre 2019, malgré les restrictions draconiennes adoptées par les banques.",
     "url": "https://www.lesechos.fr/finance-marches/marches-financiers/le-gouverneur-de-la-banque-du-liban-vise-par-une-enquete-en-france-1321188",
     "date": "2021-06-06",
     "etiquettes": "Accountability Now,Parquet National Financier,Riad Salamé,Sherpa",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1538,
+        "value": "Riad Salamé"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 152,
+        "value": "Sherpa"
+      },
+      {
+        "id": 258,
+        "value": "Banque du Liban"
+      },
+      {
+        "id": 259,
+        "value": "Accountability Now"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 272,
@@ -27387,6 +28224,25 @@
     "procedure": []
   },
   {
+    "id": 267,
+    "titre": "Inspection générale des finances : quand l’élite de l’administration préfère servir les intérêts privés",
+    "contenu": "",
+    "url": "https://www.bastamag.net/IGF-ENA-inspection-generale-des-finances-Bercy-Tresor-pantouflage-conflits-d-interets-secteur-bancaire",
+    "date": "2021-06-03",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 269,
     "titre": "L'ancien sénateur Joseph Castelli remis en liberté sous contrôle judiciaire",
     "contenu": "Jeudi 3 juin, la cour d'appel de Bastia a accepté la demande de remise en liberté de Joseph Castelli. L'ancien sénateur avait été condamné à quatre ans de prison dont trois ans ferme, en mars dernier.\nLa veille, mercredi 2 juin, lors de l'audience, ses avocat ont plaidé pour la libération de leur client, avançant son âge, 73 ans, et des problèmes de santé. Ces derniers ont également considéré que la mesure de sureté n'était pas justifiée, l'ancien ténor du parti radical de gauche n’ayant à ce jour plus aucun mandat politique.",
@@ -27467,6 +28323,20 @@
     "procedure": []
   },
   {
+    "id": 265,
+    "titre": "Assistants parlementaires européens : l’enquête visant le RN est la plus accablante",
+    "contenu": "",
+    "url": "https://www.lemonde.fr/societe/article/2021/06/02/assistants-parlementaires-europeens-l-enquete-visant-le-rn-est-la-plus-accablante_6082556_3224.html",
+    "date": "2021-06-02",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 262,
     "titre": "Le sénateur Jean-Noël Guérini fait appel de sa condamnation pour prise illégale d'intérêts",
     "contenu": "Le sénateur Jean-Noël Guérini a fait appel de sa condamnation pour prise illégale d'intérêts à trois ans de prison dont 18 mois avec sursis et 5 ans d'inéligibilité, a-t-on appris mercredi de source judiciaire. Le tribunal ayant prononcé l'exécution provisoire pour cette peine complémentaire de privation des droits civiques, Jean-Noël Guérini doit quitter ses postes de sénateur et de conseiller départemental, sauf s'il obtient la suspension de cette exécution provisoire en déposant une requête auprès du premier président de la cour d'appel.\nInterrogé par l'AFP, le Sénat a estimé de son côté que « si la personne concernée interjet(ait) appel, elle conserv(ait) son mandat jusqu'à ce que la décision de justice soit devenue définitive », évoquant notamment une décision rendue en 2009 par le Conseil constitutionnel dans une affaire concernant l'ex-sénateur et président de la Polynésie française Gaston Flosse.",
@@ -27533,6 +28403,20 @@
     "procedure": []
   },
   {
+    "id": 243,
+    "titre": "Dons et services rendus : plongée dans les micropartis de Guillaume Peltier",
+    "contenu": "",
+    "url": "https://www.lemonde.fr/societe/article/2021/06/01/dons-et-services-rendus-plongee-dans-les-micro-partis-de-guillaume-peltier_6082294_3224.html",
+    "date": "2021-06-01",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 261,
     "titre": "Elus d'Ascain poursuivis pour prise illégale d'intérêts : des relaxes et une amende de 2.000 euros",
     "contenu": "Le tribunal judiciaire de Bayonne a relaxé deux des trois élus d'Ascain poursuivis pour prise illégale d'intérêts et recel ce mardi 1er juin. Seule Anita Lacarra, actuelle adjointe aux affaires sociales, est jugée coupable et condamnée à 2.000 euros d'amende.\nChristian Larroquet, adjoint chargé des travaux sous la mandature précédente, Jean-Michel Jolimon actuel adjoint à l'urbanisme et Anita Lacarra, adjointe aux affaires sociales mais chargée de l'urbanisme au moment des faits en 2014, peu de temps après les élections municipales, avaient voté une modification du Plan Local d'Urbanisme (PLU). L'association « Ascain cadre de vie » avait dénoncer ces changements qui favorisaient les familles des trois élus en faisant grimper le prix du foncier de l'ordre de 12%.",
@@ -27583,6 +28467,20 @@
         "value": "38 - Isère"
       }
     ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 244,
+    "titre": "Gang du Petit Bar : Antony Perrino, héritier d’une des plus grosses fortunes de Corse, rattrapé par ses amitiés",
+    "contenu": "",
+    "url": "https://www.lemonde.fr/societe/article/2021/05/31/antony-perrino-le-golden-boy-d-ajaccio-rattrape-par-ses-amities-avec-la-bande-du-petit-bar_6082120_3224.html",
+    "date": "2021-05-31",
+    "etiquettes": "",
+    "departement": [],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
@@ -27675,6 +28573,20 @@
     "procedure": []
   },
   {
+    "id": 247,
+    "titre": "A Marseille, le procès du clientélisme en famille à la mairie d’Allauch",
+    "contenu": "",
+    "url": "https://www.lemonde.fr/societe/article/2021/05/27/a-marseille-le-proces-du-clientelisme-en-famille-a-la-mairie-d-allauch_6081676_3224.html",
+    "date": "2021-05-27",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 245,
     "titre": "Fuites au Quai des Orfèvres. Le parquet réclame de nouveau un procès pour l’ex-patron de la PJ",
     "contenu": "Le parquet de Paris demande à nouveau le renvoi en correctionnelle de l’ex-patron de la PJ parisienne et de 12 autres personnes dans l’affaire des fuites au « 36 » qui avait ébranlé l’institution policière en 2015. Bernard Petit est soupçonné d’avoir, via des intermédiaires, renseigné le fondateur du GIGN Christian Prouteau avant sa garde à vue fin 2014 dans une tortueuse affaire d’escroquerie et de trafic d’influence, impliquant également Christophe de Rocancourt, surnommé « l’escroc des stars ». Par ricochet, l’affaire avait aussi entraîné la chute de Joaquin Masanet, figure du syndicalisme policier alors à la tête de l’Anas, l’association qui gère les œuvres sociales de la police.\nLes mises en examen, le 5 février 2015, du directeur de la police judiciaire, de son chef de cabinet Richard Atlan et de Joaquin Masanet avaient eu un écho retentissant. Trois ans après, l’enquête avait débouché sur des premières réquisitions du parquet, qui réclamait un procès contre Bernard Petit et Richard Atlan pour « violation du secret de l’instruction » et « révélation d’informations sur une enquête » au bénéfice de Christian Prouteau.\nLes investigations avaient notamment mis au jour un vaste système de corruption autour de Jo Masanet, soupçonné d’avoir monnayé ses interventions en profitant de son influence dans les hautes sphères de l’administration. Le parquet redemande qu’il soit jugé pour « trafic d’influence » et « abus de confiance aggravé », l’accusant d’avoir détourné plus de 470 000 € des caisses de l’Anas via des surfacturations et près de 60 000 € de frais de bouche indus.\nLe cœur du dossier, l’affaire d’escroquerie impliquant Christian Prouteau, avait pour sa part été disjoint. L’ancien gendarme, Christophe de Rocancourt, sa compagne, son ex-avocat, un notaire et l’ancien secrétaire d’État socialiste Kofi Yamgnane auraient dû être jugés en 2020, mais le procès avait été renvoyé pour cause de pandémie. Prévu pour se tenir à partir du 31 mai, le procès pourrait à nouveau être reporté.",
@@ -27694,6 +28606,20 @@
     "procedure": []
   },
   {
+    "id": 250,
+    "titre": "« Tout le monde était au courant à l’UMP, de Sarkozy en passant par la fille de l’accueil » : au procès Bygmalion, le témoignage accablant de Franck Attal",
+    "contenu": "",
+    "url": "https://www.lemonde.fr/societe/article/2021/05/27/tout-le-monde-etait-au-courant-a-l-ump-de-sarkozy-en-passant-par-la-fille-de-l-accueil-au-proces-bygmalion-le-temoignage-accablant-de-franck-attal_6081618_3224.html",
+    "date": "2021-05-27",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 241,
     "titre": "Le cadre d’un géant de l’énergie soupçonné de corruption privée",
     "contenu": "Mercredi 26 mai, la société française Technip Énergies, l’un des leaders mondiaux de l’ingénierie gazière et pétrolière, a reçu la visite surprise des gendarmes de la section de recherches (SR) de Versailles, dans le cadre d’une enquête préliminaire ouverte en février par le parquet national financier (PNF) pour le chef de corruption privée. En ligne de mire, Heiko R., un membre du service achat de Technip France, filiale de Technip Énergies (15 000 employés répartis dans 34 pays), visé par une perquisition à son domicile dans la matinée.\nSelon des informations venues d’Italie, cet homme est soupçonné d’avoir été le bénéficiaire d’un pot-de-vin d’un montant de 740 000 euros versé par une multinationale basée à Milan et spécialisée dans la fabrication de vannes industrielles. En contrepartie, cette entreprise italienne aurait obtenu auprès de Technip un marché estimé à une vingtaine de millions d’euros et auréolé d’un bénéfice de plus de 11,5 millions d’euros. L'ingénieur, formé en Allemagne, était notamment responsable des achats sur le gigantesque projet Prelude, du nom de cette usine flottante d’extraction et de liquéfaction de gaz naturel construite pour Shell (coût global estimé à plus de cinq milliards d’euros) et mise en service fin 2018.",
@@ -27706,6 +28632,34 @@
         "value": "78 - Yvelines"
       }
     ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 242,
+    "titre": "Pas de question au Conseil constitutionnel pour le président de la Manche Marc Lefèvre",
+    "contenu": "",
+    "url": "https://www.ouest-france.fr/normandie/manche/pas-de-question-au-conseil-constitutionnel-pour-le-president-de-la-manche-marc-lefevre-30c7fbc8-be33-11eb-bc59-778c1de5b8e1",
+    "date": "2021-05-26",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 240,
+    "titre": "Saint-Paul : à nouveau soupçonnée d'emploi fictif, Sandra Sinimalé entendue en garde à vue",
+    "contenu": "",
+    "url": "https://la1ere.francetvinfo.fr/reunion/saint-paul/saint-paul-sandra-sinimale-entendue-en-garde-a-vue-1018246.html",
+    "date": "2021-05-26",
+    "etiquettes": "",
+    "departement": [],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
@@ -27787,6 +28741,20 @@
         "value": "Condamnation"
       }
     ]
+  },
+  {
+    "id": 237,
+    "titre": "La guerre de l’eau : Pourquoi veut-on tuer le Syndicat Intercommunal des Eaux des Coteaux du Touch ? (dossier)",
+    "contenu": "",
+    "url": "https://www.petiterepublique.com/2021/05/23/la-guerre-de-leau-pourquoi-veut-on-tuer-le-syndicat-intercommunal-des-eaux-des-coteaux-du-touch-dossier/",
+    "date": "2021-05-23",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
   },
   {
     "id": 236,
@@ -30556,15 +31524,29 @@
     "contenu": "France 2 revient sur l'affaire Bygmalion avec plusieurs interviews exclusives, dont une de Jérôme Lavrilleux et une autre de Guillaume Lambert, directeur de la campagne de Nicolas Sarkozy à l'époque, qui affirme : « Il semble effectivement que deux alertes ont été transmises à Nicolas Sarkozy, qu'il les a eu en main, qu'il en a eu connaissance et que pour autant, la campagne a suivi son cours absolument faramineux. »",
     "url": "https://www.francetvinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-laffaire-qui-a-fait-exploser-la-droite_4302945.html",
     "date": "2021-03-11",
-    "etiquettes": "75 - Paris,Jérôme Lavrilleux,Les Républicains,Nicolas Sarkozy",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1556,
+        "value": "Jérôme Lavrilleux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -30575,15 +31557,25 @@
     "contenu": "Jean Christophe Lagarde, le président de l'UDI et député de la 5ème circonscription (Drancy) de Seine-Saint-Denis, a été placé en garde à vue ce jeudi matin, au sein de la police judiciaire du département. Il a été relâché ce jeudi soir et l'enquête préliminaire se poursuit. L'ancien maire de Drancy, qui vit toujours dans la commune, a été interpellé pour détention d'arme sans autorisation.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/jean-christophe-lagarde-udi-garde-a-vue-armes-non-declarees-1615447740",
     "date": "2021-03-11",
-    "etiquettes": "93 – Seine Saint Denis,Jean-Christophe Lagarde,Union des démocrates et indépendants",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151972,
         "value": "93 - Seine-Saint-Denis"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1554,
+        "value": "Jean-Christophe Lagarde"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 268,
+        "value": "Union des démocrates et indépendants (UDI)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -30613,10 +31605,20 @@
     "contenu": "Iskandar Safa, propriétaire du chantier naval Constructions mécaniques de Normandie (CMN) et du magazine d’extrême droite Valeurs actuelles, est directement visé par une plainte déposée par l’État du Mozambique devant la chambre commerciale de la Haute Cour de justice d’Angleterre et du pays de Galles, le 27 octobre 2020. En tant que principal dirigeant du groupe naval Privinvest, il est accusé d’avoir corrompu plusieurs hauts responsables politiques du pays, afin d’obtenir les contrats dans des conditions très lucratives pour les banques et pour ses chantiers navals, au détriment des intérêts du Mozambique et de sa population.",
     "url": "https://www.mediapart.fr/journal/france/110321/l-etau-se-resserre-autour-du-patron-milliardaire-iskandar-safa?onglet=full",
     "date": "2021-03-11",
-    "etiquettes": "Constructions mécaniques de Normandie,Iskandar Safa",
+    "etiquettes": "",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1553,
+        "value": "Iskandar Safa"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 267,
+        "value": "Constructions mécaniques de Normandie"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -30627,15 +31629,25 @@
     "contenu": "La maire de Vouvant, en Vendée, doit abandonner son poste, ainsi que son mandat de conseillère régionale des Pays de la Loire. Son pourvoi en cassation vient en effet d'être rejetée, sa condamnation est donc définitive. En juin 2019, Myriam Garreau avait été condamnée par le tribunal de La Roche-sur-Yon pour prise illégale d'intérêt à 3 000 euros d'amende avec sursis, mais surtout à trois ans d'inéligibilité.",
     "url": "https://www.francebleu.fr/infos/politique/condamnee-la-maire-de-vouvant-en-vendee-annonce-qu-elle-doit-quitter-sa-fonction-1615483259",
     "date": "2021-03-11",
-    "etiquettes": "85 - Vendée,Les Républicains,Myriam Garreau",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151982,
         "value": "85 - Vendée"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1555,
+        "value": "Myriam Garreau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -30665,14 +31677,23 @@
     "contenu": "À la tête de l’Auvergne-Rhône-Alpes depuis 2016, Laurent Wauquiez a installé un système opaque de distribution des subventions régionales, qui bénéficie très largement aux communes de droite et de son fief de Haute-Loire. Il est mis en œuvre par Ange Sitbon, ancien cadre de l'UMP aujourd'hui à la tête d'une équipe de conseillers au profil très politique, recrutés par la région comme contractuels. Fin décembre, l’AFP révélait que le Parquet national financier avait ouvert en septembre 2020 une enquête après un signalement d’Anticor au parquet de Lyon. Selon les informations de Mediapart, cette enquête porte bien sur la « cellule Sitbon » et vise des faits présumés de détournement de fonds publics. ",
     "url": "https://www.mediapart.fr/journal/france/100321/argent-public-comment-laurent-wauquiez-arrose-les-siens",
     "date": "2021-03-10",
-    "etiquettes": "69 - Rhône,Ange Sitbon,Anticor,Laurent Wauquiez",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151715,
         "value": "69 - Rhône"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1295,
+        "value": "Laurent Wauquiez"
+      },
+      {
+        "id": 1551,
+        "value": "Ange Sitbon"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -30684,15 +31705,25 @@
     "contenu": "L’enquête préliminaire ouverte pour « abus de confiance » et « recel » visant plusieurs dirigeants de La France insoumise, dont Jean-Luc Mélenchon, sur le paiement des dommages et intérêts dans l’affaire de la perquisition au siège de LFI, a été classée sans suite par le parquet de Bobigny, mercredi 10 mars. L'enquête visait à vérifier les conditions dans lesquelles les cadres de LFI se sont acquittés des dommages et intérêts auxquels ils ont été condamnés en décembre 2019 dans l’affaire de la perquisition houleuse au siège de LFI, le 16 octobre 2018. L’enquête préliminaire a été classée à la fin du mois de janvier, a précisé le parquet de Bobigny. Policiers et magistrats soupçonnaient que le règlement des dommages et intérêts par le parti à la place des personnes condamnées constituait une infraction.",
     "url": "https://www.lemonde.fr/politique/article/2021/03/10/perquisition-au-siege-de-lfi-en-2018-l-enquete-visant-plusieurs-cadres-du-parti-dont-melenchon-classee_6072633_823448.html",
     "date": "2021-03-10",
-    "etiquettes": "75 - Paris,Jean-Luc Mélenchon,La France Insoumise",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1550,
+        "value": "Jean-Luc Mélenchon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 20,
+        "value": "La France Insoumise (LFI)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -30758,14 +31789,19 @@
     "contenu": "Révoqué en 2018 en Conseil des Ministres puis condamné en janvier 2020 pour des faits de détournements de fonds publics à hauteur de 114 000 € au détriment de sa commune, l'ancien maire d'Hesdin avait été condamné en première instance à 3 ans de prison avec sursis, une peine assortie de 5 ans d'inéligibilité. Après avoir fait appel de ce jugement, celui qui est aujourd'hui stagiaire chez un notaire était donc à nouveau jugé ce mardi à Douai. Il a réitéré ses dénégations devant les magistrats de la cour d'appel de Douai. L'avocat général a requis 36 mois de prison dont 6 mois ferme, 15 000 € d'amende et 10 ans d'inéligibilité. Les magistrats rendront leur arrêt le 13 avril prochain.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/stephane-sieczkowski-samier-a-nouveau-devant-la-justice-l-ancien-maire-d-hesdin-etait-juge-en-appel-1615317286",
     "date": "2021-03-09",
-    "etiquettes": "62 – Pas-de-Calais,Stéphane Sieczkowski-Samier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151960,
         "value": "62 - Pas-de-Calais"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1552,
+        "value": "Stéphane Sieczkowski-Samier"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -30777,15 +31813,25 @@
     "contenu": "David Angevin, ancien membre du cabinet d'Alain Rousset entre 2015 et 2018, l'accuse d'avoir utilisé les moyens de l'institution pour sa campagne de 2015. Il affirme notamment qu'une quarantaine de personnels ont été utilisés à temps plein pour la campagne de 2015. David Angevin parle même d'un « système Rousset ». Le président de la Nouvelle-Aquitaine de son côté se dit serein et nie en bloc.\nDavid Angevin est un journaliste, écrivain et spécialiste des nouvelles technologies recruté en janvier 2015 par le cabinet d'Alain Rousset pour en devenir la plume. Les relations de travail se seraient rapidement dégradées entre les deux parties au point d'aboutir au licenciement pour insuffisance professionnelle de David Angevin en 2018. Un licenciement pour lequel l'ex-collaborateur et la Région sont d'ailleurs en procès.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-patron-de-la-nouvelle-aquitaine-alain-rousset-vise-par-une-plainte-pour-detournement-de-fonds-1615308100",
     "date": "2021-03-09",
-    "etiquettes": "33 – Gironde,Alain Rousset,Parti Socialiste",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151847,
         "value": "33 - Gironde"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1504,
+        "value": "Alain Rousset"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -30796,10 +31842,23 @@
     "contenu": "Selon un « rapport confidentiel » de l’Inspection générale des finances (IGF), la TVA fait l’objet d’une « fraude massive en France sur les plateformes de e-commerce », dont Amazon, même si la firme américaine n’est pas citée. Des signalements ont été faits auprès du Parquet national financier. D'après l'IGF, « Au 31 décembre 2017, 98 % des vendeurs étrangers actifs contrôlés sur les plateformes contrôlées n’étaient pas immatriculés à la TVA en France (seuls 538 vendeurs sont immatriculés sur un total de 24 459). La DNEF a renouvelé ce contrôle en mai 2019 et aboutit au même constat, mais avec un nombre de sociétés significativement accru. »\nUgo Bernalicis, l’un des deux auteurs du rapport de l’Assemblée sur la délinquance financière, a réagi : « La mission d’inspection s’est intéressée à un autre aspect de la collecte de la TVA, à savoir l’obligation de représentation fiscale pour les entreprises hors Union européenne souhaitant commercer sur le territoire national. C’est souvent le cas pour les entreprises faisant du commerce en ligne par le biais des grandes plateformes comme Amazon. On y apprend que 98 % des entreprises contrôlés par la DGFIP ne respectaient pas leurs obligations. C’est autant de TVA, souvent à 20 %, qui manque à l’appel et de concurrence déloyale par rapport à ceux qui s’acquittent de la TVA. On parle d’au moins plusieurs dizaines de millions d’euros de manque à gagner avec certitude. Probablement beaucoup plus. Attac, dans une note de décembre 2020, estime le montant total pouvant aller de 4 à 5 milliards ! Il semblerait que des signalements aient été transmis au Parquet national financier. Mais, avec les faibles moyens du PNF, je doute que les enquêtes soient rapides. Par ailleurs, la fraude décelée à l’époque était antérieure à la pandémie. Imaginez le montant du préjudice avec l’explosion des ventes en ligne sur les plateformes de e-commerce depuis le début de la crise sanitaire. »",
     "url": "https://www.mediapart.fr/journal/economie/080321/e-commerce-98-des-vendeurs-etrangers-fraudent-la-tva",
     "date": "2021-03-08",
-    "etiquettes": "Amazon,Inspection générale des finances,Parquet National Financier",
+    "etiquettes": "",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 265,
+        "value": "Amazon"
+      },
+      {
+        "id": 266,
+        "value": "Inspection générale des finances"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -30836,6 +31895,20 @@
         "value": "971 - Guadeloupe"
       }
     ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 248,
+    "titre": "Rennes. Cinq anciens élus de La Mézière poursuivis devant le tribunal ce lundi",
+    "contenu": "L’ancien maire de La Mézière et quatre élus sont convoqués à la barre du tribunal de Rennes ce lundi 8 mars. Ils sont soupçonnés de prise illégale d’intérêts sur des terrains vendus à des proches en 2013.",
+    "url": "https://www.ouest-france.fr/bretagne/rennes-35000/rennes-cinq-anciens-elus-de-la-meziere-poursuivis-devant-le-tribunal-ce-lundi-7178711#",
+    "date": "2021-03-08",
+    "etiquettes": "",
+    "departement": [],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
@@ -32472,20 +33545,6 @@
     "procedure": []
   },
   {
-    "id": 247,
-    "titre": "A Marseille, le procès du clientélisme en famille à la mairie d’Allauch",
-    "contenu": "",
-    "url": "https://www.lemonde.fr/societe/article/2021/05/27/a-marseille-le-proces-du-clientelisme-en-famille-a-la-mairie-d-allauch_6081676_3224.html",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 714,
     "titre": "Anticor dépose plainte contre le maire de Treillières et plusieurs élus municipaux",
     "contenu": "",
@@ -32532,20 +33591,6 @@
     "titre": "Ariège. La présidente et l'ancien directeur du syndicat des déchets en garde à vue",
     "contenu": "",
     "url": "https://actu.fr/faits-divers/ariege-la-presidente-et-l-ancien-directeur-du-syndicat-des-dechets-en-garde-a-vue_49957492.html",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 265,
-    "titre": "Assistants parlementaires européens : l’enquête visant le RN est la plus accablante",
-    "contenu": "",
-    "url": "https://www.lemonde.fr/societe/article/2021/06/02/assistants-parlementaires-europeens-l-enquete-visant-le-rn-est-la-plus-accablante_6082556_3224.html",
     "date": null,
     "etiquettes": "",
     "departement": [],
@@ -32710,20 +33755,6 @@
     "procedure": []
   },
   {
-    "id": 700,
-    "titre": "Condamné dans l’affaire de détournements de fonds publics à l’Apajh 37, l’ex-adjointe Cathy Münsch-Masset fait appel",
-    "contenu": "",
-    "url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/tours/condamne-dans-l-affaire-de-detournements-de-fonds-publics-a-l-apajh-37-l-ex-adjointe-cathy-munsch-masset-fait-appel-2500609.html",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 671,
     "titre": "Condamné en correctionnelle, le maire de Saint-Rambert-en-Bugey Gilbert Bouchon a fait appel",
     "contenu": "",
@@ -32850,20 +33881,6 @@
     "procedure": []
   },
   {
-    "id": 651,
-    "titre": "Détournements à l'Apajh 37 : prison avec sursis requise contre Cathy Münsch-Masset, du ferme contre son mari",
-    "contenu": "",
-    "url": "https://www.francebleu.fr/infos/faits-divers-justice/detournements-de-fonds-publics-a-l-apajh-37-prison-ferme-avec-mandat-de-depot-requis-contre-1644344283",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 650,
     "titre": "Dîners de Macron à Bercy: les députés LFI signalent les faits à la justice",
     "contenu": "",
@@ -32882,20 +33899,6 @@
     "titre": "Directeur de l'ADAT CD 25 visé par une enquête judiciaire : le point sur cette affaire de détournement de fonds et abus de confiance",
     "contenu": "",
     "url": "https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/le-directeur-de-l-adat-conseil-departemental-25-vise-par-une-enquete-judiciaire-on-fait-le-point-sur-cette-affaire-de-detournement-de-fonds-et-d-abus-2477983.html",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 243,
-    "titre": "Dons et services rendus : plongée dans les micropartis de Guillaume Peltier",
-    "contenu": "",
-    "url": "https://www.lemonde.fr/societe/article/2021/06/01/dons-et-services-rendus-plongee-dans-les-micro-partis-de-guillaume-peltier_6082294_3224.html",
     "date": null,
     "etiquettes": "",
     "departement": [],
@@ -33158,52 +34161,10 @@
     "procedure": []
   },
   {
-    "id": 244,
-    "titre": "Gang du Petit Bar : Antony Perrino, héritier d’une des plus grosses fortunes de Corse, rattrapé par ses amitiés",
-    "contenu": "",
-    "url": "https://www.lemonde.fr/societe/article/2021/05/31/antony-perrino-le-golden-boy-d-ajaccio-rattrape-par-ses-amities-avec-la-bande-du-petit-bar_6082120_3224.html",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 290,
-    "titre": "Grand prix de Formule 1 : la note qui embarrasse le département des Bouches-du-Rhône",
-    "contenu": "",
-    "url": "https://www.mediapart.fr/journal/france/140621/grand-prix-de-formule-1-la-note-qui-embarrasse-le-departement-des-bouches-du-rhone",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 704,
     "titre": "Grangier : Anticor accuse La Poste de favoritisme",
     "contenu": "",
     "url": "https://www.bienpublic.com/faits-divers-justice/2022/03/18/grangier-une-association-accuse-la-poste-de-favoritisme",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 322,
-    "titre": "Guadeloupe : la Région met un terme aux fonctions de José Gaydu",
-    "contenu": "",
-    "url": "https://la1ere.francetvinfo.fr/guadeloupe/la-region-met-un-terme-aux-fonctions-de-jose-gaydu-1048027.html",
     "date": null,
     "etiquettes": "",
     "departement": [],
@@ -33238,25 +34199,6 @@
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 267,
-    "titre": "Inspection générale des finances : quand l’élite de l’administration préfère servir les intérêts privés",
-    "contenu": "",
-    "url": "https://www.bastamag.net/IGF-ENA-inspection-generale-des-finances-Bercy-Tresor-pantouflage-conflits-d-interets-secteur-bancaire",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [
-      {
-        "id": 1152013,
-        "value": "Observatoire des pantouflages"
-      }
-    ],
     "theme": [],
     "procedure": []
   },
@@ -33378,20 +34320,6 @@
     "procedure": []
   },
   {
-    "id": 237,
-    "titre": "La guerre de l’eau : Pourquoi veut-on tuer le Syndicat Intercommunal des Eaux des Coteaux du Touch ? (dossier)",
-    "contenu": "",
-    "url": "https://www.petiterepublique.com/2021/05/23/la-guerre-de-leau-pourquoi-veut-on-tuer-le-syndicat-intercommunal-des-eaux-des-coteaux-du-touch-dossier/",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 462,
     "titre": "La Haute autorité pour la Transparence de la vie publique (HATVP) n'apprécie pas la reconversion de Didier Guillaume",
     "contenu": "",
@@ -33499,20 +34427,6 @@
     "titre": "Le cabinet de conseil McKinsey accusé d’évasion fiscale en France",
     "contenu": "",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/17/le-cabinet-de-conseil-mckinsey-accuse-d-evasion-fiscale-en-france_6117905_4355770.html",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 299,
-    "titre": "Le Conseil constitutionnel saisi des remontées d'informations au garde des Sceaux",
-    "contenu": "",
-    "url": "https://www.bfmtv.com/politique/le-conseil-constitutionnel-saisi-des-remontees-d-informations-au-garde-des-sceaux_AD-202106110379.html",
     "date": null,
     "etiquettes": "",
     "departement": [],
@@ -34018,20 +34932,6 @@
     "procedure": []
   },
   {
-    "id": 242,
-    "titre": "Pas de question au Conseil constitutionnel pour le président de la Manche Marc Lefèvre",
-    "contenu": "",
-    "url": "https://www.ouest-france.fr/normandie/manche/pas-de-question-au-conseil-constitutionnel-pour-le-president-de-la-manche-marc-lefevre-30c7fbc8-be33-11eb-bc59-778c1de5b8e1",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 633,
     "titre": "Perquisitions à la mairie de Marseille autour du marché de la fourrière animale",
     "contenu": "Une série de perquisitions a été menée à la mairie de Marseille par la brigade financière, au service des marchés publics et à la “délégation de l’animal dans la ville” et en serait repartie avec des documents administratifs concernant les différents marchés publics passés au fil des années.",
@@ -34177,34 +35077,6 @@
     "procedure": []
   },
   {
-    "id": 325,
-    "titre": "Reconversion dans le privé de Fleur Pellerin : l’enquête classée sans suite",
-    "contenu": "",
-    "url": "https://www.sudouest.fr/justice/reconversion-dans-le-prive-de-fleur-pellerin-l-enquete-classee-sans-suite-3998393.php",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 248,
-    "titre": "Rennes. Cinq anciens élus de La Mézière poursuivis devant le tribunal ce lundi",
-    "contenu": "",
-    "url": "https://www.ouest-france.fr/bretagne/rennes-35000/rennes-cinq-anciens-elus-de-la-meziere-poursuivis-devant-le-tribunal-ce-lundi-7178711#",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 454,
     "titre": "Retour en Syrie de l'oncle de Bachar al-Assad condamné en France",
     "contenu": "",
@@ -34233,20 +35105,6 @@
     "procedure": []
   },
   {
-    "id": 240,
-    "titre": "Saint-Paul : à nouveau soupçonnée d'emploi fictif, Sandra Sinimalé entendue en garde à vue",
-    "contenu": "",
-    "url": "https://la1ere.francetvinfo.fr/reunion/saint-paul/saint-paul-sandra-sinimale-entendue-en-garde-a-vue-1018246.html",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 607,
     "titre": "Soirée polémique à Carhaix : plainte d’une association anticorruption",
     "contenu": "",
@@ -34265,20 +35123,6 @@
     "titre": "Soupçonnant l'existence d'une note secrète sur lui, un juge porte plainte",
     "contenu": "",
     "url": "https://www.lefigaro.fr/flash-actu/soupconnant-l-existence-d-une-note-secrete-sur-lui-un-juge-porte-plainte-20220131",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 323,
-    "titre": "Soupçonné de malversations financières, un ancien « dir cab’ » vendéen recasé en Loire-Atlantique",
-    "contenu": "",
-    "url": "https://www.mediacites.fr/breve/nantes/2021/07/01/soupconne-de-malversations-financieres-un-ancien-%E2%80%AFdir-cab%E2%80%AF-vendeen-recase-en-loire-atlantique/",
     "date": null,
     "etiquettes": "",
     "departement": [],
@@ -34415,38 +35259,10 @@
     "procedure": []
   },
   {
-    "id": 646,
-    "titre": "Tours : de forts soupçons de copinage lors de la nomination de Cathy Münsch-Masset à la tête de l'Apajh 37",
-    "contenu": "",
-    "url": "https://www.francebleu.fr/infos/faits-divers-justice/tours-de-forts-soupcons-de-copinage-lors-de-la-nomination-de-cathy-munsch-masset-a-la-tete-de-l-1643913074",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 457,
     "titre": "Tour Triangle à Paris. Enquête ouverte par le parquet financier pour « favoritisme »",
     "contenu": "",
     "url": "https://www.ouest-france.fr/societe/justice/tour-triangle-a-paris-enquete-ouverte-par-le-parquet-financier-pour-favoritisme-3a3ced10-2a6e-11ec-83e5-819706a5e014",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 250,
-    "titre": "« Tout le monde était au courant à l’UMP, de Sarkozy en passant par la fille de l’accueil » : au procès Bygmalion, le témoignage accablant de Franck Attal",
-    "contenu": "",
-    "url": "https://www.lemonde.fr/societe/article/2021/05/27/tout-le-monde-etait-au-courant-a-l-ump-de-sarkozy-en-passant-par-la-fille-de-l-accueil-au-proces-bygmalion-le-temoignage-accablant-de-franck-attal_6081618_3224.html",
     "date": null,
     "etiquettes": "",
     "departement": [],
