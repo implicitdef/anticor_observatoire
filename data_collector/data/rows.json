@@ -1,5 +1,72 @@
 [
   {
+    "id": 1696,
+    "titre": "Affaire Firmin Le Bodo : le deal entre Urgo et des pharmaciens est un manque à gagner pour l’État",
+    "contenu": "Les cadeaux de la multinationale Urgo aux pharmaciens, pour lesquels la ministre de la santé est visée par une enquête, ont fait perdre aux finances publiques jusqu’à 14 millions d’euros de recettes fiscales, selon les calculs de Mediapart.",
+    "url": "https://www.mediapart.fr/journal/france/291223/affaire-firmin-le-bodo-le-deal-entre-urgo-et-des-pharmaciens-est-un-manque-gagner-pour-l-etat",
+    "date": "2023-12-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1487,
+        "value": "Agnès Firmin Le Bodo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 114,
+        "value": "Ministère de la Santé"
+      },
+      {
+        "id": 222,
+        "value": "Laboratoires Urgo"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1695,
+    "titre": "Elle a embauché son ex-mari pour réaliser les travaux dans sa commune : la maire de Bonac-Irazein soupçonnée de \"prise illégale d’intérêt\"",
+    "contenu": "Après un signalement d'Anticor, en octobre 2022, adressé au procureur de la République de Foix, une enquête \"pour prise illégale d'intérêt\" est en cours dans cette commune. Celle-ci viserait la maire du village : Nadine Neny.",
+    "url": "https://www.ladepeche.fr/2023/12/28/elle-a-embauche-son-ex-mari-pour-realiser-les-travaux-dans-sa-commune-la-maire-de-bonac-irazein-soupconnee-de-prise-illegale-dinteret-11662023.php",
+    "date": "2023-12-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151707,
+        "value": "09 - Ariège"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1559,
+        "value": "Nadine Neny"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1692,
     "titre": "Le Conseil constitutionnel retoque l’amendement Fifa, qui prévoyait des avantages fiscaux pour les fédérations sportives internationales",
     "contenu": "Le Conseil constitutionnel a censuré ce jeudi 28 décembre les dispositions du budget 2024 destinées à attirer en France des fédérations sportives internationales telles que la Fifa, jugeant qu’elles méconnaissaient «le principe d’égalité» devant l’impôt.",
@@ -87,9 +154,23 @@
     "url": "https://www.leparisien.fr/hauts-de-seine-92/antony-92160/a-ta-place-je-ne-reflechirais-pas-un-capitaine-de-police-ecroue-pour-corruption-28-12-2023-Y232KXCII5DQFIXA7OQI4QYFJ4.php",
     "date": "2023-12-28",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      },
+      {
+        "id": 1151971,
+        "value": "91 - Essonne"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 249,
+        "value": "Inspection générale de la Police nationale (IGPN)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -11230,6 +11311,10 @@
     ],
     "personnalites": [
       {
+        "id": 1270,
+        "value": "Elisabeth Borne"
+      },
+      {
         "id": 1285,
         "value": "Éric Dupond-Moretti"
       }
@@ -11469,7 +11554,12 @@
         "value": "Confédération générale du travail (CGT)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -11479,10 +11569,25 @@
     "contenu": "Comment un expert chargé d’authentifier des meubles d’époque se retrouve-t-il lui-même à en vendre des faux ? Cette position improbable a bien été celle de Bill Pallot, historien de l’art et galeriste spécialiste du mobilier du XVIIIe siècle connu et apprécié du tout Paris. Il a avoué auprès de la police avoir participé à un trafic de sièges contrefaits entre 2008 et 2012. Le principal client berné n’est autre que l’établissement public du château de Versailles qui a reconnu officiellement avoir acquis pour 2,7 millions d’euros de pièces frauduleuses dans cette affaire.",
     "url": "https://www.linforme.com/medias-culture/article/il-avait-vendu-de-faux-meubles-au-chateau-de-versailles-bill-pallot-rattrape-par-le-fisc_345.html?utm_term=Autofeed&amp;utm_medium=Social&amp;utm_source=Twitter#Echobox=1675359678",
     "date": "2023-02-02",
-    "etiquettes": "Bill Pallot,Château de Versailles",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151976,
+        "value": "78 - Yvelines"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1560,
+        "value": "Bill Pallot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 44,
+        "value": "Château de Versailles"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -11493,10 +11598,24 @@
     "contenu": "Alertée par la Direction des sports du Ministère, la Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) doit vérifier si les règles de mise en concurrence ont bien été respectées autour de marchés liés à des prestations informatiques à la FFR.",
     "url": "https://www.lequipe.fr/Rugby/Actualites/La-dgccrf-saisie-d-une-enquete-sur-des-marches-a-la-ffr/1378541",
     "date": "2023-02-02",
-    "etiquettes": "Direction générale de la Concurrence, de la Consommation et de la Répression des fraudes,Fédération française de rugby",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 206,
+        "value": "Fédération française de rugby"
+      },
+      {
+        "id": 274,
+        "value": "Direction générale de la Concurrence, de la Consommation et de la Répression des fraudes (DGCCRF)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -11504,19 +11623,33 @@
   {
     "id": 1273,
     "titre": "Qatargate : l’immunité des eurodéputés Marc Tarabella et Andrea Cozzolino a été levée",
-    "contenu": "Le Parlement européen a levé, jeudi 2 février, l’immunité de Marc Tarabella et d’Andrea Cozzolino, deux eurodéputés, respectivement belge et italien, visés par la justice belge dans l’affaire du « Qatargate », le scandale de corruption présumée au profit du Qatar et du Maroc. Cette décision ouvre la voie à leur audition par les enquêteurs. Les deux élus, temporairement exclus du groupe social-démocrate (S&amp;D) nient toute malversation. M. Tarabella, présent dans l’hémicycle au moment du vote, a voté pour la levée de sa propre immunité.",
+    "contenu": "Le Parlement européen a levé, jeudi 2 février, l’immunité de Marc Tarabella et d’Andrea Cozzolino, deux eurodéputés, respectivement belge et italien, visés par la justice belge dans l’affaire du « Qatargate », le scandale de corruption présumée au profit du Qatar et du Maroc.",
     "url": "https://www.lemonde.fr/international/article/2023/02/02/qatargate-levee-d-immunite-de-deux-eurodeputes_6160252_3210.html",
     "date": "2023-02-02",
-    "etiquettes": "Andrea Cozzolino,Marc Tarabella,Parlement Européen",
+    "etiquettes": "",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1561,
+        "value": "Andrea Cozzolino"
+      },
+      {
+        "id": 1562,
+        "value": "Marc Tarabella"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 75,
         "value": "Parlement Européen"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -11540,7 +11673,12 @@
         "value": "Service Départemental d'Incendie et de Secours de la Réunion (SDIS974)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -11550,10 +11688,24 @@
     "contenu": "Depuis juillet 2020, un conflit prud’homal oppose la société Thales à la lanceuse d’alerte qui a révélé des soupçons de corruption et de trafic d’influence au sein du groupe de technologie et de défense, pour lesquels le parquet national financier (PNF) a été saisi fin 2020. Celle-ci avait en effet été licenciée suite à ses signalements. Le 1er février dernier, la Cour de cassation a rendu un arrêt qui a fait significativement avancer cette affaire et, à travers elle, fait progresser dans son ensemble la protection des lanceurs d’alerte.",
     "url": "https://mlalerte.org/thales-la-lanceuse-dalerte-pourrait-etre-reintegree/",
     "date": "2023-02-02",
-    "etiquettes": "Parquet National Financier,Thalès",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 85,
+        "value": "Thales"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -11564,10 +11716,28 @@
     "contenu": "L’AGS, association liée à l’Unédic et au Medef qui avance les payes des salariés d’entreprises en redressement ou liquidation judiciaire, est en conflit ouvert avec les administrateurs et mandataires. Lesquels sont accusés de détourner une partie des fonds collectés auprès de ces entreprises, normalement destinés à rembourser l’AGS. Sa directrice a par ailleurs porté plainte pour menaces et harcèlement contre… l’Unédic.",
     "url": "https://www.liberation.fr/societe/police-justice/tribunaux-de-commerce-unedic-medef-un-lourd-climat-de-defaillances-20230202_VY5RJAYWIJGP3HDNLEQOKPQDEY/?redirected=1&amp;redirected=1",
     "date": "2023-02-02",
-    "etiquettes": "Association pour la gestion du régime de Garantie des créances des Salariés,Medef,Unédic",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 122,
+        "value": "Medef"
+      },
+      {
+        "id": 272,
+        "value": "Association pour la gestion du régime de Garantie des créances des Salariés"
+      },
+      {
+        "id": 273,
+        "value": "Unédic"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -11578,7 +11748,7 @@
     "contenu": "L'ancien président du Grand-Avignon répète son innocence quant aux faits de favoritisme et de prise illégale d'intérêt qui lui sont reprochés, en faveur de son ancienne maîtresse. La justice rendra sa décision à la mi-mars.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/un-an-de-prison-avec-sursis-requis-contre-l-ancien-president-du-grand-avignon-jean-marc-roubaud-8459172",
     "date": "2023-02-02",
-    "etiquettes": "84 – Vaucluse,Jean-Marc Roubaud,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151981,
@@ -11586,7 +11756,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
