@@ -38,6 +38,68 @@
     "procedure": []
   },
   {
+    "id": 1693,
+    "titre": "Trafic de stupéfiants à Canteleu : le parquet charge la maire Mélanie Boulanger",
+    "contenu": "Le parquet de Bobigny demande le renvoi devant la justice de 19 personnes soupçonnées d’être impliquées dans un vaste trafic de stupéfiants à Canteleu, en Seine-Maritime. Parmi elles, la maire et l’un de ses adjoints.",
+    "url": "https://www.mediapart.fr/journal/france/281223/trafic-de-stupefiants-canteleu-le-parquet-charge-la-maire-melanie-boulanger",
+    "date": "2023-12-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151974,
+        "value": "76 - Seine-Maritime"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1557,
+        "value": "Mélanie Boulanger"
+      },
+      {
+        "id": 1558,
+        "value": "Hasbi Colak"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1694,
+    "titre": "Un capitaine de police écroué pour corruption",
+    "contenu": "Un fonctionnaire du commissariat d’Antony (Hauts-de-Seine), habitué à traiter les affaires financières, est notamment accusé d’avoir tenté d’extorquer avec un complice 300 000 euros à un chef d’entreprise lui-même mis en cause dans un dossier d’escroquerie en bande organisée et blanchiment.",
+    "url": "https://www.leparisien.fr/hauts-de-seine-92/antony-92160/a-ta-place-je-ne-reflechirais-pas-un-capitaine-de-police-ecroue-pour-corruption-28-12-2023-Y232KXCII5DQFIXA7OQI4QYFJ4.php",
+    "date": "2023-12-28",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1677,
     "titre": "Anticor : le gouvernement n’a pas renouvelé l’agrément de l’association de lutte contre la corruption",
     "contenu": "Pendant six mois, l’état-major d’Anticor aura attendu le renouvellement de son agrément. Mercredi 27 décembre, au lendemain de la date butoir légale, nulle trace dans le Journal officiel de ce sésame qui permettait depuis 2015 à l’association anticorruption d’agir efficacement en justice dans les affaires d’atteinte à la probité, notamment en cas d’inaction du parquet.",
