@@ -762,7 +762,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       }
     ],
     "categorie": [
@@ -1689,7 +1689,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       }
     ],
     "categorie": [
@@ -1940,7 +1940,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 159,
@@ -3283,7 +3283,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 120,
@@ -3891,7 +3891,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       }
     ],
     "categorie": [
@@ -4417,7 +4417,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       }
     ],
     "categorie": [
@@ -4711,7 +4711,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 2,
@@ -5402,7 +5402,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       }
     ],
     "categorie": [
@@ -5757,7 +5757,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 173,
@@ -6068,7 +6068,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 171,
@@ -6223,7 +6223,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       }
     ],
     "categorie": [
@@ -6262,7 +6262,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 62,
@@ -6436,7 +6436,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 165,
@@ -7558,6 +7558,30 @@
     "procedure": []
   },
   {
+    "id": 1698,
+    "titre": "Prostituée mineure et caméras cachées : le clan Perdriau a aussi ciblé l’ancien maire de Saint-Étienne",
+    "contenu": "Après le piège à la sextape contre le premier adjoint de la ville, l’équipe de l’actuel maire de Saint-Étienne a élaboré un autre complot crapuleux. Le plan : attirer l’ancien édile de droite Michel Thiollière dans les bras d’une prostituée de « 16 ans » originaire des pays de l’Est, et le filmer à son insu.",
+    "url": "https://www.mediapart.fr/journal/france/011023/prostituee-mineure-et-cameras-cachees-le-clan-perdriau-aussi-cible-l-ancien-maire-de-saint-etienne",
+    "date": "2023-10-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151856,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1368,
     "titre": "Corruption : prison avec sursis requise contre les prévenus de l’affaire de la chaufferie de La Défense",
     "contenu": "Malgré l’absence des trois protagonistes clés de ce dossier de corruption lié à l’attribution du marché du chauffage dans le quartier d’affaires – qui remonte au début des années 2000 –, le procès a eu lieu et s’est achevé ce jeudi. Le délibéré sera rendu en janvier.",
@@ -7736,7 +7760,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 57,
@@ -9502,7 +9526,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 8,
@@ -9588,7 +9612,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 77,
@@ -9690,7 +9714,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 165,
@@ -9916,7 +9940,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 62,
@@ -11253,7 +11277,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 51,
@@ -11343,7 +11367,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 10,
@@ -11622,7 +11646,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 264,
@@ -11793,7 +11817,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 85,
@@ -12017,9 +12041,23 @@
     "contenu": "L'ancien chargé de mission d'Emmanuel Macron a créé en octobre 2022 une société d'investissement domiciliée à Londres, qui ambitionne d'investir en Afrique. L'un de ses associés serait une très grande fortune suisse.",
     "url": "https://www.lalettrea.fr/entreprises_finance/2023/01/31/alexandre-benalla-cree-une-mysterieuse-holding-pour-reunir-85-millions-d-euros,109907866-art",
     "date": "2023-01-31",
-    "etiquettes": "Alexandre Benalla,Jürg Stäubli",
-    "departement": [],
-    "personnalites": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1577,
+        "value": "Alexandre Benalla"
+      },
+      {
+        "id": 1578,
+        "value": "Jürg Stäubli"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -12031,8 +12069,13 @@
     "contenu": "Le parquet de Paris a requis lundi un procès pour treize personnes dont le président du Modem François Bayrou, soupçonnées de détournement de fonds publics ou de complicité dans l’affaire de l’emploi irrégulier d’assistants d’eurodéputés, a indiqué mardi le parquet, confirmant une information des Echos.\nLe parquet a également demandé que soient jugés, en tant que personne morale, les partis Modem et UDF, pour complicité de détournement de fonds publics et recel. La décision finale sur la tenue d’un procès revient à la juge d’instruction saisie du dossier. Le parquet de Paris a confirmé avoir également requis un procès devant le tribunal correctionnel pour l’ancien garde des Sceaux Michel Mercier et les anciens eurodéputés Sylvie Goulard, Nathalie Griesbeck et Jean-Luc Bennahmias.",
     "url": "https://www.liberation.fr/societe/police-justice/assistants-deurodeputes-modem-proces-requis-pour-treize-personnes-dont-francois-bayrou-20230131_ON5FNXU24ZCUFATVWPS7PGGG5I/?redirected=1&amp;redirected=1",
     "date": "2023-01-31",
-    "etiquettes": "François Bayrou,Jean-Luc Bennahmias,Michel Mercier,Ministère de la Justice,Mouvement démocrate,Nathalie Griesbeck,Sylvie Goulard,Union pour la démocratie française",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 1300,
@@ -12045,9 +12088,30 @@
       {
         "id": 1574,
         "value": "Michel Mercier"
+      },
+      {
+        "id": 1575,
+        "value": "Nathalie Griesbeck"
+      },
+      {
+        "id": 1576,
+        "value": "Sylvie Goulard"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 94,
+        "value": "Mouvement démocrate (MoDem)"
+      },
+      {
+        "id": 278,
+        "value": "Union pour la démocratie française (UDF)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -12058,11 +12122,21 @@
     "contenu": "La France confirme sa place de bonne élève à l’échelle mondiale sans pour autant être immunisée contre la corruption, écrit Transparency international dans son nouveau rapport publié mardi. Comme chaque année, l’ONG dévoile son indice de perception de la corruption. L'Hexagone se classe à la 21ème place, derrière le Japon et le Royaume-Uni. Si l’ONG reconnaît les avancées françaises en matière de transparence dans la classe politique, avec les révélations d’affaires comme celle liée au cabinet de conseils Mc Kinsey, elle juge les efforts insuffisants.",
     "url": "https://www.radiofrance.fr/franceinter/rapport-transparency-la-france-bonne-eleve-mais-pas-immunisee-contre-la-corruption-9994081",
     "date": "2023-01-31",
-    "etiquettes": "Transparency International France",
+    "etiquettes": "",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 279,
+        "value": "Transparency International"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12072,11 +12146,47 @@
     "contenu": "Mediapart révèle les derniers développements judiciaires qui ont permis de mettre un terme à l’affaire Sarkozy-Kadhafi, après neuf ans d’enquête. Les mis en examen sont désormais dans l’attente d’un éventuel renvoi devant le tribunal correctionnel de Paris.",
     "url": "https://www.mediapart.fr/journal/france/300123/des-preuves-et-des-mensonges-la-fin-de-l-enquete-libyenne-enfonce-nicolas-sarkozy",
     "date": "2023-01-30",
-    "etiquettes": "Brice Hortefeux,Claude Guéant,Éric Woerth,Les Républicains,Nicolas Sarkozy,Thierry Gaubert",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 595,
+        "value": "Éric Woerth"
+      },
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1287,
+        "value": "Claude Guéant"
+      },
+      {
+        "id": 1579,
+        "value": "Brice Hortefeux"
+      },
+      {
+        "id": 1580,
+        "value": "Thierry Gaubert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12086,29 +12196,67 @@
     "contenu": "Le patron des Républicains et son ex-épouse ont été entendus par les policiers les 13 et 20 décembre dans le cadre de l'enquête ouverte par le PNF sur le cumul d'emplois occupés par Caroline Magne entre 2007 et 2016, alors qu'elle était collaboratrice parlementaire de son mari.",
     "url": "https://www.rtl.fr/actu/justice-faits-divers/info-rtl-eric-ciotti-entendu-par-la-police-judiciaire-dans-l-enquete-sur-les-emplois-de-son-ex-epouse-7900230313",
     "date": "2023-01-30",
-    "etiquettes": "Caroline Magne,Éric Ciotti,Les Républicains,Office central de lutte contre la corruption et les infractions financières",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1262,
-    "titre": "Accusé d&#8217;avoir versé une subvention illégale de 2,9 millions d&#8217;euros, le maire de Menton concède avoir commis une &#8220;erreur&#8221;",
-    "contenu": "Sandra Paire a signalé au procureur de la République un présumé délit de favoritisme et une prise illégale d’intérêt dans le cadre de la gestion privée de trois jardins publics. L’élue reproche au maire, Yves Juhel, d’avoir accordé une \"subvention illégale\" de 2,9 millions d’euros à ses \"amis\" de l’association pour la Sauvegarde des jardins d’exception du Mentonnais (ASJEM) lors du conseil municipal du 17 mai.",
-    "url": "https://www.nicematin.com/politique/accuse-davoir-verse-une-subvention-illegale-de-29-millions-deuros-le-maire-de-menton-concede-avoir-commis-une-erreur-823599",
-    "date": "2023-01-29",
-    "etiquettes": "06 – Alpes Maritimes,Association pour la Sauvegarde des jardins d’exception du Mentonnais,Yves Juhel",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151604,
         "value": "06 - Alpes-Maritimes"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 144,
+        "value": "Éric Ciotti"
+      },
+      {
+        "id": 1581,
+        "value": "Caroline Magne"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      },
+      {
+        "id": 40,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1262,
+    "titre": "Accusé d'avoir versé une subvention illégale de 2,9 millions d'euros, le maire de Menton concède avoir commis une erreur",
+    "contenu": "Sandra Paire a signalé au procureur de la République un présumé délit de favoritisme et une prise illégale d’intérêt dans le cadre de la gestion privée de trois jardins publics. L’élue reproche au maire, Yves Juhel, d’avoir accordé une \"subvention illégale\" de 2,9 millions d’euros à ses \"amis\" de l’association pour la Sauvegarde des jardins d’exception du Mentonnais (ASJEM) lors du conseil municipal du 17 mai.",
+    "url": "https://www.nicematin.com/politique/accuse-davoir-verse-une-subvention-illegale-de-29-millions-deuros-le-maire-de-menton-concede-avoir-commis-une-erreur-823599",
+    "date": "2023-01-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1582,
+        "value": "Yves Juhel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 280,
+        "value": "Association pour la Sauvegarde des jardins d’exception du Mentonnais"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -12119,17 +12267,53 @@
     "contenu": "La justice enquête sur ce qui pourrait être l’une des plus grandes affaires de dissimulation d’œuvres d’art dans le cadre d’un héritage, après la mort du cinéaste Claude Berri. Le dossier montre en creux les failles béantes du système français en matière de contrôle fiscal. Une députée plaide pour la création d’un registre national de la propriété des œuvres d’art, à l’instar de celui des cartes grises.",
     "url": "https://www.mediapart.fr/journal/france/290123/l-art-est-un-paradis-fiscal-et-bercy-ne-voit-rien-ce-que-revele-l-affaire-berri",
     "date": "2023-01-29",
-    "etiquettes": "Brigade de répression de la délinquance astucieuse,Claude Berri,Darius Langmann,François de Ricqlès,Nathalie Rheims,Office central de lutte contre le trafic des biens culturels",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1583,
+        "value": "Claude Berri"
+      },
+      {
+        "id": 1584,
+        "value": "Darius Langmann"
+      },
+      {
+        "id": 1585,
+        "value": "Nathalie Rheims"
+      },
+      {
+        "id": 1586,
+        "value": "François de Ricqlès"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 179,
+        "value": "Brigade de répression de la délinquance astucieuse"
+      },
+      {
+        "id": 281,
+        "value": "Office central de lutte contre le trafic des biens culturels (OCBC)"
+      }
+    ],
     "categorie": [],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1220072,
+        "value": "Art"
+      }
+    ],
     "procedure": []
   },
   {
     "id": 1261,
-    "titre": "Conflit d&#8217;intérêt dans l&#8217;attribution d&#8217;un logement social à Vallauris: le parquet ouvre une enquête",
+    "titre": "Conflit d'intérêt dans l'attribution d'un logement social à Vallauris : le parquet ouvre une enquête",
     "contenu": "Le maire de Vallauris a porté plainte contre son ex-adjointe Claudy Gimenez, l'accusant d’avoir \"favorisé son fils et sa belle-fille dans l’obtention d’un logement social\". Des faits qu’elle conteste.",
     "url": "https://www.nicematin.com/politique/conflit-dinteret-dans-lattribution-dun-logement-social-a-vallauris-le-parquet-ouvre-une-enquete-824167",
     "date": "2023-01-28",
@@ -13537,10 +13721,20 @@
     "contenu": "Le canton de Genève réclame à l'homme d'affaires franco-israélien Patrick Drahi 7,4 milliards de francs suisses, soit 7,53 milliards d'euros. Il s'agirait pour moitié d'arriérés d'impôts (de 2009 à 2016), et pour l'autre moitié de pénalités.",
     "url": "https://www.lepoint.fr/monde/le-redressement-fiscal-record-qui-menace-patrick-drahi-en-suisse-27-12-2022-2502973_24.php?utm_medium=Social&amp;utm_source=Twitter&amp;Echobox=1672156068#xtor=CS1-32-[Echobox]",
     "date": "2022-12-27",
-    "etiquettes": "Altice,Patrick Drahi",
+    "etiquettes": "",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1384,
+        "value": "Patrick Drahi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 144,
+        "value": "Altice"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -13551,7 +13745,7 @@
     "contenu": "Le Bordelais Serge Simon pouvait penser être définitivement sorti de l’affaire Laporte-Altrad. Poursuivi pour prise illégale d’intérêts, il avait été le seul prévenu à avoir bénéficié d’une relaxe complète. À quelques heures de la fin du délai pour interjeter appel, le parquet national financier a finalement relancé la partie en formant un appel.\nLe vice-président de la FFR devra donc à nouveau s’expliquer aux côtés de Bernard Laporte devant la cour d’appel sur l’envoi d’arbitres lors d’une rencontre reportée par la ligue entre Montpellier et le Racing. Selon le PNF, cette décision aurait pu bénéficier à Mohed Altrad. En première instance, les juges ont estimé qu’aucun lien d’intérêt personnel entre Serge Simon et le patron du club de Montpellier n’avait été démontré.\nMohed Altrad a lui aussi décidé de faire appel du jugement qui l’avait condamné à 18 mois de prison avec sursis, deux ans d’inéligibilité et 50 000 euros d’amende pour corruption et trafic d’influence.",
     "url": "https://www.sudouest.fr/sport/affaire-altrad-laporte-mohed-altrad-fait-appel-serge-simon-sera-rejuge-aussi-13475855.php",
     "date": "2022-12-23",
-    "etiquettes": "Bernard Laporte,Fédération française de rugby,Mohed Altrad,Parquet National Financier,Serge Simon",
+    "etiquettes": "",
     "departement": [],
     "personnalites": [
       {
@@ -13561,9 +13755,22 @@
       {
         "id": 1524,
         "value": "Mohed Altrad"
+      },
+      {
+        "id": 1587,
+        "value": "Serge Simon"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 206,
+        "value": "Fédération française de rugby"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -13574,7 +13781,7 @@
     "contenu": "Lundi 19 décembre 2022, la France Insoumise en Mayenne a déposé une saisine auprès de l'association Anticor, association contre la corruption et pour l'éthique en politique. Pendant un mois, des juristes vont analyser le rapport de la chambre régionale des comptes pour déterminer si oui ou non, il y a eu conflit d'intérêts dans l'attribution de certains marchés publics.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/budget-du-departement-de-la-mayenne-anticor-ouvre-la-voie-a-une-eventuelle-action-en-justice-5043406",
     "date": "2022-12-21",
-    "etiquettes": "53 - Mayenne,Anticor,La France Insoumise",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151954,
@@ -13582,7 +13789,16 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 20,
+        "value": "La France Insoumise (LFI)"
+      },
+      {
+        "id": 76,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -13593,10 +13809,15 @@
     "contenu": "Une affaire de trafic de drogue embarrasse le plus grand transporteur maritime au monde. Selon une enquête de Bloomberg parue vendredi, l'entreprise MSC, établie à Genève, serait infiltrée par des trafiquants et participerait indirectement à un gigantesque trafic de cocaïne.\nL'affaire fait encore l'objet d'un bras de fer juridique entre MSC et le gouvernement américain, qui estime que la complicité des marins rend l'entreprise partiellement responsable de ce trafic, et voudrait la sanctionner à hauteur de 700 millions de dollars.",
     "url": "https://www.rts.ch/info/economie/13644414-le-geant-maritime-msc-aurait-ete-infiltre-par-un-gang-de-trafiquants-de-drogue.html",
     "date": "2022-12-21",
-    "etiquettes": "MSC",
+    "etiquettes": "",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 282,
+        "value": "MSC Croisières"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -13610,7 +13831,12 @@
     "etiquettes": "Gouvernement Élisabeth Borne,Haute Autorité pour la Transparence de la Vie Publique,Jean-Noël Barrot,LMP,Xavier Niel",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -20756,7 +20982,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       }
     ],
     "categorie": [
@@ -28519,7 +28745,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 152,
@@ -32277,7 +32503,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       },
       {
         "id": 265,
@@ -33458,7 +33684,7 @@
     "personnes_morales": [
       {
         "id": 1,
-        "value": "Parquet National Financier"
+        "value": "Parquet National Financier (PNF)"
       }
     ],
     "categorie": [],
