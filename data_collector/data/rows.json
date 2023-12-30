@@ -38,6 +38,57 @@
     "procedure": []
   },
   {
+    "id": 1697,
+    "titre": "Saint-Étienne : deux nouvelles mises en examen dans l’affaire de la sextape",
+    "contenu": "Deux nouvelles mises en examen ont eu lieu dans le cadre de l’enquête sur le chantage à la vidéo intime qui secoue la mairie de Saint-Étienne depuis 16 mois. L’artiste Philippe Buil et sa femme Chantal Sabatier, âgés de 59 ans, ont été mis en examen le 7 décembre pour « complicité de détournement de fonds publics » et « abus de confiance ».",
+    "url": "https://www.leparisien.fr/faits-divers/saint-etienne-deux-nouvelles-mises-en-examen-dans-laffaire-de-la-sextape-29-12-2023-ZVI7IKLOJBA73HG56SGIXBMXRM.php?ts=1703946201316",
+    "date": "2023-12-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151856,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1564,
+        "value": "Philippe Buil"
+      },
+      {
+        "id": 1565,
+        "value": "Chantal Sabatier"
+      },
+      {
+        "id": 1566,
+        "value": "Gaël Perdriau"
+      },
+      {
+        "id": 1567,
+        "value": "Gilles Artigues"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 276,
+        "value": "Artistes de la Galerie Art Pluriel"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
+      }
+    ]
+  },
+  {
     "id": 1695,
     "titre": "Elle a embauché son ex-mari pour réaliser les travaux dans sa commune : la maire de Bonac-Irazein soupçonnée de \"prise illégale d’intérêt\"",
     "contenu": "Après un signalement d'Anticor, en octobre 2022, adressé au procureur de la République de Foix, une enquête \"pour prise illégale d'intérêt\" est en cours dans cette commune. Celle-ci viserait la maire du village : Nadine Neny.",
@@ -10789,7 +10840,7 @@
     "contenu": "Le tribunal de Foix a rendu sa décision le 7 juillet : poursuivie pour prise illégale d’intérêt, la présidente du Smectom, Florence Rouch, a été relaxée, ainsi qu’Alain Caillat, ancien directeur général du syndicat.",
     "url": "https://www.ladepeche.fr/2023/07/07/ariege-poursuivie-pour-prise-illegale-dinteret-la-presidente-du-smectom-du-plantaurel-relaxee-11327790.php",
     "date": "2023-07-08",
-    "etiquettes": "09 - Ariège,Alain Caillat,Florence Rouch,Smectom",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151707,
@@ -11016,7 +11067,7 @@
     "contenu": "Plusieurs notes des douanes alertent sur la place occupée par des acteurs du Centre international de commerce de gros France-Asie dans des circuits de blanchiment utilisés par des réseaux criminels, de la Corse à l’Italie en passant par l’Espagne et la Hongrie.",
     "url": "https://www.lemonde.fr/societe/article/2023/02/07/au-guichet-des-banquiers-du-crime-organise_6160793_3224.html",
     "date": "2023-02-07",
-    "etiquettes": "93 – Seine Saint Denis",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151972,
@@ -11058,7 +11109,7 @@
     "contenu": "Le tribunal correctionnel d'Epinal condamne le maire de Metz et président de l'Eurométropole de Metz, François Grosdidier, à six mois de prison avec sursis et 10.000 euros d'amende pour prise illégale d'intérêt. Marie Louise Kuntz, elle, est condamné à deux mois avec sursis.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/francois-grosdidier-condamne-a-6-mois-de-prison-avec-sursis-7100477",
     "date": "2023-02-07",
-    "etiquettes": "57 - Moselle,François Grosdidier,Marie Louise Kuntz",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151957,
@@ -11101,7 +11152,7 @@
     "contenu": "Le géant français des cartes à puce et des documents d’identité, racheté en 2019 par Thales, fait l’objet d’une enquête judiciaire pour « corruption » et « association de malfaiteurs » au sujet d’une dizaine de contrats gouvernementaux dans six pays africains.",
     "url": "https://www.mediapart.fr/journal/international/070223/gemalto-est-vise-par-une-vaste-enquete-pour-corruption-en-afrique",
     "date": "2023-02-07",
-    "etiquettes": "Gemalto,Thalès",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151973,
@@ -11152,7 +11203,7 @@
     "contenu": "Lundi 16 janvier, le tribunal correctionnel de Toulouse a reconnu coupable Emmanuelle R., 50 ans, d’avoir monté une affaire d’escroquerie financière bien ficelée contre la Caisse primaire d’assurance maladie (CPAM) de Haute-Garonne. Le montant du préjudice est estimé à 340 000 euros.",
     "url": "https://www.mediacites.fr/enquete/toulouse/2023/02/06/la-pharmacienne-qui-donnait-des-chaussures-orthopediques-aux-gens-dans-la-rue-condamnee-pour-avoir-escroque-la-cpam/",
     "date": "2023-02-07",
-    "etiquettes": "31 - Haute-Garonne",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151845,
@@ -11186,7 +11237,7 @@
     "contenu": "Contrairement à ce que le ministre du travail a affirmé tout le week-end, la police a bien mis la main, lors d’une perquisition chez lui, sur des échanges compromettants avec l’un des leaders français de la gestion de l’eau. Le document, dont Mediapart révèle le contenu, est accablant : il montre des négociations occultes autour d’un marché public que le PNF considère aujourd’hui comme truqué.",
     "url": "https://www.mediapart.fr/journal/france/060223/affaire-dussopt-le-document-qui-ruine-la-defense-du-ministre",
     "date": "2023-02-06",
-    "etiquettes": "Ministère du travail,Olivier Dussopt,Parquet National Financier,Saur",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -11201,8 +11252,16 @@
     ],
     "personnes_morales": [
       {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
         "id": 51,
         "value": "Ministère du travail"
+      },
+      {
+        "id": 104,
+        "value": "Saur"
       }
     ],
     "categorie": [
@@ -11225,7 +11284,7 @@
     "contenu": "Le nom de ce petit royaume n’apparaît nulle part mais, selon Libération, c’est depuis sa capitale Manama qu’aurait été télécommandée l’offensive judiciaire et médiatique contre le Qatar en France, via un député de Vendée et le journaliste Rachid M’Barki sur BFM TV.",
     "url": "https://www.liberation.fr/societe/police-justice/soupcons-dingerence-etrangere-lombre-du-bahrein-sur-la-denonciation-de-corruption-du-qatar-en-france-20230206_ZW6SJFHSJZG5VHR5NIDYEDKTNE/?redirected=1",
     "date": "2023-02-06",
-    "etiquettes": "BFM TV,Rachid M’Barki",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -11268,7 +11327,7 @@
     "contenu": "Pour le PNF, la prise en charge par le Qatar de dépenses de campagne de Nicolas Sarkozy, candidat UMP à l'élection présidentielle de 2007, pourrait constituer une « contrepartie indirecte » au soutien de l'ex-chef de l'État dans l'obtention de la Coupe du monde 2022.",
     "url": "https://www.lequipe.fr/Football/Article/Corruption-autour-du-mondial-2022-la-piste-qui-mene-a-la-campagne-presidentielle-de-nicolas-sarkozy/1378583",
     "date": "2023-02-03",
-    "etiquettes": "Les Républicains,Nicolas Sarkozy,Parquet National Financier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -11282,6 +11341,14 @@
       }
     ],
     "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier"
+      },
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      },
       {
         "id": 29,
         "value": "Élysée"
@@ -11302,7 +11369,7 @@
     "contenu": "La QPC examinée vient en soutien à la demande d’annulation de la perquisition du 1er juillet 2021. Ce jour-là, pendant quinze heures, des magistrats de la CJR – juridiction spéciale chargée de juger les ministres pour les délits commis dans l’exercice de leurs fonctions –, accompagnés d’une vingtaine de gendarmes de la section de recherche de Paris, s’étaient présentés en début de matinée Place Vendôme pour perquisitionner le ministère. Il est reproché au ministre de la justice d’avoir, quelques semaines après sa nomination, ordonné à l’inspection générale de la justice des enquêtes administratives, étape préalable à une procédure disciplinaire, contre des magistrats avec qui il avait été en opposition en tant qu’avocat.",
     "url": "https://www.lemonde.fr/societe/article/2023/02/03/eric-dupond-moretti-conteste-en-droit-des-perquisitions-menees-dans-son-ministere_6160484_3224.html",
     "date": "2023-02-03",
-    "etiquettes": "Cour de Justice de la République,Éric Dupond-Moretti,Gouvernement Élisabeth Borne,Ministère de la Justice",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -11320,6 +11387,10 @@
       }
     ],
     "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      },
       {
         "id": 78,
         "value": "Cour de Justice de la République"
@@ -11340,7 +11411,7 @@
     "contenu": "Le Conseil constitutionnel a invalidé vendredi 3 février l’élection en juin 2022 du député Meyer Habib, apparenté au groupe Les Républicains (LR), dans la 8e circonscription des Français de l’étranger (qui regroupe huit pays, dont Israël, l’Italie, la Turquie et la Grèce), en faisant valoir des « irrégularités et des manœuvres de nature à altérer la sincérité du scrutin ». Un nouveau scrutin doit donc être organisé dans les trois mois.",
     "url": "https://www.lemonde.fr/politique/article/2023/02/03/l-election-du-depute-meyer-habib-annulee-par-le-conseil-constitutionnel_6160417_823448.html",
     "date": "2023-02-03",
-    "etiquettes": "Assemblée Nationale,Les Républicains,Meyer Habib",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -11357,6 +11428,10 @@
       {
         "id": 3,
         "value": "Assemblée Nationale"
+      },
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
       },
       {
         "id": 251,
@@ -11378,7 +11453,7 @@
     "contenu": "En première ligne avec la réforme des retraites, le ministre du travail vient de recevoir un rapport d’enquête accablant du Parquet national financier, qui le soupçonne d’un délit de favoritisme avec l’un des géants français de l’eau.",
     "url": "https://www.mediapart.fr/journal/france/030223/olivier-dussopt-menace-d-un-proces-dans-une-affaire-de-marche-truque",
     "date": "2023-02-03",
-    "etiquettes": "Gouvernement Élisabeth Borne,Ministère du travail,Olivier Dussopt",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -11392,6 +11467,10 @@
       }
     ],
     "personnes_morales": [
+      {
+        "id": 51,
+        "value": "Ministère du travail"
+      },
       {
         "id": 104,
         "value": "Saur"
@@ -11417,7 +11496,7 @@
     "contenu": "Patrick Balkany a été auditionné jeudi dans le cadre d'une nouvelle enquête sur sa gestion municipale à Levallois-Perret (Hauts-de-Seine). Cette nouvelle enquête, ouverte en 2016 pour recel de détournement de fonds publics puis pour détournement de fonds publics et prise illégale d'intérêts, porte sur la situation d'un conseiller de l'ancien édile. Ce dernier, Renaud Guillot-Corail, est décédé en 2020. Il fut employé de la commune de Levallois en tant que directeur du développement économique jusqu'en octobre 2012, avant de prendre sa retraite. Après sa retraite, il a continué à toucher une rémunération.",
     "url": "https://www.bfmtv.com/police-justice/patrick-balkany-auditionne-pour-une-nouvelle-enquete-sur-sa-gestion-de-la-ville-de-levallois_AD-202302030515.html",
     "date": "2023-02-03",
-    "etiquettes": "92 – Hauts de Seine,Patrick Balkany,Renaud Guillot-Corail",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151973,
@@ -11460,7 +11539,7 @@
     "contenu": "Le réquisitoire du parquet de Paris demande le renvoi en correctionnelle du patron du MoDem et de douze des responsables du parti centriste dans l’affaire des assistants au Parlement européen. Un document au contenu très sévère pour François Bayrou, qui dément toute malversation.",
     "url": "https://www.mediapart.fr/journal/france/030223/responsable-du-systeme-frauduleux-ce-que-le-parquet-reproche-bayrou-dans-l-affaire-des-assistants",
     "date": "2023-02-03",
-    "etiquettes": "François Bayrou,Mouvement démocrate",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -11588,8 +11667,18 @@
         "value": "Château de Versailles"
       }
     ],
-    "categorie": [],
-    "theme": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1220072,
+        "value": "Art"
+      }
+    ],
     "procedure": []
   },
   {
@@ -11616,7 +11705,12 @@
         "value": "Direction générale de la Concurrence, de la Consommation et de la Répression des fraudes (DGCCRF)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -11706,8 +11800,22 @@
         "value": "Thales"
       }
     ],
-    "categorie": [],
-    "theme": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1220073,
+        "value": "Technologies"
+      },
+      {
+        "id": 1220077,
+        "value": "Défense"
+      }
+    ],
     "procedure": []
   },
   {
@@ -11738,7 +11846,12 @@
         "value": "Unédic"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -11819,14 +11932,27 @@
     "contenu": "Robert Dawes, trafiquant international de stupéfiants, purge une condamnation définitive de vingt-deux ans de réclusion criminelle pour l’importation de 1,3 tonne de cocaïne. Dans l’affaire qui lui vaut de comparaître, depuis lundi 23 janvier devant le tribunal correctionnel, pour « faux en écriture publique » et « tentative d’escroquerie au jugement », il encourt une nouvelle peine de dix ans d’emprisonnement. Il est par ailleurs attendu aux Pays-Bas pour répondre d’une accusation de meurtre.\nXavier Nogueras et Joseph Cohen-Sabban étaient ses avocats, ils sont ses coprévenus. Il leur est reproché d’avoir violé le secret de l’instruction et de s’être rendus complices de la tentative d’escroquerie au jugement, en produisant devant la cour d’assises des pièces en défense de leur client, qui se sont révélées falsifiées.",
     "url": "https://www.lemonde.fr/societe/article/2023/02/01/au-tribunal-de-paris-deux-avocats-un-drug-lord-et-beaucoup-de-pression_6160077_3224.html",
     "date": "2023-02-01",
-    "etiquettes": "75 - Paris,Joseph Cohen-Sabban,Robert Dawes,Xavier Nogueras",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1568,
+        "value": "Joseph Cohen-Sabban"
+      },
+      {
+        "id": 1569,
+        "value": "Robert Dawes"
+      },
+      {
+        "id": 1570,
+        "value": "Xavier Nogueras"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -11838,14 +11964,19 @@
     "contenu": "Mercredi 1er février 2023, Jean-Luc Besnier, maire sans étiquette de Petit-Mars, a été placé en garde à vue par la police judiciaire de Nantes. Il est entendu dans le cadre d’une enquête pour « escroquerie », « faux et usage de faux », « prise illégale d’intérêts » et « favoritisme ».",
     "url": "https://www.ouest-france.fr/politique/affaires/le-maire-de-petit-mars-en-garde-a-vue-a-la-police-judiciaire-5619e022-a14d-11ed-ac3a-2e4926770a74",
     "date": "2023-02-01",
-    "etiquettes": "44 – Loire-Atlantique,Jean-Luc Besnier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151947,
         "value": "44 - Loire-Atlantique"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1572,
+        "value": "Jean-Luc Besnier"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -11857,15 +11988,25 @@
     "contenu": "Ce mercredi, au terme d’une garde à vue de 48 heures, deux policiers ont été mis en examen. Ils sont soupçonnés d’avoir obtenu des avantages en échange de services permis par leurs fonctions. Ces deux brigadiers chefs, qui étaient en poste dans les Hauts-de-Seine, sous l’autorité de la préfecture de police, sont « mouillés » dans le dossier tentaculaire de corruption via les fourrières Inter Dépannage. Celles-ci sont dirigées par le sulfureux Chafic Alywan qui, depuis le 7 décembre, dort en prison. Il a été placé en détention provisoire à la Santé (XIVe).",
     "url": "https://www.leparisien.fr/paris-75/scandale-de-corruption-dans-les-fourrieres-les-deux-policiers-mis-en-examen-01-02-2023-AUBIXZESHJESFA4LV5Q57KES34.php?ts=1675283466307",
     "date": "2023-02-01",
-    "etiquettes": "75 - Paris,Chafic Alywan,Inter Dépannage",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1571,
+        "value": "Chafic Alywan"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 277,
+        "value": "Inter Dépannage"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -11892,7 +12033,20 @@
     "date": "2023-01-31",
     "etiquettes": "François Bayrou,Jean-Luc Bennahmias,Michel Mercier,Ministère de la Justice,Mouvement démocrate,Nathalie Griesbeck,Sylvie Goulard,Union pour la démocratie française",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1300,
+        "value": "François Bayrou"
+      },
+      {
+        "id": 1573,
+        "value": "Jean-Luc Bennahmias"
+      },
+      {
+        "id": 1574,
+        "value": "Michel Mercier"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
