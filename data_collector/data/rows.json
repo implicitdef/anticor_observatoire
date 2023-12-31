@@ -12257,7 +12257,12 @@
         "value": "Association pour la Sauvegarde des jardins d’exception du Mentonnais"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12302,7 +12307,12 @@
         "value": "Office central de lutte contre le trafic des biens culturels (OCBC)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [
       {
         "id": 1220072,
@@ -12317,35 +12327,64 @@
     "contenu": "Le maire de Vallauris a porté plainte contre son ex-adjointe Claudy Gimenez, l'accusant d’avoir \"favorisé son fils et sa belle-fille dans l’obtention d’un logement social\". Des faits qu’elle conteste.",
     "url": "https://www.nicematin.com/politique/conflit-dinteret-dans-lattribution-dun-logement-social-a-vallauris-le-parquet-ouvre-une-enquete-824167",
     "date": "2023-01-28",
-    "etiquettes": "06 – Alpes Maritimes,Claudy Gimenez,Kevin Luciano",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151604,
         "value": "06 - Alpes-Maritimes"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1387,
+        "value": "Kevin Luciano"
+      },
+      {
+        "id": 1588,
+        "value": "Claudy Gimenez"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
   {
     "id": 1260,
-    "titre": "Le tribunal de commerce d&#8217;Aix secoué par une suspicion de conflit d&#8217;intérêts",
-    "contenu": "La cour d'appel d'Aix a renvoyé l'affaire de la société Global EcoPower devant le tribunal de commerce de Montpellier : l'ex-président du tribunal aixois en était actionnaire lors du jugement",
+    "titre": "Le tribunal de commerce d'Aix secoué par une suspicion de conflit d'intérêts",
+    "contenu": "La cour d'appel d'Aix a renvoyé l'affaire de la société Global EcoPower devant le tribunal de commerce de Montpellier : l'ex-président du tribunal aixois en était actionnaire lors du jugement.",
     "url": "https://www.laprovence.com/article/region/1582013124366216/le-tribunal-de-commerce-daix-secoue-par-une-suspicion-de-conflit-dinterets",
     "date": "2023-01-27",
-    "etiquettes": "13 - Bouches-du-Rhône,Charles-Alain Castola,Global EcoPower",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151709,
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1589,
+        "value": "Charles-Alain Castola"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 283,
+        "value": "Global EcoPower"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12355,11 +12394,43 @@
     "contenu": "Le jugement est tombé pour Michel Mercier, ministre de la Justice de 2010 à 2012. Le tribunal correctionnel de Paris l’a condamné ce jeudi à trois ans de prison avec sursis, considérant que l’homme politique avait bien octroyé des emplois parlementaires fictifs à son épouse et une de ses filles entre 2005 et 2014, selon l’AFP. L’ex-ministre de Nicolas Sarkozy était poursuivi pour détournement de fonds publics et prise illégale d’intérêts pour avoir employé les deux femmes des années durant, sans pouvoir prouver la réalité de leur travail, alors qu’il était sénateur et président du conseil général du Rhône.",
     "url": "https://www.leparisien.fr/faits-divers/emplois-fictifs-michel-mercier-ancien-ministre-de-la-justice-condamne-a-trois-ans-de-prison-avec-sursis-26-01-2023-ZCF2N3AHGBFOBBJA6W7EYAN23Y.php",
     "date": "2023-01-26",
-    "etiquettes": "Gouvernement François Fillon 2,Les Républicains,Michel Mercier,Ministère de la Justice",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "Gouvernement François Fillon 2",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1574,
+        "value": "Michel Mercier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 2,
+        "value": "Sénat"
+      },
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12369,8 +12440,13 @@
     "contenu": "Sollicité pour permettre le prolongement du mandat de Catherine Pégard, 68 ans, à la tête de l’établissement public de Versailles, le Sénat s’est braqué. Le sénateur François Patriat, au terme d’un débat houleux, a préféré retirer l’amendement qu’il défendait avec l’appui de la ministre des sports, Amélie Oudéa-Castéra. L’épreuve démocratique est cruelle pour Emmanuel Macron et son gouvernement, qui avaient concocté cette parade législative pour garder l’ex-journaliste du Point au poste qu’elle occupe depuis 2011.",
     "url": "https://www.lemonde.fr/culture/article/2023/01/26/l-amendement-chateau-de-versailles-rejete-par-le-senat_6159378_3246.html",
     "date": "2023-01-26",
-    "etiquettes": "Catherine Pégard,Emmanuel Macron,François Patriat,La République En Marche",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151976,
+        "value": "78 - Yvelines"
+      }
+    ],
     "personnalites": [
       {
         "id": 1275,
@@ -12379,6 +12455,10 @@
       {
         "id": 1276,
         "value": "François Patriat"
+      },
+      {
+        "id": 1590,
+        "value": "Catherine Pégard"
       }
     ],
     "personnes_morales": [
@@ -12411,7 +12491,12 @@
     ],
     "personnalites": [],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12421,8 +12506,13 @@
     "contenu": "L’ancien chef de l’État a touché plus de 3 millions d’euros en 2018, officiellement en tant que conseiller d’un fonds d’investissement luxembourgeois. Mais des témoignages et documents obtenus par Mediapart et l’EIC sèment le doute sur la réalité de sa prestation, et révèlent que l’argent proviendrait principalement des Émirats arabes unis.",
     "url": "https://www.mediapart.fr/journal/international/260123/nicolas-sarkozy-et-maintenant-les-millions-des-emirats-arabes-unis",
     "date": "2023-01-26",
-    "etiquettes": "Les Républicains,Mohammed ben Zayed Al Nahyane,Nicolas Sarkozy",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 1182,
@@ -12439,7 +12529,12 @@
         "value": "Les Républicains (LR)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12449,7 +12544,7 @@
     "contenu": "Le service aménagement de la Métropole Nice Côte d'Azur fait l'objet, ce 26 janvier, d'une perquisition. Une enquête a été ouverte par le parquet de Paris pour trafic d'influence, escroquerie en bande organisée, abus de biens sociaux et faux et usage de faux dans le cadre du projet Iconic.",
     "url": "https://www.nicematin.com/faits-divers/perquisition-a-la-metropole-de-nice-une-enquete-pour-trafic-dinfluence-et-escroquerie-en-bande-organisee-autour-du-projet-iconic-823657",
     "date": "2023-01-26",
-    "etiquettes": "06 – Alpes Maritimes,Compagnie de Phalsbourg,Juridiction nationale chargée de la lutte contre la criminalité,Métropole Nice Côte d&#039;Azur",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151604,
@@ -12471,7 +12566,12 @@
         "value": "Métropole Nice Côte d'Azur"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12500,10 +12600,15 @@
     "contenu": "Pour avoir longtemps encaissé aux Pays-Bas une large part des recettes issues de ses clients français, le géant de la réservation a dû verser 153 millions d’euros. Le résultat d’un accord trouvé avec Bercy.\nLa cause du litige ? Le schéma de facturation mis en place par le groupe en France. Lorsqu’un internaute paie une chambre d’hôtel ou un vol sur le site, la somme est encaissée directement aux Pays-Bas, siège de la multinationale, tout comme les commissions versées par les hôteliers. La filiale hexagonale assure seulement le marketing et le SAV (via un centre d’appels cédé depuis peu). Ce système permet à Booking de minimiser son chiffre d’affaires déclaré en France (28,8 millions d’euros en 2021), tout comme le montant de son impôt (2,6 millions d’euros la même année).",
     "url": "https://www.linforme.com/tech-telecom/article/l-amende-xxl-que-booking-vient-de-regler-a-bercy_319.html",
     "date": "2023-01-25",
-    "etiquettes": "Booking",
+    "etiquettes": "",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 284,
+        "value": "Booking"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -12514,9 +12619,14 @@
     "contenu": "Le journaliste indépendant fait le récit, dans dix nouveaux chapitres, du « jeu de ces acteurs de l’ombre qui peuvent agir pour empêcher que l’information sur un groupe coté en Bourse n’arrive jusqu’au grand public ».",
     "url": "https://www.lemonde.fr/societe/article/2023/01/25/scandale-orpea-dans-sa-reedition-des-fossoyeurs-victor-castanet-revele-les-pressions-et-les-manipulations-subies-lors-de-son-enquete_6159201_3224.html",
     "date": "2023-01-25",
-    "etiquettes": "Orpea,Victor Castanet",
+    "etiquettes": "",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1591,
+        "value": "Victor Castanet"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 96,
@@ -12566,10 +12676,24 @@
     "contenu": "Bernard Laporte n’est pas au bout de ses peines. Le président de la fédération française de rugby (FFR), en retrait depuis mi-décembre après avoir été condamné dans une affaire de corruption, a été placé ce mardi en garde à vue, selon une information relayée par L’Equipe.\nSelon le quotidien sportif, il s’agit là d’une tout autre affaire, puisque Bernard Laporte a été entendu pour blanchiment de fraude fiscale aggravé, avec deux autres personnes. Les investigations, lancées en août 2020, ont été confiées au Service d’enquête judiciaire des finances, a indiqué le parquet national financier (PNF).",
     "url": "https://www.20minutes.fr/sport/4020303-20230124-affaire-laporte-altrad-president-ffr-garde-vue-blanchiment-fraude-fiscale-aggrave",
     "date": "2023-01-24",
-    "etiquettes": "Bernard Laporte,Fédération française de rugby,Parquet National Financier",
+    "etiquettes": "",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1475,
+        "value": "Bernard Laporte"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 206,
+        "value": "Fédération française de rugby"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
