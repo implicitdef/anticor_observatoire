@@ -12482,15 +12482,29 @@
     "contenu": "Ce jeudi, David Rachline été reçu par une magistrate à Draguignan. Elle l’a questionné sur ses rémunérations perçues comme dirigeant de deux sociétés d’économie mixte dont celle du port.",
     "url": "https://www.nicematin.com/politique/on-vous-explique-pourquoi-le-maire-de-frejus-a-ete-entendu-par-une-juge-dinstruction-ce-jeudi-823764",
     "date": "2023-01-26",
-    "etiquettes": "83 - Var,David Rachline,Rassemblement National,Societe Publique Locale Port De Frejus",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151980,
         "value": "83 - Var"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1403,
+        "value": "David Rachline"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 286,
+        "value": "Societe Publique Locale Port De Frejus"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -12581,16 +12595,26 @@
     "contenu": "Soupçonné de prise illégale d’intérêt sur une opération immobilière, Patrick Oser, l’ancien maire de Leymen, dans le secteur des Trois Frontières, a été condamné ce mercredi 25 janvier à un an d’inéligibilité.",
     "url": "https://www.lalsace.fr/faits-divers-justice/2023/01/26/un-an-d-ineligibilite-pour-l-ancien-maire-de-leymen",
     "date": "2023-01-26",
-    "etiquettes": "68 - Haut-Rhin,Patrick Oser",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151966,
         "value": "68 - Haut-Rhin"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1594,
+        "value": "Patrick Oser"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12601,7 +12625,12 @@
     "url": "https://www.linforme.com/tech-telecom/article/l-amende-xxl-que-booking-vient-de-regler-a-bercy_319.html",
     "date": "2023-01-25",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [
       {
@@ -12609,7 +12638,12 @@
         "value": "Booking"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12620,7 +12654,12 @@
     "url": "https://www.lemonde.fr/societe/article/2023/01/25/scandale-orpea-dans-sa-reedition-des-fossoyeurs-victor-castanet-revele-les-pressions-et-les-manipulations-subies-lors-de-son-enquete_6159201_3224.html",
     "date": "2023-01-25",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 1591,
@@ -12633,7 +12672,12 @@
         "value": "Orpea"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12653,20 +12697,30 @@
   },
   {
     "id": 1251,
-    "titre": "Le maire d’un village de la Côte d&#8217;Azur obtient un logement communal pour une bouchée de pain, des habitants dénoncent du &#8220;favoritisme&#8221;",
+    "titre": "Le maire d’un village de la Côte d'Azur obtient un logement communal pour une bouchée de pain, des habitants dénoncent du favoritisme",
     "contenu": "Maire de Valdeblore, Carole Cervel a obtenu la location d’un logement communal à 100 euros par mois pour pallier une \"situation d’urgence\". Avant de revoir le loyer à la hausse devant des plaintes de \"favoritisme\".",
     "url": "https://www.nicematin.com/politique/le-maire-dun-village-de-la-cote-dazur-obtient-un-logement-communal-pour-une-bouchee-de-pain-des-habitants-denoncent-du-favoritisme-823211",
     "date": "2023-01-24",
-    "etiquettes": "06 – Alpes Maritimes,Carole Cervel",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151604,
         "value": "06 - Alpes-Maritimes"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1595,
+        "value": "Carole Cervel"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12677,7 +12731,12 @@
     "url": "https://www.20minutes.fr/sport/4020303-20230124-affaire-laporte-altrad-president-ffr-garde-vue-blanchiment-fraude-fiscale-aggrave",
     "date": "2023-01-24",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 1475,
@@ -12694,7 +12753,12 @@
         "value": "Fédération française de rugby"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12704,11 +12768,43 @@
     "contenu": "Le 5 novembre 2022, le Qatar se trouvait mis en cause, à quelques jours de l’ouverture de « sa » Coupe du monde de football. Une enquête du Sunday Times et de l’ONG The Bureau of Investigative Journalism (TBIJ) présentait l’émirat gazier comme le commanditaire présumé d’une opération mondiale d’espionnage visant des personnalités – journalistes d’investigation, dirigeants politiques, avocats – liées à l’attribution controversée, en décembre 2010, du Mondial 2022 au Qatar, ou critiques à l’égard du pays hôte du tournoi.\nSelon Le Monde, à la suite de ces révélations, trois enquêtes préliminaires sont actuellement en cours en France. La première a été ouverte pour « atteinte à un système de traitement automatisé de données », « vol et violation du secret des correspondances », en novembre, par le parquet de Paris après la plainte déposée par Michel Platini via le cabinet d’avocats Temime et associés.",
     "url": "https://www.lemonde.fr/police-justice/article/2023/01/24/soupcons-d-espionnage-de-la-part-du-qatar-trois-enquetes-en-cours-au-parquet-de-paris_6159112_1653578.html",
     "date": "2023-01-24",
-    "etiquettes": "Michel Platini,Nathalie Goulet,Nicolas Sarkozy,Yann Philippin",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1464,
+        "value": "Michel Platini"
+      },
+      {
+        "id": 1592,
+        "value": "Nathalie Goulet"
+      },
+      {
+        "id": 1593,
+        "value": "Yann Philippin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 285,
+        "value": "Temime et associés"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12732,11 +12828,26 @@
     "contenu": "De nombreux élus du Parlement européen ont soudain notifié à l’administration des informations qu’ils sont tenus de donner mais qu’ils avaient « oublié » de fournir à temps. Certains ont signalé un voyage effectué à l’invitation d’un Etat étranger, d’autres ont déclaré des cadeaux reçus. Même la présidente de l’institution, Roberta Metsola, a procédé à cette mise à jour, alors que ses prédécesseurs ne se sentaient pas concernés par cette obligation.",
     "url": "https://www.lemonde.fr/international/article/2023/01/23/ingerences-etrangeres-le-parlement-europeen-a-l-ere-du-soupcon_6158904_3210.html",
     "date": "2023-01-23",
-    "etiquettes": "Parlement Européen,Roberta Metsola",
+    "etiquettes": "",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1596,
+        "value": "Roberta Metsola"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12746,10 +12857,33 @@
     "contenu": "La multinationale du luxe renonce à ouvrir un centre de recherche sur le luxe durable sur le campus de l’Ecole polytechnique. C’est le deuxième projet immobilier qui échoue après celui du groupe TotalEnergies en janvier 2022.\nCette décision intervient alors que le conseil d’administration de l’école avait voté en faveur du projet le 8 novembre par dix-neuf voix sur un total de 24 membres votants. Le feu vert ouvrait la voie à la cession de ce terrain de 30 000 mètres situé à l’est de l’école par l’EPA-PS au groupe de luxe. A l’horizon 2026, LVMH souhaitait créer un bâtiment de 22 000 mètres carrés pour y abriter 300 chercheurs en y allouant plus de 100 millions d’euros d’investissement.",
     "url": "https://www.lemonde.fr/campus/article/2023/01/23/lvmh-renonce-a-son-projet-de-centre-de-recherche-a-proximite-de-polytechnique_6158976_4401467.html",
     "date": "2023-01-23",
-    "etiquettes": "Bernard Arnault,LVMH,Polytechnique,TotalEnergies",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151971,
+        "value": "91 - Essonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1317,
+        "value": "Bernard Arnault"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 115,
+        "value": "LVMH"
+      },
+      {
+        "id": 161,
+        "value": "TotalEnergies"
+      },
+      {
+        "id": 287,
+        "value": "Polytechnique"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
