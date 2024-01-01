@@ -1,5 +1,60 @@
 [
   {
+    "id": 1699,
+    "titre": "Affaire Nasser al-Khelaïfi : le Qatar a fait pression sur le gouvernement",
+    "contenu": "Lors de l’opération de police qui l’a visé en juillet au sujet de la détention d’un lobbyiste au Qatar, le patron du PSG s’est enfermé une heure dans son avion, tandis que des dignitaires qataris menaçaient les policiers et téléphonaient aux ministres Catherine Colonna et Gérald Darmanin.",
+    "url": "https://www.mediapart.fr/journal/france/010124/affaire-nasser-al-khelaifi-le-qatar-fait-pression-sur-le-gouvernement",
+    "date": "2024-01-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1388,
+        "value": "Gérald Darmanin"
+      },
+      {
+        "id": 1444,
+        "value": "Tayeb Benabderrahmane"
+      },
+      {
+        "id": 1515,
+        "value": "Catherine Colonna"
+      },
+      {
+        "id": 1597,
+        "value": "Nasser al-Khelaïfi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 288,
+        "value": "Office central de lutte contre le crime organisé"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
+    "procedure": []
+  },
+  {
     "id": 1696,
     "titre": "Affaire Firmin Le Bodo : le deal entre Urgo et des pharmaciens est un manque à gagner pour l’État",
     "contenu": "Les cadeaux de la multinationale Urgo aux pharmaciens, pour lesquels la ministre de la santé est visée par une enquête, ont fait perdre aux finances publiques jusqu’à 14 millions d’euros de recettes fiscales, selon les calculs de Mediapart.",
@@ -4016,7 +4071,7 @@
     "personnes_morales": [
       {
         "id": 84,
-        "value": "Agence française anticorruption"
+        "value": "Agence française anticorruption (AFA)"
       },
       {
         "id": 85,
@@ -4024,7 +4079,7 @@
       },
       {
         "id": 86,
-        "value": "SNCF"
+        "value": "Société nationale des chemins de fer français (SNCF)"
       }
     ],
     "categorie": [
@@ -4379,7 +4434,7 @@
     "personnes_morales": [
       {
         "id": 84,
-        "value": "Agence française anticorruption"
+        "value": "Agence française anticorruption (AFA)"
       },
       {
         "id": 161,
@@ -7234,7 +7289,7 @@
       },
       {
         "id": 74,
-        "value": "Office central pour la répression de la grande délinquance financière"
+        "value": "Office central pour la répression de la grande délinquance financière (OCRGDF)"
       }
     ],
     "categorie": [
@@ -8453,7 +8508,7 @@
       },
       {
         "id": 112,
-        "value": "EDF"
+        "value": "Électricité de France (EDF)"
       }
     ],
     "categorie": [
@@ -9488,7 +9543,7 @@
     "personnes_morales": [
       {
         "id": 84,
-        "value": "Agence française anticorruption"
+        "value": "Agence française anticorruption (AFA)"
       }
     ],
     "categorie": [
@@ -11899,7 +11954,12 @@
         "value": "Les Républicains (LR)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -11978,7 +12038,12 @@
       }
     ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12002,7 +12067,12 @@
       }
     ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12017,6 +12087,10 @@
       {
         "id": 1151970,
         "value": "75 - Paris"
+      },
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
       }
     ],
     "personnalites": [
@@ -12031,7 +12105,12 @@
         "value": "Inter Dépannage"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12059,7 +12138,12 @@
       }
     ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12112,7 +12196,12 @@
         "value": "Union pour la démocratie française (UDF)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12689,9 +12778,19 @@
     "date": "2023-01-24",
     "etiquettes": "",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1381,
+        "value": "Antonio Panzeri"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12814,11 +12913,30 @@
     "contenu": "Alors que le Parquet national financier vient de lancer un ultimatum aux Français impliqués dans les « Dubaï Papers », d'autres scandales continuent d'occuper le fisc et la justice. Et l'exploitation des informations nées de fuites de documents confidentiels se révèle fructueuse. Deux affaires retentissantes - les « Panama Papers » et les « Paradise Papers » - ont ainsi permis de faire entrer près de 200 millions d'euros dans les caisses de l'Etat à ce jour, selon la Direction générale des finances publiques (DGFIP).",
     "url": "https://www.lesechos.fr/economie-france/budget-fiscalite/impots-comment-les-scandales-de-montages-offshore-ont-permis-au-fisc-de-recuperer-des-millions-1899614",
     "date": "2023-01-23",
-    "etiquettes": "Direction générale des finances publiques,Parquet National Financier",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 32,
+        "value": "Direction générale des finances publiques (DGFIP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12884,7 +13002,12 @@
         "value": "Polytechnique"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12894,16 +13017,31 @@
     "contenu": "L’ancien directeur général de la banque des pauvres a été condamné à 20 000 euros d’amende dont 10 000 avec sursis pour « favoritisme ». Le tribunal estime que la direction a cherché à désigner des commissaires-priseurs « très conciliants » pour son projet de prêts sur gage à haute valeur",
     "url": "https://www.sudouest.fr/justice/pour-le-tribunal-le-marche-des-commissaires-priseurs-du-credit-municipal-de-bordeaux-etait-verrouille-13788309.php",
     "date": "2023-01-23",
-    "etiquettes": "33 – Gironde,Christophe Leuret,Crédit Municipal de Bordeaux",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151847,
         "value": "33 - Gironde"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1598,
+        "value": "Christophe Leuret"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 289,
+        "value": "Crédit Municipal de Bordeaux"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12913,44 +13051,105 @@
     "contenu": "Négociations mouvementées, expertise controversée, soupçons d’escroquerie… Dix ans après le don à l’Etat de plus de 500 chefs-d’œuvre appartenant au célèbre galeriste Yvon Lambert, Libération révèle les angles morts de ce legs hors normes et sa gestion hasardeuse par les pouvoirs publics.\nEntre négociations musclées avec l’Etat, gouffre financier, menaces de délocaliser la collection à l’étranger, œuvres déclarées manquantes ou endommagées, pièces retirées de la donation suite à des protestations d’artistes, gestion erratique du Centre national des arts plastiques épinglée dans un rapport de l’Agence française anticorruption, et même soupçons d’escroquerie et de fraude fiscale visant Yvon Lambert, Libération, qui a eu accès à de nombreux témoignages et documents inédits, dévoile l’histoire mouvementée et les zones d’ombre de cette donation rocambolesque.",
     "url": "https://www.liberation.fr/culture/art-contemporain-les-zones-dombre-de-la-donation-du-siecle-20230122_TGHBITFGE5HMJP3TCA7ITBE2M4/?redirected=1&amp;redirected=1",
     "date": "2023-01-22",
-    "etiquettes": "Agence Française Anticorruption,Centre national des arts plastiques,Ministère de la Culture,Yvon Lambert",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1599,
+        "value": "Yvon Lambert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 84,
+        "value": "Agence française anticorruption (AFA)"
+      },
+      {
+        "id": 290,
+        "value": "Centre national des arts plastiques (CNAP)"
+      },
+      {
+        "id": 291,
+        "value": "Ministère de la Culture"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
   {
     "id": 1236,
     "titre": "Douze ans après la chute du président tunisien, la justice française est toujours sur les traces de la fortune du clan Ben Ali",
-    "contenu": "L’enquête vieille de douze ans sur les « biens mal acquis » accumulés en France par l’entourage de l’ancien président tunisien, Zine El-Abidine Ben Ali, va-t-elle être relancée ? Face à la « particulière complexité de l’affaire », la juge d’instruction du pôle financier Marie-Christine Idiart, qui a repris la procédure en septembre 2022, a obtenu la désignation d’un magistrat supplémentaire, selon les informations du Monde. Elle est désormais épaulée par le juge Serge Tournaire, rompu aux investigations sur les « biens mal acquis » africains.",
+    "contenu": "L’enquête vieille de douze ans sur les « biens mal acquis » accumulés en France par l’entourage de l’ancien président tunisien, Zine El-Abidine Ben Ali, va-t-elle être relancée ? Face à la « particulière complexité de l’affaire », la juge d’instruction du pôle financier Marie-Christine Idiart, qui a repris la procédure en septembre 2022, a obtenu la désignation d’un magistrat supplémentaire. Elle est désormais épaulée par le juge Serge Tournaire, rompu aux investigations sur les « biens mal acquis » africains.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2023/01/20/douze-ans-apres-la-chute-du-president-tunisien-la-justice-francaise-est-toujours-sur-les-traces-de-la-fortune-du-clan-ben-ali_6158592_4355770.html",
     "date": "2023-01-20",
-    "etiquettes": "Marouane Mabrouk,Office central pour la répression de la grande délinquance financière,Philippe Houman,Zine El-Abidine Ben Ali",
+    "etiquettes": "",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1600,
+        "value": "Marouane Mabrouk"
+      },
+      {
+        "id": 1601,
+        "value": "Philippe Houman"
+      },
+      {
+        "id": 1602,
+        "value": "Zine El-Abidine Ben Ali"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 74,
+        "value": "Office central pour la répression de la grande délinquance financière (OCRGDF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
   {
     "id": 1238,
-    "titre": "Le maire de Cholet, Gilles Bourdouleix, relaxé des faits de prise illégale d&#8217;intérêt par le tribunal d&#8217;Angers",
+    "titre": "Le maire de Cholet, Gilles Bourdouleix, relaxé des faits de prise illégale d'intérêt par le tribunal d'Angers",
     "contenu": "Le tribunal correctionnel d'Angers a relaxé Gilles Bourdouleix, maire de Cholet ce vendredi 20 janvier. Une décision qui porte sur des faits de prise d'illégale d'intérêt pour lesquels il a comparu en novembre 2022.",
     "url": "https://france3-regions.francetvinfo.fr/pays-de-la-loire/maine-et-loire/cholet/le-maire-de-cholet-gilles-bourdouleix-relaxe-des-faits-de-prise-illegale-d-interet-par-le-tribunal-d-angers-2698214.html",
     "date": "2023-01-20",
-    "etiquettes": "49 - Maine-et-Loire,Gilles Bourdouleix",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151951,
         "value": "49 - Maine-et-Loire"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1603,
+        "value": "Gilles Bourdouleix"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12960,30 +13159,55 @@
     "contenu": "Le maire PS de Brest, François Cuillandre, 67 ans, sera bientôt jugé en correctionnelle pour « recel d’abus de confiance » dans le cadre de l’enquête sur les indemnités des élus socialistes de la ville. Mis en examen en 2019, François Cuillandre avait tout de même été élu en 2020 aux élections municipales.",
     "url": "https://www.20minutes.fr/justice/4019565-20230119-brest-maire-francois-cuillandre-juge-soupcons-abus-confiance",
     "date": "2023-01-19",
-    "etiquettes": "29 - Finistère,François Cuillandre,Parti Socialiste",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151723,
         "value": "29 - Finistère"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1606,
+        "value": "François Cuillandre"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
   {
     "id": 1669,
     "titre": "Formation des libéraux : déplorant \"un détournement de fonds avéré\", la CNPL critique la gestion financière du FIF-PL",
-    "contenu": "",
+    "contenu": "La Chambre nationale des professions libérales, organisation patronale représentative au niveau national, demande, dans un communiqué en date du 10 janvier 2023, la nomination d’un administrateur provisoire au FIF-PL, le Fonds d’assurance formation pour les professionnels libéraux.",
     "url": "https://www.aefinfo.fr/depeche/686048-formation-des-liberaux-deplorant-un-detournement-de-fonds-avere-la-cnpl-critique-la-gestion-financiere-du-fif-pl",
     "date": "2023-01-19",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -12993,16 +13217,26 @@
     "contenu": "Le maire de Cholet (Maine-et-Loire) Gilles Bourdouleix (DVD) a été mis en examen pour « abus de confiance » et « recel d'abus de biens sociaux » et placé sous contrôle judiciaire avec interdiction de contact avec les autres mis en examen et obligation de payer un cautionnement de 20 000 euros.",
     "url": "https://www.marianne.net/societe/police-et-justice/gilles-bourdouleix-le-maire-de-cholet-mis-en-examen-pour-abus-de-confiance",
     "date": "2023-01-19",
-    "etiquettes": "49 - Maine-et-Loire,Gilles Bourdouleix",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151951,
         "value": "49 - Maine-et-Loire"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1603,
+        "value": "Gilles Bourdouleix"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -13012,11 +13246,35 @@
     "contenu": "L’intégralité des recettes de la vente des 157 lots sera reversée à l’Etat français, puis redistribuée aux Equato-Guinéens.\nLe fils du dictateur de ce riche état pétrolier d’Afrique centrale, dont l’indice de corruption est évalué à 83 (sur une échelle allant jusqu’à 100) par l’ONG Transparency International, avait été condamné, en juillet 2021 par la justice française à trois ans de prison avec sursis et 30 millions d’euros d’amende pour « blanchiment d’abus de biens sociaux et détournement de fonds publics ». Les enquêteurs ont calculé que, entre 1997 et 2011, le kleptocrate avait dépensé 150 millions d’euros en France : Teodorin Obiang Nguema a acheté tous azimuts bolides de luxe, montres de collection ainsi que meubles et objets d’art pour décorer son immeuble haussmannien de l’avenue Foch.",
     "url": "https://www.lemonde.fr/culture/article/2023/01/19/les-biens-mal-acquis-du-vice-president-de-guinee-equatoriale-disperses-a-drouot-le-20-janvier_6158520_3246.html",
     "date": "2023-01-19",
-    "etiquettes": "Agence de gestion et de recouvrement des avoirs saisis et confisqués,Teodorin Obiang Nguema,Transparency International France",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1605,
+        "value": "Teodorin Obiang Nguema Mangue"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 136,
+        "value": "Agence de Gestion et de Recouvrement des Avoirs Saisis et Confisqués (AGRASC)"
+      },
+      {
+        "id": 279,
+        "value": "Transparency International"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -13026,11 +13284,30 @@
     "contenu": "La 32e chambre correctionnelle du tribunal judiciaire a condamné pour favoritisme, le directeur juridique de l'époque, à quatre mois de prison avec sursis, 2 000 euros d'amende - contre les 50 000 requis par le Parquet national financier (PNF) - et une interdiction avec sursis d'exercer un emploi public pendant deux ans. Le tribunal l'a reconnu coupable d'avoir favorisé les avocats historiques de l'Oniam lors du renouvellement du marché public pour le conseil juridique en 2014, pour un montant de 15 millions d'euros.",
     "url": "https://www.whatsupdoc-lemag.fr/article/loniam-nindemnise-pas-que-les-victimes-daccidents-medicaux-des-anciens-cadres-condamnes",
     "date": "2023-01-19",
-    "etiquettes": "Office National d&#039;Indemnisation des Accidents Médicaux,Parquet National Financier",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 293,
+        "value": "Office National d'Indemnisation des Accidents Médicaux (ONIAM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -13040,25 +13317,69 @@
     "contenu": "La cour de Versailles a infirmé le jugement en référé du tribunal de commerce de Nanterre qui avait interdit aux journalistes de Reflets de publier de nouveaux articles utilisant des informations issues d’un piratage dont a été victime le groupe Altice de Patrick Drahi.",
     "url": "https://www.mediapart.fr/journal/france/190123/secret-des-affaires-la-censure-preventive-du-site-reflets-levee-en-appel",
     "date": "2023-01-19",
-    "etiquettes": "Altice,Patrick Drahi,Reflets",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1384,
+        "value": "Patrick Drahi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 144,
+        "value": "Altice"
+      },
+      {
+        "id": 292,
+        "value": "Reflets.info"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
   {
     "id": 1232,
-    "titre": "SNCF : l&#8217;employé alerte sur des problèmes de facturation, l&#8217;entreprise le licencie pour harcèlement",
+    "titre": "SNCF : l'employé alerte sur des problèmes de facturation, l'entreprise le licencie pour harcèlement",
     "contenu": "Christophe Rey, ancien salarié de la SNCF Occitanie, conteste son licenciement devant les prud'hommes de Toulouse (Haute-Garonne), jeudi 19 janvier 2023. Il estime avoir payé pour son rôle de lanceur d'alerte au sujet de soupçons de favoritisme dans des marchés de taxi.",
     "url": "https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/sncf-l-employe-alerte-sur-des-problemes-de-facturation-l-entreprise-le-licencie-pour-harcelement-2696378.html",
     "date": "2023-01-19",
-    "etiquettes": "Christophe Rey,SNCF",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151845,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1604,
+        "value": "Christophe Rey"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 86,
+        "value": "Société nationale des chemins de fer français (SNCF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -13101,15 +13422,25 @@
     "contenu": "À la suite de deux signalements, le parquet d’Évreux a récemment ouvert une information judiciaire sur d’éventuelles infractions financières commises dans le cadre de la gestion de l’association Foyer du Grand Lieu. Hervé Morin, président de la région Normandie et ancien maire d’Épaignes, commune de résidence de la structure, pourrait être inquiété.",
     "url": "https://www.mediapart.fr/journal/france/180123/dans-l-eure-le-soupcon-de-prise-illegale-dinterets-plane-sur-herve-morin?utm_source=global&amp;utm_medium=social&amp;utm_campaign=SharingApp&amp;xtor=CS3-5",
     "date": "2023-01-18",
-    "etiquettes": "27 - Eure,Hervé Morin,Les Centristes - Le Nouveau Centre",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151721,
         "value": "27 - Eure"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1457,
+        "value": "Hervé Morin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 294,
+        "value": "Les Centristes - Le Nouveau Centre (LC)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -13120,10 +13451,24 @@
     "contenu": "Le Parquet national financier lance un ultimatum aux contribuables français pour se faire connaître auprès de la justice dans le cadre de l'affaire dite des Dubaï Papers. Les contribuables concernés sont ceux qui ont eu recours aux services de la société Helin, située d'abord en Suisse puis aux Émirats arabes unis, qui est soupçonnée d'être une officine de fraude fiscale et de blanchiment de fraude fiscale. Cette société est au cœur des révélations des Dubaï Papers. Le PNF donne aux contribuables concernés, clients de cette société, jusqu'au 30 avril pour se faire connaître.",
     "url": "https://www.francetvinfo.fr/economie/impots/paradis-fiscaux/dubai-papers-le-parquet-national-financier-lance-un-ultimatum-aux-contribuables-francais-concernes-pour-se-faire-connaitre-aupres-de-la-justice_5610068.html",
     "date": "2023-01-18",
-    "etiquettes": "Helin,Parquet National Financier",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 295,
+        "value": "Helin"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -13167,10 +13512,33 @@
     "contenu": "Stéphane Fouks, actuel président exécutif de H/Advisors, réseau du groupe Havas, a accepté mardi au tribunal judiciaire de Paris de payer une amende de 165.500 euros pour recel de favoritisme après avoir reconnu des contrats litigieux passés avec EDF.\nNégociée avec le Parquet national financier (PNF) dans le cadre d'une procédure de reconnaissance préalable de culpabilité (CRPC) et homologuée mardi après-midi par un juge, la peine de M. Fouks prévoit également trois ans d'exclusion des marchés publics avec sursis et la non-inscription de cette condamnation au casier judiciaire. L'amende infligée représente 10% des sommes perçues par Havas dans le cadre de deux contrats avec des avenants signés entre 2010 et 2015 pour un montant total de 1,655 million d'euros.",
     "url": "https://www.cbnews.fr/conseil/image-stephane-fouks-havas-paiera-amende-contrats-litigieux-avec-edf-73757",
     "date": "2023-01-18",
-    "etiquettes": "EDF,Havas,Parquet National Financier,Stéphane Fouks",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1342,
+        "value": "Stéphane Fouks"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 71,
+        "value": "Havas"
+      },
+      {
+        "id": 112,
+        "value": "Électricité de France (EDF)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
