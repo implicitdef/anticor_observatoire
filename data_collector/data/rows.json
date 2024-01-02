@@ -1,5 +1,39 @@
 [
   {
+    "id": 1700,
+    "titre": "Transfert de Neymar : le PSG a-t-il téléguidé un vice-président de l’Assemblée pour alléger sa facture fiscale ?",
+    "contenu": "Au détour de l’enquête sur la «cellule secrète» du PSG et le rôle de son directeur de la communication, Jean-Martial Ribes, la justice s’intéresse désormais au transfert de la star brésilienne en 2017. Fort de son influence auprès du député Hugues Renson, le cadre du club parisien aurait réclamé des faveurs fiscales au sommet de l’Etat pour boucler l’arrivée du joueur.",
+    "url": "https://www.liberation.fr/societe/police-justice/transfert-de-neymar-le-psg-a-t-il-teleguide-un-vice-president-de-lassemblee-pour-alleger-sa-facture-fiscale-20240102_EJBRUEFJRFEOTI4KSBAD6UZDKU/",
+    "date": "2024-02-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": []
+  },
+  {
     "id": 1699,
     "titre": "Affaire Nasser al-Khelaïfi : le Qatar a fait pression sur le gouvernement",
     "contenu": "Lors de l’opération de police qui l’a visé en juillet au sujet de la détention d’un lobbyiste au Qatar, le patron du PSG s’est enfermé une heure dans son avion, tandis que des dignitaires qataris menaçaient les policiers et téléphonaient aux ministres Catherine Colonna et Gérald Darmanin.",
