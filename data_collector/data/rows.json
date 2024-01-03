@@ -34,6 +34,53 @@
     "procedure": []
   },
   {
+    "id": 1702,
+    "titre": "Philippe Latombe, député macroniste et VRP de la surveillance",
+    "contenu": "Élu MoDem depuis 2017, Philippe Latombe est devenu un spécialiste des questions technologiques à l'Assemblée nationale. Mais sa proximité avec les lobbies de la surveillance, avec qui il fait des bouffes ou soirées mondaines, est fortement critiquée.",
+    "url": "https://www.streetpress.com/sujet/1704201680-philippe-latombe-depute-majorite-lobbies-technologie-surveillance-macron-lobbying",
+    "date": "2024-01-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1151982,
+        "value": "85 - Vendée"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 320,
+        "value": "Philippe Latombe"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 94,
+        "value": "Mouvement démocrate (MoDem)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
+    "procedure": []
+  },
+  {
     "id": 1699,
     "titre": "Affaire Nasser al-Khelaïfi : le Qatar a fait pression sur le gouvernement",
     "contenu": "Lors de l’opération de police qui l’a visé en juillet au sujet de la détention d’un lobbyiste au Qatar, le patron du PSG s’est enfermé une heure dans son avion, tandis que des dignitaires qataris menaçaient les policiers et téléphonaient aux ministres Catherine Colonna et Gérald Darmanin.",
@@ -13467,8 +13514,18 @@
     "url": "https://www.lequipe.fr/Rugby/Article/Affaire-claude-atcher-peril-sur-les-finances-de-la-coupe-du-monde-2023/1375453",
     "date": "2023-01-18",
     "etiquettes": "Claude Atcher",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1525,
+        "value": "Claude Atcher"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -13575,10 +13632,15 @@
     "contenu": "L'une des principales caisses de retraite des professions libérales est dans le collimateur de la justice, soupçonnée de diverses malversations au préjudice de ses pensionnés. Une information judiciaire a été ouverte à l'encontre de la Cipav pour «escroquerie en bande organisée, concussion, faux et usage de faux».",
     "url": "https://www.lefigaro.fr/actualite-france/perquisition-dans-l-une-des-principales-caisses-de-retraite-des-professions-liberales-20230118",
     "date": "2023-01-18",
-    "etiquettes": "Cipav",
+    "etiquettes": "",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 297,
+        "value": "Caisse interprofessionnelle de prévoyance et d'assurance vieillesse des professions libérales (CIPAV)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -13616,7 +13678,12 @@
         "value": "Électricité de France (EDF)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
