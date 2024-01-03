@@ -11034,6 +11034,49 @@
     ]
   },
   {
+    "id": 1701,
+    "titre": "L'institut de recherches lié aux syndicats épinglé par la Cour des comptes",
+    "contenu": "La Cour des comptes a rendu un rapport doublé d'un référé adressé à la Première ministre qui lui enjoint de remettre à plat les missions et le fonctionnement de l'Institut de recherches économiques et sociales (Ires), financé par l'Etat et géré par les syndicats.",
+    "url": "https://www.lesechos.fr/economie-france/social/linstitut-de-recherches-lie-aux-syndicats-epingle-par-la-cour-des-comptes-1946854",
+    "date": "2023-05-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1270,
+        "value": "Elisabeth Borne"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Cour des comptes"
+      },
+      {
+        "id": 296,
+        "value": "Institut de recherches économiques et sociales (Ires)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
+  },
+  {
     "id": 1489,
     "titre": "Quentin Mathieu rejoint le cabinet du ministre de l’Agriculture",
     "contenu": "Quentin Mathieu, ex-responsable des études économiques à la Coopération agricole (lobby de ce type de structures), a rejoint le cabinet du ministre de l’Agriculture Marc Fesneau en tant que conseiller alimentation.",
