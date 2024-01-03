@@ -12,7 +12,16 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1443,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 1607,
+        "value": "Neymar da Silva Santos Júnior"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 177,
@@ -13275,7 +13284,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
   },
   {
     "id": 1241,
@@ -13309,7 +13323,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1669,
@@ -13362,7 +13381,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
+      }
+    ]
   },
   {
     "id": 1247,
@@ -13513,7 +13537,7 @@
     "contenu": "Mauvaise gestion budgétaire, soupçons de favoritisme et de détournement de fonds publics : magistrats et inspecteurs tirent la sonnette d'alarme sur les comptes de la Coupe du monde 2023. La nouvelle gouvernance promet de « sécuriser l'organisation du tournoi ».",
     "url": "https://www.lequipe.fr/Rugby/Article/Affaire-claude-atcher-peril-sur-les-finances-de-la-coupe-du-monde-2023/1375453",
     "date": "2023-01-18",
-    "etiquettes": "Claude Atcher",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -13527,7 +13551,12 @@
       }
     ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -13537,22 +13566,42 @@
     "contenu": "Le président de la Métropole de Lille est convoqué au tribunal correctionnel de Lille du 3 au 6 juillet pour détournement de fonds publics en raison de la prise en charge de frais privés par la collectivité. Son ancien directeur général des services et une ex-conseillère personnelle seront à ses côtés pour une affaire connexe.",
     "url": "https://www.mediacites.fr/complement-denquete/lille/2023/01/18/affaire-des-frais-a-la-mel-damien-castelain-sera-juge-en-juillet/",
     "date": "2023-01-18",
-    "etiquettes": "59 – Nord,Damien Castelain,Métropole Européenne de Lille",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151958,
         "value": "59 - Nord"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1611,
+        "value": "Damien Castelain"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 304,
+        "value": "Métropole Européenne de Lille"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1227,
-    "titre": "Dans l’Eure, le soupçon de prise illégale d&#8217;intérêts plane sur Hervé Morin",
+    "titre": "Dans l’Eure, le soupçon de prise illégale d'intérêts plane sur Hervé Morin",
     "contenu": "À la suite de deux signalements, le parquet d’Évreux a récemment ouvert une information judiciaire sur d’éventuelles infractions financières commises dans le cadre de la gestion de l’association Foyer du Grand Lieu. Hervé Morin, président de la région Normandie et ancien maire d’Épaignes, commune de résidence de la structure, pourrait être inquiété.",
     "url": "https://www.mediapart.fr/journal/france/180123/dans-l-eure-le-soupcon-de-prise-illegale-dinterets-plane-sur-herve-morin?utm_source=global&amp;utm_medium=social&amp;utm_campaign=SharingApp&amp;xtor=CS3-5",
     "date": "2023-01-18",
@@ -13573,11 +13622,25 @@
       {
         "id": 294,
         "value": "Les Centristes - Le Nouveau Centre (LC)"
+      },
+      {
+        "id": 303,
+        "value": "Foyer du Grand Lieu"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1229,
@@ -13603,7 +13666,12 @@
         "value": "Helin"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -13613,27 +13681,47 @@
     "contenu": "Bruno Cassette, sous-préfet d’Aix-en-Provence, sera jugé du 3 au 6 juillet par le tribunal correctionnel de Lille pour favoritisme et prise illégale d’intérêts, révèle Mediacités. Le représentant de l’État est rattrapé par des faits remontant à son précédent poste comme directeur général des services de la métropole européenne de Lille. Il est visé pour avoir permis à une société de relations publiques d’avoir accès à des informations privilégiées dans le cadre de l’attribution d’un marché public.",
     "url": "https://marsactu.fr/bref/le-sous-prefet-daix-en-provence-renvoye-en-correctionnelle-pour-favoritisme/",
     "date": "2023-01-18",
-    "etiquettes": "13 - Bouches-du-Rhône,Bruno Cassette",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151709,
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1610,
+        "value": "Bruno Cassette"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1237,
-    "titre": "Perquisition dans l&#8217;une des principales caisses de retraite des professions libérales",
+    "titre": "Perquisition dans l'une des principales caisses de retraite des professions libérales",
     "contenu": "L'une des principales caisses de retraite des professions libérales est dans le collimateur de la justice, soupçonnée de diverses malversations au préjudice de ses pensionnés. Une information judiciaire a été ouverte à l'encontre de la Cipav pour «escroquerie en bande organisée, concussion, faux et usage de faux».",
     "url": "https://www.lefigaro.fr/actualite-france/perquisition-dans-l-une-des-principales-caisses-de-retraite-des-professions-liberales-20230118",
     "date": "2023-01-18",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [
       {
@@ -13641,9 +13729,19 @@
         "value": "Caisse interprofessionnelle de prévoyance et d'assurance vieillesse des professions libérales (CIPAV)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1210,
@@ -13709,21 +13807,45 @@
   {
     "id": 1225,
     "titre": "Perquisitions au conseil départemental des Yvelines dans une enquête visant notamment Pierre Bédier",
-    "contenu": "Les policiers ont mené des perquisitions ce mardi matin dans le cadre d’une enquête ouverte en juin 2022 sur le versement d’une subvention pour une maison médicale à Mantes-la-Jolie, projet porté par un proche de l’élu.",
+    "contenu": "Les policiers ont mené des perquisitions dans le cadre d’une enquête ouverte en juin 2022 sur le versement d’une subvention pour une maison médicale à Mantes-la-Jolie, projet porté par un proche de l’élu.",
     "url": "https://www.leparisien.fr/yvelines-78/perquisitions-au-conseil-departemental-des-yvelines-dans-une-enquete-visant-notamment-pierre-bedier-17-01-2023-BPNGN4Q4LJDFRGDMVP2OG3AAZU.php?ts=1674849437965",
     "date": "2023-01-17",
-    "etiquettes": "78 - Yvelines,Anticor,Les Républicains,Pierre Bédier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151976,
         "value": "78 - Yvelines"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1613,
+        "value": "Pierre Bédier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      },
+      {
+        "id": 76,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1226,
@@ -13731,18 +13853,38 @@
     "contenu": "Jean-Luc Moudenc cumule son mandat à la mairie de Toulouse avec une mission de haut fonctionnaire au ministère de l'Économie. Trop pour un seul homme ? Malgré les soupçons de l'association Anticor, qui avait fait un signalement à la justice, le parquet a décidé de classer la procédure.",
     "url": "https://www.marianne.net/politique/droite/soupcon-demploi-fictif-de-jean-luc-moudenc-lenquete-du-parquet-de-toulouse-classee-sans-suite",
     "date": "2023-01-17",
-    "etiquettes": "31 - Haute-Garonne,Anticor,Jean-Luc Moudenc",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151845,
         "value": "31 - Haute-Garonne"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1363,
+        "value": "Jean-Luc Moudenc"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
   },
   {
     "id": 1222,
@@ -14733,8 +14875,18 @@
         "value": "60 - Oise"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1612,
+        "value": "Caroline Cayeux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -14762,7 +14914,16 @@
     "etiquettes": "Parquet National Financier,Unilabs",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 305,
+        "value": "Unilabs"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -14783,12 +14944,65 @@
     "contenu": "L’un des principaux contrats de lobbying qatari, établi en 2017 et dont Libération dévoile les dessous sulfureux, met en lumière les méthodes de soft power très offensives de l’émirat, obnubilé par sa réputation en France et dans le monde.",
     "url": "https://www.liberation.fr/societe/la-france-porte-dentrisme-et-de-lobbying-du-qatar-20221215_NQ7VQAJYUBGVFDE2GH447RJSBM/",
     "date": "2022-12-15",
-    "etiquettes": "Adit,Alexandre Medvedowsky,Avisa Partners,ESL &amp; Network,Jean-Martial Ribes,Lotfi Bel Hadj,Nasser al-Khelaïfi,PSG,Rivington",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "Lotfi Bel Hadj,Nasser al-Khelaïfi",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1443,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 1597,
+        "value": "Nasser al-Khelaïfi"
+      },
+      {
+        "id": 1608,
+        "value": "Alexandre Medvedowsky"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 298,
+        "value": "Rivington"
+      },
+      {
+        "id": 299,
+        "value": "Agence pour la diffusion de l'information technologique (ADIT)"
+      },
+      {
+        "id": 300,
+        "value": "Avisa Partners"
+      },
+      {
+        "id": 301,
+        "value": "ESL & Network"
+      },
+      {
+        "id": 302,
+        "value": "Lotfi Bel Hadj"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
     "procedure": []
   },
   {
