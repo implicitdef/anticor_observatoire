@@ -1,5 +1,213 @@
 [
   {
+    "id": 1707,
+    "titre": "Six dirigeants de premier plan du sport français visés par des signalements pour parjure",
+    "contenu": "Les présidents des fédérations nationales de tennis, d’équitation et des sports de glace, ainsi que le directeur juridique de celle de football, l’ex-patron du judo français et le directeur général de l’Insep sont soupçonnés de déclarations erronées devant une commission d’enquête parlementaire.",
+    "url": "https://www.lemonde.fr/sport/article/2024/01/04/six-dirigeants-de-premier-plan-du-sport-francais-vises-par-des-signalements-pour-parjure_6209047_3242.html",
+    "date": "2024-01-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1286,
+        "value": "Amélie Oudéa-Castéra"
+      },
+      {
+        "id": 1291,
+        "value": "Gilles Moretton"
+      },
+      {
+        "id": 1631,
+        "value": "Serge Lecomte"
+      },
+      {
+        "id": 1632,
+        "value": "Gwenaëlle Gigarel-Noury"
+      },
+      {
+        "id": 1633,
+        "value": "Jean-Luc Rougé"
+      },
+      {
+        "id": 1634,
+        "value": "Jean Lapeyre"
+      },
+      {
+        "id": 1635,
+        "value": "Fabien Canu"
+      },
+      {
+        "id": 1637,
+        "value": "Nadir Allouache"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 165,
+        "value": "Fédération française de tennis (FFT)"
+      },
+      {
+        "id": 316,
+        "value": "Fédération française d'équitation (FFE)"
+      },
+      {
+        "id": 317,
+        "value": "Fédération française des sports de glace (FFSG)"
+      },
+      {
+        "id": 318,
+        "value": "Fédération française de judo, jujitsu, kendo et disciplines associées (FFJDA)"
+      },
+      {
+        "id": 319,
+        "value": "Fédération internationale de judo"
+      },
+      {
+        "id": 320,
+        "value": "Fédération française de football (FFF)"
+      },
+      {
+        "id": 321,
+        "value": "Institut national du sport, de l'expertise et de la performance (INSEP)"
+      },
+      {
+        "id": 322,
+        "value": "Fédération Française de Kickboxing, Muaythaï et Disciplines Associées (FFKMDA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1705,
+    "titre": "Trois entreprises condamnées à verser 1,7 million d'euros d'amendes pour corruption au sein du bailleur social de Martigues, la SEMIVIM",
+    "contenu": "Le parquet de Marseille a annoncé ce mercredi 3 janvier que trois sociétés du groupe Omnium développement doivent verser une amende d'intérêt public d' 1,7 million d'euros. La SEMIVIM et la commune de Martigues seront également indemnisées. Ces condamnations font suite à une enquête pour corruption débutée en octobre 2021, au sein du bailleur social de la ville de Martigues.",
+    "url": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/trois-entreprises-condamnees-a-verser-1-7-m-eur-d-amendes-pour-corruption-au-sein-du-bailleur-social-de-martigues-la-semivim-2900138.html",
+    "date": "2024-01-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1630,
+        "value": "Gaby Charroux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 313,
+        "value": "Société d'Economie Mixte Immobilière de la Ville de Martigues (SEMIVIM)"
+      },
+      {
+        "id": 314,
+        "value": "Omnium développement"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
+    "id": 1708,
+    "titre": "« Gaël Perdriau a décidé du kompromat » : le maire de Saint-Étienne lâché par son dernier fidèle",
+    "contenu": "Pièce maîtresse de l’opération de chantage à la sextape, l’ex-directeur de cabinet de Gaël Perdriau vient de faire des déclarations retentissantes aux juges chargés de l’enquête. Pierre Gauttieri a écopé d’une nouvelle mise en examen pour « association de malfaiteurs ».",
+    "url": "https://www.mediapart.fr/journal/france/030124/gael-perdriau-decide-du-kompromat-le-maire-de-saint-etienne-lache-par-son-dernier-fidele",
+    "date": "2024-01-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151856,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1566,
+        "value": "Gaël Perdriau"
+      },
+      {
+        "id": 1636,
+        "value": "Pierre Gauttieri"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1709,
+    "titre": "\"L'ancien maire utilisait aussi la carte essence sans justification\"... Les nouveaux élus de Saint-Jory alertent le procureur",
+    "contenu": "La nouvelle équipe municipale de Saint-Jory alerte le procureur de la République sur d'étonnantes découvertes faites dans le bureau de l'ancien maire mis en examen pour corruption passive.",
+    "url": "https://www.ladepeche.fr/2024/01/03/lancien-maire-utilisait-aussi-la-carte-essence-sans-justification-les-nouveaux-elus-de-saint-jory-alertent-le-procureur-11675684.php",
+    "date": "2024-01-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151845,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1231,
+        "value": "Thierry Fourcassier"
+      },
+      {
+        "id": 1638,
+        "value": "Victor Denouvion"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1702,
     "titre": "Philippe Latombe, député macroniste et VRP de la surveillance",
     "contenu": "Élu MoDem depuis 2017, Philippe Latombe est devenu un spécialiste des questions technologiques à l'Assemblée nationale. Mais sa proximité avec les lobbies de la surveillance, avec qui il fait des bouffes ou soirées mondaines, est fortement critiquée.",
@@ -162,6 +370,10 @@
       {
         "id": 1151970,
         "value": "75 - Paris"
+      },
+      {
+        "id": 1226729,
+        "value": "Qatar"
       }
     ],
     "personnalites": [
@@ -1186,6 +1398,10 @@
       {
         "id": 1151970,
         "value": "75 - Paris"
+      },
+      {
+        "id": 1226729,
+        "value": "Qatar"
       }
     ],
     "personnalites": [
@@ -1338,7 +1554,7 @@
       },
       {
         "id": 151,
-        "value": "Dassault"
+        "value": "Dassault Aviation"
       },
       {
         "id": 185,
@@ -1968,6 +2184,10 @@
       {
         "id": 1226713,
         "value": "Belgique"
+      },
+      {
+        "id": 1226729,
+        "value": "Qatar"
       }
     ],
     "personnalites": [
@@ -2095,7 +2315,7 @@
     "personnes_morales": [
       {
         "id": 151,
-        "value": "Dassault"
+        "value": "Dassault Aviation"
       },
       {
         "id": 152,
@@ -2203,7 +2423,7 @@
     "personnes_morales": [
       {
         "id": 40,
-        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales"
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
       },
       {
         "id": 146,
@@ -3585,21 +3805,40 @@
     "url": "https://www.liberation.fr/politique/dans-les-cabinets-ministeriels-du-macronisme-le-grand-appel-dair-du-secteur-prive-20231204_6RNUHTQ7UJGSXOEMKKTDES6SMI/",
     "date": "2023-12-04",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
+      {
+        "id": 1359,
+        "value": "Justine Soussan"
+      },
       {
         "id": 1620,
         "value": "Franck Riester"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 55,
+        "value": "Groupe Barrière"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
         "value": "Observatoire des pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1226714,
+        "value": "Jeux d'argent"
+      }
+    ],
     "procedure": []
   },
   {
@@ -3718,9 +3957,36 @@
     "url": "https://www.liberation.fr/politique/dans-les-cabinets-ministeriels-du-macronisme-le-grand-appel-dair-du-secteur-prive-20231204_6RNUHTQ7UJGSXOEMKKTDES6SMI/",
     "date": "2023-12-04",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1151721,
+        "value": "27 - Eure"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1304,
+        "value": "Sébastien Lecornu"
+      },
+      {
+        "id": 1360,
+        "value": "Ziad Gebran"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 121,
+        "value": "Axa"
+      },
+      {
+        "id": 127,
+        "value": "Ministère des armées"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -6074,9 +6340,19 @@
     "url": "https://www.liberation.fr/environnement/comment-le-lobby-automobile-a-enfume-leurope-sur-les-normes-anti-pollution-des-voitures-20231107_VROAW4FKQFEJHKGAZRBO4NRR6I/",
     "date": "2023-11-07",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -6098,9 +6374,19 @@
     "url": "https://multinationales.org/fr/enquetes/du-sang-sur-le-pacte-vert/du-sang-sur-le-green-deal-comment-l-ue-sous-pretexte-d-action-climatique-s-est",
     "date": "2023-11-07",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 310,
+        "value": "Corporate Europe Observatory"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -6909,7 +7195,7 @@
       },
       {
         "id": 40,
-        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales"
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
       },
       {
         "id": 90,
@@ -8611,9 +8897,28 @@
     "url": "https://www.lesechos.fr/finance-marches/banque-assurances/banque-le-depart-du-regulateur-europeen-suscite-des-questions-1130693",
     "date": "2023-09-11",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1251,
+        "value": "Adam Farkas"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 58,
+        "value": "Autorité Bancaire Européenne (ABE)"
+      },
+      {
+        "id": 311,
+        "value": "Association for Financial Markets in Europe"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -10492,7 +10797,16 @@
     "url": "https://www.mediapart.fr/journal/international/200723/rdc-les-virements-suspects-de-perenco-au-premier-cercle-du-president-kabila",
     "date": "2023-07-20",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1226727,
+        "value": "République du Congo"
+      }
+    ],
     "personnalites": [
       {
         "id": 1482,
@@ -11005,9 +11319,26 @@
       {
         "id": 1151970,
         "value": "75 - Paris"
+      },
+      {
+        "id": 1226728,
+        "value": "Émirats arabes unis"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1624,
+        "value": "Louis de Raguenel"
+      },
+      {
+        "id": 1625,
+        "value": "Ian Hamel"
+      },
+      {
+        "id": 1626,
+        "value": "Mario Brero"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 233,
@@ -12552,7 +12883,7 @@
       },
       {
         "id": 40,
-        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales"
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
       }
     ],
     "categorie": [
@@ -13901,18 +14232,33 @@
     "contenu": "Le 29 novembre, l’ancien maire de Coulogne, Alain Fauquet, ainsi que l’ancien DGS et ex-chef de la comptabilité avaient été entendus par la justice pour détournement de fonds. Le tribunal de Boulogne a rendu son délibéré ce mardi.",
     "url": "https://www.lavoixdunord.fr/1279707/article/2023-01-17/heures-supplementaires-fictives-coulogne-l-ensemble-des-prevenus-dont-l-ancien",
     "date": "2023-01-17",
-    "etiquettes": "62 – Pas-de-Calais,Alain Fauquet",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151960,
         "value": "62 - Pas-de-Calais"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1621,
+        "value": "Alain Fauquet"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
   },
   {
     "id": 1225,
@@ -14002,11 +14348,26 @@
     "contenu": "Le parquet national financier (PNF) publie lundi de nouvelles lignes directrices sur les négociations de la convention judiciaire d'intérêt public (Cjip), pour plus de « prévisibilité et de sécurité juridique » en incitant les entreprises à se dénoncer. Ce guide, mis en ligne sur le site du parquet, est une « mise à jour » des lignes directrices datant de juin 2019, en tenant compte de « l'expérience des Cjip conclues et exécutées au cours des cinq dernières années » pour les entreprises soupçonnées de corruption, de trafic d'influence, de fraude fiscale et de leur blanchiment.",
     "url": "https://www.lefigaro.fr/flash-eco/amendes-pour-les-entreprises-le-pnf-publie-de-nouvelles-lignes-directrices-pour-les-cjip-20230116",
     "date": "2023-01-16",
-    "etiquettes": "Parquet National Financier",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -14016,18 +14377,33 @@
     "contenu": "Roger Granier a été condamné à 12 mois de prison avec sursis et 20000€ d'amende. Ses fils Luc et Alexis ont également été reconnus coupables.",
     "url": "https://www.midilibre.fr/2023/01/16/herault-lancien-maire-de-rouet-reconnu-coupable-de-prise-illegale-dinteret-10930182.php",
     "date": "2023-01-16",
-    "etiquettes": "34 – Hérault,Roger Granier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151848,
         "value": "34 - Hérault"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1622,
+        "value": "Roger Granier"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1223,
@@ -14035,18 +14411,38 @@
     "contenu": "Depuis plus de 18 ans, la mère d’Éric Ciotti occupe une place dans un hôpital de la vallée de la Vésubie pourtant réservé à des soins de courte durée. Conséquence : la prise en charge est entièrement assumée par la Sécurité sociale, avec au moins 500 000 euros d’économies à la clé pour la famille Ciotti.",
     "url": "https://www.mediapart.fr/journal/france/160123/les-folles-economies-de-la-famille-ciotti-au-detriment-de-la-securite-sociale?utm_source=global&amp;utm_medium=social&amp;utm_campaign=SharingApp&amp;xtor=CS3-5",
     "date": "2023-01-16",
-    "etiquettes": "06 – Alpes Maritimes,Éric Ciotti,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151604,
         "value": "06 - Alpes-Maritimes"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 144,
+        "value": "Éric Ciotti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
   },
   {
     "id": 1221,
@@ -14054,11 +14450,35 @@
     "contenu": "Deux eurodéputés ont avoué avoir voyagé au Qatar aux frais de l’émirat, sans l’avoir déclaré, contrevenant ainsi à leur obligation d’élus européens. L’avocat de l’élu socialiste belge Marc Tarabella a en effet reconnu, dimanche 15 janvier, que ce dernier avait omis de déclarer un voyage effectué au Qatar en février 2020, quelques jours après que sa compatriote Marie Arena a fait état d’un « oubli » similaire.",
     "url": "https://www.lemonde.fr/international/article/2023/01/15/qatargate-deux-eurodeputes-reconnaissent-ne-pas-avoir-declare-des-voyages-au-qatar-payes-par-l-emirat_6157970_3210.html",
     "date": "2023-01-15",
-    "etiquettes": "Marc Tarabella,Marie Arena,Parlement Européen",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1562,
+        "value": "Marc Tarabella"
+      },
+      {
+        "id": 1623,
+        "value": "Marie Arena"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -14068,16 +14488,47 @@
     "contenu": "Début décembre 2022, des policiers d’Ajaccio et de l’Office central de lutte contre la corruption et les infractions financières et fiscales ont perquisitionné plusieurs domiciles d’Hélène Gerhards, conseillère à la cour d’appel d’Agen dans le cadre d’une enquête préliminaire ouverte, le 25 janvier 2021, sur fond de lutte contre le crime organisé insulaire.\nLes investigations portent sur des soupçons de « corruption », de « blanchiment de fraude fiscale », de « trafic d’influence », de « recours en bande organisée au travail dissimulé » et d’« association de malfaiteurs ». La justice cherche à savoir si cette magistrate, juge d’instruction en Corse de 2010 à 2016, puis vice-procureure à Toulouse avant de rejoindre, en 2021, la cour d’appel d’Agen, a pu apporter son aide à la mafia corse. Un doute qui jette un voile sur les décisions prises dans le cadre de ses fonctions. Pour l’heure, elle n’est, cependant, visée par aucune poursuite et n’a pas été entendue.",
     "url": "https://www.francetvinfo.fr/faits-divers/lot-et-garonne-des-perquisitions-menees-chez-une-magistrate-pour-ses-liens-avec-un-homme-considere-comme-proche-du-banditisme-corse_5596424.html",
     "date": "2023-01-13",
-    "etiquettes": "2A – Corse-du-Sud,47 - Lot-et-Garonne,Gazélec Football Club Ajaccio,Hélène Gerhards,Johann Carta,Office central de lutte contre la corruption et les infractions financières et fiscales",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151842,
         "value": "2A - Corse-du-Sud"
+      },
+      {
+        "id": 1151949,
+        "value": "47 - Lot-et-Garonne"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1627,
+        "value": "Hélène Gerhards"
+      },
+      {
+        "id": 1628,
+        "value": "Johann Carta"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 40,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 103,
+        "value": "Gang du Petit Bar"
+      },
+      {
+        "id": 312,
+        "value": "Gazélec Football Club Ajaccio"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -14087,16 +14538,31 @@
     "contenu": "L’hôtel de ville de La-Seyne-sur-Mer dans le Var, et le domicile du maire, ont des perquisitions ce jeudi 12 janvier. Les enquêteurs y sont venus pour des vérifications sur les conditions dans lesquelles la maire a obtenu un permis de construire.",
     "url": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/seyne-mer/la-mairie-de-la-seyne-sur-mer-et-le-domicile-de-la-maire-perquisitionnes-2692754.html",
     "date": "2023-01-13",
-    "etiquettes": "83 - Var,Les Républicains,Nathalie Bicais",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151980,
         "value": "83 - Var"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1629,
+        "value": "Nathalie Bicais"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -14106,10 +14572,15 @@
     "contenu": "En raison du scandale de corruption du Qatargate, les « groupes d’amitié » entre eurodéputés et pays tiers seront désormais interdits dans le cadre d’un nouveau projet visant à améliorer la transparence du Parlement européen. Il existe actuellement des dizaines de groupes d’amitié et autres groupes de travail politiques sans statut officiel au sein du Parlement. Leurs activités sont souvent financées par des lobbyistes ou des gouvernements étrangers.",
     "url": "https://www.euractiv.fr/section/affaires-publiques/news/les-groupes-damitie-entre-eurodeputes-et-pays-tiers-seront-interdits/",
     "date": "2023-01-13",
-    "etiquettes": "Parlement Européen",
+    "etiquettes": "",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -14120,11 +14591,34 @@
     "contenu": "Malgré un rapport d’inspection accablant sur l’avionneur Dassault mené par l’Agence française anticorruption, qui pointe cinq violations de la loi et des indices de corruption en Inde, l’agence n’a proposé aucune sanction et n’a pas alerté la justice.\nAu-delà du respect des procédures, l’AFA a identifié plusieurs opérations suspectes avec l’intermédiaire qui a aidé le groupe a décrocher le méga-contrat à 7,8 milliards d’euros des Rafale vendus à l’Inde. Il y a l’achat de maquettes de Rafale pour un million d’euros, déjà révélé par Mediapart. Mais aussi des paiements contraires aux règles de l’avionneur, des rapports d’activité douteux, ainsi qu’un contrat avec une société offshore basée à Dubaï. Autant d’indices d’une possible corruption.",
     "url": "https://www.mediapart.fr/journal/international/130123/rafale-papers-l-agence-francaise-anticorruption-couvert-dassault",
     "date": "2023-01-13",
-    "etiquettes": "Agence Française Anticorruption,Dassault",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1226791,
+        "value": "Inde"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 84,
+        "value": "Agence française anticorruption (AFA)"
+      },
+      {
+        "id": 151,
+        "value": "Dassault Aviation"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -16210,7 +16704,16 @@
     "url": "https://www.mediapart.fr/journal/france/211122/un-magistrat-ordonne-la-censure-prealable-d-une-enquete-de-mediapart",
     "date": "2022-11-21",
     "etiquettes": "Gaël Perdriau,Laurent Wauquiez,Mediapart",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151856,
+        "value": "42 - Loire"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
@@ -19228,7 +19731,12 @@
     "url": "https://www.mediapart.fr/journal/france/120922/sextape-de-saint-etienne-des-enregistrements-du-maire-prouvent-un-chantage-mafieux",
     "date": "2022-09-12",
     "etiquettes": "Gaël Perdriau,Gilles Artigues,Les Républicains,Pierre Gauttieri,Samy Kéfi-Jérôme",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151856,
+        "value": "42 - Loire"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
@@ -23620,6 +24128,25 @@
     "procedure": []
   },
   {
+    "id": 721,
+    "titre": "Affaire de la Semivim : perquisitions chez la directrice et deux élus de Martigues",
+    "contenu": "Corinne Dupont, directrice du bailleur social, de même que Linda Bouchicha et Mehdi Khouani, tous deux élus municipaux de la majorité municipale martégale et administrateurs de la société jusqu’à récemment, ont été entendus par les enquêteurs de la police judiciaire.",
+    "url": "https://marsactu.fr/bref/affaire-de-la-semivim-perquisitions-chez-la-directrice-et-deux-elus-de-martigues/",
+    "date": "2022-03-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1553,
     "titre": "Audrey Bourolleau",
     "contenu": "Elle a travaillé pour la société Baron Philippe de Rotschild, France Boissons, l’Union des Côtes de Bordeaux et enfin Vin & Société, l’organisation de lobbying de la filière viticole dont elle a été la déléguée générale entre 2012 et 2017. Emmanuel Macron l’a ensuite nommée comme conseillère « agriculture, pêche, forêt et développement rural » dans son cabinet. En décembre 2019, elle fait l’acquisition d’un domaine agricole dans les Yvelines où elle fonde Hectar, une école d’agriculture gratuite, financée Xavier Niel. En 2022, en tant que candidat, Emmanuel Macron lui confie la gestion de son groupe de campagne consacré aux questions d’agriculture et d’alimentation. Loin de se déporter des sujets liés à l’alcool, la conseillère du président apparaît, dans plusieurs documents révélés par Le Monde, comme une facilitatrice du lobby alcoolier à l’Elysée.",
@@ -23954,6 +24481,30 @@
         "value": "Observatoire des pantouflages"
       }
     ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 634,
+    "titre": "Affaire Semivim : le maire de Martigues entendu par la justice",
+    "contenu": "Le maire communiste de Martigues, Gaby Charroux à été entendu durant trois heures par le juge d’instruction Fabrice Naudé, chargé de l’affaire Semivim.",
+    "url": "https://marsactu.fr/bref/affaire-semivim-le-maire-de-martigues-entendu-par-la-justice/",
+    "date": "2022-01-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1630,
+        "value": "Gaby Charroux"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [],
     "theme": [],
     "procedure": []
   },
@@ -31888,6 +32439,40 @@
     "procedure": []
   },
   {
+    "id": 1704,
+    "titre": "Petit Bar : Johann Carta, « le financier » de la bande mafieuse, visé par la justice",
+    "contenu": "Une information judiciaire a été ouverte, en 2020, sur les activités de cet homme de 47 ans, spécialisé dans les affaires immobilières et agent de joueurs.",
+    "url": "https://www.lemonde.fr/societe/article/2021/04/14/en-corse-le-financier-du-petit-bar-vise-par-la-justice_6076734_3224.html",
+    "date": "2021-04-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151842,
+        "value": "2A - Corse-du-Sud"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1628,
+        "value": "Johann Carta"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 103,
+        "value": "Gang du Petit Bar"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 148,
     "titre": "Violences du 1er mai 2018 : Alexandre Benalla et trois autres personnes renvoyés devant le tribunal correctionnel",
     "contenu": "Un peu moins de trois ans après l’ouverture d’une enquête préliminaire visant Alexandre Benalla pour ses interventions musclées, vêtu en policier, lors des manifestations du 1<sup>er</sup> Mai, à Paris, en 2018, la juge d’instruction Carine Rosso a décidé de renvoyer devant le tribunal l’ancien chargé de mission d’Emmanuel Macron à l’Elysée. Deux policiers et l’ancien réserviste de la gendarmerie Vincent Crase, qui avait suivi Alexandre Benalla à la présidence de la République, comparaîtront à ses côtés du 13 au 30 septembre. Alexandre Benalla, reconverti aujourd’hui dans la sécurité privée, sera jugé pour « violences volontaires », « immixtion sans titre dans l’exercice d’une fonction publique » ou encore « port d’arme » ou « port public d’insigne » non autorisé.",
@@ -35070,6 +35655,20 @@
     "procedure": []
   },
   {
+    "id": 1706,
+    "titre": "",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 674,
     "titre": "Accusation d'emploi fictif pour Fabien Roussel : le PNF «n'envisage aucune communication»",
     "contenu": "",
@@ -35140,20 +35739,6 @@
     "procedure": []
   },
   {
-    "id": 721,
-    "titre": "Affaire de la Semivim : perquisitions chez la directrice et deux élus de Martigues",
-    "contenu": "",
-    "url": "https://marsactu.fr/bref/affaire-de-la-semivim-perquisitions-chez-la-directrice-et-deux-elus-de-martigues/",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 701,
     "titre": "Affaire des heures sup' à Marseille : Gaudin et ses proches vont plaider coupable",
     "contenu": "",
@@ -35200,20 +35785,6 @@
     "titre": "Affaire McKinsey, harcèlement au PNF… Jean-François Bohnert, un procureur trop tranquille",
     "contenu": "",
     "url": "https://www.lemonde.fr/m-le-mag/article/2022/04/15/affaire-mckinsey-harcelement-au-pnf-jean-francois-bohnert-un-procureur-trop-tranquille_6122236_4500055.html",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 634,
-    "titre": "Affaire Semivim : le maire de Martigues entendu par la justice",
-    "contenu": "",
-    "url": "https://marsactu.fr/bref/affaire-semivim-le-maire-de-martigues-entendu-par-la-justice/",
     "date": null,
     "etiquettes": "",
     "departement": [],
