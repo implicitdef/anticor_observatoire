@@ -1,48 +1,5 @@
 [
   {
-    "id": 1700,
-    "titre": "Transfert de Neymar : le PSG a-t-il téléguidé un vice-président de l’Assemblée pour alléger sa facture fiscale ?",
-    "contenu": "Au détour de l’enquête sur la «cellule secrète» du PSG et le rôle de son directeur de la communication, Jean-Martial Ribes, la justice s’intéresse désormais au transfert de la star brésilienne en 2017. Fort de son influence auprès du député Hugues Renson, le cadre du club parisien aurait réclamé des faveurs fiscales au sommet de l’Etat pour boucler l’arrivée du joueur.",
-    "url": "https://www.liberation.fr/societe/police-justice/transfert-de-neymar-le-psg-a-t-il-teleguide-un-vice-president-de-lassemblee-pour-alleger-sa-facture-fiscale-20240102_EJBRUEFJRFEOTI4KSBAD6UZDKU/",
-    "date": "2024-02-02",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 1151970,
-        "value": "75 - Paris"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 1443,
-        "value": "Jean-Martial Ribes"
-      },
-      {
-        "id": 1607,
-        "value": "Neymar da Silva Santos Júnior"
-      }
-    ],
-    "personnes_morales": [
-      {
-        "id": 177,
-        "value": "Paris Saint Germain (PSG)"
-      }
-    ],
-    "categorie": [
-      {
-        "id": 1152014,
-        "value": "Actualité"
-      }
-    ],
-    "theme": [
-      {
-        "id": 1152020,
-        "value": "Évasion / fraude fiscale"
-      }
-    ],
-    "procedure": []
-  },
-  {
     "id": 1702,
     "titre": "Philippe Latombe, député macroniste et VRP de la surveillance",
     "contenu": "Élu MoDem depuis 2017, Philippe Latombe est devenu un spécialiste des questions technologiques à l'Assemblée nationale. Mais sa proximité avec les lobbies de la surveillance, avec qui il fait des bouffes ou soirées mondaines, est fortement critiquée.",
@@ -85,6 +42,111 @@
       {
         "id": 1152015,
         "value": "Lobbying / influence"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1703,
+    "titre": "Propriété intellectuelle : l’agence européenne hors de contrôle",
+    "contenu": "Gestion opaque du budget, gouvernance défaillante, conflits d’intérêts, recrutements contestés : l’Office européen pour la propriété intellectuelle, qui brasse des centaines de millions d’euros, essuie bien des critiques. À tel point que des plaintes ont été adressées à l’Office européen de lutte antifraude.",
+    "url": "https://www.mediapart.fr/journal/international/020124/propriete-intellectuelle-l-agence-europeenne-hors-de-controle",
+    "date": "2024-01-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1226712,
+        "value": "Espagne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1614,
+        "value": "João Negrão"
+      },
+      {
+        "id": 1615,
+        "value": "Étienne Sanz De Acedo"
+      },
+      {
+        "id": 1616,
+        "value": "Sandris Laganovskis"
+      },
+      {
+        "id": 1617,
+        "value": "Edyta Demby-Siwek"
+      },
+      {
+        "id": 1618,
+        "value": "António Campinos"
+      },
+      {
+        "id": 1619,
+        "value": "Christian Archambeau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 307,
+        "value": "Office de l'Union européenne pour la propriété intellectuelle (EUIPO)"
+      },
+      {
+        "id": 308,
+        "value": "Office européen de lutte antifraude (OLAF)"
+      },
+      {
+        "id": 309,
+        "value": "Office européen des brevets (OEB)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1700,
+    "titre": "Transfert de Neymar : le PSG a-t-il téléguidé un vice-président de l’Assemblée pour alléger sa facture fiscale ?",
+    "contenu": "Au détour de l’enquête sur la «cellule secrète» du PSG et le rôle de son directeur de la communication, Jean-Martial Ribes, la justice s’intéresse désormais au transfert de la star brésilienne en 2017. Fort de son influence auprès du député Hugues Renson, le cadre du club parisien aurait réclamé des faveurs fiscales au sommet de l’Etat pour boucler l’arrivée du joueur.",
+    "url": "https://www.liberation.fr/societe/police-justice/transfert-de-neymar-le-psg-a-t-il-teleguide-un-vice-president-de-lassemblee-pour-alleger-sa-facture-fiscale-20240102_EJBRUEFJRFEOTI4KSBAD6UZDKU/",
+    "date": "2024-01-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1443,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 1607,
+        "value": "Neymar da Silva Santos Júnior"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
       }
     ],
     "procedure": []
@@ -1253,7 +1315,12 @@
     "url": "https://www.mediapart.fr/journal/international/181223/entre-les-marchands-d-armes-et-l-europe-l-idylle-s-intensifie",
     "date": "2023-12-18",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      }
+    ],
     "personnalites": [
       {
         "id": 1454,
@@ -1897,7 +1964,12 @@
     "url": "https://www.mediapart.fr/journal/international/141223/qatargate-l-eurodeputee-eva-kaili-aide-des-armateurs-grecs-eviter-les-sanctions-russes",
     "date": "2023-12-14",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      }
+    ],
     "personnalites": [
       {
         "id": 1331,
@@ -2046,7 +2118,16 @@
     "url": "https://france3-regions.francetvinfo.fr/corse/justice-accuse-de-favoritisme-francois-alfonsi-relaxe-par-le-tribunal-correctionnel-de-bastia-2889473.html",
     "date": "2023-12-13",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151842,
+        "value": "2A - Corse-du-Sud"
+      },
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      }
+    ],
     "personnalites": [
       {
         "id": 1271,
@@ -2150,7 +2231,12 @@
     "url": "https://www.lemonde.fr/les-decodeurs/article/2023/12/13/la-transparence-au-rabais-de-la-france-sur-l-argent-du-plan-de-relance-europeen_6205617_4355770.html",
     "date": "2023-12-13",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [
       {
@@ -2601,7 +2687,16 @@
     "url": "https://www.francetvinfo.fr/politique/front-national/affaire-des-assistants-du-fn-au-parlement-europeen-marine-le-pen-et-une-vingtaine-d-autres-personnes-renvoyees-en-correctionnel-pour-detournement-de-fonds-publics_6230829.html",
     "date": "2023-12-08",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 335,
@@ -2734,7 +2829,12 @@
     "url": "https://www.lemonde.fr/politique/article/2023/12/08/le-discret-flirt-entre-le-rassemblement-national-et-les-lobbys_6204574_823448.html",
     "date": "2023-12-08",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [
       {
@@ -2844,7 +2944,12 @@
     "url": "https://www.mediapart.fr/journal/international/081223/qatargate-apres-les-800-000-euros-en-cash-les-sms-compromettants-d-eva-kaili",
     "date": "2023-12-08",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      }
+    ],
     "personnalites": [
       {
         "id": 1331,
@@ -3481,7 +3586,12 @@
     "date": "2023-12-04",
     "etiquettes": "",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1620,
+        "value": "Franck Riester"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
