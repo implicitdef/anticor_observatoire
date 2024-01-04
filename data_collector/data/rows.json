@@ -1,5 +1,34 @@
 [
   {
+    "id": 1710,
+    "titre": "Quand le ministre Darmanin se faisait conseiller fiscal du PSG au détriment du Trésor public",
+    "contenu": "Mediapart révèle qu’à l’été 2017, le ministre des comptes publics Gérald Darmanin et son directeur de cabinet ont aidé le PSG à ne pas payer des dizaines de millions d’euros de taxes sur le transfert de la star brésilienne Neymar, contre la jurisprudence de l’administration.",
+    "url": "https://www.mediapart.fr/journal/france/040124/quand-le-ministre-darmanin-se-faisait-conseiller-fiscal-du-psg-au-detriment-du-tresor-public",
+    "date": "2024-01-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": []
+  },
+  {
     "id": 1707,
     "titre": "Six dirigeants de premier plan du sport français visés par des signalements pour parjure",
     "contenu": "Les présidents des fédérations nationales de tennis, d’équitation et des sports de glace, ainsi que le directeur juridique de celle de football, l’ex-patron du judo français et le directeur général de l’Insep sont soupçonnés de déclarations erronées devant une commission d’enquête parlementaire.",
