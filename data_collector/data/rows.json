@@ -1,5 +1,24 @@
 [
   {
+    "id": 1712,
+    "titre": "Deux agences de communication du RN désavouées en appel pour leurs factures de campagne",
+    "contenu": "Le Rassemblement national exigeait le remboursement par l'État de factures émises par e-Politic et Kon Tiki Conseil, deux sociétés de communication mobilisées par Jordan Bardella pour la campagne des européennes de 2019. La cour administrative d'appel de Paris a confirmé que ces dépenses étaient excessives et injustifiées.",
+    "url": "https://www.lalettre.fr/fr/action-publique_partis-et-elections/2024/01/04/deux-agences-de-com--du-rn-desavouees-en-appel-pour-leurs-factures-de-campagne,110134620-art",
+    "date": "2024-01-04",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1710,
     "titre": "Quand le ministre Darmanin se faisait conseiller fiscal du PSG au détriment du Trésor public",
     "contenu": "Mediapart révèle qu’à l’été 2017, le ministre des comptes publics Gérald Darmanin et son directeur de cabinet ont aidé le PSG à ne pas payer des dizaines de millions d’euros de taxes sur le transfert de la star brésilienne Neymar, contre la jurisprudence de l’administration.",
@@ -12,8 +31,22 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1388,
+        "value": "Gérald Darmanin"
+      },
+      {
+        "id": 1607,
+        "value": "Neymar da Silva Santos Júnior"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -169,6 +202,61 @@
         "value": "Condamnation"
       }
     ]
+  },
+  {
+    "id": 1711,
+    "titre": "Un vice-président de l’Assemblée était au service du PSG",
+    "contenu": "Il a toujours voulu travailler pour le club parisien, et a multiplié les offres de service. Faute de mieux, c’est comme député macroniste qu’Hugues Renson s’est démené tous azimuts pour le PSG. Les invitations au Parc des Princes qu’il a reçues simultanément pourraient constituer un pacte de corruption aux yeux de la justice.",
+    "url": "https://www.mediapart.fr/journal/france/040124/un-vice-president-de-l-assemblee-etait-au-service-du-psg",
+    "date": "2024-01-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1443,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 1597,
+        "value": "Nasser al-Khelaïfi"
+      },
+      {
+        "id": 1646,
+        "value": "Hugues Renson"
+      },
+      {
+        "id": 1647,
+        "value": "Bruno Roger-Petit"
+      },
+      {
+        "id": 1648,
+        "value": "Roland Lescure"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
+    "procedure": []
   },
   {
     "id": 1708,
@@ -7473,13 +7561,32 @@
   {
     "id": 1477,
     "titre": "Arabelle Chambre‐Foa rejoint Vinci",
-    "contenu": "Arabelle Chambre‐Foa, ex-conseillère de Gérard Collomb, se fait embaucher chez les sapeurs‐pompiers juste après les élections de 2020, puis part quelques mois plus tard pour le groupe Vinci",
+    "contenu": "Arabelle Chambre‐Foa, ex-conseillère de Gérard Collomb, se fait embaucher chez les sapeurs‐pompiers juste après les élections de 2020, puis part quelques mois plus tard pour le groupe Vinci.",
     "url": "https://www.mediacites.fr/breve/lyon/2023/10/16/le-pantouflage-chez-vinci-de-lancienne-bras-droit-de-gerard-collomb-epinglee-par-les-magistrats-financiers/",
     "date": "2023-10-17",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1312,
+        "value": "Arabelle Chambre-Foa"
+      },
+      {
+        "id": 1313,
+        "value": "Gérard Collomb"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 100,
+        "value": "Vinci"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -8710,16 +8817,44 @@
     "url": "https://www.lalettrea.fr/entreprises_defense-et-aeronautique/2023/09/18/thales-dms-trouve-sa-nouvelle-dircom--a-la-dga,110054115-bre",
     "date": "2023-09-18",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151976,
+        "value": "78 - Yvelines"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1247,
+        "value": "Aude Le Dars"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 54,
+        "value": "Direction générale de l'armement (DGA)"
+      },
+      {
+        "id": 323,
+        "value": "Thales DMS"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
         "value": "Observatoire des pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1205870,
+        "value": "Armement"
+      }
+    ],
     "procedure": []
   },
   {
@@ -9271,7 +9406,12 @@
     "url": "https://www.lemonde.fr/les-decodeurs/article/2023/09/01/transparence-financiere-la-france-menacee-par-une-procedure-d-infraction-europeenne_6187451_4355770.html",
     "date": "2023-09-01",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 1196,
@@ -14593,7 +14733,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1220,
@@ -14602,7 +14747,12 @@
     "url": "https://www.euractiv.fr/section/affaires-publiques/news/les-groupes-damitie-entre-eurodeputes-et-pays-tiers-seront-interdits/",
     "date": "2023-01-13",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [
       {
@@ -14610,7 +14760,12 @@
         "value": "Parlement Européen"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -14664,11 +14819,26 @@
         "value": "971 - Guadeloupe"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1644,
+        "value": "Cédric Cornet"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
+      }
+    ]
   },
   {
     "id": 1218,
@@ -14677,12 +14847,45 @@
     "url": "https://www.lalsace.fr/faits-divers-justice/2023/01/12/missions-de-conseil-de-rottner-depot-de-plainte-aupres-du-pnf",
     "date": "2023-01-12",
     "etiquettes": "AC Anti-Corruption,Jean Rottner,Parquet National Financier",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1225,
+        "value": "Jean Rottner"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 170,
+        "value": "AC !! Anti-Corruption"
+      },
+      {
+        "id": 325,
+        "value": "Réalités"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
+      }
+    ]
   },
   {
     "id": 1213,
@@ -14691,7 +14894,16 @@
     "url": "https://www.liberation.fr/international/derriere-orion-oil-la-disparition-organisee-de-largent-du-petrole-congolais-20230111_WJZFMFIDN5BHRICOUDVVEUSAQQ/",
     "date": "2023-01-11",
     "etiquettes": "­Dominique Strauss-Kahn,Cédric Lewandowski,Havas,Lucien Ebata,Manuel Valls,Stéphane Fouks",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151989,
+        "value": "95 - Val-d'Oise"
+      },
+      {
+        "id": 1226727,
+        "value": "République du Congo"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
@@ -14705,10 +14917,34 @@
     "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/groupe-hospitalier-mutualiste-de-grenoble-bernard-bensaid-mis-en-examen-et-place-sous-controle-judiciaire-2691866.html",
     "date": "2023-01-11",
     "etiquettes": "Avec,Bernard Bensaid,Groupe Hospitalier Mutualiste de Grenoble",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151852,
+        "value": "38 - Isère"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1645,
+        "value": "Bernard Bensaid"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 327,
+        "value": "Groupe hospitalier mutualiste de Grenoble (GHM)"
+      },
+      {
+        "id": 328,
+        "value": "Avec (ex Doctegestio)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -14719,10 +14955,29 @@
     "url": "https://www.lalettrea.fr/action-publique_executif/2023/01/11/le-pnf-a-auditionne-helene-carrere-d-encausse-dans-une-enquete-visant-xavier-darcos,109880909-gra",
     "date": "2023-01-11",
     "etiquettes": "David Teillet,Hélène Carrère d&#039;Encausse,Institut de France,Parquet National Financier,Xavier Darcos",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 326,
+        "value": "Institut de France"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -14752,7 +15007,16 @@
     "url": "https://www.mediapart.fr/journal/international/110123/macron-recoit-un-ex-premier-ministre-candidat-la-presidence-tcheque-accuse-de-fraude-fiscale",
     "date": "2023-01-11",
     "etiquettes": "Andrej Babiš,Élysée,Emmanuel Macron",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1227573,
+        "value": "République Tchèque"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
@@ -14766,7 +15030,16 @@
     "url": "https://www.mediapart.fr/journal/international/110123/nicolas-sarkozy-les-louanges-poutine-et-la-piste-de-l-argent-du-kremlin?userid=21ca08a3-94df-4cfa-870d-f3d3a159e7d1",
     "date": "2023-01-11",
     "etiquettes": "Les Républicains,Nicolas Sarkozy,Russia Direct Investment Fund,Suleyman Kerimov,Vladimir Poutine",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1227572,
+        "value": "Russie"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
