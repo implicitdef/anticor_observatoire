@@ -1,14 +1,88 @@
 [
   {
+    "id": 1715,
+    "titre": "SMTVD : 2 ans de prison avec sursis requis contre l'ex-président soupçonné de détournement de fonds publics",
+    "contenu": "Reporté à plusieurs reprises, le procès pour détournement de fonds publics au Syndicat mixte de traitement et de valorisation des déchets (SMTVD) s'est ouvert ce lundi 18 décembre au tribunal correctionnel de Fort-de-France. Dans les rangs des prévenus, l'ancien président et maire du Macouba, Sainte-Rose Cakin.",
+    "url": "https://viaatv.tv/smtvd-2-ans-de-prison-avec-sursis-requis-contre-lex-president-soupconne-de-detournement-de-fonds/",
+    "date": "2024-12-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151991,
+        "value": "972 - Martinique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1652,
+        "value": "Sainte-Rose Cakin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 336,
+        "value": "Syndicat mixte de traitement et de valorisation des déchets (SMTVD)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
     "id": 1712,
     "titre": "Deux agences de communication du RN désavouées en appel pour leurs factures de campagne",
     "contenu": "Le Rassemblement national exigeait le remboursement par l'État de factures émises par e-Politic et Kon Tiki Conseil, deux sociétés de communication mobilisées par Jordan Bardella pour la campagne des européennes de 2019. La cour administrative d'appel de Paris a confirmé que ces dépenses étaient excessives et injustifiées.",
     "url": "https://www.lalettre.fr/fr/action-publique_partis-et-elections/2024/01/04/deux-agences-de-com--du-rn-desavouees-en-appel-pour-leurs-factures-de-campagne,110134620-art",
     "date": "2024-01-04",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1429,
+        "value": "Frédéric Chatillon"
+      },
+      {
+        "id": 1430,
+        "value": "Axel Loustau"
+      },
+      {
+        "id": 1649,
+        "value": "Jordan Bardella"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 191,
+        "value": "Commission nationale des comptes de campagne et des financements politiques (CNCCFP)"
+      },
+      {
+        "id": 329,
+        "value": "e-Politic"
+      },
+      {
+        "id": 330,
+        "value": "Kon Tiki Conseil"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -325,6 +399,72 @@
     "procedure": []
   },
   {
+    "id": 1713,
+    "titre": "Le think-tank des syndicats échappe à la réforme de Matignon",
+    "contenu": "Dans leur rapport sur les structures d'analyses économiques, Jean-Luc Tavernier et Nicolas Véron ont diplomatiquement évité de se prononcer sur l'Ires. Ils avaient pourtant été missionnés à la suite d'un rapport cinglant de la Cour des comptes sur cet organisme proche des syndicats.",
+    "url": "https://www.lalettre.fr/fr/action-publique_elysee-matignon/2024/01/03/le-think-tank-des-syndicats-echappe-a-la-reforme-de-matignon",
+    "date": "2024-01-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1270,
+        "value": "Elisabeth Borne"
+      },
+      {
+        "id": 1650,
+        "value": "Jean-Luc Tavernier"
+      },
+      {
+        "id": 1651,
+        "value": "Nicolas Véron"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Cour des comptes"
+      },
+      {
+        "id": 271,
+        "value": "Confédération générale du travail (CGT)"
+      },
+      {
+        "id": 296,
+        "value": "Institut de recherches économiques et sociales (Ires)"
+      },
+      {
+        "id": 331,
+        "value": "Confédération française démocratique du travail (CFDT)"
+      },
+      {
+        "id": 332,
+        "value": "Confédération française de l'encadrement - Confédération générale des cadres (CFE-CGC)"
+      },
+      {
+        "id": 333,
+        "value": "Confédération française des travailleurs chrétiens (CFTC)"
+      },
+      {
+        "id": 334,
+        "value": "Force ouvrière (FO)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1702,
     "titre": "Philippe Latombe, député macroniste et VRP de la surveillance",
     "contenu": "Élu MoDem depuis 2017, Philippe Latombe est devenu un spécialiste des questions technologiques à l'Assemblée nationale. Mais sa proximité avec les lobbies de la surveillance, avec qui il fait des bouffes ou soirées mondaines, est fortement critiquée.",
@@ -369,6 +509,35 @@
         "value": "Lobbying / influence"
       }
     ],
+    "procedure": []
+  },
+  {
+    "id": 1714,
+    "titre": "Un douanier de Roissy condamné pour agression sexuelle et corruption passive",
+    "contenu": "Le tribunal correctionnel de Bobigny a condamné mardi un agent des douanes à deux ans de prison dont six mois ferme sous bracelet électronique. Une jeune femme l’accusait, enregistrement à l’appui, d’avoir sollicité des faveurs sexuelles contre l’oubli d’une amende.",
+    "url": "https://www.mediapart.fr/journal/france/030124/un-douanier-de-roissy-condamne-pour-agression-sexuelle-et-corruption-passive",
+    "date": "2024-01-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151989,
+        "value": "95 - Val-d'Oise"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 201,
+        "value": "Direction nationale de la Police judiciaire"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
     "procedure": []
   },
   {
