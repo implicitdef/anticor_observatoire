@@ -1,33 +1,49 @@
 [
   {
-    "id": 1715,
-    "titre": "SMTVD : 2 ans de prison avec sursis requis contre l'ex-président soupçonné de détournement de fonds publics",
-    "contenu": "Reporté à plusieurs reprises, le procès pour détournement de fonds publics au Syndicat mixte de traitement et de valorisation des déchets (SMTVD) s'est ouvert ce lundi 18 décembre au tribunal correctionnel de Fort-de-France. Dans les rangs des prévenus, l'ancien président et maire du Macouba, Sainte-Rose Cakin.",
-    "url": "https://viaatv.tv/smtvd-2-ans-de-prison-avec-sursis-requis-contre-lex-president-soupconne-de-detournement-de-fonds/",
-    "date": "2024-12-18",
+    "id": 1716,
+    "titre": "« Qatargate » : l’enquête belge risque l’enlisement",
+    "contenu": "Plus d’un an après la spectaculaire opération de police, à Bruxelles, qui a rendu public un scandale de corruption au Parlement européen, l’avenir du dossier devant la justice paraît incertain",
+    "url": "https://www.lemonde.fr/international/article/2024/01/06/qatargate-l-enquete-belge-risque-l-enlisement_6209394_3210.html",
+    "date": "2024-01-06",
     "etiquettes": "",
     "departement": [
       {
-        "id": 1151991,
-        "value": "972 - Martinique"
+        "id": 1226713,
+        "value": "Belgique"
       }
     ],
     "personnalites": [
       {
-        "id": 1652,
-        "value": "Sainte-Rose Cakin"
+        "id": 1331,
+        "value": "Eva Kaili"
+      },
+      {
+        "id": 1381,
+        "value": "Antonio Panzeri"
+      },
+      {
+        "id": 1562,
+        "value": "Marc Tarabella"
+      },
+      {
+        "id": 1623,
+        "value": "Marie Arena"
+      },
+      {
+        "id": 1653,
+        "value": "Michel Claise"
       }
     ],
     "personnes_morales": [
       {
-        "id": 336,
-        "value": "Syndicat mixte de traitement et de valorisation des déchets (SMTVD)"
+        "id": 75,
+        "value": "Parlement Européen"
       }
     ],
     "categorie": [
       {
-        "id": 1152012,
-        "value": "Observatoire de la probité"
+        "id": 1152014,
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -1978,6 +1994,45 @@
     ],
     "theme": [],
     "procedure": []
+  },
+  {
+    "id": 1715,
+    "titre": "SMTVD : 2 ans de prison avec sursis requis contre l'ex-président soupçonné de détournement de fonds publics",
+    "contenu": "Reporté à plusieurs reprises, le procès pour détournement de fonds publics au Syndicat mixte de traitement et de valorisation des déchets (SMTVD) s'est ouvert ce lundi 18 décembre au tribunal correctionnel de Fort-de-France. Dans les rangs des prévenus, l'ancien président et maire du Macouba, Sainte-Rose Cakin.",
+    "url": "https://viaatv.tv/smtvd-2-ans-de-prison-avec-sursis-requis-contre-lex-president-soupconne-de-detournement-de-fonds/",
+    "date": "2023-12-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151991,
+        "value": "972 - Martinique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1652,
+        "value": "Sainte-Rose Cakin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 336,
+        "value": "Syndicat mixte de traitement et de valorisation des déchets (SMTVD)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1652,
@@ -9213,6 +9268,40 @@
       {
         "id": 1152012,
         "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
+    "id": 1717,
+    "titre": "L'homme d'affaires Lyonnais Jean-Claude Lavorel condamné pour fraude fiscale",
+    "contenu": "Le parquet national financier s'est prononcé mardi 12 septembre sur les accusations de fraude fiscale qui pesaient sur l'homme d'affaires lyonnais Jean-Claude Lavorel. À 75 ans, celui qui a fait fortune en cédant sa société d'assistance respiratoire à domicile LVL Médical en 2012 a finalement écopé de douze mois d'emprisonnement avec sursis et d'une amende de 300 000 euros pour fraude fiscale aggravée et dissimulation de salariés.",
+    "url": "https://www.lyoncapitale.fr/actualite/l-homme-d-affaires-lyonnais-jean-claude-lavorel-condamne-pour-fraude-fiscale",
+    "date": "2023-09-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1654,
+        "value": "Jean-Claude Lavorel"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
       }
     ],
     "theme": [],
