@@ -1,5 +1,73 @@
 [
   {
+    "id": 1719,
+    "titre": "Comment le PSG et le Qatar ont infiltré le magazine « France Football »",
+    "contenu": "Des messages internes au PSG obtenus par la police montrent les liens d’intérêts entre le club parisien et Pascal Ferré, rédacteur en chef de « France Football » jusqu’en janvier 2023 : invitations tous frais payés à Doha, censure d’un article critiquant le propriétaire du club Nasser al-Khelaïfi, reportages élogieux sur lui ensuite, lobbying autour du Ballon d’or... Le journaliste a depuis été embauché par le PSG.",
+    "url": "https://www.mediapart.fr/journal/france/060124/comment-le-psg-et-le-qatar-ont-infiltre-le-magazine-france-football",
+    "date": "2024-01-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1226729,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1443,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 1597,
+        "value": "Nasser al-Khelaïfi"
+      },
+      {
+        "id": 1656,
+        "value": "Pascal Ferré"
+      },
+      {
+        "id": 1657,
+        "value": "Lionel Messi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 338,
+        "value": "France Football"
+      },
+      {
+        "id": 339,
+        "value": "Groupe Amaury"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
+  },
+  {
     "id": 1716,
     "titre": "« Qatargate » : l’enquête belge risque l’enlisement",
     "contenu": "Plus d’un an après la spectaculaire opération de police, à Bruxelles, qui a rendu public un scandale de corruption au Parlement européen, l’avenir du dossier devant la justice paraît incertain",
@@ -53,6 +121,87 @@
         "value": "Procès"
       }
     ]
+  },
+  {
+    "id": 1720,
+    "titre": "Alexandre Lallet rejoint Docaposte",
+    "contenu": "Le rapporteur de l'étude du Conseil d'Etat sur l'intelligence artificielle dans le secteur public rejoint Docaposte, pour diriger... sa branche IA pour le secteur public :",
+    "url": "https://twitter.com/emile_marzolf/status/1743256368390291718",
+    "date": "2024-01-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1658,
+        "value": "Alexandre Lallet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 340,
+        "value": "Docaposte"
+      },
+      {
+        "id": 342,
+        "value": "Conseil d'État"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1220073,
+        "value": "Technologies"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1718,
+    "titre": "Corruption : Suspendu, l’un des dirigeants de l’empire Altice annonce son départ",
+    "contenu": "Il a annoncé son départ sur le réseau social X, où il n’est quasiment suivi par personne. Alexandre Fonseca est pourtant un poids lourd du secteur des télécommunications. Co-PDG du groupe Altice Europe et patron d’Altice aux Etats-Unis, l’homme d’affaires portugais était suspendu depuis six mois en raison de soupçons de corruption. Après plus de dix années au sein de l’empire créé par le milliardaire Patrick Drahi, Alexandre Fonseca serait « parvenu à un accord mettant fin à son contrat de travail ainsi qu’à toutes les fonctions exécutives et non exécutives qu’il exerçait », a fait savoir Altice Portugal.",
+    "url": "https://www.20minutes.fr/economie/4069200-20240105-corruption-suspendu-dirigeants-empire-altice-annonce-depart",
+    "date": "2024-01-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1230085,
+        "value": "Portugal"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1655,
+        "value": "Alexandre Fonseca"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 144,
+        "value": "Altice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
   },
   {
     "id": 1712,
@@ -15242,7 +15391,7 @@
   {
     "id": 1211,
     "titre": "« L’erreur » de l’ex-maire de Clarensac l’entraîne devant la justice",
-    "contenu": "Le 23 janvier prochain, l’ancienne maire de Clarensac, Marjorie Enjelvin, plaidera coupable devant la justice pour prise illégale d’intérêt. En 2018, elle avait utilisé la tractopelle de la mairie pour agrandir le trou de sa piscine.\n« Il n’y a eu aucun enrichissement personnel… J’ai fait une bourde, une erreur », reconnaît Marjorie Enjelvin. Le 23 janvier au tribunal de Nîmes, l’ancienne maire de Clarensac plaidera coupable pour prise illégale d’intérêt, dans le cadre d’une CRPC (comparution sur reconnaissance préalable de culpabilité).",
+    "contenu": "Le 23 janvier prochain, l’ancienne maire de Clarensac, Marjorie Enjelvin, plaidera coupable devant la justice pour prise illégale d’intérêt. En 2018, elle avait utilisé la tractopelle de la mairie pour agrandir le trou de sa piscine. « Il n’y a eu aucun enrichissement personnel… J’ai fait une bourde, une erreur », reconnaît Marjorie Enjelvin.",
     "url": "https://www.objectifgard.com/politique/expresso-lerreur-de-lex-maire-de-clarensac-lentraine-devant-la-justice-104079.php",
     "date": "2023-01-11",
     "etiquettes": "30 – Gard,Marjorie Enjelvin",
@@ -15252,11 +15401,26 @@
         "value": "30 - Gard"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1661,
+        "value": "Marjorie Enjelvin"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1215,
@@ -15298,10 +15462,50 @@
         "value": "Russie"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1662,
+        "value": "Nikolay Sarkisov"
+      },
+      {
+        "id": 1663,
+        "value": "Sergey Sarkisov"
+      },
+      {
+        "id": 1664,
+        "value": "Suleyman Kerimov"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      },
+      {
+        "id": 343,
+        "value": "Russia Direct Investment Fund"
+      },
+      {
+        "id": 344,
+        "value": "Reso Garantia"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
     "procedure": []
   },
   {
@@ -16383,6 +16587,49 @@
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1721,
+    "titre": "Guillaume Poupard rejoint Docaposte",
+    "contenu": "Après huit ans à la tête de l'agence nationale de cybersécurité, le haut fonctionnaire rejoint la filiale de La Poste pour s'occuper de l'international et du cloud. Il laisse une institution sortie de l'ombre dans un contexte où les cyberattaques se sont multipliées.",
+    "url": "https://www.lesechos.fr/tech-medias/hightech/pourquoi-guillaume-poupard-rejoint-docaposte-apres-lanssi-1888398",
+    "date": "2022-12-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1659,
+        "value": "Guillaume Poupard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 340,
+        "value": "Docaposte"
+      },
+      {
+        "id": 341,
+        "value": "Agence nationale de la sécurité des systèmes d'information (Anssi)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1220073,
+        "value": "Technologies"
+      }
+    ],
     "procedure": []
   },
   {
@@ -20042,6 +20289,45 @@
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1722,
+    "titre": "Dominique Pon rejoint Docaposte",
+    "contenu": "L'ex-responsable ministériel du numérique en santé, Dominique Pon, va rejoindre Docaposte, filiale du groupe La Poste, en tant que directeur général adjoint et membre du comité exécutif, a annoncé l'entreprise le 15 septembre.",
+    "url": "https://www.ticpharma.com/story?ID=2049",
+    "date": "2022-09-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1660,
+        "value": "Dominique Pon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 114,
+        "value": "Ministère de la Santé"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1220073,
+        "value": "Technologies"
+      }
+    ],
     "procedure": []
   },
   {
