@@ -25,16 +25,40 @@ export default function RevueDePresse(props: {
           return (
             <li
               key={item.id}
-              className="block bg-white px-4 py-8 text-zinc-700"
+              className="flex flex-col stretch justify-between bg-white px-4 pt-8 pb-8 text-black"
             >
-              {item.date ? (
-                <p className="pb-8">{formatDateVerbose(item.date)}</p>
-              ) : null}
-              <h2 className="font-bold text-2xl pb-8 ">
-                <Link href={url}>{item.titre}</Link>
-              </h2>
-              <p className="pb-8">{shorten(item.contenu)}</p>
-              <Link href={url}>Lire la suite →</Link>
+              <div>
+                {item.date ? (
+                  <p className="mb-2">{formatDateVerbose(item.date)}</p>
+                ) : null}
+                <h2 className="font-bold text-2xl mb-2">
+                  <Link href={url}>{item.titre}</Link>
+                </h2>
+                <p className="mb-4">
+                  {shorten(item.contenu, 200)}{" "}
+                  <Link href={url} className=" underline">
+                    Lire la suite →
+                  </Link>
+                </p>
+              </div>
+              <ul className="list-none flex flex-wrap gap-2">
+                {[
+                  ...item.categorie,
+                  ...item.departement,
+                  ...item.personnalites,
+                  ...item.personnes_morales,
+                ].map((_, idx) => {
+                  const val = typeof _ === "string" ? _ : _.value;
+                  return (
+                    <li
+                      key={`${val}_${idx}`}
+                      className="bg-rose-200 px-2 rounded"
+                    >
+                      {shorten(val, 30)}
+                    </li>
+                  );
+                })}
+              </ul>
             </li>
           );
         })}
@@ -44,8 +68,7 @@ export default function RevueDePresse(props: {
   );
 }
 
-function shorten(s: string) {
-  const limit = 200;
+function shorten(s: string, limit: number) {
   if (s.length <= limit) return s;
   return s.slice(0, limit) + `...`;
 }
