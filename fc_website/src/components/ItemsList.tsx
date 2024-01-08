@@ -4,6 +4,7 @@ import { getPaginatedResults } from '@/lib/searchAndPagination'
 import { formatDateVerbose } from '@/lib/utils'
 import Link from 'next/link'
 import { Pagination } from './Pagination'
+import { TagKind } from '@/app/revuedepresse/tag/[kind]/[id]/page'
 
 export function ItemsList({
   items,
@@ -64,12 +65,22 @@ function TagsList({ item }: { item: Item }) {
     ..._,
     kind: 'personnes_morales' as const,
   }))
+  const procedures = item.procedure.map((_) => ({
+    ..._,
+    kind: 'procedure' as const,
+  }))
+  const themes = item.theme.map((_) => ({
+    ..._,
+    kind: 'theme' as const,
+  }))
 
   const tags: { id: number; value: string; kind: TagKind }[] = [
     ...categories,
     ...departements,
     ...personnalites,
     ...personnes_morales,
+    ...procedures,
+    ...themes,
   ]
 
   return (
