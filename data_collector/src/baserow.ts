@@ -93,9 +93,9 @@ const rowSchema = z
     field_1556853: departementSchema.array(),
     field_1557648: personnaliteSchema.array(),
     field_1557650: personneMoraleSchema.array(),
-    field_1557681: categorieSchema.array(),
+    field_1557681: categorieSchema.array().max(1),
     field_1557682: themeSchema.array(),
-    field_1561023: procedureSchema.array(),
+    field_1561023: procedureSchema.array().max(1),
   })
   .strict()
 
@@ -108,7 +108,7 @@ const apiResponseSchema = z.object({
 
 type Row = z.infer<typeof rowSchema>
 type ApiResponse = z.infer<typeof apiResponseSchema>
-type NiceRow = ReturnType<typeof mapRow>
+export type NiceRow = ReturnType<typeof mapRow>
 
 function mapRow(row: Row) {
   const {

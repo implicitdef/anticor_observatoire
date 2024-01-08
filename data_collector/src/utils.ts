@@ -15,3 +15,7 @@ export function writeToJsonFile(path: string, data: any) {
   fs.ensureFileSync(path)
   fs.writeJSONSync(path, data, { spaces: 2 })
 }
+
+export function readJsonFile(path: string) {
+  return JSON.parse(fs.readFileSync(path, 'utf-8'))
+}
