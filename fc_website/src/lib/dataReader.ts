@@ -1,15 +1,13 @@
 import rows from '../../../data_collector/data/rows.json'
 import z from 'zod'
 
-const thingSchema = z.union([
-  z.string(),
-  z
-    .object({
-      id: z.number(),
-      value: z.string(),
-    })
-    .strict(),
-])
+const thingSchema = z
+  .object({
+    id: z.number(),
+    value: z.string(),
+  })
+  .strict()
+
 const rowsSchema = z
   .object({
     id: z.number(),
@@ -24,9 +22,9 @@ const rowsSchema = z
     departement: thingSchema.array(),
     personnalites: thingSchema.array(),
     personnes_morales: thingSchema.array(),
-    categorie: thingSchema.array(),
+    categorie: thingSchema.array().max(1),
     theme: thingSchema.array(),
-    procedure: thingSchema.array(),
+    procedure: thingSchema.array().max(1),
   })
   .strict()
   .array()
