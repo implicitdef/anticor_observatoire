@@ -1,5 +1,64 @@
 [
   {
+    "id": 1724,
+    "titre": "Affaire Firmin Le Bodo : les failles de la transparence dans la santé",
+    "contenu": "Le cas d’Agnès Firmin Le Bodo, ministre de la santé visée par une enquête pour avoir reçu, en tant que pharmacienne, des cadeaux du laboratoire Urgo, révèle la faiblesse du contrôle dudit ministère sur les laboratoires pharmaceutiques.",
+    "url": "https://www.mediapart.fr/journal/france/080124/affaire-firmin-le-bodo-les-failles-de-la-transparence-dans-la-sante",
+    "date": "2024-01-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1487,
+        "value": "Agnès Firmin Le Bodo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 114,
+        "value": "Ministère de la Santé"
+      },
+      {
+        "id": 222,
+        "value": "Laboratoires Urgo"
+      },
+      {
+        "id": 346,
+        "value": "Transparence-Santé"
+      },
+      {
+        "id": 347,
+        "value": "Euro for Docs"
+      },
+      {
+        "id": 349,
+        "value": "Formindep"
+      },
+      {
+        "id": 350,
+        "value": "Haute Autorité de santé (HAS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1240363,
+        "value": "Santé"
+      }
+    ],
+    "procedure": []
+  },
+  {
     "id": 1723,
     "titre": "Bruno Bernard sanctionné après l'élection de son oncle à GrandLyon Habitat",
     "contenu": "Le président de la Métropole de Lyon a été sanctionné par la justice pour avoir voté une délibération plaçant son oncle à la tête du bailleur social GrandLyon Habitat. Le parquet lui a adressé le 4 avril dernier un avertissement pénal probatoire (APP), sorte de rappel à la loi réservé aux personnes au casier judiciaire vierge.",
@@ -31613,6 +31672,30 @@
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1725,
+    "titre": "« Euros for Docs », une base inédite sur les liens entre industrie pharmaceutique et professionnels de santé",
+    "contenu": "Malgré l’obstruction technique de l’industrie pharmaceutique, le site Eurosfordocs.eu, lancé mardi 1er juin, met en lumière ses liens d’argent avec le monde de la santé, générateurs de possibles conflits d’intérêts.",
+    "url": "https://www.lemonde.fr/planete/article/2021/06/01/euros-for-docs-une-epopee-informatique-pour-rendre-visibles-les-liens-entre-industrie-pharmaceutique-et-monde-medical_6082282_3244.html",
+    "date": "2021-06-01",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1240363,
+        "value": "Santé"
+      }
+    ],
     "procedure": []
   },
   {
