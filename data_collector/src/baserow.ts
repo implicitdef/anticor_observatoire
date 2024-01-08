@@ -90,12 +90,12 @@ const rowSchema = z
     field_1556850: z.string(),
     field_1556851: z.string().nullable(),
     field_1556852: z.string(),
-    field_1556853: z.union([z.string(), departementSchema]).array(),
-    field_1557648: z.union([z.string(), personnaliteSchema]).array(),
-    field_1557650: z.union([z.string(), personneMoraleSchema]).array(),
-    field_1557681: z.union([z.string(), categorieSchema]).array(),
-    field_1557682: z.union([z.string(), themeSchema]).array(),
-    field_1561023: z.union([z.string(), procedureSchema]).array(),
+    field_1556853: departementSchema.array(),
+    field_1557648: personnaliteSchema.array(),
+    field_1557650: personneMoraleSchema.array(),
+    field_1557681: categorieSchema.array(),
+    field_1557682: themeSchema.array(),
+    field_1561023: procedureSchema.array(),
   })
   .strict()
 
