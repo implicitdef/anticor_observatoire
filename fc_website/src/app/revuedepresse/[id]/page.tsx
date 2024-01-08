@@ -1,9 +1,9 @@
-import { getData } from "@/lib/dataReader";
-import { formatDateVerbose } from "@/lib/utils";
-import Link from "next/link";
+import { getData } from '@/lib/dataReader'
+import { formatDateVerbose } from '@/lib/utils'
+import Link from 'next/link'
 
 export default function Fiche() {
-  const item = getData()[0];
+  const item = getData()[0]
   return (
     <div className="px-4 py-28">
       {/* <h1 className="text-6xl font-bold mb-10">
@@ -17,13 +17,13 @@ export default function Fiche() {
         <h1 className="font-bold text-4xl pb-8 ">{item.titre}</h1>
         <p className="pb-8">{item.contenu}</p>
         <p>
-          Source :{" "}
+          Source :{' '}
           <Link href={item.url} target="_blank" className="fc-link">
-            {item.url}{" "}
+            {item.url}{' '}
             <i className="ri-external-link-line" aria-hidden="true" />
           </Link>
         </p>
       </div>
     </div>
-  );
+  )
 }

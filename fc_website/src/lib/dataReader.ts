@@ -1,5 +1,5 @@
-import rows from "../../../data_collector/data/rows.json";
-import z from "zod";
+import rows from '../../../data_collector/data/rows.json'
+import z from 'zod'
 
 const thingSchema = z.union([
   z.string(),
@@ -9,7 +9,7 @@ const thingSchema = z.union([
       value: z.string(),
     })
     .strict(),
-]);
+])
 const rowsSchema = z
   .object({
     id: z.number(),
@@ -29,10 +29,10 @@ const rowsSchema = z
     procedure: thingSchema.array(),
   })
   .strict()
-  .array();
+  .array()
 
-export type Item = z.infer<typeof rowsSchema>[number];
+export type Item = z.infer<typeof rowsSchema>[number]
 
 export function getData(): Item[] {
-  return rowsSchema.parse(rows);
+  return rowsSchema.parse(rows)
 }

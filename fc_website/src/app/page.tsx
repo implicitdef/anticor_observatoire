@@ -14,5 +14,5 @@ export default function Home() {
         mollit anim id est laborum.
       </p>
     </div>
-  );
+  )
 }
