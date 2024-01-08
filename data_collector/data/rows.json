@@ -1,5 +1,39 @@
 [
   {
+    "id": 1723,
+    "titre": "Bruno Bernard sanctionné après l'élection de son oncle à GrandLyon Habitat",
+    "contenu": "Le président de la Métropole de Lyon a été sanctionné par la justice pour avoir voté une délibération plaçant son oncle à la tête du bailleur social GrandLyon Habitat. Le parquet lui a adressé le 4 avril dernier un avertissement pénal probatoire (APP), sorte de rappel à la loi réservé aux personnes au casier judiciaire vierge.",
+    "url": "https://actu.fr/auvergne-rhone-alpes/lyon_69123/grand-lyon-pourquoi-le-president-bruno-bernard-a-ete-sanctionne-par-la-justice_60530707.html",
+    "date": "2024-01-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1665,
+        "value": "Bruno Bernard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 345,
+        "value": "GrandLyon Habitat"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1719,
     "titre": "Comment le PSG et le Qatar ont infiltré le magazine « France Football »",
     "contenu": "Des messages internes au PSG obtenus par la police montrent les liens d’intérêts entre le club parisien et Pascal Ferré, rédacteur en chef de « France Football » jusqu’en janvier 2023 : invitations tous frais payés à Doha, censure d’un article critiquant le propriétaire du club Nasser al-Khelaïfi, reportages élogieux sur lui ensuite, lobbying autour du Ballon d’or... Le journaliste a depuis été embauché par le PSG.",
