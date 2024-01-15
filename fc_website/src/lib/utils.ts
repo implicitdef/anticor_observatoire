@@ -32,3 +32,8 @@ export function pickTagsList(item: Item, tagKind: TagKind) {
       return item.theme
   }
 }
+
+export function shorten(s: string, limit: number) {
+  if (s.length <= limit) return s
+  return s.slice(0, limit) + `...`
+}
