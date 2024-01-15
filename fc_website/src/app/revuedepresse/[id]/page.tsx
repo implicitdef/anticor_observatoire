@@ -1,29 +1,48 @@
 import { getData } from '@/lib/dataReader'
 import { formatDateVerbose } from '@/lib/utils'
 import Link from 'next/link'
+import { NextSearchParams } from '../page'
+import { notFound } from 'next/navigation'
+import { ItemFiche } from '@/components/ItemFiche'
+import { TagsList } from '@/components/TagsList'
 
-export default function Fiche() {
-  const item = getData()[0]
-  return (
-    <div className="px-4 py-28">
-      {/* <h1 className="text-6xl font-bold mb-10">
-        Liste des items de la revue de presse
-      </h1> */}
+type LocalParams = {
+  id: string
+}
 
-      <div className=" bg-white px-4 py-8 text-zinc-700">
-        {item.date ? (
-          <p className="pb-8">{formatDateVerbose(item.date)}</p>
-        ) : null}
-        <h1 className="font-bold text-4xl pb-8 ">{item.titre}</h1>
-        <p className="pb-8">{item.contenu}</p>
-        <p>
-          Source :{' '}
-          <Link href={item.url} target="_blank" className="fc-link">
-            {item.url}{' '}
-            <i className="ri-external-link-line" aria-hidden="true" />
-          </Link>
-        </p>
+export default function Fiche({
+  params,
+}: {
+  params: LocalParams
+  searchParams: NextSearchParams
+}) {
+  const itemId = parseInt(params.id, 10)
+  const item = getData().find((_) => _.id === itemId)
+
+  if (item) {
+    return (
+      <div className="bg-blue-100 mt-28">
+        <div className="flex flex-col stretch justify-between bg-white px-4 pt-8 pb-8 text-black">
+          <div>
+            {item.date ? (
+              <p className="mb-4 text-center">{formatDateVerbose(item.date)}</p>
+            ) : null}
+            <h1 className="font-bold text-4xl mb-8">{item.titre}</h1>
+            <p className="mb-4 ">{item.contenu}</p>
+            <p className="mb-10">
+              Source :{' '}
+              <Link href={item.url} target="_blank" className="fc-link">
+                {item.url}{' '}
+                <i className="ri-external-link-line" aria-hidden="true" />
+              </Link>
+            </p>
+          </div>
+          <div className="flex items-center justify-center">
+            <TagsList {...{ item }} />
+          </div>
+        </div>
       </div>
-    </div>
-  )
+    )
+  }
+  return notFound()
 }
