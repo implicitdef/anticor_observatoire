@@ -21,7 +21,7 @@ export default function Fiche({
 
   if (item) {
     return (
-      <div className="bg-blue-100 mt-28">
+      <div className="container bg-blue-100 mt-28 mx-auto">
         <div className="flex flex-col stretch justify-between bg-white px-4 pt-8 pb-8 text-black">
           <div>
             {item.date ? (
