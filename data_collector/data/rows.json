@@ -18029,21 +18029,48 @@
     "url": "https://www.liberation.fr/economie/le-ministre-du-numerique-jean-noel-barrot-associe-dune-start-up-avec-des-anciens-de-mckinsey-et-xavier-niel-20221220_7QDXGNP3DZCSVK43BKRXMVTNP4/?redirected=1",
     "date": "2022-12-20",
     "etiquettes": "Gouvernement Élisabeth Borne,Haute Autorité pour la Transparence de la Vie Publique,Jean-Noël Barrot,LMP,Xavier Niel",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 1671,
         "value": "Jean-Noël Barrot"
+      },
+      {
+        "id": 1746,
+        "value": "Xavier Niel"
       }
     ],
     "personnes_morales": [
       {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
         "id": 106,
         "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 420,
+        "value": "Odyssée Venture"
       }
     ],
-    "categorie": [],
-    "theme": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1220073,
+        "value": "Technologies"
+      }
+    ],
     "procedure": []
   },
   {
@@ -18053,11 +18080,44 @@
     "url": "https://www.mediapart.fr/journal/international/201222/soupcons-de-corruption-dans-l-ue-de-vraies-fausses-ong-au-coeur-de-l-enquete",
     "date": "2022-12-20",
     "etiquettes": "Fight Impunity,Parlement Européen,Pier Antonio Panzeri",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      },
+      {
+        "id": 1252743,
+        "value": "Maroc"
+      },
+      {
+        "id": 1226729,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1381,
+        "value": "Antonio Panzeri"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 421,
+        "value": "Fight Impunity"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
     "procedure": []
   },
   {
@@ -18101,11 +18161,40 @@
     "url": "https://www.jeuneafrique.com/1402058/economie/boissons-pierre-castel-condamne-a-288-millions-deuros-par-le-fisc/",
     "date": "2022-12-19",
     "etiquettes": "Castel,Pierre Castel",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "departement": [
+      {
+        "id": 1251431,
+        "value": "Suisse"
+      },
+      {
+        "id": 1151847,
+        "value": "33 - Gironde"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1747,
+        "value": "Pierre Castel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 422,
+        "value": "Groupe Castel"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1252744,
+        "value": "Alcools"
+      }
+    ],
     "procedure": []
   },
   {
@@ -18115,24 +18204,68 @@
     "url": "https://www.liberation.fr/sports/rugby/bernard-laporte-exclut-de-demissionner-de-la-presidence-de-la-federation-de-rugby-20221218_7B42AM7NS5FGPMU3SGXZLVA4XE/?redirected=1",
     "date": "2022-12-18",
     "etiquettes": "Amélie Oudéa-Castera,Bernard Laporte,Fédération française de rugby",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1475,
+        "value": "Bernard Laporte"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 206,
+        "value": "Fédération française de rugby"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
     "procedure": []
   },
   {
     "id": 1171,
     "titre": "Corruption au Parlement européen : un mystérieux espion marocain au cœur de l’enquête",
-    "contenu": "Après les réseaux d’influence du Qatar à Bruxelles, l’instruction s’intéresse à ceux du Maroc. Et particulièrement à un homme : Mohamed B., un agent de la DGED, déjà identifié par Paris dans une autre affaire, mais jamais retrouvé.\nAu fil des révélations à propos du « Qatargate » et de l’enquête de la justice belge sur cette affaire de corruption et de blanchiment impliquant des membres du Parlement européen, une nouvelle certitude se dégage : il faut désormais parler aussi d’un « Marocgate », tant les éléments qui fuitent de l’instruction menée par le juge bruxellois Michel Claise désignent le royaume chérifien comme l’un des autres acteurs-clés de ce dossier.",
+    "contenu": "Après les réseaux d’influence du Qatar à Bruxelles, l’instruction s’intéresse à ceux du Maroc. Et particulièrement à un homme : Mohamed B., un agent de la DGED, déjà identifié par Paris dans une autre affaire, mais jamais retrouvé.",
     "url": "https://www.lemonde.fr/international/article/2022/12/17/corruption-au-parlement-europeen-un-mysterieux-espion-marocain-au-c-ur-de-l-enquete_6154798_3210.html",
     "date": "2022-12-17",
     "etiquettes": "Abderrahim Atmoun,Ali Ben Samikh Al-Marri,Andrea Cozzolino,Fight Impunity,Francesco Giorgi,Mohamed Yassine Mansour,Parlement Européen,Pier Antonio Panzeri",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      },
+      {
+        "id": 1252743,
+        "value": "Maroc"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 423,
+        "value": "Direction Générale des Études et de la Documentation (DGED)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -18143,9 +18276,24 @@
     "url": "https://www.lejdd.fr/Economie/exclusif-francois-de-rugy-devient-banquier-daffaires-4155135",
     "date": "2022-12-17",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151947,
+        "value": "44 - Loire-Atlantique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1253,
+        "value": "François de Rugy"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "Alantra"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -18157,7 +18305,7 @@
   },
   {
     "id": 1172,
-    "titre": "Beauvaisis. Caroline Cayeux affirme qu'elle restera présidente",
+    "titre": "Caroline Cayeux affirme qu'elle restera présidente de l'agglomération du Beauvaisis",
     "contenu": "Démissionnaire du gouvernement pour suspicion de fraude fiscale par la HATVP, Caroline Cayeux ne renonce pas pour autant à son mandat de présidente de l'agglomération du Beauvaisis.",
     "url": "https://www.oisehebdo.fr/2022/12/16/beauvaisis-caroline-cayeux-affirme-quelle-restera-presidente/",
     "date": "2022-12-16",
@@ -18180,41 +18328,42 @@
         "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
   {
     "id": 1160,
     "titre": "La directrice de Frontex menacée par une enquête de l’Office anti-fraude de l’UE",
-    "contenu": "Aija Kalnaja, la patronne par intérim de l’agence européenne de gardes-frontières, était bien placée pour être confirmée à son poste le 20 décembre. D’après Mediapart, la Lettone est cependant concernée par des investigations de l’OLAF. Et son nom est associé au « dossier Baltic Tours », du nom d’une agence de voyage utilisée par Frontex dans des conditions ayant suscité des critiques en interne.",
+    "contenu": "Aija Kalnaja, la patronne par intérim de l’agence européenne de gardes-frontières, était bien placée pour être confirmée à son poste le 20 décembre. La Lettone est cependant concernée par des investigations de l’OLAF. Et son nom est associé au « dossier Baltic Tours », du nom d’une agence de voyage utilisée par Frontex dans des conditions ayant suscité des critiques en interne.",
     "url": "https://www.mediapart.fr/journal/international/161222/la-directrice-de-frontex-menacee-par-une-enquete-de-l-office-anti-fraude-de-l-ue",
     "date": "2022-12-16",
     "etiquettes": "Aija Kalnaja,Frontex,Office européen de lutte antifraude",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1159,
-    "titre": "Fraude fiscale : les laboratoires Unilabs vont verser 14 millions dans une affaire de crédit d'impôt recherche",
-    "contenu": "Le groupement d'intérêt économique Unilabs France - qui assure des fonctions de gestion pour une vingtaine de laboratoires d'analyse médicale - a trouvé un accord avec le parquet national financier, via une convention judiciaire d'intérêt public (CJIP). Résultat : il va payer une amende de 13,8 millions d'euros pour clore les poursuites et éviter un procès.",
-    "url": "https://www.lesechos.fr/industrie-services/pharmacie-sante/fraude-fiscale-les-laboratoires-unilabs-vont-verser-14-millions-dans-une-affaire-de-credit-dimpot-recherche-1889680",
-    "date": "2022-12-15",
-    "etiquettes": "Parquet National Financier,Unilabs",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 1252860,
+        "value": "Pologne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1748,
+        "value": "Aija Kalnaja"
+      }
+    ],
     "personnes_morales": [
       {
-        "id": 1,
-        "value": "Parquet National Financier (PNF)"
+        "id": 308,
+        "value": "Office européen de lutte antifraude (OLAF)"
       },
       {
-        "id": 305,
-        "value": "Unilabs"
+        "id": 424,
+        "value": "Agence européenne de garde-frontières et de garde-côtes (Frontex)"
       }
     ],
     "categorie": [
@@ -18224,12 +18373,7 @@
       }
     ],
     "theme": [],
-    "procedure": [
-      {
-        "id": 1198995,
-        "value": "Convention judiciaire d'intérêt public (CJIP)"
-      }
-    ]
+    "procedure": []
   },
   {
     "id": 1163,
@@ -18297,6 +18441,44 @@
       }
     ],
     "procedure": []
+  },
+  {
+    "id": 1159,
+    "titre": "Les laboratoires Unilabs vont verser 14 millions dans une affaire de crédit d'impôt recherche",
+    "contenu": "Le groupement d'intérêt économique Unilabs France - qui assure des fonctions de gestion pour une vingtaine de laboratoires d'analyse médicale - a trouvé un accord avec le parquet national financier, via une convention judiciaire d'intérêt public (CJIP). Résultat : il va payer une amende de 13,8 millions d'euros pour clore les poursuites et éviter un procès.",
+    "url": "https://www.lesechos.fr/industrie-services/pharmacie-sante/fraude-fiscale-les-laboratoires-unilabs-vont-verser-14-millions-dans-une-affaire-de-credit-dimpot-recherche-1889680",
+    "date": "2022-12-15",
+    "etiquettes": "Parquet National Financier,Unilabs",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 305,
+        "value": "Unilabs"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1198995,
+        "value": "Convention judiciaire d'intérêt public (CJIP)"
+      }
+    ]
   },
   {
     "id": 1162,
