@@ -6,11 +6,117 @@
     "url": "https://www.mediapart.fr/journal/france/150124/epoux-estrosi-la-justice-ouvre-une-enquete-pour-prise-illegale-d-interets",
     "date": "2024-01-15",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1500,
+        "value": "Christian Estrosi"
+      },
+      {
+        "id": 1511,
+        "value": "Laura Tenoudji"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 426,
+        "value": "La Tribune"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1253735,
+        "value": "Médias"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1791,
+    "titre": "Morgane Colas-Weill, une ancienne de Carrefour pressentie comme dircab d’Amélie Oudéa-Castéra",
+    "contenu": "Morgane Colas-Weill est pressentie pour devenir directrice de cabinet d’Amélie Oudéa-Castéra rue de Grenelle. Cette énarque, passée aux cabinets de Bruno Le Maire et Élisabeth Borne, a alterné entre secteur public et privé au cours de sa carrière. Les deux femmes se sont côtoyées chez Carrefour.",
+    "url": "https://www.marianne.net/politique/gouvernement/morgane-colas-weill-une-ancienne-de-carrefour-pressentie-comme-dircab-damelie-oudea-castera",
+    "date": "2024-01-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1286,
+        "value": "Amélie Oudéa-Castéra"
+      },
+      {
+        "id": 1749,
+        "value": "Morgane Colas-Weill"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 425,
+        "value": "Carrefour"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1253248,
+        "value": "Grande consommation"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1792,
+    "titre": "Thales de nouveau mis en cause par un ex-salarié sur sa gestion des alertes éthiques",
+    "contenu": "Licencié en 2023, un contrôleur financier estime avoir subi des mesures de rétorsion après avoir signalé en interne plusieurs faits. L'affaire, qui intervient après plusieurs contestations du système d'alerte mis en place par le groupe Thales, va être portée devant les prud'hommes de Nanterre.",
+    "url": "https://www.lalettre.fr/fr/entreprises_defense-et-aeronautique/2024/01/15/thales-de-nouveau-mis-en-cause-par-un-ex-salarie-sur-sa-gestion-des-alertes-ethiques%2C110148017-art",
+    "date": "2024-01-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 85,
+        "value": "Thales"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1220073,
+        "value": "Technologies"
+      }
+    ],
     "procedure": []
   },
   {
@@ -16485,7 +16591,7 @@
     "contenu": "Cédric Cornet a été placé sous contrôle judiciaire après une nuit en garde à vue. Le directeur général des services de la communauté d’agglomération Riviera du Levant, présidée par le maire du Gosier, a également été mis en examen.",
     "url": "https://www.lemonde.fr/societe/article/2023/01/12/guadeloupe-le-maire-du-gosier-mis-en-examen-pour-detournements-de-fonds-publics-et-favoritisme_6157512_3224.html",
     "date": "2023-01-12",
-    "etiquettes": "971 – Guadeloupe,Cédric Cornet",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151990,
@@ -16519,7 +16625,7 @@
     "contenu": "AC Anticorruption a adressé une plainte contre X pour favoritisme et prise illégale d'intérêts au PNF visant les missions de conseil de Jean Rottner, effectuées de 2019 à mars 2022 pour des émoluments globaux de 150 000 €.",
     "url": "https://www.lalsace.fr/faits-divers-justice/2023/01/12/missions-de-conseil-de-rottner-depot-de-plainte-aupres-du-pnf",
     "date": "2023-01-12",
-    "etiquettes": "AC Anti-Corruption,Jean Rottner,Parquet National Financier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -16680,14 +16786,19 @@
     "contenu": "Six membres de l'Institut de France, dont Hélène Carrère d'Encausse, ont été auditionnés dans le cadre d'une enquête préliminaire ouverte par le Parquet national financier (PNF). Les gendarmes s'interrogent sur le lien d'affaires entre le chancelier Xavier Darcos et David Teillet, son ancien directeur des services administratifs.",
     "url": "https://www.lalettrea.fr/action-publique_executif/2023/01/11/le-pnf-a-auditionne-helene-carrere-d-encausse-dans-une-enquete-visant-xavier-darcos,109880909-gra",
     "date": "2023-01-11",
-    "etiquettes": "David Teillet,Hélène Carrère d&#039;Encausse,Institut de France,Parquet National Financier,Xavier Darcos",
+    "etiquettes": "David Teillet,Institut de France,Parquet National Financier,Xavier Darcos",
     "departement": [
       {
         "id": 1151970,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1750,
+        "value": "Hélène Carrère d’Encausse"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 1,
