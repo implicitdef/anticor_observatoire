@@ -43,6 +43,20 @@
     "procedure": []
   },
   {
+    "id": 1793,
+    "titre": "Liens présumés entre le RN et la Russie : le Parti radical de gauche saisit la justice",
+    "contenu": "Le Parti radical de gauche a saisi la procureure de Paris sur des liens présumés du Rassemblement national avec Moscou et d’éventuels actes « d’intelligence avec une puissance étrangère » et « de corruption », au titre de l’article 40 du Code pénal, a annoncé lundi son président Guillaume Lacroix.",
+    "url": "https://www.leparisien.fr/politique/liens-presumes-entre-le-rn-et-la-russie-le-parti-radical-de-gauche-saisit-la-justice-15-01-2024-OOSEKP72ZFBKBBNIAL3MNXIUDM.php",
+    "date": "2024-01-15",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1791,
     "titre": "Morgane Colas-Weill, une ancienne de Carrefour pressentie comme dircab d’Amélie Oudéa-Castéra",
     "contenu": "Morgane Colas-Weill est pressentie pour devenir directrice de cabinet d’Amélie Oudéa-Castéra rue de Grenelle. Cette énarque, passée aux cabinets de Bruno Le Maire et Élisabeth Borne, a alterné entre secteur public et privé au cours de sa carrière. Les deux femmes se sont côtoyées chez Carrefour.",
@@ -16672,7 +16686,7 @@
     "contenu": "Le 23 janvier prochain, l’ancienne maire de Clarensac, Marjorie Enjelvin, plaidera coupable devant la justice pour prise illégale d’intérêt. En 2018, elle avait utilisé la tractopelle de la mairie pour agrandir le trou de sa piscine. « Il n’y a eu aucun enrichissement personnel… J’ai fait une bourde, une erreur », reconnaît Marjorie Enjelvin.",
     "url": "https://www.objectifgard.com/politique/expresso-lerreur-de-lex-maire-de-clarensac-lentraine-devant-la-justice-104079.php",
     "date": "2023-01-11",
-    "etiquettes": "30 – Gard,Marjorie Enjelvin",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151844,
@@ -16786,7 +16800,7 @@
     "contenu": "Six membres de l'Institut de France, dont Hélène Carrère d'Encausse, ont été auditionnés dans le cadre d'une enquête préliminaire ouverte par le Parquet national financier (PNF). Les gendarmes s'interrogent sur le lien d'affaires entre le chancelier Xavier Darcos et David Teillet, son ancien directeur des services administratifs.",
     "url": "https://www.lalettrea.fr/action-publique_executif/2023/01/11/le-pnf-a-auditionne-helene-carrere-d-encausse-dans-une-enquete-visant-xavier-darcos,109880909-gra",
     "date": "2023-01-11",
-    "etiquettes": "David Teillet,Institut de France,Parquet National Financier,Xavier Darcos",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -16797,6 +16811,14 @@
       {
         "id": 1750,
         "value": "Hélène Carrère d’Encausse"
+      },
+      {
+        "id": 1751,
+        "value": "Xavier Darcos"
+      },
+      {
+        "id": 1752,
+        "value": "David Teillet"
       }
     ],
     "personnes_morales": [
@@ -16861,7 +16883,7 @@
     "contenu": "L’ancien chef de l’État a touché 300 000 euros au moment où il vantait, fin 2018, les mérites de Vladimir Poutine lors d’une soirée à Moscou du principal fonds souverain russe. L’argent a été versé par une société qui porte le même nom qu’une filiale de ce fonds.",
     "url": "https://www.mediapart.fr/journal/international/110123/nicolas-sarkozy-les-louanges-poutine-et-la-piste-de-l-argent-du-kremlin?userid=21ca08a3-94df-4cfa-870d-f3d3a159e7d1",
     "date": "2023-01-11",
-    "etiquettes": "Les Républicains,Nicolas Sarkozy,Russia Direct Investment Fund,Suleyman Kerimov,Vladimir Poutine",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -16888,6 +16910,10 @@
       {
         "id": 1664,
         "value": "Suleyman Kerimov"
+      },
+      {
+        "id": 1753,
+        "value": "Vladimir Poutine"
       }
     ],
     "personnes_morales": [
