@@ -13620,6 +13620,49 @@
     ]
   },
   {
+    "id": 1794,
+    "titre": "L'ex-président du Val-de-Marne condamné pour détournement d'emplois publics",
+    "contenu": "L'ancien président communiste du conseil départemental du Val-de-Marne, Christian Favier, a été condamné mercredi à Paris à 10.000 euros d'amende pour détournement d'emplois publics au sein de la collectivité entre 2011 et 2017. \n\nLe tribunal a estimé que 29 emplois administratifs au sein d'un service baptisé «questure» avaient bien été «détournés», puisqu'ils avaient été affectés aux services de l'autorité politique et donc des élus de l'exécutif.",
+    "url": "https://www.lefigaro.fr/flash-actu/l-ex-president-du-val-de-marne-condamne-pour-detournement-d-emplois-publics-20230329",
+    "date": "2023-03-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151988,
+        "value": "94 - Val-de-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1757,
+        "value": "Christian Favier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 315,
+        "value": "Parti communiste français (PCF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
     "id": 1731,
     "titre": "Grand Avignon : Jean-Marc Roubaud et son ex-cheffe de cabinet relaxés",
     "contenu": "L'ex-président du Grand Avignon était accusé de favoritisme et de détournement de fonds publics, Marion Nussbaumer de \"recel d’abus de bien sociaux\". Le tribunal correctionnel d'Avignon a rendu sa décision ce jeudi 16 mars.",
@@ -16762,7 +16805,7 @@
     "contenu": "Mercredi 11 janvier, Bernard Bensaid, le PDG du groupe de santé \"Avec\", a été mis en examen pour \"prise illégale d'intérêts\" et \"détournement de fonds publics\" au détriment du groupe hospitalier mutualiste de Grenoble (GHM). Bernard Bensaid va être soumis à un contrôle judiciaire avec obligation de verser une caution de 1 million d'euros et interdiction de gérer et diriger le GHM.",
     "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/groupe-hospitalier-mutualiste-de-grenoble-bernard-bensaid-mis-en-examen-et-place-sous-controle-judiciaire-2691866.html",
     "date": "2023-01-11",
-    "etiquettes": "Avec,Bernard Bensaid,Groupe Hospitalier Mutualiste de Grenoble",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151852,
@@ -16846,7 +16889,7 @@
     "contenu": "L’ancien premier ministre tchèque Andrej Babiš a été reçu en toute discrétion à l’Élysée mardi 10 janvier. Une façon pour Emmanuel Macron de soutenir le candidat à la présidentielle, épinglé par les Pandora Papers et visé par une enquête du Parquet national financier. En France et en Europe, les critiques se multiplient.",
     "url": "https://www.mediapart.fr/journal/international/110123/macron-recoit-un-ex-premier-ministre-candidat-la-presidence-tcheque-accuse-de-fraude-fiscale",
     "date": "2023-01-11",
-    "etiquettes": "Andrej Babiš,Élysée,Emmanuel Macron",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1227573,
@@ -16950,7 +16993,7 @@
     "contenu": "Philippe Nachbar s’évite un procès public, mais pas la peine. Epinglé pour le détournement de ses frais de mandat, l’ancien sénateur Les Républicains de Meurthe-et-Moselle, âgé de 72 ans, a été condamné, ce mardi 10 janvier, à une amende de 100 000 euros et trois ans d’inéligibilité au terme d’une procédure de comparution avec reconnaissance préalable de culpabilité, la version française du plaider-coupable américain. Sa peine, négociée avec le Parquet national financier (PNF), a été homologuée par le tribunal judiciaire de Paris.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2023/01/10/frais-de-mandat-philippe-nachbar-ex-senateur-de-meurthe-et-moselle-condamne-pour-detournement-de-fonds-publics_6157334_4355770.html",
     "date": "2023-01-10",
-    "etiquettes": "54 - Meurthe-et-Moselle,Les Républicains,Parquet National Financier,Philippe Nachbar,Sénat",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151955,
@@ -16971,6 +17014,10 @@
       {
         "id": 2,
         "value": "Sénat"
+      },
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
       }
     ],
     "categorie": [
@@ -16993,7 +17040,7 @@
     "contenu": "Rémunéré 2 500 euros la journée de consulting, Jean Rottner a travaillé de 2019 à 2022 pour Hugues Anselin. Le cabinet de recrutement Fursac Anselin a bénéficié de plusieurs contrats avec la Région Grand Est sur cette même période.",
     "url": "https://www.rue89strasbourg.com/pour-doubler-son-salaire-jean-rottner-na-pas-eu-peur-du-conflit-dinterets-254231",
     "date": "2023-01-10",
-    "etiquettes": "67 - Bas-Rhin,Fursac Anselin,Hugues Anselin,Jean Rottner,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151965,
@@ -17004,9 +17051,17 @@
       {
         "id": 1225,
         "value": "Jean Rottner"
+      },
+      {
+        "id": 1754,
+        "value": "Hugues Anselin"
       }
     ],
     "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      },
       {
         "id": 352,
         "value": "Fursac Anselin"
@@ -18637,32 +18692,77 @@
     "contenu": "Il est reproché à l’ancien élu d’avoir acquis, en 2015, une voiture du conseil départemental à un tarif défiant toute concurrence. Des faits qui ont conduit Yves Rome à comparaître le 17 novembre devant le tribunal. Le jugement avait été mis en délibéré. La décision a été rendue ce jeudi 15 décembre 2022.",
     "url": "https://www.courrier-picard.fr/id370144/article/2022-12-15/yves-rome-ancien-president-du-departement-de-loise-relaxe-dans-son-proces-pour",
     "date": "2022-12-15",
-    "etiquettes": "60 - Oise",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151959,
         "value": "60 - Oise"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1755,
+        "value": "Yves Rome"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
   },
   {
     "id": 1161,
     "titre": "« Pandora Papers » : Dominique Strauss-Kahn dans le viseur de la justice française",
-    "contenu": "La justice française s’intéresse à Dominique Strauss-Kahn, l’ancien directeur général du Fonds monétaire international (FMI). Selon les informations du Monde, le Parquet national financier (PNF) a ouvert en mars une enquête préliminaire visant ses activités de conseil exercées depuis le Maroc.\nLa procédure, qui a été confiée au service d’enquêtes judiciaires des finances, la police fiscale de Bercy, porte sur des soupçons de « blanchiment de fraude fiscale aggravée ». L’ancien ministre de l’économie a été entendu avant l’été, dans le cadre d’une garde à vue, afin qu’il s’explique sur la réalité de son statut de résident fiscal marocain. L’enquête a été confirmée au Monde par le PNF, qui s’est refusé à tout autre commentaire.",
+    "contenu": "Le PNF a ouvert en mars une enquête préliminaire visant les activités de conseil de Dominique Strauss-Kahn exercées depuis le Maroc. La procédure, qui a été confiée au service d’enquêtes judiciaires des finances, la police fiscale de Bercy, porte sur des soupçons de « blanchiment de fraude fiscale aggravée ». L’ancien ministre de l’économie a été entendu avant l’été, dans le cadre d’une garde à vue, afin qu’il s’explique sur la réalité de son statut de résident fiscal marocain.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2022/12/14/pandora-papers-dominique-strauss-kahn-dans-le-viseur-de-la-justice-francaise_6154427_4355770.html",
     "date": "2022-12-14",
-    "etiquettes": "Parti Socialiste",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1756,
+        "value": "Dominique Strauss-Kahn"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1158,
@@ -18731,18 +18831,42 @@
     "contenu": "Christian Favier est accusé d'avoir employé des agents du département du Val-de-Marne comme collaborateurs de cabinet entre 2011 et 2017. Le procès, qui se tiendra fin janvier, est l'aboutissement d'une enquête menée par le Parquet national financier (PNF). Plusieurs autres collectivités ont eu recours au même mécanisme.",
     "url": "https://www.lalettrea.fr/action-publique_collectivites-et-territoires/2022/12/13/l-ancien-patron-pcf-du-val-de-marne-bientot-juge-pour-detournement-de-fonds-publics,109873440-art",
     "date": "2022-12-13",
-    "etiquettes": "94 - Val-de-Marne,Christian Favier,Parquet National Financier,Parti communiste français",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151988,
         "value": "94 - Val-de-Marne"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1757,
+        "value": "Christian Favier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 315,
+        "value": "Parti communiste français (PCF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1157,
@@ -18792,16 +18916,43 @@
     "contenu": "Le parquet de Lyon a annoncé l’ouverture d’une enquête visant le groupe écologiste de la Région Auvergne-Rhône-Alpes, pour détournement de fonds publics. EELV dénonce « un contre-feu » lancé par Laurent Wauquiez après le scandale du « dîner des sommets ».\nEn octobre, la Région avait saisi le parquet après un rapport de la direction générale des services sur les dépenses du groupe écologiste présidé par Fabienne Grébert. La Région pointait du doigt le recours à un centre de formation dont le conseiller régional écologiste Olivier Longeon est salarié, pour des prestations estimées « à hauteur de plus de 145 000 euros ». La région s’interrogeait en outre sur la « réalité » d’une formation suivie par Fabienne Grébert, qui, selon ses informations, participait à une cérémonie en Haute-Savoie à la date mentionnée.",
     "url": "https://www.sudouest.fr/justice/une-enquete-pour-detournement-de-fonds-publics-vise-les-ecologistes-de-la-region-auvergne-rhone-alpes-13360248.php",
     "date": "2022-12-13",
-    "etiquettes": "69 - Rhône,74 – Haute Savoie,Europe Écologie Les Verts,Fabienne Grébert,Laurent Wauquiez,Olivier Longeon",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151715,
         "value": "69 - Rhône"
+      },
+      {
+        "id": 1151969,
+        "value": "74 - Haute-Savoie"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1295,
+        "value": "Laurent Wauquiez"
+      },
+      {
+        "id": 1758,
+        "value": "Fabienne Grébert"
+      },
+      {
+        "id": 1759,
+        "value": "Olivier Longeon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 28,
+        "value": "Les écologistes (ex-Europe Ecologie Les Verts) (EELV)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
