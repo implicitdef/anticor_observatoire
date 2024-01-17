@@ -1,5 +1,168 @@
 [
   {
+    "id": 1798,
+    "titre": "Autoroutes : les liaisons dangereuses entre Vinci et une prof de droit de la Sorbonne",
+    "contenu": "Le géant du BTP a nommé Hélène Hoepffner, une enseignante-chercheuse réputée, au conseil d’administration de deux de ses filiales autoroutières. Un mélange des genres qui pose question.",
+    "url": "https://www.linforme.com/industrie/article/autoroutes-les-liaisons-dangereuses-entre-vinci-et-une-prof-de-droit-de-paris-1_1354.html",
+    "date": "2024-01-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1764,
+        "value": "Hélène Hoepffner"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 432,
+        "value": "Université Paris 1 Panthéon-Sorbonne"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1797,
+    "titre": "Chantage à la sextape à la mairie de Saint-Etienne : deux notables mis en examen",
+    "contenu": "L'ex-avocat Robert Giacomel et son épouse Nicole, respectivement président et trésorière de l'association France Lettonie Loire Auvergne, sont soupçonnés de « complicité de détournement de fonds publics ».",
+    "url": "https://www.lefigaro.fr/faits-divers/chantage-a-la-sextape-a-la-mairie-de-saint-etienne-deux-notables-mis-en-examen-20240116",
+    "date": "2024-01-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151856,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1566,
+        "value": "Gaël Perdriau"
+      },
+      {
+        "id": 1567,
+        "value": "Gilles Artigues"
+      },
+      {
+        "id": 1636,
+        "value": "Pierre Gauttieri"
+      },
+      {
+        "id": 1760,
+        "value": "Robert Giacomel"
+      },
+      {
+        "id": 1761,
+        "value": "Nicole Giacomel"
+      },
+      {
+        "id": 1762,
+        "value": "Samy Kéfi-Jérôme"
+      },
+      {
+        "id": 1763,
+        "value": "Gilles Rossary-Lenglet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 276,
+        "value": "Artistes de la Galerie Art Pluriel"
+      },
+      {
+        "id": 431,
+        "value": "France Lettonie Loire Auvergne"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1796,
+    "titre": "La maire de La Seyne, Nathalie Bicais, placée en garde à vue à Toulon",
+    "contenu": "Nathalie Bicais, maire de La Seyne-sur-Mer, est entendue depuis ce lundi par les enquêteurs du service de police judiciaire de Toulon. La maire de La Seyne avait fait l’objet de plaintes émanant de son ancien colistier Damien Guttierez, désormais dans les rangs de l’opposition. Celui-ci dénonçait les conditions dans lesquelles Nathalie Bicais avait bénéficié d’un permis de construire pour la réhabilitation et l’extension d’un bien immobilier acquis à La Seyne en 2021.",
+    "url": "https://www.varmatin.com/politique/la-maire-de-la-seyne-placee-en-garde-a-vue-a-toulon-897308",
+    "date": "2024-01-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151980,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1629,
+        "value": "Nathalie Bicais"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1795,
+    "titre": "EDF : la procédure pour favoritisme et corruption annulée",
+    "contenu": "Des personnes morales et physiques avaient été jugées, en octobre dernier, par le tribunal correctionnel de Fort-de-France pour favoritisme et corruption passive à EDF Martinique. Le délibéré a été rendu ce lundi 15 janvier au matin. Le tribunal a prononcé l'annulation de la procédure, retenant les exceptions de nullité soulevées par les avocats de la défense.",
+    "url": "https://www.franceguyane.fr/actualite/justice/edf-la-procedure-pour-favoritisme-et-corruption-annulee-970521.php",
+    "date": "2024-01-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151991,
+        "value": "972 - Martinique"
+      },
+      {
+        "id": 1151992,
+        "value": "973 - Guyane"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 112,
+        "value": "Électricité de France (EDF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
+  },
+  {
     "id": 1790,
     "titre": "Époux Estrosi : la justice ouvre une enquête pour « prise illégale d’intérêts »",
     "contenu": "Saisi par trois élus écologistes au sujet du Nice Climate Summit, événement en partie financé par les collectivités dirigées par Christian Estrosi, le parquet de Nice ouvre une enquête préliminaire pour « prise illégale d’intérêts ». Au moment des délibérations, l’édile n’avait pas précisé que son épouse, Laura Tenoudji, travaillait avec le journal « La Tribune », co-organisateur, et devait y animer deux tables rondes.",
@@ -49,10 +212,29 @@
     "url": "https://www.leparisien.fr/politique/liens-presumes-entre-le-rn-et-la-russie-le-parti-radical-de-gauche-saisit-la-justice-15-01-2024-OOSEKP72ZFBKBBNIAL3MNXIUDM.php",
     "date": "2024-01-15",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 430,
+        "value": "Parti radical de gauche (PRG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
