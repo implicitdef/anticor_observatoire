@@ -1,5 +1,68 @@
 [
   {
+    "id": 1805,
+    "titre": "Dérives subventionnées par l’argent public : l’enseignement privé hors de contrôle",
+    "contenu": "Malgré les importantes dotations de l’Etat et des collectivités, le dysfonctionnement des mécanismes de contrôle favorise les abus et certains établissements en profitent pour cultiver l’opacité sur l’utilisation de ces subventions. Au point qu’un nombre croissant de professeurs et de parents d’élèves s’organisent, malgré les pressions, pour dénoncer ces pratiques.",
+    "url": "https://www.liberation.fr/societe/education/derives-subventionnees-par-largent-public-lenseignement-prive-hors-de-controle-20240118_HWFCF4W5E5GZPG36DRFO5RV2MM/?redirected=1",
+    "date": "2024-01-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 227,
+        "value": "Ministère de l'Éducation nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1804,
+    "titre": "Une vice-présidentede la Métropole Aix-Marseille condamnée",
+    "contenu": "Emmanuelle Charafe a été condamnée en plaider-coupable pour omission déclarative de son patrimoine et de ses intérêts durant deux ans à la Haute autorité pour la transparence de la vie publique, et ce malgré une injonction.",
+    "url": "https://www.lamarseillaise.fr/politique/une-vice-presidente-de-la-metropole-aix-marseille-condamnee-KD15345816",
+    "date": "2024-01-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1766,
+        "value": "Emmanuelle Charafe"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1802,
     "titre": "Affaire Darmanin-PSG : la justice a perquisitionné à Bercy",
     "contenu": "La justice a diligenté lundi une perquisition dans plusieurs services de l’administration fiscale du ministère de l’économie et des finances, à la suite des révélations de Mediapart sur le traitement de faveur fiscal accordé en 2017 au Paris Saint-Germain dans le cadre du transfert du joueur Neymar.",
@@ -30,6 +93,40 @@
       {
         "id": 177,
         "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1803,
+    "titre": "Marseille : l’élu Reconquête Stéphane Ravier jugé en avril pour avoir fait embaucher son fils à la mairie",
+    "contenu": "Le sénateur Reconquête des Bouches-du-Rhône Stéphane Ravier est renvoyé devant le tribunal correctionnel de Marseille pour prise illégale d’intérêt par un élu public dans une affaire dont il assure l'administration ou la surveillance. Le parlementaire est accusé d’avoir fait employer son fils comme jardinier au sein du service des espaces verts de la mairie du 13e et 14e arrondissement alors qu’il en était à la tête.",
+    "url": "https://www.lefigaro.fr/marseille/marseille-stephane-ravier-reconquete-juge-en-avril-pour-prise-illegale-d-interet-20240117",
+    "date": "2024-01-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1765,
+        "value": "Stéphane Ravier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 190,
+        "value": "Reconquête"
       }
     ],
     "categorie": [
