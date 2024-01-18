@@ -2,21 +2,11 @@ import { Item } from '@/lib/dataReader'
 import { formatDateVerbose, shorten } from '@/lib/utils'
 import Link from 'next/link'
 import { TagsList } from './TagsList'
-import { ReactNode } from 'react'
 
-export function ItemFiche({
-  item,
-  htmlTag,
-}: {
-  item: Item
-  htmlTag: 'li' | 'div'
-}) {
+export function ItemFiche({ item }: { item: Item }) {
   const url = `/revuedepresse/${item.id}`
   return (
-    <DivOrLi
-      {...{ htmlTag }}
-      className="flex flex-col stretch justify-between bg-white px-4 pt-8 pb-8 text-black"
-    >
+    <li className="flex flex-col stretch justify-between bg-white px-4 pt-8 pb-8 text-black">
       <div>
         {item.date ? (
           <p className="mb-2">{formatDateVerbose(item.date)}</p>
@@ -32,22 +22,6 @@ export function ItemFiche({
         </p>
       </div>
       <TagsList {...{ item }} />
-    </DivOrLi>
-  )
-}
-
-function DivOrLi({
-  htmlTag,
-  className = '',
-  children,
-}: {
-  htmlTag: 'div' | 'li'
-  className?: string
-  children: ReactNode
-}) {
-  return htmlTag === 'li' ? (
-    <li {...{ className, children }} />
-  ) : (
-    <div {...{ className, children }} />
+    </li>
   )
 }

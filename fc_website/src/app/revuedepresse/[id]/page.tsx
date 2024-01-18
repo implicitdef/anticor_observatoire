@@ -3,7 +3,6 @@ import { formatDateVerbose } from '@/lib/utils'
 import Link from 'next/link'
 import { NextSearchParams } from '../page'
 import { notFound } from 'next/navigation'
-import { ItemFiche } from '@/components/ItemFiche'
 import { TagsList } from '@/components/TagsList'
 
 type LocalParams = {

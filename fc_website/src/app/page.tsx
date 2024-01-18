@@ -1,5 +1,6 @@
 import { TagsList } from '@/components/TagsList'
 import { Item, getData } from '@/lib/dataReader'
+import Link from 'next/link'
 
 export default function Home() {
   const allItems = getData()
@@ -80,12 +81,14 @@ function ItemsBanner({
         <h2 className="text-4xl mb-8 text-white">{title}</h2>
         <ul className="flex gap-6">
           {items.map((item, idx) => {
+            const url = `/revuedepresse/${item.id}`
+
             return (
               <li
                 key={item.id}
                 className="bg-white font-bold p-2 min-h-[150px] flex items-center justify-center"
               >
-                {item.titre}
+                <Link href={url}>{item.titre}</Link>
               </li>
             )
           })}
