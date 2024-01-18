@@ -1,5 +1,89 @@
 [
   {
+    "id": 1802,
+    "titre": "Affaire Darmanin-PSG : la justice a perquisitionné à Bercy",
+    "contenu": "La justice a diligenté lundi une perquisition dans plusieurs services de l’administration fiscale du ministère de l’économie et des finances, à la suite des révélations de Mediapart sur le traitement de faveur fiscal accordé en 2017 au Paris Saint-Germain dans le cadre du transfert du joueur Neymar.",
+    "url": "https://www.mediapart.fr/journal/france/180124/affaire-darmanin-psg-la-justice-perquisitionne-bercy",
+    "date": "2024-01-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1388,
+        "value": "Gérald Darmanin"
+      },
+      {
+        "id": 1607,
+        "value": "Neymar da Silva Santos Júnior"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1801,
+    "titre": "Procès pour favoritisme : l'ancien ministre du Travail Olivier Dussopt relaxé",
+    "contenu": "Olivier Dussopt, ancien ministre du Travail, est relaxé pour les faits de favoritisme pour lesquels il était jugé par le tribunal correctionnel de Paris. Olivier Dussopt était jugé pour favoritisme dans un marché public en 2009 alors qu'il était maire d'Annonay, en Ardèche.",
+    "url": "https://www.francetvinfo.fr/faits-divers/proces-pour-favoritisme-l-ancien-ministre-du-travail-olivier-dussopt-relaxe_6309240.html",
+    "date": "2024-01-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1264283,
+        "value": "07 - Ardèche"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1234,
+        "value": "Olivier Dussopt"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 51,
+        "value": "Ministère du travail"
+      },
+      {
+        "id": 104,
+        "value": "Saur"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1798,
     "titre": "Autoroutes : les liaisons dangereuses entre Vinci et une prof de droit de la Sorbonne",
     "contenu": "Le géant du BTP a nommé Hélène Hoepffner, une enseignante-chercheuse réputée, au conseil d’administration de deux de ses filiales autoroutières. Un mélange des genres qui pose question.",
@@ -122,7 +206,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1795,
@@ -39473,6 +39562,34 @@
   },
   {
     "id": 1736,
+    "titre": "",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1799,
+    "titre": "",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1800,
     "titre": "",
     "contenu": "",
     "url": "",
