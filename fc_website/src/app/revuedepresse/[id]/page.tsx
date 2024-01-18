@@ -32,7 +32,7 @@ export default function Fiche({
         <div className="flex flex-col space-y-8 mb-8">
           {getSimilarItems(item, allItems).map(({ tag, items }) => {
             return (
-              <div className="">
+              <div className="" key={tag.id}>
                 <h3 className="text-xl mb-2">
                   <LinkToTag
                     {...{ tag }}

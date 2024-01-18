@@ -5,7 +5,7 @@ import { ReactNode } from 'react'
 export function LinkToItem({
   item,
   children,
-  className = ''
+  className = '',
 }: {
   item: Item
   children: ReactNode
@@ -13,5 +13,9 @@ export function LinkToItem({
 }) {
   const url = `/revuedepresse/${item.id}`
 
-  return <Link href={url} {...{className}}>{children}</Link>
+  return (
+    <Link href={url} {...{ className }}>
+      {children}
+    </Link>
+  )
 }
