@@ -16,7 +16,6 @@ export function ItemsList({
     <>
       <ul className="grid grid-cols-3 gap-8 mb-10">
         {paginatedResults.items.map((item) => {
-          const url = `/revuedepresse/${item.id}`
           return <ItemFiche key={item.id} item={item} />
         })}
       </ul>
