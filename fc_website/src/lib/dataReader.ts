@@ -1,7 +1,5 @@
-import { TagKind } from '@/app/revuedepresse/tag/[kind]/[id]/page'
-import rows from '../../../data_collector/data/rows.json'
 import z from 'zod'
-import { pickTagsList } from './utils'
+import rows from '../../../data_collector/data/rows.json'
 
 const thingSchema = z
   .object({
@@ -40,11 +38,4 @@ export function getData(): Item[] {
 export type Tag = {
   id: number
   value: string
-}
-
-export function getTagById(tagKind: TagKind, id: number): Tag | undefined {
-  const tagsList = getData().flatMap((item) => {
-    return pickTagsList(item, tagKind)
-  })
-  return tagsList.find((_) => _.id === id)
 }

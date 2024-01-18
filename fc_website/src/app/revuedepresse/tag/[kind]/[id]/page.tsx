@@ -1,7 +1,7 @@
 import { NextSearchParams } from '@/app/revuedepresse/page'
 import { ItemsList } from '@/components/ItemsList'
-import { getData, getTagById } from '@/lib/dataReader'
-import { pickTagsList } from '@/lib/utils'
+import { getData } from '@/lib/dataReader'
+import { getItemsWithSameTag, getTagById, pickTagsList } from '@/lib/utils'
 import Link from 'next/link'
 
 export type TagKind =
@@ -26,11 +26,9 @@ export default function TagPage({
 }) {
   const tagId = parseInt(params.id, 10)
   const tagKind = params.kind
-  const items = getData().filter((item) => {
-    const tagsList = pickTagsList(item, tagKind)
-    return tagsList.some((_) => _.id === tagId)
-  })
-  const tag = getTagById(tagKind, tagId)
+  const data = getData()
+  const items = getItemsWithSameTag(data, { id: tagId, kind: tagKind })
+  const tag = getTagById(data, tagKind, tagId)
   return (
     <div className="px-4 py-28">
       <h1 className="text-2xl font-bold mb-10 text-zinc-700 text-center">

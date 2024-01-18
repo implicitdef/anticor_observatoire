@@ -21,8 +21,8 @@ export default function RootLayout({
       <body
         className={`${inter.className} bg-zinc-200 min-h-screen flex flex-col`}
       >
-        <header className="bg-white ">
-          <div className="container mx-auto">
+        <header className="">
+          <div className="container mx-auto border-b-4 border-0 border-solid border-red-900">
             <div className="flex justify-between">
               <Link href="/">
                 <div className="bg-red-900 text-white p-4 m-4 font-bold">
