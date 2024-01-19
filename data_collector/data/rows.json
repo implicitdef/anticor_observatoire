@@ -30,7 +30,7 @@
   },
   {
     "id": 1804,
-    "titre": "Une vice-présidentede la Métropole Aix-Marseille condamnée",
+    "titre": "Une vice-présidente de la Métropole Aix-Marseille condamnée",
     "contenu": "Emmanuelle Charafe a été condamnée en plaider-coupable pour omission déclarative de son patrimoine et de ses intérêts durant deux ans à la Haute autorité pour la transparence de la vie publique, et ce malgré une injonction.",
     "url": "https://www.lamarseillaise.fr/politique/une-vice-presidente-de-la-metropole-aix-marseille-condamnee-KD15345816",
     "date": "2024-01-18",
@@ -623,6 +623,52 @@
     "procedure": []
   },
   {
+    "id": 1806,
+    "titre": "Dans un rapport accablant, la Chambre régionale des comptes épingle Liger (Locminé)",
+    "contenu": "Déjà visé par une enquête pénale en cours, le centre d’énergies renouvelables Liger à Locminé dans le Morbihan, qui avait été inauguré en 2016 par le Président de la République Française de l’époque, François Hollande, vient d’être épinglé par la Chambre régionale des comptes.",
+    "url": "https://actu.fr/bretagne/locmine_56117/dans-un-rapport-accablant-la-chambre-regionale-des-comptes-epingle-liger-locmine_60554475.html",
+    "date": "2024-01-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151956,
+        "value": "56 - Morbihan"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1767,
+        "value": "Marc Le Mercier"
+      },
+      {
+        "id": 1768,
+        "value": "Grégoire Super"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 107,
+        "value": "Chambre régionale des comptes"
+      },
+      {
+        "id": 433,
+        "value": "Locminé Innovation Gestion des Énergies Renouvelables (LIGER)"
+      },
+      {
+        "id": 434,
+        "value": "Groupe Jean Floc’h"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1789,
     "titre": "Mise en examen pour \"corruption passive\", Rachida Dati bientôt renvoyée en correctionnelle ?",
     "contenu": "Le PNF s’apprête à requérir le renvoi de la nouvelle ministre de la Culture en correctionnelle… pour « corruption passive ». Rachida Dati est soupçonnée d’avoir touché 900 000 euros de Renault pour des prestations imaginaires. Sauf que la défense de la nouvelle ministre a déposé de nouveaux recours pour cause de prescription. Pas d’éventuel procès en vue d’ici fin 2025 ou 2026.",
@@ -661,6 +707,20 @@
         "value": "Observatoire de la probité"
       }
     ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1807,
+    "titre": "Non-lieu pour un policier de l’antiterrorisme, accusé à tort d’être un «ripoux» sur fond de règlements de comptes internes",
+    "contenu": "Lâché par son administration, au bord du déclassement social, un policier en première ligne lors des attentats de Paris, a bénéficié d’un non-lieu après avoir été poursuivi pour \"trafic d’influence\" dans une vieille affaire de stupéfiants. Plus payé depuis des mois par son administration, malgré l’injonction de la cour administrative d’appel, il réclame aujourd’hui sa réintégration.",
+    "url": "https://www.europe1.fr/Police-Justice/info-europe-1-non-lieu-pour-un-policier-de-lantiterrorisme-accuse-a-tort-detre-un-ripoux-sur-fond-de-reglements-de-comptes-internes-4224739",
+    "date": "2024-01-12",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
     "theme": [],
     "procedure": []
   },
