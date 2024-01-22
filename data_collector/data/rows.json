@@ -1,5 +1,399 @@
 [
   {
+    "id": 1825,
+    "titre": "Amélie Oudéa-Castéra épinglée par le rapport d’une commission d’enquête parlementaire sur les fédérations sportives",
+    "contenu": "Ce document détaille ses conditions salariales très favorables, quand l’actuelle ministre de l’éducation et des sports était à la tête du tennis français, et souligne son peu d’empressement à mettre en place des structures veillant à l’éthique.",
+    "url": "https://www.lemonde.fr/societe/article/2024/01/22/amelie-oudea-castera-epinglee-par-le-rapport-d-une-commission-d-enquete-parlementaire-sur-les-federations-sportives_6212245_3224.html",
+    "date": "2024-01-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1286,
+        "value": "Amélie Oudéa-Castéra"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 88,
+        "value": "Ministère des Sports"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1826,
+    "titre": "Olivier Lévy-Barouch, ex-dirigeant de La Banque postale, rejoint une discrète boutique de fusions-acquisitions",
+    "contenu": "Cinq mois après avoir claqué la porte de La Banque postale en raison de désaccords sur la stratégie de la filiale de La Poste, Olivier Lévy-Barouch est de retour dans les fusions-acquisitions.",
+    "url": "https://www.lalettre.fr/fr/entreprises_finance/2024/01/22/olivier-levy-barouch-ex-dirigeant-de-la-banque-postale-rejoint-une-discrete-boutique-de-fusions-acquisitions%252C110150344-bre",
+    "date": "2024-01-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1784,
+        "value": "Olivier Lévy-Barouch"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 442,
+        "value": "La Banque Postale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1814,
+    "titre": "À France TV, le conflit d’intérêts entre Nathalie Saint-Cricq et sa nièce Amélie Oudéa-Castéra agace",
+    "contenu": "Le groupe audiovisuel public assure que l’éditorialiste politique a fait le choix de ne pas intervenir sur les sujets centrés autour de sa nièce devenue ministre. Mais cette mise en retrait est très relative, et commence à faire jaser en interne.",
+    "url": "https://www.liberation.fr/checknews/ca-jette-le-discredit-sur-la-redaction-a-france-tv-le-conflit-dinterets-entre-nathalie-saint-cricq-et-sa-niece-amelie-oudea-castera-agace-20240120_GQTI26MMRFGVHGCFY4DCOYN5AY/",
+    "date": "2024-01-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1286,
+        "value": "Amélie Oudéa-Castéra"
+      },
+      {
+        "id": 1773,
+        "value": "Nathalie Saint-Cricq"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 436,
+        "value": "France Télévisions"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1253735,
+        "value": "Médias"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1824,
+    "titre": "Affaire Dati-Renault : bras de fer autour de la prescription",
+    "contenu": "La nouvelle ministre de la Culture est mise en examen depuis 2021, suspectée d’avoir perçu indûment une rémunération de la part du groupe Renault, ce qu’elle conteste. Ses avocats, forts de nouveaux éléments, assurent que les faits sont prescrits.",
+    "url": "https://www.leparisien.fr/faits-divers/affaire-dati-renault-bras-de-fer-autour-de-la-prescription-19-01-2024-SLLFW4HOLBGJZO7BU642JPQHSY.php?ts=1705864270561",
+    "date": "2024-01-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1242,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 1243,
+        "value": "Carlos Ghosn"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      },
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 291,
+        "value": "Ministère de la Culture"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1817,
+    "titre": "Chantage à la sextape à Saint-Etienne : Le maire mis en examen pour « participation à une association de malfaiteurs »",
+    "contenu": "Longuement entendu par les enquêteurs ce vendredi, le maire de Saint-Etienne Gaël Perdriau, ex-LR, a été mis en examen pour « participation à une association de malfaiteurs en vue de commettre un chantage » Déjà mis en examen pour chantage en avril dernier, Gaël Perdriau « conteste toujours l’intégralité des faits » qui lui sont reprochés, ont indiqué les avocats dans un communiqué.",
+    "url": "https://www.20minutes.fr/justice/4071656-20240119-chantage-sextape-saint-etienne-maire-mis-examen-participation-association-malfaiteurs",
+    "date": "2024-01-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151856,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1566,
+        "value": "Gaël Perdriau"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1823,
+    "titre": "La Cour des comptes va enquêter sur le pantouflage des fonctionnaires",
+    "contenu": "À l’issue de la seconde édition de sa consultation citoyenne, la Cour des comptes a notamment retenu comme thème de contrôle celui des “passages entre le secteur public et le secteur privé”, traité sous l’angle de la probité et de la déontologie.",
+    "url": "https://acteurspublics.fr/articles/la-cour-des-comptes-va-enqueter-sur-le-pantouflage-des-fonctionnaires",
+    "date": "2024-01-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Cour des comptes (CDC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1822,
+    "titre": "La justice prononce un non-lieu général dans l’affaire de la compagnie maritime corse, l’ex-SNCM",
+    "contenu": "Un appel a été formé par les avocats de l’entrepreneur corse, Patrick Rocca, de la décision de clore sans poursuite ce dossier politiquement sensible.",
+    "url": "https://www.lemonde.fr/societe/article/2024/01/19/la-justice-prononce-un-non-lieu-general-dans-l-affaire-de-la-compagnie-maritime-corse-l-ex-sncm_6211798_3224.html",
+    "date": "2024-01-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151842,
+        "value": "2A - Corse-du-Sud"
+      },
+      {
+        "id": 1151843,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1319,
+        "value": "Patrick Strzoda"
+      },
+      {
+        "id": 1780,
+        "value": "Patrick Rocca"
+      },
+      {
+        "id": 1781,
+        "value": "Pascal Trojani"
+      },
+      {
+        "id": 1782,
+        "value": "François Padrona"
+      },
+      {
+        "id": 1783,
+        "value": "Claude Serra"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 439,
+        "value": "Société nationale maritime Corse-Méditerranée (SNCM) (ex-Compagnie générale transméditerranéenne, CGTM)"
+      },
+      {
+        "id": 440,
+        "value": "Corsica Linea"
+      },
+      {
+        "id": 441,
+        "value": "Office des transports de la Corse (OTC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1815,
+    "titre": "Le député du Rhône Hubert Julien-Laferrière à nouveau soupçonné de corruption et d’ingérence",
+    "contenu": "Déjà soupçonné d’avoir fait la promotion d’un escroc camerounais à la demande d’un lobbyiste, le député du Rhône Hubert Julien-Laferrière est suspecté d’avoir soutenu un ex-dirigeant kazakhstanais contre de l’argent, dans le cadre de ses activités parlementaires.",
+    "url": "https://www.rue89lyon.fr/2024/01/19/depute-rhone-hubert-julien-laferriere-nouveau-soupconne-corruption-ingerence/",
+    "date": "2024-01-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 295,
+        "value": "Hubert Julien-Laferrière"
+      },
+      {
+        "id": 1241,
+        "value": "Rachid M’Barki"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1819,
+    "titre": "Malgré des soupçons de prise illégale d'intérêt et des révélations fracassantes, les frais de justice d'un élu pris en charge par sa collectivité",
+    "contenu": "Les élus de la Communauté d'agglomération Gaillac Graulhet (CAGG) ont voté, jeudi 18 janvier 2024, la prise en charge des frais judiciaires du président de la collectivité, Paul Salvador. Malgré les enquêtes en cours sur des allégations de prise illégale d'intérêt concernant la vente de terrains de l'usine de bitume de Montans et de nouvelles révélations, la délibération a été approuvée.",
+    "url": "https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/malgre-des-soupcons-de-prise-illegale-d-interet-et-des-revelations-fracassantes-les-frais-de-justice-d-un-elu-pris-en-charge-par-sa-collectivite-2909384.html",
+    "date": "2024-01-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151978,
+        "value": "81 - Tarn"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1774,
+        "value": "Paul Salvador"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1818,
+    "titre": "Soupçons de corruption et trafic d’influence au PSG : Nasser Al-Khelaïfi porte plainte pour \"violations du secret de l’instruction\"",
+    "contenu": "Nasser Al-Khelaïfi, président qatari du Paris Saint-Germain, a porté plainte jeudi 18 janvier pour \"violations, orchestrées, orientées, parcellaires et tronquées, du secret professionnel, du secret de l'enquête et du secret de l'instruction\", ont annoncé vendredi 19 janvier dans un communiqué ses avocats Renaud Semerdjian et Francis Szpiner.",
+    "url": "https://www.francetvinfo.fr/sports/foot/psg/soupcons-de-corruption-et-trafic-d-influence-au-psg-nasser-al-khelaifi-porte-plainte-pour-violations-du-secret-de-l-instruction_6313506.html",
+    "date": "2024-01-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1226729,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1597,
+        "value": "Nasser al-Khelaïfi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1805,
     "titre": "Dérives subventionnées par l’argent public : l’enseignement privé hors de contrôle",
     "contenu": "Malgré les importantes dotations de l’Etat et des collectivités, le dysfonctionnement des mécanismes de contrôle favorise les abus et certains établissements en profitent pour cultiver l’opacité sur l’utilisation de ces subventions. Au point qu’un nombre croissant de professeurs et de parents d’élèves s’organisent, malgré les pressions, pour dénoncer ces pratiques.",
@@ -27,6 +421,212 @@
     ],
     "theme": [],
     "procedure": []
+  },
+  {
+    "id": 1809,
+    "titre": "Dominique Gros, l'ancien maire de Metz condamné à 4 mois de prison avec sursis pour prise illégale d'intérêt",
+    "contenu": "Jugé pour prise illégale d'intérêt, Dominique Gros, ancien maire de Metz de 2008 à 2020 a été condamné par le tribunal correctionnel de Metz, jeudi 18 janvier, à quatre mois de prison avec sursis, 10 000 euros d'amende dont 5 000 avec sursis et trois ans d'inéligibilité. Deux volets composent cette affaire. L'un concernant deux subventions attribués à l'association de Metz Métropole développement et l'autre concerne la cession de bâtiments de la place de la Comédie de Metz en 2017.",
+    "url": "https://www.francebleu.fr/infos/politique/dominique-gros-l-ancien-maire-de-metz-condamne-a-4-mois-de-prison-avec-sursis-pour-prise-illegale-d-interet-7614429",
+    "date": "2024-01-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151957,
+        "value": "57 - Moselle"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1416,
+        "value": "Dominique Gros"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
+    "id": 1810,
+    "titre": "Gérard Abella, le maire de Boujan-sur-Libron, suspecté de prise illégale d'intérêt, placé en garde à vue",
+    "contenu": "Gérard Abella, le maire de Boujan-sur-Libron, a été placé en garde à vue dans les locaux de la DTPJ (direction territoriale de la police judiciaire) au commissariat de Montpellier. Il était entendu dans le cadre d’une affaire de prise illégale d’intérêt, notamment, dans la vente de terrains à Boujan-sur-Libron.",
+    "url": "https://www.midilibre.fr/2024/01/18/gerard-abella-le-maire-de-boujan-sur-libron-suspecte-de-prise-illegale-dinteret-place-en-garde-a-vue-11704839.php",
+    "date": "2024-01-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151848,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1770,
+        "value": "Gérard Abella"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1811,
+    "titre": "Les confessions de l’ex-présentateur star de BFMTV accusé de corruption",
+    "contenu": "L’enquête sur les soupçons d’ingérence étrangère dans la politique et les médias français progresse à grands pas. Mis en examen le 8 décembre, le journaliste Rachid M’Barki a reconnu pour la première fois avoir perçu de l’argent liquide pour diffuser des sujets orientés sur BFMTV, mais se dit « manipulé ».",
+    "url": "https://www.leparisien.fr/faits-divers/tu-as-mbarkise-le-prompteur-les-confessions-de-lex-presentateur-star-de-bfmtv-accuse-de-corruption-18-01-2024-OCI4RC6YNFDMXFAN7GJR2LY3G4.php?ts=1705676427067",
+    "date": "2024-01-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1226729,
+        "value": "Qatar"
+      },
+      {
+        "id": 1252743,
+        "value": "Maroc"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 295,
+        "value": "Hubert Julien-Laferrière"
+      },
+      {
+        "id": 1228,
+        "value": "Jean-Pierre Duthion"
+      },
+      {
+        "id": 1241,
+        "value": "Rachid M’Barki"
+      },
+      {
+        "id": 1771,
+        "value": "Karim Massimov"
+      },
+      {
+        "id": 1772,
+        "value": "Nabil Enassri"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 83,
+        "value": "BFM TV"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1813,
+    "titre": "Michèle Alliot-Marie renvoyée en correctionnelle",
+    "contenu": "L’ex-ministre Michèle Alliot-Marie sera jugée pour « prise illégale d’intérêts » dans une affaire de subvention municipale versée à une association que présidait son père à Saint-Jean-de-Luz.",
+    "url": "https://www.lepoint.fr/societe/exclusif-pourquoi-michele-alliot-marie-sera-t-elle-jugee-18-01-2024-2550107_23.php",
+    "date": "2024-01-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1151962,
+        "value": "64 - Pyrénées-Atlantiques"
+      },
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1310,
+        "value": "Michèle Alliot-Marie"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1808,
+    "titre": "Trafic d’influence : la banque Delubac, son gérant et un ancien conseiller de Nicolas Sarkozy seront jugés",
+    "contenu": "Ancien conseiller de Nicolas Sarkozy, Jean-François Étienne Des Rosaies était entré au conseil de surveillance de la banque Delbac en 2010. La justice soupçonne la banque de l’avoir nommé pour tenter d’obtenir une décision favorable du gendarme français des services financiers.",
+    "url": "https://www.leparisien.fr/faits-divers/trafic-dinfluence-la-banque-delubac-son-gerant-et-un-ancien-conseiller-de-nicolas-sarkozy-seront-juges-18-01-2024-YZTUS3NVLJAYPM7NNQTIPY5LVI.php",
+    "date": "2024-01-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1769,
+        "value": "Jean-François Étienne Des Rosaies"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 435,
+        "value": "Banque Delubac & Cie"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1804,
@@ -175,6 +775,44 @@
       {
         "id": 1152012,
         "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1820,
+    "titre": "Acquisition de 67 hectares par la ville de Gap : une association anticorruption a déposé une plainte contre X",
+    "contenu": "L’association \"Anti-Corruption\" - aussi appelée AC !! - a récemment déposé une plainte contre X pour « prise illégale d’intérêts » et « détournement de biens publics » auprès du procureur de la République du tribunal judiciaire de Gap.",
+    "url": "https://ram05.fr/acquisition-de-67-hectares-par-la-ville-de-gap-une-association-anticorruption-a-depose-une-plainte-contre-x",
+    "date": "2024-01-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151603,
+        "value": "05 - Hautes-Alpes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1775,
+        "value": "Joële Roussin-Bouchard"
+      },
+      {
+        "id": 1776,
+        "value": "Roger Didier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 170,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -669,6 +1307,47 @@
     "procedure": []
   },
   {
+    "id": 1821,
+    "titre": "Le procès du Mulhouse olympic natation pour abus de bien sociaux est finalement reporté",
+    "contenu": "Le procès pour abus de biens sociaux du Mulhouse olympic natation (MON), prévu initialement le 18 janvier, va être reporté au mois d'avril, a annoncé vendredi à l'AFP la procureure de la République de Mulhouse (Haut-Rhin), Edwige Roux-Morizot.",
+    "url": "https://www.lefigaro.fr/sports/autres-sports/natation-le-proces-du-mulhouse-olympic-natation-pour-abus-de-bien-sociaux-est-finalement-reporte-20240112",
+    "date": "2024-01-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151966,
+        "value": "68 - Haut-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1777,
+        "value": "Franck Horter"
+      },
+      {
+        "id": 1778,
+        "value": "Marjorie Horter"
+      },
+      {
+        "id": 1779,
+        "value": "Marie Octavie Horter"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 170,
+        "value": "AC !! Anti-Corruption"
+      },
+      {
+        "id": 437,
+        "value": "Mulhouse olympic natation (MON)"
+      }
+    ],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1789,
     "titre": "Mise en examen pour \"corruption passive\", Rachida Dati bientôt renvoyée en correctionnelle ?",
     "contenu": "Le PNF s’apprête à requérir le renvoi de la nouvelle ministre de la Culture en correctionnelle… pour « corruption passive ». Rachida Dati est soupçonnée d’avoir touché 900 000 euros de Renault pour des prestations imaginaires. Sauf que la défense de la nouvelle ministre a déposé de nouveaux recours pour cause de prescription. Pas d’éventuel procès en vue d’ici fin 2025 ou 2026.",
@@ -717,10 +1396,25 @@
     "url": "https://www.europe1.fr/Police-Justice/info-europe-1-non-lieu-pour-un-policier-de-lantiterrorisme-accuse-a-tort-detre-un-ripoux-sur-fond-de-reglements-de-comptes-internes-4224739",
     "date": "2024-01-12",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 201,
+        "value": "Direction nationale de la Police judiciaire"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -1848,7 +2542,7 @@
     "personnes_morales": [
       {
         "id": 4,
-        "value": "Cour des comptes"
+        "value": "Cour des comptes (CDC)"
       },
       {
         "id": 235,
@@ -2254,7 +2948,7 @@
     "personnes_morales": [
       {
         "id": 4,
-        "value": "Cour des comptes"
+        "value": "Cour des comptes (CDC)"
       },
       {
         "id": 271,
@@ -7468,7 +8162,7 @@
     "personnes_morales": [
       {
         "id": 4,
-        "value": "Cour des comptes"
+        "value": "Cour des comptes (CDC)"
       }
     ],
     "categorie": [
@@ -8737,7 +9431,7 @@
     "personnes_morales": [
       {
         "id": 4,
-        "value": "Cour des comptes"
+        "value": "Cour des comptes (CDC)"
       }
     ],
     "categorie": [
@@ -10235,6 +10929,39 @@
     "procedure": []
   },
   {
+    "id": 1812,
+    "titre": "Le politologue Nabil Ennasri et le lobbyiste Jean-Pierre Duthion sont mis en examen",
+    "contenu": "Nabil Ennasri a été placé mercredi en détention provisoire et Jean-Pierre Duthion placé sous contrôle judiciaire. L'enquête porte notamment sur des soupçons de corruption et de trafic d'influence.",
+    "url": "https://www.francetvinfo.fr/monde/story-killers/enquete-story-killers-le-politologue-nabil-ennasri-et-le-lobbyiste-jean-pierre-duthion-ont-ete-deferes_6101508.html",
+    "date": "2023-10-04",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [
+      {
+        "id": 1228,
+        "value": "Jean-Pierre Duthion"
+      },
+      {
+        "id": 1772,
+        "value": "Nabil Enassri"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 83,
+        "value": "BFM TV"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1370,
     "titre": "IN Groupe : l'encombrant héritage de sa filiale Surys",
     "contenu": "Le Parquet national financier a ouvert une enquête préliminaire en 2022 sur les activités de Surys, une filiale d'IN Groupe, soupçonnée d'avoir participé à un schéma de détournement de fonds publics en Ukraine.",
@@ -10969,6 +11696,35 @@
       {
         "id": 1153424,
         "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1816,
+    "titre": "Mulhouse : Le club de natation visé par une plainte pour favoritisme et prise illégale d’intérêts",
+    "contenu": "L’association Anticorruption AC !! a porté plainte contre X pour prise illégale d’intérêts et favoritisme, dénonçant le manque de « contrôle » du financement public du Mulhouse Olympic Natation par l’agglomération mulhousienne.",
+    "url": "https://www.20minutes.fr/justice/4053552-20230918-mulhouse-club-natation-vise-plainte-favoritisme-prise-illegale-interets",
+    "date": "2023-09-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151966,
+        "value": "68 - Haut-Rhin"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
       }
     ]
   },
@@ -13713,7 +14469,7 @@
     "personnes_morales": [
       {
         "id": 4,
-        "value": "Cour des comptes"
+        "value": "Cour des comptes (CDC)"
       },
       {
         "id": 235,
@@ -13885,7 +14641,7 @@
     "personnes_morales": [
       {
         "id": 4,
-        "value": "Cour des comptes"
+        "value": "Cour des comptes (CDC)"
       },
       {
         "id": 296,
@@ -19103,14 +19859,29 @@
   {
     "id": 1162,
     "titre": "Perquisitions au site de General Electric à Belfort, pour des soupçons de blanchiment de fraude fiscale",
-    "contenu": "Le site de General Electric, à Belfort, a été perquisitionné, jeudi 15 décembre, dans le cadre d’une enquête préliminaire pour blanchiment de fraude fiscale aggravée, a annoncé le Parquet national financier (PNF) à l’Agence France-Presse, confirmant une source proche du dossier. L’enquête avait été ouverte en juillet 2019, à la suite d’un signalement effectué par le secrétaire national du Parti communiste français, Fabien Roussel, sur des « soupçons d’optimisation et fraudes fiscales de General Electric » en Suisse.\nAprès plusieurs expertises et deux droits d’alerte depuis 2018 restés sans effet, la Confédération française de l’encadrement-Confédération générale des cadres (CFE-CGC) et Solidaires, unitaires, démocratiques (SUD) ont porté plainte contre X le 30 mai dernier (avec le comité social et économique), auprès du PNF, pour « blanchiment de fraude fiscale, abus de confiance, faux et usage de faux et recel aggravé en bande organisée ». Une procédure qui engage la responsabilité de l’entreprise comme celle de ses dirigeants. Une enquête du média d’investigation Disclose avait, par ailleurs, révélé que la multinationale américaine avait transféré jusqu’à 800 millions d’euros de profits vers la Suisse et l’Etat américain du Delaware entre 2015 et 2020.",
+    "contenu": "Le site de General Electric, à Belfort, a été perquisitionné, jeudi 15 décembre, dans le cadre d’une enquête préliminaire pour blanchiment de fraude fiscale aggravée. L’enquête avait été ouverte en juillet 2019, à la suite d’un signalement effectué par Fabien Roussel sur des « soupçons d’optimisation et fraudes fiscales de General Electric » en Suisse.",
     "url": "https://www.lemonde.fr/economie/article/2022/12/15/a-belfort-perquisitions-chez-general-electric-soupconne-de-blanchiment-de-fraude-fiscale_6154581_3234.html",
     "date": "2022-12-15",
     "etiquettes": "CFE-CGC,General Electric,Parquet National Financier,SUD",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151987,
+        "value": "90 - Territoire-de-Belfort"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 27,
+        "value": "General Electric"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -19195,30 +19966,96 @@
   {
     "id": 1158,
     "titre": "Affaire « Bismuth » : trois ans de prison avec sursis requis à l’encontre de Nicolas Sarkozy",
-    "contenu": "LesLes réquisitions sont en deçà des peines prononcées en première instance. Dans l’affaire « Paul Bismuth », l’avocat général de la cour d’appel de Paris a demandé des peines de trois ans avec sursis pour les trois protagonistes de l’affaire : Nicolas Sarkozy, Thierry Herzog et Gilbert Azibert. Ont aussi été demandés cinq ans de privation des droits civiques pour l’ancien président de la République, cinq ans d’interdiction d’exercice du métier d’avocat pour Thierry Herzog, et cinq ans de privation des droits civiques pour Gilbert Azibert.",
+    "contenu": "Les réquisitions sont en deçà des peines prononcées en première instance. Dans l’affaire « Paul Bismuth », l’avocat général de la cour d’appel de Paris a demandé des peines de trois ans avec sursis pour les trois protagonistes de l’affaire : Nicolas Sarkozy, Thierry Herzog et Gilbert Azibert. Ont aussi été demandés cinq ans de privation des droits civiques pour l’ancien président de la République, cinq ans d’interdiction d’exercice du métier d’avocat pour Thierry Herzog, et cinq ans de privation des droits civiques pour Gilbert Azibert.",
     "url": "https://www.mediapart.fr/journal/france/131222/affaire-bismuth-trois-ans-de-prison-avec-sursis-requis-l-encontre-de-nicolas-sarkozy",
     "date": "2022-12-13",
-    "etiquettes": "Elysée,Gilbert Azibert,Nicolas Sarkozy,Thierry Herzog",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1787,
+        "value": "Gilbert Azibert"
+      },
+      {
+        "id": 1788,
+        "value": "Thierry Herzog"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 29,
+        "value": "Élysée"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1166,
     "titre": "Campagnes de Macron : McKinsey et Renaissance perquisitionnés",
-    "contenu": "Des perquisitions ont été menées ce mardi 13 décembre aux sièges parisiens de McKinsey et du parti Renaissance, a annoncé le parquet national financier (PNF) ce mercredi, confirmant une information du Parisien.\nCes perquisitions ont été conduites par les juges d’instruction dans le cadre de deux informations judiciaires ouvertes en octobre. L’une d’elles porte sur l’intervention des cabinets de conseil dans les campagnes électorales de 2017 et 2022 d’Emmanuel Macron, et l’autre sur le recours plus général de l’Etat à ces cabinets de conseil, selon des sources proches du dossier.",
+    "contenu": "Des perquisitions ont été menées mardi 13 décembre aux sièges parisiens de McKinsey et du parti Renaissance. Ces perquisitions ont été conduites par les juges d’instruction dans le cadre de deux informations judiciaires ouvertes en octobre. L’une d’elles porte sur l’intervention des cabinets de conseil dans les campagnes électorales de 2017 et 2022 d’Emmanuel Macron, et l’autre sur le recours plus général de l’Etat à ces cabinets de conseil, selon des sources proches du dossier.",
     "url": "https://www.huffingtonpost.fr/justice/article/campagnes-de-macron-mckinsey-et-renaissance-perquisitionnes_211524.html",
     "date": "2022-12-13",
-    "etiquettes": "Emmanuel Macron,McKinsey,Parquet National Financier,Renaissance",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1275,
+        "value": "Emmanuel Macron"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 18,
+        "value": "Renaissance"
+      },
+      {
+        "id": 444,
+        "value": "McKinsey & Company"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1167,
@@ -19240,18 +20077,38 @@
     "contenu": "Ils dénoncent un grave conflit d'intérêts. Les élus de la communauté de communes Corbières-Salanque-Méditerranée (C3SM), représentés par leur président Jean-Jacques Lopez, ont saisi la justice début décembre. Une plainte contre X pour prises illégales d'intérêt, détournements de fond publics, escroquerie et trafic d'influence. Elle vise indirectement les proches de Joseph Puig, l'élu centriste décédé en 2017.\nLa plainte est déposée car l'ancien élu et ses proches sont soupçonnés de s'être enrichis illégalement, lorsque Joseph Puig était à la tête de la C3SM, établissement public qu'il a présidé jusqu'à son décès.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/info-france-bleu-espace-roussillon-la-communaute-de-communes-porte-plainte-pour-prise-illegale-d-1670926830",
     "date": "2022-12-13",
-    "etiquettes": "66 - Pyrénées Orientales,Corbières-Salanque-Méditerranée,Joseph Puig",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151964,
         "value": "66 - Pyrénées-Orientales"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1789,
+        "value": "Joseph Puig"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 443,
+        "value": "Communauté de communes Corbières Salanque Méditerranée (C3SM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
+      }
+    ]
   },
   {
     "id": 1152,
@@ -19302,8 +20159,17 @@
     "contenu": "Le président de la Fédération française de rugby (FFR), Bernard Laporte, a été condamné à deux ans de prison avec sursis et 75 000 euros d'amende, mardi 13 décembre, pour corruption passive, trafic d'influence, prise illégale d'intérêts, recel d'abus de biens sociaux et abus de biens sociaux. Il écope aussi de deux ans d'interdiction d'exercer toute fonction en lien avec le rugby, prononcée sans exécution provisoire. Bernard Laporte va faire appel de sa condamnation, selon son avocat.\nLe président de la FFR a été jugé coupable d'avoir rendu une série d'arbitrages au bénéfice du groupe Altrad – dont l'octroi du sponsoring maillot du XV de France – après avoir perçu de sa part 180 000 euros en mars 2017 en vertu d'un contrat d'image jamais exécuté. Pour ces faits, le patron du club de rugby de Montpellier, Mohed Altrad, est condamné à 18 mois de prison avec sursis.",
     "url": "https://www.francetvinfo.fr/sports/rugby/bernard-laporte/le-president-de-la-federation-francaise-de-rugby-bernard-laporte-condamne-a-deux-ans-de-prison-avec-sursis-pour-un-pacte-de-corruption-avec-mohed-altrad_5541903.html#xtor=CS2-765-%5Bautres%5D-",
     "date": "2022-12-13",
-    "etiquettes": "Bernard Laporte,Fédération française de rugby",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1151848,
+        "value": "34 - Hérault"
+      }
+    ],
     "personnalites": [
       {
         "id": 1475,
@@ -19314,10 +20180,25 @@
         "value": "Mohed Altrad"
       }
     ],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 206,
+        "value": "Fédération française de rugby"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1156,
@@ -19325,18 +20206,37 @@
     "contenu": "Le tribunal correctionnel de Douai a rendu son délibéré, ce mardi matin, dans l’affaire de favoritisme reprochée à Freddy Kaczmarek, ancien maire d’Auby, et Mohamed Zazoua, promoteur immobilier.",
     "url": "https://www.lavoixdunord.fr/1266264/article/2022-12-13/soupcons-de-favoritisme-auby-l-ancien-maire-freddy-kaczmarek-est-relaxe",
     "date": "2022-12-13",
-    "etiquettes": "59 – Nord,Freddy Kaczmarek,Mohamed Zazoua",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151958,
         "value": "59 - Nord"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1785,
+        "value": "Freddy Kaczmarek"
+      },
+      {
+        "id": 1786,
+        "value": "Mohamed Zazoua"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
   },
   {
     "id": 1155,
@@ -19382,7 +20282,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1150,
@@ -22074,7 +22979,7 @@
     "personnes_morales": [
       {
         "id": 4,
-        "value": "Cour des comptes"
+        "value": "Cour des comptes (CDC)"
       },
       {
         "id": 166,
