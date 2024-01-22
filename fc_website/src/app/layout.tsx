@@ -39,16 +39,19 @@ export default function RootLayout({
               <Link href={'/revuedepresse'} className="fc-link">
                 Revue de presse
               </Link>
+              <Link href={'/apropos'} className="fc-link">
+                À propos{' '}
+              </Link>
             </div>
           </div>
         </header>
         <main className="mx-auto grow w-full">{children}</main>
         <footer className="">
           <div className="container mx-auto p-4 border-t-[1px] border-0 border-solid border-zinc-700 flex justify-center gap-4 text-zinc-700">
-            <Link href={'#'} className="fc-link">
+            <Link href={'/mentionslegales'} className="fc-link">
               Mentions légales
             </Link>
-            <Link href={'#'} className="fc-link">
+            <Link href={'/politiquedeconfidentialite'} className="fc-link">
               Politique de confidentialité
             </Link>
           </div>

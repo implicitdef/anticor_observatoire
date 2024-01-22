@@ -21,6 +21,7 @@ export default function Home() {
           culpa qui officia deserunt mollit anim id est laborum.
         </p>
       </div>
+      {allItems.length > 0 && <ALaUneBanner item={allItems[0]} />}
       <ItemsBanner
         color="bg-red-700"
         title="Probité"
@@ -95,6 +96,21 @@ function ItemsBanner({
           })}
         </ul>
       </div>
+    </div>
+  )
+}
+
+function ALaUneBanner({ item }: { item: Item }) {
+  return (
+    <div className="container mx-auto mb-8">
+      <LinkToItem {...{ item }} className="grid grid-cols-2 w-full">
+        <h2 className="p-8 font-bold bg-zinc-600 min-h-[400px] h-full flex items-center justify-center uppercase text-4xl text-black">
+          à la une :
+        </h2>
+        <div className="bg-zinc-400 font-bold p-2 flex items-center justify-center text-2xl p-8">
+          {item.titre}
+        </div>
+      </LinkToItem>
     </div>
   )
 }
