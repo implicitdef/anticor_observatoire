@@ -22,9 +22,9 @@ const rowsSchema = z
     departement: thingSchema.array(),
     personnalites: thingSchema.array(),
     personnes_morales: thingSchema.array(),
-    categorie: thingSchema.array().max(1),
+    categorie: thingSchema.array(),
     theme: thingSchema.array(),
-    procedure: thingSchema.array().max(1),
+    procedure: thingSchema.array(),
   })
   .strict()
   .array()
