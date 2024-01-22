@@ -1,6 +1,6 @@
 import { NextSearchParams } from '@/app/revuedepresse/page'
 import { Item } from '@/lib/dataReader'
-import { getPaginatedResults } from '@/lib/searchAndPagination'
+import { getPaginatedResults } from '@/lib/pagination'
 import { ItemFiche } from './ItemFiche'
 import { Pagination } from './Pagination'
 

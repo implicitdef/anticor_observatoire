@@ -1,4 +1,4 @@
-import { PaginatedResults } from '@/lib/searchAndPagination'
+import { PaginatedResults } from '@/lib/pagination'
 import Link from 'next/link'
 
 export function Pagination({

@@ -1,10 +1,10 @@
 import { Item } from './dataReader'
 import z from 'zod'
 
-export const searchParamsSchema = z.object({
+export const paginationParamsSchema = z.object({
   page: z.coerce.number().optional(),
 })
-export type SearchParams = z.infer<typeof searchParamsSchema>
+export type PaginationParams = z.infer<typeof paginationParamsSchema>
 
 const ITEMS_BY_PAGE = 50
 
@@ -12,10 +12,10 @@ export type PaginatedResults = ReturnType<typeof getPaginatedResults>
 
 export function getPaginatedResults(
   allItems: Item[],
-  searchParams: SearchParams,
+  searchParams: PaginationParams,
 ) {
-  const parsingRes = searchParamsSchema.safeParse(searchParams)
-  const searchParamsParsed: SearchParams = parsingRes.success
+  const parsingRes = paginationParamsSchema.safeParse(searchParams)
+  const searchParamsParsed: PaginationParams = parsingRes.success
     ? parsingRes.data
     : {}
   const currentPage = searchParamsParsed.page ?? 1
