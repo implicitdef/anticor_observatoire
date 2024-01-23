@@ -1,5 +1,39 @@
 [
   {
+    "id": 1828,
+    "titre": "L’ancien maire de Roquebrune-sur-Argens Jean-Paul Ollivier jugé pour prise illégale d’intérêt",
+    "contenu": "Il était reproché à Jean-Paul Ollivier, avant qu’il ne prenne la succession de Luc Jousse en août 2016, d’avoir cumulé ses fonctions électives avec celle de directeur général délégué de la société d’économie mixte locale (SEML) Sarget.",
+    "url": "https://www.varmatin.com/justice/roquebrune-argens-jean-paul-ollivier-juge-pour-prise-illegale-d-interet-898588",
+    "date": "2024-01-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151980,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1793,
+        "value": "Jean-Paul Ollivier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 447,
+        "value": "Société anonyme roquebrunoise de gestion événementielle et touristique (SEML Sarget)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1825,
     "titre": "Amélie Oudéa-Castéra épinglée par le rapport d’une commission d’enquête parlementaire sur les fédérations sportives",
     "contenu": "Ce document détaille ses conditions salariales très favorables, quand l’actuelle ministre de l’éducation et des sports était à la tête du tennis français, et souligne son peu d’empressement à mettre en place des structures veillant à l’éthique.",
@@ -20085,15 +20119,44 @@
   {
     "id": 1167,
     "titre": "Derrière le retrait de plainte de la FIFA contre Nasser Al-Khelaïfi, un « don » à la Fondation FIFA",
-    "contenu": "Selon les informations du « Monde », le camp du patron du PSG et de BeIN Media a versé, en 2020, une contrepartie financière à la Fondation FIFA dans le cadre de l’« accord amiable » relatif au retrait par la FIFA de la plainte pour « corruption » contre M. Al-Khelaïfi en Suisse.",
+    "contenu": "Le camp du patron du PSG et de BeIN Media a versé, en 2020, une contrepartie financière à la Fondation FIFA dans le cadre de l’« accord amiable » relatif au retrait par la FIFA de la plainte pour « corruption » contre M. Al-Khelaïfi en Suisse.",
     "url": "https://www.lemonde.fr/societe/article/2022/12/13/derriere-le-retrait-de-plainte-de-la-fifa-contre-nasser-al-khelaifi-un-don-a-la-fondation-fifa_6154250_3224.html",
     "date": "2022-12-13",
-    "etiquettes": "BeIN,Fifa,Nasser al-Khelaïfi,PSG",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1597,
+        "value": "Nasser al-Khelaïfi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 445,
+        "value": "BeIn Sports France"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
     "procedure": []
   },
   {
@@ -20317,28 +20380,81 @@
   {
     "id": 1150,
     "titre": "Derrière les barbouzes du PSG, l’ombre de Bernard Squarcini",
-    "contenu": "Mediapart révèle le rôle trouble joué par l’ancien patron du renseignement intérieur français : il apparaît avoir été l’instigateur ou le bénéficiaire d’enquêtes privées et illégales en marge de l’affaire qui éclabousse le club de foot parisien.",
+    "contenu": "L’ancien patron du renseignement intérieur français apparaît avoir été l’instigateur ou le bénéficiaire d’enquêtes privées et illégales en marge de l’affaire qui éclabousse le club de foot parisien.",
     "url": "https://www.mediapart.fr/journal/france/121222/derriere-les-barbouzes-du-psg-l-ombre-de-bernard-squarcini",
     "date": "2022-12-12",
-    "etiquettes": "Bernard Squarcini,Malik Nait-Liman,PSG",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1346,
+        "value": "Bernard Squarcini"
+      },
+      {
+        "id": 1445,
+        "value": "Malik Nait-Liman"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
     "procedure": []
   },
   {
     "id": 1151,
     "titre": "Fraude aux quotas carbone : le fisc réclame un milliard au courtier Jaroslaw Klapucki",
-    "contenu": "Dans la gigantesque escroquerie à la TVA sur le marché du carbone, on connaît bien Marco Mouly, devenu une vedette des plateaux télés, notamment de Cyril Hanouna. Mais beaucoup moins Jaroslaw Klapucki, un temps soupçonné d’en avoir été complice avec sa société de courtage Consus. Pourtant, Bercy lui court après depuis maintenant dix ans ! En 2012, cet homme d’affaires polonais - qui n’a pas souhaité répondre à nos questions - s’était vu infliger un redressement fiscal historique, d’environ 1,2 milliard d’euros. Bien qu’il ait été depuis blanchi par la justice pénale (lire ci-dessous), voilà que la Cour administrative d’appel vient de confirmer l’essentiel de cette amende titanesque, ne la réduisant que de 122 millions d’euros. Finalement, le montant réclamé à Consus frôle toujours le milliard : 994 millions très exactement selon les calculs de l’Informé.",
+    "contenu": "En 2012, cet homme d’affaires polonais s’était vu infliger un redressement fiscal historique, d’environ 1,2 milliard d’euros. Bien qu’il ait été depuis blanchi par la justice pénale, la Cour administrative d’appel vient de confirmer l’essentiel de cette amende titanesque, ne la réduisant que de 122 millions d’euros. Finalement, le montant réclamé à Consus frôle toujours le milliard : 994 millions très exactement.",
     "url": "https://www.linforme.com/banque-finance/article/fraude-aux-quotas-carbone-bercy-reclame-un-milliard-au-courtier-jaroslaw-klapucki_207.html",
     "date": "2022-12-12",
-    "etiquettes": "Consus,Jaroslaw Klapucki,Marco Mouly",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1791,
+        "value": "Jaroslaw Klapucki"
+      },
+      {
+        "id": 1792,
+        "value": "Marco Mouly"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 446,
+        "value": "Consus"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -20387,8 +20503,8 @@
   },
   {
     "id": 1154,
-    "titre": "Sète : Le maire, poursuivi pour détournement de fonds publics, a été relaxé",
-    "contenu": "François Commeinhes (divers droite), le maire de Sète (Hérault), a été relaxé, ce lundi après-midi, par le tribunal correctionnel de Montpellier, dans l’affaire de détournement de fonds publics pour laquelle il était poursuivi, relate le journal Midi Libre.\nEn 2020, la Chambre régionale des comptes avait épinglé, dans l’un de ses rapports, une partie de la rémunération de l’ancien directeur général des services (DGS) de la ville et de l’agglomération. Des bonus et des primes complémentaires, pour un montant total de 99.000 euros, que la structure avait jugé non-fondés, poursuit le quotidien régional.",
+    "titre": "Le maire de Sète, poursuivi pour détournement de fonds publics, a été relaxé",
+    "contenu": "François Commeinhes (divers droite), le maire de Sète, a été relaxé par le tribunal correctionnel de Montpellier, dans l’affaire de détournement de fonds publics pour laquelle il était poursuivi. En 2020, la Chambre régionale des comptes avait épinglé, dans l’un de ses rapports, une partie de la rémunération de l’ancien directeur général des services (DGS) de la ville et de l’agglomération. Des bonus et des primes complémentaires, pour un montant total de 99 000 euros, que la structure avait jugé non-fondés, poursuit le quotidien régional.",
     "url": "https://www.20minutes.fr/justice/4014482-20221212-sete-maire-poursuivi-detournement-fonds-publics-relaxe",
     "date": "2022-12-12",
     "etiquettes": "34 – Hérault,Chambre régionale des comptes,François Commeinhes",
@@ -20398,16 +20514,26 @@
         "value": "34 - Hérault"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1266,
+        "value": "François Commeinhes"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
   {
     "id": 1153,
     "titre": "Dans les comptes de Paris : des millions d’euros gaspillés en subventions obscures ?",
-    "contenu": "Avec ses 7 milliards d’euros de dettes, la Ville de Paris a-t-elle encore les moyens d’épauler financièrement près de 2600 associations pour des missions parfois très éloignées du quotidien des Parisiens ? Plusieurs rapports ont pointé le manque de contrôles opérés par la Ville sur ces soutiens financiers.\nNotamment, une subvention de 50 000 € de la ville de Paris a été votée à l’éditeur chez lequel l’adjoint écologiste David Belliard avait publié quelques mois plus tôt son livre de campagne des municipales. Le PNF a ouvert une enquête préliminaire.",
+    "contenu": "Avec ses 7 milliards d’euros de dettes, la Ville de Paris a-t-elle encore les moyens d’épauler financièrement près de 2600 associations pour des missions parfois très éloignées du quotidien des Parisiens ? Plusieurs rapports ont pointé le manque de contrôles opérés par la Ville sur ces soutiens financiers. Notamment, une subvention de 50 000 € de la ville de Paris a été votée à l’éditeur chez lequel l’adjoint écologiste David Belliard avait publié quelques mois plus tôt son livre de campagne des municipales. Le PNF a ouvert une enquête préliminaire.",
     "url": "https://www.leparisien.fr/paris-75/dans-les-comptes-de-paris-des-millions-deuros-gaspilles-en-subventions-obscures-11-12-2022-ARBP5L6SNZBILHMZ4BQPVVDJU4.php?ts=1671214404854",
     "date": "2022-12-11",
     "etiquettes": "Anne Hidalgo,David Belliard,Parquet National Financier",
