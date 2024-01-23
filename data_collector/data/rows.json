@@ -660,7 +660,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1802,
@@ -1174,7 +1179,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1782,
@@ -3058,7 +3068,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1703,
@@ -4977,7 +4992,12 @@
         "value": "Évasion / fraude fiscale"
       }
     ],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1625,
@@ -6959,7 +6979,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1439,
@@ -20396,16 +20421,49 @@
   {
     "id": 1149,
     "titre": "Le Qatar soupçonné de corruption au Parlement européen, cinq arrestations en Belgique",
-    "contenu": "L'eurodéputée socialiste grecque Eva Kaili, une des vice-présidentes du Parlement européen, a été interpellée ce vendredi soir à Bruxelles dans le cadre d'une enquête sur des soupçons de corruption impliquant le Qatar. Quatre autres arrestations avaient déjà eu lieu dans la capitale belge dans la matinée dans ce même dossier. L'eurodéputée, qui est la compagne d'un de ces quatre suspects, a été « interpellée pour être auditionnée » par la police, a précisé à l'Agence France-Presse une source proche du dossier.\nL'enquête pilotée par un juge d'instruction bruxellois porte en particulier sur les agissements du Qatar, soupçonné d'« influencer les décisions économiques et politiques du Parlement européen, en versant des sommes d'argent conséquentes ou en offrant des cadeaux importants », a souligné le parquet fédéral. Quant aux bénéficiaires, il s'agit de personnalités ayant « une position politique et/ou stratégique significative » au sein du Parlement. L'enquête vise entre autres des faits de « corruption » et de « blanchiment d'argent » en bande organisée, précise encore un communiqué du parquet.",
+    "contenu": "L'eurodéputée socialiste grecque Eva Kaili, une des vice-présidentes du Parlement européen, a été interpellée ce vendredi soir à Bruxelles dans le cadre d'une enquête sur des soupçons de corruption impliquant le Qatar. Quatre autres arrestations avaient déjà eu lieu dans la capitale belge dans la matinée dans ce même dossier. L'eurodéputée, qui est la compagne d'un de ces quatre suspects, a été « interpellée pour être auditionnée » par la police, a précisé à l'Agence France-Presse une source proche du dossier.\nL'enquête pilotée par un juge d'instruction bruxellois porte en particulier sur les agissements du Qatar, soupçonné d'« influencer les décisions économiques et politiques du Parlement européen, en versant des sommes d'argent conséquentes ou en offrant des cadeaux importants », a souligné le parquet fédéral. Quant aux bénéficiaires, il s'agit de personnalités ayant « une position politique et/ou stratégique significative » au sein du Parlement. L'enquête vise entre autres des faits de « corruption » et de « blanchiment d'argent » en bande organisée, précise encore un communiqué du parquet.&",
     "url": "https://www.rfi.fr/fr/europe/20221209-le-qatar-soup%C3%A7onn%C3%A9-de-corruption-au-parlement-europ%C3%A9en-cinq-arrestations-en-belgique",
     "date": "2022-12-09",
-    "etiquettes": "Eva Kaili,Luca Visentini,Parlement Européen,Pier-Antonio Panzeri",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1331,
+        "value": "Eva Kaili"
+      },
+      {
+        "id": 1381,
+        "value": "Antonio Panzeri"
+      },
+      {
+        "id": 1790,
+        "value": "Luca Visentini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1145,
@@ -20413,11 +20471,26 @@
     "contenu": "La famille Perrodo, propriétaire du groupe pétrolier Perenco, a placé sa fortune dans des paradis fiscaux avant de l’investir discrètement dans l’immobilier, le vin ou des start-up à travers l’Europe. Révélations sur un empire opaque, bâti sur les profits de l’or noir.",
     "url": "https://disclose.ngo/fr/article/les-milliards-offshore-de-perenco-grands-crus-immobilier-de-luxe-et-viande-halal",
     "date": "2022-12-08",
-    "etiquettes": "Perenco",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 214,
+        "value": "Perenco"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -28794,6 +28867,25 @@
     "procedure": []
   },
   {
+    "id": 739,
+    "titre": "Pantouflage : la territoriale en mal de sensibilisation déontologique",
+    "contenu": "“Seulement 14,1 % des entités publiques locales” mènent des actions de sensibilisation à la problématique des mobilités professionnelles entre fonction publique et secteur privé, explique l’Agence française anticorruption (AFA) dans les résultats d’une enquête relative à la prévention de la corruption dans le secteur public local.",
+    "url": "https://acteurspublics.fr/articles/pantouflage-la-territoriale-en-mal-de-sensibilisation-deontologique",
+    "date": "2022-04-20",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 741,
     "titre": "Procès Wendel : l'ex-président du Medef Ernest-Antoine Seillière condamné à 3 ans de prison avec sursis pour fraude fiscale",
     "contenu": "L'ancien président du Medef, Ernest-Antoine Seillière, a été condamné mercredi à Paris à trois ans de prison avec sursis et 37.500 euros d'amende, reconnu coupable d'avoir participé à une fraude fiscale en 2007 au sein de l'entreprise Wendel.\nL'ex-patron de la société d'investissement, Jean-Bernard Lafonta, s'est vu infliger quatre ans de prison avec sursis. Onze autres cadres et un ancien avocat fiscaliste ont été condamnés à des peines allant de l'amende avec sursis à de la prison avec sursis assorti d'une amende de 37.500 euros. Une quinzaine de dirigeants et cadres de Wendel avaient réalisé en mai 2007 un gain net total de 315 millions d'euros, soit 4,6% du capital de la société, issu d'un programme d'intéressement baptisé Solfur, sans être imposé.\nPour le tribunal, ce bénéfice considérable, lié notamment à la montée en flèche de l'action Wendel entre 2004 et 2007, a été placé «artificiellement» sous un régime de «sursis à imposition», permettant de différer la taxation qui aurait dû atteindre un taux d'environ 30%. Les prévenus ont franchi la «frontière» entre «l'optimisation fiscale» et la «fraude fiscale», a notamment souligné la présidente, estimant qu'ils avaient «dévoyé» un dispositif légal, pensé par le législateur pour faciliter les restructurations d'entreprise et l'activité économique. Le tribunal est cependant resté en-deçà des réquisitions du parquet national financier (PNF), qui avait réclamé lors du procès en janvier et février quatre ans, dont deux ans ferme, à l'encontre du baron Seillière, ainsi que cinq ans dont trois ferme à l'encontre de Jean-Bernard Lafonta.",
@@ -28818,6 +28910,25 @@
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 736,
+    "titre": "Affaire McKinsey, harcèlement au PNF… Jean-François Bohnert, un procureur trop tranquille",
+    "contenu": "Le patron du Parquet national financier a tardé à lancer l’enquête contre le cabinet McKinsey, alors que l’affaire était sortie dans la presse. Une tendance à ne pas prendre la mesure des problèmes qui lui a déjà joué des tours.",
+    "url": "https://www.lemonde.fr/m-le-mag/article/2022/04/15/affaire-mckinsey-harcelement-au-pnf-jean-francois-bohnert-un-procureur-trop-tranquille_6122236_4500055.html",
+    "date": "2022-04-15",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -28880,6 +28991,82 @@
     "procedure": []
   },
   {
+    "id": 738,
+    "titre": "Une information judiciaire ouverte contre le maire de Luisant, Bertrand Massot, et sa compagne",
+    "contenu": "L’enquête à l’encontre de Bertrand Massot, maire de Luisant, soupçonné de prise illégale d’intérêt et de détournement de fonds publics, a franchi une nouvelle étape : une information judiciaire a été ouverte jeudi 7 avril 2022.",
+    "url": "https://www.lechorepublicain.fr/luisant-28600/actualites/une-information-judiciaire-ouverte-contre-le-maire-de-luisant-bertrand-massot-et-sa-compagne_14115598/",
+    "date": "2022-04-13",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 735,
+    "titre": "Enquête pour «trafic d’influence»: Nikolaï Sarkisov, l’étrange ami russe de Nicolas Sarkozy",
+    "contenu": "Fondateur du numéro 2 de l’assurance en Russie, un milliardaire a octroyé à l’ancien président un contrat de 3 millions d’euros qui intrigue la justice. Une enquête préliminaire menée par le PNF est ouverte depuis 2020. Selon la DGSI, l’homme d’affaires aurait eu des activités «en liaison avec la criminalité organisée».",
+    "url": "https://www.liberation.fr/societe/police-justice/enquete-pour-trafic-dinfluence-nikolai-sarkisov-letrange-ami-russe-de-nicolas-sarkozy-20220412_FOYCLXGL7ZD3NBX5RJE2LI3VAA/",
+    "date": "2022-04-12",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 734,
+    "titre": "Affaire Solère : une demande d'annulation de la procédure de nouveau examinée",
+    "contenu": "Une demande de nullité de la procédure de l'enquête à Nanterre visant Thierry Solère, député et conseiller d'Emmanuel Macron mis en examen pour une dizaine d'infractions, a été débattue à nouveau lundi à huis clos devant la cour d'appel de Versailles.",
+    "url": "https://www.laprovence.com/actu/en-direct/6725870/affaire-solere-une-demande-dannulation-de-la-procedure-de-nouveau-examinee.html",
+    "date": "2022-04-11",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 733,
+    "titre": "Le parquet de Toulouse ouvre une enquête sur plusieurs élus d'Avignonet-Lauragais",
+    "contenu": "La mairie d’Avignonet-Lauragais est dans le viseur de la justice. Des élus sont suspectés de prise illégale d’intérêts. Ils se seraient entendus pour bénéficier d’un important projet de ferme photovoltaïque.",
+    "url": "https://www.ladepeche.fr/2022/04/07/info-la-depeche-le-parquet-de-toulouse-ouvre-une-enquete-sur-plusieurs-elus-davignonet-lauragais-10220758.php",
+    "date": "2022-04-08",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
+  },
+  {
     "id": 727,
     "titre": "Affaire McKinsey : le Parquet national financier a ouvert une enquête préliminaire pour blanchiment aggravé de fraude fiscale",
     "contenu": "",
@@ -28892,6 +29079,63 @@
     "categorie": [],
     "theme": [],
     "procedure": []
+  },
+  {
+    "id": 728,
+    "titre": "Football : Michel Platini porte plainte contre le président de la Fifa Gianni Infantino pour \"trafic d'influence actif\"",
+    "contenu": "Michel Platini s'attaque au président de la Fédération internationale de football (Fifa) Gianni Infantino. Mardi 5 avril, l'ancien dirigeant de la Confédération européenne a rendu public le dépôt d'une plainte à Paris contre Gianni Infantino, président de la Fifa, pour \"trafic d'influence actif\" et contre Marco Villiger, ancien directeur juridique de la Fifa, pour \"complicité de trafic d'influence actif\".",
+    "url": "https://www.francetvinfo.fr/sports/foot/michel-platini/football-michel-platini-porte-plainte-contre-le-president-de-la-fifa-gianni-infantino-pour-trafic-d-influence-actif_5064736.html",
+    "date": "2022-04-06",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 731,
+    "titre": "Ariège. La présidente et l'ancien directeur du syndicat des déchets en garde à vue",
+    "contenu": "Une enquête est en cours sur des irrégularités au Smectom du Plantaurel, le principal acteur de la gestion des déchets dans le département de l’Ariège.",
+    "url": "https://actu.fr/faits-divers/ariege-la-presidente-et-l-ancien-directeur-du-syndicat-des-dechets-en-garde-a-vue_49957492.html",
+    "date": "2022-04-05",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 729,
+    "titre": "Centre-Val-de-Loire : une perquisition menée à la préfecture d'Orléans dans une enquête visant la préfète pour \"prise illégale d’intérêts\"",
+    "contenu": "La préfète de la région Centre-Val-de-Loire, Régine Engström, est soupçonnée d'avoir favorisé son ancien employeur dans un projet immobilier à Montargis.",
+    "url": "https://www.francetvinfo.fr/societe/justice/centre-val-de-loire-une-perquisition-menee-a-la-prefecture-d-orleans-dans-une-enquete-visant-la-prefete-pour-prise-illegale-dinterets_5064022.html",
+    "date": "2022-04-05",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 726,
@@ -28911,6 +29155,68 @@
     "categorie": [],
     "theme": [],
     "procedure": []
+  },
+  {
+    "id": 725,
+    "titre": "Martigues : Un élu et un proche de la mairie mises en examen pour favoritisme et trafic d’influence",
+    "contenu": "La justice a procédé à une série de perquisitions et d’interpellations à Martigues, dont deux élus et la directrice générale du bailleur social municipal, dans le cadre d’une enquête pour des soupçons de corruption.",
+    "url": "https://www.20minutes.fr/justice/3265695-20220405-martigues-elu-proche-mairie-mises-examen-favoritisme-trafic-influence",
+    "date": "2022-04-05",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 732,
+    "titre": "Omission de déclaration de patrimoine : 2 mois de prison avec sursis pour l'ex-député Alfred Marie-Jeanne",
+    "contenu": "L'ancien député de la Martinique Alfred Marie-Jeanne a été condamné mardi 5 avril à Paris à deux mois d'emprisonnement avec sursis et 10.000 euros d'amende pour déclaration incomplète ou mensongère de patrimoine à la Haute autorité pour la transparence de la vie publique (HATVP).",
+    "url": "https://www.lefigaro.fr/flash-actu/omission-de-declaration-de-patrimoine-2-mois-de-prison-avec-sursis-pour-l-ex-depute-alfred-marie-jeanne-20220405",
+    "date": "2022-04-05",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
+    "id": 730,
+    "titre": "Près de Perpignan. Le maire du Barcarès Alain Ferrand de nouveau placé en garde à vue ce mardi",
+    "contenu": "Les ennuis judiciaires se succèdent pour Alain Ferrand. Le maire du Barcarès a été placé en garde à vue, mardi, pour des faits liés au Village de Noël, et qui remonteraient à 2018.",
+    "url": "https://actu.fr/occitanie/le-barcares_66017/pres-de-perpignan-le-maire-du-barcares-alain-ferrand-de-nouveau-place-en-garde-a-vue-ce-mardi_49970420.html",
+    "date": "2022-04-05",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 721,
@@ -40609,104 +40915,6 @@
     "procedure": []
   },
   {
-    "id": 1601,
-    "titre": "",
-    "contenu": "",
-    "url": "",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1736,
-    "titre": "",
-    "contenu": "",
-    "url": "",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1799,
-    "titre": "",
-    "contenu": "",
-    "url": "",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1800,
-    "titre": "",
-    "contenu": "",
-    "url": "",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1654,
-    "titre": "",
-    "contenu": "",
-    "url": "",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1706,
-    "titre": "",
-    "contenu": "",
-    "url": "",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 1735,
-    "titre": "",
-    "contenu": "",
-    "url": "",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 677,
     "titre": "« Détournement de fonds » : Marie-Laure Phinéra Horth convoquée en correctionnelle",
     "contenu": "",
@@ -40959,34 +41167,6 @@
     "procedure": []
   },
   {
-    "id": 736,
-    "titre": "Affaire McKinsey, harcèlement au PNF… Jean-François Bohnert, un procureur trop tranquille",
-    "contenu": "",
-    "url": "https://www.lemonde.fr/m-le-mag/article/2022/04/15/affaire-mckinsey-harcelement-au-pnf-jean-francois-bohnert-un-procureur-trop-tranquille_6122236_4500055.html",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 734,
-    "titre": "Affaire Solère : une demande d'annulation de la procédure de nouveau examinée",
-    "contenu": "",
-    "url": "https://www.laprovence.com/actu/en-direct/6725870/affaire-solere-une-demande-dannulation-de-la-procedure-de-nouveau-examinee.html",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 720,
     "titre": "Aix-en-Provence : prison ferme en appel pour les frères Guérini dans l'affaire des marchés truqués",
     "contenu": "",
@@ -41043,20 +41223,6 @@
     "procedure": []
   },
   {
-    "id": 731,
-    "titre": "Ariège. La présidente et l'ancien directeur du syndicat des déchets en garde à vue",
-    "contenu": "",
-    "url": "https://actu.fr/faits-divers/ariege-la-presidente-et-l-ancien-directeur-du-syndicat-des-dechets-en-garde-a-vue_49957492.html",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 636,
     "titre": "Au procès Wendel, Lafonta conteste avoir \"imposé\" le montage litigieux",
     "contenu": "",
@@ -41089,20 +41255,6 @@
     "titre": "Blanchiment de fraude fiscale : nouveau procès pour les Balkany en février",
     "contenu": "",
     "url": "https://www.sudouest.fr/justice/blanchiment-de-fraude-fiscale-nouveau-proces-pour-les-balkany-en-fevrier-7566057.php",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 729,
-    "titre": "Centre-Val-de-Loire : une perquisition menée à la préfecture d'Orléans dans une enquête visant la préfète pour \"prise illégale d’intérêts\"",
-    "contenu": "",
-    "url": "https://www.francetvinfo.fr/societe/justice/centre-val-de-loire-une-perquisition-menee-a-la-prefecture-d-orleans-dans-une-enquete-visant-la-prefete-pour-prise-illegale-dinterets_5064022.html",
     "date": null,
     "etiquettes": "",
     "departement": [],
@@ -41351,20 +41503,6 @@
     "procedure": []
   },
   {
-    "id": 735,
-    "titre": "Enquête pour «trafic d’influence»: Nikolaï Sarkisov, l’étrange ami russe de Nicolas Sarkozy",
-    "contenu": "",
-    "url": "https://www.liberation.fr/societe/police-justice/enquete-pour-trafic-dinfluence-nikolai-sarkisov-letrange-ami-russe-de-nicolas-sarkozy-20220412_FOYCLXGL7ZD3NBX5RJE2LI3VAA/?redirected=1",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 340,
     "titre": "Eric Dupond-Moretti aurait omis de déclarer plus de 300 000 euros de revenus",
     "contenu": "",
@@ -41481,20 +41619,6 @@
     "titre": "Flandre Lys : parfum de conflit d’intérêts pour Bruno Ficheux",
     "contenu": "",
     "url": "https://www.mediacites.fr/enquete/lille/2022/03/02/flandre-lys-parfum-de-conflit-dinteret-pour-bruno-ficheux/",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 728,
-    "titre": "Football : Michel Platini porte plainte contre le président de la Fifa Gianni Infantino pour \"trafic d'influence actif\"",
-    "contenu": "",
-    "url": "https://www.francetvinfo.fr/sports/foot/michel-platini/football-michel-platini-porte-plainte-contre-le-president-de-la-fifa-gianni-infantino-pour-trafic-d-influence-actif_5064736.html",
     "date": null,
     "etiquettes": "",
     "departement": [],
@@ -41898,20 +42022,6 @@
     "procedure": []
   },
   {
-    "id": 733,
-    "titre": "Le parquet de Toulouse ouvre une enquête sur plusieurs élus d'Avignonet-Lauragais",
-    "contenu": "",
-    "url": "https://www.ladepeche.fr/2022/04/07/info-la-depeche-le-parquet-de-toulouse-ouvre-une-enquete-sur-plusieurs-elus-davignonet-lauragais-10220758.php",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 682,
     "titre": "Le président du conseil départemental du Var Marc Giraud en garde à vue à Marseille",
     "contenu": "",
@@ -42042,20 +42152,6 @@
     "titre": "Marseille : Gaudin condamné à 6 mois de prison avec sursis dans l'affaire des heures supplémentaires",
     "contenu": "",
     "url": "https://www.lefigaro.fr/flash-actu/marseille-gaudin-condamne-a-6-mois-de-prison-avec-sursis-dans-l-affaire-des-heures-supplementaires-indues-des-agents-municipaux-20220322",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 725,
-    "titre": "Martigues : Un élu et un proche de la mairie mises en examen pour favoritisme et trafic d’influence",
-    "contenu": "",
-    "url": "https://www.20minutes.fr/justice/3265695-20220405-martigues-elu-proche-mairie-mises-examen-favoritisme-trafic-influence",
     "date": null,
     "etiquettes": "",
     "departement": [],
@@ -42206,39 +42302,6 @@
     "procedure": []
   },
   {
-    "id": 732,
-    "titre": "Omission de déclaration de patrimoine : 2 mois de prison avec sursis pour l'ex-député Alfred Marie-Jeanne",
-    "contenu": "",
-    "url": "https://www.lefigaro.fr/flash-actu/omission-de-declaration-de-patrimoine-2-mois-de-prison-avec-sursis-pour-l-ex-depute-alfred-marie-jeanne-20220405",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 739,
-    "titre": "Pantouflage : la territoriale en mal de sensibilisation déontologique",
-    "contenu": "",
-    "url": "https://acteurspublics.fr/articles/pantouflage-la-territoriale-en-mal-de-sensibilisation-deontologique",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [
-      {
-        "id": 1152013,
-        "value": "Observatoire des pantouflages"
-      }
-    ],
-    "theme": [],
-    "procedure": []
-  },
-  {
     "id": 627,
     "titre": "Paris : Submergé par les dossiers, le Tribunal judiciaire manque de juges et de moyens selon son président",
     "contenu": "",
@@ -42285,20 +42348,6 @@
     "titre": "Pourquoi Stéphane Richard a été dispensé de payer la facture de l’affaire Tapie",
     "contenu": "",
     "url": "https://www.liberation.fr/economie/pourquoi-stephane-richard-a-ete-dispense-de-payer-la-facture-de-laffaire-tapie-20220206_YKCO7SHENFG6VK2AU2XAWXQUFM/?redirected=1",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 730,
-    "titre": "Près de Perpignan. Le maire du Barcarès Alain Ferrand de nouveau placé en garde à vue ce mardi",
-    "contenu": "",
-    "url": "https://actu.fr/occitanie/le-barcares_66017/pres-de-perpignan-le-maire-du-barcares-alain-ferrand-de-nouveau-place-en-garde-a-vue-ce-mardi_49970420.html",
     "date": null,
     "etiquettes": "",
     "departement": [],
@@ -42654,20 +42703,6 @@
     "titre": "Une enquête préliminaire vise le maire de Mandelieu-La Napoule concernant le port de la Rague",
     "contenu": "",
     "url": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/une-enquete-preliminaire-vise-le-maire-de-mandelieu-la-napoule-concernant-le-port-de-la-rague-2459155.html",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": []
-  },
-  {
-    "id": 738,
-    "titre": "Une information judiciaire ouverte contre le maire de Luisant, Bertrand Massot, et sa compagne",
-    "contenu": "",
-    "url": "https://www.lechorepublicain.fr/luisant-28600/actualites/une-information-judiciaire-ouverte-contre-le-maire-de-luisant-bertrand-massot-et-sa-compagne_14115598/",
     "date": null,
     "etiquettes": "",
     "departement": [],
