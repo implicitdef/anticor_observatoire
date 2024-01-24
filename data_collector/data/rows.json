@@ -1,5 +1,38 @@
 [
   {
+    "id": 1829,
+    "titre": "Le Parquet national financier fait appel de la relaxe de l’ancien ministre Olivier Dussopt",
+    "contenu": "Le PNF a décidé de demander un nouveau procès à l’endroit de l’ancien ministre du travail, qui avait été relaxé, le 17 janvier dernier, par le tribunal judiciaire de Paris, dans une affaire de favoritisme sur un marché public au profit d’un géant français de l’eau, la Saur.",
+    "url": "https://www.mediapart.fr/journal/france/240124/le-parquet-national-financier-fait-appel-de-la-relaxe-de-l-ancien-ministre-olivier-dussopt",
+    "date": "2024-01-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1264283,
+        "value": "07 - Ardèche"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1234,
+        "value": "Olivier Dussopt"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1828,
     "titre": "L’ancien maire de Roquebrune-sur-Argens Jean-Paul Ollivier jugé pour prise illégale d’intérêt",
     "contenu": "Il était reproché à Jean-Paul Ollivier, avant qu’il ne prenne la succession de Luc Jousse en août 2016, d’avoir cumulé ses fonctions électives avec celle de directeur général délégué de la société d’économie mixte locale (SEML) Sarget.",
