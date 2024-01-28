@@ -19,17 +19,17 @@ export default function RootLayout({
   return (
     <html lang="fr">
       <body
-        className={`${inter.className} bg-zinc-200 min-h-screen flex flex-col`}
+        className={`${inter.className} bg-white min-h-screen flex flex-col`}
       >
         <header className="">
-          <div className="container mx-auto border-b-4 border-0 border-solid border-red-900">
+          <div className="container mx-auto border-b-4 border-0 border-solid border-blue-900">
             <div className="flex justify-between">
               <Link href="/">
-                <div className="bg-red-900 text-white p-4 m-4 font-bold">
+                <div className="bg-bleuanticor text-white p-4 m-4 font-bold">
                   LOGO
                 </div>
               </Link>
-              <div className="bg-red-300 min-w-[300px] m-4 flex items-center justify-center">
+              <div className="bg-blue-300 min-w-[300px] m-4 flex items-center justify-center">
                 social links...
               </div>
             </div>
@@ -47,7 +47,7 @@ export default function RootLayout({
         </header>
         <main className="mx-auto grow w-full">{children}</main>
         <footer className="">
-          <div className="container mx-auto p-4 border-t-[1px] border-0 border-solid border-zinc-700 flex justify-center gap-4 text-zinc-700">
+          <div className="container mx-auto p-4 border-t-[1px] border-0 border-solid border-gray-700 flex justify-center gap-4 text-gray-700">
             <Link href={'/mentionslegales'} className="fc-link">
               Mentions légales
             </Link>

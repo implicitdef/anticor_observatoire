@@ -73,8 +73,8 @@ function PaginationLink({
         href={`?page=${page}`}
         className={`block py-2 px-4 ${
           isCurrent
-            ? 'text-white bg-red-700'
-            : 'text-slate-800 hover:bg-slate-300'
+            ? 'text-white bg-blue-700'
+            : 'text-gray-800 hover:bg-gray-300'
         }`}
       >
         {page}
@@ -92,7 +92,7 @@ function PaginationRelativeLink({
 }) {
   return (
     <Link
-      className={` bg-slate-300 flex items-center p-2 border border-slate-400 text-slate-700 `}
+      className={` bg-gray-300 flex items-center p-2 border border-gray-400 text-gray-700 `}
       href={`?page=${page}`}
     >
       {kind === 'previous' ? (

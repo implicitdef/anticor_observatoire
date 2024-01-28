@@ -45,7 +45,7 @@ export default function Fiche({
                       <li key={item.id} className="">
                         <LinkToItem
                           {...{ item }}
-                          className="bg-white pt-6 pb-8 px-8 block h-full"
+                          className="text-white pt-6 pb-8 px-8 block h-full bg-bleuanticor"
                         >
                           {item.date && (
                             <div className="text-sm mb-1">
@@ -77,7 +77,9 @@ function MainFiche({ item }: { item: Item }) {
             {formatDateVerbose(item.date)}
           </p>
         ) : null}
-        <h1 className="font-bold text-4xl mb-8">{item.titre}</h1>
+        <h1 className="font-bold text-4xl mb-8 text-bleuanticor">
+          {item.titre}
+        </h1>
         <p className="mb-4 ">{item.contenu}</p>
         <p className="mb-10">
           <i className="ri-article-line ri-lg mr-2" />

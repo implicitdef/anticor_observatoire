@@ -23,7 +23,7 @@ export default function Home() {
       </div>
       {allItems.length > 0 && <ALaUneBanner item={allItems[0]} />}
       <ItemsBanner
-        color="bg-red-700"
+        color="bg-blue-700"
         title="Probité"
         items={allItems
           .filter((_) =>
@@ -48,7 +48,7 @@ export default function Home() {
       />
       <ItemsBanner
         smaller
-        color="bg-red-500"
+        color="bg-blue-500"
         title="Parti Socialiste (PS)"
         items={allItems
           .filter((_) =>
@@ -104,10 +104,10 @@ function ALaUneBanner({ item }: { item: Item }) {
   return (
     <div className="container mx-auto mb-8">
       <LinkToItem {...{ item }} className="grid grid-cols-2 w-full">
-        <h2 className="p-8 font-bold bg-zinc-600 min-h-[400px] h-full flex items-center justify-center uppercase text-4xl text-black">
+        <h2 className="p-8 font-bold bg-gray-600 min-h-[400px] h-full flex items-center justify-center uppercase text-4xl text-black">
           à la une :
         </h2>
-        <div className="bg-zinc-400 font-bold p-2 flex items-center justify-center text-2xl p-8">
+        <div className="bg-gray-400 font-bold p-2 flex items-center justify-center text-2xl p-8">
           {item.titre}
         </div>
       </LinkToItem>

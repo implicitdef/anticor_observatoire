@@ -5,12 +5,12 @@ import { TagsList } from './TagsList'
 
 export function ItemFiche({ item }: { item: Item }) {
   return (
-    <li className="flex flex-col stretch justify-between bg-white px-4 pt-8 pb-8 text-black">
+    <li className="flex flex-col bg-bleuanticor text-white stretch justify-between px-4 pt-8 pb-8 ">
       <div>
         {item.date ? (
           <p className="mb-2">{formatDateVerbose(item.date)}</p>
         ) : null}
-        <h2 className="font-bold text-2xl mb-2">
+        <h2 className="font-bold text-2xl mb-2 ">
           <LinkToItem {...{ item }}>{item.titre}</LinkToItem>
         </h2>
         <p className="mb-4">
