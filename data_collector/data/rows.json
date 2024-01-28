@@ -1,5 +1,620 @@
 [
   {
+    "id": 1850,
+    "titre": "Affaire Orpea : des perquisitions menées mi-janvier en Europe et en France",
+    "contenu": "Cette opération s'est déroulée simultanément dans cinq pays européens (Belgique, Luxembourg, Suisse, Italie, Portugal) et en France, précise le parquet, ajoutant que ces opérations ont été menées dans le cadre de l'information judiciaire visant le groupe.",
+    "url": "https://www.lefigaro.fr/actualite-france/des-perquisitions-menees-mi-janvier-en-europe-et-en-france-dans-une-enquete-visant-orpea-20240126",
+    "date": "2024-01-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      },
+      {
+        "id": 1283910,
+        "value": "Luxembourg"
+      },
+      {
+        "id": 1251431,
+        "value": "Suisse"
+      },
+      {
+        "id": 1283911,
+        "value": "Italie"
+      },
+      {
+        "id": 1230085,
+        "value": "Portugal"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 96,
+        "value": "Orpea"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1839,
+    "titre": "Comment Amélie Oudéa-Castéra s’est immiscée dans une inspection indépendante à la Fédération française de football",
+    "contenu": "La ministre des sports a rencontré secrètement l’ex-directrice générale de la Fédération française de football, alors encore en poste, le 9 janvier 2023, en pleine mission de l’inspection générale à la FFF.",
+    "url": "https://www.lemonde.fr/sport/article/2024/01/26/comment-amelie-oudea-castera-s-est-immiscee-dans-une-inspection-independante-a-la-federation-francaise-de-football_6213140_3242.html",
+    "date": "2024-01-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1286,
+        "value": "Amélie Oudéa-Castéra"
+      },
+      {
+        "id": 1806,
+        "value": "Noël Le Graët"
+      },
+      {
+        "id": 1807,
+        "value": "Florence Hardouin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 88,
+        "value": "Ministère des Sports"
+      },
+      {
+        "id": 320,
+        "value": "Fédération française de football (FFF)"
+      },
+      {
+        "id": 462,
+        "value": "Inspection générale de l'éducation, du sport et de la recherche (IGESR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1834,
+    "titre": "Deux affaires déontologiques secouent le quotidien « Le Monde »",
+    "contenu": "Le comité d’éthique du groupe Le Monde se réunira dans l’urgence lundi 29 janvier : la cheffe du service politique est la compagne d’un conseiller de Gabriel Attal. Un journaliste a par ailleurs reçu un rappel des règles déontologiques en raison de ses relations avec le PSG.",
+    "url": "https://www.mediapart.fr/journal/culture-et-idees/260124/deux-affaires-deontologiques-secouent-le-quotidien-le-monde",
+    "date": "2024-01-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1800,
+        "value": "Rayan Nezzar"
+      },
+      {
+        "id": 1801,
+        "value": "Ivanne Trippenbach"
+      },
+      {
+        "id": 1802,
+        "value": "Jérôme Fenoglio"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 456,
+        "value": "Le Monde"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1253735,
+        "value": "Médias"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1845,
+    "titre": "Le maire de Vitrolles condamné à un an de prison avec sursis pour prise illégale d'intérêts",
+    "contenu": "Loïc Gachon, le maire PS de Vitrolles (Bouches-du-Rhône), a été condamné ce vendredi par le tribunal correctionnel d'Aix-en-Provence pour avoir autorisé l'embauche de sa belle-mère à la mairie.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-maire-de-vitrolles-condamnee-a-un-an-de-prison-avec-sursis-pour-prise-illegale-d-interets-5886651",
+    "date": "2024-01-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1399,
+        "value": "Loïc Gachon"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
+    "id": 1846,
+    "titre": "Roura : le maire de la commune relaxé dans une affaire d'obtention frauduleuse d'un bien administratif",
+    "contenu": "Jean-Claude Labrador, maire de Roura, a été relaxé par le Tribunal correctionnel en fin d'année. Il était poursuivi pour obtention frauduleuse de documents administratifs et recel de prise illégale d’intérêt.",
+    "url": "https://la1ere.francetvinfo.fr/guyane/ouest-guyanais/guyane/roura-le-maire-de-la-commune-relaxe-dans-une-affaire-d-obtention-frauduleuse-de-biens-administratives-1460300.html",
+    "date": "2024-01-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151992,
+        "value": "973 - Guyane"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1810,
+        "value": "Jean-Claude Labrador"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
+  },
+  {
+    "id": 1835,
+    "titre": "Un président d'association héraultaise d'aide aux mineurs soupçonné d'avoir pioché dans la caisse",
+    "contenu": "Le président d'une association du Mas-de-Londres est soupçonné d'avoir détourné de l'argent destiné à des mineurs placés par l'Aide sociale à l'enfance. Après avoir contrôlé les comptes, le Département de l'Hérault, qui subventionne cette association, a porté plainte contre lui en août 2023.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/un-president-d-association-heraultaise-d-aide-aux-mineurs-soupconne-d-avoir-pioche-dans-la-caisse-9341810",
+    "date": "2024-01-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151848,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 457,
+        "value": "Aide sociale à l'enfance (ASE)"
+      },
+      {
+        "id": 458,
+        "value": "La Maison de Baptiste"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1282331,
+        "value": "Social"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1838,
+    "titre": "Des élus d’Oger au tribunal pour des soupçons de prise illégale d’intérêt",
+    "contenu": "Huit élus locaux ont comparu ce 24 janvier 2024 au tribunal de Châlons-en-Champagne. Il leur était reproché d’avoir tiré profit personnellement de votes du conseil municipal d’Oger entre 2012 et 2017. Le tribunal a réclamé une condamnation symbolique.",
+    "url": "https://www.lunion.fr/id561693/article/2024-01-25/des-elus-doger-au-tribunal-pour-des-soupcons-de-prise-illegale-dinteret",
+    "date": "2024-01-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151953,
+        "value": "51 - Marne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1843,
+    "titre": "France Télévisions : malaise après la décision de la direction de limiter les enquêtes sur les personnalités politiques",
+    "contenu": "Dans un souci d’équité de temps de parole et pour laisser la priorité aux émissions de débat, le groupe audiovisuel public demande aux magazines d’investigations de faire une pause sur ces formats. La rédaction désapprouve ce choix.",
+    "url": "https://www.lemonde.fr/economie/article/2024/01/25/france-televisions-la-direction-restreint-la-place-des-portraits-de-personnalites-politiques-le-temps-de-la-campagne-des-europeennes_6212939_3234.html",
+    "date": "2024-01-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1809,
+        "value": "Alexandre Kara"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 436,
+        "value": "France Télévisions"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1253735,
+        "value": "Médias"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1837,
+    "titre": "Lège-Cap-Ferret : le maire renvoyé en correctionnelle pour favoritisme",
+    "contenu": "La justice s’interroge sur le marché passé avec l’Union des bateliers d’Arcachon pour les liaisons entre Arcachon et Lège-Cap-Ferret.",
+    "url": "https://www.sudouest.fr/gironde/lege-cap-ferret/lege-cap-ferret-le-maire-renvoye-en-correctionnelle-pour-favoritisme-18289685.php",
+    "date": "2024-01-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151847,
+        "value": "33 - Gironde"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 461,
+        "value": "Union des Bateliers Arcachonnais"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1832,
+    "titre": "Marseille : un ex-directeur d'une société d'économie mixte jugé pour détournement de fonds publics",
+    "contenu": "La justice se penche sur le montage financier autour d’un projet de construction d’une patinoire à Marseille, dans lequel un ancien directeur d’une société d’économie mixte est accusé de détournement de fonds publics.",
+    "url": "https://www.lefigaro.fr/marseille/marseille-un-ex-directeur-d-une-societe-d-economie-mixte-juge-pour-detournement-de-fonds-publics-20240125",
+    "date": "2024-01-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1798,
+        "value": "Philippe Lasery"
+      },
+      {
+        "id": 1799,
+        "value": "Charles Boumendil"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 454,
+        "value": "Laser Propreté"
+      },
+      {
+        "id": 455,
+        "value": "Marseille Aménagement"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152774,
+        "value": "BTP/Urbanisme"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1841,
+    "titre": "Pascaline Bongo Ondimba sera présente à son procès, à Paris",
+    "contenu": "La fille et ex-directrice de cabinet d’Omar Bongo Ondimba a prévu de se rendre au procès dont elle est l’une des accusés, à partir du 29 janvier, à Paris. On la soupçonne de corruption passive, avec la complicité de l’entreprise française Egis.",
+    "url": "https://www.jeuneafrique.com/1529653/politique/pascaline-bongo-ondimba-sera-presente-a-son-proces-a-paris/",
+    "date": "2024-01-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1282332,
+        "value": "Gabon"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 466,
+        "value": "Pascaline Bongo Ondimba"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1830,
+    "titre": "« Barbouzeries » autour du PSG : un club qui « soigne » la filière policière",
+    "contenu": "Plusieurs policiers, qui ont bénéficié de places au Parc des Princes, ont rendu des services personnels, notamment à l’ex-directeur de la communication du club, mis en examen pour « corruption et trafic d’influence ».",
+    "url": "https://www.lemonde.fr/societe/article/2024/01/24/barbouzeries-autour-du-psg-un-club-qui-soigne-la-filiere-policiere_6212774_3224.html",
+    "date": "2024-01-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1443,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 1597,
+        "value": "Nasser al-Khelaïfi"
+      },
+      {
+        "id": 1794,
+        "value": "Michel Besnard"
+      },
+      {
+        "id": 1795,
+        "value": "Jean-Michel Fauvergue"
+      },
+      {
+        "id": 1796,
+        "value": "Frédéric Doué"
+      },
+      {
+        "id": 1797,
+        "value": "Adel Aref"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 448,
+        "value": "RAID (recherche, assistance, intervention, dissuasion)"
+      },
+      {
+        "id": 449,
+        "value": "Brigade de répression du banditisme (BRB)"
+      },
+      {
+        "id": 450,
+        "value": "Préfecture de police de Paris"
+      },
+      {
+        "id": 451,
+        "value": "Direction nationale de la Police aux frontières (DNPAF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1840,
+    "titre": "Après le « Qatargate », l’UE peine toujours à se protéger contre les ingérences et la corruption",
+    "contenu": "Le projet d’organe éthique européen, censé superviser l’ensemble des institutions, est encore en négociation et ses ambitions demeurent bien loin d’un modèle calqué sur la Haute Autorité pour la transparence de la vie publique française.",
+    "url": "https://www.lemonde.fr/international/article/2024/01/24/apres-le-qatargate-l-ue-peine-toujours-a-se-proteger-contre-les-ingerences-et-la-corruption_6212569_3210.html",
+    "date": "2024-01-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1808,
+        "value": "Vera Jourova"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 186,
+        "value": "Commission Européenne"
+      },
+      {
+        "id": 463,
+        "value": "Observatoire de l'éthique publique"
+      },
+      {
+        "id": 464,
+        "value": "Comité européen des régions"
+      },
+      {
+        "id": 465,
+        "value": "Cour de justice de l'Union européenne"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1831,
+    "titre": "Axa, Sanofi, Société générale… Oudéa-Castéra contrainte de se déporter des dossiers liés à plusieurs entreprises",
+    "contenu": "Selon un décret publié mardi 23 janvier, la ministre de l’Education doit rester éloignée des actes concernant six sociétés, deux associations et un établissement d’enseignement. D’autres, dont elle est pourtant actionnaire ou dont elle a été administratrice, ne sont pas concernées.",
+    "url": "https://www.liberation.fr/checknews/axa-sanofi-societe-generale-pourquoi-oudea-castera-est-contrainte-de-se-deporter-des-dossiers-lies-a-plusieurs-entreprises-20240124_FSPWUUXOLBB6FJLJ5BURYC5FIA/",
+    "date": "2024-01-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1286,
+        "value": "Amélie Oudéa-Castéra"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 99,
+        "value": "Sanofi"
+      },
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 121,
+        "value": "Axa"
+      },
+      {
+        "id": 148,
+        "value": "Société générale"
+      },
+      {
+        "id": 165,
+        "value": "Fédération française de tennis (FFT)"
+      },
+      {
+        "id": 410,
+        "value": "Capgemini"
+      },
+      {
+        "id": 425,
+        "value": "Carrefour"
+      },
+      {
+        "id": 452,
+        "value": "Rénovons le sport français"
+      },
+      {
+        "id": 453,
+        "value": "Collège Stanislas"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1829,
     "titre": "Le Parquet national financier fait appel de la relaxe de l’ancien ministre Olivier Dussopt",
     "contenu": "Le PNF a décidé de demander un nouveau procès à l’endroit de l’ancien ministre du travail, qui avait été relaxé, le 17 janvier dernier, par le tribunal judiciaire de Paris, dans une affaire de favoritisme sur un marché public au profit d’un géant français de l’eau, la Saur.",
@@ -27,6 +642,73 @@
       {
         "id": 1152012,
         "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1842,
+    "titre": "Soupçons présumés de favoritisme : un an de prison avec sursis requis contre l'ancienne directrice du MACTe",
+    "contenu": "Laurella Rinçon est entendue depuis ce matin (mardi 23 janvier ) au tribunal correctionnel de Pointe-à-Pitre pour des soupçons présumés de favoritisme au sein du Mémorial ACTe. Il lui est reproché des faits d’atteinte au Codes des marchés publics entre 2019 et 2022. L’ancienne directrice a rappelé le contexte de l’établissement public.",
+    "url": "https://la1ere.francetvinfo.fr/guadeloupe/soupcons-presumes-de-favoritisme-un-an-de-prison-avec-sursis-requis-contre-l-ancienne-directrice-du-macte-1459568.html",
+    "date": "2024-01-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151990,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1473,
+        "value": "Laurella Rinçon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 202,
+        "value": "Mémorial Acte (MACTe) (Centre caribéen d'expressions et de mémoire de la Traite et de l'Esclavage)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1833,
+    "titre": "Cabinets de conseil privés : examen d'une proposition de loi \"encadrant\" leur intervention dans les politiques publiques",
+    "contenu": "Quinze mois après son adoption par le Sénat, la proposition de loi \"encadrant l’intervention des cabinets de conseil privés dans les politiques publiques\" sera examinée, mercredi 24 janvier, par la commission des lois de l'Assemblée nationale, avant d'être débattue dans l'hémicycle au cours de la semaine du 29 janvier. Le texte, qui propose de renforcer les pouvoirs à la Haute autorité pour la transparence de la vie publique (HATVP), prévoit aussi d'encadrer les \"allers-retours\" de personnels entre administration et cabinets privés.",
+    "url": "https://lcp.fr/actualites/cabinets-de-conseil-prives-examen-d-une-proposition-de-loi-encadrant-leur-intervention",
+    "date": "2024-01-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Observatoire des pantouflages"
+      },
+      {
+        "id": 1152014,
+        "value": "Actualité"
       }
     ],
     "theme": [],
@@ -64,6 +746,57 @@
       }
     ],
     "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1844,
+    "titre": "Trois journalistes de Radio France et Disclose à nouveau convoqués par la justice",
+    "contenu": "Trois journalistes de Radio France et Disclose sont convoqués par la justice le 30 janvier à Paris, soupçonnés d’avoir révélé en 2018 l’identité d’un membre des forces spéciales soupçonné de favoritisme.",
+    "url": "https://www.humanite.fr/medias/armee-francaise/trois-journalistes-de-radio-france-et-disclose-a-nouveau-convoques-par-la-justice",
+    "date": "2024-01-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1730,
+        "value": "Benoît Collombat"
+      },
+      {
+        "id": 1731,
+        "value": "Geoffrey Livolsi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 129,
+        "value": "International Chartering Systems"
+      },
+      {
+        "id": 400,
+        "value": "Disclose"
+      },
+      {
+        "id": 401,
+        "value": "Radio France"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1253735,
+        "value": "Médias"
+      }
+    ],
     "procedure": []
   },
   {
@@ -141,6 +874,44 @@
       }
     ],
     "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1849,
+    "titre": "Riyad 2030 : derrière le triomphe de l'Arabie saoudite, une coproduction française",
+    "contenu": "Mohammed bin Salman a mobilisé les meilleures compétences pour imposer Riyad comme ville d'accueil de l'Exposition universelle de 2030. Au-delà du soutien d'Emmanuel Macron, sa campagne de soft power s'est appuyée sur un écosystème parisien d'anciens diplomates, hauts fonctionnaires et agences d'influence.",
+    "url": "https://www.lalettre.fr/fr/action-publique_lobbying/2024/01/22/riyad-2030--derriere-le-triomphe-de-l-arabie-saoudite-une-coproduction-francaise%252C110150305-ge0",
+    "date": "2024-01-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1282610,
+        "value": "Arabie Saoudite"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1815,
+        "value": "Mohammed ben Salmane (MBS)"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
     "procedure": []
   },
   {
@@ -3225,6 +3996,10 @@
       {
         "id": 1607,
         "value": "Neymar da Silva Santos Júnior"
+      },
+      {
+        "id": 1646,
+        "value": "Hugues Renson"
       }
     ],
     "personnes_morales": [
@@ -5762,7 +6537,12 @@
       }
     ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1606,
@@ -11383,6 +12163,45 @@
     "procedure": []
   },
   {
+    "id": 1848,
+    "titre": "La journaliste d’investigation Ariane Lavrilleux présentée à un juge des libertés et de la détention",
+    "contenu": "Ariane Lavrilleux a été convoquée ce lundi matin 25 septembre au tribunal de grande instance de Paris. Mardi dernier, elle avait été placée en garde à vue pour avoir révélé en novembre 2021 la complicité «d’exécutions arbitraires» orchestrée par le gouvernement égyptien.",
+    "url": "https://www.liberation.fr/societe/la-journaliste-dinvestigation-ariane-lavrilleux-presentee-a-un-juge-des-libertes-et-de-la-detention-20230925_AMV3ICNB6BAN5LU5HJ2F4TQ4TI/?redirected=1",
+    "date": "2023-09-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1811,
+        "value": "Ariane Lavrilleux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 400,
+        "value": "Disclose"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1253735,
+        "value": "Médias"
+      }
+    ],
+    "procedure": []
+  },
+  {
     "id": 1363,
     "titre": "Assistants d’eurodéputés du FN : procès requis pour 27 personnes, dont Marine et Jean-Marie Le Pen",
     "contenu": "La patronne du parti d’extrême droite et son père sont accusés d’avoir participé à un système de détournement de fonds publics européens. Le parquet de Paris a requis un procès à leur encontre ce vendredi 22 septembre.",
@@ -13758,7 +14577,7 @@
     "personnes_morales": [
       {
         "id": 202,
-        "value": "Mémorial Acte (MACTe)"
+        "value": "Mémorial Acte (MACTe) (Centre caribéen d'expressions et de mémoire de la Traite et de l'Esclavage)"
       }
     ],
     "categorie": [
@@ -14667,6 +15486,52 @@
         "value": "Relaxe / classement"
       }
     ]
+  },
+  {
+    "id": 1836,
+    "titre": "Ouverture d'une enquête préliminaire sur les soupçons de conflit d'intérêt concernant la future usine d’enrobage à Montans",
+    "contenu": "Le parquet d'Albi (Tarn) a ouvert une enquête préliminaire concernant des soupçons de conflits d’intérêts pesant sur le projet d'usine d'enrobage à Montans (Tarn). Paul Salavador, le président de la communauté d’agglomération Gaillac/Graulhet est associé aux gérants de l'entreprise Laclau TP au sein d'une société de résidences de luxe.",
+    "url": "https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/ouverture-d-une-enquete-preliminaire-sur-les-soupcons-de-conflit-d-interet-concernant-la-future-usine-d-enrobage-a-montans-2804279.html",
+    "date": "2023-06-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151978,
+        "value": "81 - Tarn"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1803,
+        "value": "Paul Salavador"
+      },
+      {
+        "id": 1804,
+        "value": "Jean-Marc Laclau"
+      },
+      {
+        "id": 1805,
+        "value": "Sylvain Laclau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 459,
+        "value": "Laclau TP"
+      },
+      {
+        "id": 460,
+        "value": "Groupe MEP"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
   },
   {
     "id": 1689,
@@ -17066,7 +17931,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 467,
+        "value": "Chambre nationale des professions libérales"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -18039,7 +18909,7 @@
     "contenu": "L’arrestation à Roissy de l’homme d’affaires Lucien Ebata, en possession d’une énorme quantité de liquide, a mené les douaniers sur la piste de sa société, soupçonnée d’être au cœur d’un vaste système de détournement de fonds publics au profit du clan du président Sassou-Nguesso. Plusieurs centaines de millions d’euros se seraient évaporés.",
     "url": "https://www.liberation.fr/international/derriere-orion-oil-la-disparition-organisee-de-largent-du-petrole-congolais-20230111_WJZFMFIDN5BHRICOUDVVEUSAQQ/",
     "date": "2023-01-11",
-    "etiquettes": "­Dominique Strauss-Kahn,Cédric Lewandowski,Havas,Lucien Ebata,Manuel Valls,Stéphane Fouks",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151989,
@@ -20723,13 +21593,49 @@
     "id": 1142,
     "titre": "Opération « Sauver Sarko » : un agent de l’ambassade de Libye en France rattrapé par la justice",
     "contenu": "Un diplomate libyen en lien avec les services secrets français a été mis en examen pour « corruption de personnels judiciaires étrangers ». Il a reconnu avoir servi d’intermédiaire pour essayer d’obtenir la libération d’un des fils de l’ancien dictateur libyen Mouammar Kadhafi dans le but de servir les intérêts de Nicolas Sarkozy.",
-    "url": "https://www.mediapart.fr/journal/international/071222/operation-sauver-sarko-un-agent-de-l-ambassade-de-libye-en-france-rattrape-par-la-justice?userid=21ca08a3-94df-4cfa-870d-f3d3a159e7d1",
+    "url": "https://www.mediapart.fr/journal/international/071222/operation-sauver-sarko-un-agent-de-l-ambassade-de-libye-en-france-rattrape-par-la-justice",
     "date": "2022-12-07",
     "etiquettes": "Les Républicains,Michèle Marchand,Mouammar Kadhafi,Nicolas Sarkozy,Noël Dubus",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1183,
+        "value": "Mouammar Kadhafi"
+      },
+      {
+        "id": 1812,
+        "value": "Hamadi Matug"
+      },
+      {
+        "id": 1813,
+        "value": "Michèle Marchand"
+      },
+      {
+        "id": 1814,
+        "value": "Noël Dubus"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 163,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -34332,16 +35238,31 @@
     "contenu": "Le Conseil d'administration du Centre caribéen d'expressions et de mémoire de la Traite et de l'Esclavage a voté la fin anticipée du contrat de Laurella Rinçon, en tant que Directrice générale de l'EPCC Mémorial ACTe et la résiliation de son contrat.\nPour rappel, Laurella Rinçon, ne possédant pas de permis de conduire avait décidé de faire appel à un artisan taxi pour effectuer chaque jour le trajet entre son domicile saintannais et l’établissement culturel pointois. Chaque course de 105,58 euros, pour une facture totale de 5 818 euros et 82 centimes. Une somme que n'avait pas souhaité honorer le MACTe, dans un premier temps.\nAprès la plainte de la CFTC des territoriaux, pour détournement de fonds publics, emplois fictifs et harcèlement moral, le 10 février, le procureur de la République de Pointe-à-Pitre ouvrait une enquête préliminaire pour des faits de détournements et de recel de détournement de fonds publics confiée à la police judiciaire. Laurella Rinçon a, de son côté, porté plainte pour dénonciation calomnieuse.",
     "url": "https://la1ere.francetvinfo.fr/guadeloupe/macte-le-contrat-de-laurella-rincon-officiellement-resilie-1067044.html",
     "date": "2021-07-26",
-    "etiquettes": "971 – Guadeloupe,Laurella Rincon",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151990,
         "value": "971 - Guadeloupe"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1473,
+        "value": "Laurella Rinçon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 202,
+        "value": "Mémorial Acte (MACTe) (Centre caribéen d'expressions et de mémoire de la Traite et de l'Esclavage)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -38382,16 +39303,35 @@
     "contenu": "Le Mémorial ACTe (MACTe), aussi connu comme le Centre caribéen d’expression et de mémoire de la traite de l’esclavage, fait face à plusieurs affaires :\n\nDes notes de taxi de Laurella Rincon, sa directrice, de plus de 5 000 euros pour des courses effectuées d’octobre à décembre 2019, que l’institution refuse de payer;Une enquête préliminaire des chefs de favoritisme et de détournement de fonds publics par le PNF, ouverte au mois de juin 2019 à la suite de la réception d’une note de la Cour des comptes.\n\nAu moment de l’ouverture de l’enquête préliminaire par le PNF, le MACTe est une structure au statut juridique incertain, gérée par une société d’économie mixte, la SEM Patrimoniale. Elle ne dispose pas de sa propre régie et les recettes de billetterie sont captées directement par la Région Guadeloupe. Lorsque l’établissement public de coopération culturelle (EPCC) est créé, en mai 2019, la régie régionale continue de percevoir les recettes de billetterie et se trouve en position de devoir reverser des fonds à l’institution, qui est maintenant autonome. 420 000 euros disparaissent lors de cette opération de bascule. Des documents que Mediapart a pu se procurer prouvent que la direction du MACTe et les services « payeurs » de la Région Guadeloupe sont à la recherche de cet argent depuis au moins octobre 2020.",
     "url": "https://www.mediapart.fr/journal/france/300321/pointe-pitre-l-argent-disparu-du-memorial-de-l-esclavage",
     "date": "2021-03-30",
-    "etiquettes": "971 – Guadeloupe,Laurella Rincon,Parquet National Financier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151990,
         "value": "971 - Guadeloupe"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1473,
+        "value": "Laurella Rinçon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 202,
+        "value": "Mémorial Acte (MACTe) (Centre caribéen d'expressions et de mémoire de la Traite et de l'Esclavage)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
