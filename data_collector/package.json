@@ -2,7 +2,7 @@
   "name": "data_collector",
   "private": true,
   "engines": {
-    "node": "20.10.0",
+    "node": "20",
     "yarn": "1.22.21"
   },
   "dependencies": {
