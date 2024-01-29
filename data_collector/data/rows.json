@@ -1,5 +1,43 @@
 [
   {
+    "id": 1854,
+    "titre": "Laurence Arribagé, ex-députée LR et actuelle adjointe au maire de Toulouse, condamnée à cinq ans d’inéligibilité",
+    "contenu": "Elle était soupçonnée d’avoir tenté de déstabiliser sa concurrente Corinne Vignon (LRM) lors des législatives de 2017. Elle va perdre son mandat d’adjointe au maire de Toulouse chargée des sports.",
+    "url": "https://www.lemonde.fr/politique/article/2024/01/29/laurence-arribage-ex-deputee-lr-et-actuelle-adjointe-au-maire-de-toulouse-condamnee-a-cinq-ans-d-ineligibilite_6213718_823448.html",
+    "date": "2024-01-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151845,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 582,
+        "value": "Corinne Vignon"
+      },
+      {
+        "id": 1818,
+        "value": "Laurence Arribagé"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
     "id": 1851,
     "titre": "Vendée : un fonctionnaire, mis en examen pour \"trafic d'influence\", attaque sa municipalité",
     "contenu": "Jeudi 25 janvier, à Nantes, un ancien directeur des travaux de la ville de La Roche-sur-Yon (Vendée) mis en examen dans une affaire de « trafic d’influence » quand il exerçait encore à Nantes Métropole a attaqué la municipalité devant le tribunal administratif de Nantes, pour avoir refusé en 2016 de reconnaître le lien de cause à effet entre sa dépression et sa « placardisation ».",
