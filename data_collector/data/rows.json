@@ -1,5 +1,102 @@
 [
   {
+    "id": 1851,
+    "titre": "Vendée : un fonctionnaire, mis en examen pour \"trafic d'influence\", attaque sa municipalité",
+    "contenu": "Jeudi 25 janvier, à Nantes, un ancien directeur des travaux de la ville de La Roche-sur-Yon (Vendée) mis en examen dans une affaire de « trafic d’influence » quand il exerçait encore à Nantes Métropole a attaqué la municipalité devant le tribunal administratif de Nantes, pour avoir refusé en 2016 de reconnaître le lien de cause à effet entre sa dépression et sa « placardisation ».",
+    "url": "https://actu.fr/pays-de-la-loire/la-roche-sur-yon_85191/vendee-un-fonctionnaire-mis-en-examen-pour-trafic-dinfluence-attaque-sa-municipalite_60625870.html",
+    "date": "2024-01-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151982,
+        "value": "85 - Vendée"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1816,
+        "value": "Luc Bouard"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1852,
+    "titre": "Le maire de Puissalicon, Michel Farenc, fait appel de sa condamnation",
+    "contenu": "Après sa condamnation le 8 janvier dernier, le maire de Puissalicon, Michel Farenc fait appel de sa condamnation pour prise illégale d'intérêt dans le recrutement de son fils Nicolas au poste de secrétaire de mairie. Ce dernier fait aussi appel ainsi que le parquet de Béziers.",
+    "url": "https://www.midilibre.fr/2024/01/28/le-maire-de-puissalicon-michel-farenc-fait-appel-de-sa-condamnation-11726622.php",
+    "date": "2024-01-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151848,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1696,
+        "value": "Michel Farenc"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1853,
+    "titre": "Solgne (57) : Une deuxième plainte !",
+    "contenu": "Après une première plainte en février 2023, l’Association anticorruption A.C. !! a déposé plainte contre X pour abus d’autorité, visant le maire de Solgne, en Moselle, dans l’affaire de la construction d’une maison dentaire dont le permis de construire est périmé.",
+    "url": "https://infodujour.fr/politique/collectivites/73047-solgne-57-une-deuxieme-plainte",
+    "date": "2024-01-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151957,
+        "value": "57 - Moselle"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1817,
+        "value": "Jean Stamm"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 170,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1850,
     "titre": "Affaire Orpea : des perquisitions menées mi-janvier en Europe et en France",
     "contenu": "Cette opération s'est déroulée simultanément dans cinq pays européens (Belgique, Luxembourg, Suisse, Italie, Portugal) et en France, précise le parquet, ajoutant que ces opérations ont été menées dans le cadre de l'information judiciaire visant le groupe.",
