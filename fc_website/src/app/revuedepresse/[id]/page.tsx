@@ -45,14 +45,16 @@ export default function Fiche({
                       <li key={item.id} className="">
                         <LinkToItem
                           {...{ item }}
-                          className="text-bleuanticor-800 pt-6 pb-8 px-8 block h-full bg-gray-200"
+                          className="text-bleuanticor-800 bg-gray-100 border-bleuanticor-100 border-l-4 border-0 pt-6 pb-8 px-8 block h-full "
                         >
                           {item.date && (
-                            <div className="text-sm mb-1">
+                            <div className="text-sm mb-1 uppercase">
                               {formatDateVerbose(item.date)}
                             </div>
                           )}
-                          <div className="font-bold">{item.titre}</div>
+                          <div className="font-bold text-bleuanticor-500">
+                            {item.titre}
+                          </div>
                         </LinkToItem>
                       </li>
                     )
