@@ -33,10 +33,10 @@ export default function Fiche({
           {getSimilarItems(item, allItems).map(({ tag, items }) => {
             return (
               <div className="" key={tag.id}>
-                <h3 className="text-xl mb-2">
+                <h3 className="text-base mb-2">
                   <LinkToTag
                     {...{ tag }}
-                    className="bg-rose-200 px-2 rounded"
+                    className="bg-bleuanticor-500 px-4 py-1 text-white mr-2"
                   />
                 </h3>
                 <ul className="flex gap-6 items-stretch">
@@ -45,7 +45,7 @@ export default function Fiche({
                       <li key={item.id} className="">
                         <LinkToItem
                           {...{ item }}
-                          className="text-bleuanticor-800 bg-gray-100 border-bleuanticor-100 border-l-4 border-0 pt-6 pb-8 px-8 block h-full "
+                          className="bg-gray-100 border-bleuanticor-100 border-l-4 border-0 pt-6 pb-8 px-8 block h-full "
                         >
                           {item.date && (
                             <div className="text-sm mb-1 uppercase">
