@@ -40,7 +40,10 @@ export function SearchPanel() {
             className="flex items-center justify-center gap-2"
             onSubmit={handleSubmit(onSubmit)}
           >
-            <input {...register('query', { required: true })} />
+            <input
+              {...register('query', { required: true })}
+              className="border border-solid border-gray-300"
+            />
             {errors.query && <span>This field is required</span>}
             <button type="submit">Lancer la recherche</button>
           </form>
