@@ -27,7 +27,7 @@ export default function RevueDePresse({
     : allItems
   return (
     <div className="container px-4 py-28 mx-auto">
-      <h1 className="text-2xl font-bold mb-10 text-gray-700 text-center">
+      <h1 className="text-4xl font-bold mb-10 text-gray-700 uppercase text-left">
         La revue de presse
       </h1>
       <SearchPanel />

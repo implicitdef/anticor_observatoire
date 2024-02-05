@@ -21,6 +21,17 @@ export default function RootLayout({
       <body
         className={`${inter.className} bg-white min-h-screen flex flex-col`}
       >
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="anonymous"
+        />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+          rel="stylesheet"
+        />
+
         <header className="">
           <div className="container mx-auto border-b-4 border-0 border-solid border-blue-900">
             <div className="flex justify-between">
