@@ -34,12 +34,6 @@ async function call(url: string): Promise<ApiResponse> {
   return apiResponseSchema.passthrough().parse(res.data)
 }
 
-export async function run() {
-  const res = (await readTable()) as Row[]
-  const res2 = res.map(mapRow)
-  console.log('@@@', res2)
-}
-
 const departementSchema = z
   .object({
     id: z.number(),
@@ -81,23 +75,25 @@ const procedureSchema = z
   })
   .strict()
 
-const rowSchema = z
-  .object({
-    id: z.number(),
-    order: z.string(),
-    field_1556848: z.string(),
-    field_1556849: z.string(),
-    field_1556850: z.string(),
-    field_1556851: z.string().nullable(),
-    field_1556852: z.string(),
-    field_1556853: departementSchema.array(),
-    field_1557648: personnaliteSchema.array(),
-    field_1557650: personneMoraleSchema.array(),
-    field_1557681: categorieSchema.array(),
-    field_1557682: themeSchema.array(),
-    field_1561023: procedureSchema.array(),
-  })
-  .strict()
+const rowSchema = z.object({
+  id: z.number(),
+  order: z.string(),
+  field_1556848: z.string(),
+  field_1556849: z.string(),
+  field_1556850: z.string(),
+  field_1556851: z.string().nullable(),
+  field_1556852: z.string(),
+  field_1556853: departementSchema.array(),
+  field_1557648: personnaliteSchema.array(),
+  field_1557650: personneMoraleSchema.array(),
+  field_1557681: categorieSchema.array(),
+  field_1557682: themeSchema.array(),
+  field_1561023: procedureSchema.array(),
+  // new column "titre corrigé". Not used
+  // field_1751584: z.string().nullable(),
+})
+// Not strict, because a new column may be added
+//.strict()
 
 const apiResponseSchema = z.object({
   next: z.string().nullable(),
