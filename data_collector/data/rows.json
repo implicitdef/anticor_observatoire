@@ -1,5 +1,80 @@
 [
   {
+    "id": 1882,
+    "titre": "François Bayrou relaxé dans l’affaire des assistants parlementaires européens du MoDem",
+    "contenu": "Le président du MoDem, François Bayrou, a été relaxé, lundi 5 février, par le tribunal correctionnel de Paris dans l’affaire des assistants parlementaires européens, « au bénéfice du doute ». Deux autres prévenus ont aussi été relaxés, tandis que huit autres, parmi lesquels figuraient cinq ex-eurodéputés, ont été condamnés à des peines allant de dix à dix-huit mois de prison avec sursis, des amendes de 10 000 à 50 000 euros et à deux ans d’inéligibilité avec sursis. Le parti Union pour la démocratie française (UDF) a été condamné à 150 000 euros d’amende, dont 100 000 euros ferme, et le MoDem à 350 000 euros, dont 300 000 euros ferme.",
+    "url": "https://www.lemonde.fr/politique/article/2024/02/05/francois-bayrou-relaxe-dans-l-affaire-des-assistants-parlementaires-europeens-du-modem_6214845_823448.html",
+    "date": "2024-02-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1296,
+        "value": "Bernard Lehideux"
+      },
+      {
+        "id": 1298,
+        "value": "Anne Laperrouze"
+      },
+      {
+        "id": 1300,
+        "value": "François Bayrou"
+      },
+      {
+        "id": 1573,
+        "value": "Jean-Luc Bennahmias"
+      },
+      {
+        "id": 1574,
+        "value": "Michel Mercier"
+      },
+      {
+        "id": 1834,
+        "value": "Janelly Fourtou"
+      },
+      {
+        "id": 1835,
+        "value": "Alexandre Nardella"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 94,
+        "value": "Mouvement démocrate (MoDem)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      },
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
+  },
+  {
     "id": 1877,
     "titre": "Grand Lyon : la droite saisit le procureur et le parquet financier pour un soupçon de favoritisme sur le chauffage urbain",
     "contenu": "Les élus LR de la métropole ont saisi le procureur et le PNF pour un soupçon de favoritisme sur une délégation de service public adoptée lundi par la majorité écologiste. Cette dernière a également saisi la justice pour «dénonciation calomnieuse» après l’envoi d’un mail anonyme.",
@@ -64,6 +139,48 @@
       {
         "id": 83,
         "value": "BFM TV"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1883,
+    "titre": "L'assemblée de Corse secouée par la préemption du terrain de Cavallo et une enquête pour \"concussion\"",
+    "contenu": "Session agitée de l'assemblée de Corse, ce 1er février où devait être examiné le rapport de la chambre des comptes pointant la gestion erratique du littoral par la CDC. Notamment sur l'île de Cavallo. Un article met en cause Gilles Simeoni. Une enquête pour concussion avait été ouverte en septembre.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/l-assemblee-de-corse-secouee-par-la-preemption-du-terrain-de-cavallo-et-une-enquete-pour-concussion-2829521",
+    "date": "2024-02-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151842,
+        "value": "2A - Corse-du-Sud"
+      },
+      {
+        "id": 1151843,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1836,
+        "value": "Gilles Simeoni"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 103,
+        "value": "Gang du Petit Bar"
+      },
+      {
+        "id": 479,
+        "value": "Chambres régionale des comptes (CRC)"
       }
     ],
     "categorie": [
