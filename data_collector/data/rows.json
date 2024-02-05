@@ -1,5 +1,893 @@
 [
   {
+    "id": 1877,
+    "titre": "Grand Lyon : la droite saisit le procureur et le parquet financier pour un soupçon de favoritisme sur le chauffage urbain",
+    "contenu": "Les élus LR de la métropole ont saisi le procureur et le PNF pour un soupçon de favoritisme sur une délégation de service public adoptée lundi par la majorité écologiste. Cette dernière a également saisi la justice pour «dénonciation calomnieuse» après l’envoi d’un mail anonyme.",
+    "url": "https://www.lefigaro.fr/lyon/grand-lyon-la-droite-saisit-le-procureur-et-le-parquet-financier-pour-un-soupcon-de-favoritisme-sur-le-chauffage-urbain-20240202",
+    "date": "2024-02-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1665,
+        "value": "Bruno Bernard"
+      },
+      {
+        "id": 1733,
+        "value": "Jean-Vincent Placé"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 403,
+        "value": "Coriance"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1881,
+    "titre": "Ingérences étrangères : le parquet de Paris saisi après les dénégations de M'Barki et Duthion devant les députés",
+    "contenu": "L'ex-journaliste de BFM TV et le lobbyiste ont fait l'objet d'une dénonciation par le député RN Jean-Philippe Tanguy pour \"faux témoignage\" devant une commission d'enquête parlementaire. Le parquet de Paris a transmis ce signalement au PNF, qui enquête déjà sur \"l'affaire M'Barki\".",
+    "url": "https://www.lalettre.fr/fr/action-publique_parlement/2024/02/02/ingerences-etrangeres--le-parquet-de-paris-saisi-apres-les-denegations-de-m-barki-et-duthion-devant-les-deputes%2C110155462-art?utm_source=LLA&utm_medium=email&utm_campaign=PROS_EDIT_ALE&did=109825881",
+    "date": "2024-02-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1228,
+        "value": "Jean-Pierre Duthion"
+      },
+      {
+        "id": 1241,
+        "value": "Rachid M’Barki"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 83,
+        "value": "BFM TV"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1878,
+    "titre": "Le lanceur d’alerte des « Football Leaks » a partagé ses données avec les justices française et européenne",
+    "contenu": "Le Portugais Rui Pinto a transmis cette semaine des dizaines de millions de documents confidentiels au Parquet national financier et à Eurojust. Ces données vont notamment alimenter l’enquête judiciaire sur le possible cadeau fiscal accordé par Gérald Darmanin au PSG en 2017.",
+    "url": "https://www.mediapart.fr/journal/international/020224/le-lanceur-d-alerte-des-football-leaks-partage-ses-donnees-avec-les-justices-francaise-et-europeenn",
+    "date": "2024-02-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1230085,
+        "value": "Portugal"
+      },
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1388,
+        "value": "Gérald Darmanin"
+      },
+      {
+        "id": 1833,
+        "value": "Rui Pinto"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 40,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 478,
+        "value": "Unité de coopération judiciaire de l'Union européenne (Eurojust)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1869,
+    "titre": "Corruption au Gabon : Pascaline Bongo, «son titre ronflant» et les «affaires du Président» jugés à Paris",
+    "contenu": "La fille du potentat gabonais Omar Bongo comparaît à Paris pour avoir perçu des fonds d’une entreprise française de construction. Il s’agit du premier procès visant un des membres du clan, symbole des scandales de la Françafrique.",
+    "url": "https://www.liberation.fr/societe/police-justice/corruption-au-gabon-pascaline-bongo-son-titre-ronflant-et-les-affaires-du-president-juges-a-paris-20240201_X5T6GHN3TNBADF3GUPTCWJYTKA/?redirected=1",
+    "date": "2024-02-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1282332,
+        "value": "Gabon"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1830,
+        "value": "Pascaline Bongo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 476,
+        "value": "Egis"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1879,
+    "titre": "Haute-Garonne : suspecté de corruption et de blanchiment, l'ex-maire de Saint-Jory incarcéré",
+    "contenu": "Mis en examen pour \"corruption\", \"blanchiment habituel\" et \"prise illégale d'intérêts\", Thierry Fourcassier, l'ancien maire de Saint-Jory, vient d'être placé en détention provisoire. Même sanction pour l'apporteur d'affaires de la société KMG.",
+    "url": "https://www.ladepeche.fr/2024/02/01/info-la-depeche-suspecte-de-corruption-et-de-blanchiment-lex-maire-de-saint-jory-est-emprisonne-11737410.php",
+    "date": "2024-02-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151845,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1231,
+        "value": "Thierry Fourcassier"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1880,
+    "titre": "On est en plein dans le conflit d'intérêts à l'Agence régionale de santé Auvergne-Rhône-Alpes",
+    "contenu": "Jean-Charles Faivre-Pierret, haut fonctionnaire hospitalier, a fait un signalement au Parquet national financier pour dénoncer une possible prise illégale d'intérêts visant plusieurs membres de l'Agence régionale de santé Auvergne-Rhône-Alpes.",
+    "url": "https://www.lyoncapitale.fr/actualite/on-est-en-plein-dans-le-conflit-d-interets-a-l-agence-regionale-de-sante-auvergne-rhone-alpes",
+    "date": "2024-02-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1433,
+        "value": "Jean-Yves Grall"
+      },
+      {
+        "id": 1434,
+        "value": "Serge Morais"
+      },
+      {
+        "id": 1435,
+        "value": "Jean-Charles Faivre-Pierret"
+      },
+      {
+        "id": 1436,
+        "value": "Christelle Pierrat"
+      },
+      {
+        "id": 1437,
+        "value": "Céline Vigné"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 171,
+        "value": "Ykoé (ex-Clinipsy)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
+  },
+  {
+    "id": 1863,
+    "titre": "Pierre-André Périssol, maire de Moulins, condamné à 3 000 euros d'amende pour \"prise illégale d'intérêts\"",
+    "contenu": "Un an de prison avec sursis et 5 ans d'inéligibilité avaient été requis contre Pierre-André Périssol (LR), maire de Moulins, en décembre dernier. Finalement, le tribunal correctionnel de Cusset (Allier) a condamné l'édile à 3 000 euros d'amende pour \"prise illégale d'intérêts\".",
+    "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/allier/moulins/pierre-andre-perissol-maire-de-moulins-condamne-a-3-000-euros-d-amende-pour-prise-illegale-d-interets-2917209.html",
+    "date": "2024-02-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151602,
+        "value": "03 - Allier"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1418,
+        "value": "Pierre-André Périssol"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 220,
+        "value": "Groupe Arcade-VYV"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
+    "id": 1868,
+    "titre": "Soupçons de prise illégale d'intérêts contre le maire de Meyreuil pour avoir rendu ses propres terrains constructibles",
+    "contenu": "Le maire de Meyreuil, Jean-Pascal Gournès, aurait vendu des terrains lui appartenant après les avoir rendus constructibles dans le cadre de ses fonctions. Il aurait au passage empoché une plus value de 1,3 million d'euros. Une enquête préliminaire a été ouverte pour prise illégale d'intérêts par le parquet d'Aix. Deux parcelles d'une valeur de 17000 euros en 2011 avaient été cédées au promoteur Artea pour une somme 77 fois plus importante en 2018.",
+    "url": "https://www.laprovence.com/article/region/1599342189650516/info-la-provence-soupcons-de-prise-illegale-dinterets-contre-le-maire-de-meyreuil-pour-avoir-rendu-ses-propres-terrains-constructibles",
+    "date": "2024-02-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1829,
+        "value": "Jean-Pascal Gournès"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 474,
+        "value": "SOS Corruption 13"
+      },
+      {
+        "id": 475,
+        "value": "Artea"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
+  },
+  {
+    "id": 1867,
+    "titre": "Bolbec. Soupçon de favoritisme : une peine moins lourde en appel pour l'ex-maire Dominique Métot",
+    "contenu": "Le délibéré du procès en appel de Dominique Métot a été donné lundi 29 janvier. La cour d'appel a rendu un jugement plus clément que celui en première instance.",
+    "url": "https://www.lecourriercauchois.fr/actualite-356895-bolbec-soupcon-de-favoritisme-une-peine-moins-lourde-en-appel-pour-l-ex-maire-dominique-metot",
+    "date": "2024-01-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151974,
+        "value": "76 - Seine-Maritime"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1828,
+        "value": "Dominique Métot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 473,
+        "value": "Association Léo-Lagrange"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
+  },
+  {
+    "id": 1871,
+    "titre": "Enquête sur l'attribution de marchés publics à l'aéroport d’Ajaccio : une personne toujours en garde à vue, l'autre relâchée",
+    "contenu": "Parmi les deux personnes placées en garde à vue mardi 30 janvier, l'une a été relâchée. Ces mesures interviennent dans le cadre d'une enquête visant l'attribution de marchés publics à une entreprise de sécurité par la Chambre de commerce et d'industrie d'Ajaccio.",
+    "url": "https://france3-regions.francetvinfo.fr/corse/aeroport-d-ajaccio-enquete-ouverte-pour-association-de-malfaiteurs-extorsion-et-favoritisme-autour-du-marche-de-controle-des-bagages-2916243.html",
+    "date": "2024-01-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151842,
+        "value": "2A - Corse-du-Sud"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 477,
+        "value": "Chambre de commerce et d'industrie (CCI) 2A - Corse-du-Sud"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1866,
+    "titre": "L'Assemblée vote en première lecture une proposition de loi pour encadrer le recours de l’État aux cabinets de conseil",
+    "contenu": "Trois ans après la polémique McKinsey et quinze mois après son adoption au Sénat, la proposition était examinée ce jeudi dans l’Hémicycle. Ce marché dépassait le milliard d’euros en 2021.",
+    "url": "https://www.lefigaro.fr/medias/conflits-d-interets-pantouflage-comment-l-assemblee-compte-resserrer-le-recours-de-l-etat-aux-cabinets-de-conseil-20240130",
+    "date": "2024-01-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1275,
+        "value": "Emmanuel Macron"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 235,
+        "value": "Boston Consulting Group (BCG)"
+      },
+      {
+        "id": 444,
+        "value": "McKinsey & Company"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1864,
+    "titre": "L’enquête pour détournement de fonds publics contre Valérie Pécresse classée sans suite",
+    "contenu": "Le parquet a annoncé le classement sans suite de l’enquête pour détournement de fonds publics contre Valérie Pécresse.",
+    "url": "https://www.ouest-france.fr/politique/valerie-pecresse/lenquete-pour-detournement-de-fonds-publics-contre-valerie-pecresse-classee-sans-suite-09fa1782-c03e-11ee-9812-c8f10941541a",
+    "date": "2024-01-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1461,
+        "value": "Valérie Pécresse"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ]
+  },
+  {
+    "id": 1872,
+    "titre": "Le parquet national financier étudie une plainte contre la société commerciale de la LFP",
+    "contenu": "Le parquet national financier étudie actuellement une plainte déposée par l’association AC anticorruption au sujet de la société commerciale de la Ligue de football professionnel (LFP) et ses modalités de création.",
+    "url": "https://www.ouest-france.fr/sport/football/ligue-1/le-parquet-national-financier-etudie-une-plainte-contre-la-societe-commerciale-de-la-lfp-39113cc4-c00e-11ee-a1e9-608ff5db04c2",
+    "date": "2024-01-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 2,
+        "value": "Sénat"
+      },
+      {
+        "id": 170,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1860,
+    "titre": "Les députés vont se pencher sur les ingérences étrangères dans les médias",
+    "contenu": "La Commission des affaires culturelles vient d'acter la création de la mission flash sur les ingérences étrangères dans les médias, demandée cet été par le député Modem Laurent Esquenet-Goxes. Outre la Russie, l'influence du Qatar, de la Chine ou de l'Iran y seront examinées.",
+    "url": "https://www.lalettre.fr/fr/action-publique_parlement/2024/01/31/les-deputes-vont-se-pencher-sur-les-ingerences-etrangeres-dans-les-medias%252C110154282-eve",
+    "date": "2024-01-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1226729,
+        "value": "Qatar"
+      },
+      {
+        "id": 1241350,
+        "value": "Chine"
+      },
+      {
+        "id": 1291017,
+        "value": "Iran"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 201,
+        "value": "Laurent Esquenet-Goxes"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1873,
+    "titre": "Prise illégale d'intérêt : condamnation du premier adjoint au maire de Gréasque, Jean-Luc Turzo",
+    "contenu": "Jean-Luc Turzo écope de 4 mois de prison avec sursis et 2 ans inéligibilité pour avoir participé à des votes qui ont fait prendre de la valeur à deux parcelles achetées à bas coût par sa SCI immobilière.",
+    "url": "https://www.laprovence.com/article/faits-divers-justice/45056447580975/greasque-le-premier-adjoint-au-maire-jean-luc-turzo-condamne-pour-prise-illegale-dinteret",
+    "date": "2024-01-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1831,
+        "value": "Jean-Luc Turzo"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1865,
+    "titre": "Saint-Jory : mise en examen de l'ancien maire demandée, le nouveau maire prend des mesures",
+    "contenu": "Le parquet de Toulouse a requis la mise en examen et la mise en détention provisoire de Thierry Fourcassier, pour \"corruption active et passe, prise illégale d'intérêts et blanchiment\". Il est soupçonné d'avoir voyagé aux frais de promoteurs immobiliers, en échange de faveurs.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/l-ancien-maire-de-sait-jory-en-garde-a-vue-un-vaste-systeme-de-corruption-avec-des-promoteurs-mis-a-jour-5511146",
+    "date": "2024-01-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151845,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1231,
+        "value": "Thierry Fourcassier"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1874,
+    "titre": "Cinq années d’inéligibilité requises contre Cyril Tetuanui",
+    "contenu": "Cyril Tetuanui, maire de Tumara’a et président du SPC-PF, était convoqué devant le tribunal correctionnel ce mardi pour détournement de fonds publics, faux et usage de faux, et escroquerie. En cause, des contrats de bétonnage passés entre la commune et des entreprises de Raiatea. Il aurait signé des attestations de fin de travaux et touché des subventions du Pays, alors qu’il restait encore près de 1500 mètres de servitudes à bétonner. Le procureur a requis trois ans de prison dont deux avec sursis probatoire pendant trois ans, et cinq années d’inéligibilité, avec exécution provisoire. Également poursuivi dans deux autres affaires, le harcèlement de son directeur technique et l’utilisation à des fins personnelles d’un bateau de la commune. La décision est attendue le 13 février prochain.",
+    "url": "https://www.radio1.pf/cinq-annees-dineligibilite-requises-contre-cyril-tetuanui/",
+    "date": "2024-01-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151995,
+        "value": "987 - Polynésie Française"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1832,
+        "value": "Cyril Tetuanui"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1859,
+    "titre": "Le marché du chauffage urbain du sud-ouest de Lyon attribué sur fond de polémique",
+    "contenu": "Le 29 janvier la Métropole de Lyon a finalement attribué le marché du chauffage urbain du sud-ouest de Lyon au groupe Coriance. Un contrat à 350 millions d’euros accordé sur fond de polémique, après un mail anonyme dénonçant du favoritisme dans l'attribution de ce marché public.",
+    "url": "https://www.lyoncapitale.fr/actualite/le-marche-du-chauffage-urbain-du-sud-ouest-de-lyon-attribue-sur-fond-de-polemique",
+    "date": "2024-01-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1665,
+        "value": "Bruno Bernard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 403,
+        "value": "Coriance"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1858,
+    "titre": "Oise : visé par une enquête pour prise illégale d’intérêts, le président des chasseurs placé en garde à vue",
+    "contenu": "Guy Harlé d’Ophove, président de la Fédération des chasseurs de l’Oise et vice-président du conseil régional a été placé en garde à vue le 15 janvier dernier pour prise illégale d’intérêt. Une enquête est menée par la brigade financière de Lille (Nord) après un vote survenu en 2022 sur le financement de la campagne Hauts-de-France propres.",
+    "url": "https://www.leparisien.fr/oise-60/oise-vise-par-une-enquete-pour-prise-illegale-dinterets-le-president-des-chasseurs-place-en-garde-a-vue-30-01-2024-ZT4LR3NO55CX5B4Z64JLIXBKC4.php?ts=1706699803547",
+    "date": "2024-01-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151959,
+        "value": "60 - Oise"
+      },
+      {
+        "id": 1151960,
+        "value": "62 - Pas-de-Calais"
+      },
+      {
+        "id": 1151977,
+        "value": "80 - Somme"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1825,
+        "value": "Guy Harlé d’Ophove"
+      },
+      {
+        "id": 1826,
+        "value": "Jean-Michel Taccoen"
+      },
+      {
+        "id": 1827,
+        "value": "Yves Butel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 472,
+        "value": "Fédération Départementale des Chasseurs de l'Oise"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1856,
+    "titre": "Philippe Vigier, ancien ministre devenu squatteur aux frais de la République",
+    "contenu": "Débarqué du gouvernement il y a trois semaines, l’ancien ministre des outre-mer continue de bénéficier d’un logement de fonction et d’une voiture avec chauffeur. Il organise également des « dîners privés » au sein du ministère. Une pratique qui étonne jusqu’à ses anciens collègues.",
+    "url": "https://www.mediapart.fr/journal/france/300124/philippe-vigier-ancien-ministre-devenu-squatteur-aux-frais-de-la-republique",
+    "date": "2024-01-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1823,
+        "value": "Philippe Vigier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 94,
+        "value": "Mouvement démocrate (MoDem)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1861,
+    "titre": "Soupçons de favoritisme dans l'armée : trois journalistes échappent à une mise en examen",
+    "contenu": "Trois journalistes de Radio France et Disclose ont échappé mardi 30 janvier à une mise en examen à Paris après avoir été soupçonnés d'avoir révélé en 2018 l'identité d'un membre des forces spéciales soupçonné de favoritisme et qui avait porté plainte. Ils ont été placés sous le statut de témoin assisté, plus favorable, ce qui pourrait présager de l'intention du juge d'instruction de prononcer un non-lieu final.",
+    "url": "https://www.lefigaro.fr/flash-actu/soupcons-de-favoritisme-dans-l-armee-trois-journalistes-echappent-a-une-mise-en-examen-20240130",
+    "date": "2024-01-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1730,
+        "value": "Benoît Collombat"
+      },
+      {
+        "id": 1731,
+        "value": "Geoffrey Livolsi"
+      },
+      {
+        "id": 1732,
+        "value": "Jacques Monin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 163,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      },
+      {
+        "id": 400,
+        "value": "Disclose"
+      },
+      {
+        "id": 401,
+        "value": "Radio France"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1862,
+    "titre": "Un eurodéputé sur quatre déjà mis en cause dans une affaire délictueuse",
+    "contenu": "Près d’un député européen sur quatre a déjà été mis en cause dans une ou plusieurs affaires, dont près de 90 cas de corruption ou de fraude et de détournement de fonds. C’est ce qui ressort d’une enquête internationale menée par De Tijd avec des médias d’autres États membres de l’UE.",
+    "url": "https://www.lecho.be/economie-politique/europe/general/un-eurodepute-sur-quatre-deja-mis-en-cause-dans-une-affaire-delictueuse/10522988.html",
+    "date": "2024-01-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1857,
+    "titre": "Jean Dartron, le président de la Ligue guadeloupéenne de Football accusé de prise illégale d’intérêt par la CFTC-Territoriaux",
+    "contenu": "Jean Dartron est visé par une plainte de la CFTC. Le président de la Ligue guadeloupéenne de football est accusé de prise illégale d’intérêt. Également, vice-président du département, il aurait voté des subventions en faveur de la ligue de foot qu’il préside. La collectivité départementale a contre-attaqué et annonce porter plainte contre le président de la CFTC-Territoriaux Mario Varo pour dénonciation calomnieuse et diffamation.",
+    "url": "https://la1ere.francetvinfo.fr/guadeloupe/jean-dartron-le-president-de-la-ligue-guadeloupeenne-de-football-accuse-de-prise-illegale-d-interet-par-la-cftc-territoriaux-1460832.html",
+    "date": "2024-01-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151990,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1824,
+        "value": "Jean Dartron"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 471,
+        "value": "Ligue guadeloupéenne de Football"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1854,
     "titre": "Laurence Arribagé, ex-députée LR et actuelle adjointe au maire de Toulouse, condamnée à cinq ans d’inéligibilité",
     "contenu": "Elle était soupçonnée d’avoir tenté de déstabiliser sa concurrente Corinne Vignon (LRM) lors des législatives de 2017. Elle va perdre son mandat d’adjointe au maire de Toulouse chargée des sports.",
@@ -904,6 +1792,10 @@
       {
         "id": 1731,
         "value": "Geoffrey Livolsi"
+      },
+      {
+        "id": 1732,
+        "value": "Jacques Monin"
       }
     ],
     "personnes_morales": [
@@ -976,6 +1868,40 @@
       }
     ],
     "procedure": []
+  },
+  {
+    "id": 1876,
+    "titre": "Crise majeure à l'agglo Gaillac-Graulhet: le président Paul Salvador dénoncé par son administration",
+    "contenu": "L'étau se resserre autour de Paul Salvador. Déjà visé par une information judiciaire pour prise illégale d'intérêts, le président de l'agglomération Gaillac-Graulhet (Tarn) fait l'objet d'un  nouveau signalement en justice: il émane de sa directrice générale des services, qui a été entendue 9 heures par les enquêteurs.",
+    "url": "https://www.ladepeche.fr/2024/01/22/crise-majeure-a-lagglo-gaillac-graulhet-le-president-paul-salvador-denonce-par-son-administration-11712815.php",
+    "date": "2024-01-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151978,
+        "value": "81 - Tarn"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1774,
+        "value": "Paul Salvador"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
   },
   {
     "id": 1826,
@@ -7311,6 +8237,44 @@
         "value": "Mise en examen"
       }
     ]
+  },
+  {
+    "id": 1875,
+    "titre": "Un an après le Qatargate, comment mieux protéger l'Union européenne contre les conflits d'intérêts et la corruption ?",
+    "contenu": "Les scandales ont une vertu démocratique. Non seulement ils témoignent, par leur retentissement, de l'attachement des citoyens à l'éthique publique et au caractère démocratique des processus décisionnels, mais encore offrent-ils un observatoire sur le fonctionnement concret de nos institutions. Le Qatargate n’a pas dérogé à la règle : il a révélé non seulement l'ampleur des menaces pesant sur la démocratie de l'Union mais aussi son étonnante vulnérabilité.",
+    "url": "https://www.observatoireethiquepublique.com/nos-propositions/livres-blancs/un-an-apres-le-qatargate-comment-mieux-proteger-lunion-europeenne-contre-les-conflits-dinterets-et-la-corruption.html",
+    "date": "2023-12-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 463,
+        "value": "Observatoire de l'éthique publique"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
+    "procedure": []
   },
   {
     "id": 1462,
@@ -19368,7 +20332,7 @@
     "contenu": "La justice s'est prononcée une nouvelle fois dans l'affaire retentissante qui vise les anciens édiles de Levallois-Perret (Hauts-de-Seine). La cour d'appel de Paris a condamné, lundi 9 janvier, Patrick et Isabelle Balkany respectivement à quatre ans et demi et trois ans et demi de prison, 100 000 euros d'amende et 10 ans d'inéligibilité pour blanchiment de fraude fiscale. Pour leurs avocats, cette décision signifie que Patrick Balkany, qui a passé en tout un peu moins d'un an en détention, ne retournera pas en prison dans cette affaire, et que son épouse ne sera pas non plus incarcérée.\nA l'issue d'un troisième procès consacré uniquement à la durée des peines, la juridiction a en outre ordonné une confusion totale de ces sanctions avec celles de trois ans d'emprisonnement ferme prononcées en appel en mars 2020 dans le volet fraude fiscale de l'affaire Balkany.",
     "url": "https://www.francetvinfo.fr/politique/affaire/affaire-balkany/blanchiment-de-fraude-fiscale-patrick-et-isabelle-balkany-condamnes-en-appel-a-quatre-ans-et-demi-et-trois-ans-et-demi-de-prison_5592030.html#xtor=CS2-765-[autres]-",
     "date": "2023-01-09",
-    "etiquettes": "92 – Hauts de Seine,Isabelle Balkany,Patrick Balkany",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151973,
@@ -19406,7 +20370,7 @@
     "contenu": "Le parquet de Grenoble annonce, par voie de communiqué, que Bernard Bensaid, président directeur général du groupe Avec (anciennement Doctegestio), société repreneuse et gestionnaire de la Clinique mutualiste de Grenoble (GHM), a été interpellé et placé en garde à vue lundi 9 janvier 2023 au matin.",
     "url": "https://www.placegrenet.fr/2023/01/09/ghm-bernard-bensaid-president-du-groupe-avec-place-en-garde-a-vue-pour-prise-illegale-dinterets-et-detournement-de-fonds-publics/589162",
     "date": "2023-01-09",
-    "etiquettes": "38 - Isère,Avec,Benard Bensaid,Groupe Hospitalier Mutualiste de Grenoble",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151852,
@@ -19449,7 +20413,7 @@
     "contenu": "Le ministre délégué de la Transition numérique est à l’origine de la proposition de promotion, au grade d’officier de la Légion d’honneur, de Madeleine Dubois, une lobbyiste des laboratoires Servier à l’époque du scandale du Mediator. Et amie de la famille Barrot depuis toujours.",
     "url": "https://www.liberation.fr/checknews/le-ministre-jean-noel-barrot-decore-une-lobbyiste-du-mediator-et-intime-de-la-famille-20230109_FSD2VYVFVFBY3IDYTHGMFHH3NY/",
     "date": "2023-01-09",
-    "etiquettes": "Gouvernement Élisabeth Borne,Jean-Noël Barrot,Madeleine Dubois,Ministère de l&#039;économie,Servier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -19467,6 +20431,10 @@
       }
     ],
     "personnes_morales": [
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      },
       {
         "id": 203,
         "value": "Servier"
@@ -19487,7 +20455,7 @@
     "contenu": "L’ancien chauffeur de Maryse Joissains, Omar Achouri occupe toujours un poste au sein de la Ville d'Aix comme vacataire. C'est pourtant pour la promotion turbo de son chauffeur et ami que l'ancienne maire a été condamnée et déclarée inéligible.",
     "url": "https://marsactu.fr/meme-retraite-lex-chauffeur-de-maryse-joissains-toujours-indispensable-a-la-ville-daix/",
     "date": "2023-01-09",
-    "etiquettes": "13 - Bouches-du-Rhône,Maryse Joissains,Omar Achouri",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151709,
@@ -19498,6 +20466,10 @@
       {
         "id": 1674,
         "value": "Maryse Joissains"
+      },
+      {
+        "id": 1821,
+        "value": "Omar Achouri"
       }
     ],
     "personnes_morales": [],
@@ -19521,7 +20493,7 @@
     "contenu": "Après la « start-up nation » en politique, la « Macron touch » dans l’économie ? Depuis la fin du premier quinquennat du président de la République, pas un mois ne passe sans qu’une entreprise annonce avec fierté le recrutement de l’un de ses anciens ministres. Selon les calculs du Monde, vingt-quatre des soixante-cinq personnalités qui avaient un portefeuille ministériel entre 2017 et 2022 occupent désormais des fonctions dans le privé.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2023/01/09/pantouflage-un-tiers-des-anciens-ministres-de-macron-ont-rejoint-le-prive_6157213_4355770.html",
     "date": "2023-01-09",
-    "etiquettes": "Gouvernement Édouard Philippe 1,Gouvernement Édouard Philippe 2,Gouvernement Jean Castex",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -20267,7 +21239,12 @@
         "value": "Yamina Mamou"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 268,
+        "value": "Union des démocrates et indépendants (UDI)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -20501,7 +21478,7 @@
     "contenu": "Jean-Noël Barrot est actionnaire depuis 2020 de LMP, une entreprise de communication fondée par des anciens du cabinet de conseil McKinsey et soutenue par le milliardaire de Free. La Haute Autorité pour la transparence de la vie publique a validé sa déclaration.\nEn entrant au capital de LMP, Jean-Noël Barrot a rejoint une très longue liste d’actionnaires – la société en compte plus d’une trentaine. Les plus gros d’entre eux, qui ont participé à une levée de fonds de 3,5 millions d’euros en octobre 2017, sont le fonds français Odyssée Venture, l’investisseur allemand Udo Philipp et l’inévitable bienfaiteur de la start-up nation tricolore, le milliardaire Xavier Niel. Lorsque Barrot s’adressera, en tant que ministre des Télécoms, au patron de l’opérateur Free, il parlera donc aussi avec son associé.",
     "url": "https://www.liberation.fr/economie/le-ministre-du-numerique-jean-noel-barrot-associe-dune-start-up-avec-des-anciens-de-mckinsey-et-xavier-niel-20221220_7QDXGNP3DZCSVK43BKRXMVTNP4/?redirected=1",
     "date": "2022-12-20",
-    "etiquettes": "Gouvernement Élisabeth Borne,Haute Autorité pour la Transparence de la Vie Publique,Jean-Noël Barrot,LMP,Xavier Niel",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -20552,7 +21529,7 @@
     "contenu": "L’ONG fondée par l’ancien eurodéputé italien Panzeri, inculpé dans le scandale de corruption qui éclabousse le Parlement européen, disposait de comptes bancaires en Belgique, mais aussi au Maroc et au Qatar. L’enquête belge se concentre sur ces structures qui ont pu jouer le rôle de lobbys masqués au service d’États autoritaires.",
     "url": "https://www.mediapart.fr/journal/international/201222/soupcons-de-corruption-dans-l-ue-de-vraies-fausses-ong-au-coeur-de-l-enquete",
     "date": "2022-12-20",
-    "etiquettes": "Fight Impunity,Parlement Européen,Pier Antonio Panzeri",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1226713,
@@ -20574,6 +21551,10 @@
       }
     ],
     "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      },
       {
         "id": 421,
         "value": "Fight Impunity"
@@ -20633,7 +21614,7 @@
     "contenu": "Le Tribunal fédéral suisse a rejeté le recours du fondateur du groupe Castel, numéro 2 de la bière en Afrique et leader français du négoce en vin. Ce premier volet de la procédure en rappel d’impôt porte sur ses déclarations fiscales de 2007 et de 2008.",
     "url": "https://www.jeuneafrique.com/1402058/economie/boissons-pierre-castel-condamne-a-288-millions-deuros-par-le-fisc/",
     "date": "2022-12-19",
-    "etiquettes": "Castel,Pierre Castel",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1251431,
@@ -20854,7 +21835,7 @@
     "contenu": "L’un des principaux contrats de lobbying qatari, établi en 2017 et dont Libération dévoile les dessous sulfureux, met en lumière les méthodes de soft power très offensives de l’émirat, obnubilé par sa réputation en France et dans le monde.",
     "url": "https://www.liberation.fr/societe/la-france-porte-dentrisme-et-de-lobbying-du-qatar-20221215_NQ7VQAJYUBGVFDE2GH447RJSBM/",
     "date": "2022-12-15",
-    "etiquettes": "Lotfi Bel Hadj,Nasser al-Khelaïfi",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -20921,7 +21902,7 @@
     "contenu": "Le groupement d'intérêt économique Unilabs France - qui assure des fonctions de gestion pour une vingtaine de laboratoires d'analyse médicale - a trouvé un accord avec le parquet national financier, via une convention judiciaire d'intérêt public (CJIP). Résultat : il va payer une amende de 13,8 millions d'euros pour clore les poursuites et éviter un procès.",
     "url": "https://www.lesechos.fr/industrie-services/pharmacie-sante/fraude-fiscale-les-laboratoires-unilabs-vont-verser-14-millions-dans-une-affaire-de-credit-dimpot-recherche-1889680",
     "date": "2022-12-15",
-    "etiquettes": "Parquet National Financier,Unilabs",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -20959,7 +21940,7 @@
     "contenu": "Le site de General Electric, à Belfort, a été perquisitionné, jeudi 15 décembre, dans le cadre d’une enquête préliminaire pour blanchiment de fraude fiscale aggravée. L’enquête avait été ouverte en juillet 2019, à la suite d’un signalement effectué par Fabien Roussel sur des « soupçons d’optimisation et fraudes fiscales de General Electric » en Suisse.",
     "url": "https://www.lemonde.fr/economie/article/2022/12/15/a-belfort-perquisitions-chez-general-electric-soupconne-de-blanchiment-de-fraude-fiscale_6154581_3234.html",
     "date": "2022-12-15",
-    "etiquettes": "CFE-CGC,General Electric,Parquet National Financier,SUD",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151987,
@@ -20969,8 +21950,20 @@
     "personnalites": [],
     "personnes_morales": [
       {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
         "id": 27,
         "value": "General Electric"
+      },
+      {
+        "id": 332,
+        "value": "Confédération française de l'encadrement - Confédération générale des cadres (CFE-CGC)"
+      },
+      {
+        "id": 470,
+        "value": "Union syndicale Solidaires (SUD)"
       }
     ],
     "categorie": [
@@ -21545,7 +22538,7 @@
     "contenu": "François Commeinhes (divers droite), le maire de Sète, a été relaxé par le tribunal correctionnel de Montpellier, dans l’affaire de détournement de fonds publics pour laquelle il était poursuivi. En 2020, la Chambre régionale des comptes avait épinglé, dans l’un de ses rapports, une partie de la rémunération de l’ancien directeur général des services (DGS) de la ville et de l’agglomération. Des bonus et des primes complémentaires, pour un montant total de 99 000 euros, que la structure avait jugé non-fondés, poursuit le quotidien régional.",
     "url": "https://www.20minutes.fr/justice/4014482-20221212-sete-maire-poursuivi-detournement-fonds-publics-relaxe",
     "date": "2022-12-12",
-    "etiquettes": "34 – Hérault,Chambre régionale des comptes,François Commeinhes",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151848,
@@ -21558,7 +22551,12 @@
         "value": "François Commeinhes"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 107,
+        "value": "Chambre régionale des comptes"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -21574,11 +22572,35 @@
     "contenu": "Avec ses 7 milliards d’euros de dettes, la Ville de Paris a-t-elle encore les moyens d’épauler financièrement près de 2600 associations pour des missions parfois très éloignées du quotidien des Parisiens ? Plusieurs rapports ont pointé le manque de contrôles opérés par la Ville sur ces soutiens financiers. Notamment, une subvention de 50 000 € de la ville de Paris a été votée à l’éditeur chez lequel l’adjoint écologiste David Belliard avait publié quelques mois plus tôt son livre de campagne des municipales. Le PNF a ouvert une enquête préliminaire.",
     "url": "https://www.leparisien.fr/paris-75/dans-les-comptes-de-paris-des-millions-deuros-gaspilles-en-subventions-obscures-11-12-2022-ARBP5L6SNZBILHMZ4BQPVVDJU4.php?ts=1671214404854",
     "date": "2022-12-11",
-    "etiquettes": "Anne Hidalgo,David Belliard,Parquet National Financier",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1284,
+        "value": "Anne Hidalgo"
+      },
+      {
+        "id": 1314,
+        "value": "David Belliard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -21664,18 +22686,38 @@
     "contenu": "Mandelieu-la-Napoule, Le Cannet. Chez LR, ces deux villes des Alpes-Maritimes sont les championnes des adhésions. Une aubaine pour le Niçois Eric Ciotti, favori pour prendre la tête du parti dimanche. Mais selon l'enquête de Libération, ce succès repose en partie sur de scandaleuses pratiques qui remettent en cause la sincérité du scrutin pour la présidence de LR.",
     "url": "https://www.liberation.fr/politique/adhesions-a-lr-sur-la-cote-dazur-barons-noirs-et-sales-methodes-20221207_W4ZNKA2SYVAAROF5ZF4XW6LJ34/?redirected=1",
     "date": "2022-12-07",
-    "etiquettes": "06 – Alpes Maritimes,Éric Ciotti,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151604,
         "value": "06 - Alpes-Maritimes"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 144,
+        "value": "Éric Ciotti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ]
   },
   {
     "id": 1147,
@@ -21683,18 +22725,37 @@
     "contenu": "La cour d'appel de Bastia a confirmé le jugement émis en première instance par le tribunal d'Ajaccio à l'encontre de Valérie Bozzi et son compagnon Sylvestre Ceccaldi, pour, respectivement, prise illégale d'intérêt de la part d'un élu et recel de prise illégale d'intérêt. La maire de Grosseto-Prugna se pourvoit en cassation, ce qui suspend l'exécution de la peine.",
     "url": "https://france3-regions.francetvinfo.fr/corse/haute-corse/grand-bastia/cour-d-appel-de-bastia-valerie-bozzi-maire-de-grosseto-prugna-ineligible-et-condamnee-a-4-mois-de-prison-avec-sursis-2670564.html",
     "date": "2022-12-07",
-    "etiquettes": "2B – Haute Corse,Sylvestre Ceccaldi,Valérie Bozzi",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151843,
         "value": "2B - Haute-Corse"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1819,
+        "value": "Valérie Bozzi"
+      },
+      {
+        "id": 1820,
+        "value": "Sylvestre Ceccaldi"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
   },
   {
     "id": 1144,
@@ -21702,13 +22763,46 @@
     "contenu": "Jean-Christophe Lagarde a été condamné à dix mois de prison avec sursis par le tribunal correctionnel de Paris ce mercredi. Le récent démissionnaire de la présidence de l’UDI était poursuivi pour détournement de fonds publics : il est soupçonné d’avoir versé plus de 39 000 euros de salaire à sa belle-mère en tant qu’assistante parlementaire, entre mai 2009 et août 2010, sans que les enquêteurs n’aient pu trouver de traces de cette activité.",
     "url": "https://www.liberation.fr/politique/jean-christophe-lagarde-condamne-a-dix-mois-de-prison-avec-sursis-pour-detournements-de-fonds-publics-20221207_BDFY3ZK3WRE6BI5MZ6JDVG56L4/?redirected=1",
     "date": "2022-12-07",
-    "etiquettes": "Assemblée Nationale,Jean-Christophe Lagarde,Parquet National Financier,Union des démocrates et indépendants",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151972,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1554,
+        "value": "Jean-Christophe Lagarde"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 268,
+        "value": "Union des démocrates et indépendants (UDI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ]
   },
   {
     "id": 1146,
@@ -21716,11 +22810,47 @@
     "contenu": "Le journaliste et cofondateur de Disclose, Geoffrey Livolsi, ainsi que ses confrères de Radio France, Benoît Collombat et Jacques Monin, sont convoqués, mercredi 14 décembre, par les policiers de la section des atteintes au secret de la défense nationale de la Direction générale de la sécurité intérieure (DGSI). \nLes autorités leur reprochent d’avoir publié, en mars 2018, des informations sur des faits de favoritisme dans des marchés publics au sein du ministère des armées. L’enquête publiée sur France Inter dévoilait, documents à l’appui, que plusieurs hauts gradés avaient favorisé des sociétés privées dans l’attribution de contrats de transport militaire. Et ce, pendant plusieurs années, notamment dans le cadre de l’opération Barkhane au Sahel. Ces informations étaient et restent d’intérêt public. Elles font même l’objet d’une enquête du Parquet national financier pour favoritisme et trafic d’influence depuis 2017.",
     "url": "https://disclose.ngo/fr/article/etat-contre-liberte-presse-des-journalistes-disclose-convoques-dgsi",
     "date": "2022-12-07",
-    "etiquettes": "Benoît Collombat,DGSI,Disclose,Greoffrey Lisolsi,Jacques Monin,Radio France",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1730,
+        "value": "Benoît Collombat"
+      },
+      {
+        "id": 1731,
+        "value": "Geoffrey Livolsi"
+      },
+      {
+        "id": 1732,
+        "value": "Jacques Monin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 163,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      },
+      {
+        "id": 400,
+        "value": "Disclose"
+      },
+      {
+        "id": 401,
+        "value": "Radio France"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -21730,7 +22860,7 @@
     "contenu": "Un diplomate libyen en lien avec les services secrets français a été mis en examen pour « corruption de personnels judiciaires étrangers ». Il a reconnu avoir servi d’intermédiaire pour essayer d’obtenir la libération d’un des fils de l’ancien dictateur libyen Mouammar Kadhafi dans le but de servir les intérêts de Nicolas Sarkozy.",
     "url": "https://www.mediapart.fr/journal/international/071222/operation-sauver-sarko-un-agent-de-l-ambassade-de-libye-en-france-rattrape-par-la-justice",
     "date": "2022-12-07",
-    "etiquettes": "Les Républicains,Michèle Marchand,Mouammar Kadhafi,Nicolas Sarkozy,Noël Dubus",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -21761,6 +22891,10 @@
     ],
     "personnes_morales": [
       {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      },
+      {
         "id": 163,
         "value": "Direction générale de la Sécurité intérieure (DGSI)"
       }
@@ -21788,10 +22922,29 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 469,
+        "value": "Syndicat intercommunal d’électricité de La Réunion (Sidélec Réunion)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1168,
@@ -21817,7 +22970,12 @@
     "departement": [],
     "personnalites": [],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": []
   },
@@ -21834,11 +22992,26 @@
         "value": "64 - Pyrénées-Atlantiques"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1310,
+        "value": "Michèle Alliot-Marie"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
     "theme": [],
-    "procedure": []
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ]
   },
   {
     "id": 1139,
@@ -22096,14 +23269,19 @@
     "contenu": "​Le maire de Cholet Gilles Bourdouleix a comparu mercredi 30 novembre devant le tribunal correctionnel d’Angers pour prise illégale d’intérêts. Au cœur des débats, le vote par le conseil municipal d’une délibération accordant la protection fonctionnelle au premier magistrat. Huit mois de prison avec sursis et cinq ans d’inéligibilité ont été requis. Décision le 20 janvier.",
     "url": "https://www.ouest-france.fr/societe/justice/le-maire-de-cholet-s-est-il-rendu-coupable-de-prise-illegale-d-interets-57135b38-7156-11ed-b366-ca397b0bd9c1",
     "date": "2022-12-01",
-    "etiquettes": "49 - Maine-et-Loire,Gilles Bourdouleix",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151951,
         "value": "49 - Maine-et-Loire"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1603,
+        "value": "Gilles Bourdouleix"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -22115,14 +23293,19 @@
     "contenu": "L’actuelle deuxième adjointe au maire de la commune du nord de Nantes est sous le coup d'une procédure pour recouvrer 17 000 euros d'aide sociale qu'elle n'aurait pas dû toucher. Une dette que l’élue ne conteste pas et qui s’ajoute à d’autres.",
     "url": "https://www.mediacites.fr/complement-denquete/nantes/2022/12/01/treillieres-la-deuxieme-adjointe-au-maire-accusee-de-fraude-caracterisee-au-rsa/",
     "date": "2022-12-01",
-    "etiquettes": "44 – Loire-Atlantique,Marie-Thérèse Béragne",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151947,
         "value": "44 - Loire-Atlantique"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1822,
+        "value": "Marie-Thérèse Béragne"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -22148,10 +23331,25 @@
     "contenu": "Enquête illicite dans l’affaire Renault-Nissan, intervention auprès d’un préfet, renvois d’ascenseur : la justice s’intéresse aux relations entre l’ancienne garde des Sceaux et un lobbyiste mis en examen dans l’affaire qui secoue le club de foot.",
     "url": "https://www.mediapart.fr/journal/france/301122/les-liaisons-dangereuses-de-rachida-dati-avec-les-barbouzes-du-psg",
     "date": "2022-11-30",
-    "etiquettes": "Les Républicains,PSG,Rachida Dati",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1242,
+        "value": "Rachida Dati"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -22162,10 +23360,24 @@
     "contenu": "La Haute Autorité pour la transparence de la vie publique (HATVP) a annoncé, mardi 29 novembre, saisir la justice concernant la déclaration de patrimoine de la désormais ex-ministre déléguée aux collectivités territoriales, Caroline Cayeux, suspectant de possibles « évaluation mensongère de son patrimoine » et « fraude fiscale ».\n« A l’issue du contrôle approfondi des déclarations de Madame Caroline Cayeux, ancienne ministre déléguée chargée des collectivités territoriales, la Haute Autorité pour la transparence de la vie publique a décidé d’informer le procureur de la République de faits susceptibles de caractériser des infractions pénales », explique l’autorité administrative dans un communiqué publié en fin d’après-midi, au terme d’une réunion de son collège.",
     "url": "https://www.lemonde.fr/politique/article/2022/11/29/caroline-cayeux-la-hatvp-saisit-la-justice-pour-des-soupcons-d-evaluation-mensongere-de-sa-declaration-de-patrimoine-et-de-fraude-fiscale_6152194_823448.html",
     "date": "2022-11-29",
-    "etiquettes": "Caroline Cayeux,Gouvernement Élisabeth Borne,Haute Autorité pour la Transparence de la Vie Publique,La République En Marche",
+    "etiquettes": "",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1612,
+        "value": "Caroline Cayeux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 79,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": []
@@ -28498,7 +29710,7 @@
     "departement": [
       {
         "id": 1151977,
-        "value": "80 - Sommes"
+        "value": "80 - Somme"
       }
     ],
     "personnalites": [],
