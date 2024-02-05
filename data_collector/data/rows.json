@@ -193,6 +193,35 @@
     "procedure": []
   },
   {
+    "id": 1884,
+    "titre": "L'ex-maire de Saint-Fons porte plainte pour prise illégale d'intérêts contre son successeur",
+    "contenu": "Ancienne maire divers-droite et élue d'opposition, Nathalie Frier, attaque le maire de Saint-Fons, Christian Duchêne et son gendre et 4e adjoint pour prise illégale d'intérêts.",
+    "url": "https://www.lyoncapitale.fr/actualite/l-ex-maire-de-saint-fons-porte-plainte-pour-prise-illegale-d-interets-contre-son-successeur",
+    "date": "2024-02-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1837,
+        "value": "Christian Duchêne"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1878,
     "titre": "Le lanceur d’alerte des « Football Leaks » a partagé ses données avec les justices française et européenne",
     "contenu": "Le Portugais Rui Pinto a transmis cette semaine des dizaines de millions de documents confidentiels au Parquet national financier et à Eurojust. Ces données vont notamment alimenter l’enquête judiciaire sur le possible cadeau fiscal accordé par Gérald Darmanin au PSG en 2017.",
@@ -12598,6 +12627,48 @@
         "value": "Révélation / signalement"
       }
     ]
+  },
+  {
+    "id": 1885,
+    "titre": "La justice enquête sur six millions d’euros envolés des caisses de la clinique Bonneveine",
+    "contenu": "Après une plainte émanant des personnels, le parquet national financier a ouvert une enquête sur la disparition de plus de 6 millions d’euros des caisses de la clinique marseillaise. Celle-ci avait été reprise en 2012 par le groupe Avec. Le PDG de ce groupe a déjà été mis en examen, à Grenoble, en janvier dernier pour \"détournement de fonds publics\" et \"prise illégale d’intérêts\".",
+    "url": "https://marsactu.fr/la-justice-enquete-sur-six-millions-deuros-envoles-des-caisses-de-la-clinique-bonneveine/",
+    "date": "2023-10-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1645,
+        "value": "Bernard Bensaid"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 328,
+        "value": "Avec (ex Doctegestio)"
+      },
+      {
+        "id": 480,
+        "value": "Clinique Bonneveine"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
   },
   {
     "id": 1382,
