@@ -25,7 +25,7 @@ export default function RootLayout({
           <div className="container mx-auto border-b-4 border-0 border-solid border-blue-900">
             <div className="flex justify-between">
               <Link href="/">
-                <div className="bg-bleuanticor text-white p-4 m-4 font-bold">
+                <div className="bg-bleuanticor-500 text-white p-4 m-4 font-bold">
                   LOGO
                 </div>
               </Link>

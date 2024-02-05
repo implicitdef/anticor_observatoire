@@ -45,7 +45,7 @@ export function TagsList({ item }: { item: Item }) {
         const val = typeof _ === 'string' ? _ : _.value
         return (
           <li key={`${val}_${idx}`}>
-            <span className="bg-gray-500 text-white px-2 rounded ">
+            <span className="bg-bleuanticor-500 text-white px-2 py-1 rounded ">
               <LinkToTag tag={_}>{shorten(_.value, 30)}</LinkToTag>
             </span>
           </li>

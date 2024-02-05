@@ -45,7 +45,7 @@ export default function Fiche({
                       <li key={item.id} className="">
                         <LinkToItem
                           {...{ item }}
-                          className="text-white pt-6 pb-8 px-8 block h-full bg-bleuanticor"
+                          className="text-bleuanticor-800 pt-6 pb-8 px-8 block h-full bg-gray-200"
                         >
                           {item.date && (
                             <div className="text-sm mb-1">
@@ -73,11 +73,11 @@ function MainFiche({ item }: { item: Item }) {
     <div className="flex flex-col stretch justify-between px-4 pt-8 pb-8 text-black max-w-5xl mx-auto">
       <div>
         {item.date ? (
-          <p className="mb-4 text-center font-bold">
+          <p className="mb-4 text-center text-base uppercase text-gray-500">
             {formatDateVerbose(item.date)}
           </p>
         ) : null}
-        <h1 className="font-bold text-4xl mb-8 text-bleuanticor">
+        <h1 className="font-bold text-4xl mb-8 text-bleuanticor-500">
           {item.titre}
         </h1>
         <p className="mb-4 ">{item.contenu}</p>

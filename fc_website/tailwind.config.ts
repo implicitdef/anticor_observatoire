@@ -14,7 +14,19 @@ const config: Config = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
       colors: {
-        bleuanticor: '#1f49b2',
+        bleuanticor: {
+          50: '#E5EBFA',
+          100: '#CBD7F6',
+          200: '#97AFED',
+          300: '#678BE4',
+          400: '#3363DB',
+          500: '#1F49B2', // le vrai bleu anticor
+          600: '#193B8F',
+          700: '#132C6D',
+          800: '#0C1C45',
+          900: '#060E23',
+          950: '#030711',
+        },
       },
     },
   },
