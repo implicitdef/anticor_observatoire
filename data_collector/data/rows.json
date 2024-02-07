@@ -125,6 +125,49 @@
     ]
   },
   {
+    "id": 1896,
+    "titre": "Lactalis perquisitionné pour des soupçons de fraude fiscale massive",
+    "contenu": "L’enquête du Parquet national financier vise à déterminer si le géant laitier a échappé à l’impôt français en transférant des bénéfices dans ses sociétés en Belgique et au Luxembourg.",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2024/02/06/le-geant-du-lait-lactalis-perquisitionne-pour-des-soupcons-de-fraude-fiscale-massive_6215087_4355770.html",
+    "date": "2024-02-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151954,
+        "value": "53 - Mayenne"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1846,
+        "value": "Emmanuel Besnier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 482,
+        "value": "Lactalis"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": []
+  },
+  {
     "id": 1895,
     "titre": "Un cabinet de conseil a utilisé Richard Ferrand comme cheval de Troie au Parlement",
     "contenu": "L’ancien président de l’Assemblée nationale a été mandaté par la multinationale Accenture pour affaiblir la loi sur l’encadrement des activités des cabinets de conseil, deux ans après l’affaire McKinsey.",
