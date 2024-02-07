@@ -168,6 +168,115 @@
     "procedure": []
   },
   {
+    "id": 1899,
+    "titre": "Le président de l'agglomération de Mont-de-Marsan n'est pas poursuivi pour favoritisme",
+    "contenu": "Le procureur de la République de Mont-de-Marsan décide mardi 6 février de poursuivre pour favoritisme le chef de cabinet de Charles Dayot et le patron d'un cabinet conseil. Les deux hommes seront jugés en mai prochain pour favoritisme dans l'attribution d'un marché public",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-president-de-l-agglomeration-de-mont-de-marsan-n-est-pas-poursuivi-pour-favoritisme-4896401",
+    "date": "2024-02-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151854,
+        "value": "40 - Landes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1847,
+        "value": "Charles Dayot"
+      },
+      {
+        "id": 1848,
+        "value": "Aurélien Sourine"
+      },
+      {
+        "id": 1849,
+        "value": "Joshua Adel"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1900,
+    "titre": "Les dérives de la chambre de commerce et d’industrie de Corse dans le viseur de la justice",
+    "contenu": "Dominique Peretti, directeur de la société Sap Sur, détentrice du marché de la sûreté de l’aéroport d’Ajaccio, a été mis en examen, lundi soir, pour « extorsion de fonds en bande organisée, recel de favoritisme et association de malfaiteurs ».",
+    "url": "https://www.lemonde.fr/societe/article/2024/02/06/les-derives-de-la-chambre-de-commerce-et-d-industrie-de-corse-dans-le-viseur-de-la-justice_6215048_3224.html#",
+    "date": "2024-02-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151842,
+        "value": "2A - Corse-du-Sud"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1850,
+        "value": "Dominique Peretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 477,
+        "value": "Chambre de commerce et d'industrie (CCI) 2A - Corse-du-Sud"
+      },
+      {
+        "id": 484,
+        "value": "Sap Sur"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1897,
+    "titre": "Soupçons de favoritisme : le siège de la Sata et la mairie des Deux-Alpes ont été perquisitionnés",
+    "contenu": "Les deux perquisitions ont été menées lundi par la police judiciaire, qui travaille dans le cadre d’une enquête préliminaire ouverte par le parquet de Grenoble à l’été 2021 sur des soupçons de favoritisme dans l’attribution du contrat d’exploitation de la station des Deux Alpes à la Société d’aménagement touristique de l’Alpe d’Huez (Sata), en 2020.",
+    "url": "https://www.ledauphine.com/faits-divers-justice/2024/02/06/soupcons-de-favoritisme-le-siege-de-la-sata-et-la-mairie-des-deux-alpes-ont-ete-perquisitionnes",
+    "date": "2024-02-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151852,
+        "value": "38 - Isère"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 483,
+        "value": "Société d’aménagement touristique de l’Alpe d’Huez (Sata)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
     "id": 1895,
     "titre": "Un cabinet de conseil a utilisé Richard Ferrand comme cheval de Troie au Parlement",
     "contenu": "L’ancien président de l’Assemblée nationale a été mandaté par la multinationale Accenture pour affaiblir la loi sur l’encadrement des activités des cabinets de conseil, deux ans après l’affaire McKinsey.",
@@ -181,6 +290,14 @@
       }
     ],
     "personnalites": [
+      {
+        "id": 279,
+        "value": "Sacha Houlié"
+      },
+      {
+        "id": 338,
+        "value": "Marie Lebec"
+      },
       {
         "id": 1742,
         "value": "Richard Ferrand"
