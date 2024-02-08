@@ -26,6 +26,8 @@ const rowsSchema = z
     categorie: thingSchema.array(),
     theme: thingSchema.array(),
     procedure: thingSchema.array(),
+    titre_corrige: z.string().nullable(),
+    a_la_une: z.boolean(),
   })
   .strict()
   .array()

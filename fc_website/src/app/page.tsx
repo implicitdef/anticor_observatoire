@@ -1,29 +1,22 @@
 import { LinkToItem } from '@/components/LinkToItem'
 import { TagsList } from '@/components/TagsList'
 import { Item, getData } from '@/lib/dataReader'
+import { firstOfArray, formatDateVerbose } from '@/lib/utils'
 import Link from 'next/link'
 
 export default function Home() {
   const allItems = getData()
+  const aLaUneItem = firstOfArray(allItems.filter((_) => _.a_la_une))
+
+  const fiveLatestActus = allItems
+    .filter((_) => _.categorie.some((_) => _.value === 'Actualité'))
+    .slice(0, 5)
+
   return (
-    <div className="w-full">
-      <div className="container mx-auto mt-10 mb-40">
-        <h1 className="text-6xl font-bold mb-10">
-          Page d'accueil France Corruption
-        </h1>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
-        </p>
-      </div>
-      {allItems.length > 0 && <ALaUneBanner item={allItems[0]} />}
+    <div className=" w-full pt-8">
+      {aLaUneItem && <ALaUneBanner item={aLaUneItem} />}
+      <LatestActus items={fiveLatestActus} />
       <ItemsBanner
-        color="bg-blue-700"
         title="Probité"
         items={allItems
           .filter((_) =>
@@ -32,23 +25,18 @@ export default function Home() {
           .slice(0, 4)}
       />
       <ItemsBanner
-        smaller
-        color="bg-cyan-600"
         title="Actualités"
         items={allItems
           .filter((_) => _.categorie.some((_) => _.value === 'Actualité'))
           .slice(0, 4)}
       />
       <ItemsBanner
-        color="bg-indigo-700"
         title="Concernant Anticor"
         items={allItems
           .filter((_) => _.personnes_morales.some((_) => _.value === 'Anticor'))
           .slice(0, 4)}
       />
       <ItemsBanner
-        smaller
-        color="bg-blue-500"
         title="Parti Socialiste (PS)"
         items={allItems
           .filter((_) =>
@@ -62,40 +50,48 @@ export default function Home() {
   )
 }
 
-function ItemsBanner({
-  items,
-  color,
-  title,
-  smaller = false,
-}: {
-  items: Item[]
-  color: string
-  title: string
-  smaller?: boolean
-}) {
+function LatestActus({ items }: { items: Item[] }) {
   return (
-    <div
-      className={` ${
-        smaller ? 'pt-6 pb-10 text-center' : 'pt-10  pb-32'
-      } ${color}`}
-    >
-      <div className="container mx-auto">
-        <h2 className="text-4xl mb-8 text-white">{title}</h2>
-        <ul className="flex gap-6">
-          {items.map((item, idx) => {
-            return (
-              <li key={item.id}>
-                <LinkToItem
-                  {...{ item }}
-                  className="bg-white font-bold p-2 min-h-[150px] flex items-center justify-center"
-                >
+    <div className="container mx-auto flex flex-wrap gap-8 items-center justify-center mb-8">
+      {items.map((item) => {
+        return (
+          <LinkToItem
+            item={item}
+            className="font-bold underline text-bleuanticor-500"
+          >
+            {item.titre.slice(0, 50) + '...'}
+          </LinkToItem>
+        )
+      })}
+    </div>
+  )
+}
+
+function ItemsBanner({ items, title }: { items: Item[]; title: string }) {
+  return (
+    <div className="container mx-auto mb-4">
+      <h2 className="text-2xl mb-4 text-center">{title}</h2>
+      <ul className="flex gap-6">
+        {items.map((item, idx) => {
+          return (
+            <li key={item.id}>
+              <LinkToItem
+                {...{ item }}
+                className="bg-gray-100 border-bleuanticor-100 border-l-4 border-0 pt-6 pb-8 px-8 block h-full "
+              >
+                {item.date && (
+                  <div className="text-sm mb-1 uppercase">
+                    {formatDateVerbose(item.date)}
+                  </div>
+                )}
+                <div className="font-bold text-bleuanticor-500">
                   {item.titre}
-                </LinkToItem>
-              </li>
-            )
-          })}
-        </ul>
-      </div>
+                </div>
+              </LinkToItem>
+            </li>
+          )
+        })}
+      </ul>
     </div>
   )
 }

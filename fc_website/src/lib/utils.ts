@@ -100,3 +100,7 @@ export function getItemsWithSameTag(
     return tagsList.some((_) => _.id === tag.id)
   })
 }
+
+export function firstOfArray<A>(arr: A[]): A | undefined {
+  return arr.length > 0 ? arr[0] : undefined
+}

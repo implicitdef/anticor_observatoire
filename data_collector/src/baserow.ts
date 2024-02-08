@@ -89,8 +89,8 @@ const rowSchema = z.object({
   field_1557681: categorieSchema.array(),
   field_1557682: themeSchema.array(),
   field_1561023: procedureSchema.array(),
-  // new column "titre corrigé". Not used
-  // field_1751584: z.string().nullable(),
+  field_1751584: z.string().nullable(),
+  field_1772289: z.boolean(),
 })
 // Not strict, because a new column may be added
 //.strict()
@@ -120,6 +120,8 @@ function mapRow(row: Row) {
     field_1557681,
     field_1557682,
     field_1561023,
+    field_1751584,
+    field_1772289,
   } = row
 
   return {
@@ -135,6 +137,8 @@ function mapRow(row: Row) {
     categorie: removeColors(field_1557681),
     theme: removeColors(field_1557682),
     procedure: removeColors(field_1561023),
+    titre_corrige: field_1751584,
+    a_la_une: field_1772289,
   }
 }
 
