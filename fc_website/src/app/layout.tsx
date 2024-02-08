@@ -33,7 +33,7 @@ export default function RootLayout({
                   height={61}
                   alt="Logo de l'Observatoire, par Anticor"
                 />
-                <span className="font-bold text-2xl text-bleuanticor-400 tracking-tight bg-bleXuanticor-100">
+                <span className="font-bold text-2xl bg-bleuanticor-500 px-2 mt-2 text-white tracking-tight bg-bleXuanticor-100">
                   l'observatoire
                 </span>
               </Link>
