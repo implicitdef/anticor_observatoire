@@ -1,5 +1,6 @@
 import z from 'zod'
 import rows from '../../../data_collector/data/rows.json'
+import { parseDate } from './utils'
 
 const thingSchema = z
   .object({
@@ -32,7 +33,10 @@ const rowsSchema = z
 export type Item = z.infer<typeof rowsSchema>[number]
 
 export function getData(): Item[] {
-  return rowsSchema.parse(rows)
+  const cutoffDate = new Date('2023-01-01T00:00:00')
+  return rowsSchema.parse(rows).filter((_) => {
+    return _.date && parseDate(_.date).getTime() >= cutoffDate.getTime()
+  })
 }
 
 export type Tag = {
