@@ -93,6 +93,7 @@ function LatestActus({ items }: { items: Item[] }) {
         return (
           <LinkToItem
             item={item}
+            key={item.id}
             className="font-bold underline text-bleuanticor-500"
           >
             {item.titre.slice(0, 50) + '...'}

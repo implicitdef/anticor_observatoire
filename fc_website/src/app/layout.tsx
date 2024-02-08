@@ -1,10 +1,10 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import { Open_Sans } from 'next/font/google'
 import './globals.css'
 import 'remixicon/fonts/remixicon.css'
 import Link from 'next/link'
 
-const inter = Inter({ subsets: ['latin'] })
+const openSans = Open_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'France Corruption',
@@ -19,19 +19,8 @@ export default function RootLayout({
   return (
     <html lang="fr">
       <body
-        className={`${inter.className} bg-white min-h-screen flex flex-col`}
+        className={`${openSans.className} bg-white min-h-screen flex flex-col`}
       >
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link
-          rel="preconnect"
-          href="https://fonts.gstatic.com"
-          crossOrigin="anonymous"
-        />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-          rel="stylesheet"
-        />
-
         <header className="">
           <div className="container mx-auto border-b-4 border-0 border-solid border-blue-900">
             <div className="flex justify-between">
