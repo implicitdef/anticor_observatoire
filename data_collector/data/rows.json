@@ -1,5 +1,243 @@
 [
   {
+    "id": 1905,
+    "titre": "Assistants parlementaires du Modem : le parquet fait appel de la relaxe de François Bayrou",
+    "contenu": "Le parquet de Paris a interjeté appel, jeudi 8 février, des trois relaxes prononcées mardi lors du jugement dans l’affaire des assistants parlementaires européens du MoDem. Laure Beccuau, procureure de la République de Paris, conteste les relaxes de François Bayrou, Stéphane Thérou et Pierre-Emmanuel Portheret au motif que « les faits caractérisent les infractions reprochées et les preuves de ces délits sont réunies contre tous les prévenus ».",
+    "url": "https://www.lemonde.fr/politique/article/2024/02/08/modem-le-parquet-fait-appel-de-la-relaxe-de-francois-bayrou-dans-l-affaire-des-assistants-parlementaires-europeens_6215451_823448.html",
+    "date": "2024-02-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1300,
+        "value": "François Bayrou"
+      },
+      {
+        "id": 1855,
+        "value": "Stéphane Thérou"
+      },
+      {
+        "id": 1856,
+        "value": "Pierre-Emmanuel Portheret"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 94,
+        "value": "Mouvement démocrate (MoDem)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1904,
+    "titre": "Bernard Perrut, ex député du Rhône, jugé pour détournement de fonds publics",
+    "contenu": "L’ancien édile du Rhône et désormais conseiller régional d’Auvergne-Rhône-Alpes sera jugé ce jeudi 8 février pour détournement de fonds publics par le tribunal judiciaire de Paris. Il est soupçonné d’avoir détourné près de 100 000 euros d’indemnités représentatives de frais de mandat.",
+    "url": "https://tribunedelyon.fr/politique/bernard-perrut-ex-depute-du-rhone-juge-pour-detournement-de-fonds-publics/",
+    "date": "2024-02-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1854,
+        "value": "Bernard Perrut"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ]
+  },
+  {
+    "id": 1902,
+    "titre": "Eaux minérales et lobbying trouble : Transparency France adresse un signalement à la HATVP visant le groupe Nestlé",
+    "contenu": "Une semaine après les révélations du Monde et de la cellule investigation de Radio France sur des soupçons de fraude aux normes de filtration des eaux minérales visant au moins un tiers des marques françaises, Transparency International France adresse un signalement à la Haute autorité pour la transparence de la vie publique (HATVP) afin qu’elle contrôle les activités de lobbying du groupe Nestlé. En effet, l’enquête fait état d’une rencontre de représentants du groupe Nestlé et des membres du cabinet de la ministre de l’Industrie en 2021 pour convaincre de la nécessité d’adapter la réglementation sur la filtration des eaux minérales à leurs pratiques non conformes. Une rencontre que le groupe semble ne pas avoir mentionné dans sa déclaration annuelle d’activités de lobbying auprès de la HATVP, l’autorité administrative chargée de la transparence du lobbying.",
+    "url": "https://transparency-france.org/2024/02/08/eaux-minerales-et-lobbying-trouble-transparency-france-adresse-un-signalement-a-la-hatvp-visant-le-groupe-nestle/",
+    "date": "2024-02-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1251431,
+        "value": "Suisse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1677,
+        "value": "Agnès Pannier-Runacher"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 485,
+        "value": "Nestlé"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1253248,
+        "value": "Grande consommation"
+      },
+      {
+        "id": 1152015,
+        "value": "Lobbying / influence"
+      }
+    ],
+    "procedure": []
+  },
+  {
+    "id": 1901,
+    "titre": "La montée de la corruption d’agents publics, un défi pour l’Etat",
+    "contenu": "Les autorités s’inquiètent du nombre d’agents publics liés à des trafics, notamment dans des cas de corruption de « basse intensité », rendant leur détection compliquée.",
+    "url": "https://www.lemonde.fr/idees/article/2024/02/08/la-montee-de-la-corruption-d-agents-publics-un-defi-pour-l-etat_6215412_3232.html",
+    "date": "2024-02-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1851,
+        "value": "Agnès Thibault-Lecuivre"
+      },
+      {
+        "id": 1852,
+        "value": "Laure Beccuau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 201,
+        "value": "Direction nationale de la Police judiciaire"
+      },
+      {
+        "id": 249,
+        "value": "Inspection générale de la Police nationale (IGPN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Observatoire de la probité"
+      }
+    ],
+    "theme": [],
+    "procedure": []
+  },
+  {
+    "id": 1903,
+    "titre": "Après les sénateurs, les députés adoptent un amendement qui remet en cause la loi de 1881 sur la presse",
+    "contenu": "Approuvé à la faveur de l’adoption de la loi visant à renforcer la sécurité et la protection des maires et des élus locaux, le texte doit permettre à tout « titulaire d’un mandat électif public ou candidat à un tel mandat » de bénéficier d’un délai de prescription d’un an pour porter plainte en cas de diffamation ou d’injure publique.  Défenseurs de la liberté d’expression et syndicats professionnels demandent le retrait de ce texte qu’ils considèrent « antidémocratique ».",
+    "url": "https://www.lemonde.fr/economie/article/2024/02/07/apres-les-senateurs-les-deputes-adoptent-un-amendement-qui-remet-en-cause-la-loi-de-1881-sur-la-presse_6215302_3234.html",
+    "date": "2024-02-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 542,
+        "value": "Violette Spillebout"
+      },
+      {
+        "id": 1853,
+        "value": "Catherine Di Folco"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 2,
+        "value": "Sénat"
+      },
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1253735,
+        "value": "Médias"
+      }
+    ],
+    "procedure": []
+  },
+  {
     "id": 1886,
     "titre": "JO Paris 2024 : Tony Estanguet, le président du comité d’organisation, visé par une enquête sur sa rémunération",
     "contenu": "Le président du comité d’organisation des JO de 2024 à Paris est dans le viseur de la justice. Tony Estanguet est visé par une enquête ouverte récemment par le parquet national financier et portant sur les conditions de sa rémunération.",
@@ -170,7 +408,7 @@
   {
     "id": 1899,
     "titre": "Le président de l'agglomération de Mont-de-Marsan n'est pas poursuivi pour favoritisme",
-    "contenu": "Le procureur de la République de Mont-de-Marsan décide mardi 6 février de poursuivre pour favoritisme le chef de cabinet de Charles Dayot et le patron d'un cabinet conseil. Les deux hommes seront jugés en mai prochain pour favoritisme dans l'attribution d'un marché public",
+    "contenu": "Le procureur de la République de Mont-de-Marsan décide mardi 6 février de poursuivre pour favoritisme le chef de cabinet de Charles Dayot et le patron d'un cabinet conseil. Les deux hommes seront jugés en mai prochain pour favoritisme dans l'attribution d'un marché public.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-president-de-l-agglomeration-de-mont-de-marsan-n-est-pas-poursuivi-pour-favoritisme-4896401",
     "date": "2024-02-06",
     "etiquettes": "",
@@ -201,7 +439,12 @@
         "value": "Observatoire de la probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1249364,
+        "value": "Conseil"
+      }
+    ],
     "procedure": [
       {
         "id": 1153424,
