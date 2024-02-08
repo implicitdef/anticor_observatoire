@@ -100,7 +100,7 @@ function MainFiche({ item }: { item: Item }) {
 }
 
 function getSimilarItems(item: Item, allItems: Item[]) {
-  const tags = readTagsOfItem(item)
+  const tags = readTagsOfItem(item).filter((_) => _.kind !== 'categories')
   const tagsWithItems = tags
     .map((tag) => {
       const items = getItemsWithSameTag(allItems, tag)
