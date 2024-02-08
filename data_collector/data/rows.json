@@ -151,6 +151,37 @@
     "a_la_une": false
   },
   {
+    "id": 1906,
+    "titre": "Huawei perquisitionné par le Parquet national financier",
+    "contenu": "La filiale française de l’équipementier chinois fait l’objet d’une enquête préliminaire pour « atteinte à la probité ».",
+    "url": "https://www.linforme.com/tech-telecom/article/huawei-perquisitionne-par-le-parquet-national-financier_1432.html",
+    "date": "2024-02-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 486,
+        "value": "Huawei"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1901,
     "titre": "La montée de la corruption d’agents publics, un défi pour l’Etat",
     "contenu": "Les autorités s’inquiètent du nombre d’agents publics liés à des trafics, notamment dans des cas de corruption de « basse intensité », rendant leur détection compliquée.",
@@ -189,7 +220,68 @@
         "value": "Observatoire de la probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1307112,
+        "value": "Police"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1907,
+    "titre": "Montres, faux papiers et fichiers de police : le procès d’un canal Telegram où tout avait un prix",
+    "contenu": "Huit personnes, dont deux policiers adjoints, doivent être jugées au mois de mars à Paris. L’aboutissement d’une vaste enquête sur un réseau de revente de montres de luxe contrefaites, de cartes d’identité et d’informations tirées des fichiers de police.",
+    "url": "https://www.mediapart.fr/journal/france/080224/montres-faux-papiers-et-fichiers-de-police-le-proces-d-un-canal-telegram-ou-tout-avait-un-prix",
+    "date": "2024-02-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      },
+      {
+        "id": 1151723,
+        "value": "29 - Finistère"
+      },
+      {
+        "id": 1151972,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 249,
+        "value": "Inspection générale de la Police nationale (IGPN)"
+      },
+      {
+        "id": 360,
+        "value": "Direction générale des Douanes et Droits indirects"
+      },
+      {
+        "id": 487,
+        "value": "Office de lutte contre le trafic illicite de migrants (OLTIM, ex-OCRIEST)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1307112,
+        "value": "Police"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -6603,7 +6695,12 @@
         "value": "Observatoire de la probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1307112,
+        "value": "Police"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -11282,7 +11379,12 @@
         "value": "Observatoire de la probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1307112,
+        "value": "Police"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -26469,7 +26571,12 @@
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1307112,
+        "value": "Police"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -27419,7 +27526,12 @@
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1307112,
+        "value": "Police"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -28793,7 +28905,12 @@
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1307112,
+        "value": "Police"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -30989,7 +31106,12 @@
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1307112,
+        "value": "Police"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -41295,7 +41417,12 @@
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1307112,
+        "value": "Police"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -42192,7 +42319,12 @@
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1307112,
+        "value": "Police"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
