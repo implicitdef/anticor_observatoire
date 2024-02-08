@@ -1,8 +1,16 @@
 import { LinkToItem } from '@/components/LinkToItem'
 import { TagsList } from '@/components/TagsList'
 import { Item, getData } from '@/lib/dataReader'
-import { firstOfArray, formatDateVerbose } from '@/lib/utils'
+import {
+  firstOfArray,
+  formatDateVerbose,
+  getItemsWithSameTag,
+  readTagsOfItem,
+} from '@/lib/utils'
 import Link from 'next/link'
+import lo from 'lodash'
+
+const MAX_BY_BANDEAU = 3
 
 export default function Home() {
   const allItems = getData()
@@ -12,47 +20,75 @@ export default function Home() {
     .filter((_) => _.categorie.some((_) => _.value === 'Actualité'))
     .slice(0, 5)
 
+  const itemsFromTagRelatedToUne = prepareItemsRelatedToALaUne(
+    aLaUneItem,
+    allItems,
+  )
+
+  // DOUBLON avec les actus vues plus haut
+  const itemsActualites = allItems
+    .filter((_) => _.categorie.some((_) => _.value === 'Actualité'))
+    .slice(0, MAX_BY_BANDEAU)
+  const itemProbite = allItems
+    .filter((_) =>
+      _.categorie.some((_) => _.value === 'Observatoire de la probité'),
+    )
+    .slice(0, MAX_BY_BANDEAU)
+  const itemsPantouflages = allItems
+    .filter((_) =>
+      _.categorie.some((_) => _.value === 'Observatoire des pantouflages'),
+    )
+    .slice(0, MAX_BY_BANDEAU)
+  const itemsCondamnations = allItems
+    .filter((_) => _.procedure.some((_) => _.value === 'Condamnation'))
+    .slice(0, MAX_BY_BANDEAU)
+
   return (
     <div className=" w-full pt-8">
       {aLaUneItem && <ALaUneBanner item={aLaUneItem} />}
       <LatestActus items={fiveLatestActus} />
-      <ItemsBanner
-        title="Probité"
-        items={allItems
-          .filter((_) =>
-            _.categorie.some((_) => _.value === 'Observatoire de la probité'),
-          )
-          .slice(0, 4)}
-      />
-      <ItemsBanner
-        title="Actualités"
-        items={allItems
-          .filter((_) => _.categorie.some((_) => _.value === 'Actualité'))
-          .slice(0, 4)}
-      />
-      <ItemsBanner
-        title="Concernant Anticor"
-        items={allItems
-          .filter((_) => _.personnes_morales.some((_) => _.value === 'Anticor'))
-          .slice(0, 4)}
-      />
-      <ItemsBanner
-        title="Parti Socialiste (PS)"
-        items={allItems
-          .filter((_) =>
-            _.personnes_morales.some(
-              (_) => _.value === 'Parti Socialiste (PS)',
-            ),
-          )
-          .slice(0, 4)}
-      />
+      {itemsFromTagRelatedToUne && (
+        <ItemsBanner
+          title={`Sur le même sujet : ${itemsFromTagRelatedToUne.tag.value}`}
+          items={itemsFromTagRelatedToUne.items}
+        />
+      )}
+      <ItemsBanner title="Actualités" items={itemsActualites} />
+      <ItemsBanner title="Probité" items={itemProbite} />
+      <ItemsBanner title="Pantouflages" items={itemsPantouflages} />
+      <ItemsBanner title="Condamnations" items={itemsCondamnations} />
     </div>
   )
 }
 
+function prepareItemsRelatedToALaUne(
+  aLaUneItem: Item | undefined,
+  allItems: Item[],
+) {
+  if (aLaUneItem) {
+    const eligibleTags = readTagsOfItem(aLaUneItem).filter(
+      (_) => _.kind === 'personnalites' || _.kind === 'personnes_morales',
+    )
+    const withItems = eligibleTags.map((tag) => {
+      const items = getItemsWithSameTag(allItems, tag).filter(
+        (_) => _.id !== aLaUneItem.id,
+      )
+      return { tag, items }
+    })
+    const best = firstOfArray(lo.sortBy(withItems, (_) => -_.items.length))
+    if (best) {
+      return {
+        ...best,
+        items: best.items.slice(0, MAX_BY_BANDEAU),
+      }
+    }
+  }
+  return undefined
+}
+
 function LatestActus({ items }: { items: Item[] }) {
   return (
-    <div className="container mx-auto flex flex-wrap gap-8 items-center justify-center mb-8">
+    <div className="container mx-auto flex flex-wrap gap-8 items-center justify-center mb-12">
       {items.map((item) => {
         return (
           <LinkToItem
@@ -70,7 +106,7 @@ function LatestActus({ items }: { items: Item[] }) {
 function ItemsBanner({ items, title }: { items: Item[]; title: string }) {
   return (
     <div className="container mx-auto mb-4">
-      <h2 className="text-2xl mb-4 text-center">{title}</h2>
+      <h2 className="text-2xl mb-4 text-left">{title}</h2>
       <ul className="flex gap-6">
         {items.map((item, idx) => {
           return (
@@ -99,13 +135,11 @@ function ItemsBanner({ items, title }: { items: Item[]; title: string }) {
 function ALaUneBanner({ item }: { item: Item }) {
   return (
     <div className="container mx-auto mb-8">
-      <LinkToItem {...{ item }} className="grid grid-cols-2 w-full">
-        <h2 className="p-8 font-bold bg-gray-600 min-h-[400px] h-full flex items-center justify-center uppercase text-4xl text-black">
-          à la une :
-        </h2>
-        <div className="bg-gray-400 font-bold p-2 flex items-center justify-center text-2xl p-8">
-          {item.titre}
-        </div>
+      <LinkToItem
+        {...{ item }}
+        className="block bg-bleuanticor-500 text-white font-bold text-center text-2xl p-8 max-w-3xl mx-auto"
+      >
+        <span className="text-bleuanticor-200">À LA UNE :</span> {item.titre}
       </LinkToItem>
     </div>
   )
