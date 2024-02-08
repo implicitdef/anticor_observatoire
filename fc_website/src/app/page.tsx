@@ -86,6 +86,19 @@ function prepareItemsRelatedToALaUne(
   return undefined
 }
 
+function ALaUneBanner({ item }: { item: Item }) {
+  return (
+    <div className="container mx-auto mb-8">
+      <LinkToItem
+        {...{ item }}
+        className="block bg-bleuanticor-500 text-white font-bold text-center text-2xl p-8 max-w-3xl mx-auto"
+      >
+        <span className="text-bleuanticor-200">À LA UNE :</span> {item.titre}
+      </LinkToItem>
+    </div>
+  )
+}
+
 function LatestActus({ items }: { items: Item[] }) {
   return (
     <div className="container mx-auto flex flex-wrap gap-8 items-center justify-center mb-12">
@@ -107,8 +120,10 @@ function LatestActus({ items }: { items: Item[] }) {
 function ItemsBanner({ items, title }: { items: Item[]; title: string }) {
   return (
     <div className="container mx-auto mb-4">
-      <h2 className="text-2xl mb-4 text-left">{title}</h2>
-      <ul className="flex gap-6">
+      <h2 className="text-base mb-4 text-left text-bleuanticor-400 uppercase">
+        {title}
+      </h2>
+      <ul className="grid grid-cols-3 gap-6">
         {items.map((item, idx) => {
           return (
             <li key={item.id}>
@@ -129,19 +144,6 @@ function ItemsBanner({ items, title }: { items: Item[]; title: string }) {
           )
         })}
       </ul>
-    </div>
-  )
-}
-
-function ALaUneBanner({ item }: { item: Item }) {
-  return (
-    <div className="container mx-auto mb-8">
-      <LinkToItem
-        {...{ item }}
-        className="block bg-bleuanticor-500 text-white font-bold text-center text-2xl p-8 max-w-3xl mx-auto"
-      >
-        <span className="text-bleuanticor-200">À LA UNE :</span> {item.titre}
-      </LinkToItem>
     </div>
   )
 }
