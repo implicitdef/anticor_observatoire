@@ -1,5 +1,67 @@
 [
   {
+    "id": 1908,
+    "titre": "Laurent de Gourcuff et Paris Society sévèrement condamnés pour corruption",
+    "contenu": "L’entreprise de restauration récemment rachetée par le groupe Accor est interdite de marchés publics pendant cinq ans. Son dirigeant vient aussi d’écoper de deux ans de prison avec sursis, alors que la justice a sanctionné lourdement des méthodes quasi assumées de favoritisme et de corruption.",
+    "url": "https://www.challenges.fr/entreprise/laurent-de-gourcuff-et-paris-society-severement-condamnes-pour-corruption_883034",
+    "date": "2024-02-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1441,
+        "value": "Laurent de Gourcuff"
+      },
+      {
+        "id": 1857,
+        "value": "Fabrice Favetto-Bon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 174,
+        "value": "Paris Society"
+      },
+      {
+        "id": 175,
+        "value": "Hippodrome de Longchamp"
+      },
+      {
+        "id": 176,
+        "value": "France Galop"
+      },
+      {
+        "id": 488,
+        "value": "Accor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1309284,
+        "value": "Restauration"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1905,
     "titre": "Assistants parlementaires du Modem : le parquet fait appel de la relaxe de François Bayrou",
     "contenu": "Le parquet de Paris a interjeté appel, jeudi 8 février, des trois relaxes prononcées mardi lors du jugement dans l’affaire des assistants parlementaires européens du MoDem. Laure Beccuau, procureure de la République de Paris, conteste les relaxes de François Bayrou, Stéphane Thérou et Pierre-Emmanuel Portheret au motif que « les faits caractérisent les infractions reprochées et les preuves de ces délits sont réunies contre tous les prévenus ».",
@@ -147,6 +209,55 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1910,
+    "titre": "Frais de mandat : 80.000 euros et 4 mois de prison requis contre l'ex-député Bernard Perrut",
+    "contenu": "Une peine de quatre mois d'emprisonnement avec sursis et 80.000 euros d'amende a été requise jeudi 8 février contre l'ex-député LR Bernard Perrut, figure politique du Beaujolais, qui était jugé à Paris notamment pour détournement de frais de mandat. L'élu de 67 ans comparaissait devant la 32e chambre correctionnelle pour détournement de fonds publics par utilisation abusive de ses indemnités représentatives de frais de mandat (IRFM), pour un montant d'environ 94.000 euros, ainsi que pour des manquements à ses obligations déclaratives vis-à-vis de la Haute autorité pour la transparence de la vie publique (HATVP), concernant notamment la valeur de son patrimoine et de contrats d'assurance-vie.",
+    "url": "https://www.lefigaro.fr/flash-actu/frais-de-mandat-80-000-euros-et-4-mois-de-prison-requis-contre-l-ex-depute-bernard-perrut-20240208",
+    "date": "2024-02-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1854,
+        "value": "Bernard Perrut"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      },
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -47888,6 +47999,22 @@
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
+    "a_la_une": false
+  },
+  {
+    "id": 1909,
+    "titre": "",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
     "a_la_une": false
   },
   {
