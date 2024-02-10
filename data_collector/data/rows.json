@@ -1,5 +1,45 @@
 [
   {
+    "id": 1911,
+    "titre": "Pyrénées-Atlantiques : soupçons de favoritisme autour du marché public des déchets à Pau",
+    "contenu": "La police paloise enquête sur les conditions d’attribution du marché public de l’incinérateur de Lescar, en février 2020. La justice s’intéresse au syndicat mixte Valor Béarn, soupçonné d’avoir favorisé l’entreprise Urbaser pour ce marché d’une durée de 20 ans et d’un montant de 225 millions d’euros.",
+    "url": "https://www.sudouest.fr/justice/pyrenees-atlantiques-soupcons-de-favoritisme-autour-du-marche-public-des-dechets-a-pau-18500039.php",
+    "date": "2024-02-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151962,
+        "value": "64 - Pyrénées-Atlantiques"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 489,
+        "value": "Valor Béarn"
+      },
+      {
+        "id": 490,
+        "value": "Urbaser Environnement"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1908,
     "titre": "Laurent de Gourcuff et Paris Society sévèrement condamnés pour corruption",
     "contenu": "L’entreprise de restauration récemment rachetée par le groupe Accor est interdite de marchés publics pendant cinq ans. Son dirigeant vient aussi d’écoper de deux ans de prison avec sursis, alors que la justice a sanctionné lourdement des méthodes quasi assumées de favoritisme et de corruption.",
@@ -318,7 +358,7 @@
     "personnes_morales": [
       {
         "id": 201,
-        "value": "Direction nationale de la Police judiciaire"
+        "value": "Direction nationale de la Police judiciaire (DNPJ)"
       },
       {
         "id": 249,
@@ -4660,7 +4700,7 @@
     "personnes_morales": [
       {
         "id": 201,
-        "value": "Direction nationale de la Police judiciaire"
+        "value": "Direction nationale de la Police judiciaire (DNPJ)"
       }
     ],
     "categorie": [
@@ -6374,7 +6414,7 @@
     "personnes_morales": [
       {
         "id": 201,
-        "value": "Direction nationale de la Police judiciaire"
+        "value": "Direction nationale de la Police judiciaire (DNPJ)"
       }
     ],
     "categorie": [
@@ -12834,6 +12874,41 @@
     "a_la_une": false
   },
   {
+    "id": 1912,
+    "titre": "Paris : un policier placé en détention provisoire, soupçonné d’avoir revendu des centaines de fichiers de police",
+    "contenu": "Le policier de 32 ans est suspecté d'avoir revendu plusieurs centaines de fichiers auxquels il avait facilement accès ainsi que des faux papiers qu’il achetait par ailleurs.",
+    "url": "https://www.francetvinfo.fr/faits-divers/police/info-franceinfo-un-policier-parisien-place-en-detention-provisoire-soupconne-d-avoir-revendu-des-centaines-de-fichiers-de-police_6173811.html",
+    "date": "2023-11-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 201,
+        "value": "Direction nationale de la Police judiciaire (DNPJ)"
+      },
+      {
+        "id": 249,
+        "value": "Inspection générale de la Police nationale (IGPN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1638,
     "titre": "Favoritisme et corruption passive, Nicolas Best, le directeur du CHU de Nîmes jugé en correctionnelle à Paris",
     "contenu": "Nicolas Best, l'actuel directeur du CHU de Nîmes sera jugé  à Paris pour favoritisme et corruption passive sur fonds de  marchés et de travaux réalisé à l'hôpital de Nîmes et à Annecy  entre 2015 et 2020. L'enquête du parquet national financier a conduit à un renvoi en correctionnelle. Le procès se tiendra à Paris le 13, 15, 16 et 20 novembre.  La défense  soutient que le haut fonctionnaire est innocent.",
@@ -17644,7 +17719,7 @@
     "personnes_morales": [
       {
         "id": 201,
-        "value": "Direction nationale de la Police judiciaire"
+        "value": "Direction nationale de la Police judiciaire (DNPJ)"
       }
     ],
     "categorie": [
@@ -25328,12 +25403,65 @@
     "url": "https://www.leprogres.fr/faits-divers-justice/2022/12/06/fuites-au-36-quai-des-orfevres-l-ancien-patron-de-la-pj-fixe-sur-son-sort-ce-mardi",
     "date": "2022-12-06",
     "etiquettes": "Bernard Petit,Police judiciaire",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1858,
+        "value": "Bernard Petit"
+      },
+      {
+        "id": 1859,
+        "value": "Richard Atlan"
+      },
+      {
+        "id": 1860,
+        "value": "Philippe Lemaître"
+      },
+      {
+        "id": 1861,
+        "value": "Christian Prouteau"
+      },
+      {
+        "id": 1862,
+        "value": "Joaquin Masanet"
+      },
+      {
+        "id": 1863,
+        "value": "Kofi Yamgnane"
+      },
+      {
+        "id": 1864,
+        "value": "Christophe Rocancourt"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 201,
+        "value": "Direction nationale de la Police judiciaire (DNPJ)"
+      },
+      {
+        "id": 492,
+        "value": "Groupe d'intervention de la Gendarmerie nationale (GIGN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ],
     "titre_corrige": "Bernard Petit, ex-patron de la PJ parisienne, relaxé dans l'affaire des fuites au 36 quai des Orfèvres",
     "a_la_une": false
   },
@@ -25377,7 +25505,12 @@
         "value": "Michèle Alliot-Marie"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 491,
+        "value": "Festival des jeunes réalisateurs de Saint-Jean-de-Luz"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -25450,7 +25583,7 @@
   {
     "id": 1135,
     "titre": "Soupçons d’emploi fictif : une vice-présidente du RN visée par une enquête du Parquet européen",
-    "contenu": "Selon Mediapart, une série de perquisitions est en cours, lundi 5 décembre, aux domiciles et bureaux de deux élu·es du Rassemblement national (RN) : Edwige Diaz, vice-présidente du RN et députée de Gironde ; Jacques Colombier, conseiller régional RN de Nouvelle-Aquitaine et ancien eurodéputé. Le domicile d’Edwige Diaz à Bordeaux (Gironde), ainsi que son bureau à l’Assemblée nationale, à Paris, a été perquisitionné lundi dans la matinée. Jacques Colombier a lui été perquisitionné à son domicile, en Gironde, et placé en garde à vue. Cette vague de perquisitions intervient dans le cadre d’une enquête ouverte par le Parquet européen en juillet 2021. La justice se penche sur des soupçons d’emploi fictif, lorsque Edwige Diaz était l’assistante parlementaire locale, à mi-temps, de l’eurodéputé Jacques Colombier, entre avril 2018 et juillet 2019.",
+    "contenu": "Une série de perquisitions est en cours, lundi 5 décembre, aux domiciles et bureaux de deux élu·es du Rassemblement national (RN) : Edwige Diaz, vice-présidente du RN et députée de Gironde ; Jacques Colombier, conseiller régional RN de Nouvelle-Aquitaine et ancien eurodéputé. Cette vague de perquisitions intervient dans le cadre d’une enquête ouverte par le Parquet européen en juillet 2021. La justice se penche sur des soupçons d’emploi fictif, lorsque Edwige Diaz était l’assistante parlementaire locale, à mi-temps, de l’eurodéputé Jacques Colombier, entre avril 2018 et juillet 2019.",
     "url": "https://www.mediapart.fr/journal/france/051222/soupcons-d-emploi-fictif-une-vice-presidente-du-rn-visee-par-une-enquete-du-parquet-europeen",
     "date": "2022-12-05",
     "etiquettes": "33 – Gironde,Assemblée Nationale,Edwige Diaz,Jacques Colombier,Parlement Européen,Rassemblement National",
@@ -25460,11 +25593,35 @@
         "value": "33 - Gironde"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 183,
+        "value": "Edwige Diaz"
+      },
+      {
+        "id": 1269,
+        "value": "Jacques Colombier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National (RN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "Edwige Diaz, vice-présidente du RN et députée de Gironde, visée par une enquête pour emploi fictif",
     "a_la_une": false
   },
