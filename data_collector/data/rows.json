@@ -25571,12 +25571,49 @@
     "url": "https://www.lemonde.fr/societe/article/2022/12/05/nicolas-sarkozy-son-avocat-thierry-herzog-et-l-ex-magistrat-gilbert-azibert-juges-en-appel-dans-l-affaire-des-ecoutes_6152973_3224.html",
     "date": "2022-12-05",
     "etiquettes": "Gilbert Azibert,Nicolas Sarkozy,Thierry Herzog",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1787,
+        "value": "Gilbert Azibert"
+      },
+      {
+        "id": 1788,
+        "value": "Thierry Herzog"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      },
+      {
+        "id": 29,
+        "value": "Élysée"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
