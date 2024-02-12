@@ -18,10 +18,6 @@ export default function Home() {
 
   const laUneRelatedTags = prepareTagsRelatedToLaUne(laUneItem, allItems)
 
-  const bunchOfLatestActus = allItems
-    .filter((_) => _.categorie.some((_) => _.value === 'Actualité'))
-    .slice(0, 20)
-
   const itemsFromTagRelatedToUne = prepareItemsRelatedToALaUne(
     laUneItem,
     allItems,
@@ -48,18 +44,17 @@ export default function Home() {
   return (
     <div className=" w-full pt-8">
       {laUneItem && <ALaUneBanner item={laUneItem} />}
-      {laUneRelatedTags && <RelatedTags tags={laUneRelatedTags} />}
-      <ItemsBanner title="Actualités" items={itemsActualites} />
-      <ItemsBanner title="Probité" items={itemProbite} />
-      <ItemsBanner title="Pantouflages" items={itemsPantouflages} />
-      <ItemsBanner title="Condamnations" items={itemsCondamnations} />
       {itemsFromTagRelatedToUne && (
         <ItemsBanner
           title={`Sur le même sujet : ${itemsFromTagRelatedToUne.tag.value}`}
           items={itemsFromTagRelatedToUne.items}
         />
       )}
-      <CloudOfLinks items={bunchOfLatestActus} />
+      {laUneRelatedTags && <RelatedTags tags={laUneRelatedTags} />}
+      <ItemsBanner title="Actualités" items={itemsActualites} />
+      <ItemsBanner title="Probité" items={itemProbite} />
+      <ItemsBanner title="Pantouflages" items={itemsPantouflages} />
+      <ItemsBanner title="Condamnations" items={itemsCondamnations} />
     </div>
   )
 }
@@ -134,7 +129,7 @@ function ALaUneBanner({ item }: { item: Item }) {
 
 function RelatedTags({ tags }: { tags: TypedTag[] }) {
   return (
-    <div className="container mx-auto ">
+    <div className="container mx-auto mt-12">
       <div className="flex flex-wrap gap-4 items-center justify-center mb-12">
         <span className="text-bleuanticor-500 font-bold py-1 text-lg">
           voir aussi :
@@ -151,25 +146,6 @@ function RelatedTags({ tags }: { tags: TypedTag[] }) {
           )
         })}
       </div>
-    </div>
-  )
-}
-
-function CloudOfLinks({ items }: { items: Item[] }) {
-  return (
-    <div className="container mx-auto flex flex-wrap gap-8 items-center justify-center mb-12">
-      {items.map((item, idx) => {
-        return (
-          <LinkToItem
-            item={item}
-            key={item.id}
-            className="font-bold underline text-bleuanticor-500"
-          >
-            {item.titre.slice(0, idx % 4 === 0 ? 14 : idx % 3 === 0 ? 50 : 35) +
-              '...'}
-          </LinkToItem>
-        )
-      })}
     </div>
   )
 }
