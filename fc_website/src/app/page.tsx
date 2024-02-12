@@ -88,12 +88,19 @@ function prepareItemsRelatedToALaUne(
 
 function ALaUneBanner({ item }: { item: Item }) {
   return (
-    <div className="container mx-auto mb-8">
+    <div className="container mx-auto mb-8 mt-8">
       <LinkToItem
         {...{ item }}
-        className="block bg-bleuanticor-500 text-white font-bold text-center text-2xl p-8 max-w-3xl mx-auto"
+        className="block bg-bleuanticor-500 text-white py-16 px-40"
       >
-        <span className="text-bleuanticor-200">À LA UNE :</span> {item.titre}
+        <h1 className="font-bold text-3xl text-left mb-2">
+          <span className="text-bleuanticor-200">À LA UNE :</span>{' '}
+          <span className="">{item.titre}</span>{' '}
+        </h1>
+        <p className="text-base uppercase text-bleuanticor-100 font-normal mb-2">
+          Le 8 février 2024
+        </p>
+        <p className="text-bleuanticor-100 text-lg text-left">{item.contenu}</p>
       </LinkToItem>
     </div>
   )

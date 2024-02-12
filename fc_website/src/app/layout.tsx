@@ -24,7 +24,7 @@ export default function RootLayout({
         className={`${openSans.className} bg-white min-h-screen flex flex-col`}
       >
         <header className="">
-          <div className="container mx-auto border-b-4 border-0 border-solid border-gray-400">
+          <div className="container mx-auto border-b-2 border-0 border-solid border-gray-400">
             <div className="flex justify-between pt-4">
               <Link href="/" className="flex flex-col items-center">
                 <Image
