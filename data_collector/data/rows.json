@@ -1,5 +1,70 @@
 [
   {
+    "id": 1919,
+    "titre": "«Tentative d’escroquerie» contre TotalEnergies : le parquet demande un procès contre une série d’avocats et d’arbitres internationaux",
+    "contenu": "Plusieurs «professionnels du droit et de l’arbitrage», dont Olivier Pardo, avocat d’Eric Zemmour et Rachida Dati, sont soupçonnés d’avoir eu un rôle actif dans la tentative avortée de soutirer plusieurs milliards d’euros au groupe pétrolier pour le compte de l’affairiste André Guelfi.",
+    "url": "https://www.liberation.fr/societe/police-justice/tentative-descroquerie-contre-totalenergies-le-parquet-demande-un-proces-contre-une-serie-davocats-et-darbitres-internationaux-20240212_GM5Y3CP2GRDC3OWH3NPG5SXX2A/",
+    "date": "2024-02-12",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1915,
+    "titre": "Condamné pour corruption, Laurent de Gourcuff souhaite reprendre une plage privée de Menton",
+    "contenu": "Les cinq lots restants pour la DSP des plages privées à Menton ont été attribués, dont une à une société parisienne appartenant à Laurent de Gourcuff, condamné pour \"corruption active\". Le choix sera définitivement acté - ou pas - au prochain conseil municipal.",
+    "url": "https://www.nicematin.com/justice/plages-un-delegataire-condamne-pour-corruption-902764",
+    "date": "2024-02-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1441,
+        "value": "Laurent de Gourcuff"
+      },
+      {
+        "id": 1886,
+        "value": "Sébastien Pacault"
+      },
+      {
+        "id": 1887,
+        "value": "Constance Coillard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 174,
+        "value": "Paris Society"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1913,
     "titre": "Delphine Ernotte Cunci visée par une plainte pour ses frais de séjour sur la Croisette",
     "contenu": "Le syndicat CFE-CGC saisit la justice contre France télévisions pour \"détournements de fonds\" et \"abus de confiance\". L'organisation dénonce les coûts engendrés par le séjour de quatre de ses dirigeants pendant le Festival de Cannes.",
@@ -44,6 +109,200 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1914,
+    "titre": "Détournement de fonds et diplômes bidon : l’ancien directeur de Sciences Po-Aix au tribunal",
+    "contenu": "Directeur de l’Institut d’études politiques d’Aix-en-Provence de 2006 à 2014, le professeur de droit public Christian Duval comparaît à compter du 14 février pour « détournement de fonds publics » et « escroquerie » pour avoir construit avec des partenaires privés un véritable IEP bis.",
+    "url": "https://www.mediapart.fr/journal/france/120224/detournement-de-fonds-et-diplomes-bidon-l-ancien-directeur-de-sciences-po-aix-au-tribunal",
+    "date": "2024-02-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1884,
+        "value": "Christian Duval"
+      },
+      {
+        "id": 1885,
+        "value": "Stéphane Boudrandi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 507,
+        "value": "Institut d'études politiques d'Aix-en-Provence (Sciences Po Aix)"
+      },
+      {
+        "id": 508,
+        "value": "Aix-Marseille université (AMU)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1313516,
+        "value": "Éducation / Enseignement"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1918,
+    "titre": "Le procès de Damien Castelain, président de la MEL, s'est ouvert à Lille",
+    "contenu": "Damien Castelain comparaît devant le tribunal correctionnel de Lille (Nord) à partir de ce lundi 12 février. Trois dossiers seront examinés pendant trois jours, incluant des faits de détournement de fonds publics, trafic d’influence (favoritisme) et prise illégale d’intérêts. Deux anciens collaborateurs du président de la Métropole européenne de Lille, qui occupaient les postes de directeur général des services et chargée de communication, comparaissent eux aussi.",
+    "url": "https://actu.fr/hauts-de-france/lille_59350/le-proces-de-damien-castelain-president-de-la-mel-sest-ouvert-a-lille-ce-quil-faut-savoir_60688554.html",
+    "date": "2024-02-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151958,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1611,
+        "value": "Damien Castelain"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 304,
+        "value": "Métropole Européenne de Lille (MEL)"
+      },
+      {
+        "id": 510,
+        "value": "Eiffage"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152774,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1917,
+    "titre": "Projet éolien : un signalement émis contre le maire délégué du Louroux-Béconnais",
+    "contenu": "Début février, l’association Delivre, opposée à un projet éolien dans la campagne du Louroux-Béconnais (Maine-et-Loire), a adressé un signalement au procureur de la République d’Angers à l’encontre du maire de cette commune déléguée. Elle estime qu’en approuvant une délibération en date du 13 avril 2021, celui-ci, ﻿« a eu une part active dans la progression du projet éolien », tout en étant ﻿« propriétaire d’un certain nombre de lots se trouvant au cœur de la zone d’études du promoteur ».",
+    "url": "https://www.ouest-france.fr/pays-de-la-loire/val-d-erdre-auxence-49370/projet-eolien-un-signalement-emis-contre-le-maire-delegue-du-louroux-beconnais-1502a914-c4fd-11ee-9c4f-9be0695f50c2",
+    "date": "2024-02-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151951,
+        "value": "49 - Maine-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1889,
+        "value": "Jean-Pierre Bru"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 161,
+        "value": "TotalEnergies"
+      },
+      {
+        "id": 509,
+        "value": "Défense de l’environnement, des libertés, de l’information, de la vie et de la réalité sur l’éolien (Delivre)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1916,
+    "titre": "Perpignan : le Parti communiste interpelle la justice sur la légalité de la rémunération, en son absence, de l'ex directeur de cabinet de Louis Aliot",
+    "contenu": "Le secrétariat du Parti communiste des Pyrénées-Orientales vient d'adresser un courrier aux autorités judiciaires et préfectorale afin de pointer du doigt l'illégalité présumée de la rémunération de l'ex-directeur de cabinet du maire RN de Perpignan, Louis Aliot, absent de son poste pendant plusieurs mois.",
+    "url": "https://www.lindependant.fr/2024/02/11/perpignan-le-parti-communiste-interpelle-la-justice-sur-la-legalite-de-la-remuneration-en-son-absence-de-lex-directeur-de-cabinet-de-louis-aliot-11755665.php",
+    "date": "2024-02-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151964,
+        "value": "66 - Pyrénées-Orientales"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1321,
+        "value": "Louis Aliot"
+      },
+      {
+        "id": 1888,
+        "value": "Frédéric Bort"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National (RN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -293,7 +552,7 @@
       },
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -560,7 +819,7 @@
     "personnes_morales": [
       {
         "id": 8,
-        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024"
+        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024 (COJOP)"
       },
       {
         "id": 84,
@@ -888,7 +1147,7 @@
       },
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -2752,7 +3011,7 @@
     "theme": [
       {
         "id": 1152774,
-        "value": "BTP/Urbanisme"
+        "value": "BTP / Urbanisme / Immobilier"
       }
     ],
     "procedure": [],
@@ -3076,7 +3335,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -3335,7 +3599,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -5184,7 +5448,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -5619,7 +5883,7 @@
       },
       {
         "id": 1241348,
-        "value": "Capital-risque"
+        "value": "Banque / Capital-risque"
       }
     ],
     "procedure": [],
@@ -6251,7 +6515,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -6438,7 +6702,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -6648,7 +6912,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -8453,7 +8717,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -9549,7 +9813,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -9939,7 +10203,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -10543,7 +10807,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -11209,7 +11473,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -11357,7 +11621,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -11959,7 +12223,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [
@@ -12502,7 +12766,7 @@
     "theme": [
       {
         "id": 1152774,
-        "value": "BTP/Urbanisme"
+        "value": "BTP / Urbanisme / Immobilier"
       }
     ],
     "procedure": [
@@ -13066,7 +13330,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -13102,7 +13366,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -13602,7 +13866,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -13763,7 +14027,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -13947,7 +14211,7 @@
     "personnes_morales": [
       {
         "id": 8,
-        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024"
+        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024 (COJOP)"
       },
       {
         "id": 40,
@@ -14741,7 +15005,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -16240,7 +16504,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -16557,7 +16821,7 @@
     "personnes_morales": [
       {
         "id": 8,
-        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024"
+        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024 (COJOP)"
       }
     ],
     "categorie": [
@@ -17297,7 +17561,7 @@
       },
       {
         "id": 8,
-        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024"
+        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024 (COJOP)"
       }
     ],
     "categorie": [
@@ -18129,7 +18393,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -18174,7 +18438,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -18625,7 +18889,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -21589,7 +21853,7 @@
     "personnes_morales": [
       {
         "id": 304,
-        "value": "Métropole Européenne de Lille"
+        "value": "Métropole Européenne de Lille (MEL)"
       }
     ],
     "categorie": [
@@ -22591,7 +22855,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -23629,7 +23893,12 @@
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1152774,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -23701,7 +23970,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1152774,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -23741,7 +24015,16 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1152774,
+        "value": "BTP / Urbanisme / Immobilier"
+      },
+      {
+        "id": 1205870,
+        "value": "Armement"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -23781,7 +24064,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -23829,7 +24117,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -23895,7 +24188,16 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1195707,
+        "value": "Mafia"
+      },
+      {
+        "id": 1312993,
+        "value": "Drogue"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -23999,7 +24301,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -24194,7 +24496,12 @@
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1241348,
+        "value": "Banque / Capital-risque"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -24337,7 +24644,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -24374,7 +24681,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1240363,
+        "value": "Santé"
+      }
+    ],
     "procedure": [
       {
         "id": 1198995,
@@ -24422,7 +24734,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1241347,
+        "value": "Industrie"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -24597,7 +24914,12 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1249364,
+        "value": "Conseil"
+      }
+    ],
     "procedure": [
       {
         "id": 1153422,
@@ -24777,7 +25099,12 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
     "procedure": [
       {
         "id": 1153425,
@@ -24817,7 +25144,12 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1152774,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
     "procedure": [
       {
         "id": 1153429,
@@ -25125,7 +25457,12 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / Influence"
+      }
+    ],
     "procedure": [
       {
         "id": 1153422,
@@ -25161,7 +25498,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1312992,
+        "value": "Énergie"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -25343,7 +25685,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1253735,
+        "value": "Médias"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "Des journalistes de Disclose et Radio France convoqués à la DGSI",
     "a_la_une": false
@@ -25503,7 +25850,12 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1307112,
+        "value": "Police"
+      }
+    ],
     "procedure": [
       {
         "id": 1153429,
@@ -25793,7 +26145,12 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1312991,
+        "value": "Transports"
+      }
+    ],
     "procedure": [
       {
         "id": 1198995,
@@ -25801,7 +26158,7 @@
       }
     ],
     "titre_corrige": "Airbus signe une CJIP de 15, 8 millions d'euros portant sur des soupçons de corruption, notamment en Libye et au Kazakhstan",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1131,
@@ -25861,12 +26218,32 @@
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1870,
+        "value": "Renaud Chervet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 497,
+        "value": "Conseil départemental des Bouches-du-Rhône"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
-    "titre_corrige": null,
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "Renaud Chervet, haut fonctionnaire du département des Bouches-du-Rhône, condamné à cinq années de prison ferme pour corruption",
     "a_la_une": false
   },
   {
@@ -25876,12 +26253,86 @@
     "url": "https://www.liberation.fr/societe/police-justice/des-juges-financiers-enquetent-sur-lex-ministre-sylvie-goulard-20221202_QKDO2ZV7MVGP7B5ZXAE2MX7WKU/",
     "date": "2022-12-02",
     "etiquettes": "Gouvernement Édouard Philippe 1,La République En Marche,Ministère des Armées,Sylvie Goulard",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1576,
+        "value": "Sylvie Goulard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      },
+      {
+        "id": 496,
+        "value": "Institut Berggruen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": null,
+    "a_la_une": true
+  },
+  {
+    "id": 1141,
+    "titre": "Jean-Pierre Gorges, maire de Chartres, signe un contrat de plus d'un million d'euros avec la société de son beau-fils",
+    "contenu": "En octobre 2022, l'édile a paraphé un marché d'un montant pouvant aller jusqu'à 1,2 million d'euros par an avec la maçonnerie Janneau. \nOr, cette société a été fondée par son gendre, Julien Cornu. Il en est aujourd'hui l'actionnaire à 49 % via sa holding, Lufaro. L'homme est par ailleurs le fils de l'ancien sénateur LR Gérard Cornu et le directeur d'une entreprise chartraine de plomberie réputée : Hydro Confort. Il est également vice-président de la Fédération française des bâtiments d'Eure-et-Loir. ",
+    "url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/eure-et-loir/chartres/enquete-le-maire-de-chartes-signe-un-contrat-de-plus-d-un-million-d-euros-avec-la-societe-de-son-beau-fils-2662284.html",
+    "date": "2022-12-02",
+    "etiquettes": "28 – Eure-et-Loir,Jean-Pierre Gorges,Les Républicains",
+    "departement": [
+      {
+        "id": 1151722,
+        "value": "28 - Eure-et-Loir"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1878,
+        "value": "Jean-Pierre Gorges"
+      },
+      {
+        "id": 1879,
+        "value": "Julien Cornu"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 506,
+        "value": "Hydro Confort"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -25896,12 +26347,35 @@
       {
         "id": 1151958,
         "value": "59 - Nord"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 502,
+        "value": "Toyota"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -25913,50 +26387,101 @@
     "url": "https://www.linforme.com/luxe/article/laurent-de-gourcuff-le-roi-de-la-restauration-chic-est-renvoye-devant-le-tribunal-pour-trafic-d-influence_183.html",
     "date": "2022-12-02",
     "etiquettes": "Hippodrome ParisLongchamp,Laurent de Gourcuff,Paris Society",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": null,
-    "a_la_une": false
-  },
-  {
-    "id": 1141,
-    "titre": "Le maire de Chartres signe un contrat de plus d'un million d'euros avec la société de son beau-fils",
-    "contenu": "En octobre 2022, l'édile a paraphé un marché d'un montant pouvant aller jusqu'à 1,2 million d'euros par an avec la maçonnerie Janneau. \nOr, cette société a été fondée par son gendre, Julien Cornu. Il en est aujourd'hui l'actionnaire à 49 % via sa holding, Lufaro. L'homme est par ailleurs le fils de l'ancien sénateur LR Gérard Cornu et le directeur d'une entreprise chartraine de plomberie réputée : Hydro Confort. Il est également vice-président de la Fédération française des bâtiments d'Eure-et-Loir. ",
-    "url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/eure-et-loir/chartres/enquete-le-maire-de-chartes-signe-un-contrat-de-plus-d-un-million-d-euros-avec-la-societe-de-son-beau-fils-2662284.html",
-    "date": "2022-12-02",
-    "etiquettes": "28 – Eure-et-Loir,Jean-Pierre Gorges,Les Républicains",
     "departement": [
       {
-        "id": 1151722,
-        "value": "28 - Eure-et-Loir"
+        "id": 1151970,
+        "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 1441,
+        "value": "Laurent de Gourcuff"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 174,
+        "value": "Paris Society"
+      },
+      {
+        "id": 175,
+        "value": "Hippodrome de Longchamp"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      },
+      {
+        "id": 1313000,
+        "value": "Événementiel"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
   {
     "id": 1123,
     "titre": "Liens de Valérie Pécresse avec Alstom : enquête ouverte pour prise illégale d’intérêts",
-    "contenu": "Une enquête préliminaire pour prise illégale d’intérêts a été ouverte au Parquet national financier (PNF) après un signalement d’élus soupçonnant Valérie Pécresse d’avoir détenu des stock-options chez Alstom tout en présidant l’autorité de transports Ile-de-France Mobilités (IDFM).\nLes élus écologistes IDFM avaient annoncé saisir la justice le 21 février, lorsque la présidente de la région Ile-de-France était candidate à l’élection présidentielle. Ces élus, dont David Belliard, adjoint EELV à la mairie de Paris Anne Hidalgo (PS), avaient déclaré «penser» que Valérie Pécresse avait commis depuis son élection fin 2015 «une infraction de prise illégale d’intérêts».",
+    "contenu": "Une enquête préliminaire pour prise illégale d’intérêts a été ouverte au Parquet national financier (PNF) après un signalement d’élus soupçonnant Valérie Pécresse d’avoir détenu des stock-options chez Alstom tout en présidant l’autorité de transports Ile-de-France Mobilités (IDFM). Les élus écologistes IDFM avaient annoncé saisir la justice le 21 février, lorsque la présidente de la région Ile-de-France était candidate à l’élection présidentielle. Ces élus, dont David Belliard, adjoint EELV à la mairie de Paris Anne Hidalgo (PS), avaient déclaré «penser» que Valérie Pécresse avait commis depuis son élection fin 2015 «une infraction de prise illégale d’intérêts».",
     "url": "https://www.liberation.fr/societe/police-justice/liens-de-valerie-pecresse-avec-alstom-enquete-pour-prise-illegale-dinterets-20221202_MLKN6HGSQ5AONH73DWNQHA4DJE/",
     "date": "2022-12-02",
     "etiquettes": "Alstom,Ile-de-France Mobilités,Les Républicains,Parquet National Financier,Valérie Pécresse",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": null,
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1314,
+        "value": "David Belliard"
+      },
+      {
+        "id": 1461,
+        "value": "Valérie Pécresse"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1241347,
+        "value": "Industrie"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "Le PNF ouvre une enquête sur les liens de Valérie Pécresse avec Alstom",
     "a_la_une": false
   },
   {
@@ -25966,12 +26491,66 @@
     "url": "https://www.mediapart.fr/journal/france/021222/paris-2024-une-ceremonie-d-ouverture-entre-amis?utm_source=global&amp;utm_medium=social&amp;utm_campaign=SharingApp&amp;xtor=CS3-5",
     "date": "2022-12-02",
     "etiquettes": "Cojop,Double 2,Paname 24,Thierry Reboul,Ubi Bene",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1186,
+        "value": "Édouard Donnelly"
+      },
+      {
+        "id": 1872,
+        "value": "Thierry Reboul"
+      },
+      {
+        "id": 1873,
+        "value": "Thomas Deloubriere"
+      },
+      {
+        "id": 1874,
+        "value": "Étienne Thobois"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 8,
+        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024 (COJOP)"
+      },
+      {
+        "id": 26,
+        "value": "RNK"
+      },
+      {
+        "id": 500,
+        "value": "Ubi Bene"
+      },
+      {
+        "id": 501,
+        "value": "The Banner"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -25982,13 +26561,51 @@
     "url": "https://www.lefigaro.fr/conjoncture/recrutement-d-une-fonctionnaire-par-europeche-enquete-pour-prise-illegale-d-interets-20221202",
     "date": "2022-12-02",
     "etiquettes": "Anne-France Mattlet,Anticor,Bloom,Europêche,Parquet National Financier",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": null,
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1871,
+        "value": "Anne-France Mattlet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 498,
+        "value": "Europêche"
+      },
+      {
+        "id": 499,
+        "value": "Bloom"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1313001,
+        "value": "Pêche"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "Le PNF ouvre une enquête sur le recrutement d'une ex-fonctionnaire par le lobby Europêche",
     "a_la_une": false
   },
   {
@@ -25998,18 +26615,68 @@
     "url": "https://www.challenges.fr/monde/sergey-toni-ce-mysterieux-proprietaire-russe-dans-le-viseur-de-la-justice-francaise_837307",
     "date": "2022-12-02",
     "etiquettes": "Sergey Toni,Transparency International France",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "departement": [
+      {
+        "id": 1151975,
+        "value": "77 - Seine-et-Marne"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1875,
+        "value": "Sergey Toni"
+      },
+      {
+        "id": 1876,
+        "value": "Guennadi Timtchenko"
+      },
+      {
+        "id": 1877,
+        "value": "Oleg Toni"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 503,
+        "value": "Juridiction nationale de lutte contre la criminalité organisée (JUNALCO)"
+      },
+      {
+        "id": 504,
+        "value": "Château de Montapot"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
   {
     "id": 1128,
-    "titre": "Le maire de Cholet s’est-il rendu coupable de prise illégale d’intérêts ?",
+    "titre": "Gilles Bourdouleix, maire de Cholet, s’est-il rendu coupable de prise illégale d’intérêts ?",
     "contenu": "​Le maire de Cholet Gilles Bourdouleix a comparu mercredi 30 novembre devant le tribunal correctionnel d’Angers pour prise illégale d’intérêts. Au cœur des débats, le vote par le conseil municipal d’une délibération accordant la protection fonctionnelle au premier magistrat. Huit mois de prison avec sursis et cinq ans d’inéligibilité ont été requis. Décision le 20 janvier.",
     "url": "https://www.ouest-france.fr/societe/justice/le-maire-de-cholet-s-est-il-rendu-coupable-de-prise-illegale-d-interets-57135b38-7156-11ed-b366-ca397b0bd9c1",
     "date": "2022-12-01",
@@ -26027,10 +26694,20 @@
       }
     ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
-    "titre_corrige": null,
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "Huit mois de prison et cinq ans d’inéligibilité requis contre Gilles Bourdouleix, maire de Cholet",
     "a_la_une": false
   },
   {
@@ -26053,7 +26730,12 @@
       }
     ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -26062,16 +26744,53 @@
   {
     "id": 1125,
     "titre": "Le député Meyer Habib visé par une enquête pour détournements de fonds publics",
-    "contenu": "Le député Meyer Habib est visé par une enquête du parquet de Paris pour détournement de fonds publics, d'après des informations de BFMTV. Le bureau du parlementaire apparenté LR a été perquisitionné ce mardi matin par les policiers de l'Office central de lutte contre la corruption et les infractions financières et fiscales.\nCette enquête, ouverte depuis plusieurs mois, est liée à un signalement de Tracfin, le service anti-blanchiment de Bercy, qui soupçonne des irrégularités dans la rémunération de ses collaborateurs parlementaires. Le but des enquêteurs est désormais de lever les doutes sur la façon dont il gère ses frais de mandat.",
+    "contenu": "Le député Meyer Habib est visé par une enquête du parquet de Paris pour détournement de fonds publics. Le bureau du parlementaire apparenté LR a été perquisitionné par les policiers de l'Office central de lutte contre la corruption et les infractions financières et fiscales. Cette enquête, ouverte depuis plusieurs mois, est liée à un signalement de Tracfin, le service anti-blanchiment de Bercy, qui soupçonne des irrégularités dans la rémunération de ses collaborateurs parlementaires. Le but des enquêteurs est désormais de lever les doutes sur la façon dont il gère ses frais de mandat.",
     "url": "https://www.bfmtv.com/politique/les-republicains/le-depute-meyer-habib-vise-par-une-enquee-pour-detournements-de-fonds-publics_AN-202211300446.html",
     "date": "2022-11-30",
     "etiquettes": "Assemblée Nationale,Les Républicains,Meyer Habib,Office central de lutte contre la corruption et les infractions financières et fiscales,Tracfin",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 267,
+        "value": "Meyer Habib"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      },
+      {
+        "id": 40,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 97,
+        "value": "Tracfin"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -26092,17 +26811,52 @@
       {
         "id": 1242,
         "value": "Rachida Dati"
+      },
+      {
+        "id": 1243,
+        "value": "Carlos Ghosn"
+      },
+      {
+        "id": 1444,
+        "value": "Tayeb Benabderrahmane"
+      },
+      {
+        "id": 1880,
+        "value": "Alain Bauer"
       }
     ],
     "personnes_morales": [
+      {
+        "id": 49,
+        "value": "Renault-Nissan"
+      },
       {
         "id": 177,
         "value": "Paris Saint Germain (PSG)"
       }
     ],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      },
+      {
+        "id": 1241347,
+        "value": "Industrie"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -26113,7 +26867,12 @@
     "url": "https://www.lemonde.fr/politique/article/2022/11/29/caroline-cayeux-la-hatvp-saisit-la-justice-pour-des-soupcons-d-evaluation-mensongere-de-sa-declaration-de-patrimoine-et-de-fraude-fiscale_6152194_823448.html",
     "date": "2022-11-29",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 1612,
@@ -26130,16 +26889,31 @@
         "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
       }
     ],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
   {
     "id": 1134,
     "titre": "Hérault : Prison avec sursis pour l’ancien maire d’une petite commune",
-    "contenu": "André Frances, ex-maire de la commune de Montels (254 habitants), dans l’Hérault, a été condamné à un an d’emprisonnement avec sursis, 5.000 euros d’amende et cinq ans d’inéligibilité par le tribunal correctionnel de Béziers. Il a été reconnu coupable de prise illégale d’intérêts, détournement de biens publics et concussion (l’exonération indue d’une taxe ou d’une contribution due à la commune).\nA la suite d’une dénonciation en 2018 par un conseiller municipal, une enquête avait été diligentée par les gendarmes des brigades de Capestang et de Cazouls-lès-Béziers. Elle avait permis d’établir que ce maire avait personnellement signé en 2016 un arrêté de non-opposition à une déclaration préalable de travaux en faveur d’un premier fils, puis un autre arrêté accordant un permis de construire à un autre fils.",
+    "contenu": "André Frances, ex-maire de la commune de Montels (254 habitants), dans l’Hérault, a été condamné à un an d’emprisonnement avec sursis, 5.000 euros d’amende et cinq ans d’inéligibilité par le tribunal correctionnel de Béziers. Il a été reconnu coupable de prise illégale d’intérêts, détournement de biens publics et concussion. A la suite d’une dénonciation en 2018 par un conseiller municipal, une enquête avait été diligentée par les gendarmes des brigades de Capestang et de Cazouls-lès-Béziers. Elle avait permis d’établir que ce maire avait personnellement signé en 2016 un arrêté de non-opposition à une déclaration préalable de travaux en faveur d’un premier fils, puis un autre arrêté accordant un permis de construire à un autre fils.",
     "url": "https://www.20minutes.fr/justice/4012340-20221129-herault-prison-sursis-ancien-maire-petite-commune",
     "date": "2022-11-29",
     "etiquettes": "34 – Hérault,André Frances",
@@ -26149,11 +26923,26 @@
         "value": "34 - Hérault"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1881,
+        "value": "André Frances"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -26164,12 +26953,58 @@
     "url": "https://www.liberation.fr/politique/les-juges-soupconnent-alexis-kohler-davoir-participe-a-des-decisions-sur-larmateur-msc-lie-a-sa-famille-20221129_4LJX3BBXKNATNAXMWMKHOVE5LA/?redirected=1",
     "date": "2022-11-29",
     "etiquettes": "Alexis Kohler,Elysée,La République En Marche",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1275,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 1428,
+        "value": "Pierre Moscovici"
+      },
+      {
+        "id": 1729,
+        "value": "Alexis Kohler"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 29,
+        "value": "Élysée"
+      },
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 282,
+        "value": "Mediterranean Shipping Company (MSC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1241347,
+        "value": "Industrie"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -26186,9 +27021,24 @@
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1882,
+        "value": "Alain Nobili"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 334,
+        "value": "Force ouvrière (FO)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -26201,10 +27051,34 @@
     "url": "https://www.leparisien.fr/politique/declaration-de-patrimoine-la-ministre-caroline-cayeux-demissionne-28-11-2022-DFPFETO5UFAI5C643JHGRSPOBI.php",
     "date": "2022-11-28",
     "etiquettes": "Caroline Cayeux,Gouvernement Élisabeth Borne,Haute Autorité pour la Transparence de la Vie Publique,La République En Marche",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1612,
+        "value": "Caroline Cayeux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 79,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -26217,13 +27091,38 @@
     "url": "https://www.lindependant.fr/2022/11/27/politique-manuel-valls-condamne-a-une-amende-de-277000-euros-pour-des-irregularites-de-financement-de-sa-campagne-des-municipales-de-barcelone-10829974.php",
     "date": "2022-11-27",
     "etiquettes": "Manuel Valls,Matignon,Parti Socialiste",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1226712,
+        "value": "Espagne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1883,
+        "value": "Manuel Valls"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
-    "titre_corrige": null,
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "Manuel Valls condamné à une amende de 277 000 € pour des irrégularités de financement de sa campagne des municipales de Barcelone",
     "a_la_une": false
   },
   {
@@ -26239,11 +27138,31 @@
         "value": "66 - Pyrénées-Orientales"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1321,
+        "value": "Louis Aliot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National (RN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -26260,11 +27179,55 @@
         "value": "83 - Var"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1494,
+        "value": "Thierry Derbez"
+      },
+      {
+        "id": 1495,
+        "value": "Arnaud Mulliez"
+      },
+      {
+        "id": 1497,
+        "value": "Vincent Mignot"
+      },
+      {
+        "id": 1890,
+        "value": "Jean-Jacques Regis"
+      },
+      {
+        "id": 1891,
+        "value": "Évelyne Bouchet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 232,
+        "value": "TD Développement"
+      },
+      {
+        "id": 511,
+        "value": "Derfin"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -26275,12 +27238,45 @@
     "url": "https://www.leparisien.fr/faits-divers/affaire-mckinsey-une-enquete-judiciaire-ouverte-pour-financement-illegal-de-la-campagne-demmanuel-macron-en-2017-24-11-2022-3XA3WCMVG5DMJGWWLJPCNOXG2I.php?ts=1669388043931",
     "date": "2022-11-24",
     "etiquettes": "Elysée,Emmanuel Macron,La République En Marche,McKinsey",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1275,
+        "value": "Emmanuel Macron"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 18,
+        "value": "Renaissance"
+      },
+      {
+        "id": 444,
+        "value": "McKinsey & Company"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -26291,12 +27287,78 @@
     "url": "https://www.liberation.fr/societe/police-justice/barbouzeries-rachida-dati-visee-par-une-plainte-dun-avocat-en-lien-avec-laffaire-carlos-ghosn-20221123_LEL4NRACAZFVVE2M3O7MDK72MI/?redirected=1",
     "date": "2022-11-23",
     "etiquettes": "Carlos Ghosn,Les Républicains,Rachida Dati,Renault",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1242,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 1243,
+        "value": "Carlos Ghosn"
+      },
+      {
+        "id": 1880,
+        "value": "Alain Bauer"
+      },
+      {
+        "id": 1892,
+        "value": "Danièle Coutaz-Repland"
+      },
+      {
+        "id": 1893,
+        "value": "Jean-Paul Baduel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      },
+      {
+        "id": 49,
+        "value": "Renault-Nissan"
+      },
+      {
+        "id": 163,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      },
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1241347,
+        "value": "Industrie"
+      },
+      {
+        "id": 1312991,
+        "value": "Transports"
+      },
+      {
+        "id": 1307112,
+        "value": "Police"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -26313,11 +27375,31 @@
         "value": "66 - Pyrénées-Orientales"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1398,
+        "value": "Alain Ferrand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -26334,11 +27416,30 @@
         "value": "92 - Hauts-de-Seine"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1785,
+        "value": "Freddy Kaczmarek"
+      },
+      {
+        "id": 1786,
+        "value": "Mohamed Zazoua"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -26371,11 +27472,35 @@
         "value": "06 - Alpes-Maritimes"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 144,
+        "value": "Éric Ciotti"
+      },
+      {
+        "id": 1581,
+        "value": "Caroline Magne"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -33859,7 +34984,7 @@
     "theme": [
       {
         "id": 1152015,
-        "value": "Lobbying / influence"
+        "value": "Lobbying / Influence"
       },
       {
         "id": 1220073,
