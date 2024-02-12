@@ -1,5 +1,53 @@
 [
   {
+    "id": 1913,
+    "titre": "Delphine Ernotte Cunci visée par une plainte pour ses frais de séjour sur la Croisette",
+    "contenu": "Le syndicat CFE-CGC saisit la justice contre France télévisions pour \"détournements de fonds\" et \"abus de confiance\". L'organisation dénonce les coûts engendrés par le séjour de quatre de ses dirigeants pendant le Festival de Cannes.",
+    "url": "https://www.lalettre.fr/fr/medias_audiovisuel/2024/02/12/delphine-ernotte-cunci-visee-par-une-plainte-pour-ses-frais-de-sejour-sur-la-croisette%252C110158285-art",
+    "date": "2024-02-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1865,
+        "value": "Delphine Ernotte"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 332,
+        "value": "Confédération française de l'encadrement - Confédération générale des cadres (CFE-CGC)"
+      },
+      {
+        "id": 436,
+        "value": "France Télévisions"
+      },
+      {
+        "id": 494,
+        "value": "Festival de Cannes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1911,
     "titre": "Pyrénées-Atlantiques : soupçons de favoritisme autour du marché public des déchets à Pau",
     "contenu": "La police paloise enquête sur les conditions d’attribution du marché public de l’incinérateur de Lescar, en février 2020. La justice s’intéresse au syndicat mixte Valor Béarn, soupçonné d’avoir favorisé l’entreprise Urbaser pour ce marché d’une durée de 20 ans et d’un montant de 225 millions d’euros.",
@@ -25540,12 +25588,36 @@
         "value": "33 - Gironde"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1598,
+        "value": "Christophe Leuret"
+      },
+      {
+        "id": 1866,
+        "value": "Jean-Christophe Guérin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 289,
+        "value": "Crédit Municipal de Bordeaux"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
-    "titre_corrige": null,
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "L’ancien directeur du Crédit Municipal de Bordeaux et son bras droit jugés pour des soupçons de favoritisme",
     "a_la_une": false
   },
   {
@@ -25555,12 +25627,37 @@
     "url": "https://www.varmatin.com/faits-divers/le-senateur-des-alpes-maritimes-philippe-tabarot-dans-le-collimateur-du-parquet-national-financier-812631",
     "date": "2022-12-05",
     "etiquettes": "Les Républicains,Philippe Tabarot,Sénat",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1867,
+        "value": "Philippe Tabarot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 2,
+        "value": "Sénat"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -25665,13 +25762,31 @@
   {
     "id": 1115,
     "titre": "Corruption : Airbus accepte de payer plus de 15 millions d'euros pour solder le passé",
-    "contenu": "Après avoir marqué l'histoire de cette nouvelle procédure judiciaire qui permet aux personnes morales de négocier une (forte) amende avec le parquet pour éviter des poursuites pénales, l'avionneur était de retour devant le tribunal judiciaire pour l'homologation d'une seconde convention judiciaire d'intérêt public (CJIP) portant sur des soupçons de corruption, notamment en Libye et au Kazakhstan. Une CJIP de 15, 8 millions d'euros a été homologuée ce mercredi par le président du tribunal judiciaire de Paris.",
+    "contenu": "L'avionneur était de retour devant le tribunal judiciaire pour l'homologation d'une seconde convention judiciaire d'intérêt public (CJIP) portant sur des soupçons de corruption, notamment en Libye et au Kazakhstan. Une CJIP de 15, 8 millions d'euros a été homologuée ce mercredi par le président du tribunal judiciaire de Paris.",
     "url": "https://www.lesechos.fr/industrie-services/air-defense/corruption-airbus-accepte-de-payer-plus-de-15-millions-deuros-pour-solder-le-passe-1884384",
     "date": "2022-12-04",
     "etiquettes": "Airbus,Parquet National Financier",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1312988,
+        "value": "Libye"
+      },
+      {
+        "id": 1312989,
+        "value": "Kazakhstan"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 187,
+        "value": "Airbus"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -25685,7 +25800,7 @@
         "value": "Convention judiciaire d'intérêt public (CJIP)"
       }
     ],
-    "titre_corrige": null,
+    "titre_corrige": "Airbus signe une CJIP de 15, 8 millions d'euros portant sur des soupçons de corruption, notamment en Libye et au Kazakhstan",
     "a_la_une": false
   },
   {
@@ -25701,11 +25816,35 @@
         "value": "44 - Loire-Atlantique"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1868,
+        "value": "Michel Papaud"
+      },
+      {
+        "id": 1869,
+        "value": "Jean-Philippe Aubry"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 495,
+        "value": "Carrousel des mondes marins"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
