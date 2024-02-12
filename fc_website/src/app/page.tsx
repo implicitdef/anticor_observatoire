@@ -1,27 +1,29 @@
 import { LinkToItem } from '@/components/LinkToItem'
-import { TagsList } from '@/components/TagsList'
 import { Item, getData } from '@/lib/dataReader'
 import {
+  TypedTag,
   firstOfArray,
   formatDateVerbose,
   getItemsWithSameTag,
   readTagsOfItem,
 } from '@/lib/utils'
-import Link from 'next/link'
 import lo from 'lodash'
+import Link from 'next/link'
 
 const MAX_BY_BANDEAU = 3
 
 export default function Home() {
   const allItems = getData()
-  const aLaUneItem = firstOfArray(allItems.filter((_) => _.a_la_une))
+  const laUneItem = firstOfArray(allItems.filter((_) => _.a_la_une))
 
-  const fiveLatestActus = allItems
+  const laUneRelatedTags = prepareTagsRelatedToLaUne(laUneItem, allItems)
+
+  const bunchOfLatestActus = allItems
     .filter((_) => _.categorie.some((_) => _.value === 'Actualité'))
-    .slice(0, 5)
+    .slice(0, 20)
 
   const itemsFromTagRelatedToUne = prepareItemsRelatedToALaUne(
-    aLaUneItem,
+    laUneItem,
     allItems,
   )
 
@@ -45,20 +47,44 @@ export default function Home() {
 
   return (
     <div className=" w-full pt-8">
-      {aLaUneItem && <ALaUneBanner item={aLaUneItem} />}
-      <LatestActus items={fiveLatestActus} />
+      {laUneItem && <ALaUneBanner item={laUneItem} />}
+      {laUneRelatedTags && <RelatedTags tags={laUneRelatedTags} />}
+      <ItemsBanner title="Actualités" items={itemsActualites} />
+      <ItemsBanner title="Probité" items={itemProbite} />
+      <ItemsBanner title="Pantouflages" items={itemsPantouflages} />
+      <ItemsBanner title="Condamnations" items={itemsCondamnations} />
       {itemsFromTagRelatedToUne && (
         <ItemsBanner
           title={`Sur le même sujet : ${itemsFromTagRelatedToUne.tag.value}`}
           items={itemsFromTagRelatedToUne.items}
         />
       )}
-      <ItemsBanner title="Actualités" items={itemsActualites} />
-      <ItemsBanner title="Probité" items={itemProbite} />
-      <ItemsBanner title="Pantouflages" items={itemsPantouflages} />
-      <ItemsBanner title="Condamnations" items={itemsCondamnations} />
+      <CloudOfLinks items={bunchOfLatestActus} />
     </div>
   )
+}
+
+function prepareTagsRelatedToLaUne(
+  laUneItem: Item | undefined,
+  allItems: Item[],
+): TypedTag[] | undefined {
+  if (laUneItem) {
+    const eligibleTags = readTagsOfItem(laUneItem).filter(
+      (_) => _.kind === 'personnalites' || _.kind === 'personnes_morales',
+    )
+    const withItems = eligibleTags.map((tag) => {
+      const items = getItemsWithSameTag(allItems, tag).filter(
+        (_) => _.id !== laUneItem.id,
+      )
+      return { tag, items }
+    })
+    const bestTags = lo
+      .sortBy(withItems, (_) => -_.items.length)
+      .slice(0, 5)
+      .map((_) => _.tag)
+    return bestTags
+  }
+  return undefined
 }
 
 function prepareItemsRelatedToALaUne(
@@ -106,17 +132,41 @@ function ALaUneBanner({ item }: { item: Item }) {
   )
 }
 
-function LatestActus({ items }: { items: Item[] }) {
+function RelatedTags({ tags }: { tags: TypedTag[] }) {
+  return (
+    <div className="container mx-auto ">
+      <div className="flex flex-wrap gap-4 items-center justify-center mb-12">
+        <span className="text-bleuanticor-500 font-bold py-1 text-lg">
+          voir aussi :
+        </span>
+        {tags.map((tag) => {
+          return (
+            <Link
+              href={`/revuedepresse/tag/${tag.kind}/${tag.id}`}
+              className="underline decoration-2 rounded-2xl text-bleuanticor-500 bg-bleuanticor-100 font-bold px-3 py-1 text-lg"
+              key={tag.id}
+            >
+              {tag.value}
+            </Link>
+          )
+        })}
+      </div>
+    </div>
+  )
+}
+
+function CloudOfLinks({ items }: { items: Item[] }) {
   return (
     <div className="container mx-auto flex flex-wrap gap-8 items-center justify-center mb-12">
-      {items.map((item) => {
+      {items.map((item, idx) => {
         return (
           <LinkToItem
             item={item}
             key={item.id}
             className="font-bold underline text-bleuanticor-500"
           >
-            {item.titre.slice(0, 50) + '...'}
+            {item.titre.slice(0, idx % 4 === 0 ? 14 : idx % 3 === 0 ? 50 : 35) +
+              '...'}
           </LinkToItem>
         )
       })}
@@ -125,32 +175,35 @@ function LatestActus({ items }: { items: Item[] }) {
 }
 
 function ItemsBanner({ items, title }: { items: Item[]; title: string }) {
-  return (
-    <div className="container mx-auto mb-4">
-      <h2 className="text-base mb-4 text-left text-bleuanticor-400 uppercase">
-        {title}
-      </h2>
-      <ul className="grid grid-cols-3 gap-6">
-        {items.map((item, idx) => {
-          return (
-            <li key={item.id}>
-              <LinkToItem
-                {...{ item }}
-                className="bg-gray-100 border-bleuanticor-100 border-l-4 border-0 pt-6 pb-8 px-8 block h-full "
-              >
-                {item.date && (
-                  <div className="text-sm mb-1 uppercase">
-                    {formatDateVerbose(item.date)}
+  if (items.length > 0) {
+    return (
+      <div className="container mx-auto mb-4">
+        <h2 className="text-base mb-4 text-left text-bleuanticor-400 uppercase">
+          {title}
+        </h2>
+        <ul className="grid grid-cols-3 gap-6">
+          {items.map((item, idx) => {
+            return (
+              <li key={item.id}>
+                <LinkToItem
+                  {...{ item }}
+                  className="bg-gray-100 border-bleuanticor-100 border-l-4 border-0 pt-6 pb-8 px-8 block h-full "
+                >
+                  {item.date && (
+                    <div className="text-sm mb-1 uppercase">
+                      {formatDateVerbose(item.date)}
+                    </div>
+                  )}
+                  <div className="font-bold text-bleuanticor-500">
+                    {item.titre}
                   </div>
-                )}
-                <div className="font-bold text-bleuanticor-500">
-                  {item.titre}
-                </div>
-              </LinkToItem>
-            </li>
-          )
-        })}
-      </ul>
-    </div>
-  )
+                </LinkToItem>
+              </li>
+            )
+          })}
+        </ul>
+      </div>
+    )
+  }
+  return null
 }

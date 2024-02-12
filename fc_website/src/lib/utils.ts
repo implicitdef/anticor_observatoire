@@ -21,6 +21,8 @@ export function parseDate(dateStr: string) {
   return date
 }
 
+export type TypedTag = { id: number; value: string; kind: TagKind }
+
 export function pickTagsList(item: Item, tagKind: TagKind) {
   switch (tagKind) {
     case 'categories':
@@ -38,7 +40,7 @@ export function pickTagsList(item: Item, tagKind: TagKind) {
   }
 }
 
-export function readTagsOfItem(item: Item) {
+export function readTagsOfItem(item: Item): TypedTag[] {
   const categories = item.categorie.map((_) => ({
     ..._,
     kind: 'categories' as const,
