@@ -1,17 +1,181 @@
 [
   {
+    "id": 1921,
+    "titre": "5 000 euros d'amende et 6 mois d'inéligibilité avec sursis requis contre Eric Straumann",
+    "contenu": "Eric Straumann, maire de Colmar, est accusé de tentative de détournement de fonds publics. 6 mois d'emprisonnement avec sursis et trois ans d'inéligibilité ont aussi été requis contre Joël Munsch, ancien directeur de cabinet de Gilbert Meyer, pour complicité de tentative de détournement de fonds publics.",
+    "url": "https://www.lalsace.fr/politique/2024/02/12/5-000-euros-d-amende-et-6-mois-d-ineligibilite-requis-contre-eric-straumann",
+    "date": "2024-02-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151966,
+        "value": "68 - Haut-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1897,
+        "value": "Eric Straumann"
+      },
+      {
+        "id": 1898,
+        "value": "Joël Munsch"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "5 000 euros d'amende et 6 mois d'inéligibilité avec sursis requis contre Eric Straumann, maire de Colmar",
+    "a_la_une": false
+  },
+  {
+    "id": 1922,
+    "titre": "Jacques Lalié condamné à six mois de prison avec sursis et un an d'inéligibilité pour favoritisme",
+    "contenu": "Le président de la province des îles comparaissait ce mardi devant le tribunal correctionnel pour des faits de favoritisme et travail dissimulé. Il a été relaxé pour deux infractions mais condamné dans l'affaire du renouvellement du parc informatique de la province.",
+    "url": "https://la1ere.francetvinfo.fr/nouvellecaledonie/province-iles/jacques-lalie-juge-ce-mardi-pour-favoritisme-et-travail-clandestin-1464678.html",
+    "date": "2024-02-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151995,
+        "value": "987 - Polynésie Française"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1899,
+        "value": "Jacques Lalié"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 516,
+        "value": "Unir et construire dans le renouveau (UC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1919,
     "titre": "«Tentative d’escroquerie» contre TotalEnergies : le parquet demande un procès contre une série d’avocats et d’arbitres internationaux",
     "contenu": "Plusieurs «professionnels du droit et de l’arbitrage», dont Olivier Pardo, avocat d’Eric Zemmour et Rachida Dati, sont soupçonnés d’avoir eu un rôle actif dans la tentative avortée de soutirer plusieurs milliards d’euros au groupe pétrolier pour le compte de l’affairiste André Guelfi.",
     "url": "https://www.liberation.fr/societe/police-justice/tentative-descroquerie-contre-totalenergies-le-parquet-demande-un-proces-contre-une-serie-davocats-et-darbitres-internationaux-20240212_GM5Y3CP2GRDC3OWH3NPG5SXX2A/",
     "date": "2024-02-12",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1901,
+        "value": "Olivier Pardo"
+      },
+      {
+        "id": 1902,
+        "value": "André Guelfi (\"Dédé la sardine\")"
+      },
+      {
+        "id": 1903,
+        "value": "Jean-Pierre Mattei"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 517,
+        "value": "Elf Aquitaine"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1924,
+    "titre": "Condamnation pour prise illégale d'intérêts de Pierre-André Périssol : l'élu LR de Moulins et le parquet font appel",
+    "contenu": "Le procureur et le maire LR de Moulins Pierre-André Périssol ont tous deux fait appel de la décision du tribunal de Cusset du 1er février, qui avait déclaré l'élu coupable de prise illégale d'intérêt. Une décision qui n'a satisfait aucune des deux parties.",
+    "url": "https://www.lamontagne.fr/moulins-03000/actualites/condamnation-pour-prise-illegale-d-interets-de-pierre-andre-perissol-l-elu-lr-de-moulins-et-le-parquet-font-appel_14451585/",
+    "date": "2024-02-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151602,
+        "value": "03 - Allier"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1418,
+        "value": "Pierre-André Périssol"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      },
+      {
+        "id": 220,
+        "value": "Groupe Arcade-VYV"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -207,6 +371,42 @@
         "value": "BTP / Urbanisme / Immobilier"
       }
     ],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 1923,
+    "titre": "Levallois-Perret : l’ex-directeur des services techniques nie tout favoritisme",
+    "contenu": "Le fonctionnaire, son fils et quatre chefs d’entreprise sont jugés cette semaine par le tribunal correctionnel de Nanterre (Hauts-de-Seine). Thierry Brandac est soupçonné d’avoir favorisé une entreprise spécialisée dans la maîtrise d’œuvre et l’économie de la construction lors d’attribution de marchés publics entre 2013 et 2015, ce qu’il conteste fermement. En contrepartie, cette entreprise, habituée à travailler avec la ville, serait intervenue, à titre gratuit, en Normandie, sur le chantier d’un vieux moulin acheté 120 000 euros, en 2013, via une SCI immobilière constituée par Thierry Bandrac et son fils.",
+    "url": "https://www.leparisien.fr/hauts-de-seine-92/levallois-perret-lex-directeur-des-services-technique-nie-tout-favoritisme-12-02-2024-N4BQGX7GLVBBXP2HNIXO72KC2M.php",
+    "date": "2024-02-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1900,
+        "value": "Thierry Brandac"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
     "procedure": [
       {
         "id": 1153424,
@@ -28067,9 +28267,24 @@
       }
     ],
     "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152774,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -28086,11 +28301,31 @@
         "value": "60 - Oise"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1755,
+        "value": "Yves Rome"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -28128,9 +28363,19 @@
         "value": "06 - Alpes-Maritimes"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1906,
+        "value": "Michèle Pecquereau"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -28143,12 +28388,49 @@
     "url": "https://www.nouvelobs.com/politique/20221115.AFP5477/deux-ex-assistants-de-melenchon-au-parlement-europeen-places-sous-le-statut-de-temoin-assiste.html",
     "date": "2022-11-16",
     "etiquettes": "Jean-Luc Mélenchon,La France Insoumise,Parti de Gauche",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1550,
+        "value": "Jean-Luc Mélenchon"
+      },
+      {
+        "id": 1904,
+        "value": "Laurent Maffeis"
+      },
+      {
+        "id": 1905,
+        "value": "Aigline de Causans"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 20,
+        "value": "La France Insoumise (LFI)"
+      },
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -28165,11 +28447,39 @@
         "value": "06 - Alpes-Maritimes"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 144,
+        "value": "Éric Ciotti"
+      },
+      {
+        "id": 1581,
+        "value": "Caroline Magne"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
