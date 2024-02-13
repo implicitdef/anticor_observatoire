@@ -19120,6 +19120,56 @@
     "a_la_une": false
   },
   {
+    "id": 1920,
+    "titre": "Une chef de service des HCL dans le viseur de la justice pour détournement de biens publics et prise illégale d’intérêt",
+    "contenu": "Carole Burillon, chef de service aux HCL, est visée par une enquête pour \"détournement de biens publics\" et \"prise illégale d’intérêt\". L’association Anticor avait signalé en mars dernier son implication dans la signature d’une convention entre l’hôpital et une société privée dont l'un des cogérants est son époux.",
+    "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/une-chef-de-service-des-hcl-dans-le-viseur-de-la-justice-pour-detournement-de-biens-publics-et-prise-illegale-d-interet-2791190.html",
+    "date": "2023-06-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1894,
+        "value": "Carole Burillon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      },
+      {
+        "id": 512,
+        "value": "Hospices civils de Lyon (HCL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1240363,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1701,
     "titre": "L'institut de recherches lié aux syndicats épinglé par la Cour des comptes",
     "contenu": "La Cour des comptes a rendu un rapport doublé d'un référé adressé à la Première ministre qui lui enjoint de remettre à plat les missions et le fonctionnement de l'Institut de recherches économiques et sociales (Ires), financé par l'Etat et géré par les syndicats.",
@@ -27433,7 +27483,12 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1152774,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
     "procedure": [
       {
         "id": 1153424,
@@ -27450,19 +27505,44 @@
     "url": "https://www.lemonde.fr/politique/article/2022/11/22/claude-gueant-condamne-a-six-mois-de-prison-ferme-amenages-pour-escroquerie-de-frais-de-campagne_6151079_823448.html",
     "date": "2022-11-22",
     "etiquettes": "Claude Guéant,Elysée,Les Républicains,Nicolas Sarkozy",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1287,
+        "value": "Claude Guéant"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": null,
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1102,
     "titre": "Emplois de l’ex-épouse d’Eric Ciotti : le Parquet national financier ouvre une enquête pour détournement de fonds publics",
-    "contenu": "Après la publication d’articles selon lesquels l’ex-épouse d’Eric Ciotti aurait cumulé plusieurs emplois à l’Assemblée, à Nice et au département, une enquête préliminaire a été ouverte pour détournement de fonds publics, a annoncé, mardi 22 novembre, le Parquet national financier (PNF), confirmant une information de BFM-TV. Cette enquête, également ouverte pour abus de confiance et recel de ces infractions, « a pour but de vérifier le bien-fondé des éléments parus dans la presse », a précisé cette source.",
+    "contenu": "Après la publication d’articles selon lesquels l’ex-épouse d’Eric Ciotti aurait cumulé plusieurs emplois à l’Assemblée, à Nice et au département, une enquête préliminaire a été ouverte pour détournement de fonds publics, a annoncé, mardi 22 novembre, le Parquet national financier (PNF). Cette enquête, également ouverte pour abus de confiance et recel de ces infractions, « a pour but de vérifier le bien-fondé des éléments parus dans la presse ».",
     "url": "https://www.lemonde.fr/politique/article/2022/11/22/emplois-de-l-ex-epouse-d-eric-ciotti-le-parquet-national-financier-ouvre-une-enquete-pour-detournement-de-fonds-publics_6151031_823448.html",
     "date": "2022-11-22",
     "etiquettes": "06 – Alpes Maritimes,Éric Ciotti,Parquet National Financier",
@@ -27517,10 +27597,30 @@
         "value": "69 - Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnalites": [
+      {
+        "id": 1894,
+        "value": "Carole Burillon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 512,
+        "value": "Hospices civils de Lyon (HCL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1240363,
+        "value": "Santé"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -27532,11 +27632,31 @@
     "url": "https://transparency-france.org/actu/communique-restriction-de-lacces-aux-registres-des-beneficiaires-effectifs-la-decision-de-la-cour-de-justice-de-lue-risque-de-nous-replonger-dans-le-noir-et-lignorance/",
     "date": "2022-11-22",
     "etiquettes": "Cour de justice de l&#039;Union européenne,Transparency International France",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1283910,
+        "value": "Luxembourg"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 465,
+        "value": "Cour de justice de l'Union européenne"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -27554,11 +27674,31 @@
         "value": "92 - Hauts-de-Seine"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1895,
+        "value": "André Santini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 268,
+        "value": "Union des démocrates et indépendants (UDI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -27569,10 +27709,25 @@
     "url": "https://www.lagazettedescommunes.com/836712/carton-rouge-pour-le-controle-de-legalite/",
     "date": "2022-11-21",
     "etiquettes": "Cour des comptes",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Cour des comptes (CDC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -27581,7 +27736,7 @@
   {
     "id": 1100,
     "titre": "Cumuls, rémunérations : ce que révèle le relevé de carrière de l’ex-femme d’Eric Ciotti",
-    "contenu": "Selon Libération, Caroline Magne a cumulé pendant près de dix ans différents emplois avec son poste d’assistante parlementaire auprès de son ex-mari, pour lequel elle a été payée 20 000 euros par an les premières années. Officiellement pour cinq heures hebdomadaires, soit huit fois le smic horaire de l’époque.",
+    "contenu": "Caroline Magne a cumulé pendant près de dix ans différents emplois avec son poste d’assistante parlementaire auprès de son ex-mari, pour lequel elle a été payée 20 000 euros par an les premières années. Officiellement pour cinq heures hebdomadaires, soit huit fois le smic horaire de l’époque.",
     "url": "https://www.liberation.fr/checknews/cumuls-remunerations-ce-que-revele-le-releve-de-carriere-de-lex-femme-deric-ciotti-20221121_RF3QELEEKVDTNAHCAKWKUGT5KU/?redirected=1",
     "date": "2022-11-21",
     "etiquettes": "06 – Alpes Maritimes,Caroline Magne,Éric Ciotti,Les Républicains",
@@ -27591,9 +27746,32 @@
         "value": "06 - Alpes-Maritimes"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 144,
+        "value": "Éric Ciotti"
+      },
+      {
+        "id": 1581,
+        "value": "Caroline Magne"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -27606,14 +27784,52 @@
     "url": "https://www.mediapart.fr/journal/france/211122/les-obscurs-liens-financiers-de-mimi-marchand-avec-un-mis-en-examen-de-l-affaire-du-psg",
     "date": "2022-11-21",
     "etiquettes": "Michèle Marchand,PSG,Tayeb Benabderrahmane",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1226729,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1444,
+        "value": "Tayeb Benabderrahmane"
+      },
+      {
+        "id": 1813,
+        "value": "Michèle Marchand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1253735,
+        "value": "Médias"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1494,
@@ -27622,16 +27838,40 @@
     "url": "https://www.lalettrea.fr/action-publique_lobbying/2022/11/21/les-liens-fumeux-d-un-senateur-lr-et-de-sa-collaboratrice-sur-le-tabac,109866270-art",
     "date": "2022-11-21",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1301,
+        "value": "François Bonhomme"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 2,
+        "value": "Sénat"
+      },
+      {
+        "id": 514,
+        "value": "Japan Tobacco International (JTI)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1314620,
+        "value": "Tabac"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -27653,10 +27893,30 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnalites": [
+      {
+        "id": 1566,
+        "value": "Gaël Perdriau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 513,
+        "value": "Mediapart"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1253735,
+        "value": "Médias"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -27675,12 +27935,27 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 515,
+        "value": "Assemblée de Corse"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1195707,
+        "value": "Mafia"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1099,
@@ -27696,10 +27971,30 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnes_morales": [
+      {
+        "id": 107,
+        "value": "Chambre régionale des comptes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1240363,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -27710,14 +28005,47 @@
     "url": "https://www.liberation.fr/politique/comptes-de-campagne-de-melenchon-en-2017-le-rapport-qui-accable-sophia-chikirou-20221117_TTMMNNTKJNHPHCZIGKOV3QUNSA/?redirected=1",
     "date": "2022-11-17",
     "etiquettes": "Assemblée Nationale,Jean-Luc Mélenchon,La France Insoumise,Mediascop,Sophia Chikirou",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 140,
+        "value": "Sophia Chikirou"
+      },
+      {
+        "id": 1550,
+        "value": "Jean-Luc Mélenchon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 20,
+        "value": "La France Insoumise (LFI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": null,
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1097,
@@ -27732,7 +28060,12 @@
         "value": "31 - Haute-Garonne"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1896,
+        "value": "Éric Oget"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
