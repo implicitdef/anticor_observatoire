@@ -1,5 +1,94 @@
 [
   {
+    "id": 1925,
+    "titre": "La police confirme les financements russes d’Alexandre Benalla",
+    "contenu": "Un rapport de la BRDE confirme  que l’ancien conseiller d’Emmanuel Macron a bien signé des contrats de sécurité avec des oligarques proches de Vladimir Poutine, alors même qu’il travaillait à l’Élysée. Ce que l’intéressé conteste.",
+    "url": "https://www.mediapart.fr/journal/france/140224/la-police-confirme-les-financements-russes-d-alexandre-benalla",
+    "date": "2024-02-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1227572,
+        "value": "Russie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1275,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 1577,
+        "value": "Alexandre Benalla"
+      },
+      {
+        "id": 1924,
+        "value": "Iskander Makhmudov"
+      },
+      {
+        "id": 1925,
+        "value": "Farkhad Akhmedov"
+      },
+      {
+        "id": 1926,
+        "value": "Jean-Louis Haguenauer"
+      },
+      {
+        "id": 1927,
+        "value": "Vincent Crase"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 29,
+        "value": "Élysée"
+      },
+      {
+        "id": 41,
+        "value": "Brigade de répression de la délinquance économique (BRDE)"
+      },
+      {
+        "id": 79,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 529,
+        "value": "Mars"
+      },
+      {
+        "id": 530,
+        "value": "Velours"
+      },
+      {
+        "id": 531,
+        "value": "France Close Protection"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 1921,
     "titre": "5 000 euros d'amende et 6 mois d'inéligibilité avec sursis requis contre Eric Straumann",
     "contenu": "Eric Straumann, maire de Colmar, est accusé de tentative de détournement de fonds publics. 6 mois d'emprisonnement avec sursis et trois ans d'inéligibilité ont aussi été requis contre Joël Munsch, ancien directeur de cabinet de Gilbert Meyer, pour complicité de tentative de détournement de fonds publics.",
@@ -45,6 +134,127 @@
     "a_la_une": false
   },
   {
+    "id": 1927,
+    "titre": "Affaire du cube﻿ de Trélazé : la procédure contre l’ancien maire Marc Goua est annulée",
+    "contenu": "L’ancien maire de Trélazé était accusé de délit de favoritisme dans l’affaire de l’installation du cube de l’Arena Loire. La cour d’appel d’Angers a finalement retenu les exceptions de nullité soulevées par la défense.",
+    "url": "https://www.ouest-france.fr/societe/justice/affaire-du-cube-de-trelaze-la-procedure-contre-lancien-maire-marc-goua-est-annulee-bb1cc726-c9c1-11ee-bd89-65961cacb703",
+    "date": "2024-02-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151951,
+        "value": "49 - Maine-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1929,
+        "value": "Marc Goua"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 534,
+        "value": "Arena Loire Trélazé"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1926,
+    "titre": "Attribution de marchés publics : l’ancien maire de Noisy-le-Sec Laurent Rivoire de retour devant le tribunal",
+    "contenu": "Poursuivi en 2021 pour « délit de favoritisme, prise illégale d’intérêts et trafic d’influence » en tant que président de la SAEM Noisy-le-Sec Habitat, Laurent Rivoire (UDI) avait été relaxé par le tribunal de Bobigny. À la suite de l’appel du parquet, un nouveau procès s’ouvre ce mercredi à la cour d’appel de Paris.",
+    "url": "https://www.leparisien.fr/seine-saint-denis-93/attribution-de-marches-publics-lancien-maire-de-noisy-le-sec-laurent-rivoire-de-retour-devant-le-tribunal-13-02-2024-3Q62GGQW4VDG3N2ZA2NKXATRQQ.php",
+    "date": "2024-02-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151972,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1928,
+        "value": "Laurent Rivoire"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 268,
+        "value": "Union des démocrates et indépendants (UDI)"
+      },
+      {
+        "id": 532,
+        "value": "Noisy-le-Sec Habitat"
+      },
+      {
+        "id": 533,
+        "value": "Com’Durable"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1929,
+    "titre": "Golf de Villeneuve-de-la-Raho : des arrangements avec des élus pour la cession des terrains",
+    "contenu": "Des soupçons de prise illégale d'intérêts viennent de surgir. Un élu de la commune aurait pu bénéficier d'un avantage estimé à 649 000 € dans la cession de ses terrains",
+    "url": "https://www.lasemaineduroussillon.com/article/golf-de-villeneuve-de-la-raho-des-arrangements-avec-des-elus-pour-la-cession-des-terrains",
+    "date": "2024-02-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151964,
+        "value": "66 - Pyrénées-Orientales"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1922,
     "titre": "Jacques Lalié condamné à six mois de prison avec sursis et un an d'inéligibilité pour favoritisme",
     "contenu": "Le président de la province des îles comparaissait ce mardi devant le tribunal correctionnel pour des faits de favoritisme et travail dissimulé. Il a été relaxé pour deux infractions mais condamné dans l'affaire du renouvellement du parc informatique de la province.",
@@ -82,6 +292,58 @@
         "value": "Condamnation"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1928,
+    "titre": "Suspicions autour du marché du chauffage urbain : Idex attaque la Métropole de Lyon en justice",
+    "contenu": "Idex a décidé d'attaquer la décision de la collectivité locale de confier à Coriance le marché public du chauffage urbain du Sud-Ouest lyonnais (Oullins-Pierre-Bénite, Saint-Genis-Laval et La Mulatière). Le candidat malheureux a saisi le tribunal administratif de Lyon en référé pour \"obtenir les éclaircissements légitimes liés au rejet de son offre\".",
+    "url": "https://www.lyonmag.com/article/134582/suspicions-autour-du-marche-du-chauffage-urbain-idex-attaque-la-metropole-de-lyon-en-justice",
+    "date": "2024-02-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1665,
+        "value": "Bruno Bernard"
+      },
+      {
+        "id": 1733,
+        "value": "Jean-Vincent Placé"
+      },
+      {
+        "id": 1734,
+        "value": "Jean-Pierre Blat"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 403,
+        "value": "Coriance"
+      },
+      {
+        "id": 404,
+        "value": "Idex"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -1635,12 +1897,24 @@
       {
         "id": 1733,
         "value": "Jean-Vincent Placé"
+      },
+      {
+        "id": 1734,
+        "value": "Jean-Pierre Blat"
       }
     ],
     "personnes_morales": [
       {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
         "id": 403,
         "value": "Coriance"
+      },
+      {
+        "id": 404,
+        "value": "Idex"
       }
     ],
     "categorie": [
@@ -2429,12 +2703,24 @@
       {
         "id": 1665,
         "value": "Bruno Bernard"
+      },
+      {
+        "id": 1733,
+        "value": "Jean-Vincent Placé"
+      },
+      {
+        "id": 1734,
+        "value": "Jean-Pierre Blat"
       }
     ],
     "personnes_morales": [
       {
         "id": 403,
         "value": "Coriance"
+      },
+      {
+        "id": 404,
+        "value": "Idex"
       }
     ],
     "categorie": [
@@ -27659,7 +27945,7 @@
     "contenu": "Le procès de Freddy Kaczmarek, l’ancien maire d’Auby, et de Mohamed Zazoua, promoteur immobilier, s’est tenu ce mardi devant le tribunal correctionnel. Les deux hommes, qui nient les faits, étaient jugés notamment pour favoritisme dans la gestion patrimoine immobilier de la commune, entre 2011 et 2018. Le délibéré sera rendu le 13 décembre.",
     "url": "https://www.lavoixdunord.fr/1257279/article/2022-11-22/auby-quatre-ans-de-prison-et-dix-d-ineligibilite-requis-contre-l-ancien-maire",
     "date": "2022-11-22",
-    "etiquettes": "92 – Hauts de Seine,Freddy Kaczmarek,Mohamed Zazoua",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151973,
@@ -27704,7 +27990,7 @@
     "contenu": "Le tribunal de Nanterre a condamné, mardi 22 novembre, l’ancien ministre Claude Guéant à dix-huit mois d’emprisonnement, dont douze assortis d’un sursis probatoire, à l’issue d’un procès où M. Guéant était jugé pour escroquerie des frais concernant sa campagne législative de 2012. Pour la partie ferme de sa peine d’emprisonnement, d’une durée de six mois, le tribunal a prononcé un aménagement de peine, demandant une détention à domicile sous surveillance électronique. M. Guéant, qui était absent lors du délibéré, a également été condamné à une amende de 30 000 euros. L’accusation lui reprochait d’avoir sciemment minoré ses comptes de campagne lorsqu’il était candidat à la députation dans les Hauts-de-Seine en 2012 et d’avoir ainsi obtenu un remboursement de plus de 30 000 euros.",
     "url": "https://www.lemonde.fr/politique/article/2022/11/22/claude-gueant-condamne-a-six-mois-de-prison-ferme-amenages-pour-escroquerie-de-frais-de-campagne_6151079_823448.html",
     "date": "2022-11-22",
-    "etiquettes": "Claude Guéant,Elysée,Les Républicains,Nicolas Sarkozy",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151973,
@@ -27712,6 +27998,10 @@
       }
     ],
     "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
       {
         "id": 1287,
         "value": "Claude Guéant"
@@ -27721,6 +28011,10 @@
       {
         "id": 10,
         "value": "Les Républicains (LR)"
+      },
+      {
+        "id": 29,
+        "value": "Élysée"
       }
     ],
     "categorie": [
@@ -27745,7 +28039,7 @@
     "contenu": "Après la publication d’articles selon lesquels l’ex-épouse d’Eric Ciotti aurait cumulé plusieurs emplois à l’Assemblée, à Nice et au département, une enquête préliminaire a été ouverte pour détournement de fonds publics, a annoncé, mardi 22 novembre, le Parquet national financier (PNF). Cette enquête, également ouverte pour abus de confiance et recel de ces infractions, « a pour but de vérifier le bien-fondé des éléments parus dans la presse ».",
     "url": "https://www.lemonde.fr/politique/article/2022/11/22/emplois-de-l-ex-epouse-d-eric-ciotti-le-parquet-national-financier-ouvre-une-enquete-pour-detournement-de-fonds-publics_6151031_823448.html",
     "date": "2022-11-22",
-    "etiquettes": "06 – Alpes Maritimes,Éric Ciotti,Parquet National Financier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151604,
@@ -27763,6 +28057,10 @@
       }
     ],
     "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
       {
         "id": 10,
         "value": "Les Républicains (LR)"
@@ -27790,7 +28088,7 @@
     "contenu": "Pendant plus de dix ans, la cheffe du service d’ophtalmologie d’Edouard Herriot, Carole Burillon, par ailleurs élue au Grand Lyon, a supervisé un contrat passé avec l’entreprise de son époux qui a fait perdre beaucoup d'argent à l’hôpital public, selon un rapport de la chambre régionale des comptes. Les HCL, dont la gestion est aussi mise en cause, n'envisagent aucune sanction.",
     "url": "https://www.mediacites.fr/enquete/lyon/2022/11/22/les-hospices-civils-de-lyon-enterrent-un-conflit-dinterets-a-500-000-euros/",
     "date": "2022-11-22",
-    "etiquettes": "69 - Rhône,Carole Burillon,Hospices civils de Lyon,Philippe Leynaud",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151715,
@@ -27801,6 +28099,10 @@
       {
         "id": 1894,
         "value": "Carole Burillon"
+      },
+      {
+        "id": 1910,
+        "value": "Philippe Leynaud"
       }
     ],
     "personnes_morales": [
@@ -27831,7 +28133,7 @@
     "contenu": "La Cour de Justice de l’UE, saisie d’une question préjudicielle par un tribunal luxembourgeois, vient de rendre une décision invalidant la disposition de la 5ème directive européenne anti-blanchiment prévoyant que les informations sur les bénéficiaires effectifs des sociétés européennes soient accessibles à tout membre du grand public.\nAlors qu’il n’y a jamais eu autant d’argent sale en circulation dans les places financières, cette décision porte un coup à l’une des mesures de transparence financière les plus importantes des vingt dernières années. L’accès de tous aux registres nationaux des bénéficiaires effectifs est indispensable pour une lutte efficace contre le blanchiment et les paradis fiscaux où se cache l’argent issu de l’évasion fiscale, la corruption et le crime organisé.",
     "url": "https://transparency-france.org/actu/communique-restriction-de-lacces-aux-registres-des-beneficiaires-effectifs-la-decision-de-la-cour-de-justice-de-lue-risque-de-nous-replonger-dans-le-noir-et-lignorance/",
     "date": "2022-11-22",
-    "etiquettes": "Cour de justice de l&#039;Union européenne,Transparency International France",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1283910,
@@ -27840,6 +28142,10 @@
     ],
     "personnalites": [],
     "personnes_morales": [
+      {
+        "id": 279,
+        "value": "Transparency International"
+      },
       {
         "id": 465,
         "value": "Cour de justice de l'Union européenne"
@@ -27867,7 +28173,7 @@
     "contenu": "Le maire d'Issy-les-Moulineaux, André Santini, est visé par une nouvelle plainte pour \"prise illégale d'intérêt\". La plainte a été envoyée ce lundi au parquet de Nanterre par deux ex-collaborateurs du maire. \nEn tant que fonctionnaire, les deux hommes peuvent profiter de la \"protection fonctionnelle\", une assistance juridique dont peut bénéficier un agent public. Sauf qu'André Santini a fait voter au dernier conseil municipal, en sa présence mais sans prendre la parole, cette protection fonctionnelle pour sa défense dans cette affaire de soupçons d'agressions sexuelles. Une décision que ces agents municipaux veulent contester en justice au pénal, car eux ne peuvent pas en profiter, une telle protection n’a pas été proposée au vote par la collectivité.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/andre-santini-vise-par-une-nouvelle-plainte-pour-prise-illegale-d-interet-1669054424",
     "date": "2022-11-21",
-    "etiquettes": "92 – Hauts de Seine,André Santini,Union des démocrates et indépendants",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151973,
@@ -27908,7 +28214,7 @@
     "contenu": "Dans un rapport rendu public le 21 novembre, la Cour des comptes juge sévèrement le contrôle de légalité des actes. Peu de moyens humains et frilosité sont les principaux écueils relevés par les juges de la rue Cambon.",
     "url": "https://www.lagazettedescommunes.com/836712/carton-rouge-pour-le-controle-de-legalite/",
     "date": "2022-11-21",
-    "etiquettes": "Cour des comptes",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -27939,7 +28245,7 @@
     "contenu": "Caroline Magne a cumulé pendant près de dix ans différents emplois avec son poste d’assistante parlementaire auprès de son ex-mari, pour lequel elle a été payée 20 000 euros par an les premières années. Officiellement pour cinq heures hebdomadaires, soit huit fois le smic horaire de l’époque.",
     "url": "https://www.liberation.fr/checknews/cumuls-remunerations-ce-que-revele-le-releve-de-carriere-de-lex-femme-deric-ciotti-20221121_RF3QELEEKVDTNAHCAKWKUGT5KU/?redirected=1",
     "date": "2022-11-21",
-    "etiquettes": "06 – Alpes Maritimes,Caroline Magne,Éric Ciotti,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151604,
@@ -27983,7 +28289,7 @@
     "contenu": "Intime de nombreux politiques, de stars, d’entrepreneurs et d’au moins deux couples présidentiels (les Macron et les Sarkozy), la femme d’affaires et papesse de la presse people Michèle Marchand, déjà au cœur de l’un des volets de l’affaire Kadhafi, a récemment vu son nom apparaître dans le dossier judiciaire des barbouzeries du PSG qui secoue depuis plusieurs semaines le club de foot parisien et, à travers lui, l’État du Qatar, son propriétaire.\nEn épluchant les comptes en banque du principal mis en cause du dossier, le lobbyiste Tayeb Benabderrahmane, poursuivi pour neuf délits présumés, dont la « corruption » et le « trafic d’influence », les enquêteurs ont en effet découvert que l’entreprise de Michèle Marchand lui avait versé, entre mars et juin 2021, un total de 15 000 euros, en trois virements. Problème : personne ne dit aujourd’hui la même chose sur la raison de ces versements.",
     "url": "https://www.mediapart.fr/journal/france/211122/les-obscurs-liens-financiers-de-mimi-marchand-avec-un-mis-en-examen-de-l-affaire-du-psg",
     "date": "2022-11-21",
-    "etiquettes": "Michèle Marchand,PSG,Tayeb Benabderrahmane",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -28082,7 +28388,7 @@
     "contenu": "Saisi par l’avocat de Gaël Perdriau, le président du tribunal judiciaire de Paris a fait injonction à Mediapart de ne pas publier de nouvelles révélations sur les pratiques politiques du maire de Saint-Étienne, après celles du chantage à la sextape. Cette censure préalable, décidée sans débat contradictoire, est une attaque sans précédent contre la liberté de la presse.",
     "url": "https://www.mediapart.fr/journal/france/211122/un-magistrat-ordonne-la-censure-prealable-d-une-enquete-de-mediapart",
     "date": "2022-11-21",
-    "etiquettes": "Gaël Perdriau,Laurent Wauquiez,Mediapart",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151856,
@@ -28094,6 +28400,10 @@
       }
     ],
     "personnalites": [
+      {
+        "id": 1295,
+        "value": "Laurent Wauquiez"
+      },
       {
         "id": 1566,
         "value": "Gaël Perdriau"
@@ -28127,7 +28437,7 @@
     "contenu": "La Corse est en proie à « des dérives mafieuses ». Cette affirmation ne ressort pas d’une note des services de renseignement, mais d’un constat dressé par l’Assemblée de Corse, réunie en session extraordinaire, vendredi 18 novembre, à Ajaccio. A l’issue d’une longue journée de débats, une motion a été adoptée par la majorité des élus nationalistes. Déplorant l’absence de référence à la violence politique dans le texte, la droite ne l’a pas votée.",
     "url": "https://www.lemonde.fr/societe/article/2022/11/19/l-assemblee-de-corse-denonce-les-derives-mafieuses-sur-l-ile_6150611_3224.html",
     "date": "2022-11-19",
-    "etiquettes": "2A – Corse-du-Sud",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151842,
@@ -28163,7 +28473,7 @@
     "contenu": "Un ancien directeur de l’Ehpad public Le Jardin des provinces, à Pessac a été condamné à 2000 euros d’amende avec sursis pour « favoritisme » par le tribunal correctionnel de Bordeaux. L’affaire, signalée par le successeur du directeur puis par un rapport de la Chambre régionale des comptes, visait des travaux de sécurisation (badges, caméras…) et de climatisation réalisés entre décembre 2013 et mars 2015, pour un montant total de 180 000 euros.",
     "url": "https://www.sudouest.fr/gironde/pessac/pessac-un-ancien-directeur-d-ehpad-public-condamne-pour-favoritisme-13025448.php",
     "date": "2022-11-18",
-    "etiquettes": "33 – Gironde",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151847,
@@ -28204,7 +28514,7 @@
     "contenu": "La députée de Paris, élue à l’Assemblée nationale en juin sous les couleurs de la Nouvelle Union populaire écologique et sociale (Nupes) et très proche de Jean-Luc Mélenchon, devrait être convoquée dans les semaines à venir par la justice, qui la soupçonne d’escroquerie aggravée. Un délit passible de sept ans d’emprisonnement et 750 000 euros d’amende. En cause : son rôle dans le financement de la campagne présidentielle du leader des insoumis en 2017, qui fait l’objet d’une information judiciaire dans laquelle plusieurs personnes sont déjà mises en examen.",
     "url": "https://www.liberation.fr/politique/comptes-de-campagne-de-melenchon-en-2017-le-rapport-qui-accable-sophia-chikirou-20221117_TTMMNNTKJNHPHCZIGKOV3QUNSA/?redirected=1",
     "date": "2022-11-17",
-    "etiquettes": "Assemblée Nationale,Jean-Luc Mélenchon,La France Insoumise,Mediascop,Sophia Chikirou",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -28229,6 +28539,10 @@
       {
         "id": 20,
         "value": "La France Insoumise (LFI)"
+      },
+      {
+        "id": 522,
+        "value": "Mediascop"
       }
     ],
     "categorie": [
@@ -28253,7 +28567,7 @@
     "contenu": "L'ex-maire de la commune de Mirepoix-sur-Tarn, Éric Oget, un de ses proches mais aussi un promoteur immobilier et un notaire ont été placés en garde à vue. L'ancien premier magistrat de cette petite commune est suspecté de prise illégale d'intérêt, favoritisme et détournement de fonds publics. Le manque à gagner pour ce bourg de 1000 habitants s'élèverait à plus de 400 000€.",
     "url": "https://www.ladepeche.fr/2022/11/17/info-la-depeche-lex-maire-de-mirepoix-sur-tarn-un-promoteur-et-un-notaire-places-en-garde-a-vue-10809445.php",
     "date": "2022-11-17",
-    "etiquettes": "31 - Haute-Garonne,Éric Oget",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151845,
@@ -28294,7 +28608,7 @@
     "contenu": "Il est reproché à l’ancien élu d’avoir acquis, en 2015, une voiture du conseil départemental à un tarif défiant toute concurrence. Des faits qui ont conduit Yves Rome à comparaître ce jeudi 17 novembre devant le tribunal. Le jugement a été mis en délibéré.",
     "url": "https://www.courrier-picard.fr/id361484/article/2022-11-17/yves-rome-ancien-president-du-departement-de-loise-juge-pour-prise-illegale",
     "date": "2022-11-17",
-    "etiquettes": "60 - Oise,Yves Rome",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151959,
@@ -28332,44 +28646,28 @@
   {
     "id": 1094,
     "titre": "Affaire des indemnités des élus de Cholet : premier revers pour Gilles Bourdouleix et la majorité",
-    "contenu": "ans une décision rendue publique ce jeudi 16 novembre, le tribunal administratif de Nantes a annulé une délibération votée le 3 juillet 2020 par la Ville de Cholet. Celle qui fixe le calcul et le montant des indemnités du maire, de ses adjoints et des conseillers municipaux de la majorité. La justice demande aux élus de rendre les \"indemnités indûment perçues\" entre le 3 juillet 2020 et le 11 octobre, date à laquelle le conseil municipal a revu à la baisse l’enveloppe des élus.",
+    "contenu": "Dans une décision rendue publique jeudi 16 novembre, le tribunal administratif de Nantes a annulé une délibération votée le 3 juillet 2020 par la Ville de Cholet. Celle qui fixe le calcul et le montant des indemnités du maire, de ses adjoints et des conseillers municipaux de la majorité. La justice demande aux élus de rendre les \"indemnités indûment perçues\" entre le 3 juillet 2020 et le 11 octobre, date à laquelle le conseil municipal a revu à la baisse l’enveloppe des élus.",
     "url": "https://www.ouest-france.fr/pays-de-la-loire/cholet-49300/indemnites-des-elus-de-cholet-premier-revers-judiciaire-pour-gilles-bourdouleix-et-la-majorite-e9889b56-6592-11ed-99f7-ff635cefa28e",
     "date": "2022-11-16",
-    "etiquettes": "49 - Maine-et-Loire,Anticor,Gilles Bourdouleix",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151951,
         "value": "49 - Maine-et-Loire"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": null,
-    "a_la_une": false
-  },
-  {
-    "id": 1088,
-    "titre": "Auribeau : peine de prison avec sursis pour les ex-époux Paganin",
-    "contenu": "La maire d’Auribeau, Michèle Pecquereau, poursuivie à titre privé pour recel de bien, et son ex-mari Marc Paganin, pour « exécution d’un travail dissimulé, altération frauduleuse de la vérité dans un écrit et blanchiment par concours à une opération de placement, dissimulation ou conversion du produit d’un délit de fraude fiscale » ont été condamnés ce mardi par le tribunal judiciaire de Grasse à de la prison avec sursis.",
-    "url": "https://www.nicematin.com/justice/auribeau-peine-de-prison-avec-sursis-pour-les-ex-epoux-paganin-807991",
-    "date": "2022-11-16",
-    "etiquettes": "06 – Alpes Maritimes,Marc Paganin,Michèle Pecquereau",
-    "departement": [
-      {
-        "id": 1151604,
-        "value": "06 - Alpes-Maritimes"
-      }
-    ],
     "personnalites": [
       {
-        "id": 1906,
-        "value": "Michèle Pecquereau"
+        "id": 1603,
+        "value": "Gilles Bourdouleix"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -28382,12 +28680,52 @@
     "a_la_une": false
   },
   {
+    "id": 1088,
+    "titre": "Auribeau : peine de prison avec sursis pour les ex-époux Paganin",
+    "contenu": "La maire d’Auribeau, Michèle Pecquereau, poursuivie à titre privé pour recel de bien, et son ex-mari Marc Paganin, pour « exécution d’un travail dissimulé, altération frauduleuse de la vérité dans un écrit et blanchiment par concours à une opération de placement, dissimulation ou conversion du produit d’un délit de fraude fiscale » ont été condamnés ce mardi par le tribunal judiciaire de Grasse à de la prison avec sursis.",
+    "url": "https://www.nicematin.com/justice/auribeau-peine-de-prison-avec-sursis-pour-les-ex-epoux-paganin-807991",
+    "date": "2022-11-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1470,
+        "value": "Marc Paganin"
+      },
+      {
+        "id": 1906,
+        "value": "Michèle Pecquereau"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": null,
+    "a_la_une": false
+  },
+  {
     "id": 1085,
     "titre": "Deux ex-assistants de Mélenchon au Parlement européen placés sous le statut de témoin assisté",
     "contenu": "Deux ex-assistants de Jean-Luc Mélenchon au Parlement européen ont été placés en mai sous le statut intermédiaire de témoin assisté dans l'information judiciaire menée à Paris sur des soupçons de détournement de fonds public visant le Parti de gauche, faute d'\"élément d'incrimination\" à ce stade, selon leur défense.\nLaurent Maffeis et Aigline de Causans, qui ont été assistants parlementaires de M. Mélenchon entre 2009 et 2017, ont été interrogés par les juges d'instruction chargés de ces investigations respectivement les 13 et 16 mai, a appris mardi l'AFP de sources proches du dossier.\nCe sont les premières personnes et les seules à ce jour à avoir été entendues par les magistrats instructeurs depuis l'ouverture de cette information judiciaire en novembre 2018.",
     "url": "https://www.nouvelobs.com/politique/20221115.AFP5477/deux-ex-assistants-de-melenchon-au-parlement-europeen-places-sous-le-statut-de-temoin-assiste.html",
     "date": "2022-11-16",
-    "etiquettes": "Jean-Luc Mélenchon,La France Insoumise,Parti de Gauche",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -28416,6 +28754,10 @@
       {
         "id": 75,
         "value": "Parlement Européen"
+      },
+      {
+        "id": 523,
+        "value": "Parti de gauche (PG)"
       }
     ],
     "categorie": [
@@ -28440,7 +28782,7 @@
     "contenu": "Selon le journal satirique Le Canard Enchaîné publié ce mercredi, si Éric Ciotti avait embauché son ex-femme, Caroline Magne, comme assistante parlementaire, elle aurait cumulé d'autres emplois en même temps, notamment au cabinet du maire de Nice, Christian Estrosi, et au Conseil départemental des Alpes-Maritimes. ",
     "url": "https://www.francebleu.fr/infos/politique/l-ex-femme-d-eric-ciotti-cumulait-les-emplois-selon-le-canard-enchaine-1668573268",
     "date": "2022-11-16",
-    "etiquettes": "06 – Alpes Maritimes,Caroline Magne,Christian Estrosi,Éric Ciotti,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151604,
@@ -28489,7 +28831,7 @@
     "contenu": "Au lendemain de la relaxe prononcée au bénéfice de Cathy Münsch dans l'affaire des détournements de fonds de l'Apajh 37, le parquet général de la Cour d'appel d'Orléans annonce se pourvoir en cassation. Il y aura un troisième procès pour l'ancienne première adjointe à la mairie de Tours.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/relaxe-de-cathy-munsch-le-parquet-general-se-pourvoit-en-cassation-1668595747",
     "date": "2022-11-16",
-    "etiquettes": "37 - Indre-et-Loire,APAHJ 37,Cathy Münsch-Masset",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151851,
@@ -28534,18 +28876,46 @@
     "contenu": "Le maire de Saint-Denis Mathieu Hanotin et son deuxième adjoint aux sports sont visés par une plainte, déposée le 2 novembre dernier, par l’association MaMaMa. Mathieu Hanotin annonce porter plainte pour \"dénonciation calomnieuse\".",
     "url": "https://www.radiofrance.fr/franceinter/une-association-depose-plainte-contre-le-maire-de-saint-denis-pour-trafic-d-influence-et-corruption-passive-2277891",
     "date": "2022-11-16",
-    "etiquettes": "93 – Seine Saint Denis,Mathieu Hanotin,Parti Socialiste,Shems El Khalfaoui",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151972,
         "value": "93 - Seine-Saint-Denis"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1908,
+        "value": "Mathieu Hanotin"
+      },
+      {
+        "id": 1909,
+        "value": "Shems El Khalfaoui"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 520,
+        "value": "MaMaMa"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -28555,7 +28925,7 @@
     "contenu": "La conseillère municipale et métropolitaine de Tours, ex-première adjointe au maire, Cathy Münsch-Masset, vient d'être relaxée en appel par le tribunal d'Orléans dans l'affaire du détournement de fonds de l'association APAHJ 37. Lors de son procès en appel, l'avocate générale avait pourtant requis 18 mois de prison dont 10 mois fermes, la confiscation de l'immeuble lui appartenant rue Trianon à Tours, et 5 ans d'inéligibilité. ",
     "url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/indre-loire/tours/tours-cathy-munsch-relaxee-en-appel-dans-l-affaire-des-detournements-de-fonds-de-l-apajh-37-2655316.html",
     "date": "2022-11-15",
-    "etiquettes": "37 - Indre-et-Loire,APAHJ 37,Cathy Münsch-Masset",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151851,
@@ -28600,18 +28970,42 @@
     "contenu": "Gilles Quinquenel a finalement été reconnu coupable par la cour d’appel de Caen du délit de « concussion ». Alors qu’il avait été relaxé en mars 2021 par le tribunal de Coutances, le maire de Thèreval et ancien vice-président du Département de la Manche a été condamné à 30 000 € d’amende. En revanche, il ne lui est pas interdit d’exercer une fonction publique.\nPour rappel, le parquet avait reproché à cet élu de 67 ans d’avoir continué à toucher sa rémunération d’ingénieur à la Direction départementale des Affaires sanitaires et sociales (Ddass) puis l’Agence régionale de santé (ARS) sans pour autant effectuer les heures de travail pour lesquelles il était rémunéré, soit un montant de « 210 000 € en treize ans ».",
     "url": "https://actu.fr/normandie/thereval_50239/manche-un-maire-condamne-a-30-000-d-amende-pour-un-emploi-fictif_55195087.html",
     "date": "2022-11-15",
-    "etiquettes": "50 – Manche,Agence Régionale de Santé,Direction départementale des Affaires sanitaires et sociales,Gilles Quinquenel",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151952,
         "value": "50 - Manche"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1907,
+        "value": "Gilles Quinquenel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 518,
+        "value": "Direction départementale des Affaires sanitaires et sociales (DDASS)"
+      },
+      {
+        "id": 519,
+        "value": "Agence régionale de santé (ARS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -28622,14 +29016,28 @@
     "url": "https://www.marianne.net/politique/lrem/alerte-pantouflage-feu-vert-avec-reserves-pour-lex-ministre-muriel-penicaud-qui-rejoint-manpower",
     "date": "2022-11-15",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 1477,
         "value": "Muriel Pénicaud"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 79,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 525,
+        "value": "Manpower"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -28647,7 +29055,7 @@
     "contenu": "La ministre de la Transition énergétique, Agnès Pannier-Runacher, ne pourra pas s'occuper de sujets liés à trois sociétés, y compris l'entreprise pétrolière Perenco dont son père a été un dirigeant, selon un décret paru mardi 15 novembre au Journal officiel. Afin de prévenir tout conflit d'intérêt, le décret précise que la ministre \"ne connaît pas des actes de toute nature relatifs au groupe Défense conseil international, au groupe EP2C et au groupe Perenco\".",
     "url": "https://www.francetvinfo.fr/politique/gouvernement-d-elisabeth-borne/soupcons-de-conflits-d-interets-un-decret-empeche-la-ministre-agnes-pannier-runacher-d-etre-en-lien-avec-l-entreprise-petroliere-perenco-que-son-pere-a-dirigee_5478006.html",
     "date": "2022-11-15",
-    "etiquettes": "Agnès Pannier-Runacher,EP2C,Gouvernement Élisabeth Borne,Ministère de l&#039;Écologie,Perenco",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -28660,14 +29068,36 @@
         "value": "Agnès Pannier-Runacher"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 198,
+        "value": "Ministère de l'Écologie"
+      },
+      {
+        "id": 214,
+        "value": "Perenco"
+      },
+      {
+        "id": 521,
+        "value": "Défense conseil international (DCI)"
+      },
+      {
+        "id": 524,
+        "value": "EP2C Energy"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1312992,
+        "value": "Énergie"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -28675,19 +29105,34 @@
   {
     "id": 1089,
     "titre": "Affaire de la Couronnerie : Jean-François Bordat se pourvoit en Cassation",
-    "contenu": "L'affaire de la Couronnerie n'est pas tout à fait terminée. Jean-François Bordat, l'ancien directeur de l'entreprise d'insertion de Saint-Pryvé-St-Mesmin a décidé de se pourvoir en Cassation : \"J'ai formalisé le pourvoi ce lundi\", précise son avocat Me Bruno Césaréo. Le pourvoi est suspensif : le jugement rendu par la Cour d'appel d'Orléans ne s'appliquera donc pas immédiatement.",
+    "contenu": "L'affaire de la Couronnerie n'est pas tout à fait terminée. Jean-François Bordat, l'ancien directeur de l'entreprise d'insertion de Saint-Pryvé-St-Mesmin a décidé de se pourvoir en Cassation. Le pourvoi est suspensif : le jugement rendu par la Cour d'appel d'Orléans ne s'appliquera donc pas immédiatement.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/affaire-de-la-couronnerie-jean-francois-bordat-se-pourvoit-en-cassation-1668420967",
     "date": "2022-11-14",
-    "etiquettes": "45 - Loiret,Jean-François Bordat,La Couronnerie",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151948,
         "value": "45 - Loiret"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1916,
+        "value": "Jean-François Bordat"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 527,
+        "value": "La Couronnerie"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -28700,16 +29145,36 @@
     "url": "https://www.francetvinfo.fr/politique/info-franceinfo-une-haute-fonctionnaire-soupconnee-de-conflit-d-interet-avec-le-lobby-de-la-peche-thoniere_5474799.html",
     "date": "2022-11-14",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1871,
+        "value": "Anne-France Mattlet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 498,
+        "value": "Europêche"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1313001,
+        "value": "Pêche"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -28720,32 +29185,121 @@
     "contenu": "En 2010, l’attribution de la compétition à la monarchie gazière s’est-elle jouée au cours d’un déjeuner à l’Elysée ? La justice française suspecte un pacte corruptif qui aurait pu donner lieu à des renvois d’ascenseur.",
     "url": "https://www.lemonde.fr/societe/article/2022/11/14/attribution-du-mondial-au-qatar-nicolas-sarkozy-michel-platini-et-le-rachat-du-psg-au-c-ur-de-l-enquete-de-la-justice-francaise_6149853_3224.html",
     "date": "2022-11-14",
-    "etiquettes": "Claude Guéant,Elysée,Hamad Ben Khalifa Al Thani,Les Républicains,Michel Platini,Nicolas Sarkozy,PSG,Sepp Blatter,Sophie Dion",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1226729,
+        "value": "Qatar"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1287,
+        "value": "Claude Guéant"
+      },
+      {
+        "id": 1464,
+        "value": "Michel Platini"
+      },
+      {
+        "id": 1911,
+        "value": "Hamad Ben Khalifa Al Thani"
+      },
+      {
+        "id": 1912,
+        "value": "Sepp Blatter"
+      },
+      {
+        "id": 1913,
+        "value": "Sophie Dion"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 10,
+        "value": "Les Républicains (LR)"
+      },
+      {
+        "id": 29,
+        "value": "Élysée"
+      },
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1086,
     "titre": "Cité du design de Saint-Étienne : une enquête préliminaire ouverte notamment pour détournement de fonds publics",
-    "contenu": "Le parquet de Saint-Étienne (Loire) a ouvert une enquête préliminaire la semaine dernière pour détournement de fonds publics, abus de bien social ou encore faux et usage de faux document administratif, a indiqué lundi 14 novembre le procureur de la République de Saint-Étienne à franceinfo. Cette enquête fait suite à un signalement visant Thierry Mandon, ancien directeur général de la Cité du design de Saint-Étienne.\nLe procureur David Charmatz avait reçu mardi 8 novembre un signalement de la part de Marc Chassaubéné, président du conseil d'administration de la Cité du design. Ce dernier affirmait que Thierry Mandon aurait détourné environ 30 000 euros, grâce à un système de fausses factures qui transitaient par la filiale économique de la Cité du design.",
+    "contenu": "Le parquet de Saint-Étienne (Loire) a ouvert une enquête préliminaire la semaine dernière pour détournement de fonds publics, abus de bien social ou encore faux et usage de faux document administratif. Cette enquête fait suite à un signalement visant Thierry Mandon, ancien directeur général de la Cité du design de Saint-Étienne.\nLe procureur David Charmatz avait reçu mardi 8 novembre un signalement de la part de Marc Chassaubéné, président du conseil d'administration de la Cité du design. Ce dernier affirmait que Thierry Mandon aurait détourné environ 30 000 euros, grâce à un système de fausses factures qui transitaient par la filiale économique de la Cité du design.",
     "url": "https://www.francetvinfo.fr/faits-divers/justice-proces/cite-du-design-de-saint-etienne-une-enquete-preliminaire-ouverte-notamment-pour-detournement-de-fonds-publics_5476686.html",
     "date": "2022-11-14",
-    "etiquettes": "42 – Loire,Cité du Design,Parti Socialiste,Thierry Mandon",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151856,
         "value": "42 - Loire"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1914,
+        "value": "Thierry Mandon"
+      },
+      {
+        "id": 1915,
+        "value": "Marc Chassaubéné"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 526,
+        "value": "Cité du design (Saint-Étienne)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -28757,18 +29311,33 @@
     "contenu": "Alors qu’ils sont poursuivis pour faux et usage de faux en écriture publique et détournement de fonds publics, Jean-Luc Pallin, l’ancien maire du Temple, et Annette Lagueyte, sa secrétaire de mairie, auraient dû comparaître devant le tribunal correctionnel de Bordeaux à la date du jeudi 9 septembre 2021. Le procès a été renvoyé au 30 mars 2023.\nRappelons que cette affaire de la mairie du Temple avait éclaté quelques mois avant les élections municipales de 2020. Jean-Luc Pallin, alors maire du Temple, s’était retrouvé dans la tourmente. Après quelques investigations faites par une adjointe, Françoise Halard, sur le fonctionnement de la mairie, une partie de son Conseil municipal avait notamment reproché à l’édile d’avoir accordé certaines largesses à sa secrétaire de mairie.",
     "url": "https://www.sudouest.fr/gironde/lesparre-medoc/le-temple-le-proces-de-l-ancien-maire-du-temple-et-de-la-secretaire-de-mairie-renvoye-pour-la-troisieme-fois-12974478.php",
     "date": "2022-11-14",
-    "etiquettes": "33 – Gironde,Jean-Luc Pallin",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151847,
         "value": "33 - Gironde"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1471,
+        "value": "Jean-Luc Pallin"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -28778,15 +29347,47 @@
     "contenu": "Selon un rapport de synthèse d’enquêteurs de la DGSI et de l’IGPN, consulté par Libération, d’anciens proches du président du PSG assurent qu’il aurait « fait le ménage » sur des informations susceptibles d’alimenter les investigations judiciaires sur l’attribution de compétitions sportives au Qatar.",
     "url": "https://www.liberation.fr/societe/police-justice/nasser-al-khelaifi-accuse-davoir-detruit-des-dossiers-compromettants-pour-le-qatar-20221112_FUUJVK344JFLHNR732LSFVSKRM/",
     "date": "2022-11-12",
-    "etiquettes": "Fifa,Nasser al-Khelaïfi,PSG",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1226729,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1597,
+        "value": "Nasser al-Khelaïfi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 199,
+        "value": "Fédération internationale de football association (FIFA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [
       {
         "id": 1307112,
         "value": "Police"
+      },
+      {
+        "id": 1152773,
+        "value": "Sport"
       }
     ],
     "procedure": [],
@@ -28799,19 +29400,61 @@
     "contenu": "À la suite des révélations de L'Équipe sur de possibles dérapages financiers au sommet du GIP France 2023 du temps de Claude Atcher, le parquet national financier a ouvert une enquête préliminaire. Une perquisition au comité d'organisation de la Coupe du monde a lieu ce mercredi.",
     "url": "https://www.lequipe.fr/Rugby/Actualites/Comite-d-organisation-de-la-coupe-du-monde-2023-le-parquet-national-financier-ouvre-une-enquete/1363915",
     "date": "2022-11-11",
-    "etiquettes": "Claude Atcher,France 2023,Parquet National Financier",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1525,
+        "value": "Claude Atcher"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 266,
+        "value": "Inspection générale des finances"
+      },
+      {
+        "id": 270,
+        "value": "France 2023"
+      },
+      {
+        "id": 462,
+        "value": "Inspection générale de l'éducation, du sport et de la recherche (IGESR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
   {
     "id": 1497,
-    "titre": "Cédric O",
+    "titre": "Cédric O va lancer son fonds d’investissement",
     "contenu": "L’ancien secrétaire d’Etat chargé de la Transition numérique et des Communications électroniques dans le gouvernement Édouard Philippe prépare discrètement la création d’un fonds d’investissement destiné à soutenir les start-up en forte croissance. La taille du véhicule serait comprise entre 500 millions et un milliard d’euros.",
     "url": "https://www.linforme.com/banque-finance/article/cedric-o-va-lancer-son-fonds-d-investissement_119.html",
     "date": "2022-11-10",
@@ -28828,7 +29471,12 @@
         "value": "Cédric O"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 79,
+        "value": "La République En Marche (LREM)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -28846,12 +29494,37 @@
     "contenu": "Un bataillon de fiscalistes, un contrat possiblement antidaté et des sociétés-écrans dans les Caraïbes. Tels sont les ingrédients de l’opération qui a permis à Patrick Drahi d’éviter de payer le moindre euro d’impôt sur la cession de son immense collection d’œuvres d’art, estimée à au moins 750 millions d’euros. Une optimisation fiscale agressive, aux limites de la légalité, selon l’enquête du Monde et du magazine suisse Heidi.news.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2022/11/10/des-picasso-dans-les-caraibes-les-man-uvres-de-patrick-drahi-pour-ne-pas-payer-d-impots-sur-ses-uvres-d-art_6149348_4355770.html#xtor=AL-32280270-%5Btwitter%5D-%5Bios%5D",
     "date": "2022-11-10",
-    "etiquettes": "Altice,Patrick Drahi",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1384,
+        "value": "Patrick Drahi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 144,
+        "value": "Altice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1316425,
+        "value": "Télécommunications"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -28862,7 +29535,7 @@
     "contenu": "Le ministère public a demandé 100.000 euros d'amende contre la mairie de Calvi pour atteinte à l'égalité des candidats dans les marchés publics, et 200.000 euros contre Total Corse pour recel du produit d'un délit. Le délibéré est attendu le 14 décembre prochain.",
     "url": "https://france3-regions.francetvinfo.fr/corse/haute-corse/calvi/justice-100-000-euros-d-amende-requis-contre-la-mairie-de-calvi-et-200-000-euros-contre-total-corse-dans-le-dossier-de-la-dsp-du-port-de-calvi-2652080.html",
     "date": "2022-11-10",
-    "etiquettes": "2B – Haute Corse,Total",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151843,
@@ -28870,10 +29543,25 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 161,
+        "value": "TotalEnergies"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -28883,16 +29571,26 @@
     "contenu": "Le tribunal a condamné Henri Furrer à 15 000 euros d’amende avec sursis et un an d’inéligibilité pour avoir voté une délibération liée à un projet de maison de santé dans laquelle il a un temps envisagé de s’installer.",
     "url": "https://www.sudouest.fr/gironde/libourne/guitres-un-ancien-elu-coupable-d-une-prise-illegale-d-interets-12931824.php",
     "date": "2022-11-10",
-    "etiquettes": "33 – Gironde,Henri Furrer",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151847,
         "value": "33 - Gironde"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1922,
+        "value": "Henri Furrer"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -28904,18 +29602,43 @@
     "contenu": "Soupçonnée d'abus de biens sociaux, abus de confiance et détournement de fonds publics, Joëlle Kerivin devait être jugée le 17 novembre prochain. Le procès de l'ancienne dirigeante du festival de musique classique nantais devrait finalement être renvoyé.",
     "url": "https://www.mediacites.fr/breve/nantes/2022/11/10/malversations-financieres-a-la-folle-journee-de-nantes-proces-reporte-pour-lancienne-directrice/",
     "date": "2022-11-10",
-    "etiquettes": "44 – Loire-Atlantique,Joëlle Kerivin,La Folle Journée",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151947,
         "value": "44 - Loire-Atlantique"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 1917,
+        "value": "Joëlle Kerivin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 528,
+        "value": "La Folle Journée"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1313000,
+        "value": "Événementiel"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -28925,16 +29648,26 @@
     "contenu": "Prévenu de prise illégale d’intérêt pour avoir attribué un logement d’urgence de sa commune à sa fille, le maire de Sassenage, Christian Coigné, était jugé en appel le 15 septembre dernier. En première instance, il avait écopé de 2 000 euros d’amende et de la privation de son droit d’éligibilité pendant deux ans. Il dit se pourvoir en cassation.",
     "url": "https://www.ledauphine.com/faits-divers-justice/2022/11/10/isere-le-maire-de-sassenage-condamne-en-appel-pour-prise-illegale-d-interets",
     "date": "2022-11-10",
-    "etiquettes": "38 - Isère,Christian Coigné",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151852,
         "value": "38 - Isère"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1921,
+        "value": "Christian Coigné"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -28946,16 +29679,34 @@
     "contenu": "Mardi 8 novembre 2022, trois anciens élus du conseil municipal ont été placés pendant quelques heures en garde à vue. Il s’agit de Gérard Izard et sa compagne Lydie Sourdouyre, respectivement premier et deuxième adjoint de 2020 à 2022, et du fils du premier, Jonathan Izard, élu de la commune de 2021 à 2022. Le parquet de Toulouse précise qu’une quatrième personne a aussi été entendue par les gendarmes sous le même statut. L'enquête porte sur un projet photovoltaïque avec des soupçons de prise illégale d'intérêt et un possible faux dans un document administratif.",
     "url": "https://actu.fr/occitanie/avignonet-lauragais_31037/projet-photovoltaique-a-avignonet-lauragais-trois-anciens-elus-ont-ete-places-en-garde-a-vue_50076349.html",
     "date": "2022-11-10",
-    "etiquettes": "31 - Haute-Garonne,Gérard Izard,Jonathan Izard,Lydie Sourdouyre",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151845,
         "value": "31 - Haute-Garonne"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1918,
+        "value": "Gérard Izard"
+      },
+      {
+        "id": 1919,
+        "value": "Jonathan Izard"
+      },
+      {
+        "id": 1920,
+        "value": "Lydie Sourdouyre"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -29020,7 +29771,7 @@
     "contenu": "Les magistrats ne peuvent pas annuler un procès au motif que l’enquête qui l’a précédé a traîné en longueur. La Cour de cassation, plus haute juridiction française, a cassé ce mercredi l’annulation du procès dit de « la chaufferie de la Défense », une vaste affaire de corruption à Puteaux qui devait être jugée en janvier 2021 au terme de vingt années d’enquête.\nAvant que la Cour de cassation ne soit saisie, le tribunal correctionnel de Nanterre, puis la cour d’appel de Versailles, avaient annulé la procédure, donnant raison aux avocats de la défense qui plaidaient la violation du « délai raisonnable ».\nAinsi, les juges du quai de l’Horloge renvoient le dossier devant la cour d’appel de Versailles. Peu importe qu’un prévenu soit décédé, qu’un autre souffre de la maladie de Parkinson et qu’un troisième soit presque centenaire. L’affaire de « la chaufferie de la Défense », aussi ancienne soit-elle, sera bien jugée.",
     "url": "https://www.liberation.fr/societe/police-justice/un-proces-ne-peut-etre-annule-pour-delai-deraisonnable-denquete-tranche-la-justice-20221109_TMYJHAQS4VGOLIEOU6MQU3HVQI/?redirected=1",
     "date": "2022-11-09",
-    "etiquettes": "92 – Hauts de Seine,Charles Ceccaldi,Cour de cassation,Joëlle Ceccaldi-Raynaud",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151973,
@@ -29039,6 +29790,10 @@
       {
         "id": 1191,
         "value": "Charles Ceccaldi-Raynaud"
+      },
+      {
+        "id": 1923,
+        "value": "Joëlle Ceccaldi-Raynaud"
       }
     ],
     "personnes_morales": [
@@ -29049,9 +29804,18 @@
       {
         "id": 101,
         "value": "Compagnie générale des eaux"
+      },
+      {
+        "id": 196,
+        "value": "Cour de cassation"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -33099,7 +33863,12 @@
     "date": "2022-07-12",
     "etiquettes": "Alexandre Benalla,Anticor,Élysée",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1577,
+        "value": "Alexandre Benalla"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -38461,7 +39230,12 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1577,
+        "value": "Alexandre Benalla"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -41198,7 +41972,12 @@
     "date": "2021-09-30",
     "etiquettes": "Alexandre Benalla,Elysée,La République En Marche,Vincent Crase",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1577,
+        "value": "Alexandre Benalla"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -46600,7 +47379,12 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1577,
+        "value": "Alexandre Benalla"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -49418,7 +50202,12 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1577,
+        "value": "Alexandre Benalla"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
