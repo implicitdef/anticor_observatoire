@@ -89,6 +89,79 @@
     "a_la_une": true
   },
   {
+    "id": 1930,
+    "titre": "Nicolas Sarkozy condamné en appel : de l’affaire Bygmalion à celle des comptes de campagne du président-candidat",
+    "contenu": "Deux ans d’emprisonnement, dont six mois ferme, ont été prononcés contre l’ancien directeur de campagne Guillaume Lambert, son adjoint Jérôme Lavrilleux, l’ex-directeur général de l’UMP (devenue Les républicains) Eric Cesari, l’ex-directrice financière du parti Fabienne Liadzé, l’ex-directeur de la communication Pierre Chassat, ainsi que contre l’avocat Philippe Blanchetier, trésorier de la campagne, et l’expert-comptable Pierre Godet.",
+    "url": "https://www.lemonde.fr/societe/article/2024/02/14/nicolas-sarkozy-condamne-en-appel-de-l-affaire-bygmalion-a-celle-des-comptes-de-campagne-du-president-candidat_6216554_3224.html",
+    "date": "2024-02-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1536,
+        "value": "Guillaume Lambert"
+      },
+      {
+        "id": 1556,
+        "value": "Jérôme Lavrilleux"
+      },
+      {
+        "id": 1930,
+        "value": "Eric Cesari"
+      },
+      {
+        "id": 1931,
+        "value": "Fabienne Liadzé"
+      },
+      {
+        "id": 1932,
+        "value": "Pierre Chassat"
+      },
+      {
+        "id": 1933,
+        "value": "Philippe Blanchetier"
+      },
+      {
+        "id": 1934,
+        "value": "Pierre Godet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 257,
+        "value": "Bygmalion"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "Nicolas Sarkozy condamné en appel dans l'affaire Bygmalion",
+    "a_la_une": true
+  },
+  {
     "id": 1921,
     "titre": "5 000 euros d'amende et 6 mois d'inéligibilité avec sursis requis contre Eric Straumann",
     "contenu": "Eric Straumann, maire de Colmar, est accusé de tentative de détournement de fonds publics. 6 mois d'emprisonnement avec sursis et trois ans d'inéligibilité ont aussi été requis contre Joël Munsch, ancien directeur de cabinet de Gilbert Meyer, pour complicité de tentative de détournement de fonds publics.",
@@ -114,7 +187,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -418,7 +491,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 220,
@@ -949,7 +1022,7 @@
       },
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -1047,7 +1120,7 @@
       },
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 106,
@@ -1240,7 +1313,7 @@
       },
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -1862,7 +1935,7 @@
       },
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -2495,7 +2568,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -4163,7 +4236,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 75,
@@ -4613,7 +4686,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -8322,7 +8395,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 170,
@@ -8948,7 +9021,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -9110,7 +9183,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -11489,7 +11562,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -13010,7 +13083,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 257,
@@ -16790,7 +16863,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 29,
@@ -17266,7 +17339,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -19071,7 +19144,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 220,
@@ -19920,7 +19993,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -20282,7 +20355,7 @@
       },
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 29,
@@ -20370,7 +20443,7 @@
       },
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 251,
@@ -20799,7 +20872,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -21136,7 +21209,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -21176,7 +21249,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 40,
@@ -21392,7 +21465,7 @@
       },
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -21516,7 +21589,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -22662,7 +22735,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 76,
@@ -22815,7 +22888,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -22948,7 +23021,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -23371,7 +23444,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 343,
@@ -23428,7 +23501,7 @@
       },
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -23473,7 +23546,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 352,
@@ -26066,7 +26139,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -26269,7 +26342,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 163,
@@ -26579,7 +26652,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 29,
@@ -27303,7 +27376,7 @@
       },
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 40,
@@ -27854,7 +27927,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 49,
@@ -28010,7 +28083,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 29,
@@ -28063,7 +28136,7 @@
       },
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -28269,7 +28342,7 @@
       },
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -28806,7 +28879,7 @@
       },
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -29229,7 +29302,7 @@
       },
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       },
       {
         "id": 29,
@@ -30897,7 +30970,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -48961,7 +49034,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [],
@@ -49070,7 +49143,7 @@
     "personnes_morales": [
       {
         "id": 10,
-        "value": "Les Républicains (LR)"
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [],
