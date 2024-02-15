@@ -12,8 +12,46 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1228,
+        "value": "Jean-Pierre Duthion"
+      },
+      {
+        "id": 1443,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 1597,
+        "value": "Nasser al-Khelaïfi"
+      },
+      {
+        "id": 1937,
+        "value": "Djamel Bouras"
+      },
+      {
+        "id": 1938,
+        "value": "Jérôme Cazadieu"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 513,
+        "value": "Mediapart"
+      },
+      {
+        "id": 538,
+        "value": "Digital Big Brother (DBB)"
+      },
+      {
+        "id": 539,
+        "value": "L'Équipe"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -28,6 +66,135 @@
     ],
     "procedure": [],
     "titre_corrige": "Barbouzeries autour du PSG : Digital Big Brother, une agence au cœur des réseaux d’influence",
+    "a_la_une": false
+  },
+  {
+    "id": 1932,
+    "titre": "Les partis de Laurent Hénart et Jean Lassalle sanctionnés pour leurs comptes de campagne",
+    "contenu": "Dans son avis publié le 9 février, la Commission nationale des comptes de campagne et des financements politiques (CNCCFP) épingle deux mouvements nationaux, le Parti radical et Résistons !.",
+    "url": "https://www.lalettre.fr/fr/action-publique_partis-et-elections/2024/02/15/les-partis-de-laurent-henart-et-jean-lassalle-sanctionnes-pour-leurs-comptes-de-campagne,110159055-bre",
+    "date": "2024-02-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1935,
+        "value": "Jean Lassale"
+      },
+      {
+        "id": 1936,
+        "value": "Laurent Hénart"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 191,
+        "value": "Commission nationale des comptes de campagne et des financements politiques (CNCCFP)"
+      },
+      {
+        "id": 535,
+        "value": "Parti radical (PR)"
+      },
+      {
+        "id": 536,
+        "value": "Résistons !"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1935,
+    "titre": "Un député écologiste cité dans une affaire d’ingérence étrangère et de corruption",
+    "contenu": "Il y a un an, l’enquête Story Killers révélait qu’un journaliste de BFMTV avait été licencié pour avoir diffusé des informations servant des intérêts étrangers. L’enquête s’est orientée vers une affaire de corruption dans laquelle apparaît le nom du député Hubert Julien-Laferrière.",
+    "url": "https://www.francetvinfo.fr/monde/story-killers/enquete-un-depute-ecologiste-cite-dans-une-affaire-d-ingerence-etrangere-et-de-corruption_6365917.html",
+    "date": "2024-02-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1318545,
+        "value": "Israël"
+      },
+      {
+        "id": 1252743,
+        "value": "Maroc"
+      },
+      {
+        "id": 1226729,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 295,
+        "value": "Hubert Julien-Laferrière"
+      },
+      {
+        "id": 1228,
+        "value": "Jean-Pierre Duthion"
+      },
+      {
+        "id": 1241,
+        "value": "Rachid M’Barki"
+      },
+      {
+        "id": 1772,
+        "value": "Nabil Enassri"
+      },
+      {
+        "id": 1940,
+        "value": "Tal Hanan"
+      },
+      {
+        "id": 1941,
+        "value": "Jonathan-Simon Sellem"
+      },
+      {
+        "id": 1942,
+        "value": "Rania Eddaqaq"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 83,
+        "value": "BFM TV"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "Le député écologiste Hubert Julien-Laferrière cité dans une affaire d’ingérence étrangère et de corruption",
     "a_la_une": false
   },
   {
@@ -120,6 +287,47 @@
     "a_la_une": true
   },
   {
+    "id": 1934,
+    "titre": "Le maire de Boueni, Mouslim Abdourahaman placé en garde à vue",
+    "contenu": "Le maire de Boueni a été placé en garde à vue ce mercredi 14 février dans le cadre d'une enquête portant sur des soupçons de prise illégale d'intérêts et délit de favoritisme. L'affaire découle du rapport de la Chambre régionale des comptes sur la gestion de sa commune.",
+    "url": "https://la1ere.francetvinfo.fr/mayotte/boueni/le-maire-de-boueni-mouslim-abdourahaman-place-en-garde-a-vue-1465077.html",
+    "date": "2024-02-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151994,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1939,
+        "value": "Mouslim Abdourahaman"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 479,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1930,
     "titre": "Nicolas Sarkozy condamné en appel : de l’affaire Bygmalion à celle des comptes de campagne du président-candidat",
     "contenu": "Deux ans d’emprisonnement, dont six mois ferme, ont été prononcés contre l’ancien directeur de campagne Guillaume Lambert, son adjoint Jérôme Lavrilleux, l’ex-directeur général de l’UMP (devenue Les républicains) Eric Cesari, l’ex-directrice financière du parti Fabienne Liadzé, l’ex-directeur de la communication Pierre Chassat, ainsi que contre l’avocat Philippe Blanchetier, trésorier de la campagne, et l’expert-comptable Pierre Godet.",
@@ -191,6 +399,46 @@
     ],
     "titre_corrige": "Nicolas Sarkozy condamné en appel dans l'affaire Bygmalion",
     "a_la_une": true
+  },
+  {
+    "id": 1933,
+    "titre": "Prise illégale d’intérêts dans le projet du port d’Oman ? À Lorient, Anticor saisit la justice",
+    "contenu": "Le groupe local d’Anticor Morbihan s’interroge sur l’implication de l’Agglomération de Lorient dans le développement du port de Duqm à Oman. Il a déposé un signalement pour prise illégale d’intérêt et détournement de fonds publics.",
+    "url": "https://www.ouest-france.fr/politique/a-lorient-anticor-sinteresse-a-son-tour-au-poisson-doman-4026501a-cb32-11ee-a3b1-a38454b34a5c",
+    "date": "2024-02-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151956,
+        "value": "56 - Morbihan"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      },
+      {
+        "id": 537,
+        "value": "Port de pêche de Keroman"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ],
+    "titre_corrige": "Anticor Morbihan fait un signalement au procureur au sujet du projet du port d'Oman",
+    "a_la_une": false
   },
   {
     "id": 1921,
