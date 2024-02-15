@@ -1,5 +1,36 @@
 [
   {
+    "id": 1931,
+    "titre": "Barbouzeries autour du PSG : DBB, une agence au cœur des réseaux d’influence",
+    "contenu": "Le lobbyiste Jean-Pierre Duthion a touché plusieurs dizaines de milliers d’euros de l’agence de communication Digital Big Brother, qui avait notamment été mandatée par le Paris Saint-Germain pour créer une « armée numérique » sur les réseaux sociaux.",
+    "url": "https://www.lemonde.fr/pixels/article/2024/02/15/barbouzeries-autour-du-psg-dbb-une-agence-au-c-ur-des-reseaux-d-influence_6216665_4408996.html",
+    "date": "2024-02-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "Barbouzeries autour du PSG : Digital Big Brother, une agence au cœur des réseaux d’influence",
+    "a_la_une": false
+  },
+  {
     "id": 1925,
     "titre": "La police confirme les financements russes d’Alexandre Benalla",
     "contenu": "Un rapport de la BRDE confirme  que l’ancien conseiller d’Emmanuel Macron a bien signé des contrats de sécurité avec des oligarques proches de Vladimir Poutine, alors même qu’il travaillait à l’Élysée. Ce que l’intéressé conteste.",
