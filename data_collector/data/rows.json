@@ -69,6 +69,32 @@
     "a_la_une": false
   },
   {
+    "id": 1937,
+    "titre": "Ingérence du Qatar en France : Nabil Ennasri, un lobbyiste au passé trouble à la manœuvre",
+    "contenu": "Présentateur télé payé en cash, député écolo rémunéré mensuellement… L’enquête sur un réseau de lobbyistes œuvrant pour des puissances étrangères progresse. Derrière ce « système » se dessine le profil d’un intrigant « spécialiste du Qatar », proche des Frères musulmans.",
+    "url": "https://www.liberation.fr/societe/police-justice/ingerence-du-qatar-nabil-ennasri-un-lobbyiste-au-passe-trouble-a-la-manoeuvre-20240215_TZEMNVQW7VENBDPY5FPACO6GU4/?redirected=1",
+    "date": "2024-02-15",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1932,
     "titre": "Les partis de Laurent Hénart et Jean Lassalle sanctionnés pour leurs comptes de campagne",
     "contenu": "Dans son avis publié le 9 février, la Commission nationale des comptes de campagne et des financements politiques (CNCCFP) épingle deux mouvements nationaux, le Parti radical et Résistons !.",
