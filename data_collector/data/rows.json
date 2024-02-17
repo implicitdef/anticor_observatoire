@@ -145,14 +145,103 @@
   {
     "id": 1938,
     "titre": "Pourquoi Tony Parker pourrait porter plainte contre une commune de Haute-Savoie ?",
-    "contenu": "",
+    "contenu": "Tony Parker, président de l’Asvel, avait déposé une candidature par le biais de sa société Infinity Nine Mountain pour l’exploitation du domaine skiable des Gets. Le maire Henri Anthonioz aurait écarté sa candidature au profit de la Sagets dont il est le PDG. Puis, la procédure a été abandonnée par le conseil municipal. L’ancien basketteur aurait déposé plusieurs recours devant le tribunal administratif de Grenoble et pourrait porter plainte pour « favoritisme ».",
     "url": "https://www.20minutes.fr/justice/4076554-20240215-pourquoi-tony-parker-pourrait-porter-plainte-contre-commune-haute-savoie",
     "date": "2024-02-15",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151969,
+        "value": "74 - Haute-Savoie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1944,
+        "value": "Tony Parker"
+      },
+      {
+        "id": 1945,
+        "value": "Henri Anthonioz"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 541,
+        "value": "ASVEL Lyon-Villeurbanne"
+      },
+      {
+        "id": 542,
+        "value": "Infinity Nine Mountain"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1939,
+    "titre": "Soupçons de corruption : le député Julien-Laferrière quitte le groupe écologiste",
+    "contenu": "Le député Hubert Julien-Laferrière, soupçonné de corruption dans une affaire d'ingérences étrangères, a annoncé ce jeudi quitter le groupe écologiste à l'Assemblée. Même s'il réfute les accusations, l'élu ne souhaite pas perturber la sérénité du travail parlementaire de ses collègues.",
+    "url": "https://www.europe1.fr/politique/soupcons-de-corruption-le-depute-julien-laferriere-quitte-le-groupe-ecologiste-4230847",
+    "date": "2024-02-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1226729,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 295,
+        "value": "Hubert Julien-Laferrière"
+      },
+      {
+        "id": 1228,
+        "value": "Jean-Pierre Duthion"
+      },
+      {
+        "id": 1241,
+        "value": "Rachid M’Barki"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 83,
+        "value": "BFM TV"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
