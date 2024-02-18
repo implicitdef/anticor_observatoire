@@ -1,5 +1,99 @@
 [
   {
+    "id": 1940,
+    "titre": "Nice : les deux vies de Laura Tenoudji, compagne de Christian Estrosi, suscitent des intérêts",
+    "contenu": "Initialement connue pour ses chroniques sur France 2, l’épouse du maire niçois est dans le collimateur de la justice pour des soupçons de «prise illégale d’intérêts». Pour éviter les interférences politiques, les dossiers ont été transférés à Marseille.",
+    "url": "https://www.liberation.fr/politique/nice-les-deux-vies-de-laura-tenoudji-compagne-de-christian-estrosi-suscitent-des-interets-20240217_U63OWPRYANEITLTP42UXDTGWFA/?redirected=1",
+    "date": "2024-02-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1500,
+        "value": "Christian Estrosi"
+      },
+      {
+        "id": 1511,
+        "value": "Laura Tenoudji"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 244,
+        "value": "Eurovision"
+      },
+      {
+        "id": 426,
+        "value": "La Tribune"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1941,
+    "titre": "Deux ans de prison avec sursis requis contre l’ex-directeur de Sciences po Aix",
+    "contenu": "La vice-procureure Nathalie Vergez avait déjà témoigné d’une certaine pugnacité durant les débats initiés depuis le 14 février, elle a livré de sévères réquisitions ce 16 février. Elle réclame des peines de prison avec sursis dans le cadre de l’affaire Sciences po Aix. Contre l’ancien directeur (2006-2014) Christian Duval, elle demande une condamnation à deux ans de prison avec sursis et une amende de 20 000 euros. Pour son adjoint Stéphane Boudrandi, elle appelle à une peine d’un an de prison avec sursis de assortie d’une amende de 5000 euros. Pour les deux, elle requiert aussi l’interdiction d’exercer une fonction publique.",
+    "url": "https://marsactu.fr/bref/deux-ans-de-prison-avec-sursis-requis-contre-lex-directeur-de-sciences-po-aix/",
+    "date": "2024-02-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1884,
+        "value": "Christian Duval"
+      },
+      {
+        "id": 1885,
+        "value": "Stéphane Boudrandi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 507,
+        "value": "Institut d'études politiques d'Aix-en-Provence (Sciences Po Aix)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1931,
     "titre": "Barbouzeries autour du PSG : DBB, une agence au cœur des réseaux d’influence",
     "contenu": "Le lobbyiste Jean-Pierre Duthion a touché plusieurs dizaines de milliers d’euros de l’agence de communication Digital Big Brother, qui avait notamment été mandatée par le Paris Saint-Germain pour créer une « armée numérique » sur les réseaux sociaux.",
@@ -66,6 +160,86 @@
     ],
     "procedure": [],
     "titre_corrige": "Barbouzeries autour du PSG : Digital Big Brother, une agence au cœur des réseaux d’influence",
+    "a_la_une": false
+  },
+  {
+    "id": 1942,
+    "titre": "Enquête sur le marché de la sûreté de l'aéroport d'Ajaccio : Dominique Peretti incarcéré",
+    "contenu": "Le 5 février dernier, Dominique Peretti a été mis en examen pour extorsion, association de malfaiteurs et recel de favoritisme dans le cadre d'une enquête financière pilotée par un juge de la juridiction interrégionale spécialisée de Marseille. Placé sous contrôle judiciaire par le juge des libertés et de la détention, le parquet de Marseille avait fait appel de cette décision. La chambre de l'instruction d'Aix-en-Provence a prononcé un mandat de dépôt ce jeudi 15 février.",
+    "url": "https://www.corsematin.com/article/faits-diversjustice/40654373704284/enquete-sur-le-marche-de-surete-de-laeroport-dajaccio-dominique-peretti-incarcere",
+    "date": "2024-02-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151842,
+        "value": "2A - Corse-du-Sud"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1850,
+        "value": "Dominique Peretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 477,
+        "value": "Chambre de commerce et d'industrie (CCI) 2A - Corse-du-Sud"
+      },
+      {
+        "id": 484,
+        "value": "Sap Sur"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1944,
+    "titre": "François Bayrou visé par une plainte en tant que maire de Pau",
+    "contenu": "Le patron du Modem est visé depuis quelques mois par une plainte déposée à Pau pour « abus de confiance » et « prise illégale d’intérêts ». La plaignante aimerait comprendre pourquoi un terrain dont elle a hérité n’est plus constructible alors qu’une parcelle appartenant à l’associé de l’ancien premier adjoint de François Bayrou a échappé à cette sentence. Si les deux protagonistes sont décédés, la justice reste saisie pour faire la lumière sur ce sac de nœud.",
+    "url": "https://www.off-investigation.fr/francois-bayrou-vise-par-une-plainte-en-tant-que-maire-de-pau/",
+    "date": "2024-02-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151962,
+        "value": "64 - Pyrénées-Atlantiques"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1300,
+        "value": "François Bayrou"
+      },
+      {
+        "id": 1947,
+        "value": "Claudine Albira"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
     "a_la_une": false
   },
   {
@@ -326,6 +500,42 @@
       }
     ],
     "titre_corrige": "Le député écologiste Hubert Julien-Laferrière cité dans une affaire d’ingérence étrangère et de corruption",
+    "a_la_une": false
+  },
+  {
+    "id": 1943,
+    "titre": "Vénissieux. Une plainte déposée contre Michèle Picard pour des soupçons de prise illégale d’intérêt",
+    "contenu": "Un élu vénissian d'opposition vient de saisir la justice à l'encontre de la maire Michèle Picard, soupçonnant une prise illégale d'intérêt après le vote d'une subvention à une association étroitement liée à la mairie.",
+    "url": "https://tribunedelyon.fr/justice/venissieux-une-plainte-deposee-contre-michele-picard-pour-des-soupcons-de-prise-illegale-dinteret/",
+    "date": "2024-02-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1946,
+        "value": "Michèle Picard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 543,
+        "value": "Voisin Malin"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
     "a_la_une": false
   },
   {
