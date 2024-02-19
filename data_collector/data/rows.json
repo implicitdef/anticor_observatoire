@@ -49,6 +49,126 @@
     "a_la_une": false
   },
   {
+    "id": 1946,
+    "titre": "Affaire des indemnités à Cholet : les élus de la majorité enjoints à tout rembourser en appel",
+    "contenu": "Les élus de la majorité municipale choletaise viennent de perdre une nouvelle bataille dans l’affaire dite des indemnités. La cour administrative d’appel de Nantes a rejeté ce vendredi la demande de la commune de Cholet d’annuler le jugement de première instance (en date du 16 novembre 2022) les condamnant à rembourser la totalité de leurs indemnités perçues entre juillet 2020 et octobre 2021. Une somme conséquente puisqu’elle s’élève à 694 700 €.",
+    "url": "https://www.ouest-france.fr/societe/justice/affaire-des-indemnites-a-cholet-les-elus-de-la-majorite-condamnes-a-tout-rembourser-en-appel-9f50bf00-ca90-11ee-a3b1-a38454b34a5c",
+    "date": "2024-02-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151951,
+        "value": "49 - Maine-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1603,
+        "value": "Gilles Bourdouleix"
+      },
+      {
+        "id": 1948,
+        "value": "Laurence Texereau"
+      },
+      {
+        "id": 1949,
+        "value": "Florence Jauneault"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1945,
+    "titre": "Affaire du cube de Trélazé : le parquet général se pourvoit en cassation contre l’ex-maire Marc Goua",
+    "contenu": "La cour d’appel d’Angers avait retenu les exceptions de nullité soulevées par la défense. Le parquet général a annoncé se pourvoir en cassation dans cette affaire.",
+    "url": "https://www.ouest-france.fr/societe/justice/affaire-du-cube-de-trelaze-le-parquet-general-se-pourvoit-en-cassation-contre-lex-maire-marc-goua-34058f70-ccaf-11ee-84f3-30cb0ba0cd2f",
+    "date": "2024-02-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151951,
+        "value": "49 - Maine-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1929,
+        "value": "Marc Goua"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 534,
+        "value": "Arena Loire Trélazé"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1947,
+    "titre": "Aix : le procès du président de la Métropole de Lille dans lequel le sous-préfet est impliqué a été suspendu",
+    "contenu": "Bruno Cassette est suspecté de complicité de prise illégale d'intérêts et d'atteinte à la liberté d'accès aux marchés publics au au tribunal judiciaire de Lille.",
+    "url": "https://www.laprovence.com/article/region/70620691012587/aix-le-proces-du-president-de-la-metropole-de-lille-dans-lequel-le-sous-prefet-est-implique-a-ete-suspendu",
+    "date": "2024-02-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1610,
+        "value": "Bruno Cassette"
+      },
+      {
+        "id": 1611,
+        "value": "Damien Castelain"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 304,
+        "value": "Métropole Européenne de Lille (MEL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1941,
     "titre": "Deux ans de prison avec sursis requis contre l’ex-directeur de Sciences po Aix",
     "contenu": "La vice-procureure Nathalie Vergez avait déjà témoigné d’une certaine pugnacité durant les débats initiés depuis le 14 février, elle a livré de sévères réquisitions ce 16 février. Elle réclame des peines de prison avec sursis dans le cadre de l’affaire Sciences po Aix. Contre l’ancien directeur (2006-2014) Christian Duval, elle demande une condamnation à deux ans de prison avec sursis et une amende de 20 000 euros. Pour son adjoint Stéphane Boudrandi, elle appelle à une peine d’un an de prison avec sursis de assortie d’une amende de 5000 euros. Pour les deux, elle requiert aussi l’interdiction d’exercer une fonction publique.",
