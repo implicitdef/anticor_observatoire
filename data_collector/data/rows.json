@@ -1,5 +1,140 @@
 [
   {
+    "id": 1949,
+    "titre": "La justice saisit une villa de la Côte d’Azur qui pourrait appartenir au groupe russe Gazprom",
+    "contenu": "La villa Maria Irina à Roquebrune-Cap-Martin est officiellement détenue par un oligarque russo-arménien, mais le parquet de Paris estime que son « bénéficiaire réel » n’est autre qu’une filiale du géant gazier et pétrolier russe.",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2024/02/19/la-justice-saisit-une-villa-de-la-cote-d-azur-soupconnee-d-appartenir-au-groupe-russe-gazprom_6217334_4355770.html",
+    "date": "2024-02-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1489,
+        "value": "Samvel Karapetyan"
+      },
+      {
+        "id": 1753,
+        "value": "Vladimir Poutine"
+      },
+      {
+        "id": 1952,
+        "value": "Iouri Kovaltchouk"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 136,
+        "value": "Agence de Gestion et de Recouvrement des Avoirs Saisis et Confisqués (AGRASC)"
+      },
+      {
+        "id": 228,
+        "value": "Gazprom"
+      },
+      {
+        "id": 503,
+        "value": "Juridiction nationale de lutte contre la criminalité organisée (JUNALCO)"
+      },
+      {
+        "id": 547,
+        "value": "Tashir"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1948,
+    "titre": "On vous révèle les liens troubles entre l'Office français de l'immigration et de l'intégration de Limoges et un centre de formation privé",
+    "contenu": "Entre l'Office français de l'immigration et de l'intégration de Limoges (Ofii) et le centre de formation New Skills, société aujourd'hui fermée, la « romance » et le favoritisme dont aurait bénéficié cette société, selon des témoins, devrait finir devant les tribunaux. Entre des formations bidon et des étrangers envoyés de manière quasi-automatique à New Skills par l'ancienne directrice de l'Ofii à Limoges, plus de 700.000 euros d'argent public sont en jeu, et une enquête du parquet de Limoges est en cours.",
+    "url": "https://www.lepopulaire.fr/limoges-87000/actualites/on-vous-revele-les-liens-troubles-entre-l-office-francais-de-l-immigration-et-de-l-integration-de-limoges-et-un-centre-de-formation-prive_14454383/",
+    "date": "2024-02-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151984,
+        "value": "87 - Haute-Vienne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1950,
+        "value": "Krystel Le Lay"
+      },
+      {
+        "id": 1951,
+        "value": "Olivier Celerier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 544,
+        "value": "Office français de l'immigration et de l'intégration (OFII)"
+      },
+      {
+        "id": 545,
+        "value": "New Skills"
+      },
+      {
+        "id": 546,
+        "value": "Directions régionales de l'économie, de l'emploi, du travail et des solidarités (DREETS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1952,
+    "titre": "Soupçons de détournements de fonds publics : la police municipale de Bollène dans le viseur",
+    "contenu": "La police municipale de Bollène est au cœur d’une affaire qui risque de faire scandale. Plusieurs personnels, dont des cadres, sont soupçonnés d’avoir perçu des heures de nuit pendant des années sans jamais avoir mis un pied dehors ou très rarement. Des centaines de documents et fichiers informatiques ont été saisies.",
+    "url": "https://www.ledauphine.com/faits-divers-justice/2024/02/18/soupcons-de-detournements-de-fonds-publics-par-des-policiers-municipaux-de-bollene",
+    "date": "2024-02-18",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1940,
     "titre": "Nice : les deux vies de Laura Tenoudji, compagne de Christian Estrosi, suscitent des intérêts",
     "contenu": "Initialement connue pour ses chroniques sur France 2, l’épouse du maire niçois est dans le collimateur de la justice pour des soupçons de «prise illégale d’intérêts». Pour éviter les interférences politiques, les dossiers ont été transférés à Marseille.",
@@ -210,6 +345,62 @@
         "value": "Procès"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1951,
+    "titre": "Les magistrats et l’Europe appellent à l’« indispensable réforme du statut du parquet »",
+    "contenu": "Malgré un fort consensus et la possible convocation du Congrès à l’occasion de la constitutionnalisation de la liberté de recours à l’interruption volontaire de grossesse, l’exécutif ne prévoit pas d’inscrire au calendrier cette réforme promise depuis 2017.",
+    "url": "https://www.lemonde.fr/societe/article/2024/02/16/les-magistrats-et-l-europe-appellent-a-l-indispensable-reforme-du-statut-du-parquet_6216913_3224.html",
+    "date": "2024-02-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 408,
+        "value": "Conseil supérieur de la magistrature (CSM)"
+      },
+      {
+        "id": 548,
+        "value": "Union syndicale des magistrats (USM)"
+      },
+      {
+        "id": 549,
+        "value": "Syndicat de la magistrature"
+      },
+      {
+        "id": 550,
+        "value": "Cour européenne des droits de l'Homme"
+      },
+      {
+        "id": 551,
+        "value": "Groupe d’Etats contre la corruption (GRECO)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -899,6 +1090,32 @@
       }
     ],
     "titre_corrige": "Anticor Morbihan fait un signalement au procureur au sujet du projet du port d'Oman",
+    "a_la_une": false
+  },
+  {
+    "id": 1950,
+    "titre": "Soupçons de corruption de fonctionnaires au marché de la Plaine : la Ville ouvre une enquête",
+    "contenu": "Des forains disent avoir été contraints de payer des pots-de-vin à des placiers municipaux pour pouvoir déballer et vendre leurs marchandises sur la place Jean-Jaurès. Une enquête est en cours au sein de la direction du pôle espace public de la Ville de Marseille.",
+    "url": "https://marsactu.fr/soupcons-de-corruption-de-fonctionnaires-au-marche-de-la-plaine-la-ville-ouvre-une-enquete/",
+    "date": "2024-02-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
     "a_la_une": false
   },
   {
@@ -22177,7 +22394,7 @@
     "contenu": "Le jugement est tombé pour Michel Mercier, ministre de la Justice de 2010 à 2012. Le tribunal correctionnel de Paris l’a condamné ce jeudi à trois ans de prison avec sursis, considérant que l’homme politique avait bien octroyé des emplois parlementaires fictifs à son épouse et une de ses filles entre 2005 et 2014, selon l’AFP. L’ex-ministre de Nicolas Sarkozy était poursuivi pour détournement de fonds publics et prise illégale d’intérêts pour avoir employé les deux femmes des années durant, sans pouvoir prouver la réalité de leur travail, alors qu’il était sénateur et président du conseil général du Rhône.",
     "url": "https://www.leparisien.fr/faits-divers/emplois-fictifs-michel-mercier-ancien-ministre-de-la-justice-condamne-a-trois-ans-de-prison-avec-sursis-26-01-2023-ZCF2N3AHGBFOBBJA6W7EYAN23Y.php",
     "date": "2023-01-26",
-    "etiquettes": "Gouvernement François Fillon 2",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151715,
@@ -24515,7 +24732,7 @@
     "contenu": "En mars 2021, Claude Merly avait été condamné à 10 mois de prison avec sursis et une peine d’inéligibilité d’un an pour favoritisme dans six dossiers municipaux. Il est reproché au maire de ne pas avoir respecté les règles d’appels d’offres dans l’octroi de plusieurs marchés publics entre 2012 et 2017.\nL’édile qui a saisi la cour de cassation, ne l’a pas fait pour rien cette fois-ci. En effet, quatre des six dossiers qui avaient engendré sa condamnation ont été cassés par la Cour de Cassation. Celle-ci a en effet estimé que les quatre dossiers en question étaient frappés de prescription : le chantier de la reconstruction de la mairie par un chantier d’insertion, le déplacement de la piste de bicross, les marchés de fournitures des services techniques et du colis des aînés.",
     "url": "https://www.lobservateur.fr/marchiennes-claude-merly-blanchi-de-certaines-condamnation/",
     "date": "2023-01-08",
-    "etiquettes": "59 – Nord,Claude Merly",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151958,
@@ -24551,7 +24768,7 @@
     "contenu": "Le parquet de Montpellier confirme dans un courrier de réponse aux élues de l'opposition municipale à Sète faire appel de la relaxe du maire de la commune. Il était jugé le 12 décembre dernier dans une affaire de détournement de fonds publics.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-parquet-de-montpellier-fait-appel-de-la-relaxe-du-maire-de-sete-dans-l-affaire-de-detournement-de-fonds-6049387",
     "date": "2023-01-07",
-    "etiquettes": "34 – Hérault,François Commeinhes,Patrick Millet",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151848,
@@ -24562,6 +24779,10 @@
       {
         "id": 1266,
         "value": "François Commeinhes"
+      },
+      {
+        "id": 1953,
+        "value": "Patrick Millet"
       }
     ],
     "personnes_morales": [],
@@ -24587,7 +24808,7 @@
     "contenu": "Pour nourrir près de 250 mineurs non accompagnés dont il a la charge, le département des Pyrénées-Orientales est en contrat depuis 2017 avec deux prestataires de restauration. Blast révèle que les propriétaires de ces deux enseignes sont… fonctionnaire du département pour l’un et nièce d’une autre fonctionnaire du département pour l’autre. Informé, le département a effectué deux signalements auprès du procureur de la République, qui a ouvert une enquête préliminaire pour des soupçons de conflits d'intérêts. Conséquences immédiates : les deux marchés publics et les deux agents concernés ont été suspendus.",
     "url": "https://www.blast-info.fr/articles/2023/info-blast-a-perpignan-les-fonctionnaires-du-departement-se-servent-a-la-cantine-BotbCRQsRKSnG4A_Hh51pg",
     "date": "2023-01-06",
-    "etiquettes": "66 - Pyrénées Orientales,Frédéric Monteil,Hermeline Malherbe,Institut départemental de l’enfance et de l’adolescence,Mouldi Daira",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151964,
@@ -24602,6 +24823,14 @@
       {
         "id": 1686,
         "value": "Yamina Orange"
+      },
+      {
+        "id": 1954,
+        "value": "Frédéric Monteil"
+      },
+      {
+        "id": 1955,
+        "value": "Hermeline Malherbe"
       }
     ],
     "personnes_morales": [
@@ -24640,7 +24869,7 @@
     "contenu": "Des centaines de tickets pour la prochaine Coupe du monde de rugby, organisée en France, auraient été vendus en dépit des règles. Parmi les personnes soupçonnées, l'ancienne légende Sébastien Chabal.",
     "url": "https://rmcsport.bfmtv.com/rugby/coupe-du-monde/coupe-du-monde-2023-deux-anciens-rugbymen-dont-sebastien-chabal-soupconnes-de-trafic-de-billets_AV-202301060714.html",
     "date": "2023-01-06",
-    "etiquettes": "Claude Atcher,Comité d&#039;organisation de la Coupe du monde 2023,Henri Mioch,Sébastien Chabal",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -24649,8 +24878,16 @@
     ],
     "personnalites": [
       {
+        "id": 1525,
+        "value": "Claude Atcher"
+      },
+      {
         "id": 1687,
         "value": "Sébastien Chabal"
+      },
+      {
+        "id": 1956,
+        "value": "Henri Mioch"
       }
     ],
     "personnes_morales": [
@@ -24685,7 +24922,7 @@
     "contenu": "La Haute Autorité pour la transparence de la vie publique s'est saisie du cas de Chris Dercon, président de la Réunion des musées nationaux - Grand Palais. Son départ vers la Fondation Cartier, prévu le 19 décembre, a été reporté sine die le temps de l'enquête.",
     "url": "https://www.lalettrea.fr/action-publique_operateurs-de-l-etat/2023/01/06/la-hatvp-enquete-sur-le-transfert-de-chris-dercon-a-la-fondation-cartier,109879331-art",
     "date": "2023-01-06",
-    "etiquettes": "Chris Dercon,Fondation Cartier,Haute Autorité pour la Transparence de la Vie Publique,Réunion des musées nationaux - Grand Palais",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -24706,6 +24943,10 @@
       {
         "id": 354,
         "value": "Réunion des musées nationaux et du Grand Palais des Champs-Élysées (RMN-GP)"
+      },
+      {
+        "id": 552,
+        "value": "Fondation Cartier pour l'art contemporain"
       }
     ],
     "categorie": [
@@ -24735,7 +24976,7 @@
     "contenu": "Emeric Salle peut être soulagé. Visé depuis presque un an, par une plainte pour \"prise illégale d’intérêt\" et \"trafic d’influence\" déposée par l’association AC Anti-Corruption, l’édile s’est vue signifier ce vendredi son classement sans suite.  AC Anti-Corruption avait déposé cette plainte à la suite de la vente de terrains, où se situait le circuit de glace, au groupe Compagnie des Alpes, dans l’optique de réaliser plusieurs résidences hôtelières. Or Emeric Salle avait travaillé comme perchman par le passé dans ce groupe.",
     "url": "https://www.bfmtv.com/bfm-dici/la-salle-les-alpes-la-plainte-pour-prise-illegale-d-interet-contre-le-maire-classee-sans-suite_AN-202301060509.html",
     "date": "2023-01-06",
-    "etiquettes": "05 - Hautes-Alpes,AC Anti-Corruption,Emeric Salle",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151603,
@@ -24851,7 +25092,7 @@
     "contenu": "Ancien chauffeur de taxi, chef d’entreprise et ministre délégué aux PME entre juillet 2020 et décembre 2021, Alain Griset a été condamné ce mercredi à quatre mois de prison et trois ans d’inéligibilité avec sursis pour avoir omis de déclarer une partie de son patrimoine.",
     "url": "https://www.liberation.fr/societe/police-justice/declaration-de-patrimoine-lancien-ministre-alain-griset-condamne-a-quatre-mois-de-prison-avec-sursis-et-trois-ans-dineligibilite-20230104_AKWDHLQWIRHFZOF4CKK5CXCBS4/?redirected=1",
     "date": "2023-01-04",
-    "etiquettes": "Alain Griset,Gouvernement Jean Castex,Haute Autorité pour la Transparence de la Vie Publique,Ministère de l&#039;économie",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -24864,7 +25105,16 @@
         "value": "Alain Griset"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
