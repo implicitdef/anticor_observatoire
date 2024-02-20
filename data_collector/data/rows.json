@@ -386,7 +386,7 @@
       },
       {
         "id": 550,
-        "value": "Cour européenne des droits de l'Homme"
+        "value": "Cour européenne des droits de l'Homme (CEDH)"
       },
       {
         "id": 551,
@@ -25047,7 +25047,7 @@
     "contenu": "Le parquet de Paris a requis dans l’affaire LVMH la tenue d’un procès à l’encontre de l’ancien chef des services secrets intérieurs, Bernard Squarcini. Il revient désormais à la juge d’instruction chargée du dossier de confirmer le renvoi.",
     "url": "https://www.mediapart.fr/journal/france/030123/affaire-lvmh-le-parquet-de-paris-reclame-un-proces-l-encontre-de-bernard-squarcini",
     "date": "2023-01-04",
-    "etiquettes": "75 - Paris,Chafic Alywan,Inter Dépannage",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -25137,7 +25137,7 @@
     "contenu": "La Caisse nationale des allocations familiales a attribué d’énormes marchés en novembre à des consultants extérieurs pour sa maintenance informatique, un secteur juteux qui échappe aux restrictions imposées depuis la polémique McKinsey.",
     "url": "https://www.liberation.fr/economie/la-branche-famille-de-la-secu-attribue-477-millions-deuros-de-nouveaux-contrats-a-des-cabinets-de-conseil-20230104_7X6MCFPPWJAPZBASVQL2DDVFX4/?redirected=1",
     "date": "2023-01-04",
-    "etiquettes": "Accenture,Atos,Caisse nationale des allocations familiales,Capgemini,Inetum,Sopra",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -25201,7 +25201,7 @@
     "contenu": "L'association anti-corruption Anticor a déposé plainte contre trois parlementaires ou anciens parlementaires pour détournement de fonds publics. Ces plaintes, déposées en fin de semaine dernière, concernent l'actuel sénateur LR du Nord Marc-Philippe Daubresse pour son mandat précédent de député, Yves Détraigne, sénateur centriste de la Marne, et l'ancien député Jean-Jacques Bridey, lorsqu'il était élu socialiste du Val-de-Marne avant de rejoindre La République en marche.",
     "url": "https://www.francetvinfo.fr/societe/justice/info-franceinfo-trois-parlementaires-ou-ex-parlementaires-vises-par-une-plainte-d-anticor-pour-detournement-de-fonds-publics_5580615.html",
     "date": "2023-01-04",
-    "etiquettes": "51 - Marne,59 – Nord,94 - Val-de-Marne,Anticor,Jean-Jacques Bridey,La République En Marche,Les Républicains,Marc-Philippe Daubresse,Parquet National Financier,Parti Socialiste,Yves Détraigne",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151953,
@@ -25232,12 +25232,32 @@
     ],
     "personnes_morales": [
       {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
         "id": 2,
         "value": "Sénat"
       },
       {
         "id": 3,
         "value": "Assemblée Nationale"
+      },
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 76,
+        "value": "Anticor"
+      },
+      {
+        "id": 79,
+        "value": "La République En Marche (LREM)"
       }
     ],
     "categorie": [
@@ -25257,7 +25277,7 @@
     "contenu": "Le ministère public a requis une peine de 6 mois d’emprisonnement assortie d’un sursis simple ainsi qu’une peine d’amende de 20 000 euros à l’encontre de François Grosdidier. Poursuivi pour prise illégale d’intérêts, le maire de Metz est jugé ce mardi 3 janvier par le tribunal correctionnel d’Épinal, dans les Vosges. Il lui est reproché d’avoir assuré sa promotion personnelle en utilisant l’association Valeur écologie dont il était le président depuis 2009 et qu’il finançait grâce à la réserve parlementaire à laquelle il avait accès du fait de son statut de député puis de sénateur.",
     "url": "https://www.republicain-lorrain.fr/faits-divers-justice/2023/01/03/six-mois-de-prison-avec-sursis-et-20-000-d-amende-requis-a-l-encontre-de-francois-grosdidier",
     "date": "2023-01-03",
-    "etiquettes": "57 - Moselle,François Grosdidier,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151957,
@@ -25271,6 +25291,10 @@
       }
     ],
     "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
       {
         "id": 242,
         "value": "Valeur Écologie"
@@ -25298,7 +25322,7 @@
     "contenu": "Le tribunal correctionnel de Bastia a condamné dans un dossier d'atteinte à la liberté d'accès ou à l'égalité des candidats dans les marchés publics, à une peine d'amende, en tant que personnes morales, la commune de Calvi et la SAS Total énergies marketing Corse, filiale du groupe Total. La commune balanine a été condamnée pour favoritisme à une amende de 40 000 euros et l'entreprise pour recel du produit d'un délit en l'occurrence recel de favoritisme à 120 000 euros.",
     "url": "https://www.corsematin.com/articles/favoritisme-amende-pour-la-commune-de-calvi-et-total-135234",
     "date": "2023-01-02",
-    "etiquettes": "2B – Haute Corse,Total",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151843,
@@ -25329,7 +25353,7 @@
     "contenu": "Le juge d’instruction Michel Claise a déposé une demande de levée d’immunité parlementaire qui vise deux députés européens, le socialiste italien Andrea Cozzolino et le socialiste belge d’origine italienne, Marc Tarabella – depuis suspendu de son parti à titre conservatoire. Tous deux sont proches de Pier-Antonio Panzeri, l’ancien eurodéputé socialiste italien (2004-2019) au cœur de cette affaire qui a sonné le Parlement européen. L’institution devrait entamer l’examen de cette demande lors de sa prochaine séance plénière, qui débute le 16 janvier à Strasbourg.",
     "url": "https://www.liberation.fr/international/europe/corruption-au-parlement-europeen-une-procedure-lancee-pour-lever-limmunite-de-deux-deputes-20230102_2NERGJ5HA5FHNAMVHJ6SKZMI5I/?redirected=1",
     "date": "2023-01-02",
-    "etiquettes": "Andrea Cozzolino,Marc Tarabella,Michel Claise,Parlement Européen,Pier-Antonio Panzeri",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1226713,
@@ -25341,6 +25365,10 @@
       }
     ],
     "personnalites": [
+      {
+        "id": 1381,
+        "value": "Antonio Panzeri"
+      },
       {
         "id": 1561,
         "value": "Andrea Cozzolino"
@@ -25382,7 +25410,7 @@
     "contenu": "Un rapport du commissaire aux comptes de l’instance impute de nombreuses dépenses injustifiées à Nasser Gammoudi, qui a démissionné de son poste en octobre dernier. Le conseil départemental a décidé de suspendre le versement de sa subvention de 120 000 euros.",
     "url": "https://www.leparisien.fr/seine-saint-denis-93/la-carte-bancaire-du-district-de-foot-de-seine-saint-denis-servait-a-regler-les-paris-en-ligne-de-son-ex-president-01-01-2023-WPUSFBFJOVACTGDG3AZJTFBOHE.php?ts=1673259572988",
     "date": "2023-01-01",
-    "etiquettes": "93 – Seine Saint Denis,District de Seine Saint Denis de Football,Nasser Gammoudi",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151972,
@@ -25423,7 +25451,7 @@
     "contenu": "Parmi les 280 chevaliers, 43 officiers, 12 commandeurs, quatre grands officiers et un grand-croix promus dans la fournée du 1er janvier 2023, on trouve trois membres du premier cercle de la macronie. Le maire de Pau et patron du MoDem, François Bayrou : l’allié de la majorité devient officier. Quant à l’ex-président de l’Assemblée nationale Richard Ferrand et à l’ancien patron des députés Marcheurs et ministre de l’Intérieur Christophe Castaner, ces deux fidèles parmi les fidèles du président sont tous deux nommés chevaliers. Copinage ou distinction pour « service à la nation » ?",
     "url": "https://www.leparisien.fr/politique/legion-dhonneur-ferrand-castaner-et-bayrou-parmi-les-decores-du-1er-janvier-2023-01-01-2023-IGSGERJGQNBEPCTE6BYOQ3BSZM.php?ts=1672691238013",
     "date": "2023-01-01",
-    "etiquettes": "Christophe Castaner,François Bayrou,La République En Marche,Mouvement démocrate,Richard Ferrand",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -25445,6 +25473,14 @@
       }
     ],
     "personnes_morales": [
+      {
+        "id": 79,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 94,
+        "value": "Mouvement démocrate (MoDem)"
+      },
       {
         "id": 416,
         "value": "Ordre national de la Légion d'honneur"
@@ -25508,7 +25544,7 @@
     "contenu": "Élue carcassonnaise de 2014 à 2020, Yamina Mamou fait l’objet d’une plainte déposée en 2017, avec six parties civiles. Le juge d’instruction vient de décider d’un non-lieu pour des faits de \"recel de détournement de fonds publics\", mais a ordonné le renvoi devant le tribunal correctionnel pour les deux chefs qui lui avaient valu sa mise en examen en juin 2020.\nC'est en échange de fonds et d’adhésions à l’UDI, ou encore de réalisation d’opérations de distributions de tracts que Yamina Mamou aurait abusé de son mandat électif, pour faciliter ou tenter de faciliter l’accès à un emploi en mairie de deux personnes, fondant ainsi la mise en examen pour \"trafic d’influence\". Du côté de la \"corruption passive\", c’est sur la fonction de déléguée titulaire représentant la municipalité au sein de la commission d’attribution de logements du bailleur social Alogea qu’occupait Yamina Mamou que se fonde le renvoi : avec cette fois, toujours en échange de gestes à son profit, un soutien à des candidatures formulées par une dizaine de Carcassonnais.",
     "url": "https://www.ladepeche.fr/2022/12/29/lex-elue-sera-jugee-pour-corruption-passive-et-trafic-dinfluence-10894199.php",
     "date": "2022-12-29",
-    "etiquettes": "11 - Aude,Alogea,Union des démocrates et indépendants,Yamina Mamou",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151708,
@@ -25544,7 +25580,7 @@
     "contenu": "Limogée à la discrétion du gouvernement, la haut fonctionnaire estime avoir fait les frais de ses réserves dans un dossier d’urbanisme. Elle s’était déjà attiré l’opposition d’élus locaux qui l’estimaient trop rigide.\nMarie Lajus a demandé, en fin de réunion, un aparté avec ses collègues et leur a expliqué qu’après mûre réflexion, elle pensait devoir sa mutation à l’affaire du Da Vinci Labs. Ce futur laboratoire est un incubateur de projets de recherche, destiné à croiser les technologies quantiques, l’intelligence artificielle et la biologie synthétique. Son promoteur (qui possède un hôtel dans le coin) entendait bien s’installer dans le parc du somptueux château Louise de La Vallière, à Reugny. Le dossier n’en est qu’à l’étude, mais l’architecte des bâtiments de France a signalé que le château était classé et qu’on pourrait difficilement construire un bâtiment futuriste dans le parc ; la préfète a, elle, fait observer que le plan local d’urbanisme ne le permettait pas et qu’une dérogation serait juridiquement difficile à obtenir.",
     "url": "https://www.lemonde.fr/politique/article/2022/12/29/l-eviction-brutale-de-marie-lajus-prefete-hors-norme-victime-de-remontees-d-elus-negatives_6155943_823448.html",
     "date": "2022-12-29",
-    "etiquettes": "37 - Indre-et-Loire,Marie Lajus",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151851,
@@ -25913,18 +25949,31 @@
     "contenu": "Quinze investisseurs qui y ont perdu des fortunes portent plainte contre la première plateforme mondiale d’échange de cryptoactifs, pour laquelle la France a déroulé le tapis rouge. Ils lui font grief de n’avoir pas respecté la réglementation française, ce qu’elle conteste.\nCette plainte, que Mediapart a pu consulter, a été déposée le 14 décembre auprès du procureur de la République près le tribunal judiciaire de Paris pour « violation du monopole des prestataires de services sur actifs numériques », « pratique commerciale trompeuse » et « recel d’escroquerie ». Elle vise Binance France, ainsi que la holding de tête, Binance Holdings Limited, qui, aux dernières nouvelles, serait une société de droit des îles Caïmans après avoir été implantée tour à tour à Hong Kong et à Malte, et vise aussi « toute autre personne ».",
     "url": "https://www.mediapart.fr/journal/economie-et-social/191222/cryptomonnaies-une-plainte-contre-binance-eclabousse-les-autorites-francaises",
     "date": "2022-12-19",
-    "etiquettes": "Autorité des Marchés Financiers,Binance,Cédric O,Changpeng Zhao",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1306,
+        "value": "Cédric O"
+      },
+      {
+        "id": 1957,
+        "value": "Changpeng Zhao (CZ)"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 131,
         "value": "Binance"
+      },
+      {
+        "id": 189,
+        "value": "Autorité des Marchés Financiers (AMF)"
       }
     ],
     "categorie": [
@@ -25994,7 +26043,7 @@
     "contenu": "Condamné mardi à deux ans de prison avec sursis pour corruption et de plus en plus isolé au sommet du rugby français, le président de la FFR, Bernard Laporte, assure dans une interview au JDD qu’il ne «voit pas pourquoi [il] devrait» quitter son poste. Démissionner «voudrait dire que je reconnais les faits que l’on me reproche. Impossible», rétorque-t-il en direction de ceux qui le poussent à quitter ses fonctions à la tête de la FFR.",
     "url": "https://www.liberation.fr/sports/rugby/bernard-laporte-exclut-de-demissionner-de-la-presidence-de-la-federation-de-rugby-20221218_7B42AM7NS5FGPMU3SGXZLVA4XE/?redirected=1",
     "date": "2022-12-18",
-    "etiquettes": "Amélie Oudéa-Castera,Bernard Laporte,Fédération française de rugby",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -26005,6 +26054,10 @@
       {
         "id": 1475,
         "value": "Bernard Laporte"
+      },
+      {
+        "id": 1958,
+        "value": "Amélie Oudéa-Castera"
       }
     ],
     "personnes_morales": [
@@ -26035,7 +26088,7 @@
     "contenu": "Après les réseaux d’influence du Qatar à Bruxelles, l’instruction s’intéresse à ceux du Maroc. Et particulièrement à un homme : Mohamed B., un agent de la DGED, déjà identifié par Paris dans une autre affaire, mais jamais retrouvé.",
     "url": "https://www.lemonde.fr/international/article/2022/12/17/corruption-au-parlement-europeen-un-mysterieux-espion-marocain-au-c-ur-de-l-enquete_6154798_3210.html",
     "date": "2022-12-17",
-    "etiquettes": "Abderrahim Atmoun,Ali Ben Samikh Al-Marri,Andrea Cozzolino,Fight Impunity,Francesco Giorgi,Mohamed Yassine Mansour,Parlement Européen,Pier Antonio Panzeri",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1226713,
@@ -26046,8 +26099,41 @@
         "value": "Maroc"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1380,
+        "value": "Francesco Giorgi"
+      },
+      {
+        "id": 1381,
+        "value": "Antonio Panzeri"
+      },
+      {
+        "id": 1561,
+        "value": "Andrea Cozzolino"
+      },
+      {
+        "id": 1959,
+        "value": "Abderrahim Atmoun"
+      },
+      {
+        "id": 1960,
+        "value": "Ali Ben Samikh Al-Marri"
+      },
+      {
+        "id": 1961,
+        "value": "Mohamed Yassine Mansour"
+      }
+    ],
     "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 421,
+        "value": "Fight Impunity"
+      },
       {
         "id": 423,
         "value": "Direction Générale des Études et de la Documentation (DGED)"
@@ -26059,7 +26145,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / Influence"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -26111,7 +26202,7 @@
     "contenu": "Démissionnaire du gouvernement pour suspicion de fraude fiscale par la HATVP, Caroline Cayeux ne renonce pas pour autant à son mandat de présidente de l'agglomération du Beauvaisis.",
     "url": "https://www.oisehebdo.fr/2022/12/16/beauvaisis-caroline-cayeux-affirme-quelle-restera-presidente/",
     "date": "2022-12-16",
-    "etiquettes": "60 - Oise,Caroline Cayeux,Gouvernement Élisabeth Borne,Haute Autorité pour la Transparence de la Vie Publique",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151959,
@@ -26147,7 +26238,7 @@
     "contenu": "Aija Kalnaja, la patronne par intérim de l’agence européenne de gardes-frontières, était bien placée pour être confirmée à son poste le 20 décembre. La Lettone est cependant concernée par des investigations de l’OLAF. Et son nom est associé au « dossier Baltic Tours », du nom d’une agence de voyage utilisée par Frontex dans des conditions ayant suscité des critiques en interne.",
     "url": "https://www.mediapart.fr/journal/international/161222/la-directrice-de-frontex-menacee-par-une-enquete-de-l-office-anti-fraude-de-l-ue",
     "date": "2022-12-16",
-    "etiquettes": "Aija Kalnaja,Frontex,Office européen de lutte antifraude",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1252860,
@@ -30781,16 +30872,31 @@
     "contenu": "Marc Chassaubené, président actuel de la cité du Design, a fait un signalement au procureur de la République. Les premiers éléments d’un audit sur les comptes de la cité montreraient le détournement de 30 000 euros de fonds publics. L'ancien directeur, Thierry Mandon, qui a récemment démissionné de ses fonctions se retrouve au coeur de l'affaire.",
     "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/loire/saint-etienne/30-000-euros-de-fonds-publics-potentiellement-detournes-a-la-cite-du-design-de-saint-etienne-2651172.html",
     "date": "2022-11-09",
-    "etiquettes": "42 – Loire,Cité du Design,Thierry Mandon",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151856,
         "value": "42 - Loire"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1914,
+        "value": "Thierry Mandon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 526,
+        "value": "Cité du design (Saint-Étienne)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -30802,13 +30908,42 @@
     "contenu": "Le milliardaire breton, mis en examen pour « corruption » dans une affaire impliquant deux chefs d’État africains, affirme dans plusieurs documents, dont Mediapart a pu prendre connaissance, avoir eu l’engagement du président du tribunal de Paris de pouvoir s’en sortir à moindres frais, en évitant tout procès et toute peine de prison, avant même que le dossier ne soit examiné lors d’une audience publique.",
     "url": "https://www.mediapart.fr/journal/france/091122/affaires-africaines-vincent-bollore-met-en-cause-le-president-du-tribunal-de-paris",
     "date": "2022-11-09",
-    "etiquettes": "Groupe Bolloré,Stéphane Noël,Vincent Bolloré",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1268,
+        "value": "Vincent Bolloré"
+      },
+      {
+        "id": 1962,
+        "value": "Stéphane Noël"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 70,
+        "value": "Bolloré"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -30818,13 +30953,46 @@
     "contenu": "Une peine de quatre ans d'emprisonnement, dont un an de prison ferme, a été requise mercredi contre l'ancien ministre de la Justice Michel Mercier, soupçonné d'avoir octroyé des emplois parlementaires fictifs à son épouse et à sa fille.\nJugé pour détournement de fonds publics et prise illégale d'intérêts, Michel Mercier avait employé son épouse Joëlle comme assistante parlementaire alors qu'il était sénateur entre 2005 et 2013, et sa fille Delphine entre 2012 et 2014. Des peines de respectivement deux ans avec sursis et 18 mois avec sursis ont été requises contre ces deux membres de sa famille.",
     "url": "https://www.lefigaro.fr/politique/emplois-fictifs-un-an-de-prison-ferme-requis-contre-l-ex-ministre-michel-mercier-20221109",
     "date": "2022-11-09",
-    "etiquettes": "Michel Mercier,Mouvement démocrate,Sénat",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1574,
+        "value": "Michel Mercier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 2,
+        "value": "Sénat"
+      },
+      {
+        "id": 94,
+        "value": "Mouvement démocrate (MoDem)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -30890,7 +31058,56 @@
     "contenu": "Inconnu du grand public, le groupe Perenco, deuxième producteur français de pétrole après Total, est accusé d’atteintes à l’environnement, de violations des droits humains et de dissimulation de ses avoirs dans des paradis fiscaux.",
     "url": "https://disclose.ngo/fr/article/perenco-la-brute-du-petrole",
     "date": "2022-11-08",
-    "etiquettes": "Agnès Pannier-Runacher,François Perrodo,Jean-Michel Runacher,Perenco",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1677,
+        "value": "Agnès Pannier-Runacher"
+      },
+      {
+        "id": 1963,
+        "value": "François Perrodo"
+      },
+      {
+        "id": 1964,
+        "value": "Jean-Michel Runacher"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 214,
+        "value": "Perenco"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": null,
+    "a_la_une": false
+  },
+  {
+    "id": 1064,
+    "titre": "Pétrole et paradis fiscaux : les intérêts cachés de la ministre de la transition énergétique",
+    "contenu": "Agnès Pannier-Runacher est liée à une société créée par son père, en 2016, pour le compte de ses enfants mineurs. Baptisée Arjunem, l’entreprise familiale partage des intérêts financiers avec Perenco, numéro 2 du pétrole en France, et détient plus de 1 million d’euros dans des paradis fiscaux. Malgré le risque de conflit d’intérêts, la ministre de la transition énergétique n’a jamais rendu publique son existence.",
+    "url": "https://disclose.ngo/fr/article/petrole-et-paradis-fiscaux-les-interets-caches-de-la-ministre-de-la-transition-energetique",
+    "date": "2022-11-08",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
@@ -30903,7 +31120,109 @@
         "value": "Agnès Pannier-Runacher"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 198,
+        "value": "Ministère de l'Écologie"
+      },
+      {
+        "id": 214,
+        "value": "Perenco"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1312992,
+        "value": "Énergie"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": null,
+    "a_la_une": false
+  },
+  {
+    "id": 1074,
+    "titre": "Soupçons de favoritisme : le parquet de Grenoble fait appel de la relaxe d’Éric Piolle",
+    "contenu": "Après avoir été soupçonné dans une affaire de favoritisme pour l’attribution d’un marché public par sa ville, Éric Piolle a été relaxé par le tribunal correctionnel de Valence mardi 25 octobre. « La Ville de Grenoble a été informée ce jour que le parquet général de Grenoble a formé appel contre la décision de relaxe prononcée par le tribunal correctionnel de Valence le 25 octobre 2022, dans le cadre de la 1ère Fête des Tuiles de 2015», indiquent les services de d’Éric Piolle dans un communiqué.",
+    "url": "https://www.leparisien.fr/faits-divers/soupcons-de-favoritisme-le-parquet-de-grenoble-fait-appel-de-la-relaxe-deric-piolle-08-11-2022-Q3QJZMH7NJA45CVBGJVYSCRITQ.php",
+    "date": "2022-11-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151852,
+        "value": "38 - Isère"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1965,
+        "value": "Éric Piolle"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 28,
+        "value": "Les écologistes (ex-Europe Ecologie Les Verts) (EELV)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ],
+    "titre_corrige": null,
+    "a_la_une": false
+  },
+  {
+    "id": 1067,
+    "titre": "Saisine de la CEDH par Regards Citoyens : Anticor intervient pour défendre la transparence.",
+    "contenu": "Le 31 octobre 2022, Anticor a transmis ses observations à la Cour européenne des droits de l’Homme (CEDH) dans l’affaire opposant l’association Regards Citoyens à la France au sujet de la transparence des indemnités de frais de mandat (IRFM).\nAnticor considère que le refus de la communication des documents détaillant l’usage qui est fait des frais de mandat va à rebours de la liberté d’expression protégée par l’article 10 de Convention européenne de sauvegarde des droits de l’Homme et son corolaire, le droit du public à recevoir des informations d’intérêt général. En effet, l’impossibilité d’avoir connaissance des données bancaires restreint d’une part le débat citoyen sur le possible mésusage de cette indemnité, et d’autre part, empêche les poursuites judiciaires qui pourraient être intentées contre les parlementaires ne respectant pas l’article 432-15 du code pénal réprimant le détournement de fonds publics, infraction pour laquelle Anticor est habilitée à porter plainte.",
+    "url": "https://www.anticor.org/2022/11/07/saisine-de-la-cedh-par-regards-citoyens-anticor-intervient-pour-defendre-la-transparence/",
+    "date": "2022-11-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 76,
+        "value": "Anticor"
+      },
+      {
+        "id": 550,
+        "value": "Cour européenne des droits de l'Homme (CEDH)"
+      },
+      {
+        "id": 553,
+        "value": "Commission d'accès aux documents administratifs (CADA)"
+      },
+      {
+        "id": 554,
+        "value": "Regards citoyens"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -30916,13 +31235,57 @@
     "a_la_une": false
   },
   {
-    "id": 1064,
-    "titre": "Pétrole et paradis fiscaux : les intérêts cachés de la ministre de la transition énergétique",
-    "contenu": "Agnès Pannier-Runacher est liée à une société créée par son père, en 2016, pour le compte de ses enfants mineurs. Baptisée Arjunem, l’entreprise familiale partage des intérêts financiers avec Perenco, numéro 2 du pétrole en France, et détient plus de 1 million d’euros dans des paradis fiscaux. Malgré le risque de conflit d’intérêts, la ministre de la transition énergétique n’a jamais rendu publique son existence.",
-    "url": "https://disclose.ngo/fr/article/petrole-et-paradis-fiscaux-les-interets-caches-de-la-ministre-de-la-transition-energetique",
-    "date": "2022-11-08",
-    "etiquettes": "Agnès Pannier-Runacher,Gouvernement Élisabeth Borne,Ministère de la transition énergétique,Perenco",
+    "id": 1076,
+    "titre": "Chaussea soupçonné d’évasion fiscale",
+    "contenu": "L’enseigne Chaussea a été la cible de plusieurs raids de l’administration fiscale, qui la soupçonne de pratiquer de l’évasion fiscale vers le Luxembourg. Début 2020, des visites surprise du fisc ont été effectuées dans des locaux occupés à Paris et Valleroy (Meurthe-et-Moselle) par la société Chaussea SAS et sa maison mère V.G.M. Holding. Les deux entreprises ont unanimement contesté ces descentes, sans succès : les Cours d’appel de Nancy et Paris ont rejeté leur recours, à l’instar de la Cour de Cassation en mai puis en octobre 2022. Les raids ayant été validés, Bercy va maintenant pouvoir utiliser les documents saisis pour notifier un redressement fiscal au commerçant.",
+    "url": "https://www.linforme.com/grande-conso/article/chaussea-soupconne-d-evasion-fiscale_108.html",
+    "date": "2022-11-06",
+    "etiquettes": "",
     "departement": [
+      {
+        "id": 1151955,
+        "value": "54 - Meurthe-et-Moselle"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 555,
+        "value": "Chaussea"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": null,
+    "a_la_une": false
+  },
+  {
+    "id": 1063,
+    "titre": "Affaire Dupond-Moretti : les syndicats de magistrats mettent en cause le commissaire européen à la justice, Didier Reynders",
+    "contenu": "L’Union syndicale des magistrats et le Syndicat de la magistrature ont écrit à la présidente de la Commission européenne, Ursula von der Leyen, pour faire part de leurs doutes sur « l’impartialité objective » du Belge Didier Reynders. Ces soupçons sont basés sur « une certaine proximité entre M. [Nicolas] Sarkozy ou ses proches, d’une part, et M. Reynders ou des membres de son parti [le Mouvement réformateur], d’autre part », est-il précisé dans cette lettre que Le Monde a pu lire.",
+    "url": "https://www.lemonde.fr/societe/article/2022/11/04/affaire-dupond-moretti-les-syndicats-de-magistrats-mettent-en-cause-didier-reynders_6148460_3224.html",
+    "date": "2022-11-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      },
       {
         "id": 1151970,
         "value": "75 - Paris"
@@ -30930,11 +31293,40 @@
     ],
     "personnalites": [
       {
-        "id": 1677,
-        "value": "Agnès Pannier-Runacher"
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1195,
+        "value": "Didier Reynders"
+      },
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      },
+      {
+        "id": 1967,
+        "value": "Ursula von der Leyen"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 186,
+        "value": "Commission Européenne"
+      },
+      {
+        "id": 548,
+        "value": "Union syndicale des magistrats (USM)"
+      },
+      {
+        "id": 549,
+        "value": "Syndicat de la magistrature"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
@@ -30947,84 +31339,38 @@
     "a_la_une": false
   },
   {
-    "id": 1074,
-    "titre": "Soupçons de favoritisme : le parquet de Grenoble fait appel de la relaxe d’Éric Piolle",
-    "contenu": "Après avoir été soupçonné dans une affaire de favoritisme pour l’attribution d’un marché public par sa ville, Éric Piolle a été relaxé par le tribunal correctionnel de Valence mardi 25 octobre. « La Ville de Grenoble a été informée ce jour que le parquet général de Grenoble a formé appel contre la décision de relaxe prononcée par le tribunal correctionnel de Valence le 25 octobre 2022, dans le cadre de la 1ère Fête des Tuiles de 2015», indiquent les services de d’Éric Piolle dans un communiqué.",
-    "url": "https://www.leparisien.fr/faits-divers/soupcons-de-favoritisme-le-parquet-de-grenoble-fait-appel-de-la-relaxe-deric-piolle-08-11-2022-Q3QJZMH7NJA45CVBGJVYSCRITQ.php",
-    "date": "2022-11-08",
-    "etiquettes": "38 - Isère,Eric Piolle,Europe Écologie Les Verts",
-    "departement": [
-      {
-        "id": 1151852,
-        "value": "38 - Isère"
-      }
-    ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": null,
-    "a_la_une": false
-  },
-  {
-    "id": 1067,
-    "titre": "Saisine de la CEDH par Regards Citoyens : Anticor intervient pour défendre la transparence.",
-    "contenu": "Le 31 octobre 2022, Anticor a transmis ses observations à la Cour européenne des droits de l’Homme (CEDH) dans l’affaire opposant l’association Regards Citoyens à la France au sujet de la transparence des indemnités de frais de mandat (IRFM).\nAnticor considère que le refus de la communication des documents détaillant l’usage qui est fait des frais de mandat va à rebours de la liberté d’expression protégée par l’article 10 de Convention européenne de sauvegarde des droits de l’Homme et son corolaire, le droit du public à recevoir des informations d’intérêt général. En effet, l’impossibilité d’avoir connaissance des données bancaires restreint d’une part le débat citoyen sur le possible mésusage de cette indemnité, et d’autre part, empêche les poursuites judiciaires qui pourraient être intentées contre les parlementaires ne respectant pas l’article 432-15 du code pénal réprimant le détournement de fonds publics, infraction pour laquelle Anticor est habilitée à porter plainte.",
-    "url": "https://www.anticor.org/2022/11/07/saisine-de-la-cedh-par-regards-citoyens-anticor-intervient-pour-defendre-la-transparence/",
-    "date": "2022-11-07",
-    "etiquettes": "Anticor,Assemblée Nationale,Commission d’accès aux documents administratifs,Cour européenne des droits de l’homme,Regards Citoyens",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": null,
-    "a_la_une": false
-  },
-  {
-    "id": 1076,
-    "titre": "Chaussea soupçonné d’évasion fiscale",
-    "contenu": "L’enseigne Chaussea a été la cible de plusieurs raids de l’administration fiscale, qui la soupçonne de pratiquer de l’évasion fiscale vers le Luxembourg. Début 2020, des visites surprise du fisc ont été effectuées dans des locaux occupés à Paris et Valleroy (Meurthe-et-Moselle) par la société Chaussea SAS et sa maison mère V.G.M. Holding. Les deux entreprises ont unanimement contesté ces descentes, sans succès : les Cours d’appel de Nancy et Paris ont rejeté leur recours, à l’instar de la Cour de Cassation en mai puis en octobre 2022. Les raids ayant été validés, Bercy va maintenant pouvoir utiliser les documents saisis pour notifier un redressement fiscal au commerçant.",
-    "url": "https://www.linforme.com/grande-conso/article/chaussea-soupconne-d-evasion-fiscale_108.html",
-    "date": "2022-11-06",
-    "etiquettes": "Chaussea",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": null,
-    "a_la_une": false
-  },
-  {
-    "id": 1063,
-    "titre": "Affaire Dupond-Moretti : les syndicats de magistrats mettent en cause le commissaire européen à la justice, Didier Reynders",
-    "contenu": "L’Union syndicale des magistrats et le Syndicat de la magistrature ont écrit à la présidente de la Commission européenne, Ursula von der Leyen, pour faire part de leurs doutes sur « l’impartialité objective » du Belge Didier Reynders. Ces soupçons sont basés sur « une certaine proximité entre M. [Nicolas] Sarkozy ou ses proches, d’une part, et M. Reynders ou des membres de son parti [le Mouvement réformateur], d’autre part », est-il précisé dans cette lettre que Le Monde a pu lire.",
-    "url": "https://www.lemonde.fr/societe/article/2022/11/04/affaire-dupond-moretti-les-syndicats-de-magistrats-mettent-en-cause-didier-reynders_6148460_3224.html",
-    "date": "2022-11-04",
-    "etiquettes": "Commission européenne,Didier Reynders,Les Républicains,Nicolas Sarkozy,Syndicat de la Magistrature,Union Syndicale des Magistrats,Ursula von der Leyen",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": null,
-    "a_la_une": false
-  },
-  {
     "id": 1498,
-    "titre": "Alice Guitton",
+    "titre": "Alice Guitton, ex-patronne de la DGRIS, rejoint Thales",
     "contenu": "Passée par l'ENA et Sciences Po Paris, elle commence sa carrière comme rédactrice pour les Nations Unies. Elle est ensuite première secrétaire à l'ambassade française à Londres, puis occupe différents postes au Ministère des affaires étrangères jusqu'en 2012. Elle est ensuite représentante permanente adjointe de la France auprès de l'OTAN, puis ambassadrice, et enfin Directrice générale des relations internationales et de la stratégie à partir de 2018. En 2022, elle rejoint le groupe Thalès.",
     "url": "https://www.lalettrea.fr/entreprises_defense-et-aeronautique/2022/11/04/l-ex-patronne-de-la-dgris-alice-guitton-en-route-pour-thales,109841966-bre",
     "date": "2022-11-04",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1968,
+        "value": "Alice Guitton"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 85,
+        "value": "Thales"
+      },
+      {
+        "id": 127,
+        "value": "Ministère des armées"
+      },
+      {
+        "id": 558,
+        "value": "Direction générale des relations internationales et de la stratégie (DGRIS)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -31042,33 +31388,78 @@
     "contenu": "Le cofondateur et dirigeant du site Veepee (ex vente-privée.com) est soupçonné de recourir à de l’évasion fiscale via une filiale luxembourgeoise. Cette société, qui possède diverses participations financières, un jet ou encore de multiples œuvres d’art, pourrait en réalité être dirigée depuis la France.",
     "url": "https://www.linforme.com/grande-conso/article/jacques-antoine-granjon-veepee-dans-le-collimateur-du-fisc_103.html",
     "date": "2022-11-04",
-    "etiquettes": "Jacques-Antoine Granjon,Veepee",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1966,
+        "value": "Jacques-Antoine Granjon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 556,
+        "value": "Veepee"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
   },
   {
     "id": 1499,
-    "titre": "Nicolas Namias",
+    "titre": "Nicolas Namias est nommé président du groupe bancaire BPCE",
     "contenu": "Sorti de l’ENA en 2004, il passe quatre ans à la direction générale du trésor (DGT), avant de rejoindre une première fois BPCE en 2008 au service \"pilotage des activités d’assurance et de banque commerciale\". De 2012 à 2014, il repart dans le public en tant que conseiller technique au financement de l’économie de Jean-Marc Ayrault, alors que la loi de séparation des activités bancaires est préparée puis votée. Puis il est promu au comité exécutif de Natixis en tant que responsable de la stratégie. Il monte les échelons à grande vitesse jusqu’à prendre la tête de l'entreprise en août 2020. En novembre 2022, il est nommé président du directoire de BPCE.",
     "url": "https://www.mediapart.fr/journal/economie-et-social/021122/le-nouveau-patron-de-bpce-est-un-cas-emblematique-du-pantouflage-en-france",
     "date": "2022-11-03",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1969,
+        "value": "Nicolas Namias"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 559,
+        "value": "BPCE"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1241348,
+        "value": "Banque / Capital-risque"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -31079,12 +31470,41 @@
     "contenu": "Le magnat franco-israélien des télécoms, des médias et du marché de l’art s’est établi en Suisse dès 1999, pour des raisons fiscales. 11e fortune française, 18e fortune suisse, il a fini par attirer l’attention des autorités fiscales genevoises. Elles se demandent s’il vit dans ses chalets de Zermatt, dans le canton du Valais, ou dans ses demeures de Cologny, riche commune à côté de Genève. Et aussi s’il vit séparé ou non de sa femme, ce qui aurait d’importantes conséquences fiscales.",
     "url": "https://www.heidi.news/explorations/drahi-par-lui-meme/le-jour-ou-le-milliardaire-patrick-drahi-s-est-fait-flasher-par-les-impots-suisses",
     "date": "2022-11-01",
-    "etiquettes": "Altice,Patrick Drahi",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1251431,
+        "value": "Suisse"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1384,
+        "value": "Patrick Drahi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 144,
+        "value": "Altice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -31095,12 +31515,49 @@
     "contenu": "Le Qatar voudrait profiter de la Coupe du monde de football pour améliorer son image auprès des parlementaires français. Plusieurs séjours, agrémentés de places offertes dans les stades, sont proposés par Olivier Cadic, président du groupe d'amitié France-pays du Golfe au Sénat.",
     "url": "https://www.lalettrea.fr/action-publique_parlement/2022/10/31/le-senateur-olivier-cadic-en-mission-recrutement-pour-le-qatar,109839986-art?cxt=PUB&amp;utm_source=LLA&amp;utm_medium=email&amp;utm_campaign=AUTO_EDIT_SOM&amp;did=109825881",
     "date": "2022-10-31",
-    "etiquettes": "Fifa,Olivier Cadic,Sénat,Union des démocrates et indépendants",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1970,
+        "value": "Olivier Cadic"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 2,
+        "value": "Sénat"
+      },
+      {
+        "id": 199,
+        "value": "Fédération internationale de football association (FIFA)"
+      },
+      {
+        "id": 268,
+        "value": "Union des démocrates et indépendants (UDI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / Influence"
+      },
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -31111,18 +31568,38 @@
     "contenu": "Le tribunal estime que l’élu socialiste ne s’est pas rendu coupable de détournement de fonds publics. Une ex-chargée de mission a aussi été relaxée, tout comme un ancien directeur général des services.",
     "url": "https://www.leparisien.fr/seine-saint-denis-93/accusations-demploi-fictif-a-bagnolet-le-maire-tony-di-martino-relaxe-par-la-justice-29-10-2022-2HTXN7DZANHCFHXPPMDG6MNNSE.php?ts=1667062799206",
     "date": "2022-10-29",
-    "etiquettes": "93 – Seine Saint Denis,Parti Socialiste,Tony Di Martino",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151972,
         "value": "93 - Seine-Saint-Denis"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1971,
+        "value": "Tony Di Martino"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -31132,11 +31609,39 @@
     "contenu": "En entérinant l’avis du Conseil supérieur de la magistrature, qui avait blanchi deux magistrats financiers, la première ministre met un terme à une vendetta lancée par le garde des Sceaux. Renvoyé devant la justice pour « prise illégale d’intérêts » dans cette affaire, Éric Dupond-Moretti s’accroche pourtant toujours à son poste, avec la bénédiction d’Emmanuel Macron.",
     "url": "https://www.mediapart.fr/journal/france/291022/vendetta-anti-magistrats-elisabeth-borne-inflige-un-ultime-desaveu-eric-dupond-moretti",
     "date": "2022-10-29",
-    "etiquettes": "Conseil supérieur de la magistrature,Éric Dupond-Moretti,Gouvernement Élisabeth Borne,Ministère de la Justice",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 79,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 408,
+        "value": "Conseil supérieur de la magistrature (CSM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -31148,18 +31653,37 @@
     "contenu": "Jusqu'à sept ans de prison ont été requis ce vendredi à Marseille contre \"un système de corruption bien huilé\" dirigé par un haut fonctionnaire du Conseil départemental, autour des marchés publics.\nContre Renaud Chervet, ex-directeur de la gestion, de l'administration et de la comptabilité du Conseil départemental des Bouches-du-Rhône, le procureur Mathieu Vernaudon a requis la peine la plus sévère : sept ans de prison ferme, une amende de 200 000 euros, une interdiction définitive d'exercer toute fonction publique, et la confiscation de sommes d'argent, véhicules et biens immobiliers saisis durant l'instruction.\nCinq ans de prison ferme et une amende de 100 000 euros ont été réclamés contre Jérôme Disdier, intermédiaire entre Renaud Chervet et les entreprises, accusé par le procureur d'avoir mis \"ses qualités professionnelles exceptionnelles au service d'une politique dégoûtante\".",
     "url": "https://www.laprovence.com/actu/en-direct/6948588/corruption-dans-lattribution-des-marches-publics-du-departement-des-bouches-du-rhone-jusqua-7-ans-de-pris",
     "date": "2022-10-28",
-    "etiquettes": "13 - Bouches-du-Rhône,Jérôme Disdier,Renaud Chervet",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151709,
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1870,
+        "value": "Renaud Chervet"
+      },
+      {
+        "id": 1973,
+        "value": "Jérôme Disdier"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -31169,11 +31693,43 @@
     "contenu": "Interrogé sur l'affaire des emplois fictifs du RN (alors FN) au Parlement européen, l'ancien eurodéputé FN Jean-Luc Schaffhauser a assuré dans une interview donnée à \"Complément d'enquête\" sur France 2, le 27 octobre 2022, relayée par franceinfo, que la présidente du parti Marine Le Pen avait été alertée sur le caractère illégal du système qu'elle mettait en place.\nIl mentionne notamment cet échange de juin 2014 avec le trésorier du parti qui s'appelait encore le Front national : \"Ce que Marine nous demande équivaut à ce que l'on signe pour des emplois fictifs, et c'est le député qui est responsable pénalement sur ses deniers, même si le parti en est bénéficiaire\", lui avait-il écrit dans un courriel. À quoi le trésorier, Wallerand de Saint-Just, avait répondu : \"Je crois bien que Marine sait tout cela.\"",
     "url": "https://www.midilibre.fr/2022/10/28/emplois-fictifs-au-rn-lancien-depute-europeen-jean-luc-schaffhauser-charge-marine-le-pen-10768892.php",
     "date": "2022-10-28",
-    "etiquettes": "Jean-Luc Schaffhauser,Marine Le Pen,Parlement Européen,Rassemblement National",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 335,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 1324,
+        "value": "Wallerand de Saint-Just"
+      },
+      {
+        "id": 1972,
+        "value": "Jean-Luc Schaffhauser"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -31181,14 +31737,29 @@
   },
   {
     "id": 1500,
-    "titre": "Jean-Michel Blanquer",
+    "titre": "Jean-Michel Blanquer prépare sa reconversion chez Veolia",
     "contenu": "Formé à Panthéon Assas et à l'IEP de Paris, il est d'abord attaché d'enseignement et de recherche puis directeur de l'Institut des hautes études de l'Amérique latine. En 2004 il devient recteur d'académie puis directeur adjoint du cabinet du ministre de l’Éducation nationale Gilles de Robien. Il est directeur général de l'enseignement scolaire auprès de Luc Chatel sous la présidence de Nicolas Sarkozy, puis directeur général de l'ESSEC en 2013. Il est nommé ministre de l’Éducation nationale et de la Jeunesse en 2017, dans les gouvernements Philippe puis Castex. En 2022, il prépare sa reconversion dans le privé avec la création de l'école de la transformation écologique de Veolia, et de sa société de conseil.",
     "url": "https://www.lalettrea.fr/action-publique_executif/2022/10/28/jean-michel-blanquer-prepare-sa-reconversion-chez-veolia,109839574-eve",
     "date": "2022-10-28",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1476,
+        "value": "Jean-Michel Blanquer"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 193,
+        "value": "Veolia"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -31206,11 +31777,30 @@
     "contenu": "Corruption, prise illégale d’intérêts, favoritisme… Les atteintes à la probité enregistrées en France ont augmenté de 28 % entre 2016 et 2021, selon une étude du ministère de l’Intérieur publiée jeudi 27 octobre.",
     "url": "https://www.ouest-france.fr/societe/hausse-de-28-des-atteintes-a-la-probite-enregistrees-en-france-entre-2016-et-2021-a495a074-5620-11ed-bbe9-bfd039db4594",
     "date": "2022-10-27",
-    "etiquettes": "Agence Française Anticorruption,Ministère de l&#039;intérieur",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 84,
+        "value": "Agence française anticorruption (AFA)"
+      },
+      {
+        "id": 366,
+        "value": "Ministère de l’Intérieur"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -31222,12 +31812,36 @@
     "contenu": "L’éditeur de jeux vidéo vient d’être condamné par le Conseil d’Etat à réintégrer plus de 80 millions d’euros d’impôts sur les sociétés : Bercy n’a pas trop apprécié la façon dont le groupe a géré le rachat des droits de propriété intellectuelle du célèbre auteur américain Tom Clancy, aujourd’hui décédé.",
     "url": "https://www.linforme.com/medias-culture/article/optimisation-fiscale-ubisoft-est-rattrape-par-son-passe-au-luxembourg_81.html",
     "date": "2022-10-27",
-    "etiquettes": "Conseil d&#039;État,Ubisoft",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 342,
+        "value": "Conseil d'État"
+      },
+      {
+        "id": 560,
+        "value": "Ubisoft"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -31238,16 +31852,26 @@
     "contenu": "La ville de Courbevoie soupçonne une ancienne adjointe à l’urbanisme à Penmarc’h d’avoir manœuvré lors d’une transaction immobilière. Une enquête est ouverte.",
     "url": "https://www.letelegramme.fr/bretagne/a-penmarc-h-l-ancienne-colonie-de-vacances-au-coeur-d-une-fraude-26-10-2022-13208683.php",
     "date": "2022-10-26",
-    "etiquettes": "29 - Finistère,Nathalie Poulard",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151723,
         "value": "29 - Finistère"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1975,
+        "value": "Nathalie Poulard"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -31301,13 +31925,38 @@
     "contenu": "Kader Arif, ex-ministre socialiste, a été condamné ce mercredi à un an de prison avec sursis par la Cour de justice de la République (CJR) pour avoir fait attribuer un marché public en 2014 à une société gérée par son frère. Ce proche de François Hollande, chargé du portefeuille des Anciens combattants dans les gouvernements Ayrault puis Valls, entre 2012 et 2014, devra également payer une amende de 20.000 euros.\nLe marché incriminé, conclu sans mise en concurrence par le ministère de Défense en mars 2014, concernait six séances de « média training », dont une seule a été finalement honorée, pour un montant total de 60.000 euros. All Access, la société qui l’a décroché, était gérée par le frère du ministre sans que son nom apparaisse dans les documents.",
     "url": "https://www.20minutes.fr/justice/4007343-20221026-ex-ministre-kader-arif-condamne-an-prison-sursis-favoritisme",
     "date": "2022-10-26",
-    "etiquettes": "Cour de Justice de la République,Gouvernement Jean-Marc Ayrault 1,Kader Arif",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1974,
+        "value": "Kader Arif"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 78,
+        "value": "Cour de Justice de la République (CJR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -31317,10 +31966,28 @@
     "contenu": "Trois des syndicats de la confédération ont déposé plainte contre X, mardi, auprès du Parquet national financier, générant une nouvelle suite judiciaire à cette affaire lancée par le rapport du Sénat, qui dénonçait « un phénomène tentaculaire ».",
     "url": "https://www.lemonde.fr/politique/article/2022/10/26/cabinets-de-conseil-la-cgt-porte-plainte_6147421_823448.html",
     "date": "2022-10-26",
-    "etiquettes": "CGT,Parquet National Financier",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 2,
+        "value": "Sénat"
+      },
+      {
+        "id": 271,
+        "value": "Confédération générale du travail (CGT)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
