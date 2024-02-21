@@ -31988,9 +31988,19 @@
         "value": "Confédération générale du travail (CGT)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -32000,11 +32010,39 @@
     "contenu": "Thierry Philipponnat, fondateur de l'ONG Finance Watch, a démissionné mardi soir du collège de l'Autorité des marchés financiers. Le symbole est fort : son départ intervient au moment où la nouvelle présidente arrive. Selon lui, mettre à la tête du superviseur quelqu'un qui a été du côté des supervisés ne peut pas fonctionner.",
     "url": "https://www.lesechos.fr/finance-marches/marches-financiers/un-membre-du-college-de-lamf-questionne-lindependance-du-regulateur-1873214",
     "date": "2022-10-26",
-    "etiquettes": "Autorité des Marchés Financiers,Finance Watch,Marie-Anne Barbat-Layani,Thierry Philipponnat",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1976,
+        "value": "Marie-Anne Barbat-Layani"
+      },
+      {
+        "id": 1977,
+        "value": "Thierry Philipponnat"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 189,
+        "value": "Autorité des Marchés Financiers (AMF)"
+      },
+      {
+        "id": 561,
+        "value": "Finance Watch"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
