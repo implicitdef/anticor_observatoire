@@ -1,5 +1,143 @@
 [
   {
+    "id": 1953,
+    "titre": "La région Normandie en pince pour une ferme à homards industrielle",
+    "contenu": "Un ancien candidat du parti politique du président de la région Normandie Hervé Morin a lancé un ambitieux projet d’élevage en batterie pour devenir le premier fournisseur de homards normands d’Europe. L’aide d’un demi-million d’euros de la région interroge, comme la pérennité économique et écologique du projet.",
+    "url": "https://www.mediapart.fr/journal/france/210224/la-region-normandie-en-pince-pour-une-ferme-homards-industrielle",
+    "date": "2024-02-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151952,
+        "value": "50 - Manche"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1457,
+        "value": "Hervé Morin"
+      },
+      {
+        "id": 1989,
+        "value": "Thierry Rochas Duperier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 294,
+        "value": "Les Centristes - Le Nouveau Centre (LC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "La région Normandie soutient l'entreprise d'un ancien candidat du parti politique du président de la région, Hervé Morin",
+    "a_la_une": false
+  },
+  {
+    "id": 1954,
+    "titre": "Soupçon de prises illégales d'intérêts, le maire de Grandvillars visé par une enquête préliminaire",
+    "contenu": "Le parquet de Besançon (Doubs) a ouvert une enquête préliminaire visant Christian Rayot, le maire de Grandvillars dans le Territoire de Belfort, pour des soupçons de \"prises illégales d'intérêts\". L'élu conteste fermement l'ensemble des accusations.",
+    "url": "https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/territoire-de-belfort/belfort/soupcon-de-prises-illegales-d-interets-le-maire-de-grandvillars-vise-par-une-enquete-preliminaire-2923683.html",
+    "date": "2024-02-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151987,
+        "value": "90 - Territoire-de-Belfort"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1988,
+        "value": "Christian Rayot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      },
+      {
+        "id": 571,
+        "value": "Football Club de Grandvillars"
+      },
+      {
+        "id": 572,
+        "value": "Sud Développement"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "Christian Rayot, maire de Grandvillars, visé par une enquête préliminaire pour prises illégales d'intérêts",
+    "a_la_une": false
+  },
+  {
+    "id": 1955,
+    "titre": "Le procès en appel de l’ancien maire de Noisy-le-Sec annulé pour une erreur administrative",
+    "contenu": "Laurent Rivoire avait rendez-vous le 14 février devant la cour d’appel de Paris pour un procès… qui a tourné court. Les agents qui avaient enregistré l’acte d’appel n’étaient pas habilités à le faire.",
+    "url": "https://www.leparisien.fr/seine-saint-denis-93/noisy-le-sec-93130/le-proces-en-appel-de-lancien-maire-de-noisy-le-sec-annule-pour-une-erreur-administrative-20-02-2024-KH4TSTMSVBBTNNX3J56UFOVKDU.php",
+    "date": "2024-02-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151972,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1928,
+        "value": "Laurent Rivoire"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 268,
+        "value": "Union des démocrates et indépendants (UDI)"
+      },
+      {
+        "id": 532,
+        "value": "Noisy-le-Sec Habitat"
+      },
+      {
+        "id": 533,
+        "value": "Com’Durable"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1949,
     "titre": "La justice saisit une villa de la Côte d’Azur qui pourrait appartenir au groupe russe Gazprom",
     "contenu": "La villa Maria Irina à Roquebrune-Cap-Martin est officiellement détenue par un oligarque russo-arménien, mais le parquet de Paris estime que son « bénéficiaire réel » n’est autre qu’une filiale du géant gazier et pétrolier russe.",
@@ -551,7 +689,7 @@
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1937,
@@ -577,7 +715,7 @@
       }
     ],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1932,
@@ -846,7 +984,7 @@
     ],
     "theme": [],
     "procedure": [],
-    "titre_corrige": "",
+    "titre_corrige": "La maire de Vénissieux, Michèle Picard, visée par une plainte pour des soupçons de prise illégale d'intérêts",
     "a_la_une": false
   },
   {
@@ -31879,14 +32017,29 @@
   },
   {
     "id": 1501,
-    "titre": "Claude Bartolone",
+    "titre": "Claude Bartolone rejoint l'agence de conseil 2017",
     "contenu": "D'abord cadre de l'industrie pharmaceutique, il s'engage au PS en 1974 et devient conseiller municipal du Pré-Saint-Gervais en 1977. Lors des législatives de 1981, il est élu député de la 6e circonscription de la Seine-Saint-Denis. Il est nommé ministre délégué à la Ville dans le gouvernement de Lionel Jospin, en 1998. Il reste ministre jusqu’à la fin de la troisième cohabitation, en 2002. Il est président du conseil général de la Seine-Saint-Denis de 2008 à 2012. En 2012 il est est élu président de l'Assemblée nationale, poste qu'il occupe jusqu'en 2017. En 2022, il est nommé senior advisor de l'agence de conseil en stratégie et communication \"2017\". Il conserve en parallèle sa propre société de conseil, créée dès le lendemain de son départ du perchoir.",
     "url": "https://www.lalettrea.fr/action-publique_lobbying/2022/10/26/claude-bartolone-rejoint-l-agence-de-conseil-2017,109838295-bre",
     "date": "2022-10-26",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1978,
+        "value": "Claude Bartolone"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -31900,14 +32053,37 @@
   },
   {
     "id": 1502,
-    "titre": "Dominique Vidal",
+    "titre": "Frédérique Vidal rejoint le groupe de courtage Premium",
     "contenu": "Ministre de l’Enseignement supérieur, de la Recherche et de l’Innovation dans le gouvernement Edouard Philippe, elle envisage de rejoindre l’entreprise de formations privées Skema Business School en 2022. Mais un avis défavorable de la Haute Autorité pour la transparence de la vie publique fait annuler le recrutement.  En octobre 2022, elle rejoint cependant le conseil de surveillance du groupe Premium, société spécialisée dans le courtage en assurance, la gestion d'actifs et la gestion de patrimoine.",
     "url": "https://www.aefinfo.fr/depeche/681500-la-reconversion-de-frederique-vidal-au-sein-du-groupe-de-courtage-premium-est-jugee-compatible-avec-reserves-hatvp",
     "date": "2022-10-26",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1979,
+        "value": "Frédérique Vidal"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 79,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 227,
+        "value": "Ministère de l'Éducation nationale"
+      },
+      {
+        "id": 562,
+        "value": "Groupe Premium"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -32054,12 +32230,45 @@
     "contenu": "Le constructeur aéronautique européen fait l'objet d'une enquête sur des soupçons de versement de pots-de-vin lors de la vente de 21 avions à la Libye en 2007, qui s'inscrit dans le cadre d'une enquête plus large sur les relations avec le régime de l'ancien dirigeant libyen Mouammar Kadhafi.\nMediapart rapporte qu'Airbus est proche d'un nouvel accord avec le PNF, après avoir déjà conclu en 2020 une CJIP pour un montant de 2,083 milliards d'euros en France, somme à laquelle s'étaient ajoutées des amendes de plus de 1,5 milliard d'euros en Grande-Bretagne et aux Etats-Unis.",
     "url": "https://www.usinenouvelle.com/article/france-airbus-pourrait-conclure-un-nouvel-accord-avec-le-pnf.N2059732",
     "date": "2022-10-25",
-    "etiquettes": "Airbus,Mouammar Kadhafi,Parquet National Financier",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1312988,
+        "value": "Libye"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1183,
+        "value": "Mouammar Kadhafi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 187,
+        "value": "Airbus"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1312991,
+        "value": "Transports"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -32070,27 +32279,97 @@
     "contenu": "Anne Lauvergeon a été entendue par la police dans le cadre de l’enquête sur Alliance Minière Responsable, une société qui exploite un gisement de bauxite en Guinée. Un nouveau souci judiciaire pour l’ancienne patronne d’Areva, reconvertie dans le conseil et qui enchaîne les déboires ces dernières années. Le parquet national financier avait ouvert une enquête visant l'entreprise sur des soupçons de corruption et de fraude fiscale.",
     "url": "https://www.challenges.fr/entreprise/anne-lauvergeon-entendue-par-la-police-dans-laffaire-de-la-lucrative-mine-responsable_832680",
     "date": "2022-10-25",
-    "etiquettes": "Alliance Minière Responsable,Anne Lauvergeon,Parquet National Financier",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1980,
+        "value": "Anne Lauvergeon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 563,
+        "value": "Alliance Minière Responsable"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1312992,
+        "value": "Énergie"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
   {
     "id": 1069,
     "titre": "Sarkozy-Kadhafi : les juges ont mis un terme à neuf années d’une enquête explosive",
-    "contenu": "LesLes juges chargés de l’affaire des financements libyens, qui vaut à un ex-président de la République et trois anciens ministres d’être poursuivis – du jamais-vu en France –, ont signifié aux parties, vendredi 21 octobre, la fin de neuf années d’instruction judiciaire, selon plusieurs sources, confirmant une information de L’Obs.\nAutrement appelé l’affaire Sarkozy-Kadhafi, le dossier lancé par le juge Serge Tournaire, et désormais entre les mains de la juge Aude Buresi, a abouti aux mises en examen de Nicolas Sarkozy pour quatre délits présumés, qu’il conteste : « corruption », « association de malfaiteurs », « financement illégal de campagne électorale » et « recel de détournements de fonds publics ».\nEn signifiant la fin de son enquête dans cette affaire à nulle autre pareille, la juge Buresi met un terme à presque une décennie d’investigations tentaculaires, qui ont permis aux différents magistrats et policiers de l’Office anticorruption (OCLCIFF) qui se sont penchés sur le dossier de plonger au cœur de la raison d’État et de ses secrets, de pister son argent occulte et cerner ses diverses compromissions, qu’elles soient politiques, diplomatiques ou économiques.",
+    "contenu": "Les juges chargés de l’affaire des financements libyens, qui vaut à un ex-président de la République et trois anciens ministres d’être poursuivis – du jamais-vu en France –, ont signifié aux parties, vendredi 21 octobre, la fin de neuf années d’instruction judiciaire, selon plusieurs sources, confirmant une information de L’Obs.\nAutrement appelé l’affaire Sarkozy-Kadhafi, le dossier lancé par le juge Serge Tournaire, et désormais entre les mains de la juge Aude Buresi, a abouti aux mises en examen de Nicolas Sarkozy pour quatre délits présumés, qu’il conteste : « corruption », « association de malfaiteurs », « financement illégal de campagne électorale » et « recel de détournements de fonds publics ».\nEn signifiant la fin de son enquête dans cette affaire à nulle autre pareille, la juge Buresi met un terme à presque une décennie d’investigations tentaculaires, qui ont permis aux différents magistrats et policiers de l’Office anticorruption (OCLCIFF) qui se sont penchés sur le dossier de plonger au cœur de la raison d’État et de ses secrets, de pister son argent occulte et cerner ses diverses compromissions, qu’elles soient politiques, diplomatiques ou économiques.",
     "url": "https://www.mediapart.fr/journal/france/251022/sarkozy-kadhafi-les-juges-ont-mis-un-terme-neuf-annees-d-une-enquete-explosive",
     "date": "2022-10-25",
-    "etiquettes": "Brice Hortefeux,Claude Guéant,Les Républicains,Mouammar Kadhafi,Nicolas Sarkozy",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1183,
+        "value": "Mouammar Kadhafi"
+      },
+      {
+        "id": 1287,
+        "value": "Claude Guéant"
+      },
+      {
+        "id": 1579,
+        "value": "Brice Hortefeux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 40,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -32102,18 +32381,43 @@
     "contenu": "Le tribunal de Valence a relaxé le maire écologiste de Grenoble, Eric Piolle, dans l'affaire des soupçons de favoritisme dans l'attribution d'un marché public de la ville, rapporte France Bleu Isère mardi 25 octobre. Tous les autres prévenus ont également été relaxés.\nLe procès du maire et de ses six coprévenus – d'anciens agents territoriaux et l'association Fusées – il y a un mois. Ils ont été jugés car ils étaient soupçonnés d'être responsables ou bénéficiaires de l'absence d'un appel d'offres pour l'organisation des deux premières éditions de la Fête des Tuiles à Grenoble en 2015 et 2016. Leur organisation avait directement été confiée à l'association Fusées.",
     "url": "https://www.francetvinfo.fr/societe/justice/soupcons-de-favoritisme-le-maire-de-grenoble-eric-piolle-relaxe_5439163.html",
     "date": "2022-10-25",
-    "etiquettes": "38 - Isère,Eric Piolle,Europe Écologie Les Verts",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151852,
         "value": "38 - Isère"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 1965,
+        "value": "Éric Piolle"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 28,
+        "value": "Les écologistes (ex-Europe Ecologie Les Verts) (EELV)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1313000,
+        "value": "Événementiel"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -32123,12 +32427,32 @@
     "contenu": "Bercy a réclamé pas moins de 370 millions d’euros à Coca-Cola Europacific Partners France (CCEPF), l'entité chargée d’embouteiller et de commercialiser le fameux breuvage dans l’Hexagone. L’administration conteste le traitement des achats de concentrés de boissons que l’industriel a effectués auprès de The Coca-Cola Company (TCCC), une société basée aux Etats-Unis qui détient 19% de Coca-Cola Europacific Partners, la société mère de CCEPF.",
     "url": "https://www.linforme.com/grande-conso/article/coca-cola-ecope-d-un-redressement-fiscal-geant-en-france_66.html",
     "date": "2022-10-24",
-    "etiquettes": "Coca-Cola",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 567,
+        "value": "Coca-Cola"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -32139,18 +32463,46 @@
     "contenu": "Ce lundi s’ouvre devant le tribunal correctionnel de Marseille le procès d’un haut fonctionnaire du conseil départemental des Bouches-du-Rhône et de dix autres personnes. Cet ancien cadre est accusé de corruption dans l’attribution de marchés publics de la collectivité et encourt dix ans de prison.",
     "url": "https://www.20minutes.fr/justice/4006521-20221024-entre-cameras-cachees-pots-vin-proces-rocambolesque-corruption-ouvre-marseille",
     "date": "2022-10-24",
-    "etiquettes": "13 - Bouches-du-Rhône,Jean-Pascal Battista,Renaud Chervet,Saïd Meliouh",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151709,
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1870,
+        "value": "Renaud Chervet"
+      },
+      {
+        "id": 1983,
+        "value": "Jean-Pascal Battista"
+      },
+      {
+        "id": 1984,
+        "value": "Saïd Meliouh"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 497,
+        "value": "Conseil départemental des Bouches-du-Rhône"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -32160,17 +32512,36 @@
     "contenu": "Grâce à une justice négociée, la deuxième banque suisse, poursuivie pour blanchiment de fraude fiscale et démarchage illégal, se voit infliger une amende huit fois inférieure à celle d’UBS, accusée des mêmes fautes. Une décision qui minimise la criminalité en col blanc.\nAvec le temps, toutes les craintes exprimées lors de l’instauration de la convention judiciaire d'intérêt public (CJIP), introduite dans le cadre de la loi Sapin 2, se révèlent fondées. Inspirée de la procédure américaine (« deferred prosecution agreement »), cette procédure permet aux personnes morales mises en cause pour certaines infractions de signer des transactions avec le Parquet national financier sans reconnaître la moindre culpabilité.",
     "url": "https://www.mediapart.fr/journal/economie-et-social/241022/fraude-fiscale-credit-suisse-achete-sa-tranquillite-pour-238-millions-d-euros",
     "date": "2022-10-24",
-    "etiquettes": "Crédit Suisse,Parquet National Financier",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [
+    "etiquettes": "",
+    "departement": [
       {
-        "id": 1152012,
-        "value": "Probité"
+        "id": 1151970,
+        "value": "75 - Paris"
       }
     ],
-    "theme": [],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 255,
+        "value": "Crédit Suisse"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1241348,
+        "value": "Banque / Capital-risque"
+      }
+    ],
     "procedure": [
       {
         "id": 1198995,
@@ -32186,12 +32557,41 @@
     "contenu": "Avec son ancienne casquette de dirigeant de la structure French Tech Grand Paris, le président de BlaBlaCar Frédéric Mazzella a soutenu plusieurs projets auprès de Bercy. Deux subventions du ministère ont profité à sa holding Foo Founders en 2020 et 2021.",
     "url": "https://www.lalettrea.fr/action-publique_lobbying/2022/10/24/french-tech--les-acrobaties-financieres-de-frederic-mazzella-avec-bercy,109837650-ge0",
     "date": "2022-10-24",
-    "etiquettes": "Blablacar,Foo Founders,Frédéric Mazzella,French Tech",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1982,
+        "value": "Frédéric Mazzella"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 565,
+        "value": "Blablacar"
+      },
+      {
+        "id": 566,
+        "value": "French Tech"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1220073,
+        "value": "Technologies"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -32202,38 +32602,102 @@
     "contenu": "France 3 s'est procuré le rapport provisoire sur la gestion de l’OPH, l'Office public de l'Habitat, de Bobigny en 2018-2020. Les constations faites par l’Agence Nationale du Contrôle du Logement Social sont explosives. Elles devraient être rendues publiques dans les prochaines semaines.",
     "url": "https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/exclu-france-3-pidf-hlm-de-bobigny-un-rapport-accablant-2642000.html",
     "date": "2022-10-24",
-    "etiquettes": "93 – Seine Saint Denis,Agence Nationale du Contrôle du Logement Social,Jonathan Berrebi,Office public de l&#039;Habitat,Sylvie Ramond",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151972,
         "value": "93 - Seine-Saint-Denis"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1839,
+        "value": "Jonathan Berrebi"
+      },
+      {
+        "id": 1985,
+        "value": "Sylvie Ramond"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 568,
+        "value": "Agence nationale de contrôle du logement social (ANCOLS)"
+      },
+      {
+        "id": 569,
+        "value": "Office Public de l'Habitat (OPH) de Bobigny"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
   {
     "id": 1042,
     "titre": "Thierry Mariani et Yves Pozzo di Borgo visés par une enquête pour corruption en lien avec la Russie",
-    "contenu": "Selon les informations du Monde, Dialogue franco-russe est au centre de deux enquêtes préliminaires ouvertes le 29 septembre 2021 par la Junalco, la division du parquet de Paris chargée de la lutte contre la criminalité organisée. Cette association, créée en 2004 sous le patronage de Jacques Chirac et de Vladimir Poutine, réunit des responsables politiques et hommes d’affaires français et russes dans le but affiché de développer la coopération entre les deux pays.\nCes deux enquêtes visent notamment Thierry Mariani et Yves Pozzo di Borgo, deux des membres les plus actifs de l’association, connus pour leurs prises de position publiques favorables au Kremlin. M. Mariani, député européen et conseiller régional Rassemblement national (RN), copréside depuis 2012 Dialogue franco-russe et défend ouvertement les intérêts économiques français en Russie. M. Pozzo di Borgo, ancien sénateur et conseiller de Paris, ex-membre du parti centriste Union des démocrates et indépendants (UDI), est lui aussi un fervent soutien de la politique étrangère de Vladimir Poutine.",
+    "contenu": "Dialogue franco-russe est au centre de deux enquêtes préliminaires ouvertes le 29 septembre 2021 par la Junalco, la division du parquet de Paris chargée de la lutte contre la criminalité organisée. Cette association, créée en 2004 sous le patronage de Jacques Chirac et de Vladimir Poutine, réunit des responsables politiques et hommes d’affaires français et russes dans le but affiché de développer la coopération entre les deux pays.\nCes deux enquêtes visent notamment Thierry Mariani et Yves Pozzo di Borgo, deux des membres les plus actifs de l’association, connus pour leurs prises de position publiques favorables au Kremlin. M. Mariani, député européen et conseiller régional Rassemblement national (RN), copréside depuis 2012 Dialogue franco-russe et défend ouvertement les intérêts économiques français en Russie. M. Pozzo di Borgo, ancien sénateur et conseiller de Paris, ex-membre du parti centriste Union des démocrates et indépendants (UDI), est lui aussi un fervent soutien de la politique étrangère de Vladimir Poutine.",
     "url": "https://www.lemonde.fr/police-justice/article/2022/10/24/thierry-mariani-et-yves-pozzo-di-borgo-vises-par-une-enquete-pour-corruption-en-lien-avec-la-russie_6147139_1653578.html",
     "date": "2022-10-24",
-    "etiquettes": "75 - Paris,Parlement Européen,Rassemblement National,Thierry Mariani,Union des démocrates et indépendants,Yves Pozzo di Borgo",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnalites": [
+      {
+        "id": 1419,
+        "value": "Thierry Mariani"
+      },
+      {
+        "id": 1981,
+        "value": "Yves Pozzo di Borgo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 268,
+        "value": "Union des démocrates et indépendants (UDI)"
+      },
+      {
+        "id": 503,
+        "value": "Juridiction nationale de lutte contre la criminalité organisée (JUNALCO)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / Influence"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -32265,11 +32729,39 @@
     "contenu": "L’IGPN cherche à savoir si la hiérarchie policière n’a pas freiné l’enquête sur Frédéric Dupuch, flic de haut rang en charge de la si décriée réforme de la PJ, prêt à tricher pour que sa maîtresse devienne commissaire.\nLe haut fonctionnaire est soupçonné d’avoir favorisé lors de ce concours sa maîtresse, la commandante Faïza A., 44 ans, une petite main de la Direction générale de la police nationale (DGPN) dont la révocation a également été demandée. Ces basses manœuvres ont conduit, fin mai, à la mise en examen des deux amants de la place Beauvau pour « fraude à un concours public ». Mais ce scandale individuel en cache-t-il un autre, capable d’entacher plus largement la police ? L’IGPN, la police des polices, cherche à savoir aujourd’hui si la hiérarchie policière n’a pas tenté de ralentir l’enquête sur Frédéric Dupuch parce qu’il portait la réforme de la départementalisation dans la police voulue par le gouvernement, et si le haut fonctionnaire n’a pas lui-même été alerté qu’il faisait l’objet d’une enquête.",
     "url": "https://www.leparisien.fr/faits-divers/derriere-la-fraude-au-concours-de-commissaire-le-parfum-dun-nouveau-scandale-policier-22-10-2022-VHVGNV3J3FDPDOMJ6C3WIOHQLM.php?utm_campaign=twitter_partage&amp;utm_medium=social",
     "date": "2022-10-22",
-    "etiquettes": "Direction générale de la police nationale,Frédéric Dupuch,Frédéric Veaux,Inspection générale de la Police nationale",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1986,
+        "value": "Frédéric Dupuch"
+      },
+      {
+        "id": 1987,
+        "value": "Frédéric Veaux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 249,
+        "value": "Inspection générale de la Police nationale (IGPN)"
+      },
+      {
+        "id": 570,
+        "value": "Direction générale de la Police nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [
       {
         "id": 1307112,
