@@ -1,5 +1,165 @@
 [
   {
+    "id": 1963,
+    "titre": "Dépôt de plainte par « AC-Anti Corruption » contre X pour prise illégale d’intérêts et favoritisme",
+    "contenu": "L’association Anti-Corruption, dite AC !!, a adressé une plainte contre X rédigée par Maître Poudampa (Barreau de Bordeaux), lundi 19 février 2024, au parquet interrégional à Lille où est visé deux délits, prise illégale d’intérêts et favoritisme.",
+    "url": "https://www.va-infos.fr/2024/02/22/valenciennes-depot-de-plainte-par-ac-anti-corruption-contre-x-pour-prise-illegale-dinterets-et-favoritisme/",
+    "date": "2024-02-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151958,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1992,
+        "value": "Laurent Degallaix"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "Laurent Degallaix, conseiller départemental du Nord, visé par une plainte pour prise illégale d’intérêts et favoritisme",
+    "a_la_une": false
+  },
+  {
+    "id": 1960,
+    "titre": "Le « Balkany du Sud » de nouveau visé par une enquête",
+    "contenu": "Alors qu’il doit être jugé le 6 mars pour « prise illégale d’intérêts », Alain Ferrand, 64 ans, maire de la station balnéaire du Barcarès (Pyrénées-Orientales), fait l’objet d’une nouvelle enquête ouverte en janvier 2023 pour des marchés publics douteux passés sur le village de Noël.",
+    "url": "https://www.leparisien.fr/faits-divers/le-balkany-du-sud-de-nouveau-vise-par-une-enquete-22-02-2024-NZKV6T3DLNBBVNMCQ5234JYUZ4.php",
+    "date": "2024-02-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151964,
+        "value": "66 - Pyrénées-Orientales"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1398,
+        "value": "Alain Ferrand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "Alain Ferrand, maire du Barcarès, visé par une nouvelle enquête pour des marchés publics douteux passés sur le village de Noël",
+    "a_la_une": false
+  },
+  {
+    "id": 1958,
+    "titre": "Soupçons d’irrégularités de gestion financière au comité de jumelage d’Anould : une plainte contre X déposée",
+    "contenu": "Alertée au sujet de soupçons d’irrégularités de gestion au sein de comité de jumelage Anould-Schöneck, l’association anticorruption AC !! vient de déposer une plainte contre X. Il y est question de possibles prise illégale d’intérêt, détournement de fonds publics, abus de confiance et corruption passive.",
+    "url": "https://www.vosgesmatin.fr/faits-divers-justice/2024/02/22/soupcons-d-irregularites-de-gestion-financiere-au-comite-de-jumelage-d-anould-une-plainte-contre-x-deposee",
+    "date": "2024-02-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151985,
+        "value": "88 - Vosges"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 170,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1961,
+    "titre": "JO 2024. La plainte à l’encontre de Michaël Aloïsio, haut responsable, classée sans suite",
+    "contenu": "Le Parquet national financier (PNF) a fait savoir mercredi qu’il avait classé sans suite la plainte déposée à l’encontre de Michaël Aloïsio, haut responsable des Jeux de Paris-2024, pour favoritisme et trafic d’influence.",
+    "url": "https://www.ouest-france.fr/jeux-olympiques/jo-2024-la-plainte-a-lencontre-de-michael-aloisio-haut-responsable-classee-sans-suite-4a256ade-d0ea-11ee-bb1e-59012ec94aef",
+    "date": "2024-02-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1185,
+        "value": "Michaël Aloïsio"
+      },
+      {
+        "id": 1187,
+        "value": "Sébastien Chesbeuf"
+      },
+      {
+        "id": 1502,
+        "value": "Edouard Donnelly"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 8,
+        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024 (COJOP)"
+      },
+      {
+        "id": 24,
+        "value": "Keneo"
+      },
+      {
+        "id": 26,
+        "value": "RNK"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1953,
     "titre": "La région Normandie en pince pour une ferme à homards industrielle",
     "contenu": "Un ancien candidat du parti politique du président de la région Normandie Hervé Morin a lancé un ambitieux projet d’élevage en batterie pour devenir le premier fournisseur de homards normands d’Europe. L’aide d’un demi-million d’euros de la région interroge, comme la pérennité économique et écologique du projet.",
@@ -37,6 +197,77 @@
     "theme": [],
     "procedure": [],
     "titre_corrige": "La région Normandie soutient l'entreprise d'un ancien candidat du parti politique du président de la région, Hervé Morin",
+    "a_la_une": false
+  },
+  {
+    "id": 1959,
+    "titre": "Mes vacances ne sont pas prises en charge par les services\" : le président du département de la Somme visé par une enquête pour détournement de biens publics",
+    "contenu": "Une enquête pour détournement de biens publics a été ouverte à l'encontre du président du conseil départemental de la Somme, Stéphane Haussoulier. Plusieurs perquisitions ont eu lieu, notamment pour vérifier le cadre de financement de frais engagés lors de deux déplacements dans les Bouches-du-Rhône.",
+    "url": "https://france3-regions.francetvinfo.fr/hauts-de-france/somme/mes-vacances-ne-sont-pas-prises-en-charge-par-les-services-le-president-du-departement-de-la-somme-vise-par-une-enquete-pour-detournement-de-biens-publics-2928450.html",
+    "date": "2024-02-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151977,
+        "value": "80 - Somme"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1991,
+        "value": "Stéphane Haussoulier"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "Stéphane Haussoulier, président du département de la Somme, visé par une enquête pour détournement de biens publics",
+    "a_la_une": false
+  },
+  {
+    "id": 1962,
+    "titre": "Prise illégale d’intérêts: le maire de Vallauris Kevin Luciano condamné pour diffamation envers son ex-adjointe",
+    "contenu": "Le maire de Vallauris, Kevin Luciano, vient d’être condamné par le tribunal de Grasse pour diffamation à l’encontre de son ex-adjointe Claudy Gimenez.",
+    "url": "https://www.nicematin.com/justice/prise-illegale-d-interets-le-maire-de-vallauris-kevin-luciano-condamne-pour-diffamation-envers-son-ex-adjointe-904798",
+    "date": "2024-02-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1387,
+        "value": "Kevin Luciano"
+      },
+      {
+        "id": 1588,
+        "value": "Claudy Gimenez"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
     "a_la_une": false
   },
   {
@@ -154,6 +385,37 @@
       {
         "id": 1340,
         "value": "Claude Merly"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1964,
+    "titre": "Thierry Fourcassier, l’ex-maire de Saint-Jory, reste en détention",
+    "contenu": "Thierry Fourcassier, ex-maire de Saint-Jory, reste incarcéré suite à la confirmation par la cour d’appel de Toulouse de son mandat de dépôt pour corruption, blanchiment et prise illégale d’intérêt.",
+    "url": "https://www.lejournaltoulousain.fr/occitanie/haute-garonne/actualites-haute-garonne/thierry-fourcassier-ex-maire-saint-jory-reste-detention-250515/",
+    "date": "2024-02-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151845,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1231,
+        "value": "Thierry Fourcassier"
       }
     ],
     "personnes_morales": [],
@@ -337,7 +599,12 @@
     "url": "https://www.ledauphine.com/faits-divers-justice/2024/02/18/soupcons-de-detournements-de-fonds-publics-par-des-policiers-municipaux-de-bollene",
     "date": "2024-02-18",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151981,
+        "value": "84 - Vaucluse"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [
@@ -562,6 +829,37 @@
         "value": "Procès"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1965,
+    "titre": "Intimidation, privilèges, gestion opaque... Enquête sur Henri Pons le sulfureux maire d'Eyguières",
+    "contenu": "La Provence\" a enquêté sur cette commune où les deux filles d’Henri Pons travaillent à la mairie et où un petit groupe d’entreprises se partage le tiers des dépenses publiques. À Eyguières, on peut acheter des bâtiments publics à un prix dérisoire, mais il est impossible d’obtenir l’organigramme des services municipaux.",
+    "url": "https://www.laprovence.com/article/region/77173176025724/intimidation-privileges-gestion-opaque-enquete-sur-henri-pons-le-sulfureux-maire-deyguieres",
+    "date": "2024-02-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1993,
+        "value": "Henri Pons"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
