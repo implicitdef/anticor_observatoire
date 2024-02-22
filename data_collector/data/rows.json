@@ -138,6 +138,37 @@
     "a_la_une": false
   },
   {
+    "id": 1956,
+    "titre": "Marchiennes : le maire démissionne et va purger sa peine d’inéligibilité",
+    "contenu": "Claude Merly a adressé sa lettre de démission au préfet, qui pourrait l’entériner dès cette semaine. L’épilogue du long feuilleton judiciaire dans lequel l’élu s’est retrouvé empêtré ces huit dernières années.",
+    "url": "https://www.lavoixdunord.fr/1432504/article/2024-02-20/marchiennes-le-maire-demissionne-et-va-purger-sa-peine-d-ineligibilite",
+    "date": "2024-02-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151958,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1340,
+        "value": "Claude Merly"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1949,
     "titre": "La justice saisit une villa de la Côte d’Azur qui pourrait appartenir au groupe russe Gazprom",
     "contenu": "La villa Maria Irina à Roquebrune-Cap-Martin est officiellement détenue par un oligarque russo-arménien, mais le parquet de Paris estime que son « bénéficiaire réel » n’est autre qu’une filiale du géant gazier et pétrolier russe.",
@@ -195,6 +226,54 @@
         "value": "Enquête"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1957,
+    "titre": "Sénat : Une plainte pour détournement de fonds publics",
+    "contenu": "L’association anticorruption AC !! a déposé une plainte contre X pour « détournement de fonds publics, prise illégale d’intérêts et abus de confiance » visant les augmentations de salaire de la secrétaire médicale, impliquée dans la fameuse sextape du Sénat.",
+    "url": "https://infodujour.fr/politique/etat/73359-senat-une-plainte-pour-detournement-de-fonds-publics",
+    "date": "2024-02-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1410,
+        "value": "Joël Guerriau"
+      },
+      {
+        "id": 1990,
+        "value": "Lmahdi El Hassan"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 2,
+        "value": "Sénat"
+      },
+      {
+        "id": 86,
+        "value": "Société nationale des chemins de fer français (SNCF)"
+      },
+      {
+        "id": 170,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -41858,11 +41937,26 @@
         "value": "59 - Nord"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1340,
+        "value": "Claude Merly"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
