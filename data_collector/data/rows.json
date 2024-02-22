@@ -103,6 +103,66 @@
     "a_la_une": false
   },
   {
+    "id": 1966,
+    "titre": "Une perquisition a été menée, début février, au siège du Paris Saint-Germain",
+    "contenu": "Une perquisition a été menée par les enquêteurs, début février, au siège du PSG et de la chaîne BeIN Sports – appelé « La Factory » – à Boulogne-Billancourt (Hauts-de-Seine). La perquisition a été confirmée de source judiciaire, sans aucune précision, « celle-ci étant couverte par le secret de l’instruction ».",
+    "url": "https://www.lemonde.fr/societe/article/2024/02/22/une-perquisition-a-ete-menee-debut-fevrier-au-siege-du-paris-saint-germain_6217934_3224.html",
+    "date": "2024-02-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1388,
+        "value": "Gérald Darmanin"
+      },
+      {
+        "id": 1597,
+        "value": "Nasser al-Khelaïfi"
+      },
+      {
+        "id": 1607,
+        "value": "Neymar da Silva Santos Júnior"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 40,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 249,
+        "value": "Inspection générale de la Police nationale (IGPN)"
+      },
+      {
+        "id": 445,
+        "value": "BeIn Sports France"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1961,
     "titre": "JO 2024. La plainte à l’encontre de Michaël Aloïsio, haut responsable, classée sans suite",
     "contenu": "Le Parquet national financier (PNF) a fait savoir mercredi qu’il avait classé sans suite la plainte déposée à l’encontre de Michaël Aloïsio, haut responsable des Jeux de Paris-2024, pour favoritisme et trafic d’influence.",
