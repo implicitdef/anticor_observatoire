@@ -1,5 +1,44 @@
 [
   {
+    "id": 1968,
+    "titre": "Collecte des déchets : le groupe Nicollin au cœur d’une plainte pour « favoritisme »",
+    "contenu": "Évincée d’un appel d’offres, une filiale du groupe Derichebourg dénonce dans une plainte contre X le manque d’impartialité dans la procédure d’attribution du marché public remporté par le géant de la propreté urbaine. Nicollin conteste.",
+    "url": "https://www.mediapart.fr/journal/france/230224/collecte-des-dechets-le-groupe-nicollin-au-coeur-d-une-plainte-pour-favoritisme",
+    "date": "2024-02-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151953,
+        "value": "51 - Marne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 357,
+        "value": "Derichebourg Multiservices"
+      },
+      {
+        "id": 584,
+        "value": "Groupe Nicollin"
+      },
+      {
+        "id": 585,
+        "value": "Paris Est Marne et Bois (PEMB)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1963,
     "titre": "Dépôt de plainte par « AC-Anti Corruption » contre X pour prise illégale d’intérêts et favoritisme",
     "contenu": "L’association Anti-Corruption, dite AC !!, a adressé une plainte contre X rédigée par Maître Poudampa (Barreau de Bordeaux), lundi 19 février 2024, au parquet interrégional à Lille où est visé deux délits, prise illégale d’intérêts et favoritisme.",
@@ -91,6 +130,37 @@
         "value": "AC !! Anti-Corruption"
       }
     ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1967,
+    "titre": "Soupçons de détournement de fonds publics dans une mairie près d’Angers",
+    "contenu": "Une maire, deux anciens élus et une ancienne comptable d’une commune de Maine-et-Loire sont poursuivis pour détournement de fonds publics, faux, usage de faux. Ils sont soupçonnés d’avoir mis en place en 2017 un système de compensation des indemnités d’élus en dehors du cadre légal. Leur procès a été renvoyé au 25 mars 2025.",
+    "url": "https://www.ouest-france.fr/societe/justice/soupcons-de-detournement-de-fonds-publics-dans-une-mairie-pres-dangers-24dedd16-d165-11ee-89c0-6cefac77e04a",
+    "date": "2024-02-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151951,
+        "value": "49 - Maine-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2006,
+        "value": "Maryline Lézé"
+      }
+    ],
+    "personnes_morales": [],
     "categorie": [
       {
         "id": 1152012,
@@ -217,7 +287,7 @@
       }
     ],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1953,
@@ -977,7 +1047,7 @@
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1931,
@@ -33340,7 +33410,12 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
     "procedure": [
       {
         "id": 1153422,
@@ -33436,7 +33511,7 @@
     "contenu": "​Après le rapport de la Chambre régionale des comptes épinglant la gestion de l’Association jeunesse et avenir, basée à La Baule, l’association Anticor a fait un signalement à la procureure de la République de Saint-Nazaire. Des faits lui paraissent « constituer une infraction pénale ».",
     "url": "https://www.ouest-france.fr/pays-de-la-loire/la-baule-44500/handicap-anticor-saisit-la-justice-sur-la-gestion-d-etablissements-en-presqu-ile-c59cff6a-4eaf-11ed-b832-30b1043f3243",
     "date": "2022-10-20",
-    "etiquettes": "44 – Loire-Atlantique,Anticor,Jeunesse et avenir",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151947,
@@ -33444,9 +33519,28 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      },
+      {
+        "id": 578,
+        "value": "Jeunesse et avenir"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1282331,
+        "value": "Social"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -33457,12 +33551,41 @@
     "contenu": "Le ministère public de la Confédération helvétique (MPC) a confirmé, mercredi 19 octobre, avoir fait appel de l’acquittement en première instance, le 8 juillet, de l’ex-président français de l’Union des associations européennes de football (UEFA), Michel Platini, et de l’ancien patron suisse de la FIFA, Sepp Blatter, par le Tribunal pénal fédéral (TPF) de Bellinzone (Suisse).\nLe MPC confirme ainsi son « annonce d’appel », déposée mi-juillet auprès du TPF. Un nouveau procès aura donc lieu devant la cour d’appel du TPF. Durant cette audience, le parquet demandera « l’annulation totale du jugement de première instance ».",
     "url": "https://www.lemonde.fr/sport/article/2022/10/19/affaire-blatter-platini-le-ministere-public-fait-appel-un-nouveau-proces-a-l-horizon_6146513_3242.html",
     "date": "2022-10-19",
-    "etiquettes": "Fifa,Michel Platini,Sepp Blatter",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1251431,
+        "value": "Suisse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1464,
+        "value": "Michel Platini"
+      },
+      {
+        "id": 1912,
+        "value": "Sepp Blatter"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 199,
+        "value": "Fédération internationale de football association (FIFA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -33473,11 +33596,51 @@
     "contenu": "Le Conseil supérieur de la magistrature estime qu’Eliane Houlette et Patrice Amar n’ont commis « aucune faute disciplinaire » lorsqu’ils ont diligenté une enquête du Parquet national financier destinée à identifier une « taupe » dans l’entourage de Nicolas Sarkozy. Laquelle avait notamment ciblé l’actuel garde des Sceaux alors qu’il était encore avocat.",
     "url": "https://www.liberation.fr/societe/police-justice/affaire-des-fadettes-le-csm-blanchit-les-deux-magistrats-dans-le-viseur-de-dupond-moretti-20221019_ZYXDKGNUUBAGLBUFWJ5JLS45TQ/?redirected=1",
     "date": "2022-10-19",
-    "etiquettes": "Conseil supérieur de la magistrature,Eliane Houlette,Éric Dupond-Moretti,Ministère de la Justice,Nicolas Sarkozy,Parquet National Financier,Patrice Amar",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      },
+      {
+        "id": 2002,
+        "value": "Éliane Houlette"
+      },
+      {
+        "id": 2003,
+        "value": "Patrice Amar"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 408,
+        "value": "Conseil supérieur de la magistrature (CSM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -33489,18 +33652,66 @@
     "contenu": "L’enquête sur les fausses accusations contre le couple de députés LFI a révélé l’existence d’un coup monté visant à fausser le scrutin des législatives. L’un des proches collaborateurs de Jean-Christophe Lagarde a reconnu être celui qui se cachait derrière la pseudo-femme de ménage sans-papiers.",
     "url": "https://www.leparisien.fr/faits-divers/affaire-garrido-corbiere-derriere-la-fausse-employee-maltraitee-les-coulisses-dun-incroyable-complot-politique-19-10-2022-F5VTJHDH7FCYRO5AXECMEXOYTM.php?xtor=AD-366",
     "date": "2022-10-19",
-    "etiquettes": "93 – Seine Saint Denis,Alexis Corbière,Jean-Christophe Lagarde,Le Point,Raquel Garrido,Union des démocrates et indépendants",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151972,
         "value": "93 - Seine-Saint-Denis"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 151,
+        "value": "Alexis Corbière"
+      },
+      {
+        "id": 229,
+        "value": "Raquel Garrido"
+      },
+      {
+        "id": 1554,
+        "value": "Jean-Christophe Lagarde"
+      },
+      {
+        "id": 1998,
+        "value": "Rudy Succar"
+      },
+      {
+        "id": 1999,
+        "value": "Aziz Zemouri"
+      },
+      {
+        "id": 2000,
+        "value": "Étienne Gernelle"
+      },
+      {
+        "id": 2001,
+        "value": "Anouar Bouhadjela"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 268,
+        "value": "Union des démocrates et indépendants (UDI)"
+      },
+      {
+        "id": 577,
+        "value": "Le Point"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -33510,39 +33721,90 @@
     "contenu": "Maire de la commune de 2001 à 2020, Patrice Caffin (SE) a été reconnu coupable par le tribunal correctionnel de Melun pour la vente en 2019 d’un bien communal à l’un de ses conseillers municipaux, lui aussi condamné. Le bien est confisqué par la justice.",
     "url": "https://www.leparisien.fr/seine-et-marne-77/jouy-le-chatel-lancien-maire-condamne-pour-complicite-de-prise-illegale-dinteret-19-10-2022-5UBKJ4AICZG3FKTD4T2IKVV2XI.php?ts=1666419602605",
     "date": "2022-10-19",
-    "etiquettes": "77 - Seine-et-Marne,Antonio De Oliveira Lopes,Patrice Caffin",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151975,
         "value": "77 - Seine-et-Marne"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 2004,
+        "value": "Patrice Caffin"
+      },
+      {
+        "id": 2005,
+        "value": "Antonio De Oliveira Lopes"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
   {
     "id": 1038,
     "titre": "La Région pointe la formation des élus verts et saisit le parquet de Lyon",
-    "contenu": "Une semaine après les révélations de Mediapart sur le « dîner des sommets », fastueux repas à 100 000 euros qui s’est tenu en juin au Château de la Chaize dans le Beaujolais avec une poignée d’invités de Laurent Wauquiez, révélations qui ont été suivies d’un signalement des élus écologistes auprès de la Chambre Régionale des Comptes et du procureur de la République , la Région contre-attaque. Dans un communiqué publié ce mercredi soir, elle annonce avoir saisi le parquet de Lyon au titre de l’article 40 du code procédure pénale, au sujet « des pratiques du groupe Europe Ecologie Les Verts de la Région au regard de la mise en œuvre de son droit à la formation ».",
+    "contenu": "Une semaine après les révélations de Mediapart sur le « dîner des sommets », fastueux repas à 100 000 euros qui s’est tenu en juin au Château de la Chaize dans le Beaujolais avec une poignée d’invités de Laurent Wauquiez, révélations qui ont été suivies d’un signalement des élus écologistes auprès de la Chambre Régionale des Comptes et du procureur de la République, la Région contre-attaque. Dans un communiqué publié ce mercredi soir, elle annonce avoir saisi le parquet de Lyon au titre de l’article 40 du code procédure pénale, au sujet « des pratiques du groupe Europe Ecologie Les Verts de la Région au regard de la mise en œuvre de son droit à la formation ».",
     "url": "https://www.leprogres.fr/politique/2022/10/19/la-region-pointe-la-formation-des-elus-verts-et-saisit-le-parquet-de-lyon",
     "date": "2022-10-19",
-    "etiquettes": "69 - Rhône,Europe Écologie Les Verts,Fabienne Grébert,Olivier Longeon",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151715,
         "value": "69 - Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1295,
+        "value": "Laurent Wauquiez"
+      },
+      {
+        "id": 1758,
+        "value": "Fabienne Grébert"
+      },
+      {
+        "id": 1759,
+        "value": "Olivier Longeon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 28,
+        "value": "Les écologistes (ex-Europe Ecologie Les Verts) (EELV)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153427,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -33552,18 +33814,37 @@
     "contenu": "Le maire divers droite de Sète Francois Commeihnes risque cinq ans d'inéligibilité. Il était jugé lundi devant le tribunal correctionnel de Montpellier pour détournement de fonds publics. L'affaire porte sur des rémunérations complémentaires attribuées à Patrice Millet, l'ancien directeur général des services de la ville de Sète et de Thau Agglo, entre 2016 et 2019. Cela représente un montant total de de près de 99.000 euros. Patrice Millet était également jugé.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/cinq-ans-d-ineligibilite-contre-le-maire-de-sete-je-ne-suis-ni-un-violeur-ni-un-assassin-1666073955",
     "date": "2022-10-18",
-    "etiquettes": "34 – Hérault,Francois Commeihnes",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151848,
         "value": "34 - Hérault"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1266,
+        "value": "François Commeinhes"
+      },
+      {
+        "id": 1267,
+        "value": "Patrice Millet"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -33573,12 +33854,52 @@
     "contenu": "Dans plusieurs pays d’Europe, les consultants rédigent des parties entières des plans, accompagnent les Etats et évaluent l’efficacité des mesures, multipliant ainsi les conflits d’intérêts. Une proposition de loi sur ces recours massifs doit être discutée ce mardi au Sénat.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2022/10/18/comment-les-cabinets-de-conseil-profitent-des-plans-de-relance-europeens_6146233_4355770.html",
     "date": "2022-10-18",
-    "etiquettes": "Capgemini,Deloitte,McKinsey,PwC,Roland Berger,Sénat",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 2,
+        "value": "Sénat"
+      },
+      {
+        "id": 410,
+        "value": "Capgemini"
+      },
+      {
+        "id": 444,
+        "value": "McKinsey & Company"
+      },
+      {
+        "id": 579,
+        "value": "Deloitte"
+      },
+      {
+        "id": 580,
+        "value": "PricewaterhouseCoopers (PwC)"
+      },
+      {
+        "id": 581,
+        "value": "Roland Berger"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1249364,
+        "value": "Conseil"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -33631,12 +33952,32 @@
     "contenu": "La Bibliothèque littéraire Jacques-Doucet, une prestigieuse institution parisienne où sont rassemblés des milliers de livres et de précieux manuscrits, est au cœur de graves soupçons de trafic d’ouvrages.",
     "url": "https://www.lemonde.fr/culture/article/2022/10/17/l-affaire-doucet-mysterieuses-disparitions-d-uvres-rares-dans-une-bibliotheque-parisienne_6146192_3246.html#xtor=AL-32280270-%5Btwitter%5D-%5Bios%5D",
     "date": "2022-10-18",
-    "etiquettes": "Bibliothèque littéraire Jacques-Doucet",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 583,
+        "value": "Bibliothèque littéraire Jacques-Doucet"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1220072,
+        "value": "Art"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -33668,11 +34009,34 @@
     "contenu": "Le groupe cimentier Lafarge, désormais sous la houlette de la multinationale suisse Holcim, a annoncé, mardi 18 octobre, avoir accepté de payer une sanction financière de 778 millions de dollars (790,9 millions d’euros) aux Etats-Unis et de plaider coupable pour avoir aidé des organisations terroristes en Syrie, dont l’organisation Etat islamique (EI), entre 2013 et 2014.\nL’entreprise française a « accepté la responsabilité des actions des dirigeants individuels impliqués, dont le comportement était en violation flagrante des codes de conduite », a déclaré Lafarge dans un communiqué, ajoutant « regretter profondément » ces actes.",
     "url": "https://www.lemonde.fr/societe/article/2022/10/18/lafarge-va-payer-778-millions-de-dollars-aux-etats-unis-pour-avoir-aide-des-organisations-terroristes-en-syrie_6146344_3224.html",
     "date": "2022-10-18",
-    "etiquettes": "Holcim,Lafarge",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1364550,
+        "value": "Syrie"
+      },
+      {
+        "id": 1364551,
+        "value": "États-Unis"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 582,
+        "value": "Lafarge (Holcim)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -33705,13 +34069,42 @@
     "contenu": "Le parquet général a réclamé lundi une amende de 500.000 euros à l'encontre du Rassemblement national (RN) au procès en appel de l'ex-Front national (FN) accusé d'escroquerie aux dépens de l'Etat dans le financement des législatives de 2012. L'accusation a également requis des peines de prison contre sept prévenus dont l'ancien trésorier du FN, Wallerand de Saint-Just.",
     "url": "https://www.bfmtv.com/police-justice/proces-des-kits-de-campagne-du-fn-le-parquet-reclame-500-000-euros-d-amende-au-rn_AD-202210170895.html",
     "date": "2022-10-18",
-    "etiquettes": "Marine Le Pen,Rassemblement National,Wallerand de Saint-Just",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 335,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 1324,
+        "value": "Wallerand de Saint-Just"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National (RN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
