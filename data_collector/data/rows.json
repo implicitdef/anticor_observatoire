@@ -33145,18 +33145,54 @@
     "contenu": "À Toulon, le contrôle de la gestion des HLM de La Beaucaire, le plus grand quartier populaire de la ville, fait l’objet d’âpres combats. Plusieurs accusations ont été portées concernant l’attribution de logements HLM. Le 21 juin, l’association Anticor a déposé plainte, avec constitution de partie civile, pour « corruption » et « trafic d’influence ».",
     "url": "https://www.mediapart.fr/journal/france/221022/attribution-de-hlm-toulon-une-plainte-deposee-pour-corruption",
     "date": "2022-10-22",
-    "etiquettes": "83 - Var,Anticor,Association varoise d’action des locataires,Horizons,Hubert Falco,Jacqueline Matheron,Toulon-Habitat-Méditerrannée",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151980,
         "value": "83 - Var"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1994,
+        "value": "Hubert Falco"
+      },
+      {
+        "id": 1995,
+        "value": "Jacqueline Matheron"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 17,
+        "value": "Horizons"
+      },
+      {
+        "id": 76,
+        "value": "Anticor"
+      },
+      {
+        "id": 574,
+        "value": "Toulon Habitat Méditerranée"
+      },
+      {
+        "id": 575,
+        "value": "Association varoise d’action des locataires (AVAL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -33215,16 +33251,39 @@
     "contenu": "Depuis quatre ans, le journaliste indépendant Stefan de Vries essaie d’obtenir les détails de notes de frais de la maire de Paris, Anne Hidalgo, sans succès. Il a fait des demandes similaires à d'autres collectivités et institutions publiques qui répondent favorablement la plupart du temps. Seule la ville de Paris traîne des pieds et malgré des décisions judiciaires très claires, oppose de nombreux obstacles judiciaires. Au début de l'année, elle est allée jusque devant le Conseil d'État.",
     "url": "https://actu.fr/ile-de-france/paris_75056/le-parcours-du-combattant-d-un-journaliste-pour-obtenir-les-notes-de-frais-d-anne-hidalgo_54666586.html",
     "date": "2022-10-21",
-    "etiquettes": "75 - Paris,Anne Hidalgo,Conseil d&#039;État,Parti Socialiste,Stefan de Vries",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1284,
+        "value": "Anne Hidalgo"
+      },
+      {
+        "id": 1996,
+        "value": "Stefan de Vries"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 342,
+        "value": "Conseil d'État"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -33236,13 +33295,58 @@
     "contenu": "Les magistrats français chargés d’enquêter sur l’attribution controversée du Mondial 2022 au Qatar n’ont pas jugé utile, le 13 octobre 2021, de questionner Gianni Infantino, entendu comme témoin, sur ses rapports étroits avec l’émirat. S’il reste soumis à l’impôt en Suisse, selon la FIFA, le dirigeant vit principalement à Doha depuis l’automne 2021, où il loue une maison pour sa famille. Soit à plusieurs milliers de kilomètres de Zurich, où la FIFA a installé son siège en 1932.",
     "url": "https://www.lemonde.fr/football/article/2022/10/20/coupe-du-monde-2022-les-liens-etroits-du-president-de-la-fifa-avec-le-qatar_6146555_1616938.html",
     "date": "2022-10-20",
-    "etiquettes": "Fifa,Gianni Infantino",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1226729,
+        "value": "Qatar"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1251431,
+        "value": "Suisse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1465,
+        "value": "Gianni Infantino"
+      },
+      {
+        "id": 1597,
+        "value": "Nasser al-Khelaïfi"
+      },
+      {
+        "id": 1997,
+        "value": "Michael Lauber"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 199,
+        "value": "Fédération internationale de football association (FIFA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -33252,7 +33356,7 @@
     "contenu": "Après les 350.000 euros détournés par Guillaume Masset, au détriment de l'Apajh 37, entre 2018 et 2020, une autre affaire du même acabit secoue la Touraine. Un animateur de l'espace de vie sociale \"Vivre ensemble Rives du Cher\" à Tours est accusé de s'être servi dans la caisse pendant deux ans, lui aussi. Il a reconnu avoir détourné près de 130.000 euros. Une somme dépensée dans des jeux et paris en ligne.\nDans cette histoire, c'est grâce à un contrôle externe des finances de l'association que la justice a été alertée. La structure des Rives du Cher touche en effet plus de 153.000 euros de subventions publiques par an - 250.000 euros exactement de la préfecture, de la CAF et de la mairie de Tours. Elle est donc dans l'obligation de nommer un commissaire aux comptes pour six ans. Une durée qui lui garantit son indépendance.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/detournements-de-fonds-publics-en-indre-et-loire-comment-sont-controlees-les-associations-1666284244",
     "date": "2022-10-20",
-    "etiquettes": "37 - Indre-et-Loire,Vivre ensemble Rives du Cher",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151851,
@@ -33260,8 +33364,22 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 409,
+        "value": "Caisse nationale des allocations familiales (CAF)"
+      },
+      {
+        "id": 576,
+        "value": "Vivre ensemble aux Rives du Cher (VERC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -33273,13 +33391,42 @@
     "contenu": "L'accusation a requis jeudi 20 octobre deux ans de prison avec sursis à l'encontre de l'ancien ministre Kader Arif, accusé devant la Cour de justice de la République (CJR), d'avoir fait attribuer un marché public de 60.000 euros à une société gérée par son frère, en 2014.\nSi les montants en jeu sont « modestes », « un tel comportement témoigne d'une conception de l'État qui n'est pas acceptable et qui va à l'encontre des principes d'exemplarité et de probité » qu'on attend d'un responsable public , a estimé le procureur général près la cour de cassation François Molins, qui représente l'accusation à la CJR. Il a également requis 15.000 euros d'amende et une interdiction d'exercer des fonctions publiques pendant cinq ans.",
     "url": "https://www.lefigaro.fr/actualite-france/deux-ans-avec-sursis-requis-contre-l-ex-ministre-kader-arif-a-la-cjr-20221020",
     "date": "2022-10-20",
-    "etiquettes": "Cour de Justice de la République,Gouvernement Jean-Marc Ayrault 1,Kader Arif,Parti Socialiste",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1974,
+        "value": "Kader Arif"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 78,
+        "value": "Cour de Justice de la République (CJR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
