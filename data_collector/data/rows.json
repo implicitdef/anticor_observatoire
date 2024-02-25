@@ -39,6 +39,41 @@
     "a_la_une": false
   },
   {
+    "id": 1970,
+    "titre": "Marché du chauffage urbain à Saint-Genis-Laval : le recours en justice du candidat perdant rejeté",
+    "contenu": "Le choix par la Métropole de Lyon de Coriance plutôt qu’Idex pour la construction et l’exploitation d’un réseau de chaleur urbain à 350 millions d’euros à Saint-Genis-Laval et dans le Sud-Ouest lyonnais avait déplu au candidat perdant, qui avait déposé un recours en référé devant le tribunal administratif de Lyon. Celui-ci vient d’être rejeté ce vendredi 23 février, au grand bonheur de la Métropole, qui se réjouit « de voir ainsi confirmer la régularité de la procédure qu’elle a poursuivie avec toute la rigueur et l’impartialité nécessaire  », tout en s’en remettant « à la justice pour faire la lumière sur l’origine de la tentative de déstabilisation envers la collectivité par la diffusion, en décembre dernier, d’un message anonyme. »",
+    "url": "https://tribunedelyon.fr/justice/marche-du-chauffage-urbain-a-saint-genis-laval-le-recours-en-justice-du-candidat-perdant-rejete/",
+    "date": "2024-02-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 403,
+        "value": "Coriance"
+      },
+      {
+        "id": 404,
+        "value": "Idex"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1963,
     "titre": "Dépôt de plainte par « AC-Anti Corruption » contre X pour prise illégale d’intérêts et favoritisme",
     "contenu": "L’association Anti-Corruption, dite AC !!, a adressé une plainte contre X rédigée par Maître Poudampa (Barreau de Bordeaux), lundi 19 février 2024, au parquet interrégional à Lille où est visé deux délits, prise illégale d’intérêts et favoritisme.",
@@ -33910,16 +33945,31 @@
     "contenu": "Daniel Benazeraf, ancien directeur de l’Adat, l’agence d’appui aux territoires est soupçonné de détournement de fonds et d’abus de confiance. Etienne Manteaux, procureur de la République de Besançon, a détaillé lors d’une conférence de presse ce mardi 18 octobre comment l’homme est parvenu à s’enrichir ou à utiliser 127.000 euros d’argent public.",
     "url": "https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/doubs-127-000-euros-detournes-l-ancien-directeur-d-une-association-du-departement-reconnait-avoir-puise-dans-les-finances-publiques-2637924.html",
     "date": "2022-10-18",
-    "etiquettes": "25 - Doubs,Agence Départementale d&#039;appui aux Territoires,Daniel Benazeraf",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151719,
         "value": "25 - Doubs"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 2009,
+        "value": "Daniel Benazeraf"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 587,
+        "value": "Agence Départementale d'appui aux Territoires (ADAT)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -33931,16 +33981,26 @@
     "contenu": "L‘ancien maire de Linas (Essonne), François Pelletant affirme être à nouveau éligible. Battu aux élections départementales en 2015 puis aux élections législatives de 2017, l’ancien conseiller général qui n’exerce plus de mandat électif depuis sa démission en 2020, souhaite se présenter aux élections municipales à Linas en 2026.\nÀ l’issue d’une audience qui a eu lieu en août, la Cour d’appel de Paris a accepté le 13 septemebre 2022, la requête de l’ex-élu qui demandait l’exclusion de la mention de sa condamnation prononcée en 2018 dans l’affaire du bar associatif.\nUn dossier pour lequel cette même Cour d’appel de Paris l’avait condamné à une peine de deux ans d’emprisonnement avec sursis, trois ans d’inéligibilité et à 50 000 euros d’amende pour escroquerie, prise illégale d’intérêt et travail dissimulé.",
     "url": "https://actu.fr/ile-de-france/linas_91339/essonne-francois-pelletant-souhaite-redevenir-maire-de-linas_54572117.html",
     "date": "2022-10-18",
-    "etiquettes": "91 – Essonne,François Pelletant",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151971,
         "value": "91 - Essonne"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 2011,
+        "value": "François Pelletant"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -33988,18 +34048,38 @@
     "contenu": "Jugée devant la cour d'appel de Fort-de-France, l'ancienne adjointe au maire de Fort-de-France a été condamnée pour avoir acquis une maison aux de la municipalité alors qu'elle siégeait au conseil municipal. Un jugement contraire à celui prononcé en première instance. Elle doit ainsi verser une amende de 5 000 euros.",
     "url": "https://www.rci.fm/martinique/infos/Justice/La-cour-dappel-condamne-Elisabeth-Landi-pour-prise-illegale-dinteret",
     "date": "2022-10-18",
-    "etiquettes": "972 - Martinique,Anticor,Elisabeth Landi",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151991,
         "value": "972 - Martinique"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 2010,
+        "value": "Elisabeth Landi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -34048,18 +34128,42 @@
     "contenu": "Serge Bouscatel et son oncle Marc Mengaud ont décidé de faire appel de leur condamnation, prononcée lundi 3 octobre 2022, dans l’affaire de l’implantation des activités industrielles de la société Probatel, dirigée par le premier, sur des terres agricoles située à Lanta, commune dont le second était maire au moment des faits.",
     "url": "https://actu.fr/occitanie/lanta_31271/lanta-serge-bouscatel-et-marc-mengaud-font-appel-de-leur-condamnation_54594742.html",
     "date": "2022-10-18",
-    "etiquettes": "31 - Haute-Garonne,Marc Mengaud,Probatel,Serge Bouscatel",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151845,
         "value": "31 - Haute-Garonne"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 2007,
+        "value": "Serge Bouscatel"
+      },
+      {
+        "id": 2008,
+        "value": "Marc Mengaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 586,
+        "value": "Probatel"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -34114,7 +34218,7 @@
     "contenu": "L'ancien président LR du Grand Avignon et maire de Villeneuve-lez-Avignon, Jean-Marc Roubaud, et celle qui fut sa collaboratrice de cabinet, Marion Nussbaumer, seront jugés le 2 février prochain par le tribunal correctionnel d'Avignon. Le premier prévenu, âgé de 71 ans, est convoqué devant la justice pour prise illégale d'intérêt et pour soustraction, détournement ou destruction de bien d'un dépôt public, la seconde, 39 ans, pour recel de bien provenant d'un délit.",
     "url": "https://www.ledauphine.com/faits-divers-justice/2022/10/17/vaucluse-le-proces-de-jean-marc-roubaud-et-de-son-ancienne-collaboratrice-renvoye",
     "date": "2022-10-18",
-    "etiquettes": "84 – Vaucluse,Jean-Marc Roubaud,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151981,
@@ -34160,12 +34264,37 @@
     "url": "https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/le-toulousain-et-ancien-ministre-kader-arif-juge-mercredi-pour-soupcons-de-favoritisme-2636600.html",
     "date": "2022-10-17",
     "etiquettes": "Gouvernement Jean-Marc Ayrault 1,Kader Arif,Parti Socialiste",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1974,
+        "value": "Kader Arif"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -34175,16 +34304,35 @@
     "contenu": "La juridiction financière n’avait pas expertisé les comptes de la commune de Meaux depuis 2006. Le compte rendu s’étonne de toute une série de frais engagés par et pour le maire, notamment pour représentation et déplacements, de l’absence de justificatifs et de leurs modalités de remboursement.",
     "url": "https://www.leparisien.fr/seine-et-marne-77/la-chambre-regionale-des-comptes-denonce-les-depenses-du-maire-de-meaux-jean-francois-cope-17-10-2022-ATMEVKQMOREIBIOEH2ZNZIHA4E.php?ts=1666077882875",
     "date": "2022-10-17",
-    "etiquettes": "77 - Seine-et-Marne,Chambre régionale des comptes,Jean-François Copé,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151975,
         "value": "77 - Seine-et-Marne"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 2012,
+        "value": "Jean-François Copé"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 107,
+        "value": "Chambre régionale des comptes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -34196,11 +34344,39 @@
     "contenu": "Les deux enquêtes préliminaires distinctes pour notamment prise illégales d'intérêt visant les ministres Olivier Dussopt et Sébastien Lecornu sont terminées et leurs avocats peuvent présenter leurs arguments avant la décision sur l'orientation de la procédure.",
     "url": "https://www.ouest-france.fr/politique/fin-des-enquetes-sur-les-ministres-lecornu-et-dussopt-sur-des-soupcons-de-prise-illegale-d-interet-c0b87c6b-ca76-4d86-98de-e5becdf48959",
     "date": "2022-10-15",
-    "etiquettes": "Gouvernement Élisabeth Borne,Ministère des Armées,Ministère du travail,Olivier Dussopt,Sébastien Lecornu",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1234,
+        "value": "Olivier Dussopt"
+      },
+      {
+        "id": 1304,
+        "value": "Sébastien Lecornu"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 51,
+        "value": "Ministère du travail"
+      },
+      {
+        "id": 127,
+        "value": "Ministère des armées"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -34212,22 +34388,43 @@
     "contenu": "La Chambre régionale des comptes (CRC) publie ce vendredi 14 octobre deux rapports au vitriol sur la gestion de l’EM Lyon ces dernières années. Si le contrôle portait officiellement sur les exercices 2019 à 2021, les magistrats analysent en réalité l’évolution de l’école depuis 2014, date à laquelle Bernard Belletante avait pris la direction d’une « business school » en plein marasme pour la transformer du sol au plafond. Un héritage dont les magistrats financiers dressent un bilan très sévère.",
     "url": "https://www.mediacites.fr/decryptage/lyon/2022/10/14/a-lem-lyon-les-remunerations-delirantes-des-anciens-dirigeants-et-de-couteux-flops-en-cascade/",
     "date": "2022-10-14",
-    "etiquettes": "69 - Rhône,Bernard Belletante,Bpi France,Chambre régionale des comptes,EM Lyon,IBM,Mohamed Kabbaj,Tawhid Chtioui",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151715,
         "value": "69 - Rhône"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 2013,
+        "value": "Bernard Belletante"
+      },
+      {
+        "id": 2014,
+        "value": "Mohamed Kabbaj"
+      },
+      {
+        "id": 2015,
+        "value": "Tawhid Chtioui"
+      }
+    ],
     "personnes_morales": [
       {
-        "id": 4,
-        "value": "Cour des comptes (CDC)"
+        "id": 62,
+        "value": "Bpifrance"
       },
       {
         "id": 166,
-        "value": "EM Lyon"
+        "value": "EM Lyon Business School"
+      },
+      {
+        "id": 479,
+        "value": "Chambres régionale des comptes (CRC)"
+      },
+      {
+        "id": 588,
+        "value": "IBM (International Business Machines Corporation)"
       }
     ],
     "categorie": [
@@ -34252,16 +34449,31 @@
     "contenu": "Entre 2012 et novembre 2021, le couple Michel a détourné plus de 1,1 million d'euros, au détriment de la Direction des finances publiques et du Comité du tourisme des Iles de Guadeloupe (CTIG), selon un système bien rodé. Monsieur qui occupait les fonctions de directeur du pôle croisières au CTIG établissait des fausses factures à partir de celles établies par des fournisseurs étrangers, à l'occasion notamment de salons internationaux de la croisière comme Seatrade à Miami. Factures dont le paiement était ensuite versé sur ses comptes personnels ou sur ceux de son entourage familial.\nLe couple est convoqué le 5 janvier prochain devant le tribunal correctionnel de Pointe-à-Pitre. Olivier Michel devra répondre de 4 délits : escroquerie au préjudice d'une personne publique, faux, usage de faux et blanchiment aggravé.",
     "url": "https://la1ere.francetvinfo.fr/guadeloupe/affaire-du-comite-du-tourisme-des-iles-de-guadeloupe-olivier-michel-place-sous-controle-judiciaire-1330720.html",
     "date": "2022-10-14",
-    "etiquettes": "971 – Guadeloupe,Olivier Michel",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151990,
         "value": "971 - Guadeloupe"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 2016,
+        "value": "Olivier Michel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 589,
+        "value": "Comité du tourisme des Iles de Guadeloupe (CTIG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -34273,16 +34485,39 @@
     "contenu": "Le groupe écologiste d’Auvergne-Rhône-Alpes réclame des comptes au président LR de la région Laurent Wauquiez. Au lendemain de la publication d’une enquête de Mediapart dénonçant un dîner organisé en début d’été qui a coûté une centaine de milliers d’euros, les Verts ont alerté la Chambre régionale des comptes. Ils ont également préparé un signalement auprès « du procureur compétent » afin que « soit levé tout soupçon de détournement de fonds publics et de prise illégale d’intérêt ». Ce signalement devrait être transmis dans les prochaines heures au procureur de Lyon ou au Parquet national financier (PNF) qui a déjà la collectivité dans le viseur.",
     "url": "https://www.20minutes.fr/justice/4005456-20221014-auvergne-rhone-alpes-apres-revelation-diner-fastueux-laurent-wauquiez-ecologistes-saisissent-justice",
     "date": "2022-10-14",
-    "etiquettes": "69 - Rhône,Chambre régionale des comptes,Laurent Wauquiez,Les Républicains,Parquet National Financier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151715,
         "value": "69 - Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1295,
+        "value": "Laurent Wauquiez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 479,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -34294,12 +34529,53 @@
     "contenu": "Toutes les pistes mènent vers un « deal » global qui aurait été noué entre la France et le Qatar, lors d’un déjeuner à l’Élysée, le 23 novembre 2010. Selon Radio France, ce jour-là auraient été évoquées comme contreparties possibles en échange du soutien de la France au Qatar : le rachat du PSG, mais aussi la vente de 24 avions de combat Rafale (finalement vendus au Qatar en 2015). Un rendez-vous entre Claude Guéant, alors secrétaire général de l’Élysée, et un sulfureux homme d’affaires qatari au lendemain de ce déjeuner intrigue également les enquêteurs.",
     "url": "https://www.radiofrance.fr/franceinter/coupe-du-monde-de-football-comment-la-france-aurait-monnaye-son-soutien-au-qatar-5297518",
     "date": "2022-10-13",
-    "etiquettes": "Claude Guéant,Dassault,Elysée,Fifa,Nicolas Sarkozy,PSG",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1287,
+        "value": "Claude Guéant"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 29,
+        "value": "Élysée"
+      },
+      {
+        "id": 151,
+        "value": "Dassault Aviation"
+      },
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 199,
+        "value": "Fédération internationale de football association (FIFA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -34310,16 +34586,31 @@
     "contenu": "Le président LR d’Auvergne-Rhône-Alpes réunit le gotha régional dans des lieux de prestige afin de « créer des synergies ». Le dernier « dîner des sommets » s’est tenu le 23 juin dans un château. Il a coûté pas moins de 100 000 euros d’argent public, selon les informations de Mediapart. Soit plus de 1 100 euros par convive, aux frais du contribuable.",
     "url": "https://www.mediapart.fr/journal/france/131022/les-fastueux-diners-de-laurent-wauquiez-aux-frais-de-la-region?utm_source=20221013&amp;utm_medium=email&amp;utm_campaign=ALERTE&amp;utm_content=&amp;utm_term=&amp;xtor=EREC-83-[ALERTE]-20221013&amp;M_BT=263694476508",
     "date": "2022-10-13",
-    "etiquettes": "69 - Rhône,Laurent Wauquiez,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151715,
         "value": "69 - Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1295,
+        "value": "Laurent Wauquiez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -34331,12 +34622,40 @@
     "contenu": "Le géant de l’informatique Capgemini, à qui l’on doit déjà l’échec du projet Scribe, a décroché un contrat de 540 millions d’euros auprès du ministère de l’Intérieur pour développer le «Réseau radio du Futur» (RFF), prochain système de communications des forces de l’ordre et des secours, ont annoncé ce jeudi les parties prenantes. Il sera réalisé en coopération avec l’avionneur Airbus.",
     "url": "https://www.liberation.fr/societe/police-justice/nouveau-contrat-pour-capgemini-avec-le-ministere-de-linterieur-malgre-lechec-scribe-20221013_WTATV4Y4R5D2BOQJE2PDYWEVVY/?redirected=1",
     "date": "2022-10-13",
-    "etiquettes": "Airbus,Capgemini,Ministère de l&#039;intérieur",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 187,
+        "value": "Airbus"
+      },
+      {
+        "id": 366,
+        "value": "Ministère de l’Intérieur"
+      },
+      {
+        "id": 410,
+        "value": "Capgemini"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1249364,
+        "value": "Conseil"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -34347,15 +34666,25 @@
     "contenu": "Le parquet de Nanterre (Hauts-de-Seine) a demandé ce mercredi trois ans d'emprisonnement avec sursis probatoire pendant trois ans, contre l'ancien ministre de l'Intérieur Claude Guéant, jugé devant le tribunal correctionnel pour escroquerie concernant ses frais de campagne législative 2012.\nÀ l’époque, l'homme incontournable de la présidence de Nicolas Sarkozy, aujourd'hui âgé de 77 ans, était candidat pour être député dans les Hauts-de-Seine. L'accusation lui reproche d'avoir sciemment minoré ses comptes de campagne et d'avoir ainsi obtenu un remboursement de plus de 30.000 euros. La procureure Nathalie Foy a également requis une peine d'amende de 50.000 euros et, pendant cinq ans, la privation de ses droits civiques, l'interdiction de la fonction publique et d'être mandataire social.",
     "url": "https://www.lefigaro.fr/politique/escroquerie-de-frais-de-campagne-trois-ans-de-prison-avec-sursis-probatoire-requis-contre-claude-gueant-20221012",
     "date": "2022-10-12",
-    "etiquettes": "92 – Hauts de Seine,Claude Guéant,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151973,
         "value": "92 - Hauts-de-Seine"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1287,
+        "value": "Claude Guéant"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -54141,6 +54470,22 @@
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
+    "a_la_une": false
+  },
+  {
+    "id": 1969,
+    "titre": "",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
     "a_la_une": false
   },
   {
