@@ -34999,18 +34999,38 @@
     "contenu": "Le procès de l’affaire AAIR, du nom de cette association de Roubaix soupçonnée d’avoir eu des activités prosélytes alors qu’elle touchait des subventions, doit se tenir ce jeudi à Lille. Avec Guillaume Delbar sur le banc des prévenus.",
     "url": "https://www.lavoixdunord.fr/1239015/article/2022-10-09/proselytisme-et-argent-public-les-dirigeants-de-l-association-aair-et-le-maire",
     "date": "2022-10-09",
-    "etiquettes": "59 – Nord,AAIR,Guillaume Delbar",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151958,
         "value": "59 - Nord"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 2024,
+        "value": "Guillaume Delbar"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 593,
+        "value": "AAIR"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -35020,11 +35040,31 @@
     "contenu": "Dans l’affaire visant la campagne 2015 d’Alain Rousset pour sa réélection au conseil Régional de Nouvelle-Aquitaine, la spectaculaire vague de gardes à vue survenue au printemps dernier dans les locaux de la police judiciaire (PJ) de Bordeaux était loin de constituer le dernier acte de l’enquête. Le 27 juillet dernier, le parquet de Nanterre, qui pilotait l’enquête préliminaire, a décidé d’ouvrir une information judiciaire pour, notamment, « détournement de fonds publics par personne dépositaire de l’autorité publique » et « financement illégal de campagne électorale ».",
     "url": "https://www.sudouest.fr/politique/alain-rousset/soupcons-de-detournements-de-fonds-a-la-region-nouvelle-aquitaine-une-information-judiciaire-ouverte-12503702.php",
     "date": "2022-10-08",
-    "etiquettes": "Alain Rousset,Parquet National Financier",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151847,
+        "value": "33 - Gironde"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1504,
+        "value": "Alain Rousset"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -35036,16 +35076,35 @@
     "contenu": "Le directeur par intérim du CTIG, Rodrigue Solitude est en garde à vue depuis ce jeudi dans les locaux de la brigade financière. Soupçonné de prise illégale d'intérêt dans l'affaire dite “Respire+”, une société de masques créée lors de la pandémie. Le suspect devrait être déféré ce vendredi après-midi devant le pôle judiciaire pointois.",
     "url": "https://rci.fm/guadeloupe/infos/Justice/Entreprise-Respire-Rodrigue-Solitude-en-garde-vue",
     "date": "2022-10-07",
-    "etiquettes": "971 – Guadeloupe,Rodrigue Solitude",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151990,
         "value": "971 - Guadeloupe"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 2032,
+        "value": "Rodrigue Solitude"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 589,
+        "value": "Comité du tourisme des Iles de Guadeloupe (CTIG)"
+      },
+      {
+        "id": 594,
+        "value": "Respire+"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -35057,12 +35116,45 @@
     "contenu": "« Réfugié fiscal » en Suisse depuis une trentaine d'années, le milliardaire Pierre Castel, (10ème fortune française selon Challenges) vient d'être condamné par la justice suisse à une amende record de 410 millions de francs suisses, soit environ 430 millions d'euros. Le fisc suisse lui reproche d'avoir dissimulé des centaines de millions d'euros de dividendes.\nComme l'a révélé le site suisse GothamCity, elle réclame à son résident indélicat la modique somme de 410 millions de francs suisses (environ 430 millions d’euros), dont 340 millions d’intérêts et d’amendes pour les seules années 2007, 2008 et 2009 et 70 millions au titre de 2010 et 2011.",
     "url": "https://www.challenges.fr/france/pourquoi-le-fisc-suisse-reclame-plus-de-400-millions-au-milliardaire-pierre-castel_830645?utm_medium=Social&amp;utm_source=Twitter#Echobox=1665154171-1",
     "date": "2022-10-07",
-    "etiquettes": "Castel,Pierre Castel",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1251431,
+        "value": "Suisse"
+      },
+      {
+        "id": 1151847,
+        "value": "33 - Gironde"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1747,
+        "value": "Pierre Castel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 422,
+        "value": "Groupe Castel"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1252744,
+        "value": "Alcools"
+      },
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -35073,18 +35165,42 @@
     "contenu": "Le président LR du conseil départemental du Var Marc Giraud a été condamné à cinq ans d’inéligibilité, deux ans de prison avec sursis et 20.000 euros d’amende par le tribunal correctionnel de Toulon vendredi pour détournement de fonds publics. L’inéligibilité, assortie d’une exécution provisoire, doit être appliquée même en cas d’appel. L’élu était poursuivi pour avoir favorisé l’emploi fictif d’une collaboratrice alors qu’il était maire de Carqueiranne près de Toulon dans le Var, entre 2011 et 2015. La bénéficiaire de cet emploi, Patricia Arnould, actuellement élue au conseil départemental et première adjointe de la commune de La Crau, a été condamnée à la même peine que Marc Giraud vendredi, pour « recel de détournement de fonds publics ».",
     "url": "https://www.20minutes.fr/justice/4004354-20221007-var-president-conseil-departemental-condamne-affaire-emploi-fictif",
     "date": "2022-10-07",
-    "etiquettes": "83 - Var,Marc Giraud",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151980,
         "value": "83 - Var"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 2025,
+        "value": "Marc Giraud"
+      },
+      {
+        "id": 2026,
+        "value": "Patricia Arnould"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -35094,12 +35210,40 @@
     "contenu": "Le Conseil d'État a jugé vendredi que la disposition interdisant à l'administration de communiquer à des tiers les documents qu'elle détient lorsque cette communication porterait atteinte à la protection de la vie privée s’applique non seulement aux personnes physiques mais aussi aux personnes morales, en particulier aux organismes à but non lucratif, et concerne, notamment, les documents relatifs à leur fonctionnement interne et à leur situation financière.\nC’est l’association de lutte contre la corruption Anticor qui avait demandé au tribunal administratif de Paris d'ordonner au préfet de lui communiquer les comptes annuels 2016 et 2017 de la fondation Louis Vuitton et après le rejet de sa demande, l'association s'est pourvue devant le Conseil d’État lequel confirme la décision des premiers juges.",
     "url": "https://www.lextimes.fr/jurisprudence/droit-administratif/vie-privee/les-comptes-annuels-de-la-fondation-louis-vuitton-ne-sont-pas-communicables",
     "date": "2022-10-07",
-    "etiquettes": "Anticor,Conseil d&#039;État,Louis Vuitton,LVMH",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      },
+      {
+        "id": 115,
+        "value": "LVMH"
+      },
+      {
+        "id": 342,
+        "value": "Conseil d'État"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1220072,
+        "value": "Art"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -35168,12 +35312,49 @@
     "contenu": "Le média en ligne Konbini a été condamné le 20 septembre à 6 000 euros d’amende par la 17e chambre du tribunal judiciaire de Paris pour «abus de constitution de partie civile», selon une copie du jugement consultée par Libération. Soit une condamnation pour procédure abusive, à propos d’une plainte pour diffamation contre le média d’information spécialisée la Lettre A en mai 2019. Au centre de l’affaire : un article daté du 19 mars 2019 qui révélait l’identité des actionnaires de Konbini. Soit la famille Perrodo, qui a fait fortune dans le pétrole via la compagnie Perenco. Des milliardaires controversés, quinzième fortune de France avec 8,3 milliards d’euros en 2022 selon le magazine Challenges, et qui détiennent le média d’infodivertissement à travers une multitude de sociétés opaques : une holding luxembourgeoise dénommée Ommirep, elle-même détenue par trois sociétés immatriculées aux Bahamas, détaillait l’article.",
     "url": "https://www.liberation.fr/economie/medias/konbini-condamne-apres-avoir-tente-une-procedure-baillon-contre-la-lettre-a-20221006_YAPVVOXNJFF6RM6UUOSM655JFE/?redirected=1",
     "date": "2022-10-06",
-    "etiquettes": "David Creuzot,Konbini,La Lettre A,Lucie Beudet,Perenco,Perrodo",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2033,
+        "value": "David Creuzot"
+      },
+      {
+        "id": 2034,
+        "value": "Lucie Beudet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 214,
+        "value": "Perenco"
+      },
+      {
+        "id": 595,
+        "value": "La Lettre (anciennement La Lettre A)"
+      },
+      {
+        "id": 596,
+        "value": "Konbini"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1253735,
+        "value": "Médias"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -35184,12 +35365,36 @@
     "contenu": "Mauvaise nouvelle pour le site d’information Reflets. Poursuivi par le groupe Altice pour avoir publié des articles basés sur des documents volés par des pirates informatiques, le média en ligne peut les laisser en ligne mais n'a pas le droit d'en faire paraître d'autres, a estimé ce jeudi 6 octobre le tribunal de commerce de Nanterre.\nAltice, le groupe du milliardaire Patrick Drahi, avait saisi le tribunal de commerce de Nanterre en urgence (référé) et l'audience avait eu lieu le 27 septembre. Le groupe demandait le retrait de quatre articles publiés par Reflets en septembre. Ces articles, qui ne divulguent pas de détails sur les sociétés d'Altice, évoquent le train de vie de Patrick Drahi, notamment ses déplacements en jet privé.",
     "url": "https://www.marianne.net/societe/police-et-justice/la-justice-interdit-au-site-dinfo-reflets-dutiliser-a-nouveau-les-donnees-piratees-sur-patrick-drahi",
     "date": "2022-10-06",
-    "etiquettes": "Altice,Reflets",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 144,
+        "value": "Altice"
+      },
+      {
+        "id": 292,
+        "value": "Reflets.info"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1253735,
+        "value": "Médias"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -35200,18 +35405,58 @@
     "contenu": "Cinq personnes ont récemment été mises en examen dans l'affaire des \"102 lingots d'or\" de Joëlle Ceccaldi-Raynaud, maire de la très cossue ville de Puteaux, à l'ouest de Paris, soupçonnée d'avoir transmis des fonds non déclarés à sa fille.\nL'ancienne députée et maire LR, qui conteste les faits, est mise en examen dans ce dossier depuis décembre 2020 pour blanchiment de fraude fiscale aggravée et placée sous contrôle judiciaire. Les nouvelles mises en examen, prononcées entre avril et août dernier, visent ses enfants, Vincent Franchi et Emilie Franchi, et son gendre, Vincent Laviec. Elles concernent également Didier Ben Sadoun, gestionnaire de comptes au moment des faits, et Olivier Ben Sadoun, ex-directeur sportif à la mairie de Puteaux.",
     "url": "https://www.france24.com/fr/info-en-continu/20221006-lingots-de-la-maire-de-puteaux-cinq-personnes-mises-en-examen-pour-fraude-fiscale-ou-blanchiment-1",
     "date": "2022-10-06",
-    "etiquettes": "92 – Hauts de Seine,Didier Ben Sadoun,Emilie Franchi,Joëlle Ceccaldi-Raynaud,Les Républicains,Olivier Ben Sadoun,Vincent Franchi,Vincent Laviec",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151973,
         "value": "92 - Hauts-de-Seine"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1923,
+        "value": "Joëlle Ceccaldi-Raynaud"
+      },
+      {
+        "id": 2027,
+        "value": "Emilie Franchi"
+      },
+      {
+        "id": 2028,
+        "value": "Olivier Ben Sadoun"
+      },
+      {
+        "id": 2029,
+        "value": "Vincent Franchi"
+      },
+      {
+        "id": 2030,
+        "value": "Didier Ben Sadoun"
+      },
+      {
+        "id": 2031,
+        "value": "Vincent Laviec"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
