@@ -1,5 +1,72 @@
 [
   {
+    "id": 1971,
+    "titre": "Soupçons d’emploi fictif à l’AP-HM : l’élu municipal Daniel Sperling face à ses juges",
+    "contenu": "Après qu'un complément d'enquête a été ordonné par le tribunal judiciaire de Paris en juin 2022, le conseiller municipal apparenté LR Daniel Sperling comparaît à nouveau jusqu'au 6 mars. Accusé de recel et complicité de détournement de fonds publics, il devra convaincre ses juges de la réalité de son emploi à l'AP-HM.",
+    "url": "https://marsactu.fr/soupcons-demploi-fictif-a-lap-hm-lelu-municipal-daniel-sperling-face-a-ses-juges/",
+    "date": "2024-02-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2022,
+        "value": "Daniel Sperling"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 592,
+        "value": "Assistance publique - Hôpitaux de Marseille (AP-HM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1972,
+    "titre": "Vladimir Cosma, virtuose de la comptabilité",
+    "contenu": "Le compositeur, qui a toujours présenté sa mère comme une championne de natation un peu effacée, a cosigné avec elle certains de ses plus grands succès. D'après les registres de la Sacem, cette collaboration fiscalement avantageuse s'est étrangement poursuivie après le décès de Carola Pimper, en 1985.",
+    "url": "https://www.lalettre.fr/fr/action-publique_executif/2024/02/26/vladimir-cosma-virtuose-de-la-comptabilite,110184058-ge0",
+    "date": "2024-02-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2023,
+        "value": "Vladimir Cosma"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1968,
     "titre": "Collecte des déchets : le groupe Nicollin au cœur d’une plainte pour « favoritisme »",
     "contenu": "Évincée d’un appel d’offres, une filiale du groupe Derichebourg dénonce dans une plainte contre X le manque d’impartialité dans la procédure d’attribution du marché public remporté par le géant de la propreté urbaine. Nicollin conteste.",
@@ -36,6 +103,37 @@
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1973,
+    "titre": "Le plan Q de l'Elysée : Paris promet l’immunité de Nasser",
+    "contenu": "En prévision de la visite d’État de l’émir Tamim Bin Hamad Al-Thani la semaine prochaine à Paris, l’exécutif a promis à Doha de n’aborder aucun des sujets qui fâchent. Visé par plusieurs plaintes, le président du PSG Nasser Al-Khelaïfi a de son côté reçu des assurances : il bénéficiera de l’immunité diplomatique - le temps des agapes – et ainsi de ne pas être dérangé par les juges. Une nouvelle concession de la France à son si riche et fidèle allié.",
+    "url": "https://www.blast-info.fr/articles/2024/le-plan-q-de-lelysee-paris-promet-limmunite-de-nasser--ysP7f5rR6moEXgoiYBMdg",
+    "date": "2024-02-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1226729,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "Paris promet au Qatar l’immunité diplomatique pour Nasser Al-Khelaïfi le temps de la visite d’État à Paris de l’émir Tamim Bin Hamad Al-Thani",
     "a_la_une": false
   },
   {
@@ -34685,9 +34783,19 @@
         "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -34697,11 +34805,31 @@
     "contenu": "Depuis 2008, la famille du journaliste et écrivain Jean Montaldo, qui a inventé aux Baux-de-Provence le concept d'exposition immersive de tableaux célèbres sur fond de musique, se bat contre la société Culturespaces et son P-DG Bruno Monnier. Elle l'accuse de l'avoir spolié, avec l'aide de l'ancien maire des Baux-de-Provence Michel Fenard, en lui prenant le lieu des carrières où avaient lieu les expositions depuis 1977 et en débauchant ses réalisateurs qui possédaient le savoir-faire de leur société Cathédrale d'Images.",
     "url": "https://www.lefigaro.fr/culture/expositions-immersives-bruno-monnier-et-la-societe-culturespaces-juges-pour-recel-de-favoritisme-20221012",
     "date": "2022-10-12",
-    "etiquettes": "Bruno Monnier,Culturespaces",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2017,
+        "value": "Bruno Monnier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 590,
+        "value": "Culturespaces"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -34709,14 +34837,33 @@
   },
   {
     "id": 1503,
-    "titre": "Frédérik Jobert",
+    "titre": "Frédérik Jobert rejoint Matignon",
     "contenu": "Diplômé de HEC (2005), il a par ailleurs une certification en sciences du climat de l’université de Chicago (2020). Il débute sa carrière en 2005 en rejoignant le bureau du Boston Consulting Group à Paris. Il est promu partner en 2014, puis senior partner en 2021. Il est membre des centres d’expertises opérations et énergie. Le BCG est par ailleurs un des détenteurs du précédent marché-cadre de transformation de l’action publique (2018-2022), dont le renouvellement est en cours. En octobre 2022, il rejoint le secrétariat général à la planification écologique de la Première ministre.",
     "url": "https://www.consultor.fr/articles/planification-ecologique-un-senior-partner-du-bcg-arrive-a-matignon",
     "date": "2022-10-11",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2018,
+        "value": "Frédérik Jobert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 235,
+        "value": "Boston Consulting Group (BCG)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -34734,16 +34881,30 @@
     "contenu": "Après avoir retiré la délégation à l'urbanisme à l'élu mis en cause, la maire de Lanton a indiqué avoir effectué un signalement au procureur. Un conseiller municipal de la station balnéaire située sur le bassin d'Arcachon a obtenu un permis pour un terrain classé en zone inconstructible.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/bassin-d-arcachon-un-elu-a-l-urbanisme-de-lanton-obtient-un-permis-pour-un-terrain-inconstructible-1665336350",
     "date": "2022-10-10",
-    "etiquettes": "33 – Gironde,Damien Belloc,Marie Larrue",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151847,
         "value": "33 - Gironde"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 2019,
+        "value": "Marie Larrue"
+      },
+      {
+        "id": 2021,
+        "value": "Damien Belloc"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -34755,12 +34916,44 @@
     "contenu": "Depuis dix ans, le Qatar finance le « projet Stadia », un programme d’Interpol portant sur la sécurité des grands événements sportifs. En dépit de plusieurs enquêtes pénales pour corruption visant la Coupe du monde au Qatar, ce projet a été étendu jusqu’en 2024.",
     "url": "https://www.mediapart.fr/journal/international/101022/coupe-du-monde-2022-le-qatar-suspecte-de-corruption-continue-de-collaborer-avec-interpol",
     "date": "2022-10-10",
-    "etiquettes": "Fifa,Interpol",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 199,
+        "value": "Fédération internationale de football association (FIFA)"
+      },
+      {
+        "id": 591,
+        "value": "Organisation internationale de police criminelle (Interpol)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / Influence"
+      },
+      {
+        "id": 1152773,
+        "value": "Sport"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -34771,16 +34964,30 @@
     "contenu": "Le tribunal correctionnel de Melun vient de rendre son délibéré concernant l’affaire de prise illégale d’intérêts, en 2019, à Jouy-le-Châtel (Seine-et-Marne), impliquant un cercle d’amis, dont des anciens élus. L’ex-conseiller municipal, Antonio Oliveira Lopez, âgé de 58 ans, écope de 6 mois de prison avec sursis et de 2 ans d’inéligibilité. L’ex-maire, Patrice Caffin, 57 ans, notamment jugé pour complicité, est condamné à la même peine.",
     "url": "https://actu.fr/ile-de-france/jouy-le-chatel_77239/seine-et-marne-prise-illegale-dinteret-ineligibilite-pour-lancien-maire_54400359.html",
     "date": "2022-10-10",
-    "etiquettes": "77 - Seine-et-Marne,Antonio Oliveira Lopez,Patrice Caffin",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151975,
         "value": "77 - Seine-et-Marne"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 2004,
+        "value": "Patrice Caffin"
+      },
+      {
+        "id": 2020,
+        "value": "Antonio Oliveira Lopez"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
