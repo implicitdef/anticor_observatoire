@@ -1,5 +1,106 @@
 [
   {
+    "id": 1975,
+    "titre": "Le cabinet de lobbying Atlas Public Affairs pris en flagrant délit à l'Assemblée",
+    "contenu": "Pour le lancement de son club sur les \"industries de main-d'œuvre et de savoir-faire\", le cabinet d'affaires publiques a organisé une réunion entre lobbyistes et parlementaires dans les locaux de l'Assemblée nationale. Une pratique strictement interdite depuis 2016.",
+    "url": "https://www.lalettre.fr/fr/action-publique_lobbying/2024/02/27/le-cabinet-de-lobbying-atlas-public-affairs-pris-en-flagrant-delit-a-l-assemblee,110185125-eve",
+    "date": "2024-02-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 599,
+        "value": "Atlas Public Affairs"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1974,
+    "titre": "Le bonimenteur Izzat Khatab a financé l’imam Chalghoumi",
+    "contenu": "Une enquête judiciaire sur le faux milliardaire syrien Izzat Khatab a mis en lumière ses liens avec l’imam Hassen Chalghoumi. Ce dernier a été utilisé, avec l’ancien socialiste Julien Dray, dans une stratégie d’influence lui permettant d’atteindre l’Élysée, selon le témoignage d’Alexandre Benalla auprès de la justice.",
+    "url": "https://www.mediapart.fr/journal/france/260224/le-bonimenteur-izzat-khatab-finance-l-imam-chalghoumi",
+    "date": "2024-02-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1275,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 1577,
+        "value": "Alexandre Benalla"
+      },
+      {
+        "id": 2035,
+        "value": "Mohamad Izzat Khatab"
+      },
+      {
+        "id": 2036,
+        "value": "Hassen Chalghoumi"
+      },
+      {
+        "id": 2037,
+        "value": "Julien Dray"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 29,
+        "value": "Élysée"
+      },
+      {
+        "id": 597,
+        "value": "Service de la protection (SDLP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1971,
     "titre": "Soupçons d’emploi fictif à l’AP-HM : l’élu municipal Daniel Sperling face à ses juges",
     "contenu": "Après qu'un complément d'enquête a été ordonné par le tribunal judiciaire de Paris en juin 2022, le conseiller municipal apparenté LR Daniel Sperling comparaît à nouveau jusqu'au 6 mars. Accusé de recel et complicité de détournement de fonds publics, il devra convaincre ses juges de la réalité de son emploi à l'AP-HM.",
@@ -116,10 +217,36 @@
       {
         "id": 1226729,
         "value": "Qatar"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1444,
+        "value": "Tayeb Benabderrahmane"
+      },
+      {
+        "id": 1597,
+        "value": "Nasser al-Khelaïfi"
+      },
+      {
+        "id": 2038,
+        "value": "Tamim Bin Hamad Al-Thani"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 598,
+        "value": "Ministère des Affaires étrangères"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -130,6 +257,10 @@
       {
         "id": 1152015,
         "value": "Lobbying / Influence"
+      },
+      {
+        "id": 1152773,
+        "value": "Sport"
       }
     ],
     "procedure": [],
@@ -35254,19 +35385,39 @@
     "contenu": "Le maire de la ville de Chartres (Eure-et-Loir), Jean-Pierre Gorges, est visé par une plainte pour prise illégale d'intérêts, rapporte France 3 Centre-Val de Loire ce jeudi. Selon leurs informations, la plainte a été déposée par quatre élus écologistes de l'opposition et plus d'une dizaine de citoyens en avril 2021. Il est reproché à l'élu Les Républicains d'avoir voté certaines décisions lors de conseils municipaux en étant juge et partie. La plainte évoque trois délibérations concernant des votes de « protection fonctionnelle », explique France 3.",
     "url": "https://www.bfmtv.com/politique/chartres-le-maire-vise-par-une-plainte-pour-prise-illegale-d-interets_AN-202210060768.html",
     "date": "2022-10-06",
-    "etiquettes": "28 – Eure-et-Loir,Jean-Pierre Gorges",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151722,
         "value": "28 - Eure-et-Loir"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1878,
+        "value": "Jean-Pierre Gorges"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
-    "titre_corrige": null,
+    "procedure": [
+      {
+        "id": 1153428,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "Jean-Pierre Gorges, le maire de Chartres, visé par une plainte pour « prise illégale d'intérêts »",
     "a_la_une": false
   },
   {
@@ -35275,7 +35426,7 @@
     "contenu": "La mairie de Toulouse annonce vouloir déposer plainte contre X dans une affaire de détournement de fonds. La plainte vise les agissements de l’ancien président de l’association Atoll Loisirs, qui gère des accueils de loisirs ou l’accueil périscolaire pour les écoles, dont certaines en Haute-Garonne. L’ancien gérant est soupçonné d’avoir détourné, sur trois années, entre 600 000 et 700 000 euros des caisses de l’association pour acheter divers produits stupéfiants.",
     "url": "https://actu.fr/occitanie/toulouse_31555/detournement-de-fonds-publics-dans-le-milieu-de-la-petite-enfance-la-ville-de-toulouse-va-porter-plainte_54326570.html",
     "date": "2022-10-06",
-    "etiquettes": "31 - Haute-Garonne,Atoll Loisirs",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151845,
@@ -35283,8 +35434,18 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 600,
+        "value": "Atoll Loisirs"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -35296,11 +35457,43 @@
     "contenu": "Un ex-cadre de l'office chargé de l'indemnisation des victimes d'accidents médicaux (Oniam) est jugé hier et aujourd’hui à Paris pour favoritisme, au terme d'une enquête sur des marchés publics irréguliers conclus entre 2012 et 2015 par cet établissement, qui a déjà abouti à une dizaine de condamnations.\nUne société de conseil, Ytae, rachetée en 2018 par Alixio, est également jugée en correctionnelle pour recel de favoritisme, soupçonnée d'avoir bénéficié d'informations privilégiées, ce qu'elle conteste, au moment de l'attribution par l'Oniam d'un marché public de 47 000 euros pour la \"conduite du changement\" remporté en 2015.",
     "url": "https://www.whatsupdoc-lemag.fr/article/favoritisme-marches-truques-petits-arrangements-en-famille-proces-en-pagaille-loniam",
     "date": "2022-10-06",
-    "etiquettes": "Alixio,Erik Rance,Office National d&#039;Indemnisation des Accidents Médicaux,Parquet National Financier,Philippe Tréguier,Ytae",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2039,
+        "value": "Erik Rance"
+      },
+      {
+        "id": 2040,
+        "value": "Philippe Tréguier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 293,
+        "value": "Office National d'Indemnisation des Accidents Médicaux (ONIAM)"
+      },
+      {
+        "id": 601,
+        "value": "Alixio"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -35466,7 +35659,7 @@
     "contenu": "Lundi 3 octobre, la police judiciaire de Corse a organisé des perquisitions dans les locaux de la mairie d'Ajaccio et de la communauté d'agglomération du pays ajaccien. Une opération menée dans le cadre d'une affaire pilotée par la juridiction interrégionale spécialisée de Marseille. Selon France 3, les investigations portent sur un très grand nombre de dossiers aux services urbanisme et ressources humaines.",
     "url": "https://france3-regions.francetvinfo.fr/corse/corse-du-sud/perquisitions-a-la-mairie-d-ajaccio-et-a-la-capa-des-embauches-de-proches-du-petit-bar-dans-le-viseur-de-la-jirs-2629336.html",
     "date": "2022-10-06",
-    "etiquettes": "2A – Corse-du-Sud,Petit Bar",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151842,
@@ -35474,8 +35667,18 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 103,
+        "value": "Gang du Petit Bar"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -35487,11 +35690,43 @@
     "contenu": "Dans un arrêt rendu mercredi 5 octobre, la Cour de cassation confirme la prescription des faits de l’affaire des Mutuelles de Bretagne, révélée par le Canard enchaîné en 2017 et qui, depuis cinq ans, parasite la carrière politique de l’ancien président de l’Assemblée nationale. La décision devrait logiquement éteindre les poursuites contre le sexagénaire, sans conclure sur le fond.",
     "url": "https://www.lemonde.fr/societe/article/2022/10/05/affaire-des-mutuelles-de-bretagne-la-cour-de-cassation-libere-richard-ferrand-des-menaces-judiciaires_6144540_3224.html",
     "date": "2022-10-05",
-    "etiquettes": "Cour de cassation,La République En Marche,Mutuelles de Bretagne,Richard Ferrand",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151723,
+        "value": "29 - Finistère"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1742,
+        "value": "Richard Ferrand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 79,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 196,
+        "value": "Cour de cassation"
+      },
+      {
+        "id": 602,
+        "value": "Mutuelles de Bretagne"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -35503,18 +35738,33 @@
     "contenu": "Le parquet de Grenoble a ordonné l'ouverture d'une enquête préliminaire pour \"détournement de bien par personne dépositaire ou chargée d'une mission de service public\". Les investigations concernent des présomptions d'irrégularités commises par le président de Grenoble-Alpes Métropole, Christophe Ferrari.",
     "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/grenoble-christophe-ferrari-vise-par-une-enquete-pour-des-soupcons-d-utilisation-irreguliere-de-sa-voiture-de-service-2628580.html",
     "date": "2022-10-05",
-    "etiquettes": "38 - Isère,Christophe Ferrari",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151852,
         "value": "38 - Isère"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1409,
+        "value": "Christophe Ferrari"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -35524,11 +35774,31 @@
     "contenu": "Les pouvoirs d'enquête de la commission des sanctions de l'Autorité des marchés financiers (AMF) ont été rognés en 2022 par une série de décisions de justice, au grand dam de ce gendarme des marchés qui redoute un \"affaiblissement\" de ses missions. De quoi animer les débats du colloque de cette commission des sanctions, prévu mercredi à Paris, avec une table ronde très attendue sur les \"secrets et procédures répressives\". Autorité indépendante, l'AMF régule la place financière parisienne, contrôle ses acteurs et veille à la protection des investisseurs et des épargnants.",
     "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/l-autorite-des-marches-financiers-craint-une-reduction-de-ses-pouvoirs-d-enquete_AD-202210040195.html",
     "date": "2022-10-04",
-    "etiquettes": "Autorité des Marchés Financiers,Robert Ophèle",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2041,
+        "value": "Robert Ophèle"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 189,
+        "value": "Autorité des Marchés Financiers (AMF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -35540,17 +35810,52 @@
     "contenu": "1xBet accumule les sanctions et les condamnations en France et à l’étranger mais l’OL a fait de lui son sponsor exclusif en matière de paris en ligne sur le continent africain. Un accord sur lequel le club de Jean-Michel Aulas se montre très discret.\nInterdit en France, 1xBet a « fait l’objet d’un grand nombre d’ordonnances de blocages », selon l’Autorité nationale des jeux (ANJ). Cela ne l’empêche pourtant pas de sponsoriser trois des plus grands clubs de foot français : Lyon, Lille et Paris. Comment ces locomotives de la Ligue 1 en sont-elles venues à céder le droit d’utiliser leur image à un tel bookmaker afin qu’il puisse attirer des parieurs ? La réponse tient en partie à des partenariats qui sont dits « régionaux » : ils n’accordent ce droit qu’en dehors de l’Europe, en Asie et en Afrique notamment. Les multiples sanctions et condamnations d’1xBet dans plusieurs pays auraient pourtant dû inspirer aux clubs français une plus grande vigilance.",
     "url": "https://www.mediacites.fr/decryptage/lyon/2022/10/04/lolympique-lyonnais-met-son-image-au-service-dun-bookmaker-illegal/",
     "date": "2022-10-04",
-    "etiquettes": "1xBet,Autorité Nationale des Jeux,Olympique lyonnais",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151715,
         "value": "69 - Rhône"
+      },
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1151958,
+        "value": "59 - Nord"
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 606,
+        "value": "Autorité Nationale des Jeux (ANJ)"
+      },
+      {
+        "id": 607,
+        "value": "1xBet"
+      },
+      {
+        "id": 608,
+        "value": "Olympique lyonnais"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      },
+      {
+        "id": 1226714,
+        "value": "Jeux d'argent"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -35561,11 +35866,38 @@
     "contenu": "C’est le point final qui manquait à la loi visant à améliorer la protection des lanceurs d’alerte votée en février dernier : le décret venant préciser les modalités d’application de ce texte est paru ce 4 octobre 2022.\nIl liste notamment les autorités externes vers lesquelles les lanceurs d’alerte peuvent se tourner pour signaler et faire cesser les faits répréhensibles dont ils sont témoins. C’est la première fois que cette question du traitement des alertes est réellement prise en considération par une législation ad hoc. Mais sur ce volet, le résultat n’est pas à la hauteur des enjeux.\nLe décret réduit significativement l’ambition initiale de la loi, du fait du nombre restreint d’autorités désignées et de la faiblesse des moyens associés à leur mission. La Maison des Lanceurs d’Alerte regrette aussi l’absence d’autres autorités pertinentes, disposant d’une réelle expertise sur l’appréciation des risques, telles que la Haute Autorité pour la transparence dans la vie publique (HATVP), la commission nationale de la Déontologie et des Alertes en matière de santé publique et d’environnement (cnDAspe) ou encore l’Agence de l’environnement et de la maîtrise de l’énergie (Ademe).",
     "url": "https://mlalerte.org/traitement-des-alertes-un-decret-decevant/",
     "date": "2022-10-04",
-    "etiquettes": "Maison des lanceurs d&#039;alerte",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 603,
+        "value": "Maison des Lanceurs d'Alerte (MLA)"
+      },
+      {
+        "id": 604,
+        "value": "Commission nationale de la déontologie et des alertes en matière de santé publique et d'environnement (cnDAspe)"
+      },
+      {
+        "id": 605,
+        "value": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -35577,13 +35909,42 @@
     "contenu": "Un ministre en exercice renvoyé devant la Cour de justice de la République (CJR), c’est totalement inédit. Eric Dupond-Moretti, ministre de la justice, s’est vu signifier lundi 3 octobre par les magistrats de la commission d’instruction son renvoi devant cette juridiction pénale pour être jugé pour « prise illégale d’intérêts ». Ce délit est passible de cinq ans d’emprisonnement et d’une amende de 500 000 euros. Cette décision de renvoi, qui clôt l’instruction ouverte en janvier 2021, est tout sauf une surprise. Mais elle risque de rendre la situation du garde des sceaux de plus en plus inconfortable.",
     "url": "https://www.lemonde.fr/societe/article/2022/10/03/eric-dupond-moretti-sera-juge-pour-prise-illegale-d-interets_6144143_3224.html",
     "date": "2022-10-03",
-    "etiquettes": "Cour de Justice de la République,Éric Dupond-Moretti,Gouvernement Élisabeth Borne,Ministère de la Justice",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 78,
+        "value": "Cour de Justice de la République (CJR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -35593,13 +35954,50 @@
     "contenu": "Le secrétaire général de l'Elysée, Alexis Kohler, a été mis en examen la semaine dernière pour \"prise illégale d'interêts\", a appris ce lundi franceinfo auprès du parquet national financier. Alexis Kohler a par ailleurs été placé sous le statut de témoin assisté pour \"trafic d'influence\".\nUne information judiciaire avait été ouverte le 23 juin 2020 pour \"prise illégale d'intérêts\", \"trafic d'influence\" et défaut de déclaration à la Haute Autorité pour la transparence de la vie publique (HATVP), après une plainte de l'association Anticor, en lien avec l'armateur italien MSC.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/alexis-kohler-secretaire-general-de-l-elysee-mis-en-examen-pour-prise-illegale-d-interet-1664805546",
     "date": "2022-10-03",
-    "etiquettes": "Alexis Kohler,Anticor,Elysée,La République En Marche,MSC",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1729,
+        "value": "Alexis Kohler"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 29,
+        "value": "Élysée"
+      },
+      {
+        "id": 76,
+        "value": "Anticor"
+      },
+      {
+        "id": 79,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 282,
+        "value": "Mediterranean Shipping Company (MSC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153423,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -35609,18 +36007,38 @@
     "contenu": "Le patron de l’UDI, Jean-Christophe Lagarde, est jugé pour « détournement de fonds publics ». Il est soupçonné d’avoir octroyé un emploi fictif d’assistante parlementaire à sa belle-mère entre mai 2009 et août 2010. Une peine d’un an d’emprisonnement avec sursis a été requise ce lundi 3 octobre contre l’ancien député de Seine-Saint-Denis.",
     "url": "https://www.ouest-france.fr/politique/jean-christophe-lagarde/soupcons-d-emploi-parlementaire-fictif-un-an-avec-sursis-requis-contre-jean-christophe-lagarde-9813a7b8-4353-11ed-beb6-555db4e87ef8",
     "date": "2022-10-03",
-    "etiquettes": "93 – Seine Saint Denis,Jean-Christophe Lagarde,Union des démocrates et indépendants",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151972,
         "value": "93 - Seine-Saint-Denis"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1554,
+        "value": "Jean-Christophe Lagarde"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 268,
+        "value": "Union des démocrates et indépendants (UDI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
