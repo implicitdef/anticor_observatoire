@@ -40,6 +40,108 @@
     "a_la_une": false
   },
   {
+    "id": 1978,
+    "titre": "UE : de nouvelles règles votées pour protéger les journalistes et les militants des procédures-bâillons",
+    "contenu": "Après un vote en ce sens ce mardi 27 février, les États membres ont deux ans pour mettre en place une nouvelle directive destinée à lutter contre l’essor des procédures visant à faire taire les défenseurs des droits fondamentaux.",
+    "url": "https://www.liberation.fr/international/europe/ue-de-nouvelles-regles-votees-pour-proteger-les-journalistes-et-les-militants-des-procedures-baillons-20240227_T5DDU3CLYRHCZA5RQKHVC7HNLU/?redirected=1",
+    "date": "2024-02-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1976,
+    "titre": "A Marseille, cinq ans de prison requis contre la « corruption du quotidien »",
+    "contenu": "Cinq ans de prison et un mandat de dépôt ont été requis lundi contre une adjointe administrative de la ville de Marseille jugée pour une vaste affaire de corruption portant sur l’attribution de logements sociaux, dont elle aurait été « la tête de réseau ».",
+    "url": "https://www.mediapart.fr/journal/fil-dactualites/260224/marseille-cinq-ans-de-prison-requis-contre-la-corruption-du-quotidien",
+    "date": "2024-02-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2042,
+        "value": "Rosina Livolsi"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1977,
+    "titre": "L’affaire de blanchiment qui éclabousse le monde de la pub et du cinéma",
+    "contenu": "Une instruction judiciaire portant sur le blanchiment de 26 millions d’euros entre la France, le Royaume-Uni et la Suisse est ouverte au parquet de Paris. L’agence de pub Business (groupe Heroïks) et la société de production PM SA (Sirius Media) seraient au cœur du système.",
+    "url": "https://www.linforme.com/medias-culture/article/l-affaire-de-blanchiment-qui-eclabousse-le-monde-de-la-pub-et-du-cinema-partie-1_1484.html",
+    "date": "2024-02-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 609,
+        "value": "Heroïks"
+      },
+      {
+        "id": 610,
+        "value": "Sirius Media"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1974,
     "titre": "Le bonimenteur Izzat Khatab a financé l’imam Chalghoumi",
     "contenu": "Une enquête judiciaire sur le faux milliardaire syrien Izzat Khatab a mis en lumière ses liens avec l’imam Hassen Chalghoumi. Ce dernier a été utilisé, avec l’ancien socialiste Julien Dray, dans une stratégie d’influence lui permettant d’atteindre l’Élysée, selon le témoignage d’Alexandre Benalla auprès de la justice.",
@@ -36048,12 +36150,49 @@
     "contenu": "Une enquête judiciaire montre que la plateforme de paris en ligne a violé plusieurs de ses obligations légales en matière de lutte contre le blanchiment d’argent. L’entreprise n’a pas fait le moindre signalement à Tracfin pendant plus de sept ans.",
     "url": "https://www.mediapart.fr/journal/france/021022/blanchiment-d-argent-le-site-winamax-se-brule-au-jeu?utm_source=global&amp;utm_medium=social&amp;utm_campaign=SharingApp&amp;xtor=CS3-5",
     "date": "2022-10-02",
-    "etiquettes": "Alexandre Roos,Christophe Schaming,Paris Élysées Club,Winamax",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2043,
+        "value": "Christophe Schaming"
+      },
+      {
+        "id": 2044,
+        "value": "Alexandre Roos"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 97,
+        "value": "Tracfin"
+      },
+      {
+        "id": 611,
+        "value": "Winamax"
+      },
+      {
+        "id": 612,
+        "value": "Paris Élysées Club"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1226714,
+        "value": "Jeux d'argent"
+      }
+    ],
     "procedure": [],
     "titre_corrige": null,
     "a_la_une": false
@@ -36064,16 +36203,26 @@
     "contenu": "Gilles Bourdouleix comparaissait ce jeudi 29 septembre devant les juges du tribunal correctionnel d’Angers (Maine-et-Loire). Le maire de Cholet devait notamment répondre d’outrages à l’encontre de fonctionnaires de l’Urssaf et de l’Inspection du travail. Il a été condamné.",
     "url": "https://www.ouest-france.fr/pays-de-la-loire/cholet-49300/a-angers-gilles-bourdouleix-le-maire-de-cholet-condamne-pour-outrages-86b3dcfa-4037-11ed-ba73-6636a9f64449",
     "date": "2022-09-30",
-    "etiquettes": "49 - Maine-et-Loire,Gilles Bourdouleix",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151951,
         "value": "49 - Maine-et-Loire"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1603,
+        "value": "Gilles Bourdouleix"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -36085,11 +36234,35 @@
     "contenu": "Le garde des sceaux est convoqué, le 3 octobre, devant la commission d’instruction de la Cour de justice de la République, préalable à un probable procès pour prises illégales d’intérêts. Un document judiciaire accablant, que Le Monde a pu consulter, éclaire la genèse des conflits entre l’ex-avocat et la magistrature.",
     "url": "https://www.lemonde.fr/politique/article/2022/09/30/dupond-moretti-et-les-juges-aux-sources-d-une-haine-magistrale_6143779_823448.html",
     "date": "2022-09-30",
-    "etiquettes": "Cour de Justice de la République,Éric Dupond-Moretti,Ministère de la Justice",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1285,
+        "value": "Éric Dupond-Moretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 78,
+        "value": "Cour de Justice de la République (CJR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -36101,10 +36274,24 @@
     "contenu": "À la fin des années 2000, elle avait contribué avec Nicolas Forissier - ancien responsable de l'audit interne - à dénoncer les pratiques de la banque suisse et au déclenchement d'une enquête en France sur un vaste système de fraude fiscale. Ancienne chargée du marketing événementiel au sein du groupe, elle avait été licenciée il y a plus de dix ans, le 21 janvier 2012, pour motif économique. Stéphanie Gibaud a saisi le Défenseur des droits, habilité à délivrer le statut de lanceur d'alerte créé par la loi Sapin II du 9 décembre 2016.\nL'institution indépendante, dont le rôle en matière de signalement d'alerte a été renforcé par une loi de mars 2022, a estimé que Stéphanie Gibaud pouvait « se prévaloir de la qualité de lanceuse d'alerte », selon un courrier adressé à Stéphanie Gibaud. C'est la première fois que le Défenseur français des droits rend un avis reconnaissant la qualité de lanceur d'alerte à une personne qui l'a saisi, au titre de ses nouveaux pouvoirs confiés par la loi du 21 mars 2022.",
     "url": "https://www.letemps.ch/economie/fraude-fiscale-ubs-francaise-stephanie-gibaud-officiellement-reconnue-lanceuse-dalerte",
     "date": "2022-09-29",
-    "etiquettes": "Défenseur des droits,Stéphanie Gibaud,UBS",
+    "etiquettes": "",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 2047,
+        "value": "Stéphanie Gibaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 89,
+        "value": "UBS"
+      },
+      {
+        "id": 613,
+        "value": "Défenseur des droits (DDD)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -36114,21 +36301,36 @@
   {
     "id": 980,
     "titre": "Indre-et-Loire : le maire de Monnaie reconnu coupable de prise illégale d'intérêts",
-    "contenu": "La maire de Monnaie (Indre-et-Loire) Olivier Viémont a été condamné ce jeudi 29 septembre 2022 à 7.500 euros d'amende et un an d'inéligibilité pour prise illégale d'intérêts. La décision a été rendue par le tribunal correctionnel de Tours. Le tribunal comptabilise \"quatre faits portant atteinte à la probité\" commis sous le mandat d'Olivier Viémont. L'élu était poursuivi pour avoir attribué la sous-traitance d'un marché public de sa commune à l'entreprise dont il était le directeur général.",
+    "contenu": "Le maire de Monnaie (Indre-et-Loire) Olivier Viémont a été condamné ce jeudi 29 septembre 2022 à 7.500 euros d'amende et un an d'inéligibilité pour prise illégale d'intérêts. La décision a été rendue par le tribunal correctionnel de Tours. Le tribunal comptabilise \"quatre faits portant atteinte à la probité\" commis sous le mandat d'Olivier Viémont. L'élu était poursuivi pour avoir attribué la sous-traitance d'un marché public de sa commune à l'entreprise dont il était le directeur général.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-maire-de-monnaie-reconnu-coupable-de-prise-illegale-d-interet-1664454883",
     "date": "2022-09-29",
-    "etiquettes": "37 - Indre-et-Loire,Olivier Viémont",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151851,
         "value": "37 - Indre-et-Loire"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 2045,
+        "value": "Olivier Viémont"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -36138,18 +36340,33 @@
     "contenu": "Après quatre ans et demi d’instruction, l’ancien conseiller municipal de Montluçon Bernard Sistou (ex-Front de gauche) a été renvoyé devant le tribunal correctionnel, où il devra répondre de prise illégale d’intérêts. Dans la même ordonnance, rendue cet été, le magistrat instructeur a ordonné un non-lieu à l’égard de l’ancien maire de Montluçon Daniel Dugléry (LR), qui avait également été mis en examen.\nAu cœur de l’affaire, des terrains situés sur la commune de Villebret, vendus par la ville de Montluçon en 2010 à Bernard Sistou, alors qu’il était conseiller municipal.",
     "url": "https://www.lamontagne.fr/montlucon-03100/actualites/lancien-elu-de-montlucon-allier-bernard-sistou-renvoye-seul-devant-le-tribunal-pour-prise-illegale-dinterets_14192975/",
     "date": "2022-09-29",
-    "etiquettes": "03 – Allier,Bernard Sistou",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151602,
         "value": "03 - Allier"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 2046,
+        "value": "Bernard Sistou"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -36282,7 +36499,12 @@
     "date": "2022-09-27",
     "etiquettes": "Alain Bauer,Alain Boublil,Alexandre Medvedowsky,Anne Méaux,Claude Allègre,Henri Proglio,Image 7,Jean de Belot,Jean-Marie Messier,Jeannette Bougrab.,Laïd Sammari,Loïk Le Floch-Prigent,Parquet National Financier,Paul Boury,Philippe Guglielmi,Pierre Bédier,Roland Jacquard,Stéphane Fouks,Valérie Terranova",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1880,
+        "value": "Alain Bauer"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
