@@ -1,5 +1,36 @@
 [
   {
+    "id": 1978,
+    "titre": "La directive contre les recours abusifs approuvée par le Parlement européen",
+    "contenu": "Le texte approuvé comprend des dispositions sur le rejet rapide des affaires manifestement non fondées, une définition large de ce qui constitue une incidence « transfrontière », et prévoit des dommages et intérêts compensatoires pour la partie défenderesse.",
+    "url": "https://www.euractiv.fr/section/medias/news/la-directive-contre-les-recours-abusifs-approuvee-par-le-parlement-europeen/",
+    "date": "2024-02-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151965,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 1975,
     "titre": "Le cabinet de lobbying Atlas Public Affairs pris en flagrant délit à l'Assemblée",
     "contenu": "Pour le lancement de son club sur les \"industries de main-d'œuvre et de savoir-faire\", le cabinet d'affaires publiques a organisé une réunion entre lobbyistes et parlementaires dans les locaux de l'Assemblée nationale. Une pratique strictement interdite depuis 2016.",
@@ -35,37 +66,6 @@
         "value": "Lobbying / Influence"
       }
     ],
-    "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 1978,
-    "titre": "UE : de nouvelles règles votées pour protéger les journalistes et les militants des procédures-bâillons",
-    "contenu": "Après un vote en ce sens ce mardi 27 février, les États membres ont deux ans pour mettre en place une nouvelle directive destinée à lutter contre l’essor des procédures visant à faire taire les défenseurs des droits fondamentaux.",
-    "url": "https://www.liberation.fr/international/europe/ue-de-nouvelles-regles-votees-pour-proteger-les-journalistes-et-les-militants-des-procedures-baillons-20240227_T5DDU3CLYRHCZA5RQKHVC7HNLU/?redirected=1",
-    "date": "2024-02-27",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 1226713,
-        "value": "Belgique"
-      }
-    ],
-    "personnalites": [],
-    "personnes_morales": [
-      {
-        "id": 75,
-        "value": "Parlement Européen"
-      }
-    ],
-    "categorie": [
-      {
-        "id": 1152014,
-        "value": "Actualité"
-      }
-    ],
-    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
