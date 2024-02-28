@@ -11,6 +11,8 @@ const searchParamsSchema = z.object({
 })
 type SearchParams = z.infer<typeof searchParamsSchema>
 
+const ENABLE_SEARCH_PANEL = false // la feature n'est pas terminée
+
 export default function RevueDePresse({
   searchParams,
 }: {
@@ -30,7 +32,7 @@ export default function RevueDePresse({
       <h1 className="text-4xl font-bold mb-10 text-gray-700 uppercase text-left">
         La revue de presse
       </h1>
-      <SearchPanel />
+      {ENABLE_SEARCH_PANEL && <SearchPanel />}
 
       <ItemsList {...{ items, searchParams }} />
     </div>
