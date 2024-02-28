@@ -1,5 +1,95 @@
 [
   {
+    "id": 1980,
+    "titre": "Affaire Fillon: la Cour de cassation renvoie la date du délibéré au 24 avril",
+    "contenu": "Une décision sept ans après le début de l'affaire, en 2017. Ce mercredi 28 février, la Cour de cassation a examiné les pourvois de l'ancien Premier ministre François Fillon, de son épouse et de son ex-suppléant, et a renvoyé la date du délibéré au 24 avril. L’avocat général a conclu au rejet de quasiment tous les moyens soulevés par les avocats de François Fillon. Celui-ci a juste demandé une \"cassation partielle\" de la condamnation sans renvoi devant une nouvelle cour d’appel.",
+    "url": "https://www.bfmtv.com/police-justice/affaire-fillon-la-cour-de-cassation-renvoie-la-date-du-delibere-au-24-avril_AN-202402280407.html",
+    "date": "2024-02-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2049,
+        "value": "François Fillon"
+      },
+      {
+        "id": 2050,
+        "value": "Pénélope Fillon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 196,
+        "value": "Cour de cassation"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1979,
+    "titre": "Détournement de fonds à Saint-Maur-des-Fossés : prison avec sursis pour l’ex-maire Henri Plagnol",
+    "contenu": "La cour d’appel de Paris a condamné mardi Henri Plagnol à six mois d’emprisonnement avec sursis dans l’affaire des fausses factures émanant d’une filiale de Bygmalion, lorsqu’il dirigeait la mairie de Saint-Maur-des-Fossés. La Cour de cassation avait ordonné en mars 2022 un troisième procès contre celui qui fut secrétaire d’Etat sous Jacques Chirac (2002-2004), pour complicité de détournement de fonds publics.",
+    "url": "https://94.citoyens.com/2024/detournement-de-fonds-a-saint-maur-des-fosses-prison-avec-sursis-pour-lex-maire-henri-plagnol,27-02-2024.html",
+    "date": "2024-02-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151988,
+        "value": "94 - Val-de-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2048,
+        "value": "Henri Plagnol"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 268,
+        "value": "Union des démocrates et indépendants (UDI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1978,
     "titre": "La directive contre les recours abusifs approuvée par le Parlement européen",
     "contenu": "Le texte approuvé comprend des dispositions sur le rejet rapide des affaires manifestement non fondées, une définition large de ce qui constitue une incidence « transfrontière », et prévoit des dommages et intérêts compensatoires pour la partie défenderesse.",
