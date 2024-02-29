@@ -49,6 +49,91 @@
     "a_la_une": false
   },
   {
+    "id": 1981,
+    "titre": "Autoroutes : Bruno Le Maire visé par une enquête préliminaire pour faux en écriture publique",
+    "contenu": "Une enquête préliminaire pour faux en écriture publique est en cours au parquet de Paris, visant le ministre de l’Économie, Bruno Le Maire, et la secrétaire générale du gouvernement, Claire Landais. Ils ont affirmé, peut-être à tort, ne disposer d’aucun document préparatoire à la prolongation en 2015 des contrats passés par l’État avec les sociétés autoroutières et validée par… un certain Emmanuel Macron, alors ministre de l’Économie.",
+    "url": "https://www.marianne.net/economie/economie-francaise/autoroutes-bruno-le-maire-vise-par-une-enquete-preliminaire-pour-faux-en-ecriture-publique",
+    "date": "2024-02-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1275,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 1357,
+        "value": "Bruno Le Maire"
+      },
+      {
+        "id": 2051,
+        "value": "Claire Landais"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 1982,
+    "titre": "Essonne : le maire d’Étampes Franck Marlin placé en garde à vue dans le cadre d’une affaire financière",
+    "contenu": "Franck Marlin, le maire (LR) d’Étampes, a été placé en garde à vue ce mercredi 28 février dans les locaux de la police judiciaire de Versailles. Il a été auditionné par les policiers de la division des affaires économiques et financières.",
+    "url": "https://www.leparisien.fr/essonne-91/essonne-le-maire-detampes-franck-marlin-place-en-garde-a-vue-28-02-2024-7HA6XQO4CNGXZEPJON7D5MQPOQ.php?ts=1709204605664",
+    "date": "2024-02-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151971,
+        "value": "91 - Essonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2052,
+        "value": "Franck Marlin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1979,
     "titre": "Détournement de fonds à Saint-Maur-des-Fossés : prison avec sursis pour l’ex-maire Henri Plagnol",
     "contenu": "La cour d’appel de Paris a condamné mardi Henri Plagnol à six mois d’emprisonnement avec sursis dans l’affaire des fausses factures émanant d’une filiale de Bygmalion, lorsqu’il dirigeait la mairie de Saint-Maur-des-Fossés. La Cour de cassation avait ordonné en mars 2022 un troisième procès contre celui qui fut secrétaire d’Etat sous Jacques Chirac (2002-2004), pour complicité de détournement de fonds publics.",
