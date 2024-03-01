@@ -134,6 +134,41 @@
     "a_la_une": false
   },
   {
+    "id": 1983,
+    "titre": "Lobbying : les employés d’Amazon ne pourront plus accéder au Parlement européen",
+    "contenu": "Ce mercredi 28 février, le Parlement européen a décidé de retirer leurs accréditations aux lobbyistes du géant de la distribution en ligne Amazon, en raison du refus de l’entreprise de participer à des auditions sur les conditions de travail dans ses entrepôts. Le géant du e-commerce est pourtant mis en cause par ses syndicats et différentes ONG quant à ses pratiques en la matière.",
+    "url": "https://www.liberation.fr/international/europe/lobbying-les-employes-damazon-ne-pourront-plus-acceder-au-parlement-europeen-20240228_4QRY5GP3FFEZXA7A4FLKCD6UGA/?redirected=1",
+    "date": "2024-02-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151966,
+        "value": "68 - Haut-Rhin"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 265,
+        "value": "Amazon"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1979,
     "titre": "Détournement de fonds à Saint-Maur-des-Fossés : prison avec sursis pour l’ex-maire Henri Plagnol",
     "contenu": "La cour d’appel de Paris a condamné mardi Henri Plagnol à six mois d’emprisonnement avec sursis dans l’affaire des fausses factures émanant d’une filiale de Bygmalion, lorsqu’il dirigeait la mairie de Saint-Maur-des-Fossés. La Cour de cassation avait ordonné en mars 2022 un troisième procès contre celui qui fut secrétaire d’Etat sous Jacques Chirac (2002-2004), pour complicité de détournement de fonds publics.",
@@ -598,7 +633,12 @@
         "value": "Laurent Degallaix"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 170,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
     "categorie": [
       {
         "id": 1152012,
