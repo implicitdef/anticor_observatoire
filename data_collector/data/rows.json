@@ -1,5 +1,119 @@
 [
   {
+    "id": 1988,
+    "titre": "Le groupe Avril, présidé par le patron de la FNSEA, carbure aux frais de l’État",
+    "contenu": "L’entreprise d’Arnaud Rousseau est devenue leader sur le marché des « biocarburants ». Son or jaune, c’est le colza. La société a prospéré grâce à une réglementation sur mesure et à un important rabais fiscal.",
+    "url": "https://www.mediapart.fr/journal/economie-et-social/290224/le-groupe-avril-preside-par-le-patron-de-la-fnsea-carbure-aux-frais-de-l-etat",
+    "date": "2024-02-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2055,
+        "value": "Arnaud Rousseau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 617,
+        "value": "Fédération nationale des syndicats d'exploitants agricoles (FNSEA)"
+      },
+      {
+        "id": 618,
+        "value": "Groupe Avril"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / Influence"
+      },
+      {
+        "id": 1388361,
+        "value": "Agriculture"
+      },
+      {
+        "id": 1312991,
+        "value": "Transports"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1987,
+    "titre": "Un ancien journaliste de Canal+ condamné pour avoir dénoncé les méthodes de Vincent Bolloré",
+    "contenu": "Lié par une clause de confidentialité, Jean-Baptiste Rivoire avait critiqué dans un documentaire la mainmise du milliardaire sur l’information. Il devra payer à son ancien employeur 150 000 euros, une décision qu’il conteste en appel.",
+    "url": "https://www.telerama.fr/debats-reportages/un-ancien-journaliste-de-canal-condamne-pour-avoir-denonce-les-methodes-de-vincent-bollore-7019471.php",
+    "date": "2024-02-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1268,
+        "value": "Vincent Bolloré"
+      },
+      {
+        "id": 2054,
+        "value": "Jean-Baptiste Rivoire"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 70,
+        "value": "Bolloré"
+      },
+      {
+        "id": 614,
+        "value": "Off-investigation"
+      },
+      {
+        "id": 615,
+        "value": "Reporters sans frontières"
+      },
+      {
+        "id": 616,
+        "value": "Syndicat national des journalistes CGT (SNJ-CGT)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1253735,
+        "value": "Médias"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1980,
     "titre": "Affaire Fillon: la Cour de cassation renvoie la date du délibéré au 24 avril",
     "contenu": "Une décision sept ans après le début de l'affaire, en 2017. Ce mercredi 28 février, la Cour de cassation a examiné les pourvois de l'ancien Premier ministre François Fillon, de son épouse et de son ex-suppléant, et a renvoyé la date du délibéré au 24 avril. L’avocat général a conclu au rejet de quasiment tous les moyens soulevés par les avocats de François Fillon. Celui-ci a juste demandé une \"cassation partielle\" de la condamnation sans renvoi devant une nouvelle cour d’appel.",
@@ -161,6 +275,73 @@
       {
         "id": 1152014,
         "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1984,
+    "titre": "Un agent pistonne sa nièce pour qu’elle « entre à la ville »",
+    "contenu": "À la suite du signalement fin 2021 de l’Agence française anticorruption (AFA) qui épluche les « emplois familiaux au sein de la ville de Marseille », un oncle et sa nièce ont répondu lundi devant la 6e chambre correctionnelle de prise illégale d’intérêts pour le premier, de recel pour la seconde. Marion, 36 ans, a été embauchée en octobre 2017 comme animatrice en mairie des 4-5. Un CDD d’un an à temps plein dans le service de son oncle, passant par-dessus l’avis négatif émis après des entretiens et tests en juin 2017.",
+    "url": "https://www.lamarseillaise.fr/societe/un-agent-pistonne-sa-niece-pour-qu-elle-entre-a-la-ville-BE15555400",
+    "date": "2024-02-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 84,
+        "value": "Agence française anticorruption (AFA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1985,
+    "titre": "Affaire des emplois au cabinet de la Région : le procès aura lieu devant le tribunal correctionnel en avril",
+    "contenu": "Du 15 au 17 avril 2024, l'ancien président de Région Didier Robert et plusieurs de ses collaborateurs seront devant le tribunal correctionnel de Saint-Denis, dans l'affaire des embauches au cabinet de la Région qui avaient été relevées par la Chambre régionale des comptes en 2021.",
+    "url": "https://la1ere.francetvinfo.fr/reunion/affaire-des-emplois-au-cabinet-de-la-region-le-proces-de-didier-robert-aura-lieu-au-tribunal-correctionnel-en-avril-1468263.html",
+    "date": "2024-02-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151993,
+        "value": "974 - La Réunion"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2053,
+        "value": "Didier Robert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
       }
     ],
     "theme": [],
@@ -22026,6 +22207,46 @@
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
+    "a_la_une": false
+  },
+  {
+    "id": 1986,
+    "titre": "Le député LFI Carlos Martens Bilongo visé par une enquête, notamment pour \"blanchiment de fraude fiscale\"",
+    "contenu": "Une enquête a été ouverte à l'encontre du député de La France insoumise (LFI) Carlos Martens Bilongo pour des soupçons de \"blanchiment de fraude fiscale\" et d'\"abus de biens sociaux\". L'élu \"insoumis\" est également soupçonné de \"manquement de déclaration à la Haute Autorité pour la transparence de la vie publique (HATVP)\". Le député de 32 ans est soupçonné d'avoir dissimulé un peu moins de 200 000 euros aux autorités et fait l'objet d'une procédure ouverte mi-avril suite à un signalement de Tracfin, la cellule de renseignement financier de Bercy.",
+    "url": "https://www.francetvinfo.fr/politique/le-depute-lfi-carlos-martens-bilongo-vise-par-une-enquete-notamment-pour-blanchiment-de-fraude-fiscale_5819813.html",
+    "date": "2023-05-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 78,
+        "value": "Carlos Martens Bilongo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 20,
+        "value": "La France Insoumise (LFI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
     "a_la_une": false
   },
   {
