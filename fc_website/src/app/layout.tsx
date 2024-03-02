@@ -39,11 +39,13 @@ export default function RootLayout({
         <main className="mx-auto grow w-full">{children}</main>
         <footer className="mt-10">
           <div className="container mx-auto p-4 flex justify-center gap-4 text-gray-700">
-            <Link href={'/mentionslegales'} className="fc-link">
-              Mentions légales
-            </Link>
-            <Link href={'/politiquedeconfidentialite'} className="fc-link">
-              Politique de confidentialité
+            <Link
+              href={
+                'https://www.anticor.org/mentions-legales-et-politique-de-confidentialite/'
+              }
+              className="fc-link"
+            >
+              Mentions légales et politique de confidentialité
             </Link>
           </div>
         </footer>
