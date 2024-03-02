@@ -79,7 +79,7 @@ function Suggestions({ item, allItems }: { item: Item; allItems: Item[] }) {
                 className="bg-bleuanticor-500 px-4 py-1 text-white mr-2"
               />
             </h3>
-            <ul className="flex gap-6 items-stretch">
+            <ul className="grid grid-cols-3 gap-6 items-stretch">
               {items.map((item) => {
                 return (
                   <li key={item.id} className="">
