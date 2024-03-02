@@ -29,14 +29,10 @@ export default function Home() {
     .filter((_) => _.categorie.some((_) => _.value === 'Actualité'))
     .slice(0, MAX_BY_BANDEAU)
   const itemProbite = allItems
-    .filter((_) =>
-      _.categorie.some((_) => _.value === 'Observatoire de la probité'),
-    )
+    .filter((_) => _.categorie.some((_) => _.value === 'Probité'))
     .slice(0, MAX_BY_BANDEAU)
   const itemsPantouflages = allItems
-    .filter((_) =>
-      _.categorie.some((_) => _.value === 'Observatoire des pantouflages'),
-    )
+    .filter((_) => _.categorie.some((_) => _.value === 'Pantouflages'))
     .slice(0, MAX_BY_BANDEAU)
   const itemsCondamnations = allItems
     .filter((_) => _.procedure.some((_) => _.value === 'Condamnation'))
