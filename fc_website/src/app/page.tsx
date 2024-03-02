@@ -6,6 +6,7 @@ import {
   formatDateVerbose,
   getItemsWithSameTag,
   readTagsOfItem,
+  readTitre,
 } from '@/lib/utils'
 import lo from 'lodash'
 import Link from 'next/link'
@@ -116,7 +117,7 @@ function ALaUneBanner({ item }: { item: Item }) {
       >
         <h1 className="font-bold text-3xl text-left mb-2">
           <span className="text-bleuanticor-200">À LA UNE :</span>{' '}
-          <span className="">{item.titre}</span>{' '}
+          <span className="">{readTitre(item)}</span>{' '}
         </h1>
         <p className="text-base uppercase text-bleuanticor-100 font-normal mb-2">
           Le 8 février 2024
@@ -171,7 +172,7 @@ function ItemsBanner({ items, title }: { items: Item[]; title: string }) {
                     </div>
                   )}
                   <div className="font-bold text-bleuanticor-500">
-                    {item.titre}
+                    {readTitre(item)}
                   </div>
                 </LinkToItem>
               </li>

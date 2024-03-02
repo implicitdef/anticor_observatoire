@@ -3,6 +3,7 @@ import {
   formatDateVerbose,
   getItemsWithSameTag,
   readTagsOfItem,
+  readTitre,
 } from '@/lib/utils'
 import Link from 'next/link'
 import { NextSearchParams } from '../page'
@@ -48,7 +49,7 @@ function MainFiche({ item }: { item: Item }) {
             </p>
           ) : null}
           <h1 className="font-bold text-4xl mb-8 text-bleuanticor-500">
-            {item.titre}
+            {readTitre(item)}
           </h1>
           <p className="mb-4 ">{item.contenu}</p>
           <p className="mb-10">
@@ -94,7 +95,7 @@ function Suggestions({ item, allItems }: { item: Item; allItems: Item[] }) {
                         </div>
                       )}
                       <div className="font-bold text-bleuanticor-500">
-                        {item.titre}
+                        {readTitre(item)}
                       </div>
                     </LinkToItem>
                   </li>

@@ -1,5 +1,5 @@
 import { Item } from '@/lib/dataReader'
-import { formatDateVerbose, shorten } from '@/lib/utils'
+import { formatDateVerbose, readTitre, shorten } from '@/lib/utils'
 import { LinkToItem } from './LinkToItem'
 import { TagsList } from './TagsList'
 
@@ -14,7 +14,7 @@ export function ItemFiche({ item }: { item: Item }) {
             </p>
           ) : null}
           <h2 className="font-bold text-2xl mb-2 text-bleuanticor-500">
-            {item.titre}
+            {readTitre(item)}
           </h2>
           <p className="mb-4 text-black">{item.contenu}</p>
         </div>

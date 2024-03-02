@@ -106,3 +106,7 @@ export function getItemsWithSameTag(
 export function firstOfArray<A>(arr: A[]): A | undefined {
   return arr.length > 0 ? arr[0] : undefined
 }
+
+export function readTitre(item: Item) {
+  return item.titre_corrige || item.titre
+}
