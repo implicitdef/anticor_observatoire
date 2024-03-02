@@ -1,5 +1,134 @@
 [
   {
+    "id": 1990,
+    "titre": "Les étranges revirements de la HATVP sur le pantouflage d’un conseiller ministériel",
+    "contenu": "La Haute Autorité pour la transparence de la vie publique a formulé trois avis sur le passage au privé d’un conseiller ministériel. Malgré un dernier avis positif, le Parquet national financier a ouvert une enquête pour « prise illégale d’intérêts ».",
+    "url": "https://www.lemonde.fr/societe/article/2024/03/02/les-etranges-revirements-de-la-hatvp-sur-le-pantouflage-d-un-conseiller-ministeriel_6219707_3224.html",
+    "date": "2024-03-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2057,
+        "value": "Pierre-Yves Burlot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 198,
+        "value": "Ministère de l'Écologie"
+      },
+      {
+        "id": 619,
+        "value": "Séché Environnement"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      },
+      {
+        "id": 1152013,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1989,
+    "titre": "« L’exemple typique de l’affaire qui fait pschitt » : l’ex-directeur des services techniques de Levallois relaxé",
+    "contenu": "Thierry Bandrac, 63 ans, poursuivi pour favoritisme et détournement de biens sociaux, a été blanchi après huit ans d’instruction et près de quatre mois de détention provisoire. Son fils et les quatre chefs d’entreprise jugés à ses côtés sont également relaxés.",
+    "url": "https://www.leparisien.fr/hauts-de-seine-92/lexemple-typique-de-laffaire-qui-fait-pschitt-lex-directeur-des-services-techniques-de-levallois-relaxe-01-03-2024-JQHGWVY5X5E2XIXBLCZBTQ2EQI.php?ts=1709383900897",
+    "date": "2024-03-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2056,
+        "value": "Thierry Bandrac"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ],
+    "titre_corrige": "Thierry Bandrac, ex-directeur des services techniques de Levallois, relaxé",
+    "a_la_une": false
+  },
+  {
+    "id": 1991,
+    "titre": "Roland-Garros : l’enquête pour « trafic de billets » visant un ex-président de la FFT est classée",
+    "contenu": "L’enquête pour « détournement de billets » de Roland-Garros visant l’ancien président de la Fédération française de tennis (FFT), Jean Gachassin, a été classée mi-février, alors que le PNF demande des poursuites contre un cadre et deux bénéficiaires présumés. Les investigations avaient été lancées en mars 2016 pour vérifier les conditions dans lesquelles l’intéressé avait cédé des billets à prix coûtant à un ami, dirigeant d’agence de voyages.",
+    "url": "https://www.mediapart.fr/journal/france/010324/roland-garros-l-enquete-pour-trafic-de-billets-visant-un-ex-president-de-la-fft-est-classee",
+    "date": "2024-03-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2058,
+        "value": "Jean Gachassin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 165,
+        "value": "Fédération française de tennis (FFT)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153429,
+        "value": "Relaxe / classement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1988,
     "titre": "Le groupe Avril, présidé par le patron de la FNSEA, carbure aux frais de l’État",
     "contenu": "L’entreprise d’Arnaud Rousseau est devenue leader sur le marché des « biocarburants ». Son or jaune, c’est le colza. La société a prospéré grâce à une réglementation sur mesure et à un important rabais fiscal.",
