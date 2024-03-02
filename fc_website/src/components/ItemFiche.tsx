@@ -15,12 +15,7 @@ export function ItemFiche({ item }: { item: Item }) {
         <h2 className="font-bold text-2xl mb-2 text-bleuanticor-500">
           <LinkToItem {...{ item }}>{item.titre}</LinkToItem>
         </h2>
-        <p className="mb-4 text-black">
-          {shorten(item.contenu, 200)}{' '}
-          <LinkToItem {...{ item }} className="ml-2 underline">
-            Lire la suite&nbsp;→
-          </LinkToItem>
-        </p>
+        <p className="mb-4 text-black">{item.contenu}</p>
       </div>
       <TagsList {...{ item }} />
     </li>
