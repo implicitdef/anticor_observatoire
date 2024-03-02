@@ -110,3 +110,12 @@ export function firstOfArray<A>(arr: A[]): A | undefined {
 export function readTitre(item: Item) {
   return item.titre_corrige || item.titre
 }
+export function extractDomain(url: string): string | undefined {
+  try {
+    const parsedUrl = new URL(url)
+    return parsedUrl.hostname
+  } catch (error) {
+    console.error('Invalid URL')
+    return undefined
+  }
+}

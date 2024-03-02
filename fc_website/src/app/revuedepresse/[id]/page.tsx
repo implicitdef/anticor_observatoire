@@ -1,5 +1,6 @@
 import { Item, getData } from '@/lib/dataReader'
 import {
+  extractDomain,
   formatDateVerbose,
   getItemsWithSameTag,
   readTagsOfItem,
@@ -55,8 +56,12 @@ function MainFiche({ item }: { item: Item }) {
           <p className="mb-10">
             <i className="ri-article-line ri-lg mr-2" />
             Source :{' '}
-            <Link href={item.url} target="_blank" className="fc-link">
-              {item.url}{' '}
+            <Link
+              href={item.url}
+              target="_blank"
+              className="fc-link underline underline-offset-4"
+            >
+              {buildLinkText(item)}{' '}
               <i className="ri-external-link-line" aria-hidden="true" />
             </Link>
           </p>
@@ -67,6 +72,11 @@ function MainFiche({ item }: { item: Item }) {
       </div>
     </div>
   )
+}
+
+function buildLinkText(item: Item) {
+  const domain = extractDomain(item.url)
+  return item.titre + (domain ? ` (${domain})` : '')
 }
 
 function Suggestions({ item, allItems }: { item: Item; allItems: Item[] }) {
