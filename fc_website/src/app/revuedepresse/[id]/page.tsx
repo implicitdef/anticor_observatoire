@@ -10,6 +10,7 @@ import { notFound } from 'next/navigation'
 import { TagsList } from '@/components/TagsList'
 import { LinkToItem } from '@/components/LinkToItem'
 import { LinkToTag } from '@/components/LinkToTag'
+import sortBy from 'lodash/sortBy'
 
 type LocalParams = {
   id: string
@@ -120,5 +121,7 @@ function getSimilarItems(item: Item, allItems: Item[]) {
     })
     // don't keep tags with 0 other items
     .filter((_) => _.items.length)
-  return tagsWithItems
+  // Sort by length, so that tags with less than 3 items
+  // are always at the end (because it looks better)
+  return sortBy(tagsWithItems, (_) => -_.items.length)
 }
