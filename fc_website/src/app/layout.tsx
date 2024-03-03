@@ -77,13 +77,6 @@ function SocialLinks() {
             height={32}
           />
         </a>
-        <a
-          target="_blank"
-          href="https://francecorruption.fr/podcast/"
-          className="font-bold"
-        >
-          Podcast
-        </a>
       </div>
     </div>
   )
