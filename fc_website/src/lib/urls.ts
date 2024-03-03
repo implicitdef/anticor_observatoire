@@ -3,6 +3,8 @@ import {
   TypedTag,
   hasKindDepartements,
   identifyDepartementsTagForUrl,
+  parseDate,
+  readTitre,
   slugify,
 } from './utils'
 
@@ -26,5 +28,10 @@ export function buildUrlTag(tag: TypedTag) {
   return `/tag/${slugify(tag.value)}`
 }
 export function buildUrlItem(item: Item) {
-  return `/revuedepresse/${item.id}`
+  const date = parseDate(item.date)
+  const year = date.getFullYear()
+  const month = (date.getMonth() + 1).toString().padStart(2, '0')
+  const day = date.getDate().toString().padStart(2, '0')
+
+  return `/${year}/${month}/${day}/${item.id}-${slugify(readTitre(item))}`
 }

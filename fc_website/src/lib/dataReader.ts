@@ -32,13 +32,17 @@ const rowsSchema = z
   .strict()
   .array()
 
-export type Item = z.infer<typeof rowsSchema>[number]
+type ItemRaw = z.infer<typeof rowsSchema>[number]
+
+export type Item = ItemRaw & {
+  date: string
+}
 
 export function getData(): Item[] {
   const cutoffDate = new Date('2023-01-01T00:00:00')
   return rowsSchema.parse(rows).filter((_) => {
     return _.date && parseDate(_.date).getTime() >= cutoffDate.getTime()
-  })
+  }) as Item[] // we filter on the date, so know we can cast down, the date is not null
 }
 
 export type Tag = {
