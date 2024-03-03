@@ -101,7 +101,7 @@ function Logo() {
         height={61}
         alt="Logo de l'Observatoire, par Anticor"
       />
-      <span className="font-bold text-2xl bg-bleuanticor-500 px-2 mt-2 text-white tracking-tight bg-bleXuanticor-100">
+      <span className="uppercase font-bold text-xl bg-bleuanticor-500 px-2 mt-2 text-white tracking-tight bg-bleXuanticor-100">
         l'observatoire
       </span>
     </Link>
