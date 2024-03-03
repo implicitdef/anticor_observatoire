@@ -52,6 +52,37 @@
     "a_la_une": false
   },
   {
+    "id": 1992,
+    "titre": "Soupçons de détournements de fonds et de harcèlement moral à l’EPIC Vanille de Tahiti",
+    "contenu": "Malaise au sein de l’Établissement public à caractère industriel et commercial Vanille de Tahiti (EPIC Vanille). Licenciée en janvier dernier, une ancienne agente dénonce des faits de détournements de fonds publics et de harcèlement moral. Deux plaintes ont été déposées en 2022 et en février 2024. Elles incriminent l’ancienne et l’actuelle direction.",
+    "url": "https://www.tntv.pf/tntvnews/polynesie/justice/soupcons-de-detournements-de-fonds-et-de-harcelement-moral-a-lepic-vanille-de-tahiti/",
+    "date": "2024-03-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151995,
+        "value": "987 - Polynésie Française"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 620,
+        "value": "Vanille de Tahiti"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1989,
     "titre": "« L’exemple typique de l’affaire qui fait pschitt » : l’ex-directeur des services techniques de Levallois relaxé",
     "contenu": "Thierry Bandrac, 63 ans, poursuivi pour favoritisme et détournement de biens sociaux, a été blanchi après huit ans d’instruction et près de quatre mois de détention provisoire. Son fils et les quatre chefs d’entreprise jugés à ses côtés sont également relaxés.",
@@ -36937,7 +36968,7 @@
   },
   {
     "id": 1504,
-    "titre": "Marie-Anne Barbat-Layani",
+    "titre": "Marie-Anne Barbat-Layani proposée par l’Elysée pour prendre la tête de l’Autorité des marchés financiers",
     "contenu": "Formée à Sciences Po Paris et l'ENA, elle rejoint la Direction générale du Trésor. De 2007 à 2010, elle rejoint la Fédération du Crédit agricole comme directrice générale adjointe chargée des finances des Caisses régionales et des affaires européennes. Elle est ensuite directrice adjointe au cabinet du Premier ministre François Fillon de 2010 à 2012, avant de rejoindre l'Inspection générale des finances de 2012 à 2014. Elle retourne dans le privé comme directrice générale de la Fédération bancaire française de 2014 à 2019. En 2014 elle entre aussi au conseil exécutif du Medef. En octobre 2019 elle est nommée secrétaire générale des ministères économiques et financiers. En 2022 elle est pressentie pour prendre la tête de l'Autorité des Marchés Financiers (AMF).",
     "url": "https://www.lemonde.fr/politique/article/2022/09/29/marie-anne-barbat-layani-proposee-par-l-elysee-pour-prendre-la-tete-de-l-autorite-des-marches-financiers_6143755_823448.html",
     "date": "2022-09-29",
