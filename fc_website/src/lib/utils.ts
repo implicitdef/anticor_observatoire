@@ -1,5 +1,6 @@
 import { TagKind } from '@/app/revuedepresse/tag/[kind]/[id]/page'
 import { Item, Tag } from './dataReader'
+import kebabCase from 'lodash/kebabCase'
 
 // 2023-11-03 => 3 novembre 2023
 export function formatDateVerbose(dateStr: string): string {
@@ -118,4 +119,36 @@ export function extractDomain(url: string): string | undefined {
     console.error('Invalid URL')
     return undefined
   }
+}
+
+export function hasKindDepartements(
+  tag: TypedTag,
+): tag is TypedTag & { kind: 'departements' } {
+  return tag.kind === 'departements'
+}
+
+export function identifyDepartementsTagForUrl(
+  tag: TypedTag & { kind: 'departements' },
+):
+  | {
+      kind: 'departement'
+      number: string
+    }
+  | {
+      kind: 'country'
+      name: string
+    } {
+  const { value } = tag
+  const splitted = value.split(' - ')
+  if (splitted.length === 1) {
+    return { kind: 'country', name: value }
+  }
+  return {
+    kind: 'departement',
+    number: splitted[0].trim(),
+  }
+}
+
+export function slugify(s: string): string {
+  return kebabCase(s)
 }

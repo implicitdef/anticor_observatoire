@@ -3,6 +3,7 @@ import { Item, getData } from '@/lib/dataReader'
 import { buildUrlTag } from '@/lib/urls'
 import {
   TypedTag,
+  identifyDepartementsTagForUrl,
   firstOfArray,
   formatDateVerbose,
   getItemsWithSameTag,
@@ -16,6 +17,7 @@ const MAX_BY_BANDEAU = 3
 
 export default function Home() {
   const allItems = getData()
+
   const laUneItem = firstOfArray(allItems.filter((_) => _.a_la_une))
 
   const laUneRelatedTags = prepareTagsRelatedToLaUne(laUneItem, allItems)
