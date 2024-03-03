@@ -1,4 +1,5 @@
 import { TagKind } from '@/app/revuedepresse/tag/[kind]/[id]/page'
+import { buildUrlTag } from '@/lib/urls'
 import Link from 'next/link'
 import { ReactNode } from 'react'
 
@@ -11,10 +12,8 @@ export function LinkToTag({
   children?: ReactNode
   className?: string
 }) {
-  const url = `/revuedepresse/tag/${tag.kind}/${tag.id}`
-
   return (
-    <Link href={url} {...{ className }}>
+    <Link href={buildUrlTag(tag)} {...{ className }}>
       {children ?? tag.value}
     </Link>
   )

@@ -1,5 +1,6 @@
 import { LinkToItem } from '@/components/LinkToItem'
 import { Item, getData } from '@/lib/dataReader'
+import { buildUrlTag } from '@/lib/urls'
 import {
   TypedTag,
   firstOfArray,
@@ -134,7 +135,7 @@ function RelatedTags({ tags }: { tags: TypedTag[] }) {
         {tags.map((tag) => {
           return (
             <Link
-              href={`/revuedepresse/tag/${tag.kind}/${tag.id}`}
+              href={buildUrlTag(tag)}
               className="underline decoration-2 rounded-2xl text-bleuanticor-500 bg-bleuanticor-100 font-bold px-3 py-1 text-lg"
               key={tag.id}
             >

@@ -9,6 +9,7 @@ import logoMastodon from '@/img/sociallogos/mastodon.svg'
 import logoX from '@/img/sociallogos/x.svg'
 import logoInstagram from '@/img/sociallogos/instagram.svg'
 import logoFacebook from '@/img/sociallogos/facebook.png'
+import { buildUrlAPropos, buildUrlHome, buildUrlList } from '@/lib/urls'
 
 const openSans = Open_Sans({ subsets: ['latin'] })
 
@@ -90,7 +91,10 @@ function SocialLinks() {
 
 function Logo() {
   return (
-    <Link href="/" className="mt-2 ml-6 w-fit flex flex-col items-center">
+    <Link
+      href={buildUrlHome()}
+      className="mt-2 ml-6 w-fit flex flex-col items-center"
+    >
       <Image
         src={logo}
         width={130}
@@ -107,10 +111,10 @@ function Logo() {
 function Menu() {
   return (
     <div className="p-4 flex items-center gap-4 uppercase">
-      <Link href={'/revuedepresse'} className="">
+      <Link href={buildUrlList()} className="">
         Revue de presse
       </Link>
-      <Link href={'/apropos'} className="">
+      <Link href={buildUrlAPropos()} className="">
         À propos{' '}
       </Link>
     </div>

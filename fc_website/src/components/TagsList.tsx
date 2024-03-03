@@ -3,6 +3,7 @@ import { Item } from '@/lib/dataReader'
 import { shorten } from '@/lib/utils'
 import Link from 'next/link'
 import { LinkToTag } from './LinkToTag'
+import { buildUrlTag } from '@/lib/urls'
 
 export function TagsList({ item }: { item: Item }) {
   const categories = item.categorie.map((_) => ({
@@ -62,9 +63,7 @@ export function SingleTag({
 }) {
   return (
     <span className="bg-rose-200 px-2 rounded ">
-      <Link href={`/revuedepresse/tag/${tag.kind}/${tag.id}`}>
-        {shorten(tag.value, 30)}
-      </Link>
+      <Link href={buildUrlTag(tag)}>{shorten(tag.value, 30)}</Link>
     </span>
   )
 }
