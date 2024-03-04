@@ -1,5 +1,53 @@
 [
   {
+    "id": 1993,
+    "titre": "Les mauvais comptes de la prévention de la délinquance et de la radicalisation",
+    "contenu": "La Cour des comptes épingle ce lundi dans un rapport la gestion jugée « inquiétante » des subventions gérées par le secrétariat général du comité de prévention de la délinquance et de la radicalisation, à l’origine du scandale du fonds Marianne.",
+    "url": "https://www.leprogres.fr/economie/2024/03/04/les-mauvais-comptes-de-la-prevention-de-la-delinquance",
+    "date": "2024-03-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1303,
+        "value": "Marlène Schiappa"
+      },
+      {
+        "id": 1428,
+        "value": "Pierre Moscovici"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 4,
+        "value": "Cour des comptes (CDC)"
+      },
+      {
+        "id": 621,
+        "value": "Comité interministériel de prévention de la délinquance et de la radicalisation"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1990,
     "titre": "Les étranges revirements de la HATVP sur le pantouflage d’un conseiller ministériel",
     "contenu": "La Haute Autorité pour la transparence de la vie publique a formulé trois avis sur le passage au privé d’un conseiller ministériel. Malgré un dernier avis positif, le Parquet national financier a ouvert une enquête pour « prise illégale d’intérêts ».",
@@ -435,6 +483,37 @@
       {
         "id": 1152014,
         "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1994,
+    "titre": "Trafic de drogue : les dates du procès de l’ancienne maire de Canteleu sont connues",
+    "contenu": "L’ancienne maire de Canteleu, Mélanie Boulanger, est mise en examen depuis 2022 pour complicité de trafic de stupéfiants. Elle sera jugée du 27 mai au 24 juin 2024, au tribunal judiciaire de Bobigny (Seine-Saint-Denis).",
+    "url": "https://www.ouest-france.fr/societe/justice/trafic-de-drogue-les-dates-du-proces-de-lancienne-maire-de-canteleu-sont-connues-334e90a0-d668-11ee-96ef-9660257def44",
+    "date": "2024-02-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151972,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1557,
+        "value": "Mélanie Boulanger"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
       }
     ],
     "theme": [],
