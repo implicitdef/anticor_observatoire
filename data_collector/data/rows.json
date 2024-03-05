@@ -1,5 +1,98 @@
 [
   {
+    "id": 1995,
+    "titre": "La mairie de Paris perquisitionnée dans l’affaire du voyage d’Anne Hidalgo à Tahiti",
+    "contenu": "Des perquisitions sont en cours depuis mardi 5 mars au matin dans les locaux de la mairie de Paris et ses annexes. Ces opérations sont menées par les enquêteurs de la Brigade de répression de la délinquance économique de la police judiciaire parisienne. Elles s’inscrivent dans le cadre d’une enquête préliminaire des chefs de « prise illégale d’intérêts et détournement de fonds publics », ouverte par le Parquet national financier (PNF), à la suite d’une plainte contre X déposée mi-novembre 2023 par l’association AC ! ! Anti-Corruption et de « plusieurs signalements d’élus du Conseil de Paris ou de la région Ile-de-France ».",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2024/03/05/la-mairie-de-paris-perquisitionnee-dans-l-affaire-du-voyage-d-anne-hidalgo-a-tahiti_6220240_4355770.html",
+    "date": "2024-03-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1151996,
+        "value": "98 - Nouvelle Calédonie"
+      },
+      {
+        "id": 1151995,
+        "value": "987 - Polynésie Française"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1284,
+        "value": "Anne Hidalgo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 170,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 1996,
+    "titre": "Suspicion d'emploi fictif à l'AP-HM : deux ans de prison et 100 000 euros d'amende requis contre un ancien adjoint à Marseille",
+    "contenu": "Ancien adjoint (LR) à Marseille, Daniel Sperling, est jugé pour détournement de fonds publics. Le parquet de Paris requière deux ans de prison et 100 000 euros d'amende. Il est accusé d’avoir occupé un emploi fictif à l’Assistance publique-Hôpitaux de Marseille (AP-HM).",
+    "url": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/suspicion-d-emploi-fictif-a-l-ap-hm-deux-ans-de-prison-et-100-000-euros-d-amende-requis-contre-un-ancien-adjoint-a-marseille-2934681.html",
+    "date": "2024-03-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2022,
+        "value": "Daniel Sperling"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 592,
+        "value": "Assistance publique - Hôpitaux de Marseille (AP-HM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1993,
     "titre": "Les mauvais comptes de la prévention de la délinquance et de la radicalisation",
     "contenu": "La Cour des comptes épingle ce lundi dans un rapport la gestion jugée « inquiétante » des subventions gérées par le secrétariat général du comité de prévention de la délinquance et de la radicalisation, à l’origine du scandale du fonds Marianne.",
@@ -45,7 +138,7 @@
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1990,
