@@ -1,5 +1,45 @@
 [
   {
+    "id": 1997,
+    "titre": "« Il était temps de le sortir » : les dessous du limogeage du patron de Tracfin",
+    "contenu": "À la suite d’un rapport de l’inspection générale des renseignements, Guillaume Valette-Valla a été évincé brutalement de la tête de ce service chargé de lutter contre le blanchiment d’argent. En cause notamment, son management.",
+    "url": "https://www.leparisien.fr/economie/il-etait-temps-de-le-sortir-les-dessous-du-limogeage-du-patron-de-tracfin-05-03-2024-IM3ZZB52AJG6RKI36CC3FC66AU.php?ts=1709674859750",
+    "date": "2024-03-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2073,
+        "value": "Guillaume Valette-Valla"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 97,
+        "value": "Tracfin"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1995,
     "titre": "La mairie de Paris perquisitionnée dans l’affaire du voyage d’Anne Hidalgo à Tahiti",
     "contenu": "Des perquisitions sont en cours depuis mardi 5 mars au matin dans les locaux de la mairie de Paris et ses annexes. Ces opérations sont menées par les enquêteurs de la Brigade de répression de la délinquance économique de la police judiciaire parisienne. Elles s’inscrivent dans le cadre d’une enquête préliminaire des chefs de « prise illégale d’intérêts et détournement de fonds publics », ouverte par le Parquet national financier (PNF), à la suite d’une plainte contre X déposée mi-novembre 2023 par l’association AC ! ! Anti-Corruption et de « plusieurs signalements d’élus du Conseil de Paris ou de la région Ile-de-France ».",
@@ -37043,7 +37083,12 @@
     "url": "https://www.letemps.ch/economie/fraude-fiscale-ubs-francaise-stephanie-gibaud-officiellement-reconnue-lanceuse-dalerte",
     "date": "2022-09-29",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 2047,
@@ -37060,7 +37105,12 @@
         "value": "Défenseur des droits (DDD)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
@@ -37145,9 +37195,24 @@
     "url": "https://www.lemonde.fr/politique/article/2022/09/29/marie-anne-barbat-layani-proposee-par-l-elysee-pour-prendre-la-tete-de-l-autorite-des-marches-financiers_6143755_823448.html",
     "date": "2022-09-29",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1976,
+        "value": "Marie-Anne Barbat-Layani"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 189,
+        "value": "Autorité des Marchés Financiers (AMF)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -37165,31 +37230,61 @@
     "contenu": "Dans le dossier des soupçons d’emploi fictif à la mairie de Carqueiranne, le parquet de Toulon requiert ce mercredi une peine de cinq ans d'inéligibilité envers le président du Département du Var, Marc Giraud, et les trois autres prévenus dans ce dossier. Les réquisitions prévoient également l'exécution provisoire de cette peine, c'est à dire que même s'ils font appel, les prévenus ne pourront pas continuer leur mandat jusqu'à un nouveau procès.\nLe parquet demande aussi 50.000 euros d'amende et deux ans de prison dont un avec sursis pour tous les prévenus.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/soupcons-d-emploi-fictif-cinq-ans-d-ineligibilite-requis-contre-le-president-du-departement-du-var-1664373884",
     "date": "2022-09-28",
-    "etiquettes": "83 - Var,Marc Giraud",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151980,
         "value": "83 - Var"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 2025,
+        "value": "Marc Giraud"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
   {
     "id": 1505,
-    "titre": "Luc Rémont",
+    "titre": "Luc Rémont proposé par l’Elysée pour être le nouveau patron d’EDF",
     "contenu": "Polytechnicien, diplômé de l’ENSTA, il a partagé sa carrière entre haute fonction publique et secteur privé. Il commence son parcours à la Direction générale de l’armement, de 1993 à 1996, et la poursuit au Trésor, avant de servir tous les ministres de l’économie et des finances, entre 2002 et 2007, dans les cabinets de Francis Mer, Nicolas Sarkozy, Hervé Gaymard et Thierry Breton. Il travaille sur l’introduction en Bourse d’EDF en 2005. En 2007 il rejoint Bank of America Merrill Lynch dont il dirige la Banque de financement et d’investissement en France en 2009, ainsi que la filiale du Benelux, jusqu'en juillet 2014. Il supervise à ce titre la vente d’Alstom énergie à l’américain General Electric. En 2022 il est proposé par l’Elysée pour être le nouveau patron d’EDF.",
     "url": "https://www.lemonde.fr/economie/article/2022/09/29/edf-le-discret-luc-remont-nomme-pdg-de-l-energeticien_6143726_3234.html",
     "date": "2022-09-28",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2059,
+        "value": "Luc Rémont"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 112,
+        "value": "Électricité de France (EDF)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152013,
@@ -37223,18 +37318,38 @@
     "contenu": "La campagne présidentielle de Valérie Pécresse fait l’objet d’une enquête préliminaire des chefs de détournement de fonds publics, ouverte le 26 septembre, selon les informations de BFMTV confirmées ce mardi par le parquet de Paris auprès de Libération. Valérie Pécresse, présidente de la région Ile-de-France, candidate des Républicains à la présidentielle, a perdu dès le premier tour de l’élection ne recueillant que 4,78 % des suffrages. Les investigations ont été confiées à la Brigade de répression de la délinquance économique (BRDE), précise à Libération le parquet de Paris.\nDans un signalement adressé le 19 avril au parquet de Paris quand il était encore conseiller régional EELV d’Ile-de-France, Julien Bayou alertait sur la mobilisation présumée de moyens de la région au service de la campagne de Valérie Pécresse.",
     "url": "https://www.liberation.fr/societe/police-justice/valerie-pecresse-enquete-ouverte-sur-le-financement-de-sa-campagne-presidentielle-20220927_435DI5FZTBGYTE26TSYLZCG25I/",
     "date": "2022-09-27",
-    "etiquettes": "75 - Paris,Les Républicains,Valérie Pécresse",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151970,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1461,
+        "value": "Valérie Pécresse"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -37244,18 +37359,38 @@
     "contenu": "Dans ce dossier financier, elle devra répondre d’abus de biens sociaux, abus de confiance et de détournement de fonds publics, jeudi 17 novembre, devant le tribunal correctionnel de Nantes (Loire-Atlantique).",
     "url": "https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/joelle-kerivin-l-ex-directrice-de-la-folle-journee-de-nantes-renvoyee-devant-le-tribunal-88e4ea9e-3db9-11ed-8fdd-0c50a46087ee",
     "date": "2022-09-27",
-    "etiquettes": "44 – Loire-Atlantique,Joëlle Kérivin,La Folle Journée",
+    "etiquettes": "",
     "departement": [
       {
         "id": 1151947,
         "value": "44 - Loire-Atlantique"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 2068,
+        "value": "Joëlle Kérivin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 528,
+        "value": "La Folle Journée"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": null,
     "a_la_une": false
   },
@@ -37265,16 +37400,99 @@
     "contenu": "L’ancien PDG Henri Proglio et une quarantaine de conseillers – parmi lesquels Loïk Le Floch-Prigent, l’ex-ministre Claude Allègre ou l’ex-secrétaire d’Etat Jeannette Bougrab – sont menacés par le Parquet national financier d’un procès pour avoir signé des contrats sans appel d’offres. Avec, à la clé, des millions d’euros publics.",
     "url": "https://www.liberation.fr/societe/police-justice/les-influents-et-tres-couteux-consultants-dedf-20220927_Z6VG34UY5BHTZFLMLSVTHSUJEM/?redirected=1",
     "date": "2022-09-27",
-    "etiquettes": "Alain Bauer,Alain Boublil,Alexandre Medvedowsky,Anne Méaux,Claude Allègre,Henri Proglio,Image 7,Jean de Belot,Jean-Marie Messier,Jeannette Bougrab.,Laïd Sammari,Loïk Le Floch-Prigent,Parquet National Financier,Paul Boury,Philippe Guglielmi,Pierre Bédier,Roland Jacquard,Stéphane Fouks,Valérie Terranova",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
+      {
+        "id": 1342,
+        "value": "Stéphane Fouks"
+      },
+      {
+        "id": 1343,
+        "value": "Henri Proglio"
+      },
+      {
+        "id": 1608,
+        "value": "Alexandre Medvedowsky"
+      },
+      {
+        "id": 1613,
+        "value": "Pierre Bédier"
+      },
       {
         "id": 1880,
         "value": "Alain Bauer"
+      },
+      {
+        "id": 2060,
+        "value": "Alain Boublil"
+      },
+      {
+        "id": 2061,
+        "value": "Anne Méaux"
+      },
+      {
+        "id": 2062,
+        "value": "Claude Allègre"
+      },
+      {
+        "id": 2063,
+        "value": "Jean de Belot"
+      },
+      {
+        "id": 2064,
+        "value": "Jean-Marie Messier"
+      },
+      {
+        "id": 2065,
+        "value": "Jeannette Bougrab"
+      },
+      {
+        "id": 2066,
+        "value": "Loïk Le Floch-Prigent"
+      },
+      {
+        "id": 2067,
+        "value": "Laïd Sammari"
+      },
+      {
+        "id": 2069,
+        "value": "Paul Boury"
+      },
+      {
+        "id": 2070,
+        "value": "Philippe Guglielmi"
+      },
+      {
+        "id": 2071,
+        "value": "Roland Jacquard"
+      },
+      {
+        "id": 2072,
+        "value": "Valérie Terranova"
       }
     ],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 110,
+        "value": "Image 7"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": null,
