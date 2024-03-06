@@ -31,6 +31,94 @@
     "a_la_une": false
   },
   {
+    "id": 1999,
+    "titre": "Ce que révèle le registre des cadeaux offerts aux députés : du champagne, des matchs de football et une « nuit au château »",
+    "contenu": "Depuis 2011, les députés français doivent déclarer à un déontologue les dons et invitations de plus de 150 euros dont ils bénéficient. Malgré cet exercice de transparence, des interrogations déontologiques subsistent.",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2024/03/06/ce-que-revele-le-registre-des-cadeaux-offerts-aux-deputes-entre-champagne-football-et-nuit-au-chateau_6220498_4355770.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default",
+    "date": "2024-03-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 241,
+        "value": "Yoann Gillet"
+      },
+      {
+        "id": 266,
+        "value": "David Habib"
+      },
+      {
+        "id": 347,
+        "value": "Mathieu Lefèvre"
+      },
+      {
+        "id": 434,
+        "value": "Karl Olive"
+      },
+      {
+        "id": 588,
+        "value": "Stéphane Vojetta"
+      },
+      {
+        "id": 595,
+        "value": "Éric Woerth"
+      },
+      {
+        "id": 2074,
+        "value": "Élodie Jacquier-Laforge"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 19,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 20,
+        "value": "La France Insoumise (LFI)"
+      },
+      {
+        "id": 28,
+        "value": "Les écologistes (ex-Europe Ecologie Les Verts) (EELV)"
+      },
+      {
+        "id": 79,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 514,
+        "value": "Japan Tobacco International (JTI)"
+      },
+      {
+        "id": 623,
+        "value": "Groupe Toray"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1997,
     "titre": "« Il était temps de le sortir » : les dessous du limogeage du patron de Tracfin",
     "contenu": "À la suite d’un rapport de l’inspection générale des renseignements, Guillaume Valette-Valla a été évincé brutalement de la tête de ce service chargé de lutter contre le blanchiment d’argent. En cause notamment, son management.",
