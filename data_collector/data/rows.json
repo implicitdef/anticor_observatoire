@@ -1,5 +1,36 @@
 [
   {
+    "id": 1998,
+    "titre": "Affaire du village de Noël au Barcarès : le procès d'Alain Ferrand renvoyé en juin 2025",
+    "contenu": "Le maire du Barcarès, Alain Ferrand, avait une nouvelle fois rendez-vous avec la justice ce mercredi matin au tribunal de Perpignan. Avec quatre autres prévenus, il devait répondre de \"prise illégale d'intérêts\" et \"concussion\". Un rendez-vous manqué car le jugement a été renvoyé dans 15 mois, au 19 juin 2025. \n\nCause de ce nouveau renvoi d'audience, une pièce du dossier qui depuis deux ans n'a pas été communiquée à la défense par les enquêteurs. Mais cette fois, le tribunal vient d'ordonner qu'elle le soit.",
+    "url": "https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/affaire-du-village-de-noel-au-barcares-le-proces-d-alain-ferrand-renvoye-en-juin-2025-2935350.html",
+    "date": "2024-03-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151964,
+        "value": "66 - Pyrénées-Orientales"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1398,
+        "value": "Alain Ferrand"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1997,
     "titre": "« Il était temps de le sortir » : les dessous du limogeage du patron de Tracfin",
     "contenu": "À la suite d’un rapport de l’inspection générale des renseignements, Guillaume Valette-Valla a été évincé brutalement de la tête de ce service chargé de lutter contre le blanchiment d’argent. En cause notamment, son management.",
