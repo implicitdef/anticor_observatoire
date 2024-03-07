@@ -1,5 +1,41 @@
 [
   {
+    "id": 2000,
+    "titre": "J-M Nicolle, ex-maire du Kremlin-Bicêtre, bientôt jugé pour favoritisme et corruption",
+    "contenu": "Mis en examen pour abus de confiance, favoritisme, trafic d’influence et corruption active en mars 2018, il y a six ans, l’ancien maire du Kremlin-Bicêtre, Jean-Marc Nicolle, soupçonné d’avoir financé son addiction au tiercé en conditionnant l’accès des entreprises aux marchés publics de la ville à de généreuses subventions à son club d’œnologie, sera jugé à Créteil.",
+    "url": "https://94.citoyens.com/2024/j-m-nicolle-ex-maire-du-kremlin-bicetre-bientot-juge-pour-favoritisme-et-corruption,07-03-2024.html",
+    "date": "2024-03-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151988,
+        "value": "94 - Val-de-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2075,
+        "value": "Jean-Marc Nicolle"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1998,
     "titre": "Affaire du village de Noël au Barcarès : le procès d'Alain Ferrand renvoyé en juin 2025",
     "contenu": "Le maire du Barcarès, Alain Ferrand, avait une nouvelle fois rendez-vous avec la justice ce mercredi matin au tribunal de Perpignan. Avec quatre autres prévenus, il devait répondre de \"prise illégale d'intérêts\" et \"concussion\". Un rendez-vous manqué car le jugement a été renvoyé dans 15 mois, au 19 juin 2025. \n\nCause de ce nouveau renvoi d'audience, une pièce du dossier qui depuis deux ans n'a pas été communiquée à la défense par les enquêteurs. Mais cette fois, le tribunal vient d'ordonner qu'elle le soit.",
