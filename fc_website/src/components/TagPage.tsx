@@ -40,7 +40,7 @@ export function TagPage({
   }
   const items = getItemsWithSameTag(allItems, tag)
   return (
-    <div className="container px-4 py-28 mx-auto">
+    <div className="container  py-28 mx-auto">
       <h1 className="text-2xl font-bold mb-10 text-gray-700 text-center">
         <Link href={buildUrlList()} className="underline">
           La revue de presse
