@@ -281,6 +281,18 @@
     ],
     "personnalites": [
       {
+        "id": 24,
+        "value": "Damien Abad"
+      },
+      {
+        "id": 145,
+        "value": "Mireille Clapot"
+      },
+      {
+        "id": 235,
+        "value": "Annie Genevard"
+      },
+      {
         "id": 241,
         "value": "Yoann Gillet"
       },
@@ -289,12 +301,44 @@
         "value": "David Habib"
       },
       {
+        "id": 268,
+        "value": "Benjamin Haddad"
+      },
+      {
+        "id": 295,
+        "value": "Hubert Julien-Laferrière"
+      },
+      {
+        "id": 317,
+        "value": "Mohamed Laqhila"
+      },
+      {
+        "id": 323,
+        "value": "Pascal Lavergne"
+      },
+      {
+        "id": 325,
+        "value": "Marc Le Fur"
+      },
+      {
         "id": 347,
         "value": "Mathieu Lefèvre"
       },
       {
+        "id": 409,
+        "value": "Sophie Mette"
+      },
+      {
         "id": 434,
         "value": "Karl Olive"
+      },
+      {
+        "id": 461,
+        "value": "Michèle Peyron"
+      },
+      {
+        "id": 564,
+        "value": "Huguette Tiegna"
       },
       {
         "id": 588,
@@ -307,6 +351,14 @@
       {
         "id": 2074,
         "value": "Élodie Jacquier-Laforge"
+      },
+      {
+        "id": 2079,
+        "value": "Michaël Miguères"
+      },
+      {
+        "id": 2080,
+        "value": "Jean-Eric Gicquel"
       }
     ],
     "personnes_morales": [
@@ -335,12 +387,32 @@
         "value": "La République En Marche (LREM)"
       },
       {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
         "id": 514,
         "value": "Japan Tobacco International (JTI)"
       },
       {
         "id": 623,
         "value": "Groupe Toray"
+      },
+      {
+        "id": 627,
+        "value": "Omni Décors"
+      },
+      {
+        "id": 628,
+        "value": "Dial Energy"
+      },
+      {
+        "id": 629,
+        "value": "Max Havelaar"
+      },
+      {
+        "id": 630,
+        "value": "Unicef"
       }
     ],
     "categorie": [
