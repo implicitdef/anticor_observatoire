@@ -37,23 +37,21 @@ export default function RootLayout({
             <Menu />
           </div>
         </header>
-        <main className="mx-auto grow w-full">{children}</main>
-        <footer className="mt-10">
-          <div className="container mx-auto flex flex-col gap-2 mb-4 items-center justify-center  text-gray-700">
-            <p className="text-sm">
-              Sauf mention explicite d'une condamnation non susceptible d'appel,
-              toutes les personnes mentionnées sur ce site sont présumées
-              innocentes.
-            </p>
-            <Link
-              href={
-                'https://www.anticor.org/mentions-legales-et-politique-de-confidentialite/'
-              }
-              className="fc-link underline underline-offset-4 text-sm"
-            >
-              Mentions légales et politique de confidentialité
-            </Link>
-          </div>
+        <main className="mx-auto grow w-full mb-10">{children}</main>
+        <footer className="container mx-auto flex flex-col gap-2 items-center justify-center text-gray-700 mb-4 px-2">
+          <p className="text-sm text-center">
+            Sauf mention explicite d'une condamnation non susceptible d'appel,
+            toutes les personnes mentionnées sur ce site sont présumées
+            innocentes.
+          </p>
+          <Link
+            href={
+              'https://www.anticor.org/mentions-legales-et-politique-de-confidentialite/'
+            }
+            className="fc-link underline underline-offset-4 text-sm"
+          >
+            Mentions légales et politique de confidentialité
+          </Link>
         </footer>
       </body>
     </html>
