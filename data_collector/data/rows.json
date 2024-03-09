@@ -1,5 +1,125 @@
 [
   {
+    "id": 2004,
+    "titre": "Soupçon de favoritisme: un syndicat de plagistes à Menton saisit le procureur",
+    "contenu": "La décision de justice d’annuler l’attribution de deux lots sur la plage des Sablettes a relancé les hostilités entre le syndicat EBARF (Association des établissements balnéaires de la Riviera Française) et la mairie.",
+    "url": "https://www.nicematin.com/justice/soupcon-de-favoritisme-dans-le-cadre-des-dsp-un-syndicat-de-plagistes-mentonnais-saisit-le-procureur-908057",
+    "date": "2024-03-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2076,
+        "value": "Christian Debieuvre"
+      },
+      {
+        "id": 2077,
+        "value": "Philippe Pissarello"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 625,
+        "value": "Association des établissements balnéaires de la Riviera Française (EBARF)"
+      },
+      {
+        "id": 626,
+        "value": "Synersea 83"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2003,
+    "titre": "Altice : la justice française ouvre une enquête pour soupçons de corruption",
+    "contenu": "La justice française se penche officiellement sur le scandale de corruption qui secoue l'empire de Patrick Drahi depuis l'été 2023. Le Parquet national financier (PNF) a ouvert, en septembre dernier, une enquête préliminaire sur la maison mère de SFR et de BFMTV, selon une source judiciaire contactée par « Les Echos », confirmant des informations de Bloomberg. Cette enquête porte sur des soupçons de « corruption de personnes n'exerçant pas de fonction publique, blanchiment et recel de ces délits ».",
+    "url": "https://www.lesechos.fr/tech-medias/hightech/altice-la-justice-francaise-ouvre-une-enquete-pour-soupcons-de-corruption-2081547",
+    "date": "2024-03-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1230085,
+        "value": "Portugal"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1384,
+        "value": "Patrick Drahi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 144,
+        "value": "Altice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1316425,
+        "value": "Télécommunications"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2005,
+    "titre": "Jean-Marc Allain, le maire de Gorron, sa fille, son gendre au tribunal de Laval",
+    "contenu": "Jean-Marc Allain, maire de Gorron, en Mayenne passera devant la justice à Laval pour « prises illégales d'intérêts » le jeudi 14 mars 2024.",
+    "url": "https://actu.fr/pays-de-la-loire/laval_53130/jean-marc-allain-le-maire-de-gorron-sa-fille-son-gendre-au-tribunal-de-laval_60796541.html",
+    "date": "2024-03-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151954,
+        "value": "53 - Mayenne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2078,
+        "value": "Jean-Marc Allain"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2001,
     "titre": "Le « roi de l’arnaque » Marco Mouly doit retourner en prison, il annonce partir en cavale",
     "contenu": "Connu pour avoir été l’un des protagonistes du « casse du siècle », comprendre l’affaire de l’arnaque aux quotas carbone, l’escroc originaire du quartier de Belleville, à Paris, a appris, vendredi 8 mars, qu’une juge de l’application des peines (JAP) venait de décider de la révocation partielle de son sursis dans une autre affaire, vieille de 25 ans mais pour laquelle il avait été définitivement condamné en 2019 à trois ans de prison.",
@@ -68,6 +188,50 @@
         "value": "Procès"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2002,
+    "titre": "Michèle Alliot-Marie jugée le 1er juillet dans l'affaire de prise illégale d'intérêts à la mairie de Saint-Jean-de-Luz",
+    "contenu": "Michèle Alliot-Marie sera jugée le 1ᵉʳ juillet devant le tribunal correctionnel de Nanterre pour \"prise illégale d'intérêts\". Il est reproché à l'ex-ministre d'avoir, alors qu'elle était adjointe au maire de Saint-Jean-de-Luz, subventionné une association travaillant pour son père Bernard Marie.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/michelle-alliot-marie-jugee-le-1er-juillet-dans-l-affaire-de-prise-illegale-d-interets-a-la-mairie-de-saint-jean-de-luz-1555019",
+    "date": "2024-03-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1151962,
+        "value": "64 - Pyrénées-Atlantiques"
+      },
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1310,
+        "value": "Michèle Alliot-Marie"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -225,7 +389,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
