@@ -29,12 +29,12 @@ export default function RootLayout({
         className={`${openSans.className} bg-white min-h-screen flex flex-col`}
       >
         <header className="">
-          <div className="container mx-auto border-b-2 border-0 border-solid border-gray-400 flex justify-between">
-            <div className="">
+          <div className="container mx-auto border-b-2 border-0 border-solid border-gray-400">
+            <div className="flex justify-between">
               <Logo />
-              <Menu />
+              <SocialLinks />
             </div>
-            <SocialLinks />
+            <Menu />
           </div>
         </header>
         <main className="mx-auto grow w-full">{children}</main>
@@ -63,7 +63,7 @@ export default function RootLayout({
 function SocialLinks() {
   return (
     <div className="flex items-start">
-      <div className="px-2 h-fit flex items-center gap-6 pt-4">
+      <div className="px-2 h-fit grid grid-cols-2 sm:grid-cols-4  gap-2 pt-2">
         <a target="_blank" href="https://piaille.fr/@francecorruption">
           <Image alt="Mastodon" src={logoMastodon} className="h-8 w-8" />
         </a>
