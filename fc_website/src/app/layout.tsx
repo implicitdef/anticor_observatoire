@@ -8,7 +8,7 @@ import logo from '@/img/logo.png'
 import logoMastodon from '@/img/sociallogos/mastodon.svg'
 import logoX from '@/img/sociallogos/x.svg'
 import logoInstagram from '@/img/sociallogos/instagram.svg'
-import logoFacebook from '@/img/sociallogos/facebook.png'
+import logoFacebook from '@/img/sociallogos/facebook.svg'
 import { buildUrlAPropos, buildUrlHome, buildUrlList } from '@/lib/urls'
 
 const openSans = Open_Sans({ subsets: ['latin'] })
@@ -74,13 +74,7 @@ function SocialLinks() {
           <Image alt="Instagram" src={logoInstagram} className="h-8 w-auto" />
         </a>
         <a target="_blank" href="https://www.facebook.com/FRcorruption/">
-          <Image
-            alt="Facebook"
-            src={logoFacebook}
-            className="h-8 w-auto"
-            width={32}
-            height={32}
-          />
+          <Image alt="Facebook" src={logoFacebook} className="h-8 w-auto" />
         </a>
       </div>
     </div>
