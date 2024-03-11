@@ -1,5 +1,100 @@
 [
   {
+    "id": 2006,
+    "titre": "Les encombrants cadeaux du « sculpteur des stars » à Estrosi et Hidalgo",
+    "contenu": "Ces dernières années, Richard Orlinski a offert de nombreuses œuvres – vendues plusieurs milliers d’euros sur le marché – aux époux Estrosi, mais aussi à des élus parisiens, à commencer par Anne Hidalgo, au moment où il bénéficiait d’expositions à Nice et dans la capitale. Dernier présent en date : une statue d’ours livrée à l’adjoint aux sports de la maire de Paris, en pleine négociation pour les JO. L’élu a restitué cette œuvre... après avoir reçu des questions de Mediapart.",
+    "url": "https://www.mediapart.fr/journal/france/100324/les-encombrants-cadeaux-du-sculpteur-des-stars-estrosi-et-hidalgo",
+    "date": "2024-03-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      },
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1284,
+        "value": "Anne Hidalgo"
+      },
+      {
+        "id": 1500,
+        "value": "Christian Estrosi"
+      },
+      {
+        "id": 1511,
+        "value": "Laura Tenoudji"
+      },
+      {
+        "id": 2081,
+        "value": "Richard Orlinski"
+      },
+      {
+        "id": 2082,
+        "value": "Pierre Rabadan"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 8,
+        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024 (COJOP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2007,
+    "titre": "Les Wildenstein condamnés pour fraude fiscale : une folle saga judiciaire de deux décennies",
+    "contenu": "Trois membres de la richissime famille de marchands d’art viennent d’être condamnés pour fraude fiscale et blanchiment, au terme d’un invraisemblable parcours judiciaire démarré en 2005. Et les voies leur ayant permis de dissimuler leur fortune sont encore loin d’avoir toutes été fermées.",
+    "url": "https://www.mediapart.fr/journal/france/100324/les-wildenstein-condamnes-pour-fraude-fiscale-une-folle-saga-judiciaire-de-deux-decennies",
+    "date": "2024-03-10",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2004,
     "titre": "Soupçon de favoritisme: un syndicat de plagistes à Menton saisit le procureur",
     "contenu": "La décision de justice d’annuler l’attribution de deux lots sur la plage des Sablettes a relancé les hostilités entre le syndicat EBARF (Association des établissements balnéaires de la Riviera Française) et la mairie.",
