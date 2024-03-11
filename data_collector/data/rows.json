@@ -1,5 +1,49 @@
 [
   {
+    "id": 2008,
+    "titre": "Grande fraude fiscale : une cellule de renseignement créée aux enquêtes douanières",
+    "contenu": "La direction nationale du renseignement et des enquêtes douanières sera chargée du « recueil », du « traitement » et de la « diffusion du renseignement en matière de fraude fiscale grave » pour le compte de la direction générale des finances publiques.",
+    "url": "https://www.lemonde.fr/politique/article/2024/03/10/grande-fraude-fiscale-une-cellule-de-renseignement-creee-aux-enquetes-douanieres_6221182_823448.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default",
+    "date": "2024-03-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 32,
+        "value": "Direction générale des finances publiques (DGFIP)"
+      },
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 631,
+        "value": "Direction nationale du renseignement et des enquêtes douanières (DNRED)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2006,
     "titre": "Les encombrants cadeaux du « sculpteur des stars » à Estrosi et Hidalgo",
     "contenu": "Ces dernières années, Richard Orlinski a offert de nombreuses œuvres – vendues plusieurs milliers d’euros sur le marché – aux époux Estrosi, mais aussi à des élus parisiens, à commencer par Anne Hidalgo, au moment où il bénéficiait d’expositions à Nice et dans la capitale. Dernier présent en date : une statue d’ours livrée à l’adjoint aux sports de la maire de Paris, en pleine négociation pour les JO. L’élu a restitué cette œuvre... après avoir reçu des questions de Mediapart.",
@@ -75,9 +119,44 @@
     "url": "https://www.mediapart.fr/journal/france/100324/les-wildenstein-condamnes-pour-fraude-fiscale-une-folle-saga-judiciaire-de-deux-decennies",
     "date": "2024-03-10",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 595,
+        "value": "Éric Woerth"
+      },
+      {
+        "id": 2083,
+        "value": "Daniel Wildenstein"
+      },
+      {
+        "id": 2084,
+        "value": "Guy Wildenstein"
+      },
+      {
+        "id": 2085,
+        "value": "Alec Wildenstein"
+      },
+      {
+        "id": 2086,
+        "value": "Lioubov Stoupakova"
+      },
+      {
+        "id": 2087,
+        "value": "François Baroin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
     "categorie": [
       {
         "id": 1152014,
@@ -88,9 +167,18 @@
       {
         "id": 1152020,
         "value": "Évasion / fraude fiscale"
+      },
+      {
+        "id": 1220072,
+        "value": "Art"
       }
     ],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
