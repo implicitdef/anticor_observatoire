@@ -1,5 +1,87 @@
 [
   {
+    "id": 2009,
+    "titre": "Transfert de Neymar au PSG : une information judiciaire distincte menée pour « trafic d’influence »",
+    "contenu": "Les procédures pénales s’empilent autour du club du Paris Saint-Germain (PSG). Le Monde a appris qu’une information judiciaire distincte a été initiée, fin février 2024, par le parquet de Paris autour des conditions du transfert de l’attaquant brésilien Neymar, du FC Barcelone au PSG, en 2017. Cette enquête parallèle est menée pour « des faits susceptibles de recevoir la qualification de trafic d’influence actif et passif » en lien avec le transfert de Neymar au PSG.",
+    "url": "https://www.lemonde.fr/sport/article/2024/03/12/transfert-de-neymar-au-psg-une-information-judiciaire-distincte-menee-pour-trafic-d-influence_6221601_3242.html",
+    "date": "2024-03-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1388,
+        "value": "Gérald Darmanin"
+      },
+      {
+        "id": 1443,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 1444,
+        "value": "Tayeb Benabderrahmane"
+      },
+      {
+        "id": 1597,
+        "value": "Nasser al-Khelaïfi"
+      },
+      {
+        "id": 1607,
+        "value": "Neymar da Silva Santos Júnior"
+      },
+      {
+        "id": 1646,
+        "value": "Hugues Renson"
+      },
+      {
+        "id": 2088,
+        "value": "Jérôme Fournel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 177,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 445,
+        "value": "BeIn Sports France"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152773,
+        "value": "Sport"
+      },
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2008,
     "titre": "Grande fraude fiscale : une cellule de renseignement créée aux enquêtes douanières",
     "contenu": "La direction nationale du renseignement et des enquêtes douanières sera chargée du « recueil », du « traitement » et de la « diffusion du renseignement en matière de fraude fiscale grave » pour le compte de la direction générale des finances publiques.",
