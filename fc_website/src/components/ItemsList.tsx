@@ -14,7 +14,7 @@ export function ItemsList({
   const paginatedResults = getPaginatedResults(items, searchParams)
   return (
     <>
-      <ul className="grid grid-cols-3 gap-8 mb-10">
+      <ul className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-10">
         {paginatedResults.items.map((item) => {
           return <ItemFiche key={item.id} item={item} />
         })}
