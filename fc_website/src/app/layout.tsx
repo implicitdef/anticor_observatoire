@@ -38,7 +38,7 @@ export default function RootLayout({
           </div>
         </header>
         <main className="mx-auto grow w-full mb-10">{children}</main>
-        <footer className="container mx-auto flex flex-col gap-2 items-center justify-center text-gray-700 mb-4 px-2">
+        <footer className="container mx-auto flex flex-col gap-4 items-center justify-center text-gray-700 mb-10 px-2">
           <p className="text-sm text-center">
             Sauf mention explicite d'une condamnation non susceptible d'appel,
             toutes les personnes mentionnées sur ce site sont présumées
