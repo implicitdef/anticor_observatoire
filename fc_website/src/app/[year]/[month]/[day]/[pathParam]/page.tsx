@@ -87,19 +87,19 @@ function Suggestions({ item, allItems }: { item: Item; allItems: Item[] }) {
       {getSimilarItems(item, allItems).map(({ tag, items }) => {
         return (
           <div className="" key={tag.id}>
-            <h3 className="text-base mb-2">
+            <h3 className="text-base lg:mb-2">
               <LinkToTag
                 {...{ tag }}
                 className="bg-bleuanticor-500 px-4 py-1 text-white mr-2"
               />
             </h3>
-            <ul className="grid grid-cols-3 gap-6 items-stretch">
+            <ul className="grid lg:grid-cols-3 gap-0 lg:gap-6 items-stretch">
               {items.map((item) => {
                 return (
                   <li key={item.id} className="">
                     <LinkToItem
                       {...{ item }}
-                      className="bg-gray-100 border-bleuanticor-100 border-l-4 border-0 pt-6 pb-8 px-8 block h-full "
+                      className="bg-gray-100 border-bleuanticor-200 lg:border-bleuanticor-100 lg:border-l-4 border-b-2 lg:border-b-0 border-0 pt-6 pb-8 px-8 block h-full "
                     >
                       {item.date && (
                         <div className="text-sm mb-1 uppercase">

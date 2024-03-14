@@ -5,7 +5,7 @@ import { TagsList } from './TagsList'
 
 export function ItemFiche({ item }: { item: Item }) {
   return (
-    <li className="flex flex-col bg-gray-100 border-bleuanticor-100 border-l-4 border-0  stretch justify-between px-4 pb-8 pt-4 ">
+    <li className="flex flex-col bg-gray-100 border-bleuanticor-200 lg:border-bleuanticor-100 lg:border-l-4 border-b-2 lg:border-b-0 border-0 stretch justify-between px-4 pb-8 pt-4 ">
       <LinkToItem {...{ item }} className="hover:bg-gray-200 ">
         <div>
           {item.date ? (
