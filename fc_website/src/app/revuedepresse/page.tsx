@@ -1,7 +1,6 @@
 import { ItemsList } from '@/components/ItemsList'
 import { SearchPanel } from '@/components/SearchPanel'
 import { getData } from '@/lib/dataReader'
-import { useState } from 'react'
 import z from 'zod'
 
 export type NextSearchParams = { [key: string]: string | string[] | undefined }

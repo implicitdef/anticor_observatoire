@@ -1,5 +1,4 @@
-import { TagKind } from '@/app/revuedepresse/tag/[kind]/[id]/page'
-import { Item } from '@/lib/dataReader'
+import { Item, TagKind } from '@/lib/dataReader'
 import { shorten } from '@/lib/utils'
 import Link from 'next/link'
 import { LinkToTag } from './LinkToTag'

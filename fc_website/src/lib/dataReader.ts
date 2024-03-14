@@ -49,3 +49,11 @@ export type Tag = {
   id: number
   value: string
 }
+
+export type TagKind =
+  | 'categories'
+  | 'departements'
+  | 'personnalites'
+  | 'personnes_morales'
+  | 'procedure'
+  | 'theme'

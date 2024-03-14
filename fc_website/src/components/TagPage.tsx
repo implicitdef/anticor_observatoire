@@ -14,14 +14,6 @@ import uniqBy from 'lodash/uniqBy'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 
-export type TagKind =
-  | 'categories'
-  | 'departements'
-  | 'personnalites'
-  | 'personnes_morales'
-  | 'procedure'
-  | 'theme'
-
 type TagPageKind = 'departement' | 'country' | 'other'
 
 export function TagPage({

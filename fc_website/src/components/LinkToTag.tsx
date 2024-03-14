@@ -1,4 +1,4 @@
-import { TagKind } from '@/app/revuedepresse/tag/[kind]/[id]/page'
+import { TagKind } from '@/lib/dataReader'
 import { buildUrlTag } from '@/lib/urls'
 import Link from 'next/link'
 import { ReactNode } from 'react'

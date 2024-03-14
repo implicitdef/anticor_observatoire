@@ -1,5 +1,4 @@
-import { TagKind } from '@/app/revuedepresse/tag/[kind]/[id]/page'
-import { Item, Tag } from './dataReader'
+import { Item, Tag, TagKind } from './dataReader'
 import kebabCase from 'lodash/kebabCase'
 
 // 2023-11-03 => 3 novembre 2023
