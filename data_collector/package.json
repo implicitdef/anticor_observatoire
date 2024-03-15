@@ -3,7 +3,7 @@
   "private": true,
   "engines": {
     "node": "20",
-    "yarn": "1.22.21"
+    "yarn": "1.22"
   },
   "dependencies": {
     "@tsconfig/node20": "^20.1.2",
