@@ -1,5 +1,311 @@
 [
   {
+    "id": 2017,
+    "titre": "Corruption dans les fourrières parisiennes : un nouveau commandant de police mis en examen",
+    "contenu": "Un commandant divisionnaire en poste à l'aéroport de Roissy, \"ami\" de l'ancien roi des fourrières parisiennes, a été à son tour mis en examen pour corruption, recel, et violation du secret professionnel, le 26 octobre 2023, par le juge d'instruction qui mène les investigations dans ce dossier fleuve. Ce qui porte à sept le nombre de policiers poursuivis depuis l'ouverture de l'information judiciaire fin 2022, auxquels s'ajoute un ancien cadre préfectoral des Hauts-de-Seine.",
+    "url": "https://www.rtl.fr/actu/justice-faits-divers/info-rtl-corruption-dans-les-fourrieres-parisiennes-un-nouveau-commandant-de-police-mis-en-examen-7900363078",
+    "date": "2024-03-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      },
+      {
+        "id": 1151989,
+        "value": "95 - Val-d'Oise"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1571,
+        "value": "Chafic Alywan"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 120,
+        "value": "Aéroports de Paris (ADP)"
+      },
+      {
+        "id": 277,
+        "value": "Inter Dépannage"
+      },
+      {
+        "id": 451,
+        "value": "Direction nationale de la Police aux frontières (DNPAF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2014,
+    "titre": "Marseille : Le sénateur Guérini définitivement condamné et inéligible",
+    "contenu": "La Cour de cassation a définitivement confirmé mercredi la condamnation du sénateur Jean-Noël Guérini à de la prison et à l’inéligibilité dans une affaire de marchés truqués. C’est à la suite d’un signalement en 2009 que Jean-Noël Guérini et son frère Alexandre, entrepreneur spécialisé dans le traitement des déchets, avaient été poursuivis. Au terme d’une longue bataille judiciaire, ils avaient été condamnés en appel en mars 2022. Président du conseil général (ex-nom du conseil départemental) des Bouches-du-Rhône de 1998 à 2015, Jean-Noël Guérini, 73 ans, avait écopé de trois ans de prison dont dix-huit mois avec sursis, 30.000 euros d’amende et cinq ans d’inéligibilité.",
+    "url": "https://www.20minutes.fr/justice/4081231-20240314-marseille-senateur-guerini-definitivement-condamne-ineligible",
+    "date": "2024-03-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2093,
+        "value": "Jean-Noël Guérini"
+      },
+      {
+        "id": 2094,
+        "value": "Alexandre Guérini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 2,
+        "value": "Sénat"
+      },
+      {
+        "id": 76,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "Jean-Noël Guérini définitivement condamné et inéligible",
+    "a_la_une": true
+  },
+  {
+    "id": 2016,
+    "titre": "Enquête sur les travaux après la tempête Alex: 20 personnes placées en garde à vue",
+    "contenu": "L'enquête sur les travaux de reconstruction réalisés après la tempête Alex se poursuit. 20 personnes ont été placées en garde à vue ce mardi 12 mars dans le cadre d'une information judiciaire ouverte à la juridiction interrégionale spécialisée. Ces gardes à vue interviennent un an après l'ouverture d'une enquête préliminaire concernant des irrégularités liées aux travaux de reconstruction après le passage de la tempête Alex.",
+    "url": "https://www.bfmtv.com/cote-d-azur/enquete-sur-les-travaux-apres-la-tempete-alex-20-personnes-placees-en-garde-a-vue_AV-202403130927.html",
+    "date": "2024-03-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151604,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1500,
+        "value": "Christian Estrosi"
+      },
+      {
+        "id": 2095,
+        "value": "Lauriano Azinheirinha"
+      },
+      {
+        "id": 2096,
+        "value": "Bastien Nespoulous"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2015,
+    "titre": "L’affaire Dati : révélations sur le business caché de la ministre de la Culture",
+    "contenu": "Malgré une mise en examen pour « corruption passive » et « trafic d’influence passif » dans l’affaire Renault, Emmanuel Macron a nommé Rachida Dati ministre de la Culture. Aujourd’hui, « l’Obs » révèle que l’élue était au cœur d’un système plus large. Avec les virements d’un financier mystérieux sur son compte bancaire, des relations sulfureuses et des intérêts privés jamais loin de ses positions publiques.",
+    "url": "https://www.nouvelobs.com/politique/20240313.OBS85669/l-affaire-dati-revelations-sur-le-business-cache-de-la-ministre-de-la-culture.html",
+    "date": "2024-03-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1242,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 1243,
+        "value": "Carlos Ghosn"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 49,
+        "value": "Renault-Nissan"
+      },
+      {
+        "id": 75,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 291,
+        "value": "Ministère de la Culture"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2011,
+    "titre": "Enquête du Parquet national financier : des perquisitions à l'Ircad et à l'IHU",
+    "contenu": "Des perquisitions ont eu lieu mardi à l'Institut hospitalo-universitaire (IHU) de Strasbourg, dans le cadre d'une enquête sur la gestion de l'établissement menée par le Parquet national financier (PNF).",
+    "url": "https://www.dna.fr/faits-divers-justice/2024/03/12/enquete-du-parquet-national-financier-des-perquisitions-a-l-ircad-et-a-l-ihu",
+    "date": "2024-03-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151965,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2090,
+        "value": "Christian Debry"
+      },
+      {
+        "id": 2091,
+        "value": "Jacques Marescaux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 635,
+        "value": "Institut de recherche contre les cancers de l'appareil digestif (IRCAD)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1240363,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2010,
+    "titre": "Seine-et-Marne : Anticor dépose plainte contre Equalis pour « détournement de fonds publics »",
+    "contenu": "Les dépenses des cadres de cette association, disposant d’un budget annuel de 81 millions d’euros de fonds publics pour venir en aide à 11 000 personnes en grande difficulté économique et sociale, avaient été dénoncées au parquet. L’enquête est toujours en cours.",
+    "url": "https://www.leparisien.fr/seine-et-marne-77/seine-et-marne-anticor-depose-plainte-contre-equalis-pour-detournement-de-fonds-publics-12-03-2024-6XXDPMDHW5HLBBX7B2TT3L452I.php",
+    "date": "2024-03-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151975,
+        "value": "77 - Seine-et-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2089,
+        "value": "Arthur Anane"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 76,
+        "value": "Anticor"
+      },
+      {
+        "id": 632,
+        "value": "Equalis"
+      },
+      {
+        "id": 633,
+        "value": "Direction départementale de l'emploi, du travail et des solidarités (DDETS)"
+      },
+      {
+        "id": 634,
+        "value": "Conmigo"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1282331,
+        "value": "Social"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "Anticor dépose plainte contre Equalis pour « détournement de fonds publics »",
+    "a_la_une": false
+  },
+  {
     "id": 2009,
     "titre": "Transfert de Neymar au PSG : une information judiciaire distincte menée pour « trafic d’influence »",
     "contenu": "Les procédures pénales s’empilent autour du club du Paris Saint-Germain (PSG). Le Monde a appris qu’une information judiciaire distincte a été initiée, fin février 2024, par le parquet de Paris autour des conditions du transfert de l’attaquant brésilien Neymar, du FC Barcelone au PSG, en 2017. Cette enquête parallèle est menée pour « des faits susceptibles de recevoir la qualification de trafic d’influence actif et passif » en lien avec le transfert de Neymar au PSG.",
@@ -78,6 +384,100 @@
         "value": "Enquête"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2013,
+    "titre": "Une nonagénaire et son fils condamnés dans le cadre des \"Dubaï Papers\"",
+    "contenu": "Une nonagénaire française et son fils ont été condamnés mardi à Paris à deux ans de prison avec sursis et 1,75 million d'euros d'amende chacun pour fraude fiscale, dans le cadre de l'affaire des \"Dubaï Papers\", révélations sur un vaste système d'évasion fiscale.",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/une-nonagenaire-et-son-fils-condamnes-dans-le-cadre-des-dubai-papers-66701bc11a82b884a768f018fbdc9ab5",
+    "date": "2024-03-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 1240702,
+        "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2012,
+    "titre": "Quand les lobbys de la bière et des spiritueux trinquent avec les collabs parlementaires",
+    "contenu": "L'association Brasseurs de France et la Fédération française des spiritueux ont profité du Salon de l'agriculture pour nouer de précieux contacts avec des assistants parlementaires de tous bords, en leur organisant des apéritifs sur mesure.",
+    "url": "https://www.lalettre.fr/fr/action-publique_lobbying/2024/03/11/quand-les-lobbys-de-la-biere-et-des-spiritueux-trinquent-avec-les-collabs-parlementaires%2C110189776-art?cxt=PUB&utm_source=LLA&utm_medium=email&utm_campaign=AUTO_EDIT_SOM_PROS&did=109825881",
+    "date": "2024-03-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2092,
+        "value": "Matthias Fekl"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 636,
+        "value": "Brasseurs de France"
+      },
+      {
+        "id": 637,
+        "value": "Fédération française des spiritueux"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / Influence"
+      },
+      {
+        "id": 1252744,
+        "value": "Alcools"
+      }
+    ],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
