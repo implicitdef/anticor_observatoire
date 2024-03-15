@@ -48,6 +48,74 @@
     "a_la_une": false
   },
   {
+    "id": 2020,
+    "titre": "L’Élysée est rattrapé par l’affaire des cadeaux du sculpteur Orlinski",
+    "contenu": "L’artiste controversé a offert des œuvres à des ministres, des conseillers du président et même à Brigitte Macron. Le secrétaire général de l’Élysée Alexis Kohler, dont l’épouse prodigue des conseils à Richard Orlinski, a lui aussi reçu sa « magnifique » statuette en janvier.",
+    "url": "https://www.mediapart.fr/journal/france/140324/l-elysee-est-rattrape-par-l-affaire-des-cadeaux-du-sculpteur-orlinski",
+    "date": "2024-03-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1275,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 1284,
+        "value": "Anne Hidalgo"
+      },
+      {
+        "id": 1303,
+        "value": "Marlène Schiappa"
+      },
+      {
+        "id": 1729,
+        "value": "Alexis Kohler"
+      },
+      {
+        "id": 2081,
+        "value": "Richard Orlinski"
+      },
+      {
+        "id": 2098,
+        "value": "Brigitte Macron"
+      },
+      {
+        "id": 2099,
+        "value": "Julien Denormandie"
+      },
+      {
+        "id": 2100,
+        "value": "Roselyne Bachelot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 29,
+        "value": "Élysée"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2014,
     "titre": "Marseille : Le sénateur Guérini définitivement condamné et inéligible",
     "contenu": "La Cour de cassation a définitivement confirmé mercredi la condamnation du sénateur Jean-Noël Guérini à de la prison et à l’inéligibilité dans une affaire de marchés truqués. C’est à la suite d’un signalement en 2009 que Jean-Noël Guérini et son frère Alexandre, entrepreneur spécialisé dans le traitement des déchets, avaient été poursuivis. Au terme d’une longue bataille judiciaire, ils avaient été condamnés en appel en mars 2022. Président du conseil général (ex-nom du conseil départemental) des Bouches-du-Rhône de 1998 à 2015, Jean-Noël Guérini, 73 ans, avait écopé de trois ans de prison dont dix-huit mois avec sursis, 30.000 euros d’amende et cinq ans d’inéligibilité.",
@@ -95,6 +163,42 @@
     ],
     "titre_corrige": "Jean-Noël Guérini définitivement condamné et inéligible",
     "a_la_une": true
+  },
+  {
+    "id": 2026,
+    "titre": "Soupçon de conflit d'intérêts : cinq ans d'inéligibilité requis contre le maire de Gorron",
+    "contenu": "Le maire de Gorron, Jean-Marc Allain, était jugé ce jeudi 14 mars à Laval, pour prise illégale d'intérêts et pour favoritisme. Le procureur a requis une peine d'un an et demi de prison avec sursis et cinq ans d'inéligibilité. Le délibéré sera rendu le 16 mai prochain.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/soupcon-de-conflit-d-interets-5-ans-d-ineligibilite-requis-contre-le-maire-de-gorron-8315178",
+    "date": "2024-03-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151954,
+        "value": "53 - Mayenne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2078,
+        "value": "Jean-Marc Allain"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2016,
@@ -199,6 +303,122 @@
     "a_la_une": true
   },
   {
+    "id": 2024,
+    "titre": "Le procès de Daniel Zaïdani pour détournement de fonds publics aura lieu mardi prochain",
+    "contenu": "Il est reproché à Daniel Zaïdani, Alain Kamal Martial Henry et Alhamadi Aboubacar, des détournements de fonds publics entre 2012 et 2013 ainsi que l’atteinte à la liberté d’accès des candidats dans les marchés publics alors que Daniel Zaïdani était président du Conseil départemental. Des billets d’avion pour Madagascar et les Comores auraient notamment été achetés aux frais du contribuable pour le groupe de rap français Sexion d’Assaut au début du mois de septembre 2012. En outre, des frais auraient aussi été dépensés pour un repas de rupture du jeûne ainsi que la mise à disposition indues de voitures de service et l’acquisition de deux véhicules pour un montant avoisinant les 70.000 euros, sans passer par le règlement régissant les marchés publics.",
+    "url": "https://lejournaldemayotte.yt/2024/03/13/justice-le-proces-de-daniel-zaidani-pour-detournement-de-fonds-publics-aura-lieu-mardi-prochain/",
+    "date": "2024-03-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151994,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2104,
+        "value": "Daniel Zaïdani"
+      },
+      {
+        "id": 2105,
+        "value": "Alain Kamal Martial Henry"
+      },
+      {
+        "id": 2106,
+        "value": "Alhamadi Aboubacar"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2018,
+    "titre": "Lyon : des perquisitions menées à l’Hôtel de ville dans le cadre d’une enquête sur des chargés de mission",
+    "contenu": "Une vingtaine de policiers ont perquisitionné mardi matin les locaux de la mairie, administrée depuis 2020 par l’écologiste Grégory Doucet, selon ces sources confirmant une information du site « Tribune de Lyon ». Ces opérations ont été menées, selon ces sources, dans le cadre d’une instruction judiciaire visant à déterminer si les postes de ces chargés de mission correspondent bien à la réglementation, à savoir s’ils conduisent bien des projets pour la ville et non pour les élus.",
+    "url": "https://www.leparisien.fr/faits-divers/lyon-des-perquisitions-menees-a-lhotel-de-ville-dans-le-cadre-dune-enquete-sur-des-charges-de-mission-13-03-2024-HGL6FY4KQFFF7F4TFOP32QYEWU.php",
+    "date": "2024-03-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151715,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2097,
+        "value": "Grégory Doucet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 28,
+        "value": "Les écologistes (ex-Europe Ecologie Les Verts) (EELV)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2019,
+    "titre": "Plus de 240 000 euros détournés : Sébastien Buisson, fondateur de l'association \"Les Nez Rouges\" condamné en appel",
+    "contenu": "Condamné à trois ans et demi de prison par le tribunal correctionnel de Limoges pour abus de confiance aggravé, Sébastien Buisson, le fondateur de l'association \"Les Nez Rouges\" a vu sa peine confirmée par la cour d'appel, mercredi 13 mars.",
+    "url": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/plus-de-240-000-euros-detournes-sebastien-buisson-fondateur-de-l-association-les-nez-rouges-condamne-en-appel-2939079.html",
+    "date": "2024-03-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151984,
+        "value": "87 - Haute-Vienne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1695,
+        "value": "Sébastien Buisson"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 369,
+        "value": "Nez Rouges"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2011,
     "titre": "Enquête du Parquet national financier : des perquisitions à l'Ircad et à l'IHU",
     "contenu": "Des perquisitions ont eu lieu mardi à l'Institut hospitalo-universitaire (IHU) de Strasbourg, dans le cadre d'une enquête sur la gestion de l'établissement menée par le Parquet national financier (PNF).",
@@ -249,6 +469,171 @@
         "value": "Enquête"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2022,
+    "titre": "Evasion fiscale : redressement massif en vue pour le géant laitier Lactalis",
+    "contenu": "Le numéro 1 mondial du lait pourrait se voir réclamer 275 millions d’euros, qui s’ajoutent aux 25 millions d’euros déjà réglés, pour avoir organisé un système d’évasion fiscale afin de réduire son impôt sur les bénéfices, via des sociétés basées en Belgique et au Luxembourg.",
+    "url": "https://www.liberation.fr/economie/evasion-fiscale-redressement-massif-en-vue-pour-le-geant-laitier-lactalis-20240312_ELFVOUK36JAFPL7S2CNK37PU5Q/?redirected=1&redirected=1",
+    "date": "2024-03-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1226713,
+        "value": "Belgique"
+      },
+      {
+        "id": 1283910,
+        "value": "Luxembourg"
+      },
+      {
+        "id": 1151954,
+        "value": "53 - Mayenne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1846,
+        "value": "Emmanuel Besnier"
+      },
+      {
+        "id": 2101,
+        "value": "Olivier Savary"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 148,
+        "value": "Société générale"
+      },
+      {
+        "id": 482,
+        "value": "Lactalis"
+      },
+      {
+        "id": 639,
+        "value": "Direction des vérifications nationales et internationales (DVNI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      },
+      {
+        "id": 1388361,
+        "value": "Agro-alimentaire"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2023,
+    "titre": "Le majordome de Jean-Marie Le Pen renvoyé en correctionnelle pour « fraude fiscale »",
+    "contenu": "Gérald Gérin, qui fut le majordome et trésorier de Jean-Marie Le Pen, sera jugé le 4 avril devant le tribunal correctionnel pour « fraude fiscale » et « blanchiment de fraude fiscale ». Au cœur de l’affaire : un compte en Suisse et une société « offshore » qui appartenaient initialement au beau-frère de Jean-Marie Le Pen.",
+    "url": "https://www.mediapart.fr/journal/france/120324/le-majordome-de-jean-marie-le-pen-renvoye-en-correctionnelle-pour-fraude-fiscale",
+    "date": "2024-03-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 1251431,
+        "value": "Suisse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1292,
+        "value": "Jean-Marie Le Pen"
+      },
+      {
+        "id": 2102,
+        "value": "Gérald Gérin"
+      },
+      {
+        "id": 2103,
+        "value": "Georges Paschos"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 21,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 97,
+        "value": "Tracfin"
+      },
+      {
+        "id": 106,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 640,
+        "value": "Banque Lombard Odier"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2021,
+    "titre": "Prise illégale d'intérêts : le maire de Sérignan et 11 autres prévenus n'ont toujours pas été jugés ce lundi",
+    "contenu": "La citation directe des 12 prévenus, dont Frédéric Lacas, le maire de Sérignan, et ancien président de l'Agglo Béziers Méditerranée, poursuivis pour prise illégale d'intérêts ou recel de bien provenant d'un délit, a été jugée \"irrecevable\" par le tribunal de Béziers ce lundi 11 mars.",
+    "url": "https://www.midilibre.fr/2024/03/12/prise-illegale-dinterets-le-maire-de-serignan-et-11-autres-prevenus-nont-toujours-pas-ete-juges-ce-lundi-11821131.php",
+    "date": "2024-03-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151848,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1692,
+        "value": "Frédéric Lacas"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -423,6 +808,42 @@
       {
         "id": 1240702,
         "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2025,
+    "titre": "Procès du maire de Gorron : la Ville ne se constituera pas partie civile",
+    "contenu": "Réunis en conseil municipal extraordinaire, lundi 11 mars 2024, les élus de Gorron ont décidé de ne pas se constituer partie civile face au maire, Jean-Marc Allain. Celui-ci sera jugé par le tribunal de Laval, jeudi 14 mars 2024.",
+    "url": "https://laval.maville.com/actu/actudet_-proces-du-maire-de-gorron-la-ville-ne-se-constituera-pas-partie-civile-_-6194968_actu.Htm",
+    "date": "2024-03-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151954,
+        "value": "53 - Mayenne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2078,
+        "value": "Jean-Marc Allain"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
       }
     ],
     "titre_corrige": "",
@@ -1483,7 +1904,7 @@
       },
       {
         "id": 1388361,
-        "value": "Agriculture"
+        "value": "Agro-alimentaire"
       },
       {
         "id": 1312991,
