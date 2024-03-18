@@ -1,5 +1,45 @@
 [
   {
+    "id": 2027,
+    "titre": "La bande derrière l’opération « Sauver Sarko » s’entredéchire devant les juges",
+    "contenu": "Ils pensaient tirer l’ex-président de la République des griffes de la justice dans l’affaire libyenne avec la fausse rétractation de Ziad Takieddine dans « Paris Match ». La manipulation s’est finalement retournée contre eux, ouvrant désormais la voie à toutes sortes de règlements de comptes sur procès-verbaux.",
+    "url": "https://www.mediapart.fr/journal/france/170324/la-bande-derriere-l-operation-sauver-sarko-s-entredechire-devant-les-juges",
+    "date": "2024-03-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1182,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1184,
+        "value": "Ziad Takieddine"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2017,
     "titre": "Corruption dans les fourrières parisiennes : un nouveau commandant de police mis en examen",
     "contenu": "Un commandant divisionnaire en poste à l'aéroport de Roissy, \"ami\" de l'ancien roi des fourrières parisiennes, a été à son tour mis en examen pour corruption, recel, et violation du secret professionnel, le 26 octobre 2023, par le juge d'instruction qui mène les investigations dans ce dossier fleuve. Ce qui porte à sept le nombre de policiers poursuivis depuis l'ouverture de l'information judiciaire fin 2022, auxquels s'ajoute un ancien cadre préfectoral des Hauts-de-Seine.",
