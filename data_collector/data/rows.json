@@ -36,6 +36,90 @@
     "a_la_une": false
   },
   {
+    "id": 2046,
+    "titre": "La reconversion d’Olivier Véran de neurologue à médecin esthétique : « Le symbole est terrible »",
+    "contenu": "Il va remettre la blouse blanche, mais pas celle attendue. Fini l’hôpital et la neurologie, sa spécialité initiale : c’est la médecine esthétique que l’ancien ministre de la santé et ex-porte-parole du gouvernement, remercié lors du remaniement de janvier, compte embrasser. Et ce, un jour par semaine, dans la clinique des Champs-Elysées, à Paris, en plus de son mandat de député de l’Isère (Renaissance). L’information, confiée au Figaro le 18 mars, a beau relever d’un choix privé, elle s’est imposée dans le débat public, dans les rangs médicaux et au-delà. Pour ce qu’elle représente pour les soignants, à l’heure où le système de soins craque de toutes parts et où la démographie médicale est un enjeu crucial.",
+    "url": "https://www.lemonde.fr/societe/article/2024/03/20/la-reconversion-d-olivier-veran-de-neurologue-a-medecin-esthetique-le-symbole-est-terrible_6223030_3224.html",
+    "date": "2024-03-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1293,
+        "value": "Olivier Véran"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 79,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 654,
+        "value": "Clinique des Champs-Elysées"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152013,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2047,
+    "titre": "Le Maire et sa vision personnelle de l’austérité : quand son épouse était payée par l’Assemblée",
+    "contenu": "Des soupçons pèsent depuis dix ans sur l’ampleur du travail effectué par l’épouse de Bruno Le Maire, une artiste peintre rémunérée comme assistante parlementaire entre 2007 et 2013, aux frais du contribuable. Une affaire dont la justice ne s’est jamais saisie.",
+    "url": "https://www.mediapart.fr/journal/france/200324/le-maire-et-sa-vision-personnelle-de-l-austerite-quand-son-epouse-etait-payee-par-l-assemblee",
+    "date": "2024-03-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1357,
+        "value": "Bruno Le Maire"
+      },
+      {
+        "id": 2120,
+        "value": "Pauline Le Maire"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 37,
+        "value": "Ministère de l'économie et des finances"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2045,
     "titre": "Soupçons de favoritisme à la Caisse des dépôts: procès de six hommes dont le patron d'ADP",
     "contenu": "Le procès de six hommes, dont le patron d'Aéroports de Paris (ADP) Augustin de Romanet et l'ex-secrétaire général de l'Elysée Jean-Pierre Jouyet, soupçonnés de favoritisme à la Caisse des dépôts, est prévu à partir de jeudi et pour une semaine à Paris, mais pourrait être reporté.",
@@ -73,7 +157,7 @@
       },
       {
         "id": 50,
-        "value": "Caisse des dépôts et consignations"
+        "value": "Caisse des dépôts et consignations (CDC)"
       },
       {
         "id": 653,
@@ -124,6 +208,46 @@
         "value": "Enquête"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2048,
+    "titre": "Le goût immodéré pour le théâtre du patron de la Caisse des dépôts",
+    "contenu": "Éric Lombard, le directeur général de la Caisse des dépôts, a tenu à prendre aussi la présidence du théâtre des Champs-Élysées dont l’établissement public est l’actionnaire et qu’il subventionne massivement. Ce cumul a dû être aménagé, tardivement, pour minimiser le risque juridique.",
+    "url": "https://www.mediapart.fr/journal/economie-et-social/190324/le-gout-immodere-pour-le-theatre-du-patron-de-la-caisse-des-depots",
+    "date": "2024-03-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2121,
+        "value": "Éric Lombard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 50,
+        "value": "Caisse des dépôts et consignations (CDC)"
+      },
+      {
+        "id": 655,
+        "value": "Théâtre des Champs-Élysées"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -57168,7 +57292,7 @@
     "personnes_morales": [
       {
         "id": 50,
-        "value": "Caisse des dépôts et consignations"
+        "value": "Caisse des dépôts et consignations (CDC)"
       },
       {
         "id": 62,
