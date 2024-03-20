@@ -1,5 +1,210 @@
 [
   {
+    "id": 2041,
+    "titre": "L’ex-directeur des services de Levallois devra affronter un nouveau procès pour favoritisme",
+    "contenu": "Après huit ans de procédure dont quatre mois de détention provisoire, et sa relaxe prononcée le 1er mars par le tribunal correctionnel de Nanterre, Thierry Bandrac espérait tourner définitivement la page. Mais le parquet a fait appel du jugement.",
+    "url": "https://www.leparisien.fr/hauts-de-seine-92/lex-directeur-des-services-de-levallois-devra-affronter-un-nouveau-proces-pour-favoritisme-20-03-2024-4UL7TMLXMBBOJEJRIQ3VO6APMU.php",
+    "date": "2024-03-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151973,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2056,
+        "value": "Thierry Bandrac"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2045,
+    "titre": "Soupçons de favoritisme à la Caisse des dépôts: procès de six hommes dont le patron d'ADP",
+    "contenu": "Le procès de six hommes, dont le patron d'Aéroports de Paris (ADP) Augustin de Romanet et l'ex-secrétaire général de l'Elysée Jean-Pierre Jouyet, soupçonnés de favoritisme à la Caisse des dépôts, est prévu à partir de jeudi et pour une semaine à Paris, mais pourrait être reporté.",
+    "url": "https://www.bfmtv.com/economie/entreprises/soupcons-de-favoritisme-a-la-caisse-des-depots-proces-de-six-hommes-dont-le-patron-d-adp_AD-202403200365.html",
+    "date": "2024-03-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1245,
+        "value": "Jean-Pierre Jouyet"
+      },
+      {
+        "id": 1356,
+        "value": "Augustin de Romanet"
+      },
+      {
+        "id": 1880,
+        "value": "Alain Bauer"
+      },
+      {
+        "id": 2119,
+        "value": "Xavier Raufer"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 50,
+        "value": "Caisse des dépôts et consignations"
+      },
+      {
+        "id": 653,
+        "value": "Champerard"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2043,
+    "titre": "Champtercier: des véhicules de luxe saisis chez un homme d'affaires hongrois",
+    "contenu": "Une enquête préliminaire a été ouverte par le parquet national financier pour fraude fiscale aggravée et blanchiment d'argent. L'opération visait le domicile d'un homme d'affaires hongrois, propriétaire d'une villa sur les hauts de Champtercier.",
+    "url": "https://www.bfmtv.com/bfm-dici/champtercier-des-vehicules-de-luxe-saisis-chez-un-homme-d-affaires-hongrois_AN-202403190935.html",
+    "date": "2024-03-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1484554,
+        "value": "04 - Alpes-de-Haute-Provence"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2044,
+    "titre": "Le maire d’Agde Gilles d'Ettore placé en garde à vue après une perquisition de la PJ en mairie",
+    "contenu": "Le maire d’Agde (Hérault), ancien député UMP, Gilles d'Ettore, a été placé en garde à vue ce mardi 19 mars à la suite d’une perquisition menée en mairie dans la matinée par des enquêteurs de la police judiciaire de Montpellier, dans le cadre d’une enquête dirigée depuis plusieurs mois par un juge d’instruction de Béziers.",
+    "url": "https://www.midilibre.fr/2024/03/19/le-maire-dagde-gilles-dettore-place-en-garde-a-vue-apres-une-perquisition-de-la-pj-en-mairie-11836488.php",
+    "date": "2024-03-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151848,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2118,
+        "value": "Gilles d'Ettore"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 10,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153422,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2042,
+    "titre": "Un ancien élu de Montluçon fait appel après l'annulation de la délibération qui lui allouait 4.000 € pour ses frais d'avocat",
+    "contenu": "Alors que le tribunal administratif de Clermont-Ferrand avait annulé, le 22 décembre 2023, la délibération du conseil municipal de Montluçon (Allier) qui accordait la protection fonctionnelle à l'ancien élu d'opposition Bernard Sistou, prévenu dans une affaire au pénal, ce dernier a décidé de faire appel.",
+    "url": "https://www.lamontagne.fr/montlucon-03100/actualites/un-ancien-elu-de-montlucon-fait-appel-apres-l-annulation-de-la-deliberation-qui-lui-allouait-4-000-pour-ses-frais-d-avocat_14471218/",
+    "date": "2024-03-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151602,
+        "value": "03 - Allier"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2046,
+        "value": "Bernard Sistou"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153424,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2040,
     "titre": "L’ancien patron de Marseille Aménagement condamné pour détournement de fonds publics",
     "contenu": "Charles Boumendil, ancien directeur général « tout puissant » de Marseille Aménagement, est condamné pour détournement de fonds publics. Grand bénéficiaire de la colossale indemnité d’éviction versée en 2004 pour libérer le terrain de la future patinoire de la Capelette, le patron de Laser Propreté, Philippe Lasery, est reconnu coupable de recel. Auteur d’un rapport qualifié de « partial et douteux », l’expert judiciaire Claude Roussel est relaxé au bénéfice du doute.",
@@ -46,7 +251,7 @@
       }
     ],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 2034,
