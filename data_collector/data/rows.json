@@ -1,5 +1,54 @@
 [
   {
+    "id": 2040,
+    "titre": "L’ancien patron de Marseille Aménagement condamné pour détournement de fonds publics",
+    "contenu": "Charles Boumendil, ancien directeur général « tout puissant » de Marseille Aménagement, est condamné pour détournement de fonds publics. Grand bénéficiaire de la colossale indemnité d’éviction versée en 2004 pour libérer le terrain de la future patinoire de la Capelette, le patron de Laser Propreté, Philippe Lasery, est reconnu coupable de recel. Auteur d’un rapport qualifié de « partial et douteux », l’expert judiciaire Claude Roussel est relaxé au bénéfice du doute.",
+    "url": "https://www.lamarseillaise.fr/societe/l-ancien-patron-de-marseille-amenagement-condamne-pour-detournement-de-fonds-publics-FB15632676",
+    "date": "2024-03-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1798,
+        "value": "Philippe Lasery"
+      },
+      {
+        "id": 1799,
+        "value": "Charles Boumendil"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 454,
+        "value": "Laser Propreté"
+      },
+      {
+        "id": 455,
+        "value": "Marseille Aménagement"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 1153425,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2034,
     "titre": "Rénovation énergétique : l’État débordé par la fraude massive",
     "contenu": "Bruno Le Maire a annoncé que le gouvernement allait s’attaquer aux escroqueries à la rénovation. Depuis des années, les services de l’État alertent sur les montants faramineux qui disparaissent chaque année dans les fraudes.",
