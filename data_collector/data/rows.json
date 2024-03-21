@@ -120,6 +120,50 @@
     "a_la_une": false
   },
   {
+    "id": 2049,
+    "titre": "Marseille : l’ex-épouse et un proche de Renaud Muselier bientôt jugés pour prise illégale d’intérêt",
+    "contenu": "L’ex-femme de Renaud Muselier et un de ses collaborateurs historiques sont renvoyés devant le tribunal correctionnel pour prise illégale d’intérêt. \n\nStéphane Clément, avocate de profession, et Jean-Luc Ivaldi, ancien directeur de cabinet de Renaud Muselier, aujourd’hui directeur général de société du canal de Provence, sont renvoyés dans une affaire d’atteinte à la probité au sein du bailleur social Habitat Marseille Provence.",
+    "url": "https://www.lefigaro.fr/marseille/marseille-l-ex-epouse-et-un-proche-de-renaud-muselier-juges-pour-prise-illegale-d-interet-20240320",
+    "date": "2024-03-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151709,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2122,
+        "value": "Stéphane Clément"
+      },
+      {
+        "id": 2123,
+        "value": "Jean-Luc Ivaldi"
+      },
+      {
+        "id": 2124,
+        "value": "Renaud Muselier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 656,
+        "value": "Habitat Marseille Provence"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2045,
     "titre": "Soupçons de favoritisme à la Caisse des dépôts: procès de six hommes dont le patron d'ADP",
     "contenu": "Le procès de six hommes, dont le patron d'Aéroports de Paris (ADP) Augustin de Romanet et l'ex-secrétaire général de l'Elysée Jean-Pierre Jouyet, soupçonnés de favoritisme à la Caisse des dépôts, est prévu à partir de jeudi et pour une semaine à Paris, mais pourrait être reporté.",
@@ -212,6 +256,63 @@
     "a_la_une": false
   },
   {
+    "id": 2050,
+    "titre": "Derniers procès des crus non-classés de Saint-Émilion 2012 et 2022",
+    "contenu": "Pour la deuxième fois en trois ans, le Conseil d’État se penche sur le classement 2012 des crus de Saint-Émilion. Résistant encore et toujours à l’arrêté du 29 octobre 2012 portant homologation du classement de Saint-Émilion, le château Corbin Michotte est définitivement débouté par le Conseil d'État ce vendredi 15 mars.",
+    "url": "https://www.vitisphere.com/actualite-101521-derniers-proces-des-crus-non-classes-de-saint-emilion-2012-et-2022.html",
+    "date": "2024-03-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151847,
+        "value": "33 - Gironde"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2125,
+        "value": "Hubert de Boüard"
+      },
+      {
+        "id": 2126,
+        "value": "Philippe Castéja"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Ministère de l'agriculture"
+      },
+      {
+        "id": 657,
+        "value": "Château Cheval Blanc"
+      },
+      {
+        "id": 658,
+        "value": "Château Corbin Michotte"
+      },
+      {
+        "id": 659,
+        "value": "Institut national de l'origine et de la qualité"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1252744,
+        "value": "Alcools"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2048,
     "titre": "Le goût immodéré pour le théâtre du patron de la Caisse des dépôts",
     "contenu": "Éric Lombard, le directeur général de la Caisse des dépôts, a tenu à prendre aussi la présidence du théâtre des Champs-Élysées dont l’établissement public est l’actionnaire et qu’il subventionne massivement. Ce cumul a dû être aménagé, tardivement, pour minimiser le risque juridique.",
@@ -246,7 +347,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 1486484,
+        "value": "Culture"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
