@@ -1,5 +1,161 @@
 [
   {
+    "id": 2052,
+    "titre": "Le maire d'Agde placé en détention pour avoir détourné de l'argent public sous l'influence d'une voyante",
+    "contenu": "Après 48 heures de garde à vue, Gilles d'Ettore, maire d'Agde et ancien député a été mis en examen et incarcéré. On lui reproche d'avoir détourné de l'argent public au profit d'une voyante qui l'aurait manipulé.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-maire-d-agde-place-en-detention-pour-avoir-detourne-de-l-argent-public-sous-l-influence-d-une-voyante-3345320",
+    "date": "2024-03-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151848,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2118,
+        "value": "Gilles d'Ettore"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 1152012,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2053,
+    "titre": "Le président du FC Nantes Waldemar Kita mis en examen en 2022 pour fraude fiscale",
+    "contenu": "Le patron du FC Nantes, Waldemar Kita, a été mis en examen les 7 et 8 juillet 2022 avec sa femme Chantal. Le couple est soupçonné « des chefs de fraude fiscale, fraude fiscale aggravée, blanchiment aggravé de fraude fiscale et blanchiment aggravé de fraude fiscale aggravée ». Le couple aurait évité près de 15 millions d'euros d'impôt de solidarité sur la fortune (ISF) grâce à une résidence fiscale en Belgique qui serait fictive.",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-president-du-fc-nantes-waldemar-kita-mis-en-examen-en-2022-pour-fraude-fiscale/1456009",
+    "date": "2024-03-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151947,
+        "value": "44 - Loire-Atlantique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2128,
+        "value": "Waldemar Kita"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 660,
+        "value": "Football Club de Nantes (FC Nantes)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152020,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2051,
+    "titre": "Le procureur national financier constate les premiers \"effets négatifs\" de la réforme de la PJ",
+    "contenu": "Le Parquet national financier \"commence à constater les effets négatifs\" de la réforme de la police judiciaire, a estimé son chef, Jean-François Bohnert. Depuis, \"certaines enquêtes n'ont pas pu être attribuées à un service, faute d'enquêteurs pour les mener\".",
+    "url": "https://www.la-croix.com/le-procureur-national-financier-constate-les-premiers-effets-negatifs-de-la-reforme-de-la-pj-20240321",
+    "date": "2024-03-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2127,
+        "value": "Jean-François Bohnert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 201,
+        "value": "Direction nationale de la Police judiciaire (DNPJ)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2054,
+    "titre": "Un ancien président délégué d’Angers SCO condamné pour « corruption passive »",
+    "contenu": "Fabrice Favetto-Bon a été condamné le 8 février par le tribunal correctionnel de Paris pour des faits de « corruption passive » et de « recel de favoritisme » dans l’affaire de l’hippodrome de Longchamp pour des faits antérieurs à son éphémère passage à Angers SCO en 2020.",
+    "url": "https://www.ouest-france.fr/societe/justice/un-ancien-president-delegue-dangers-sco-condamne-pour-corruption-passive-d5ce6f9e-e78e-11ee-9618-4414a90184dc",
+    "date": "2024-03-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1857,
+        "value": "Fabrice Favetto-Bon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 174,
+        "value": "Paris Society"
+      },
+      {
+        "id": 175,
+        "value": "Hippodrome de Longchamp"
+      },
+      {
+        "id": 176,
+        "value": "France Galop"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2041,
     "titre": "L’ex-directeur des services de Levallois devra affronter un nouveau procès pour favoritisme",
     "contenu": "Après huit ans de procédure dont quatre mois de détention provisoire, et sa relaxe prononcée le 1er mars par le tribunal correctionnel de Nanterre, Thierry Bandrac espérait tourner définitivement la page. Mais le parquet a fait appel du jugement.",
@@ -160,7 +316,7 @@
     ],
     "theme": [],
     "procedure": [],
-    "titre_corrige": "",
+    "titre_corrige": "L'ex-épouse et un proche de Renaud Muselier bientôt jugés pour prise illégale d’intérêt",
     "a_la_une": false
   },
   {
@@ -433,6 +589,91 @@
     ],
     "titre_corrige": "",
     "a_la_une": false
+  },
+  {
+    "id": 2055,
+    "titre": "A69 : les conflits d’intérêts inavoués des lobbyistes pro-autoroute",
+    "contenu": "Alors que le député Renaissance Jean Terlier, soutien de l’autoroute, a obtenu de présider la commission d’enquête, Mediapart révèle les multiples interventions d’un haut fonctionnaire, ancien conseiller de François Hollande, dans le projet.",
+    "url": "https://www.mediapart.fr/journal/france/180324/a69-les-conflits-d-interets-inavoues-des-lobbyistes-pro-autoroute",
+    "date": "2024-03-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 1151970,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 558,
+        "value": "Jean Terlier"
+      },
+      {
+        "id": 2129,
+        "value": "Éric Ducournau"
+      },
+      {
+        "id": 2130,
+        "value": "Patrick Vieu"
+      },
+      {
+        "id": 2131,
+        "value": "André Baudorre"
+      },
+      {
+        "id": 2132,
+        "value": "Thierry Bodard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 662,
+        "value": "Laboratoires Pierre Fabre"
+      },
+      {
+        "id": 663,
+        "value": "Tarn Sud développement"
+      },
+      {
+        "id": 664,
+        "value": "Atosca"
+      },
+      {
+        "id": 665,
+        "value": "Association VIA81"
+      },
+      {
+        "id": 666,
+        "value": "Autorité de régulation des transports (ART)"
+      },
+      {
+        "id": 667,
+        "value": "Conseil général de l'environnement et du développement durable"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 1152014,
+        "value": "Actualité"
+      },
+      {
+        "id": 1152013,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 1152015,
+        "value": "Lobbying / Influence"
+      },
+      {
+        "id": 1312991,
+        "value": "Transports"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
   },
   {
     "id": 2040,
