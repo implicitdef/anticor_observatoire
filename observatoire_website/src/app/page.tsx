@@ -3,7 +3,6 @@ import { Item, getData } from '@/lib/dataReader'
 import { buildUrlTag } from '@/lib/urls'
 import {
   TypedTag,
-  identifyDepartementsTagForUrl,
   firstOfArray,
   formatDateVerbose,
   getItemsWithSameTag,
@@ -42,19 +41,21 @@ export default function Home() {
     .slice(0, MAX_BY_BANDEAU)
 
   return (
-    <div className=" w-full pt-8">
+    <div className="container mx-auto w-full pt-8 px-0 lg:px-4">
       {laUneItem && <ALaUneBanner item={laUneItem} />}
-      {itemsFromTagRelatedToUne && (
-        <ItemsBanner
-          title={`Sur le même sujet : ${itemsFromTagRelatedToUne.tag.value}`}
-          items={itemsFromTagRelatedToUne.items}
-        />
-      )}
-      {laUneRelatedTags && <RelatedTags tags={laUneRelatedTags} />}
-      <ItemsBanner title="Actualités" items={itemsActualites} />
-      <ItemsBanner title="Probité" items={itemProbite} />
-      <ItemsBanner title="Pantouflages" items={itemsPantouflages} />
-      <ItemsBanner title="Condamnations" items={itemsCondamnations} />
+      <div className="px-4 lg:px-0">
+        {itemsFromTagRelatedToUne && (
+          <ItemsBanner
+            title={`Sur le même sujet : ${itemsFromTagRelatedToUne.tag.value}`}
+            items={itemsFromTagRelatedToUne.items}
+          />
+        )}
+        {laUneRelatedTags && <RelatedTags tags={laUneRelatedTags} />}
+        <ItemsBanner title="Actualités" items={itemsActualites} />
+        <ItemsBanner title="Probité" items={itemProbite} />
+        <ItemsBanner title="Pantouflages" items={itemsPantouflages} />
+        <ItemsBanner title="Condamnations" items={itemsCondamnations} />
+      </div>
     </div>
   )
 }
@@ -109,10 +110,10 @@ function prepareItemsRelatedToALaUne(
 
 function ALaUneBanner({ item }: { item: Item }) {
   return (
-    <div className="container mx-auto mb-8 mt-8">
+    <div className="mb-8 mt-8">
       <LinkToItem
         {...{ item }}
-        className="block bg-bleuanticor-500 text-white py-16 px-40"
+        className="block bg-bleuanticor-500 text-white py-16 px-4 sm:px-10 md:px-24 lg:px-40"
       >
         <h1 className="font-bold text-3xl text-left mb-2">
           <span className="text-bleuanticor-200">À LA UNE :</span>{' '}
@@ -129,7 +130,7 @@ function ALaUneBanner({ item }: { item: Item }) {
 
 function RelatedTags({ tags }: { tags: TypedTag[] }) {
   return (
-    <div className="container mx-auto mt-12">
+    <div className="mt-12">
       <div className="flex flex-wrap gap-4 items-center justify-center mb-12">
         <span className="text-bleuanticor-500 font-bold py-1 text-lg">
           voir aussi :
@@ -153,17 +154,17 @@ function RelatedTags({ tags }: { tags: TypedTag[] }) {
 function ItemsBanner({ items, title }: { items: Item[]; title: string }) {
   if (items.length > 0) {
     return (
-      <div className="container mx-auto mb-4">
+      <div className="mb-4">
         <h2 className="text-base mb-4 text-left text-bleuanticor-400 uppercase">
           {title}
         </h2>
-        <ul className="grid grid-cols-3 gap-6">
+        <ul className="grid lg:grid-cols-3 gap-0 lg:gap-6">
           {items.map((item, idx) => {
             return (
               <li key={item.id}>
                 <LinkToItem
                   {...{ item }}
-                  className="bg-gray-100 border-bleuanticor-100 border-l-4 border-0 pt-6 pb-8 px-8 block h-full "
+                  className="bg-gray-100 border-bleuanticor-200 lg:border-bleuanticor-100 lg:border-l-4 border-b-2 lg:border-b-0 border-0 pt-6 pb-8 px-8 block h-full"
                 >
                   {item.date && (
                     <div className="text-sm mb-1 uppercase">
