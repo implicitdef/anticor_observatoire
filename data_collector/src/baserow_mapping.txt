@@ -1,0 +1,41 @@
+Correspondances des ids pour migrer du Baserow en SAAS vers celui d'Anticor
+
+BASEROW SAAS    BASEROW ANTICOR      NOM
+
+field_1556848    field_4796          titre
+field_1556849    field_4801          contenu
+field_1556850    field_4800          source
+field_1556851    field_4799          date
+field_1556852    field_4816          etiquettes
+field_1556853    field_4805          localisation
+field_1557648    field_4809          personnalites
+field_1557650    field_4814          personnes_morales
+field_1557681    field_4802          categorie
+field_1557682    field_4803          thematique
+field_1561023    field_4804          procedure
+field_1751584    field_4797          titre corrige
+field_1772289    field_4798            une
+field_1798424    field_4820          affaires
+
+id de la table principale (Actualites) :
+517 sur baserow anticor
+223611 sur baserow saas
+
+
+sed -i 's/FOO/BAR/g' filename.txt
+
+
+sed -i '' 's/field_1556848/field_4796/g' src/baserow.ts
+sed -i '' 's/field_1556849/field_4801/g' src/baserow.ts
+sed -i '' 's/field_1556850/field_4800/g' src/baserow.ts
+sed -i '' 's/field_1556851/field_4799/g' src/baserow.ts
+sed -i '' 's/field_1556852/field_4816/g' src/baserow.ts
+sed -i '' 's/field_1556853/field_4805/g' src/baserow.ts
+sed -i '' 's/field_1557648/field_4809/g' src/baserow.ts
+sed -i '' 's/field_1557650/field_4814/g' src/baserow.ts
+sed -i '' 's/field_1557681/field_4802/g' src/baserow.ts
+sed -i '' 's/field_1557682/field_4803/g' src/baserow.ts
+sed -i '' 's/field_1561023/field_4804/g' src/baserow.ts
+sed -i '' 's/field_1751584/field_4797/g' src/baserow.ts
+sed -i '' 's/field_1772289/field_4798/g' src/baserow.ts
+sed -i '' 's/field_1798424/field_4820/g' src/baserow.ts
