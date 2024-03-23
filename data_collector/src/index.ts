@@ -3,7 +3,7 @@ import { NiceRow, readBaserow } from './baserow'
 import { readJsonFile, writeToJsonFile } from './utils'
 dotenv.config()
 
-const OUT_FILE = `./data/rows.json`
+const OUT_FILE = `../observatoire_website/data/rows.json`
 
 async function start() {
   console.log(`Launching data collector...`)

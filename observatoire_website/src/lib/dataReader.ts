@@ -1,5 +1,5 @@
 import z from 'zod'
-import rows from '../../../data_collector/data/rows.json'
+import rows from '../../data/rows.json'
 import { parseDate } from './utils'
 
 const thingSchema = z
