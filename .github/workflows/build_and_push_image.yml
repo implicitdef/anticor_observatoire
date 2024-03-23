@@ -1,0 +1,27 @@
+on:
+  workflow_dispatch:
+  # Disabled for now because it's not ready yet
+  # push:
+  #   branches:
+  #     - main # trigger whenever there's a commit on this
+
+jobs:
+  main-job:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./observatoire_website
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/login-action@v3
+        with:
+          # TBD auth method depends on the registry
+          # see https://github.com/docker/login-action
+          username: ${{ secrets.DOCKER_USERNAME }}
+          password: ${{ secrets.DOCKER_PASSWORD }}
+
+      - uses: docker/build-push-action@v5
+        with:
+          push: true
+          # TBD
+          #tags: yourusername/yourapp:latest
