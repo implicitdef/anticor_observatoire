@@ -1,5 +1,177 @@
 [
   {
+    "id": 2104,
+    "titre": "JO 2024 : les salaires astronomiques de certains dirigeants du comité olympique épinglés",
+    "contenu": "L’émission de France 2 «Complément d’enquête» s’est intéressée au budget alloué au comité d’organisation des Jeux olympiques. Elle a découvert que certains des dirigeants étaient grassement rémunérés, et que d’importantes augmentations de salaires avaient été effectuées.",
+    "url": "https://www.capital.fr/votre-argent/jo-2024-les-salaires-astronomiques-de-certains-dirigeants-du-comite-olympique-epingles-1494376",
+    "date": "2024-03-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1177,
+        "value": "Tony Estanguet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 9,
+        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024 (COJOP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2103,
+    "titre": "Le pourvoi en cassation de l’ex-maire de Vair-sur-Loire rejeté",
+    "contenu": "Éric Lucas, ancien maire de Vair-sur-Loire, dans le pays d’Ancenis (Loire-Atlantique), contestait sa condamnation pour favoritisme. La cour de cassation a rejeté, ce mercredi 27 mars, son pourvoi en cassation.",
+    "url": "https://www.ouest-france.fr/pays-de-la-loire/vair-sur-loire-44150/le-pourvoi-en-cassation-de-lex-maire-de-vair-sur-loire-rejete-bd5baaa0-ec46-11ee-890a-fe1804609408",
+    "date": "2024-03-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2738,
+        "value": "44 - Loire-Atlantique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1510,
+        "value": "Éric Lucas"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2101,
+    "titre": "RN : Marine et Jean-Marie Le Pen seront jugés à partir de septembre pour détournement de fonds européens",
+    "contenu": "Marine Le Pen, son père Jean-Marie Le Pen, le RN et la direction du parti des années 2010, soupçonnés de détournement de fonds européens, seront jugés du 30 septembre au 27 novembre par le tribunal correctionnel de Paris. En tout, 27 personnes ainsi que le RN en tant que personne morale sont soupçonnés d’avoir mis en place, entre 2004 et 2016, un système de rémunération par l’Union européenne des assistants d’eurodéputés qui travaillaient en réalité pour le parti. Marine Le Pen, qui a toujours contesté ces accusations, sera jugée pour détournement de fonds publics et complicité.",
+    "url": "https://www.20minutes.fr/justice/4083599-20240327-rn-marine-jean-marie-pen-juges-partir-septembre-detournement-fonds-europeens",
+    "date": "2024-03-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 412,
+        "value": "Julien Odoul"
+      },
+      {
+        "id": 665,
+        "value": "Jean-Marie Le Pen"
+      },
+      {
+        "id": 695,
+        "value": "Bruno Gollnisch"
+      },
+      {
+        "id": 696,
+        "value": "Nicolas Bay"
+      },
+      {
+        "id": 697,
+        "value": "Wallerand de Saint-Just"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2100,
+    "titre": "Sept personnes placées en garde à vue, soupçonnées d'avoir arnaqué le CHU de Nice en facturant des travaux jamais réalisés",
+    "contenu": "Sept personnes ont été placées en garde à vue, mardi 26 mars, soupçonnées d'\"escroquerie en bande organisée\" pour des travaux qui n'ont jamais été réalisés au CHU de Nice. Les suspects sont trois agents de l'établissement, plusieurs prestataires réguliers et la compagne de l'un des mis en cause. Ils sont soupçonnés d'avoir arnaqué le CHU entre 2018 et 2022 à propos de travaux de rénovation non réalisés mais facturés. Le préjudice financier est estimé à 442 339 euros. Saisi en octobre 2022 par la direction du CHU, le parquet de Nice a ouvert une enquête pour \"escroquerie en bande organisée\", \"détournement de fonds publics\", \"corruption\", \"trafic d'influence\", \"prise illégale d'intérêt\" et \"blanchiment\".",
+    "url": "https://www.francetvinfo.fr/faits-divers/justice-proces/sept-personnes-placees-en-garde-a-vue-soupconnees-d-avoir-arnaque-le-chu-de-nice-en-facturant-des-travaux-jamais-realises_6451240.html",
+    "date": "2024-03-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 635,
+        "value": "Centre Hospitalier Universitaire de Nice (CHU de Nice)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2098,
     "titre": "Un pantouflage hors norme sape l’ancrage public de la Caisse des dépôts",
     "contenu": "Numéro 2 de la Caisse, Olivier Sichel a démissionné le 1er janvier de la fonction publique et a été réembauché le même jour sous un contrat de droit privé, avec des avantages complémentaires. Le comité exécutif de la CDC n’est plus composé en majorité de fonctionnaires.",
@@ -42,8 +214,18 @@
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/affaire-du-frigo-de-falco-l-avocate-generale-requiert-la-confirmation-de-la-premiere-condamnation-2534262",
     "date": "2024-03-26",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1333,
+        "value": "Hubert Falco"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -22844,7 +23026,12 @@
         "value": "Julien Sanchez"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN)"
+      }
+    ],
     "categorie": [
       {
         "id": 2651,
@@ -41896,8 +42083,22 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 636,
+        "value": "Le Voyage à Nantes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -42037,14 +42238,19 @@
     "contenu": "Le maire de Saint-Martin-de-Boscherville, Thierry Chauvin, était poursuivi pour prise illégale d’intérêts dans l’attribution de marchés publics. Il a été condamné, jeudi 15 septembre 2022, par le tribunal correctionnel de Rouen, à une amende de 10 000 € et une peine d’inéligibilité de cinq ans. L’ancien gérant de l’entreprise favorisée par cette prise illégale d’intérêts a également été condamné à 2 000€ d’amende dont 1 000€ avec sursis et un an d’inéligibilité. Thierry Chauvin a déjà indiqué qu’il comptait interjeter appel.",
     "url": "https://www.paris-normandie.fr/id342185/article/2022-09-15/condamne-par-le-tribunal-le-maire-de-saint-martin-de-boscherville-est-ineligible",
     "date": "2022-09-15",
-    "etiquettes": "76 – Seine Maritime,Thierry Chauvin",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2763,
         "value": "76 - Seine-Maritime"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1511,
+        "value": "Thierry Chauvin"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -43170,7 +43376,7 @@
   },
   {
     "id": 1044,
-    "titre": "Anne-Laure Cattelot",
+    "titre": "Anne-Laure Cattelot rejoint Rivington",
     "contenu": "Formée à Sciences Po Lille, Membre de La République en marche, elle est députée de la douzième circonscription du Nord de 2017 à 2022 et conseillère municipale d'Avesnes-sur-Helpe depuis 2020. Elle a été membre de la commission des Finances, et est co-rapporteure spéciale du budget infrastructures et services de transports. Candidate à sa réélection aux élections législatives de 2022, elle est battue au second tour par un candidat RN. En juillet 2022 elle se reconvertit dans le lobbying en rejoignant le cabinet Rivington.",
     "url": "https://www.lalettrea.fr/action-publique_lobbying/2022/07/22/l-ex-deputee-anne-laure-cattelot-devient-numero-2-du-cabinet-rivington,109801406-bre",
     "date": "2022-07-22",
@@ -60759,6 +60965,22 @@
         "value": "Pantouflages"
       }
     ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2102,
+    "titre": "",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
