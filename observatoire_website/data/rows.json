@@ -1,5 +1,179 @@
 [
   {
+    "id": 2107,
+    "titre": "Quand le Conseil constitutionnel fermait les yeux sur les faux électeurs de Jean Tiberi",
+    "contenu": "Des archives de l’institution, rendues publiques, révèlent comment ses membres ont validé l’élection de l’ancien maire du 5ᵉ arrondissement de Paris aux législatives de 1997, en dépit des nombreuses fraudes mises en évidence par leur propre enquête.",
+    "url": "https://www.lemonde.fr/politique/article/2024/03/30/quand-le-conseil-constitutionnel-fermait-les-yeux-sur-les-faux-electeurs-de-jean-tiberi_6225012_823448.html",
+    "date": "2024-03-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1517,
+        "value": "Jean Tiberi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 237,
+        "value": "Conseil constitutionnel"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2106,
+    "titre": "Scandale du maire d’Agde : un cadre d’Eiffage est soupçonné d’avoir participé au financement de la véranda de la voyante",
+    "contenu": "Le maire d’Agde, Gilles d'Ettore, est incarcéré depuis bientôt dix jours. Il est mis en examen pour \"corruption passive, prise illégale d’intérêt et détournement de fonds publics\" après avoir été sous l’influence d’une voyante, qui aurait notamment utilisé l’argent public pour faire des travaux chez elle, pour lesquels un cadre d’Eiffage serait impliqué.",
+    "url": "https://www.ladepeche.fr/2024/03/29/scandale-du-maire-dagde-un-cadre-deiffage-est-soupconne-davoir-participe-au-financement-de-la-veranda-de-la-voyante-11858371.php",
+    "date": "2024-03-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1457,
+        "value": "Gilles d'Ettore"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 462,
+        "value": "Eiffage"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2108,
+    "titre": "Justice : le député Jean-Félix Acquaviva condamné pour favoritisme",
+    "contenu": "Le député de la seconde circonscription de Haute-Corse a été condamné pour \"délit de favoritisme\" à une amende de 8 000 euros dont 5 000 € avec sursis. L’affaire, dont la procédure a été ouverte en 2016, concerne un marché public attribué à un entrepreneur local par la commune de Lozzi, dont Jean-Félix Acquaviva était le maire jusqu’en 2017.",
+    "url": "https://france3-regions.francetvinfo.fr/corse/corse-du-sud/ajaccio/justice-le-depute-jean-felix-acquaviva-condamne-pour-favoritisme-2947088.html",
+    "date": "2024-03-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 6,
+        "value": "Jean-Félix Acquaviva"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 17,
+        "value": "Femu a Corsica"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2690,
+        "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2105,
+    "titre": "Le parquet national financier ouvre une enquête préliminaire sur la société commerciale de la LFP",
+    "contenu": "Une enquête préliminaire a été ouverte par le parquet national financier (PNF) au sujet de la constitution par la Ligue de football professionnel (LFP), en avril 2022, d’une société commerciale ayant abouti à l’accord avec le fonds d’investissement CVC. Celui-ci actait la cession à vie d’un peu plus de 13 % des droits du foot français contre un appart de 1,5 milliard d’euros.",
+    "url": "https://www.ouest-france.fr/sport/football/ligue-1/ligue-1-le-parquet-national-financier-ouvre-une-enquete-sur-la-societe-commerciale-de-la-lfp-6ea3f2c6-ed01-11ee-a793-3d15ad53aa4e",
+    "date": "2024-03-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 159,
+        "value": "AC !! Anti-Corruption"
+      },
+      {
+        "id": 641,
+        "value": "Ligue de football professionnel (LFP)"
+      },
+      {
+        "id": 642,
+        "value": "CVC Capital Partners"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2104,
     "titre": "JO 2024 : les salaires astronomiques de certains dirigeants du comité olympique épinglés",
     "contenu": "L’émission de France 2 «Complément d’enquête» s’est intéressée au budget alloué au comité d’organisation des Jeux olympiques. Elle a découvert que certains des dirigeants étaient grassement rémunérés, et que d’importantes augmentations de salaires avaient été effectuées.",
@@ -34,7 +208,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -275,6 +454,42 @@
         "value": "Évasion / fraude fiscale"
       }
     ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2109,
+    "titre": "Protection de lanceurs d’alerte : une nette hausse des saisines auprès de la Défenseuse des droits",
+    "contenu": "Dans son rapport annuel publié mardi 26 mars, l’autorité indépendante note une forte augmentation des demandes concernant l’orientation et la protection des salariés révélant des informations sensibles dans le cadre de leur travail.",
+    "url": "https://www.liberation.fr/societe/protection-de-lanceurs-dalerte-une-nette-hausse-des-saisines-aupres-de-la-defenseuse-des-droits-20240326_EAUZLPH6LRCN3EA3APMBEXUL6U/?redirected=1",
+    "date": "2024-03-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1518,
+        "value": "Claire Hédon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 565,
+        "value": "Défenseur des droits (DDD)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -25010,7 +25225,7 @@
     "personnes_morales": [
       {
         "id": 194,
-        "value": "Fédération française de rugby"
+        "value": "Fédération française de rugby (FFR)"
       },
       {
         "id": 195,
@@ -27057,7 +27272,7 @@
     "personnes_morales": [
       {
         "id": 194,
-        "value": "Fédération française de rugby"
+        "value": "Fédération française de rugby (FFR)"
       },
       {
         "id": 260,
@@ -28201,7 +28416,7 @@
       },
       {
         "id": 194,
-        "value": "Fédération française de rugby"
+        "value": "Fédération française de rugby (FFR)"
       }
     ],
     "categorie": [
@@ -30314,7 +30529,7 @@
     "personnes_morales": [
       {
         "id": 194,
-        "value": "Fédération française de rugby"
+        "value": "Fédération française de rugby (FFR)"
       },
       {
         "id": 256,
@@ -31164,7 +31379,7 @@
       },
       {
         "id": 194,
-        "value": "Fédération française de rugby"
+        "value": "Fédération française de rugby (FFR)"
       }
     ],
     "categorie": [
@@ -31484,7 +31699,7 @@
     "personnes_morales": [
       {
         "id": 194,
-        "value": "Fédération française de rugby"
+        "value": "Fédération française de rugby (FFR)"
       }
     ],
     "categorie": [
@@ -32201,7 +32416,7 @@
     "personnes_morales": [
       {
         "id": 194,
-        "value": "Fédération française de rugby"
+        "value": "Fédération française de rugby (FFR)"
       }
     ],
     "categorie": [
@@ -41070,7 +41285,7 @@
       }
     ],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 962,
@@ -41332,7 +41547,7 @@
     ],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 965,
@@ -41500,7 +41715,7 @@
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 971,
@@ -41884,7 +42099,7 @@
       }
     ],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 977,
@@ -42187,7 +42402,7 @@
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 985,
@@ -42226,9 +42441,19 @@
         "value": "France Pierre"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -42252,9 +42477,19 @@
       }
     ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -42287,9 +42522,19 @@
         "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -42326,7 +42571,12 @@
         "value": "Conseil supérieur de la magistrature (CSM)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -42338,18 +42588,42 @@
     "contenu": "À la suite d’une enquête des policiers du SPRJ Agen, les quatre élus avaient été renvoyés devant le tribunal correctionnel pour prise illégale d’intérêts à la suite d’une plainte déposée fin 2014 par Joseph Bonotto, l’un des opposants à la TAG, le Technopole Agen-Garonne rive gauche de la Garonne. Début 2021, le quatuor avait été relaxé par les juges. Les services du procureur de la République avaient fait appel de la décision correctionnelle, considérant qu’il ne pouvait y avoir prescription de l’infraction entre 2008 et 2011.",
     "url": "https://www.ladepeche.fr/2022/09/15/lot-et-garonne-quatre-elus-de-sainte-colombe-en-bruilhois-reconnus-coupables-de-prise-illegale-dinteret-10545899.php",
     "date": "2022-09-15",
-    "etiquettes": "47 - Lot-et-Garonne,Anticor,Hubert Duffour,Joseph Bonotto",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2740,
         "value": "47 - Lot-et-Garonne"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1514,
+        "value": "Hubert Duffour"
+      },
+      {
+        "id": 1515,
+        "value": "Joseph Bonotto"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -42359,18 +42633,37 @@
     "contenu": "L’audience qui devait avoir lieu ce jeudi 15 septembre au tribunal correctionnel de Montpellier concernant un soupçon d’emploi fictif à la mairie de la Palavas a été renvoyée en février.\nPour rappel, les enquêteurs de la police judiciaire soupçonnent Noël Ségura, ancien maire de Villeneuve-les-Maguelone (2008 - 2020) mais aussi employé de la mairie de Palavas depuis trente-sept ans, d’avoir bénéficié d’un emploi fictif durant la période juillet 2016 - fin 2019. Du même coup, Christian Jeanjean, maire de Palavas-les-Flots depuis 33 ans, est soupçonné de lui avoir accordé ce supposé emploi fictif. Les deux contestent les faits.",
     "url": "https://www.lagazettedemontpellier.fr/live/63232056d759b647f422c7a8/soupcon-d-emploi-fictif-a-palavas-l-affaire-renvoyee",
     "date": "2022-09-15",
-    "etiquettes": "34 – Hérault,Christian Jeanjean,Noël Ségura",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2728,
         "value": "34 - Hérault"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1512,
+        "value": "Christian Jeanjean"
+      },
+      {
+        "id": 1513,
+        "value": "Noël Ségura"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -42380,13 +42673,41 @@
     "contenu": "Les policiers de l’OCLCIFF, l’office anticorruption de la police judiciaire, ont discrètement perquisitionné, en février dernier, le siège de Dassault Aviation à Saint-Cloud (Hauts-de-Seine), à la demande des juges d’instruction Virginie Tilmont et Pascal Gastineau. Sollicité, Dassault n’a pas répondu. Depuis un an, les deux magistrats mènent une enquête judiciaire portant notamment sur des soupçons de « corruption », de « trafic d’influence » et de « favoritisme » sur ce gigantesque contrat d’État à État de 7,8 milliards d’euros, signé en 2016 sous la présidence de François Hollande.\nMais quatre mois après la perquisition chez Dassault, les juges d’instruction se sont heurtés à un obstacle majeur : le secret-défense. Selon Mediapart, les ministres des armées et des affaires étrangères ont refusé, en juin dernier, de déclassifier les documents confidentiels que leur avaient demandés les magistrats sur la vente des Rafale à l’Inde, après deux avis négatifs rendus par la Commission du secret de la Défense nationale (CSDN), publiés au Journal officiel.",
     "url": "https://www.mediapart.fr/journal/international/140922/rafale-papers-les-juges-se-heurtent-au-mur-du-secret-defense?at_medium=custom3&amp;at_campaign=67",
     "date": "2022-09-14",
-    "etiquettes": "Dassault,Office central de lutte contre la corruption et les infractions financières et fiscales",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 140,
+        "value": "Dassault Aviation"
+      },
+      {
+        "id": 637,
+        "value": "Commission du secret de la Défense nationale (CSDN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -42396,11 +42717,26 @@
     "contenu": "Le PNF, cette nouvelle juridiction supposée être le «phare dans la nuit» – selon un magistrat – de la justice dans la répression de la délinquance en col blanc aurait, pour nombre d’observateurs, perdu de ses feux. Un ancien de la maison liste une série de faits qui posent question. Une succession de classements sans suite, des dossiers visant principalement des élus, par exemple, n’a pas été comprise.\nAutre sujet d’étonnement dans le petit monde des spécialistes des affaires économiques et financières : la manière dont le PNF recourt à la justice « négociée » avec les entreprises – on parle alors de Convention judiciaire d’intérêt public (CJIP). Les magistrats de l’USM, le syndicat majoritaire dans le corps, sollicités par la mission d’information de l’Assemblée nationale chargée de dresser un bilan de la loi de 2013, avaient signalé qu’il n’y a eu « en réalité que très peu de poursuites contre des personnes physiques » dans ce cadre.",
     "url": "https://www.liberation.fr/societe/police-justice/affaires-classees-dossiers-sensibles-en-attente-quand-le-parquet-national-financier-patine-20220914_7RVYXRV44BCMJBBXKPKEWWL5DM/?redirected=1",
     "date": "2022-09-14",
-    "etiquettes": "Parquet National Financier",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -42412,11 +42748,43 @@
     "contenu": "Depuis sa libéralisation en 2019, le « compte personnel de formation » (CPF) est devenu un produit presque comme les autres. Les influenceurs le vendent, de story en story, et s’affranchissent souvent des règles. Quand ils ne promeuvent pas carrément des formations douteuses.",
     "url": "https://www.mediapart.fr/journal/economie/140922/arnaques-la-formation-les-influenceurs-en-roue-libre",
     "date": "2022-09-14",
-    "etiquettes": "Banijay,Magali Berdah,Shauna Events,Tracfin,Vivendi",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1516,
+        "value": "Banijay"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 87,
+        "value": "Tracfin"
+      },
+      {
+        "id": 638,
+        "value": "Magali Berdah"
+      },
+      {
+        "id": 639,
+        "value": "Shauna Events"
+      },
+      {
+        "id": 640,
+        "value": "Vivendi"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -42428,11 +42796,35 @@
     "contenu": "Une semaine avant qu’Eliane Houlette, à la tête du PNF au moment de l’affaire «des fadettes», ne soit jugée par l’organe disciplinaire des magistrats, un rapport relativise sensiblement les accusations de possibles conflits d’intérêts et de problèmes de management.\nLa cheffe du PNF à l’époque des faits, Eliane Houlette, retraitée depuis 2019, sera jugée à la demande de Matignon les 26 et 27 septembre par le Conseil supérieur de la magistrature (CSM), l’organe disciplinaire des juges. La quasi-condamnation a priori de la magistrate par l’exécutif, qui avait saisi le CSM alors même qu’une inspection interne avait conclu que «les magistrats du PNF ont agi dans le cadre de la loi», selon les propres mots du Premier ministre Jean Castex, ressemblait fort à du harcèlement. «Tous les moyens sont bons pour faire pression sur les magistrats et multiplier les poursuites disciplinaires, peu important que des fautes soient établies ou non !» avait déploré l’USM, syndicat majoritaire chez les juges.",
     "url": "https://www.liberation.fr/societe/police-justice/les-accusations-du-matignon-contre-lex-cheffe-du-parquet-national-financier-se-degonflent-20220914_TA4Z2QKORNDF3BTM2UG75JK54Q/?redirected=1",
     "date": "2022-09-14",
-    "etiquettes": "Eliane Houlette,Éric Dupond-Moretti,Matignon,Parquet National Financier",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 658,
+        "value": "Éric Dupond-Moretti"
+      },
+      {
+        "id": 1341,
+        "value": "Éliane Houlette"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -42444,18 +42836,54 @@
     "contenu": "Mardi 13 septembre, des enquêteurs du Parquet national financier (PNF) se sont présentés au siège de la région Auvergne-Rhône-Alpes, dans le quartier de la Confluence. L’opération avait lieu dans le cadre d’une enquête préliminaire, ouverte en 2020 et portant sur la rémunération d’Ange Sitbon et sur les effectifs des collaborateurs de cabinet du président de la collectivité, Laurent Wauquiez, ainsi que l’a confirmé à Mediacités la secrétaire générale du PNF.\nDans un rapport sur la gestion de la Région entre 2015 et 2018, les magistrats de la Chambre régionale des comptes (CRC) s’étaient émus du salaire d'Ange Sitbon, mirobolant pour un poste qui « avait vocation à être pourvu par le recrutement d’un fonctionnaire ». Après signalement des faits au parquet de Lyon, celui-ci avait indiqué avoir transmis le dossier à l’institution judiciaire chargée de traquer la délinquance financière pendant l’été 2020. Selon l’association anticorruption Anticor, le cas Sitbon pourrait s’apparenter à « un détournement de fonds publics ».",
     "url": "https://www.mediacites.fr/breve/lyon/2022/09/13/affaire-sitbon-et-des-charges-de-mission-perquisition-a-la-region-auvergne-rhone-alpes/",
     "date": "2022-09-13",
-    "etiquettes": "69 - Rhône,Ange Sitbon,Laurent Wauquiez,Les Républicains,Parquet National Financier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2713,
         "value": "69 - Rhône"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 668,
+        "value": "Laurent Wauquiez"
+      },
+      {
+        "id": 923,
+        "value": "Ange Sitbon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -42465,16 +42893,31 @@
     "contenu": "Alexandre Cassaro, le maire Les Républicains de Forbach aurait, selon Streetpress, embauché sa compagne et truqué un appel d'offres. Pas vraiment la politique « exemplaire » qu’il promettait de mener au lendemain de son élection.",
     "url": "https://www.streetpress.com/sujet/1662973215-appel-offres-truque-arrangements-compagne-mairie-maire-forbach-moselle-cassaro-les-republicains-moralisation-vie-politique-clientelisme",
     "date": "2022-09-12",
-    "etiquettes": "57 - Moselle,Alexandre Cassaro,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2748,
         "value": "57 - Moselle"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1519,
+        "value": "Alexandre Cassaro"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -42486,11 +42929,35 @@
     "contenu": "Mis sous pression depuis l’hiver, en plein cycle d’auditions sénatoriales, le gouvernement a présenté fin juillet un nouveau cadre pour la passation de contrats entre l’Etat et les cabinets de conseil, à partir de 2023. Entre le plafonnement du coût unitaire des missions à deux millions d’euros et la limitation des prestations consécutives pour une même entreprise, Stanislas Guerini, ministre de la transformation et de la fonction publiques a également fait de la « transparence » son mantra. Plusieurs révélations ces dernières semaines font toutefois désordre dans ce dossier dans lequel l’exécutif tente de reprendre la main.",
     "url": "https://www.publicsenat.fr/article/parlementaire/cabinets-de-conseil-aucune-lecon-n-a-ete-tiree-reproche-eliane-assassi-218891",
     "date": "2022-09-12",
-    "etiquettes": "Éliane Assassi,Sénat,Stanislas Guerini",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1520,
+        "value": "Éliane Assassi"
+      },
+      {
+        "id": 1521,
+        "value": "Stanislas Guerini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -42502,13 +42969,46 @@
     "contenu": "Le député communiste, qui conteste ces accusations, a été entendu fin août par les enquêteurs dans le cadre d’une enquête du Parquet national financier (PNF) pour « détournement de fonds publics ».",
     "url": "https://www.lemonde.fr/societe/article/2022/09/12/fabien-roussel-soupconne-d-emploi-fictif-a-ete-entendu-en-audition-libre-par-les-enqueteurs_6141299_3224.html",
     "date": "2022-09-12",
-    "etiquettes": "Fabien Roussel,Parquet National Financier,Parti communiste français",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2749,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 492,
+        "value": "Fabien Roussel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 300,
+        "value": "Parti communiste français (PCF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -42518,20 +43018,52 @@
     "contenu": "Des enregistrements sonores, dont Mediapart diffuse des extraits, montrent comment le maire de Saint-Étienne en personne, Gaël Perdriau (LR), ainsi que son directeur de cabinet ont fait chanter le premier adjoint Gilles Artigues, après qu’il a été filmé à son insu avec un escort. Le maire a même menacé son premier adjoint de faire diffuser la vidéo « avec parcimonie » dans « de petits cercles » pour le briser, tandis que son bras droit avertissait la victime en ces termes : « Vos enfants ne s’en remettront pas. »",
     "url": "https://www.mediapart.fr/journal/france/120922/sextape-de-saint-etienne-des-enregistrements-du-maire-prouvent-un-chantage-mafieux",
     "date": "2022-09-12",
-    "etiquettes": "Gaël Perdriau,Gilles Artigues,Les Républicains,Pierre Gauttieri,Samy Kéfi-Jérôme",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2736,
         "value": "42 - Loire"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 937,
+        "value": "Gaël Perdriau"
+      },
+      {
+        "id": 938,
+        "value": "Gilles Artigues"
+      },
+      {
+        "id": 1006,
+        "value": "Pierre Gauttieri"
+      },
+      {
+        "id": 1101,
+        "value": "Samy Kéfi-Jérôme"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 999,
@@ -42539,13 +43071,75 @@
     "contenu": "Dix-neuf prévenus au total, pour beaucoup issus de l’élite policière – à l’époque encore installée à la mythique adresse du 36, quai des Orfèvres à Paris –, vont défiler à partir de lundi 12 septembre et durant trois semaines devant la 11e chambre correctionnelle de Paris. Ils devront notamment s’expliquer des fuites d’informations sur une enquête en cours. Parmi eux, l’ancien patron de la police judiciaire (PJ) Bernard Petit, aujourd’hui âgé de 66 ans, et l’ancienne figure du syndicalisme policier Joaquin Masanet.",
     "url": "https://www.lemonde.fr/societe/article/2022/09/11/des-figures-policieres-devant-la-justice-pour-l-affaire-des-fuites-du-36_6141116_3224.html",
     "date": "2022-09-11",
-    "etiquettes": "Alexandra Mallet,Bernard Petit,Christian Prouteau,Christophe Rocancourt,Jean-Michel Vulach,Joaquin Masanet,Kofi Yamgnane,Marcel Ceccaldi",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 3,
+        "value": "Damien Abad"
+      },
+      {
+        "id": 1197,
+        "value": "Bernard Petit"
+      },
+      {
+        "id": 1200,
+        "value": "Christian Prouteau"
+      },
+      {
+        "id": 1201,
+        "value": "Joaquin Masanet"
+      },
+      {
+        "id": 1202,
+        "value": "Kofi Yamgnane"
+      },
+      {
+        "id": 1203,
+        "value": "Christophe Rocancourt"
+      },
+      {
+        "id": 1522,
+        "value": "Alexandra Mallet"
+      },
+      {
+        "id": 1523,
+        "value": "Jean-Michel Vulach"
+      },
+      {
+        "id": 1524,
+        "value": "Marcel Ceccaldi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 189,
+        "value": "Direction nationale de la Police judiciaire (DNPJ)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2677,
+        "value": "Police"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -42555,18 +43149,38 @@
     "contenu": "Anticor56 a communiqué sur une procédure lancée à l’encontre du maire du Tour du Parc, François Mousset. L'association pointe « l’existence potentielle de faits délictueux » et a adressé un signalement au procureur de la République. Le maire de la commune nie toute malversation et dénonce une manœuvre de ses opposants politiques. Le parquet confirme l’ouverture d’une enquête.",
     "url": "https://www.ouest-france.fr/bretagne/le-tour-du-parc-56370/morbihan-anticor56-denonce-des-agissements-du-maire-du-tour-du-parc-la-justice-ouvre-une-enquete-cc1af032-3054-11ed-9e46-e8e99a9e99a0",
     "date": "2022-09-10",
-    "etiquettes": "56 – Morbihan,François Mousset",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2747,
         "value": "56 - Morbihan"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1525,
+        "value": "François Mousset"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -42576,12 +43190,45 @@
     "contenu": "Au terme d’un long réaménagement de ses structures opérationnelles et juridiques, Chanel a définitivement fait basculer, au printemps, son cœur décisionnel et financier à Londres. Un tour de passe-passe sur lequel le groupe reste d’une discrétion absolue et qui intervient alors que les frères Wertheimer, ses deux actionnaires français, préparent leur succession.",
     "url": "https://landing.glitz.paris/chanel-ep1",
     "date": "2022-09-08",
-    "etiquettes": "Alain Wertheimer,Chanel,Gérard Wertheimer",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 3023,
+        "value": "Royaume-Uni"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1526,
+        "value": "Gérard Wertheimer"
+      },
+      {
+        "id": 1527,
+        "value": "Alain Wertheimer"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 643,
+        "value": "Chanel"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -42592,16 +43239,35 @@
     "contenu": "La France ne parvient pas à geler les villas à Antibes du milliardaire russe Suleyman Kerimov, sous sanctions à la suite de l’invasion de l’Ukraine. Mediapart révèle le traitement judiciaire favorable dont a bénéficié l’oligarque et ses liens avec Nicolas Sarkozy.",
     "url": "https://www.mediapart.fr/journal/international/080922/l-oligarque-russe-qui-embarrasse-la-france",
     "date": "2022-09-08",
-    "etiquettes": "06 – Alpes Maritimes,Les Républicains,Nicolas Sarkozy,Suleyman Kerimov",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2703,
         "value": "06 - Alpes-Maritimes"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1034,
+        "value": "Suleyman Kerimov"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -42613,26 +43279,77 @@
     "contenu": "La Cour de cassation a rejeté mercredi 7 septembre le pourvoi de Rifaat al-Assad, oncle du dirigeant syrien Bachar al-Assad, rendant définitive sa condamnation à quatre ans de prison en France pour des « biens mal acquis ».\nL'ancien vice-président de Syrie, aujourd'hui âgé de 85 ans, avait été condamné en appel à Paris, le 9 septembre 2021, à la même peine qu'en première instance, la cour confirmant aussi la confiscation d'un patrimoine évalué à 90 millions d'euros.",
     "url": "https://www.lefigaro.fr/international/biens-mal-acquis-rifaat-al-assad-definitivement-condamne-en-france-20220907",
     "date": "2022-09-07",
-    "etiquettes": "Bachar al-Assad,Rifaat al-Assad",
-    "departement": [],
-    "personnalites": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2813,
+        "value": "Syrie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1528,
+        "value": "Bachar al-Assad"
+      },
+      {
+        "id": 1529,
+        "value": "Rifaat al-Assad"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1005,
-    "titre": "Christophe Cousin",
+    "titre": "Christophe Cousin rejoint Amazon",
     "contenu": "Formé à l'EFREI et HEC, il a travaillé comme consultant chez PwC avant de rejoindre l'ARCEP (Autorité de régulation des communications électroniques) jusqu'en 2011. Directeur adjoint des études, des affaires économiques et de la prospective du CSA de 2011 à 2015, il est ensuite nommé en septembre 2015, directeur des études, des affaires économiques et de la prospective de cette même autorité, devenue Arcom en 2022. Il y écrit notamment une étude parue en 2022 sur la commercialisation des droits sportifs. En septembre 2022, il part dans le privé et devient lobbyiste chez Amazon France. Sur avis de la référente déontologue de l'Arcom, il ne pourra pas être en contact pendant 3 ans avec l'Autorité.",
     "url": "https://www.lecanardenchaine.fr/acheter-au-numero/",
     "date": "2022-09-07",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1530,
+        "value": "Christophe Cousin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 204,
+        "value": "Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP)"
+      },
+      {
+        "id": 251,
+        "value": "Amazon"
+      },
+      {
+        "id": 644,
+        "value": "Autorité de régulation de la communication audiovisuelle et numérique (ARCOM)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
@@ -42650,31 +43367,61 @@
     "contenu": "La Cour de Cassation a rejeté mercredi 7 septembre le pourvoi de Stéphane Sieczkowski-Samier. L'ancien maire d'Hesdin, et plus jeune maire de France à l'époque, est donc définitivement condamné à deux ans de prison avec sursis et six ans d'inéligibilité pour avoir détourné 77.000 euros pour des bijoux, des montres, des vêtements, des restaurants et du carburant.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/pas-de-calais-l-ancien-maire-d-hesdin-definitivement-condamne-pour-detournements-de-fonds-publics-1662568617",
     "date": "2022-09-07",
-    "etiquettes": "62 – Pas-de-Calais,Stéphane Sieczkowski-Samier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2752,
         "value": "62 - Pas-de-Calais"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 924,
+        "value": "Stéphane Sieczkowski-Samier"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1008,
-    "titre": "Anne Maréchal",
+    "titre": "Anne Maréchal rejoint De Gaulle Fleurance",
     "contenu": "Ancienne élève de l’ENA, elle est titulaire d’une maitrise de droit privé de Lyon III et d’un DEA de droit communautaire et européen de Paris I Sorbonne. Passée par le cabinet d'avocats DLA Piper, elle est ensuite Directrice juridique de l’Autorité des Marchés Financiers (AMF). Elle rejoint en septembre 2022 le cabinet d'avocat De Gaulle Fleurance, qui a pour ambition de « renforcer la pratique boursière et d’être la référence en matière d’actifs numériques et de blockchain », et ce alors qu'elle a activement contribué à l’élaboration de la réglementation sur les actifs numériques au sein de la loi Pacte.",
     "url": "https://www.lemondedudroit.fr/nominations/83298-anne-marechal-directrice-juridique-amf-rejoint-degaulle-fleurance-associee.html",
     "date": "2022-09-06",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1532,
+        "value": "Anne Maréchal"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 645,
+        "value": "De Gaulle Fleurance"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
@@ -42688,13 +43435,18 @@
   },
   {
     "id": 1009,
-    "titre": "Julien Denormandie",
+    "titre": "Julien Denormandie rejoint Sweep",
     "contenu": "De 2012 à 2014, il a été le conseiller commun de la ministre chargée du commerce extérieur Nicole Bricq et du ministre de l'Économie et des Finances Pierre Moscovici, puis le directeur de cabinet adjoint du ministre de l'Économie Emmanuel Macron. Il a occupé trois postes au gouvernement lors du premier quinquennat Macron : Secrétaire d'État auprès du ministre de la Cohésion des territoires, Ministre chargé de la Ville et du Logement puis Ministre de l'Agriculture et de l'Alimentation. Il a été critiqué par les écologistes comme partisan d’une agriculture intensive, proche de la FNSEA et des industriels de l’agroalimentaire. En 2022 il pantoufle chez Sweep, startup de conseil en réduction des émissions de carbone pour les entreprises.",
     "url": "https://www.lemonde.fr/politique/article/2022/09/06/l-ex-ministre-julien-denormandie-recrute-par-une-start-up_6140378_823448.html",
     "date": "2022-09-06",
     "etiquettes": "",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1438,
+        "value": "Julien Denormandie"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -42713,18 +43465,33 @@
     "contenu": "Pascale Gaillot a été reconnue coupable de prise illégale d’intérêts, après avoir voté en faveur d’une subvention de plus de 150 000 euros pour l’association de son mari en 2018. Le tribunal correctionnel de Strasbourg a rendu son délibéré mardi 6 septembre. La présidente de la commission environnement de la région Grand Est est condamnée à payer 10 000 euros d’amende.",
     "url": "https://www.rue89strasbourg.com/presidente-commission-environnement-grand-est-coupable-prise-illegale-interets-244383",
     "date": "2022-09-06",
-    "etiquettes": "67 - Bas-Rhin,Pascale Gaillot",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2757,
         "value": "67 - Bas-Rhin"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1531,
+        "value": "Pascale Gaillot"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -42734,8 +43501,13 @@
     "contenu": "Un an tout juste avant l’ouverture de la Coupe du monde de rugby en France, la justice s’apprête à juger plusieurs personnages parmi les plus influents du monde de l’ovalie, pour des faits de « corruption », « trafic d’influence », « prise illégale d’intérêts » et « abus de confiance » notamment.\nIl s’agit de Bernard Laporte, actuel président de la Fédération française de rugby (FFR) et ancien secrétaire d’État aux sports sous Nicolas Sarkozy et François Fillon, de Serge Simon, son bras droit et vice-président de la FFR, de Mohed Altrad, richissime homme d’affaires et propriétaire du Montpellier Hérault Rugby (MHR), de Claude Atcher, grand argentier du rugby français et directeur général du comité d’organisation de la Coupe du monde 2023 jusqu’à sa mise à pied récente, et de Benoît Rover, bras droit de ce dernier au sein de la société Score XV.\nAu terme d’une enquête préliminaire confiée aux policiers de la Brigade de répression de la délinquance économique (BRDE) fin 2017, le Parquet national financier (PNF) estime, dans un réquisitoire dont Mediapart a pris connaissance, que Bernard Laporte a été acheté par Mohed Altrad, et qu’en retour, le président de la FFR a rendu service à plusieurs reprises au propriétaire du MHR. Ce que les deux hommes et leurs avocats contestent catégoriquement.",
     "url": "https://www.mediapart.fr/journal/france/060922/le-proces-de-la-corruption-dans-le-rugby-business-s-ouvre-paris",
     "date": "2022-09-06",
-    "etiquettes": "Benard Laporte,Brigade de répression de la délinquance économique,Claude Atcher,Mohed Altrad,Montpellier Hérault Rugby,Parquet National Financier,Serge Simon",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 848,
@@ -42744,12 +43516,52 @@
       {
         "id": 896,
         "value": "Mohed Altrad"
+      },
+      {
+        "id": 897,
+        "value": "Claude Atcher"
+      },
+      {
+        "id": 958,
+        "value": "Serge Simon"
       }
     ],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 33,
+        "value": "Brigade de répression de la délinquance économique (BRDE)"
+      },
+      {
+        "id": 194,
+        "value": "Fédération française de rugby (FFR)"
+      },
+      {
+        "id": 236,
+        "value": "Montpellier Hérault Rugby"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
