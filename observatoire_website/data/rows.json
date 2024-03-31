@@ -44025,7 +44025,7 @@
     "contenu": "La Ligue nationale de rugby a décidé de se constituer partie civile au procès de Bernard Laporte et Mohed Altrad, qui débute le 7 septembre. Le président de la Fédération française de Rugby et l’homme d’affaires président du club de Montpellier sont jugés pour soupçons de favoritisme autour du sponsoring de l’équipe de France.",
     "url": "https://www.ouest-france.fr/sport/rugby/rugby-proces-laporte-altrad-la-ligue-nationale-de-rugby-se-constitue-partie-civile-5cf988ca-294d-11ed-91eb-30a470f7d627",
     "date": "2022-08-31",
-    "etiquettes": "Bernard Laporte,Ligue nationale de rugby,Mohed Altrad",
+    "etiquettes": "",
     "departement": [],
     "personnalites": [
       {
@@ -44037,7 +44037,12 @@
         "value": "Mohed Altrad"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 194,
+        "value": "Fédération française de rugby (FFR)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -49097,6 +49102,50 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2052,
+    "titre": "FFR : cinq chefs d’accusation retenus contre Bernard Laporte",
+    "contenu": "Cinq chefs d’accusation ont été retenus à l’encontre de Bernard Laporte, le président de la Fédération française de rugby (FFR), qui sera jugé du 7 au 22 septembre avec Mohed Altrad, le président du club de Montpellier, devant le tribunal correctionnel de Paris. Cette convocation résulte d’une enquête de trois ans dirigée par les services de la Brigade de Répression de la Délinquance Économique (BRDE), ainsi qu’à une série de gardes à vue à l’automne 2020.",
+    "url": "https://www.sudouest.fr/sport/rugby/ffr-cinq-chefs-d-accusation-retenus-contre-bernard-laporte-9620175.php",
+    "date": "2022-03-10",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [
+      {
+        "id": 848,
+        "value": "Bernard Laporte"
+      },
+      {
+        "id": 896,
+        "value": "Mohed Altrad"
+      },
+      {
+        "id": 897,
+        "value": "Claude Atcher"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -62904,22 +62953,6 @@
     "titre": "Festival estival : le maire de Trélazé Marc Goua visé par une plainte pour complicité d’escroquerie",
     "contenu": "",
     "url": "https://www.ouest-france.fr/pays-de-la-loire/trelaze-49800/festival-estival-le-maire-de-trelaze-marc-goua-vise-par-une-plainte-pour-complicite-d-escroquerie-cc990f6c-3249-11ec-bcc4-8c8c72734bad",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 2052,
-    "titre": "FFR : cinq chefs d’accusation retenus contre Bernard Laporte",
-    "contenu": "",
-    "url": "https://www.sudouest.fr/sport/rugby/ffr-cinq-chefs-d-accusation-retenus-contre-bernard-laporte-9620175.php",
     "date": null,
     "etiquettes": "",
     "departement": [],
