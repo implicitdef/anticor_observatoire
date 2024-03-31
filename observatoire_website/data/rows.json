@@ -1,5 +1,106 @@
 [
   {
+    "id": 2111,
+    "titre": "Affaire du maire d'Agde et de la voyante : deux cadres de la société Eiffage mis en examen",
+    "contenu": "Deux cadres de la société de BTP Eiffage ont été mis en examen pour abus de confiance faux et usage de faux dans le cadre de l 'affaire impliquant le maire d'Agde Gilles D'Ettore suspecté de détournement de fonds publics au profit d'une voyante. L'un des deux a été placé en détention provisoire.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/affaire-du-maire-d-agde-et-de-la-voyante-deux-cadres-de-la-societe-eiffage-mis-en-examen-8412548",
+    "date": "2024-03-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1457,
+        "value": "Gilles d'Ettore"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 462,
+        "value": "Eiffage"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2114,
+    "titre": "Ce que l'on sait des soupçons de corruption de députés européens par un réseau d'influence prorusse",
+    "contenu": "Selon les renseignements tchèque et polonais, ce réseau répandait la propagande de Moscou à travers un site internet. Un média tchèque affirme que des élus au Parlement européen ont été payés en contreparties d'interviews.",
+    "url": "https://www.francetvinfo.fr/monde/russie/ce-que-l-on-sait-des-soupcons-de-corruption-de-deputes-europeens-par-un-reseau-d-influence-prorusse_6457298.html#xtor=CS2-765-[autres]-",
+    "date": "2024-03-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2811,
+        "value": "Russie"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1534,
+        "value": "Viktor Medvedtchouk"
+      },
+      {
+        "id": 1535,
+        "value": "Artem Martchevsky"
+      },
+      {
+        "id": 1536,
+        "value": "Filip Dewinter"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 648,
+        "value": "Voice of Europe"
+      },
+      {
+        "id": 649,
+        "value": "Vlaams Belang"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2107,
     "titre": "Quand le Conseil constitutionnel fermait les yeux sur les faux électeurs de Jean Tiberi",
     "contenu": "Des archives de l’institution, rendues publiques, révèlent comment ses membres ont validé l’élection de l’ancien maire du 5ᵉ arrondissement de Paris aux législatives de 1997, en dépit des nombreuses fraudes mises en évidence par leur propre enquête.",
@@ -67,6 +168,52 @@
       }
     ],
     "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2112,
+    "titre": "Christophe Castaner, client, conseiller et ami du cabinet de lobbying Stan",
+    "contenu": "L'ex-ministre de l'intérieur, qui assume deux missions publiques à Marseille et Chamonix, s'est reconverti dans le lobbying. À travers la société qu'il a créée, il revendique des prestations de conseil pour Oyam, la holding qui détient le groupe Stan, mais aussi des coups de main amicaux à son président.",
+    "url": "https://www.lalettre.fr/fr/action-publique_lobbying/2024/03/28/christophe-castaner-client-conseiller-et-ami-du-cabinet-de-lobbying-stan%252C110197447-art",
+    "date": "2024-03-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 663,
+        "value": "Christophe Castaner"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 646,
+        "value": "Stan"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -452,6 +599,59 @@
       {
         "id": 2667,
         "value": "Évasion / fraude fiscale"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2113,
+    "titre": "Les lobbyistes d'Artcher en action pour la loi sur les discriminations capillaires",
+    "contenu": "Portée par le député Olivier Serva, la proposition de loi contre les discriminations capillaires a été soutenue par Kelly Massol, la fondatrice d'une marque de shampoings et de cosmétiques. Cette dernière a mandaté l'agence de com' et de lobbying Artcher pour promouvoir la mesure auprès des parlementaires.",
+    "url": "https://www.lalettre.fr/fr/action-publique_lobbying/2024/03/26/les-lobbyistes-d-artcher-en-action-pour-la-loi-sur-les-discriminations-capillaires%2C110196477-art",
+    "date": "2024-03-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 515,
+        "value": "Olivier Serva"
+      },
+      {
+        "id": 1533,
+        "value": "Kelly Massol"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 647,
+        "value": "Artcher"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
       }
     ],
     "procedure": [],
@@ -23639,7 +23839,7 @@
     "personnes_morales": [
       {
         "id": 104,
-        "value": "LVMH"
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
       }
     ],
     "categorie": [
@@ -28566,7 +28766,7 @@
     "personnes_morales": [
       {
         "id": 104,
-        "value": "LVMH"
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
       },
       {
         "id": 150,
@@ -30699,7 +30899,7 @@
     "personnes_morales": [
       {
         "id": 104,
-        "value": "LVMH"
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
       },
       {
         "id": 152,
@@ -40168,7 +40368,7 @@
       },
       {
         "id": 104,
-        "value": "LVMH"
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
       },
       {
         "id": 327,
@@ -43440,7 +43640,12 @@
     "url": "https://www.lemonde.fr/politique/article/2022/09/06/l-ex-ministre-julien-denormandie-recrute-par-une-start-up_6140378_823448.html",
     "date": "2022-09-06",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 1438,
@@ -43567,14 +43772,29 @@
   },
   {
     "id": 1011,
-    "titre": "Clément Lacoin",
+    "titre": "Clément Lacoin rejoint le groupe SOS",
     "contenu": "Formé à Sciences-Po, il a obtenu un master 2 en droit public avant d’intégrer l’ENA. Il commence sa carrière à la Direction de la Sécurité sociale, successivement comme chargé de mission à la sous-direction du financement de la Sécurité sociale puis chef du bureau de la synthèse financière à la direction de la Sécurité sociale. Il a rejoint le Ministère des solidarités et de la Santé en tant que conseiller budgétaire d’Agnès Buzyn en 2019. Il est ensuite directeur adjoint du cabinet d'Olivier Véran. En 2022 il rejoint le groupe SOS en tant que Directeur Général adjoint de la branche santé.",
     "url": "https://www.lalettredelexpansion.com/0060590-Lacoin-rejoint-SOS-Sante/024-Detail.htm",
     "date": "2022-09-05",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1537,
+        "value": "Clément Lacoin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 103,
+        "value": "Ministère de la Santé"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
@@ -43592,12 +43812,41 @@
     "contenu": "Après l'invalidation par la justice de leur descente dans les locaux du siège de LVMH à l'automne 2019, les limiers de Bercy persistent et attaquent la décision devant la Cour de cassation. Les services de la Direction générale des finances publiques cherchent à percer les mystères d'une holding belge du groupe de Bernard Arnault, qui affiche 18 milliards d'euros d'actifs.\nLe fisc français suspecte depuis plusieurs années le groupe de luxe dirigé par Bernard Arnault de réduire ses impôts en concentrant sa trésorerie au sein de LVMH Finance Belgique. Cette structure, basée à Bruxelles depuis 2008, fait office de « banque interne » pour les filiales du groupe et a longtemps bénéficié d’une fiscalité plus clémente accordée par le royaume de Belgique.",
     "url": "https://www.lalettrea.fr/entreprises_luxe-et-conso/2022/09/05/le-fisc-relance-son-bras-de-fer-contre-lvmh-pour-cibler-son-magot-belge,109809205-ge0",
     "date": "2022-09-05",
-    "etiquettes": "Bernard Arnault,LVMH",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 690,
+        "value": "Bernard Arnault"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Évasion / fraude fiscale"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -43608,18 +43857,33 @@
     "contenu": "Maire de la commune de 2001 à 2020, Patrice Caffin (SE) était jugé au tribunal correctionnel de Melun pour la vente en 2019 d’un bien communal à l’un de ses conseillers municipaux, lui aussi sur le banc des prévenus.\nD’après les réquisitions du procureur de la République, l’ancien maire risque huit mois de prison avec sursis, trois ans d’inéligibilité et 10 000 euros d’amende. L’ancien conseiller risque pour sa part six mois de prison avec sursis, trois ans d’inéligibilité et 30 000 euros d’amende. Son beau-fils, 10 000 euros d’amende, et leur SCI, 40 000 euros d’amende et la confiscation du bien. Le délibéré sera rendu le 10 octobre.",
     "url": "https://www.leparisien.fr/seine-et-marne-77/jouy-le-chatel-juge-pour-complicite-de-prise-illegale-dinteret-lancien-maire-risque-la-prison-lineligibilite-et-une-amende-04-09-2022-BLOVIMDTJVBEZN56PAS6XK7BAY.php?ts=1662299430295",
     "date": "2022-09-03",
-    "etiquettes": "77 - Seine-et-Marne,Patrice Caffin",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2767,
         "value": "77 - Seine-et-Marne"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1343,
+        "value": "Patrice Caffin"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -43629,52 +43893,105 @@
     "contenu": "Le parquet national financier (PNF) a indiqué ce vendredi avoir ouvert une enquête préliminaire notamment pour prise illégale d'intérêts après le signalement de l'ancien directeur général de l'IHU de Strasbourg sur des flux financiers suspects entre cet établissement de santé et l'Ircad.\nCette enquête fait suite à un signalement, dévoilé par l'hebdomadaire Marianne en juin, du Pr Benoît Gallix, ex-directeur général de l'Institut hospitalo-universitaire (IHU) de Strasbourg. Il portait essentiellement sur les flux financiers entre l'IHU et l'Ircad, l'Institut de recherche contre les cancers de l'appareil digestif de Strasbourg, dirigé par le Pr Jacques Marescaux, qui a aussi dirigé l'IHU jusqu'en 2020. Il visait également un ancien projet d'hébergement de patients.",
     "url": "https://www.bfmtv.com/alsace/gestion-de-l-ihu-de-strasbourg-et-de-l-ircad-enquete-du-pnf-pour-prise-illegale_AD-202209020502.html",
     "date": "2022-09-02",
-    "etiquettes": "67 - Bas-Rhin,Benoît Gallix,IHU de Strasbourg,Ircad,Parquet National Financier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2757,
         "value": "67 - Bas-Rhin"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1538,
+        "value": "Benoît Gallix"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 587,
+        "value": "Institut de recherche contre les cancers de l'appareil digestif (IRCAD)"
+      },
+      {
+        "id": 650,
+        "value": "Institut hospitalo-universitaire de Strasbourg"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1014,
     "titre": "Affaire de la Sudec : 3 ans d’inéligibilité requis à l’encontre d’André Thien-Ah-Koon",
-    "contenu": "André Thien-Ah-Koon était jugé ce jeudi 1er septembre à Saint-Pierre pour des faits présumés de prise illégal d’intérêt, à propos de l’embauche de Christelle Mondon.\nFille d’Ary Mondon, un de ses anciens 1er adjoints, et sœur de sa deuxième adjointe, Laurence Mondon, elle s’est retrouvée à la tête de la Sudec, une société publique locale qui s’occupe de la gestion des déchets pour les communes du Tampon, de l’Entre-Deux, de Saint-Joseph et de Saint-Philippe.\nLa procureure de la République a requis une peine de 8 à 10 mois de prison assortie de sursis, 50 000 euros d’amende et 3 ans d’inéligibilité à l’encontre d’André Thien-Ah-Koon.",
+    "contenu": "André Thien-Ah-Koon était jugé ce jeudi 1er septembre à Saint-Pierre pour des faits présumés de prise illégal d’intérêt, à propos de l’embauche de Christelle Mondon. Fille d’Ary Mondon, un de ses anciens 1er adjoints, et sœur de sa deuxième adjointe, Laurence Mondon, elle s’est retrouvée à la tête de la Sudec, une société publique locale qui s’occupe de la gestion des déchets pour les communes du Tampon, de l’Entre-Deux, de Saint-Joseph et de Saint-Philippe.\nLa procureure de la République a requis une peine de 8 à 10 mois de prison assortie de sursis, 50 000 euros d’amende et 3 ans d’inéligibilité à l’encontre d’André Thien-Ah-Koon.",
     "url": "https://la1ere.francetvinfo.fr/reunion/affaire-de-la-sudec-3-ans-d-ineligibilite-requis-a-l-encontre-d-andre-thien-ah-koon-1317368.html",
     "date": "2022-09-01",
-    "etiquettes": "974 – La Réunion,Sudec,Thien-Ah-Koon",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2786,
         "value": "974 - La Réunion"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1539,
+        "value": "Thien-Ah-Koon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 651,
+        "value": "Sudec"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1015,
-    "titre": "Joachim Bokobza",
+    "titre": "Joachim Bokobza rejoint BNP Paribas",
     "contenu": "Passé par l'École nationale supérieure des mines de Paris et par Polytechnique, il commence sa carrière au Trésor, au bureau des Affaires aéronautiques, militaires et navales, avant de prendre la tête du cabinet de Franck Riester au Quai d'Orsay, lorsque celui-ci est nommé Ministre délégué chargé du commerce extérieur et de l’attractivité. En septembre 2022 il part dans le privé en rejoignant la banque BNP Paribas.",
     "url": "https://www.lalettrea.fr/entreprises_finance/2022/09/01/l-ex-dircab--de-franck-riester-part-a-la-bnp,109808604-bre",
     "date": "2022-09-01",
     "etiquettes": "",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 652,
+        "value": "BNP Paribas"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
@@ -47735,7 +48052,7 @@
     "personnes_morales": [
       {
         "id": 104,
-        "value": "LVMH"
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
       }
     ],
     "categorie": [
@@ -49540,7 +49857,7 @@
     "personnes_morales": [
       {
         "id": 104,
-        "value": "LVMH"
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
       }
     ],
     "categorie": [
@@ -49880,7 +50197,7 @@
     "personnes_morales": [
       {
         "id": 104,
-        "value": "LVMH"
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
       }
     ],
     "categorie": [
