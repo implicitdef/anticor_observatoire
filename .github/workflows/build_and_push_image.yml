@@ -22,5 +22,7 @@ jobs:
       # build and push
       - uses: docker/build-push-action@v5
         with:
+          # needed to go into the subdirectory
+          context: observatoire_website
           push: true
           tags: implicitdef/anticor_observatoire:latest
