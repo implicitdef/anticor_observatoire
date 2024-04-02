@@ -1,5 +1,119 @@
 [
   {
+    "id": 2116,
+    "titre": "L’école privée épinglée dans un rapport, des députés dénoncent des « détournements de fonds »",
+    "contenu": "L’élu insoumis Paul Vannier dénonce des mécanismes de « détournement de fonds », notamment via des heures de cours déclarées mais non effectuées.",
+    "url": "https://www.huffingtonpost.fr/politique/article/l-ecole-privee-epinglee-dans-un-rapport-des-deputes-denoncent-des-detournements-de-fonds_232034.html",
+    "date": "2024-04-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 553,
+        "value": "Paul Vannier"
+      },
+      {
+        "id": 572,
+        "value": "Christopher Weissberg"
+      },
+      {
+        "id": 659,
+        "value": "Amélie Oudéa-Castéra"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 213,
+        "value": "Ministère de l'Éducation nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2665,
+        "value": "Éducation / Enseignement"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2118,
+    "titre": "Paris : l’ex-adjoint à l’urbanisme d’Anne Hidalgo condamné pour pantouflage dans des groupes immobiliers",
+    "contenu": "Jean-Louis Missika, directeur de campagne de la maire de Paris lors des dernières municipales, vient d’être condamné par le tribunal correctionnel pour des missions qu’il avait acceptées dans deux groupes immobiliers à l’issue de son mandat en tant qu’adjoint en charge de l’urbanisme.",
+    "url": "https://www.leparisien.fr/paris-75/paris-lex-adjoint-a-lurbanisme-danne-hidalgo-condamne-pour-pantouflage-dans-des-groupes-immobiliers-02-04-2024-4YGQPBFZ4NF6FEA7CCX5N2TCVU.php?xtor=AD-366",
+    "date": "2024-04-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 657,
+        "value": "Anne Hidalgo"
+      },
+      {
+        "id": 805,
+        "value": "Jean-Louis Missika"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 33,
+        "value": "Brigade de répression de la délinquance économique (BRDE)"
+      },
+      {
+        "id": 664,
+        "value": "Novaxia"
+      },
+      {
+        "id": 665,
+        "value": "Gecina"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      },
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2690,
+        "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2111,
     "titre": "Affaire du maire d'Agde et de la voyante : deux cadres de la société Eiffage mis en examen",
     "contenu": "Deux cadres de la société de BTP Eiffage ont été mis en examen pour abus de confiance faux et usage de faux dans le cadre de l 'affaire impliquant le maire d'Agde Gilles D'Ettore suspecté de détournement de fonds publics au profit d'une voyante. L'un des deux a été placé en détention provisoire.",
@@ -44610,21 +44724,45 @@
   },
   {
     "id": 1029,
-    "titre": "Julien Nivot",
+    "titre": "Julien Nivot rejoint Ledger",
     "contenu": "Formé à l'université Paris-Saclay, l'ESCP et Panthéon Assas, où il écrit une thèse sur l'impact du développement des cryptoactifs sur le droit financier, il travaille chez Amundi avant de rejoindre l'Autorité des Marchés Financiers (AMF) en 2018, où il travaille notamment à la régulation des cryptoactifs dans la division Fintech, innovation et compétitivité. En avril 2022, il rejoint la société Ledger, qui commercialise des portefeuilles pour cryptomonnaies, en tant que responsable des affaires réglementaires.",
     "url": "https://www.politico.eu/newsletter/politico-eu-influence/crypto-lobbying-crypto-hiring-email-etiquette-2/",
     "date": "2022-08-11",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1547,
+        "value": "Julien Nivot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 178,
+        "value": "Autorité des Marchés Financiers (AMF)"
+      },
+      {
+        "id": 659,
+        "value": "Ledger"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2661,
+        "value": "Cryptomonnaies"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -44687,18 +44825,42 @@
     "contenu": "Après une première plainte déposée contre le premier magistrat de la ville, lundi 20 décembre 2021, pour prise illégale d'intérêt, l'élu d'opposition Christopher Albarao vient de déposer une nouvelle plainte auprès de la procureure de la République, lundi 8 août, pour « faux en écriture publique et usage de faux en écriture publique ».\nIl estime que le maire a manipulé, pour son intérêt personnel, le compte rendu du conseil municipal du 14 janvier, qui avait été précipité à la suite de la première plainte. « Dans cette affaire, le maire est accusé de prise d'intérêt et prise illégale d'intérêt or, pour sa défense au tribunal administratif, il justifie celle-ci sur un document officiel qu'il produit lui-même, entaché d'erreurs – soit mineures –, mais qui sont de nature à influencer dans son sens la décision du juge administratif », écrit Christopher Albarao dans sa plainte.",
     "url": "https://www.lanouvellerepublique.fr/issoudun/le-maire-d-issoudun-andre-laignel-vise-par-une-plainte-pour-faux-en-ecriture-publique",
     "date": "2022-08-09",
-    "etiquettes": "36 - Indre,André Laignel,Christopher Albarao",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2730,
         "value": "36 - Indre"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1548,
+        "value": "Christopher Albarao"
+      },
+      {
+        "id": 1549,
+        "value": "André Laignel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -44708,16 +44870,31 @@
     "contenu": "L'ancien maire de Levallois-Perret va sortir de prison. La cour d'appel de Paris a annoncé ce jeudi la libération conditionnelle de Patrick Balkany, condamné à cinq ans de prison pour blanchiment de fraude fiscale, et incarcéré depuis février dernier à la prison de Fleury-Mérogis, dans l'Essonne.",
     "url": "https://www.bfmtv.com/police-justice/patrick-balkany-obtient-une-liberation-conditionnelle-et-sortira-de-prison-ce-vendredi_AD-202208040144.html",
     "date": "2022-08-04",
-    "etiquettes": "92 – Hauts de Seine,Les Républicains,Patrick Balkany",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2765,
         "value": "92 - Hauts-de-Seine"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 646,
+        "value": "Patrick Balkany"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -44729,13 +44906,58 @@
     "contenu": "Cinq enfants du défunt président gabonais Omar Bongo Ondimba ont été mis en examen à Paris en juin et juillet, a-t-on appris ce vendredi de source judiciaire. Parmi eux figurent Pascaline Bongo, 66 ans, fille aînée et ex-directrice de cabinet de son père, Omar Denis Jr Bongo, 28 ans, également petit-fils du président congolais Denis Sassou Nguesso, Jeanne Matoua, 38 ans, et Joseph Matoua, 40 ans, a précisé à l’AFP la même source, confirmant une information d’Africa Intelligence.",
     "url": "https://www.leparisien.fr/faits-divers/biens-mal-acquis-gabonais-cinq-enfants-domar-bongo-mis-en-examen-en-france-29-07-2022-4NBC5BHYAREN3KMWU3UJGCQ5KU.php?ts=1659191445256",
     "date": "2022-07-29",
-    "etiquettes": "Denis Sassou Nguesso,Jeanne Matoua,Joseph Matoua,Omar Denis Jr Bongo,Pascaline Bongo,Transparency International France",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2809,
+        "value": "République du Congo"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1169,
+        "value": "Pascaline Bongo"
+      },
+      {
+        "id": 1540,
+        "value": "Denis Sassou Nguesso"
+      },
+      {
+        "id": 1550,
+        "value": "Jeanne Matoua"
+      },
+      {
+        "id": 1551,
+        "value": "Joseph Matoua"
+      },
+      {
+        "id": 1552,
+        "value": "Omar Denis Junior Bongo Ondimba"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 265,
+        "value": "Transparency International"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -44745,18 +44967,33 @@
     "contenu": "Cédric Cornet, le maire de Gosier, à la Guadeloupe, a été interpellé et placé en garde à vue « à sa descente d’avion » mercredi 27 juillet, a annoncé le procureur de la République de Pointe-à-Pitre, Patrick Desjardins, à l’Agence France-Presse. M. Cornet était recherché depuis le 20 juillet dans une affaire de détournement de fonds présumés.\nUn mandat de recherche avait été délivré à l’encontre de l’élu guadeloupéen, qui ne s’était pas présenté à une convocation. Le procureur de la République de Pointe-à-Pitre avait alors parlé d’une « volonté affichée de ne pas honorer » cette convocation de la part de l’édile.",
     "url": "https://www.lemonde.fr/societe/article/2022/07/28/guadeloupe-le-maire-de-gosier-place-en-garde-a-vue_6136416_3224.html",
     "date": "2022-07-28",
-    "etiquettes": "971 – Guadeloupe,Cédric Cornet",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2783,
         "value": "971 - Guadeloupe"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1014,
+        "value": "Cédric Cornet"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -44766,12 +45003,32 @@
     "contenu": "TotalEnergies annonce de nouveaux profits records : plus de 17,7 milliards d’euros pour le premier semestre 2022. En parallèle, le groupe n’a pas payé d’impôts en France en 2020 et 2021. Une pratique habituelle chez ce géant de l’énergie.\nEn 2020, année de la pandémie, une bonne part de l’économie de nombreux pays, dont la France, était à l’arrêt. Cette année-là, TotalEnergies a annoncé avoir réalisé 5,9 milliards d’euros de pertes mondiales cumulées, dont 0,9 milliard euros environ en France. Il paraît donc logique que le groupe n’ait pas payé d’impôt sur les bénéfices l’année suivante. En 2020, Total a quand même versé 7,6 milliards d’euros à ses actionnaires, malgré ses pertes abyssales.\nPlus surprenant, ce rapport nous apprend que TotalEnergies n’a pas payé d’impôt sur les bénéfices également en 2020. Le groupe avait pourtant réalisé en 2019 un bénéfice mondial très confortable de plus de 10 milliards d’euros. Le groupe précise qu’il a réalisé cette année-là une perte fiscale en France, selon les règles fiscales françaises en vigueur, qui l’ont conduit à ne pas y payer d’impôts sur les sociétés. Il a même encaissé un chèque de 124 millions d’euros de la part du Trésor public en remboursement d’un trop perçu. Ici, l’étonnement est de rigueur. Comment un groupe qui fait 10 milliards d’euros de profits peut n’en avoir réalisé aucun dans un pays où son siège est installé et qui représente 21 % de son activité, 35 % de ses effectifs, 44 % du capital social de toutes les entités juridiques du groupe, ou encore 66,5 % des bénéfices cumulés et non distribués par le groupe ?",
     "url": "https://basta.media/superprofits-totalenergies-n-a-pas-paye-d-impot-sur-les-societes-en-france-depuis-deux-ans",
     "date": "2022-07-28",
-    "etiquettes": "Total,TotalEnergies",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 150,
+        "value": "TotalEnergies"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -44782,7 +45039,7 @@
     "contenu": "Le 9 mars, le maire de Guérande (Loire-Atlantique) avait déposé plainte pour détournement de fonds publics après des soupçons d’irrégularités sur des paiements d’heures supplémentaires. L’enquête judiciaire vise le service de la police municipale. Plus de 200 000 € au total auraient été détournés.",
     "url": "https://www.ouest-france.fr/pays-de-la-loire/guerande-44350/detournement-de-fonds-publics-a-guerande-l-enquete-cible-la-police-municipale-3a4c9100-0cfb-11ed-adc0-0d21530731c8",
     "date": "2022-07-27",
-    "etiquettes": "44 – Loire-Atlantique",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2738,
@@ -44791,9 +45048,19 @@
     ],
     "personnalites": [],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -44803,33 +45070,81 @@
     "contenu": "Le service de streaming a commencé à déclarer en France le chiffre d’affaires réalisé auprès des abonnés français, et affiche donc 1,2 milliard d’euros de revenus en 2021. Mais sur la même année, la filiale française n'a engrangé que 22,3 millions d’euros de bénéfices opérationnels courant, soit une marge lilliputienne de 2%, et un impôt proportionnel : 6,5 millions d’euros. La filiale française reverse en effet 85% de son chiffre d’affaires à d’autres entités du géant du streaming, essentiellement la société néerlandaise Netflix International BV. Car elle est juste un simple distributeur du service, qui n’empoche qu’une commission de distribution.",
     "url": "https://www.capital.fr/entreprises-marches/netflix-paie-toujours-un-impot-symbolique-en-france-1442490",
     "date": "2022-07-26",
-    "etiquettes": "Netflix",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 29,
+        "value": "Netflix"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1041,
-    "titre": "Charlotte Buliard",
+    "titre": "Charlotte Buliard rejoint Hopium",
     "contenu": "Passée par le conseil chez Accenture, elle a travaillé pour la Caisse des Dépôts puis la Société du Grand Paris. Au Trésor, elle est ensuite Attachée transports, infrastructures et développement durable de 2018 à 2020. Elle rejoint ensuite le cabinet du ministre délégué chargé des transports, Jean-Baptiste Djebbari. Comme lui, elle rejoint après les élections le constructeur de voitures à hydrogènes Hopium dont elle prend en charge le lobbying en juillet 2022.",
     "url": "https://www.lalettrea.fr/entreprises_transports/2022/07/25/djebbari-place-son-ex-conseillere-diplomatique-a-la-tete-du-lobbying-d-hopium,109801674-bre",
     "date": "2022-07-25",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1556,
+        "value": "Jean-Baptiste Djebbari"
+      },
+      {
+        "id": 1557,
+        "value": "Charlotte Buliard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 186,
+        "value": "Ministère de l'Écologie"
+      },
+      {
+        "id": 663,
+        "value": "Hopium"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -44840,7 +45155,7 @@
     "contenu": "Le parquet de Nîmes a requis un non-lieu dans le dossier Argan-Amazon à Fournès et la vente de terrains, a confirmé lundi 25 juillet, le procureur Eric Maurel.\nUne plainte avait été déposée et adressée au procureur par un habitant de Fournès dénonçant des faits de favoritisme lors de la vente de terrains. Il était ainsi reproché à des élus de la commune d'avoir des liens familiaux avec les vendeurs des terrains acquis par Argan ou encore d'avoir participé au vote lors du conseil municipal.",
     "url": "https://www.midilibre.fr/2022/07/26/fournes-des-requisitions-de-non-lieu-dans-le-dossier-amazon-et-les-soupcons-de-prise-illegale-dinterets-10456803.php",
     "date": "2022-07-25",
-    "etiquettes": "30 – Gard,Amazon",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2724,
@@ -44848,9 +45163,24 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 251,
+        "value": "Amazon"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2669,
+        "value": "Grande consommation"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -44861,13 +45191,63 @@
     "contenu": "Après la mise en examen, fin mai, de l’ex-patron du Louvre, Jean-Luc Martinez, deux anciens cadres de l’Agence France Muséums (AFM) ont été placés en garde à vue lundi matin dans les locaux de l’Office central de lutte contre le trafic de biens culturels (OCBC), selon Libération. Conservateurs du patrimoine, Jean-François Charnier et Noëmi Daucé sont soupçonnés d’avoir favorisé la vente d’antiquités égyptiennes au Louvre Abou Dhabi malgré plusieurs alertes sur leur origine possiblement frauduleuse. Au total, selon les enquêteurs, sept pièces de provenance illicite ont été acquises par l’intermédiaire de l’expert Christophe Kunicki pour plus de 50 millions d’euros, après être passées entre les mains de l’AFM. Créée en 2007 dans le cadre de l’accord intergouvernemental signé entre la France et les Emirats arabes unis, portant sur plus d’un milliard d’euros, cette structure avait notamment pour mission de conseiller le nouveau musée sur sa politique d’acquisition.",
     "url": "https://www.liberation.fr/societe/police-justice/trafic-dantiquites-au-louvre-abou-dhabi-deux-conservateurs-francais-en-garde-a-vue-20220725_HFG47SMEUNCADOFZDFHDWWJ4M4/?redirected=1",
     "date": "2022-07-25",
-    "etiquettes": "Agence France Muséums,Jean-François Charnier,Jean-Luc Martinez,Louvre Abou Dhabi,Noëmi Daucé,Office central de lutte contre le trafic de biens culturels",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2794,
+        "value": "Émirats arabes unis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1553,
+        "value": "Jean-François Charnier"
+      },
+      {
+        "id": 1554,
+        "value": "Jean-Luc Martinez"
+      },
+      {
+        "id": 1555,
+        "value": "Noëmi Daucé"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 660,
+        "value": "Office central de lutte contre le trafic de biens culturels (OCBC)"
+      },
+      {
+        "id": 661,
+        "value": "Agence France-Muséums"
+      },
+      {
+        "id": 662,
+        "value": "Musée du Louvre"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2657,
+        "value": "Art"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -44877,13 +45257,50 @@
     "contenu": "Le Parquet national financier a ouvert, le 1er juillet, une enquête visant les biens acquis en France par des oligarques russes proches du président Vladimir Poutine, a fait savoir, lundi 25 juillet, une source proche du dossier, confirmant une information du Parisien.\nCette enquête a été confiée à l’office central pour la répression de la grande délinquance financière (OCRGDF). Elle survient après que l’ONG anticorruption Transparency International France (TIF) a déposé une plainte, fin mai, à Paris pour notamment des faits de « blanchiment » visant de possibles biens mal acquis en France par « des hommes d’affaires et hauts fonctionnaires proches de Vladimir Poutine ».",
     "url": "https://www.lemonde.fr/societe/article/2022/07/25/une-enquete-ouverte-par-le-parquet-financier-sur-les-biens-d-oligarques-russes-en-france_6136086_3224.html?utm_medium=Social&amp;utm_source=Twitter#Echobox=1658764980",
     "date": "2022-07-25",
-    "etiquettes": "Parquet National Financier,Transparency International France,Vladimir Poutine",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2811,
+        "value": "Russie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1092,
+        "value": "Vladimir Poutine"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 64,
+        "value": "Office central pour la répression de la grande délinquance financière (OCRGDF)"
+      },
+      {
+        "id": 265,
+        "value": "Transparency International"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -44945,16 +45362,31 @@
     "contenu": "Le parquet de Draguignan a ouvert une enquête préliminaire sur les soupçons de conflits d’intérêts, de prise illégale d’intérêts et de trafic d’influences qui planent sur le projet de prison prévu pour 2027 sur la commune du Muy.\nRévélée par Anticor, l’association dénonçant la corruption dans la classe politique et l’administration en avril dernier, l’affaire implique Frédéric Rannou, ancien directeur général adjoint de Dracénie Provence Verdon agglomération (DPVa). Une fois ses fonctions quittées en septembre 2020, l’ancien fonctionnaire est devenu directeur général de deux sociétés qui détiennent des parcelles agricoles en friches, situées aux Ferrières: Hortifrance et Riviera Plants. Terrain qui a été choisi par l’Agence publique pour l’immobilier de la justice (Apij) pour y construire la future prison. Une manœuvre qui pourrait rapporter gros en cas de développement économique sur ses parcelles une fois l’emplacement de la prison défini.",
     "url": "https://www.varmatin.com/justice/possible-conflit-dinterets-autour-de-la-future-prison-du-muy-une-enquete-preliminaire-sur-le-projet-ouverte-782716",
     "date": "2022-07-22",
-    "etiquettes": "83 - Var,Anticor,Frédéric Rannou",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2773,
         "value": "83 - Var"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1558,
+        "value": "Frédéric Rannou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
