@@ -13,15 +13,14 @@ jobs:
         working-directory: ./observatoire_website
     steps:
       - uses: actions/checkout@v4
+      # login into docker hub
       - uses: docker/login-action@v3
         with:
-          # TBD auth method depends on the registry
-          # see https://github.com/docker/login-action
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
 
+      # build and push
       - uses: docker/build-push-action@v5
         with:
           push: true
-          # TBD
-          #tags: yourusername/yourapp:latest
+          tags: implicitdef/anticor_observatoire:latest
