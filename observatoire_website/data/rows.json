@@ -1,5 +1,111 @@
 [
   {
+    "id": 2120,
+    "titre": "L’ancien maire de Villejuif Franck Le Bohellec sera jugé pour trafic d’influence et favoritisme",
+    "contenu": "Franck Le Bohellec comparaîtra devant le tribunal correctionnel de Créteil (Val-de-Marne) le 16 mai pour trafic d’influence et favoritisme dans l’affaire de la Halle des sports. Six autres personnes sont poursuivies, dont son ancien directeur général adjoint et le promoteur du projet, Demathieu et Bard Immobilier.",
+    "url": "https://www.leparisien.fr/val-de-marne-94/lancien-maire-de-villejuif-franck-le-bohellec-sera-juge-pour-trafic-dinfluence-et-favoritisme-03-04-2024-2O6QH4QPHFAU7LEBV55RSB3FXA.php?ts=1712142878902",
+    "date": "2024-04-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2781,
+        "value": "94 - Val-de-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1564,
+        "value": "Franck Le Bohellec"
+      },
+      {
+        "id": 1567,
+        "value": "Natalie Gandais"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 672,
+        "value": "Demathieu Bard Immobilier (DBI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2121,
+    "titre": "Le PNF a ouvert une enquête préliminaire visant Edouard Philippe et une élue havraise",
+    "contenu": "Des perquisitions sont en cours, mercredi 3 avril, à l’hôtel de ville du Havre et au siège de la communauté urbaine dans le cadre d’une enquête ouverte par le Parquet national financier pour « prise illégale d’intérêts, détournement de fonds publics, favoritisme et harcèlement moral ».",
+    "url": "https://www.lemonde.fr/societe/article/2024/04/03/le-pnf-a-ouvert-une-enquete-preliminaire-visant-edouard-philippe-et-une-elue-havraise_6225791_3224.html",
+    "date": "2024-04-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2763,
+        "value": "76 - Seine-Maritime"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1456,
+        "value": "Édouard Philippe"
+      },
+      {
+        "id": 1565,
+        "value": "Stéphanie de Bazelaire"
+      },
+      {
+        "id": 1566,
+        "value": "Claire-Sophie Tasias"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 12,
+        "value": "Horizons"
+      },
+      {
+        "id": 670,
+        "value": "LH French Tech"
+      },
+      {
+        "id": 671,
+        "value": "Cité numérique"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2119,
     "titre": "Une magistrate proche d’Éric Dupond-Moretti arrêtée par la police anticorruption",
     "contenu": "La juge Hélène Gerhards, au cœur d’une enquête sur des soupçons d’infiltration de la mafia corse et de possibles détournements de fonds publics, a été placée en garde à vue. Une affaire explosive au vu de ses liens anciens avec l’actuel ministre de la justice.",
@@ -186,6 +292,42 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2122,
+    "titre": "Soupçons de corruption de l’ancien maire de Saint-Jory : nouvelle mise en examen dans l’affaire Thierry Fourcassier",
+    "contenu": "Un deuxième apporteur d’affaires est sous le coup d’une mise en examen pour corruption active et blanchiment habituel. L’affaire Thierry Fourcassier, du nom de l’ancien maire de Saint-Jory soupçonné d’avoir touché des pots-de-vin sur des transactions immobilières, se poursuit.",
+    "url": "https://www.ladepeche.fr/2024/04/02/info-la-depeche-corruption-pres-de-toulouse-nouvelle-mise-en-examen-dans-laffaire-fourcassier-11865630.php",
+    "date": "2024-04-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2725,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 605,
+        "value": "Thierry Fourcassier"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2111,
