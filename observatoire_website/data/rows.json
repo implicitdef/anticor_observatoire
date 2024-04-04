@@ -1,5 +1,45 @@
 [
   {
+    "id": 2124,
+    "titre": "Affaire Bernardini : la défense du maire d’Istres met en difficulté sa première adjointe",
+    "contenu": "Éternelle dauphine du maire d'Istres, Nicole Joulia a été entendue par les enquêteurs dans le cadre de l'affaire de corruption au sein de municipalité menée par le parquet national financier. C'est François Bernardini lui-même qui, pour se défendre, a pointé certaines responsabilités de l'élue.",
+    "url": "https://marsactu.fr/affaire-bernardini-la-defense-du-maire-distres-met-en-difficulte-sa-premiere-adjointe/",
+    "date": "2024-04-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1568,
+        "value": "François Bernardini"
+      },
+      {
+        "id": 1569,
+        "value": "Nicole Joulia"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2120,
     "titre": "L’ancien maire de Villejuif Franck Le Bohellec sera jugé pour trafic d’influence et favoritisme",
     "contenu": "Franck Le Bohellec comparaîtra devant le tribunal correctionnel de Créteil (Val-de-Marne) le 16 mai pour trafic d’influence et favoritisme dans l’affaire de la Halle des sports. Six autres personnes sont poursuivies, dont son ancien directeur général adjoint et le promoteur du projet, Demathieu et Bard Immobilier.",
@@ -180,6 +220,108 @@
     "a_la_une": true
   },
   {
+    "id": 2125,
+    "titre": "Affaire des primes à l'Aselqo : une audience-fleuve et un procès qui reprendra en juin",
+    "contenu": "Cinq anciens cadres et l'ex-président de l'Aselqo ont comparu ce mardi dans l'affaire des primes qui avaient ébranlé l'association d'animation urbaine à Orléans. 370.000 euros auraient été détournés en six ans. Après 10 heures d'audience, le procès a été suspendu jusqu'en juin.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/affaire-des-primes-a-l-aselqo-une-audience-fleuve-et-un-proces-qui-reprendra-en-juin-1720963",
+    "date": "2024-04-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2739,
+        "value": "45 - Loiret"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1570,
+        "value": "Lionel Beaumont"
+      },
+      {
+        "id": 1571,
+        "value": "Bertrand Perrier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 673,
+        "value": "Anim'Orléans (ex-Aselqo)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2127,
+    "titre": "Argent détourné, favoritisme, népotisme, marchés frauduleux... Le volet financier du procès Semiacs ajourné ce mardi à Nice",
+    "contenu": "Plus de dix ans après les faits, le procès de l’affaire de la Semiacs a débuté, ce mardi, devant le tribunal correctionnel de Nice, pour se terminer peu après midi. Il est reporté sine die.",
+    "url": "https://www.nicematin.com/justice/argent-detourne-favoritisme-nepotisme-marches-frauduleux-le-volet-financier-du-proces-semiacs-ajourne-ce-mardi-a-nice-913125",
+    "date": "2024-04-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1573,
+        "value": "Henri Alonzo"
+      },
+      {
+        "id": 1574,
+        "value": "Thomas Oullion"
+      },
+      {
+        "id": 1575,
+        "value": "Laurent Paul"
+      },
+      {
+        "id": 1576,
+        "value": "Cyril Leclerc"
+      },
+      {
+        "id": 1577,
+        "value": "Benoit Kandel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 675,
+        "value": "Semiacs"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2116,
     "titre": "L’école privée épinglée dans un rapport, des députés dénoncent des « détournements de fonds »",
     "contenu": "L’élu insoumis Paul Vannier dénonce des mécanismes de « détournement de fonds », notamment via des heures de cours déclarées mais non effectuées.",
@@ -231,6 +373,59 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
+  },
+  {
+    "id": 2123,
+    "titre": "L’ex-ministre Xavier Darcos condamné à Paris pour le recrutement d’un associé à l’Institut de France",
+    "contenu": "L’ex-ministre Xavier Darcos a été condamné à un an de prison avec sursis mardi à Paris pour prise illégale d’intérêts pour avoir recruté en tant que chancelier de l’Institut de France un associé d’affaires sans avoir signalé leurs liens. L’ancien ministre de l’Education nationale (2007-2009), âgé de 76 ans, a également été condamné à trois ans d’inéligibilité dans le cadre de cette comparution sur reconnaissance préalable de culpabilité (CRPC), sorte de plaider-coupable.",
+    "url": "https://www.mediapart.fr/journal/fil-dactualites/020424/l-ex-ministre-xavier-darcos-condamne-paris-pour-le-recrutement-d-un-associe-l-institut-de-france",
+    "date": "2024-04-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1090,
+        "value": "Xavier Darcos"
+      },
+      {
+        "id": 1091,
+        "value": "David Teillet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 311,
+        "value": "Institut de France"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2690,
+        "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
   },
   {
     "id": 2118,
@@ -294,6 +489,32 @@
     "a_la_une": true
   },
   {
+    "id": 2128,
+    "titre": "Soupçon de favoritisme à la communauté de communes du Pays de Bitche : le procureur de la République saisi",
+    "contenu": "Le procureur de la République de Sarreguemines a reçu une dizaine de signalements concernant l’attribution d’un marché par la communauté de communes du Pays de Bitche. Ces signalements, basés sur un rapport de la Chambre régionale des comptes, pointent un certain nombre d’irrégularités dans le choix d’un prestataire. Une enquête pourrait être ouverte.",
+    "url": "https://www.republicain-lorrain.fr/faits-divers-justice/2024/04/02/soupcon-de-favoritisme-a-la-communaute-de-communes-du-pays-de-bitche-le-procureur-de-la-republique-saisi",
+    "date": "2024-04-02",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 96,
+        "value": "Chambre régionale des comptes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2122,
     "titre": "Soupçons de corruption de l’ancien maire de Saint-Jory : nouvelle mise en examen dans l’affaire Thierry Fourcassier",
     "contenu": "Un deuxième apporteur d’affaires est sous le coup d’une mise en examen pour corruption active et blanchiment habituel. L’affaire Thierry Fourcassier, du nom de l’ancien maire de Saint-Jory soupçonné d’avoir touché des pots-de-vin sur des transactions immobilières, se poursuit.",
@@ -313,6 +534,51 @@
       }
     ],
     "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2126,
+    "titre": "Une administratrice de Toulon Habitat Méditerranée \"témoin assisté\" dans une affaire de trafic d'influence",
+    "contenu": "Une administratrice du bailleur social Toulon Habitat Méditerranée a été placée sous le statut de témoin assisté ce jeudi dans une affaire de trafic d'influence.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/une-administratrice-de-toulon-habitat-mediterranee-temoin-assiste-dans-une-affaire-de-trafic-d-influence-5912755",
+    "date": "2024-04-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1572,
+        "value": "Jacqueline Mathéron"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 526,
+        "value": "Toulon Habitat Méditerranée"
+      },
+      {
+        "id": 674,
+        "value": "Association varoise d’action aux locataires (AVAL)"
+      }
+    ],
     "categorie": [
       {
         "id": 2652,
