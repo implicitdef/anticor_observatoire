@@ -1,5 +1,151 @@
 [
   {
+    "id": 2129,
+    "titre": "Caluire-et-Cuire. Le maire Philippe Cochet jugé en 2025 pour détournement de fonds publics",
+    "contenu": "Le maire de Caluire-et-Cuire et son épouse, Lætitia, seront jugés en 2025 par le tribunal correctionnel de Paris. Le couple devra répondre de faits de « détournement de fonds publics » et « fraude pour l’obtention d’une allocation d’aide aux travailleurs privés d’emploi ». La justice soupçonne Lætitia Cochet d’avoir bénéficié d’un emploi, quasi-fictif, d’attachée parlementaire auprès de son mari, qui a été député entre 2002 et 2017. L’épouse du maire de Caluire aurait également bénéficié d’indemnités de chômage indues, à la suite de son licenciement, décidé après la perte du mandat de député de Philippe Cochet en 2017.",
+    "url": "https://tribunedelyon.fr/justice/caluire-et-cuire-le-maire-philippe-cochet-juge-en-2025-pour-detournement-de-fonds-publics/",
+    "date": "2024-04-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1585,
+        "value": "Philippe Cochet"
+      },
+      {
+        "id": 1586,
+        "value": "Lætitia Cochet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2130,
+    "titre": "Ciblé par le PNF, le financier Dominique Romano ne quitte plus Israël",
+    "contenu": "Deux mois après avoir été entendu par le Parquet national financier, qui enquête sur les profits générés par ses délits d'initiés à la Bourse de New York, l'homme d'affaires Dominique Romano s'est relocalisé en Israël, où il est resté.",
+    "url": "https://www.lalettre.fr/fr/entreprises_finance/2024/04/04/cible-par-le-pnf-le-financier-dominique-romano-ne-quitte-plus-israel%2C110199732-art?cxt=PUB&utm_source=LLA&utm_medium=email&utm_campaign=AUTO_EDIT_SOM_PROS&did=109825881",
+    "date": "2024-04-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2800,
+        "value": "Israël"
+      },
+      {
+        "id": 2796,
+        "value": "États-Unis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1587,
+        "value": "Dominique Romano"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2131,
+    "titre": "L'Agence française anticorruption se penche sur les organismes publics de recherche",
+    "contenu": "L’Agence française anticorruption s'intéresse au monde de la recherche. Quatre organismes publics ont reçu des contrôles d'initiative en 2023 : l'ANR, le CNRS, l'Inserm et l'Inria.",
+    "url": "https://www.lalettre.fr/fr/action-publique_operateurs-de-l-etat/2024/04/04/l-agence-francaise-anticorruption-se-penche-sur-les-organismes-publics-de-recherche%2C110199989-bre?cxt=PUB&utm_source=LLA&utm_medium=email&utm_campaign=AUTO_EDIT_SOM_PROS&did=109825881",
+    "date": "2024-04-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 74,
+        "value": "Agence française anticorruption (AFA)"
+      },
+      {
+        "id": 686,
+        "value": "Agence nationale de la recherche (ANR)"
+      },
+      {
+        "id": 687,
+        "value": "Centre national de la recherche scientifique (CNRS)"
+      },
+      {
+        "id": 688,
+        "value": "Institut national de la santé et de la recherche médicale (INSERM)"
+      },
+      {
+        "id": 689,
+        "value": "Institut national de recherche en sciences et technologies du numérique (INRIA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2124,
     "titre": "Affaire Bernardini : la défense du maire d’Istres met en difficulté sa première adjointe",
     "contenu": "Éternelle dauphine du maire d'Istres, Nicole Joulia a été entendue par les enquêteurs dans le cadre de l'affaire de corruption au sein de municipalité menée par le parquet national financier. C'est François Bernardini lui-même qui, pour se défendre, a pointé certaines responsabilités de l'élue.",
@@ -13764,7 +13910,7 @@
       },
       {
         "id": 2659,
-        "value": "Banque / Capital-risque"
+        "value": "Banque / Finance / Capital-risque"
       }
     ],
     "procedure": [],
@@ -29370,7 +29516,7 @@
       },
       {
         "id": 273,
-        "value": "Polytechnique"
+        "value": "École polytechnique"
       }
     ],
     "categorie": [
@@ -32621,7 +32767,7 @@
     "theme": [
       {
         "id": 2659,
-        "value": "Banque / Capital-risque"
+        "value": "Banque / Finance / Capital-risque"
       }
     ],
     "procedure": [],
@@ -37974,7 +38120,7 @@
     "theme": [
       {
         "id": 2659,
-        "value": "Banque / Capital-risque"
+        "value": "Banque / Finance / Capital-risque"
       }
     ],
     "procedure": [],
@@ -38918,7 +39064,7 @@
     "theme": [
       {
         "id": 2659,
-        "value": "Banque / Capital-risque"
+        "value": "Banque / Finance / Capital-risque"
       }
     ],
     "procedure": [
@@ -44602,7 +44748,7 @@
     "theme": [
       {
         "id": 2659,
-        "value": "Banque / Capital-risque"
+        "value": "Banque / Finance / Capital-risque"
       }
     ],
     "procedure": [],
@@ -45984,11 +46130,35 @@
     "contenu": "Battu aux dernières législatives, l’ex-député et puissant patron de l’UDI, qui se voyait président de la République, n’est plus qu’adjoint à la maire de Drancy, sa femme. Sa défaite révèle la fragilité du système clientéliste qu’il avait mis en place, au cœur de plusieurs enquêtes. Le PNF met une dernière main à une citation en correctionnelle pour détournement de fonds publics.",
     "url": "https://www.liberation.fr/politique/elections/jean-christophe-lagarde-un-baron-mal-barre-20220721_AYK3RDCPM5HOHMG45WV5KQYZII/?redirected=1",
     "date": "2022-07-21",
-    "etiquettes": "Jean-Christophe Lagarde,Parquet National Financier,Union des démocrates et indépendants",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2766,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 926,
+        "value": "Jean-Christophe Lagarde"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 254,
+        "value": "Union des démocrates et indépendants (UDI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -46000,16 +46170,26 @@
     "contenu": "Un mandat de recherche a été délivré à l’encontre de l’élu guadeloupéen Cédric Cornet, maire de Gosier, qui ne s’est pas présenté à une convocation dans une affaire de détournements de fonds présumés.\nCédric Cornet, également président de la Carl (communauté d’agglomération la Riviera du Levant), était convoqué mardi pour être interrogé dans le cadre d’une enquête préliminaire ouverte notamment pour « recel d’abus de biens sociaux, détournements de fonds publics et corruption active et passive », précise le parquet.\nCédric Cornet est inscrit au fichier des délinquants sexuels depuis sa condamnation en appel en 2019 à deux ans de prison avec sursis, cinq ans de suivi sociojudiciaire et 16 000 euros d’amende pour atteinte sexuelle sur une mineure de moins de 15 ans. Il avait été élu maire du Gosier l’année suivante.",
     "url": "https://www.leparisien.fr/faits-divers/guadeloupe-le-maire-de-gosier-recherche-dans-une-affaire-de-detournement-de-fonds-21-07-2022-7OW7XVCKJBA6RJTEFXWV26SPRA.php?ts=1658510738508",
     "date": "2022-07-21",
-    "etiquettes": "971 – Guadeloupe,Cédric Cornet",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2783,
         "value": "971 - Guadeloupe"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1014,
+        "value": "Cédric Cornet"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -46017,21 +46197,45 @@
   },
   {
     "id": 1049,
-    "titre": "Philippe Englebert",
+    "titre": "Philippe Englebert rejoing Lazard",
     "contenu": "Formé à l’ESCP, Polytechnique et Sciences Po Paris, il débute sa carrière chez Goldman Sachs en tant qu’associate investment banking en 2015. En 2017, il intègre la direction générale du Trésor en tant qu’adjoint au chef de bureau financement et développement des entreprises. En 2019, il devient conseiller entreprises et technologie au ministère de l’Economie, des Finances et de la Relance puis, en 2020, conseiller entreprises, services financiers, attractivité et export auprès du président de la République. En 2022 il est nommé gérant au sein de la banque Lazard. Il y prendra en charge les questions technologiques, les levées de fonds et introductions en Bourse pour les entrepreneurs et les start-up.",
     "url": "https://www.lesechos.fr/finance-marches/ma/lazard-recrute-a-lelysee-1777764",
     "date": "2022-07-21",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1578,
+        "value": "Philippe Englebert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 676,
+        "value": "Lazard"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -46042,18 +46246,37 @@
     "contenu": "Le tribunal correctionnel de Caen (Calvados) a relaxé, ce jeudi 21 juillet 2022, Marc Lefèvre et Serge Deslandes, les anciens présidents du conseil départemental de la Manche et de Manche Numérique, le syndicat mixte public chargé du haut débit dans la Manche, dans l’affaire de favoritisme qui leur était reprochée.",
     "url": "https://actu.fr/faits-divers/justice-soupcon-de-favoritisme-a-manche-numerique-les-deux-elus-relaxes_52622748.html",
     "date": "2022-07-21",
-    "etiquettes": "14 - Calvados,Marc Lefèvre,Serge Deslandes",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2709,
         "value": "14 - Calvados"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 749,
+        "value": "Marc Lefèvre"
+      },
+      {
+        "id": 750,
+        "value": "Serge Deslandes"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -46063,13 +46286,63 @@
     "contenu": "Le haut fonctionnaire est soupçonné d’avoir bénéficié de nombreuses largesses de la part de dirigeants de société de sécurité pour qui il intercédait, alors qu’il pilotait l’organe public chargé de leur contrôle.\nPendant plus de sept ans, les enquêteurs de l’inspection générale de la police nationale ont analysé son train de vie, écouté ses conversations téléphoniques, interrogé ses relations professionnelles lorsqu’il était préfet délégué à la sécurité des aéroports, entre 2012 et 2014, puis directeur du Conseil national des activités de sécurité privées (Cnaps), de 2015 à 2016. L’ensemble dresse le portrait d’un homme qui n’a cessé de profiter de ses fonctions pour entretenir un réseau d’intérêts bien compris, sur fond de camaraderie policière et de fraternité maçonnique, en rendant des services aux uns et aux autres, sans jamais oublier d’en tirer un bénéfice.",
     "url": "https://www.lemonde.fr/societe/article/2022/07/20/corruption-le-parquet-demande-un-proces-pour-l-ancien-prefet-alain-gardere_6135535_3224.html",
     "date": "2022-07-20",
-    "etiquettes": "Alain Gardère,Conseil national des activités de sécurité privées,LPN Services,LVMH,Pierre Cournil",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2765,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1506,
+        "value": "Alain Gardère"
+      },
+      {
+        "id": 1579,
+        "value": "Pierre Cournil"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      },
+      {
+        "id": 619,
+        "value": "Ministère de l'Intérieur"
+      },
+      {
+        "id": 678,
+        "value": "Conseil national des activités de sécurité privées (CNAPS)"
+      },
+      {
+        "id": 679,
+        "value": "LPN Group"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2677,
+        "value": "Police"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -46079,34 +46352,97 @@
     "contenu": "Des gendarmes se sont présentés mercredi matin dans les locaux de la mairie de Paris pour procéder à une perquisition dans le cadre du dossier de la tour Triangle, le building en cours de construction dans le XVe arrondissement porte de Versailles.\nMenée par des magistrats instructeurs, la perquisition, débutée dès 9 heures, s’est achevée en tout début d’après-midi. La direction des affaires juridiques, celle de l’urbanisme, celle des affaires financières, le cabinet de la maire et le secrétariat général de la Ville ont fait l’objet d’investigations. Les enquêteurs se sont aussi rendus dans le bureau d’Anne Hidalgo elle-même. « Ils y sont restés quinze ou vingt minutes », indique-t-on dans l’entourage de la maire (PS) de Paris, qui n’était pas présente au moment des faits, car en déplacement à Avignon pour le Festival.",
     "url": "https://www.leparisien.fr/paris-75/enquete-sur-la-tour-triangle-perquisition-en-cours-a-lhotel-de-ville-de-paris-20-07-2022-RPAUFFTISBGTFGRTUL6KOQCNZE.php?ts=1658409881560",
     "date": "2022-07-20",
-    "etiquettes": "75 - Paris,Anne Hidalgo,Unibail-Rodamco-Westfield",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2762,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 657,
+        "value": "Anne Hidalgo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 677,
+        "value": "Unibail-Rodamco-Westfield (URW)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1052,
-    "titre": "Affaire des tableaux flamands : Redressement fiscal confirmé pour Claude Guéant",
+    "titre": "Affaire des tableaux flamands : redressement fiscal confirmé pour Claude Guéant",
     "contenu": "La cour administrative d’appel de Paris a confirmé le redressement fiscal de Claude Guéant dans l’affaire de la vente de deux tableaux flamands, aussi liée à l’enquête sur un possible financement libyen de la campagne de Nicolas Sarkozy en 2007.\nSelon le magazine Capital, le redressement fiscal a été de 535.000 euros. Principales justifications : les experts estiment que les tableaux valent en 2013 environ 40.000 euros à 50.000 euros, les documents concernant la vente sont douteux et l’acheteur des tableaux avait reçu un virement de 500.000 euros quelques jours avant la vente.",
     "url": "https://www.20minutes.fr/politique/3327483-20220719-affaire-tableaux-flamands-redressement-fiscal-confirme-claude-gueant",
     "date": "2022-07-19",
-    "etiquettes": "Claude Guéant,Les Républicains,Nicolas Sarkozy",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 660,
+        "value": "Claude Guéant"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -46116,7 +46452,7 @@
     "contenu": "En mai 2022, Anticor s’est constituée partie civile dans l’affaire visant la gestion de la société d’économie mixte immobilière de la ville de Martigues (13), SEMIVIM.\nLa SEMIVIM est le bailleur social municipal de la ville de Martigues et loge près d’un habitant sur 10 dans les 3000 logements de son parc immobilier. Elle construit des immeubles et met à disposition des logements sociaux avec une commande de près de 20 millions d’euros de marchés publics par an auprès des entreprises de BTP locales.\nLa gestion interne de la SEM a été questionnée à plusieurs reprises : en 2019 les commissaires aux comptes n’ont pas été en mesure de certifier le bilan de la société « en raison de grosses difficultés dans son fonctionnement quotidien » et « d’absence de direction financière ». L’hypothèse d’une rémunération des décideurs publics en charge de la société par divers moyens (versements de plusieurs centaines de milliers d’euros, paiement de voyages à l’étranger ou encore de matériaux de construction) en contrepartie de l’octroi de marchés publics par la société à certaines entreprises de travaux publics ne peut être écartée. Or ces faits, s’ils sont avérés, pourraient constituer les délits de corruption passive, favoritisme et prise illégale d’intérêts.\nLe 7 décembre 2021, la SEM et le domicile de Mme Baptiste, directrice du patrimoine de la SEM ont fait l’objet d’une perquisition de l’OCLCIFF et celle-ci a été mise en examen. En mai 2022, Anticor s’est constituée partie civile dans cette affaire afin d’exiger que la lumière soit faite sur de possibles liens entre des agents publics et des entreprises de BTP.",
     "url": "https://www.anticor.org/2022/07/19/anticor-saisit-la-justice-de-la-gestion-immobiliere-de-martigues/",
     "date": "2022-07-19",
-    "etiquettes": "13 - Bouches-du-Rhône,Anticor,Semivim",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2708,
@@ -46124,9 +46460,28 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 298,
+        "value": "Société d'Economie Mixte Immobilière de la Ville de Martigues (SEMIVIM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -46186,18 +46541,47 @@
     "contenu": "Le maire de Compiègne Philippe Marini a avoué ce mardi 19 juillet sa propre mise en examen dans «l’affaire Paprec». Cette procédure est liée aux mises en cause judiciaires de Jean-Luc Petithuguenin, patron de Paprec. Le responsable de la société de collecte et de recyclage de déchets a été mis en examen pour «favoritisme», «corruption» et «entente illicite». La justice lui reproche d’avoir versé des fonds pour un concours hippique organisé par l’épouse de Philippe Marini. Le tout à hauteur de 10.000 puis 15.000 euros.",
     "url": "https://www.oisehebdo.fr/2022/07/19/compiegne-philippe-marini-mis-en-examen-dans-une-affaire-de-favoritisme-corruption-et-entente-illicite/",
     "date": "2022-07-19",
-    "etiquettes": "60 - Oise,Les Républicains,Paprec,Philippe Marini",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2750,
         "value": "60 - Oise"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 1580,
+        "value": "Philippe Marini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 680,
+        "value": "Paprec"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2668,
+        "value": "Communication / Événementiel"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -46207,18 +46591,43 @@
     "contenu": "Après un signalement pointant des soupçons de favoritisme, le parquet de Nanterre a décidé d'ouvrir une enquête sur une subvention versée par le conseil départemental des Yvelines, présidé par Pierre Bédier. Une partie des fonds publics avait servi à acheter un immeuble auprès d'une SCI détenue par son beau-frère et un promoteur immobilier.",
     "url": "https://www.lalettrea.fr/action-publique_collectivites-et-territoires/2022/07/18/le-parquet-de-nanterre-ouvre-une-enquete-sur-les-affaires-immobilieres-de-bedier,109799970-art",
     "date": "2022-07-18",
-    "etiquettes": "78 - Yvelines,Les Républicains,Pierre Bédier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2768,
         "value": "78 - Yvelines"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 983,
+        "value": "Pierre Bédier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -46228,11 +46637,38 @@
     "contenu": "Deux ans et demi après que Regards Citoyen ait sollicité la Cour Européenne des Droits de l’Homme au sujet du manque de transparence des frais de mandat des parlementaires français, la CEDH vient de considérer que l'affaire était suffisamment sérieuse pour communiquer ses arguments à la France. Seulement 5% des affaires soumises à la Cour passent cette barrière de l’analyse préalable.",
     "url": "https://www.regardscitoyens.org/opacite-des-frais-de-mandat-des-parlementaires-la-france-devra-se-justifier-devant-la-cedh/",
     "date": "2022-07-18",
-    "etiquettes": "Assemblée Nationale,Cour Européenne des Droits de l&#039;Homme,Regards Citoyens",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 502,
+        "value": "Cour européenne des droits de l'Homme (CEDH)"
+      },
+      {
+        "id": 506,
+        "value": "Regards citoyens"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -46244,16 +46680,35 @@
     "contenu": "Jean-Christophe Lagarde, ancien maire de la ville de Drancy (2001-2017) et époux d’Aude Lagarde, l’actuelle édile, a été nommé 11e adjoint, après la démission du titulaire du poste, Michel Lastapis. Problème : le montant que percevra l’ancien élu de la cinquième circonscription de Seine-Saint-Denis, défait lors des dernières législatives face à Raquel Garrido après vingt ans de règne. Le Canard Enchaîné a en effet révélé cette semaine que Lagarde recevra 3748 euros d’indemnité pour ce job d’adjoint sans aucune délégation. Ajoutée à ses 4126,75 euros qu’il reçoit en sa qualité de «député sans emploi» via la Caisse des dépôts et consignations qui récolte les cotisations des députés en exercice, Lagarde touchera au total 7874,75 euros brut par mois. Plus que les 7239,91 euros lorsqu’il siégeait à l’Assemblée nationale.",
     "url": "https://www.liberation.fr/politique/jean-christophe-lagarde-repeche-et-gate-en-adjoint-a-drancy-20220715_4CNZRBNBQZCL7EAJVA2RI5FYO4/?redirected=1",
     "date": "2022-07-15",
-    "etiquettes": "93 – Seine Saint Denis,Aude Lagarde,Jean-Christophe Lagarde,Union des démocrates et indépendants",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2766,
         "value": "93 - Seine-Saint-Denis"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 926,
+        "value": "Jean-Christophe Lagarde"
+      },
+      {
+        "id": 1581,
+        "value": "Aude Lagarde"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 254,
+        "value": "Union des démocrates et indépendants (UDI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -46265,12 +46720,57 @@
     "contenu": "Le groupe de luxe s’installe sur le plateau de Saclay, où se trouve l’École polytechnique. Et LVMH compte bien s’établir au cœur du campus de l’établissement public formant les ingénieurs les plus demandés du pays. Difficile pour l’école de refuser : Bernard Arnault vient de lui faire un cadeau à 30 millions d’euros.\nDans les rapports entre LVMH et Polytechnique, un homme joue aussi de ses deux casquettes : Jean-Baptiste Voisin, secrétaire général de l’Association amicale des anciens élèves de l’École polytechnique (aussi appelée l’AX, et occupante principale de la « boîte à claque » avant sa rénovation), se trouve être aussi le directeur de la stratégie de LVMH, membre de son comité exécutif.",
     "url": "https://www.mediapart.fr/journal/economie/150722/polytechnique-dans-les-filets-de-lvmh",
     "date": "2022-07-15",
-    "etiquettes": "Bernard Arnault,École Polytechnique,Jean-Baptiste Voisin,LVMH",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2764,
+        "value": "91 - Essonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 690,
+        "value": "Bernard Arnault"
+      },
+      {
+        "id": 1582,
+        "value": "Jean-Baptiste Voisin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      },
+      {
+        "id": 273,
+        "value": "École polytechnique"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      },
+      {
+        "id": 2665,
+        "value": "Éducation / Enseignement"
+      },
+      {
+        "id": 3027,
+        "value": "Luxe"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -46278,30 +46778,112 @@
   {
     "id": 1060,
     "titre": "Jean-François Etienne des Rosaies, ex-conseiller de Nicolas Sarkozy, mis en examen pour trafic d’influence dans l’affaire Delubac",
-    "contenu": "Déjà mis en cause dans l’affaire du « Kazakhgate », en mars 2015, M. Etienne des Rosaies a été mis en examen le 12 mai 2022 pour trafic d’influence et recel d’abus de confiance dans une tout autre affaire, selon les informations du Monde. Cette fois, il n’est pas question de soupçons de corruption internationale et de rétrocommissions en marge d’un contrat d’armement, mais d’un lobbying intense opéré depuis l’Elysée au profit de Delubac – l’une des dernières banques familiales françaises, dont le siège social est en Ardèche.\nLa justice soupçonne M. Etienne des Rosaies d’avoir « multiplié entre les mois de juillet 2009 et mai 2010 les interventions et sollicitations » au sein de la présidence de la République et auprès de différents ministères « en vue d’obtenir une décision favorable » pour la banque dans le cadre de ses relations avec l’autorité de régulation bancaire. Le litige portait sur le ratio de solvabilité demandé à l’établissement dans un contexte de crise économique et bancaire. Très peu de temps après cet épisode, le haut fonctionnaire a quitté l’Elysée et obtenu un siège au conseil de surveillance de Delubac, où il a perçu plus de 500 000 euros d’émoluments entre 2010 et 2014.",
+    "contenu": "Déjà mis en cause dans l’affaire du « Kazakhgate », en mars 2015, M. Etienne des Rosaies a été mis en examen le 12 mai 2022 pour trafic d’influence et recel d’abus de confiance dans une tout autre affaire. Cette fois, il n’est pas question de soupçons de corruption internationale et de rétrocommissions en marge d’un contrat d’armement, mais d’un lobbying intense opéré depuis l’Elysée au profit de Delubac – l’une des dernières banques familiales françaises, dont le siège social est en Ardèche. La justice soupçonne M. Etienne des Rosaies d’avoir « multiplié entre les mois de juillet 2009 et mai 2010 les interventions et sollicitations » au sein de la présidence de la République et auprès de différents ministères « en vue d’obtenir une décision favorable » pour la banque dans le cadre de ses relations avec l’autorité de régulation bancaire. Le litige portait sur le ratio de solvabilité demandé à l’établissement dans un contexte de crise économique et bancaire. Très peu de temps après cet épisode, le haut fonctionnaire a quitté l’Elysée et obtenu un siège au conseil de surveillance de Delubac, où il a perçu plus de 500 000 euros d’émoluments entre 2010 et 2014.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2022/07/14/un-ex-conseiller-de-nicolas-sarkozy-mis-en-examen-pour-trafic-d-influence-dans-l-affaire-delubac_6134790_4355770.html",
     "date": "2022-07-14",
-    "etiquettes": "Delubac,Elysée,Jean-François Etienne des Rosaies,Nicolas Sarkozy",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2704,
+        "value": "07 - Ardèche"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1108,
+        "value": "Jean-François Étienne Des Rosaies"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 388,
+        "value": "Banque Delubac & Cie"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1061,
     "titre": "« Congo hold-up » : deux lanceurs d’alerte congolais vont pouvoir poursuivre la banque BGFI en France",
-    "contenu": "Deux arrêts de la Cour de cassation, obtenus par l’ONG PPLAAF (Plateforme de protection des lanceurs d'alerte en Afrique), vont permettre à tous les étrangers vivant en France, dont les lanceurs d’alerte, de poursuivre au civil des entreprises étrangères devant les tribunaux français.\nDans deux arrêts rendus le 29 juin, la Cour de cassation a autorisé Jean-Jacques Lumumba et Guylain Luwere, deux anciens salariés congolais de la BGFI qui avaient dénoncé les pratiques frauduleuses de cette banque, à poursuivre l’établissement au civil devant les juridictions françaises. Les deux lanceurs d’alerte sont citoyens de la République démocratique du Congo (RDC) et étaient employés par la BGFI RDC, filiale congolaise de cette banque basée au Gabon, qui est au cœur des révélations « Congo hold-up » publiées en décembre dernier par Mediapart, 18 médias internationaux et cinq ONG, dont la Plateforme de protection des lanceurs d’alerte en Afrique (PPLAAF).",
+    "contenu": "Deux arrêts de la Cour de cassation, obtenus par l’ONG PPLAAF (Plateforme de protection des lanceurs d'alerte en Afrique), vont permettre à tous les étrangers vivant en France, dont les lanceurs d’alerte, de poursuivre au civil des entreprises étrangères devant les tribunaux français. Dans deux arrêts rendus le 29 juin, la Cour de cassation a autorisé Jean-Jacques Lumumba et Guylain Luwere, deux anciens salariés congolais de la BGFI qui avaient dénoncé les pratiques frauduleuses de cette banque, à poursuivre l’établissement au civil devant les juridictions françaises. Les deux lanceurs d’alerte sont citoyens de la République démocratique du Congo (RDC) et étaient employés par la BGFI RDC, filiale congolaise de cette banque basée au Gabon, qui est au cœur des révélations « Congo hold-up » publiées en décembre dernier par Mediapart, 18 médias internationaux et cinq ONG, dont la Plateforme de protection des lanceurs d’alerte en Afrique (PPLAAF).",
     "url": "https://www.mediapart.fr/journal/international/120722/mercredi-10h-congo-hold-deux-lanceurs-d-alerte-congolais-vont-pouvoir-poursuivre-la-banque-bgfi-en",
     "date": "2022-07-13",
-    "etiquettes": "BGFI,Plateforme de protection des lanceurs d’alerte en Afrique",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2809,
+        "value": "République du Congo"
+      },
+      {
+        "id": 2797,
+        "value": "Gabon"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1583,
+        "value": "Jean-Jacques Lumumba"
+      },
+      {
+        "id": 1584,
+        "value": "Guylain Luwere"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 184,
+        "value": "Cour de cassation"
+      },
+      {
+        "id": 681,
+        "value": "Plateforme de protection des lanceurs d’alerte en Afrique (PPLAAF)"
+      },
+      {
+        "id": 682,
+        "value": "BGFIBank Europe"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -46313,7 +46895,7 @@
     "contenu": "Le mari d'Agnès Pannier-Runacher, la ministre de la Transition énergétique, préside Engie Global Markets, la plateforme de trading du groupe. La ministre ne peut donc pour l'instant pas s’occuper des dossiers liés à l’énergéticien.\nAgnès Pannier-Runacher était déjà soumise à des restrictions sur les dossiers liés à Engie depuis début 2019 en tant que secrétaire d’Etat auprès du ministre de l’Economie puis en tant que ministre déléguée à l’Industrie, alors qu’elle était encore en couple avec Marc Pannier.\nDans ses précédentes fonctions, Agnès Pannier-Runacher faisait aussi l’objet de restrictions sur les dossiers liés à la Compagnie des Alpes et au secteur du tourisme, à l’entreprise de nettoyage et d’hygiène Elis, ainsi qu’avec la compagnie maritime Bourbon corporation et le groupe australien de services financiers Macquarie, pour lesquels elle a travaillé à diverses fonctions.",
     "url": "https://www.liberation.fr/economie/conflits-dinterets-la-ministre-agnes-pannier-runacher-interdite-pour-une-duree-limitee-de-soccuper-des-dossiers-dengie-20220713_YH72UL6WZFGVNFGSMWNIAFHXNE/?redirected=1",
     "date": "2022-07-13",
-    "etiquettes": "Agnès Pannier-Runacher,Bourbon,Elis,Engie,Gouvernement Élisabeth Borne,Macquerie",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2762,
@@ -46326,7 +46908,28 @@
         "value": "Agnès Pannier-Runacher"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 186,
+        "value": "Ministère de l'Écologie"
+      },
+      {
+        "id": 602,
+        "value": "Engie (ex-GDF Suez)"
+      },
+      {
+        "id": 683,
+        "value": "Macquarie Group"
+      },
+      {
+        "id": 684,
+        "value": "Elis"
+      },
+      {
+        "id": 685,
+        "value": "Bourbon"
+      }
+    ],
     "categorie": [
       {
         "id": 2652,
@@ -46344,18 +46947,45 @@
     "contenu": "Une information judiciaire pour corruption d'agent public étranger et recel visant Alstom a été ouverte le 23 mars après la plainte avec constitution de partie civile déposée par l'association anticorruption Anticor.\nAnticor avait déposé en décembre 2020 une plainte pour corruption contre X avec constitution de partie civile auprès du doyen des juges d'instruction du tribunal judiciaire de Paris, procédure qui entraîne l'ouverture quasi-systématique d'une information judiciaire. En 2014, les dirigeants d'Alstom avaient accepté de céder l'importante branche énergie de leur groupe à l'industriel américain General Electric (GE) pour un montant d'environ 12 milliards d'euros. Les deux entreprises sont implantées à Belfort, dans le Nord Franche-Comté. La même année, en décembre, le groupe français avait payé une amende record de 772 millions de dollars aux Etats-Unis pour des faits de corruption dans plusieurs pays.",
     "url": "https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/territoire-de-belfort/belfort/vente-d-alstom-a-general-electric-une-enquete-ouverte-apres-la-plainte-pour-corruption-deposee-par-anticor-2580860.html?fbclid=IwAR0rRIaLGiiRHjYo25-kuxG3ErtDGMZgQQfaPItT7UKkm_2AVFhEqtpS8Pk",
     "date": "2022-07-13",
-    "etiquettes": "90 - Territoire de Belfort,Alstom,Anticor,General Electric",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2780,
         "value": "90 - Territoire-de-Belfort"
+      },
+      {
+        "id": 2796,
+        "value": "États-Unis"
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 22,
+        "value": "General Electric"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 630,
+        "value": "Alstom"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -46365,16 +46995,39 @@
     "contenu": "L'association anticorruption Anticor a annoncé mardi avoir déposé une plainte avec constitution de partie civile pour qu'un juge d'instruction reprenne les investigations sur les contrats passés avec des oligarques russes impliquant l'ancien conseiller à l'Élysée Alexandre Benalla.\n« Ce type de dossier ne peut pas rester trois ans aux mains du PNF (Parquet national financier) et un juge d'instruction doit instruire en toute indépendance », a indiqué à l'AFP le vice-président de l'association, Éric Alt. « Trois ans d'enquête n'ont pas permis d'obtenir des éléments déterminants », a ajouté Eric Alt. La plainte avec constitution de partie civile déposée vendredi par Anticor auprès du doyen des juges d'instruction du tribunal judiciaire de Paris devrait entraîner l'ouverture d'une information judiciaire.",
     "url": "https://www.lefigaro.fr/flash-actu/contrats-russes-en-lien-avec-alexandre-benalla-anticor-souhaite-la-designation-d-un-juge-d-instruction-20220712",
     "date": "2022-07-12",
-    "etiquettes": "Alexandre Benalla,Anticor,Élysée",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2811,
+        "value": "Russie"
+      }
+    ],
     "personnalites": [
       {
         "id": 948,
         "value": "Alexandre Benalla"
       }
     ],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
