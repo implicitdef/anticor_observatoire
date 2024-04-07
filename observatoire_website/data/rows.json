@@ -1,5 +1,51 @@
 [
   {
+    "id": 2137,
+    "titre": "Opération place nette dans l'Yonne : 70 kg de cannabis découverts au domicile de la maire d'Avallon placée en garde à vue",
+    "contenu": "Jamilah Habsaoui a été interpellée et placée en garde à vue. Environ 1 kg de cocaïne, un lingot d'or et ainsi que 7 000 euros en liquide ont également été retrouvés par les forces de l'ordre.",
+    "url": "https://www.francetvinfo.fr/societe/drogue/operation-place-nette-dans-l-yonne-70-kg-de-cannabis-decouverts-au-domicile-de-la-maire-d-avallon_6472598.html",
+    "date": "2024-04-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2779,
+        "value": "89 - Yonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1591,
+        "value": "Jamilah Habsaoui"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2664,
+        "value": "Drogue"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2135,
     "titre": "A Bruxelles, les combines d’Ursula von der Leyen suscitent une levée de boucliers inédite",
     "contenu": "En imposant la nomination du député de son parti Markus Pieper à un poste de «conseiller» rémunéré 20 000 euros par mois, alors qu’il n’est pas le plus qualifié, la présidente allemande de la Commission suscite la révolte d’une partie de ses commissaires et de plusieurs groupes politiques du Parlement.",
@@ -92,8 +138,22 @@
         "value": "Renault-Nissan"
       }
     ],
-    "categorie": [],
-    "theme": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -145,7 +205,12 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
     "procedure": [
       {
         "id": 2693,
