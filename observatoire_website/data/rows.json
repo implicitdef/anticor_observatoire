@@ -1,5 +1,202 @@
 [
   {
+    "id": 2135,
+    "titre": "A Bruxelles, les combines d’Ursula von der Leyen suscitent une levée de boucliers inédite",
+    "contenu": "En imposant la nomination du député de son parti Markus Pieper à un poste de «conseiller» rémunéré 20 000 euros par mois, alors qu’il n’est pas le plus qualifié, la présidente allemande de la Commission suscite la révolte d’une partie de ses commissaires et de plusieurs groupes politiques du Parlement.",
+    "url": "https://www.liberation.fr/international/europe/a-bruxelles-les-combines-dursula-von-der-leyen-suscitent-une-levee-de-boucliers-inedite-20240406_FI44JSBD5VB4FBZKH4LYB6QAAM/",
+    "date": "2024-04-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1306,
+        "value": "Ursula von der Leyen"
+      },
+      {
+        "id": 1589,
+        "value": "Markus Pieper"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 175,
+        "value": "Commission Européenne"
+      },
+      {
+        "id": 691,
+        "value": "Union chrétienne-démocrate d'Allemagne (Christlich Demokratische Union Deutschlands) (CDU)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2136,
+    "titre": "Rachida Dati attaque en justice le président du groupe Renault",
+    "contenu": "Mise en examen dans l'affaire Ghosn-Renault depuis 2021, Rachida Dati a cité en justice l'actuel président du conseil d'administration du groupe, Jean-Dominique Senard, pour « entrave à la justice » et « omission de témoigner en faveur d'un innocent ».",
+    "url": "https://www.lejdd.fr/societe/rachida-dati-attaque-en-justice-le-president-du-groupe-renault-143797",
+    "date": "2024-04-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 617,
+        "value": "Carlos Ghosn"
+      },
+      {
+        "id": 1590,
+        "value": "Jean-Dominique Senard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      }
+    ],
+    "categorie": [],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2132,
+    "titre": "Une magistrate mise en examen et écrouée pour ses liens avec le banditisme corse",
+    "contenu": "Hélène Gerhards, proche du garde des Sceaux, vient d’être mise en examen pour 11 chefs d’inculpation en lien avec son activité de magistrate en Corse.",
+    "url": "https://www.leparisien.fr/faits-divers/une-magistrate-mise-en-examen-et-ecrouee-pour-ses-liens-avec-le-banditisme-corse-06-04-2024-IIW5K5NPVZFBFEGGAAKU2FYPAE.php?ts=1712493430463",
+    "date": "2024-04-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      },
+      {
+        "id": 2722,
+        "value": "2A - Corse-du-Sud"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 658,
+        "value": "Éric Dupond-Moretti"
+      },
+      {
+        "id": 997,
+        "value": "Hélène Gerhards"
+      },
+      {
+        "id": 998,
+        "value": "Johann Carta"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2134,
+    "titre": "Le président du département de la Somme bientôt jugé pour «détournements de biens publics»",
+    "contenu": "Auditionné mercredi en garde à vue, Haussoulier a été placé sous contrôle judiciaire. L’enquête porte sur des «remboursements de frais de restauration et de déplacement» par des instances au sein desquelles l’élu divers droite «a des fonctions électives ou professionnelles».",
+    "url": "https://www.lefigaro.fr/actualite-france/le-president-du-departement-de-la-somme-bientot-juge-pour-detournements-de-biens-publics-20240405",
+    "date": "2024-04-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2770,
+        "value": "80 - Somme"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1330,
+        "value": "Stéphane Haussoulier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2129,
     "titre": "Caluire-et-Cuire. Le maire Philippe Cochet jugé en 2025 pour détournement de fonds publics",
     "contenu": "Le maire de Caluire-et-Cuire et son épouse, Lætitia, seront jugés en 2025 par le tribunal correctionnel de Paris. Le couple devra répondre de faits de « détournement de fonds publics » et « fraude pour l’obtention d’une allocation d’aide aux travailleurs privés d’emploi ». La justice soupçonne Lætitia Cochet d’avoir bénéficié d’un emploi, quasi-fictif, d’attachée parlementaire auprès de son mari, qui a été député entre 2002 et 2017. L’épouse du maire de Caluire aurait également bénéficié d’indemnités de chômage indues, à la suite de son licenciement, décidé après la perte du mandat de député de Philippe Cochet en 2017.",
@@ -306,6 +503,10 @@
       {
         "id": 2708,
         "value": "13 - Bouches-du-Rhône"
+      },
+      {
+        "id": 2722,
+        "value": "2A - Corse-du-Sud"
       }
     ],
     "personnalites": [
@@ -641,7 +842,12 @@
     "url": "https://www.republicain-lorrain.fr/faits-divers-justice/2024/04/02/soupcon-de-favoritisme-a-la-communaute-de-communes-du-pays-de-bitche-le-procureur-de-la-republique-saisi",
     "date": "2024-04-02",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 2748,
+        "value": "57 - Moselle"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [
       {
@@ -27859,6 +28065,51 @@
       {
         "id": 2695,
         "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2133,
+    "titre": "Bastia : une juge mise en examen pour « prise illégale d’intérêt » et visée par une enquête administrative",
+    "contenu": "La magistrate, qui a été laissée en liberté à l’issue de sa mise en examen, est soupçonnée de ne pas s’être « déportée » pour des décisions de justice pouvant être lié à « ses intérêts économiques et personnels ».",
+    "url": "",
+    "date": "2023-02-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1588,
+        "value": "Danielle Sbragia"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 690,
+        "value": "Inspection générale de la justice (IGJ)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
       }
     ],
     "titre_corrige": "",
