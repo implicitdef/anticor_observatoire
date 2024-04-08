@@ -3091,6 +3091,10 @@
       {
         "id": 2762,
         "value": "75 - Paris"
+      },
+      {
+        "id": 2803,
+        "value": "Libye"
       }
     ],
     "personnalites": [
@@ -29117,6 +29121,10 @@
       {
         "id": 2762,
         "value": "75 - Paris"
+      },
+      {
+        "id": 2803,
+        "value": "Libye"
       }
     ],
     "personnalites": [
@@ -34374,6 +34382,10 @@
       {
         "id": 2762,
         "value": "75 - Paris"
+      },
+      {
+        "id": 2803,
+        "value": "Libye"
       }
     ],
     "personnalites": [
@@ -39158,12 +39170,12 @@
     "etiquettes": "",
     "departement": [
       {
-        "id": 2803,
-        "value": "Libye"
-      },
-      {
         "id": 2762,
         "value": "75 - Paris"
+      },
+      {
+        "id": 2803,
+        "value": "Libye"
       }
     ],
     "personnalites": [
@@ -39194,7 +39206,12 @@
         "value": "Transports"
       }
     ],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2691,
+        "value": "Convention judiciaire d'intérêt public (CJIP)"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -39259,6 +39276,10 @@
       {
         "id": 2762,
         "value": "75 - Paris"
+      },
+      {
+        "id": 2803,
+        "value": "Libye"
       }
     ],
     "personnalites": [
@@ -47674,7 +47695,7 @@
     "contenu": "Ce vendredi, la chambre de l’instruction de la cour d’appel de Versailles a rejeté les requêtes en nullité soulevées par plusieurs avocats du dossier. La procédure n’est donc pas annulée. L’information judiciaire qui vise l’ancien député de Boulogne, mis en examen pour une série d’infractions dont le détournement de fonds, le trafic d’influence et la prise illégale d’intérêts, va se poursuivre.",
     "url": "https://www.leparisien.fr/hauts-de-seine-92/affaire-solere-la-procedure-judiciaire-nest-pas-annulee-08-07-2022-SS44T5WKXVA7DME3N2HUJYSGUM.php?ts=1657444109966",
     "date": "2022-07-08",
-    "etiquettes": "92 – Hauts de Seine,La République En Marche,Thierry Solère",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2765,
@@ -47687,31 +47708,56 @@
         "value": "Thierry Solère"
       }
     ],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1073,
     "titre": "Aisne. Affaire du corbeau : la Ville se porte partie civile",
-    "contenu": "Le 28 juin dernier, le conseil municipal de Château-Thierry décidait, à l’unanimité de ses membres, de se porter partie civile dans une affaire d'attribution de publics entre 2011 et 2015.\nLes faits concerneraient les marchés publics de la Ville de Château-Thierry entre 2011 et 2015 et c’est un « corbeau » qui l’a révélé au grand public en 2017. Depuis, les événements se sont enchaînés. La mairie de Château-Thierry était perquisitionnée début 2000 ainsi que le les boîtes mails de trois personnes qui ne travaillent plus depuis pour la collectivité.",
+    "contenu": "Le 28 juin dernier, le conseil municipal de Château-Thierry décidait, à l’unanimité de ses membres, de se porter partie civile dans une affaire d'attribution de publics entre 2011 et 2015. Les faits concerneraient les marchés publics de la Ville de Château-Thierry entre 2011 et 2015 et c’est un « corbeau » qui l’a révélé au grand public en 2017. Depuis, les événements se sont enchaînés. La mairie de Château-Thierry était perquisitionnée début 2000 ainsi que le les boîtes mails de trois personnes qui ne travaillent plus depuis pour la collectivité.",
     "url": "https://actu.fr/hauts-de-france/chateau-thierry_02168/aisne-affaire-du-corbeau-la-ville-se-porte-partie-civile_52276900.html",
     "date": "2022-07-08",
-    "etiquettes": "02 - Aisne",
+    "etiquettes": "",
     "departement": [
       {
-        "id": 2698,
-        "value": "01 - Ain"
+        "id": 2699,
+        "value": "02 - Aisne"
       }
     ],
     "personnalites": [],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -47721,18 +47767,50 @@
     "contenu": "Ouverte à Bordeaux, une information judiciaire pour « présentation de faux bilans » s’intéresse à un montage mis en place par le groupe Castel pour loger à Gibraltar des participations dans des sociétés chinoises et leurs profits. Une deuxième enquête pour « blanchiment de fraude fiscale » est menée par le parquet national financier",
     "url": "https://www.sudouest.fr/justice/les-affaires-chinoises-de-castel-empire-girondin-du-vin-dans-le-viseur-de-la-justice-11408764.php",
     "date": "2022-07-08",
-    "etiquettes": "33 – Gironde,Castel,Parquet National Financier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2727,
         "value": "33 - Gironde"
+      },
+      {
+        "id": 2793,
+        "value": "Chine"
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 376,
+        "value": "Groupe Castel"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 2655,
+        "value": "Alcools"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -47787,36 +47865,89 @@
     "contenu": "Ce mardi 5 juillet 2022, la justice a décidé de classer sans suite une plainte d'Anticor pour détournement de fonds publics, prise illégale d’intérêts et délit de favoritisme concernant l’attribution du salon Grand Ski à la collectivité de Grand Chambéry. L’association n’exclut pas de faire appel de cette décision.\nEn cause, l’attribution du salon Grand Ski à la collectivité du Grand Chambéry entre 2015 et 2020. Toute l’organisation de cet événement est assurée par l’entreprise Atout France, qui attribue le salon à une collectivité, avant qu’elle-même ne délègue l’organisation de l’événement. À l’époque, Xavier Dullin est encore président de Grand Chambéry, mais aussi directeur général de Théra Conseil… l’entreprise chargée d’organiser le salon, en sous-traitance.",
     "url": "https://www.lessorsavoyard.fr/43468/article/2022-07-07/chambery-une-plainte-contre-l-organisation-du-salon-grand-ski-classee-sans-suite",
     "date": "2022-07-07",
-    "etiquettes": "73 - Savoie,Anticor,Xavier Dullin",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2760,
         "value": "73 - Savoie"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 1614,
+        "value": "Xavier Dullin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1075,
     "titre": "Enquête sur l’affaire de prédation sexuelle Assu 2000 : plusieurs nouvelles mises en examen pour corruption, dont celle d’un policier",
-    "contenu": "Selon « Le Monde », un boxeur reconverti dans la sécurité privée et un fonctionnaire de police sont mis en examen pour corruption, soupçonnés d’avoir fait partie d’une équipe payée par Jacques Bouthier, l’ex-PDG du groupe de courtage en assurances, pour étouffer l’affaire. Le préfet de police de Paris, Didier Lallement, a demandé une enquête administrative confiée à l’IGPN.",
+    "contenu": "Un boxeur reconverti dans la sécurité privée et un fonctionnaire de police sont mis en examen pour corruption, soupçonnés d’avoir fait partie d’une équipe payée par Jacques Bouthier, l’ex-PDG du groupe de courtage en assurances, pour étouffer l’affaire. Le préfet de police de Paris, Didier Lallement, a demandé une enquête administrative confiée à l’IGPN.",
     "url": "https://www.lemonde.fr/societe/article/2022/07/07/enquete-sur-l-affaire-de-predation-sexuelle-assu-2000-plusieurs-nouvelles-mises-en-examen-pour-corruption-dont-celle-d-un-policier_6133856_3224.html",
     "date": "2022-07-07",
-    "etiquettes": "Assu 2000,Jacques Bouthier,Police nationale",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1613,
+        "value": "Jacques Bouthier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 189,
+        "value": "Direction nationale de la Police judiciaire (DNPJ)"
+      },
+      {
+        "id": 696,
+        "value": "Vilavi (ex-Assu 2000)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [
       {
         "id": 2677,
         "value": "Police"
+      },
+      {
+        "id": 3033,
+        "value": "Assurances"
       }
     ],
     "procedure": [],
@@ -47830,11 +47961,152 @@
     "url": "https://www.nouvelobs.com/justice/20220707.OBS60621/immobilier-de-luxe-comment-la-france-attire-l-argent-douteux-du-monde-entier.html",
     "date": "2022-07-07",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      },
+      {
+        "id": 2791,
+        "value": "Azerbaïdjan"
+      },
+      {
+        "id": 3029,
+        "value": "Indonésie"
+      },
+      {
+        "id": 2794,
+        "value": "Émirats arabes unis"
+      },
+      {
+        "id": 3030,
+        "value": "Togo"
+      },
+      {
+        "id": 3031,
+        "value": "Cameroun"
+      },
+      {
+        "id": 2811,
+        "value": "Russie"
+      },
+      {
+        "id": 2804,
+        "value": "Luxembourg"
+      },
+      {
+        "id": 3032,
+        "value": "Chypre"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1595,
+        "value": "Heydar Aliyev"
+      },
+      {
+        "id": 1596,
+        "value": "Sevil Aliyeva"
+      },
+      {
+        "id": 1597,
+        "value": "lham Aliyev"
+      },
+      {
+        "id": 1598,
+        "value": "Prabowo Subianto"
+      },
+      {
+        "id": 1599,
+        "value": "Khadem al-Qubaisi"
+      },
+      {
+        "id": 1600,
+        "value": "Faure Gnassingbé"
+      },
+      {
+        "id": 1601,
+        "value": "Paul Biya"
+      },
+      {
+        "id": 1602,
+        "value": "Franck Emmanuel Biya"
+      },
+      {
+        "id": 1603,
+        "value": "Chantal Biya"
+      },
+      {
+        "id": 1604,
+        "value": "William Bourdon"
+      },
+      {
+        "id": 1605,
+        "value": "Christian Lefebvre"
+      },
+      {
+        "id": 1606,
+        "value": "Xavier Lièvre"
+      },
+      {
+        "id": 1607,
+        "value": "Michael Reza Pacha"
+      },
+      {
+        "id": 1608,
+        "value": "Zhanna Volkova"
+      },
+      {
+        "id": 1609,
+        "value": "Kiril Shamalov"
+      },
+      {
+        "id": 1610,
+        "value": "Vadim Moshkovich"
+      },
+      {
+        "id": 1611,
+        "value": "Andrey Gorbatskiy"
+      },
+      {
+        "id": 1612,
+        "value": "Alexander Ponomarenko"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 87,
+        "value": "Tracfin"
+      },
+      {
+        "id": 694,
+        "value": "Conseil d’orientation de la lutte contre le blanchiment de capitaux et le financement du terrorisme (COLB)"
+      },
+      {
+        "id": 695,
+        "value": "Conseil supérieur du notariat (CSN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      },
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -47845,18 +48117,42 @@
     "contenu": "Ancien maire de Thizy-les-Bourgs, Michel Mercier, figure politique du Rhône et ancien Garde des Sceaux, est dans la tourmente. Selon le Progrès, il devrait être renvoyé devant le tribunal judiciaire de Paris à l'automne prochain. En 2017, c'est le Canard Enchaîné qui avait révélé que Delphine Mercier avait occupé la fonction d'assistante parlementaire pour le compte de son père, d'août 2012 à avril 2014, alors qu'à cette période elle résidait à Londres. Également dans le collimateur : les collaborations de son épouse Joëlle Mercier. Cette dernière est suspectée d'avoir organisé plusieurs manifestations et sorties avec les fonds de la collectivité du Rhône, entre 1999 et 2012. Des événements qui servaient les intérêts de son époux. Il était notamment question de cours de cuisine, de visites de musée ou encore de cours d'escrime pour les épouses des notables du territoire.",
     "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/soupcons-de-detournement-de-fonds-publics-michel-mercier-ancien-garde-des-sceaux-et-ex-patron-du-departement-du-rhone-dans-la-tourmente-2577576.html",
     "date": "2022-07-07",
-    "etiquettes": "69 - Rhône,Michel Mercier,Mouvement démocrate,Parquet National Financier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2713,
         "value": "69 - Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 945,
+        "value": "Michel Mercier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 84,
+        "value": "Mouvement démocrate (MoDem)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -47866,24 +48162,56 @@
     "contenu": "L’association Contribuables actifs du Choletais annonce avoir déposé plainte pour concussion et prise illégale d’intérêts contre trois élus de la majorité de Cholet (Maine-et-Loire), Gilles Bourdouleix, Florence Dabin et Sylvain Apaire.\nL’affaire remonte à avril. Gilles Bourdouleix, maire de Cholet (Maine-et-Loire), et Florence Dabin, adjointe en charge des sports avant qu’elle ne démissionne en juin 2022 pour se consacrer à la présidence du Département, se font épingler par l’opposition municipale. Dans une série de communiqués de presse, le groupe Cholet autrement dénonce l’absence de convention entre la Ville, propriétaire du stade omnisports de Cholet, et le Stade olympique choletais (SOC) depuis juin 2018.",
     "url": "https://www.ouest-france.fr/pays-de-la-loire/cholet-49300/une-association-depose-plainte-contre-trois-elus-de-cholet-dont-le-maire-gilles-bourdouleix-70c0a8a0-fdcb-11ec-a745-ac843c869275",
     "date": "2022-07-07",
-    "etiquettes": "49 - Maine-et-Loire,Florence Dabin,Gilles Bourdouleix,Sylvain Apaire",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2742,
         "value": "49 - Maine-et-Loire"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 974,
+        "value": "Gilles Bourdouleix"
+      },
+      {
+        "id": 1615,
+        "value": "Sylvain Apaire"
+      },
+      {
+        "id": 1616,
+        "value": "Florence Dabin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 697,
+        "value": "Contribuables actifs du Choletais (CAC)"
+      },
+      {
+        "id": 698,
+        "value": "Stade olympique choletais"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1083,
-    "titre": "Damien Pichereau",
+    "titre": "Damien Pichereau rejoint Rev Mobilities",
     "contenu": "Il fait carrière comme commercial dans plusieurs entreprises sarthoises du secteur automobile avant de rejoindre l'UMP puis En Marche. Élu dans la 1ère circonscription de la Sarthe en 2017, il s'implique sur les sujets des mobilités, de la décarbonation des transports notamment par la réglementation sur le rétrofit. En juillet 2022, il est recruté comme directeur de la communication et des affaires publiques par Rev Mobilities, entreprise de rétrofit électrique pour voitures de collection.",
     "url": "https://www.auto-infos.fr/article/damien-pichereau-rejoint-rev-mobilities.253022",
     "date": "2022-07-06",
@@ -47908,12 +48236,37 @@
     "contenu": "Dans un jugement du 6 juillet 2022, le tribunal de Nanterre a condamné l’État pour sa tentative de perquisition des locaux de Mediapart du 4 février 2019, la jugeant « ni nécessaire dans une société démocratique ni proportionnée à l’objectif poursuivi ». Le jugement, très sévère pour le parquet de Paris, consacre la liberté d’informer et la protection des sources.\nSoulignant « l’effet d’intimidation » recherché par ce déplacement en nombre de personnes « appartenant à la hiérarchie intermédiaire du parquet de Paris et, pour l’un d’entre eux, de l’institution policière », le jugement oppose à cette « coercition caractéristique de la perquisition » le fait que « les autorités judiciaires, confrontées à un organe de presse jouissant d’une protection légale accrue, disposaient d’un moyen simple, peu intrusif et non contraignant, consistant en l’envoi d’une réquisition ». Au lieu de quoi le parquet a choisi, écrit le tribunal, « l’emploi immédiat d’une mesure intrinsèquement coercitive, ou susceptible de le devenir en cas de refus, et significativement plus intimidante ».",
     "url": "https://www.mediapart.fr/journal/france/060722/perquisition-mediapart-la-justice-condamne-l-etat",
     "date": "2022-07-06",
-    "etiquettes": "Alexandre Benalla,Mediapart",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 948,
+        "value": "Alexandre Benalla"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 465,
+        "value": "Mediapart"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -47924,18 +48277,38 @@
     "contenu": "Pascale Gaillot, présidente (LR) de la commission environnement de la région Grand Est, comparaissait devant le tribunal correctionnel de Strasbourg mardi 5 juillet. Le parquet lui reproche d’avoir voté, lors de son mandat précédent, une subvention pour une association dont son mari était alors trésorier.",
     "url": "https://www.mediapart.fr/journal/france/060722/prison-avec-sursis-et-ineligibilite-requises-contre-une-elue-du-grand-est-pour-une-prise-illegale-d-intere",
     "date": "2022-07-06",
-    "etiquettes": "67 - Bas-Rhin,Les Républicains,Pascale Gaillot",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2757,
         "value": "67 - Bas-Rhin"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1531,
+        "value": "Pascale Gaillot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -47945,19 +48318,60 @@
     "contenu": "Une partie de l’équipe impliquée dans la fausse rétractation de Ziad Takieddine a été mise en examen en juin pour « corruption d’agent public étranger », pour avoir tenté de faire libérer le fils de Mouammar Kadhafi, Hannibal, incarcéré au Liban. Noël Dubus, qui pilotait l’opération, a été placé en détention provisoire, vendredi 1er juillet, à la suite de la révocation de son contrôle judiciaire.",
     "url": "https://www.mediapart.fr/journal/france/060722/sarkozy-kadhafi-des-mises-en-examen-pour-corruption-dans-loperation-hannibal",
     "date": "2022-07-06",
-    "etiquettes": "Les Républicains,Mouammar Kadhafi,Nicolas Sarkozy,Noël Dubus,Pierre Reynaud",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2803,
+        "value": "Libye"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 585,
+        "value": "Mouammar Kadhafi"
+      },
+      {
+        "id": 1153,
+        "value": "Noël Dubus"
+      },
+      {
+        "id": 1617,
+        "value": "Pierre Reynaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1082,
-    "titre": "Ulysse Dorioz",
+    "titre": "Ulysse Dorioz est nommé Conseiller transformation publique",
     "contenu": "Issu du conseil, il a commencé chez Desjardin et Colombus Consulting avant de travailler à la Région Ile-de-France, d'abord auprès de la DRH puis à la Direction de la transformation. Il met en place la « révolution » administrative de la Région (numérisation, flex office, télétravail, recours au privé) et a recours à son ancien employeur Colombus à qui il passe pour 1 million d’euros de commande. Il travaille ensuite pour plusieurs écoles (Dauphine, l'ESCP, l'EHESP), avant d'être nommé Conseiller transformation publique dans le cabinet de Stanislas Guérini, le ministre de la Transformation et de la Fonction publiques.",
     "url": "https://acteurspublics.fr/nomination/ulysse-dorioz-rejoint-le-cabinet-de-stanislas-guerini",
     "date": "2022-07-06",
@@ -47999,7 +48413,7 @@
   },
   {
     "id": 1085,
-    "titre": "Mayada Boulos",
+    "titre": "Mayada Boulos rejoint Havas",
     "contenu": "Elle a commencé sa carrière en communication dans le public, notamment au CNFPT, à la HALDE et au Ministère des affaires sociales. Elle part dans le privé en rejoignant Havas en 2016, dont elle devient Directrice générale adjointe. En 2020 elle part pour Matignon et devient conseillère communication du Premier ministre Jean Castex. En 2022, elle retourne chez Havas comme coprésidente exécutive.",
     "url": "https://www.strategies.fr/actualites/agences/LQ756945C/nouvelle-organisation-havas-paris.html",
     "date": "2022-07-05",
@@ -50615,10 +51029,41 @@
     "contenu": "L’un des fleurons de l’industrie européenne, le géant de l’aéronautique Airbus, est à son tour aspiré dans la tourmente de l’affaire des financements libyens. Un ancien cadre dirigeant du groupe, Édouard Ullmo, a été mis en examen mi-mars pour « complicité de corruption active », « corruption active d’agent public étranger (pour le compte d’Airbus) », « association de malfaiteurs » et « blanchiment » après la découverte de fonds occultes versés à l’intermédiaire sarkozyste Alexandre Djouhri sur un compte ouvert à Singapour, selon des informations de Mediapart.\nLes faits mis au jour par l’enquête de la juge d’instruction Aude Buresi portent sur la vente en 2006 de douze avions Airbus au régime de Kadhafi. Ces dernières années, des responsables d’Airbus ont démenti avec vigueur devant les enquêteurs le moindre versement d’argent pour Djouhri en marge du contrat libyen, même s’ils ont reconnu que l’homme d’affaires réclamait avec insistance une commission de 12 millions d’euros. Alexandre Djouhri a lui aussi toujours nié les faits, affirmant n’avoir jamais perçu de fonds du groupe Airbus en lien avec les avions vendus à Kadhafi.",
     "url": "https://www.mediapart.fr/journal/france/110522/attente-photo-et-fin-contradictoire-deux-millions-d-euros-pour-djouhri-le-geant-airbus-est-rattrape-par-l",
     "date": "2022-05-11",
-    "etiquettes": "Airbus,Alexandre Djouhri,Édouard Ullmo,Mouammar Kadhafi,Nicolas Sarkozy",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2803,
+        "value": "Libye"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 585,
+        "value": "Mouammar Kadhafi"
+      },
+      {
+        "id": 1618,
+        "value": "Alexandre Djouhri"
+      },
+      {
+        "id": 1619,
+        "value": "Édouard Ullmo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 176,
+        "value": "Airbus"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -53227,10 +53672,49 @@
     "contenu": "L’ancien directeur de Paris Match et du Journal du dimanche, Hervé Gattegno, a été entendu, mardi 14 décembre, comme suspect à l’Office anti-corruption (OCLCIFF) de la police judiciaire dans l’un des volets du scandale Sarkozy-Kadhafi, a appris Mediapart.\nLe journaliste a été interrogé sous le régime du suspect libre (également appelé « audition libre ») dans l’affaire de la fausse rétractation de l’intermédiaire Ziad Takieddine. D’après la procédure judiciaire, ce volet porte sur une vaste opération ayant eu pour objectif de manipuler la justice, la décrédibiliser et d’apporter à l’ancien président français, mis en cause dans l’affaire des financements libyens, de faux éléments à décharge : en premier lieu, une interview, dictée par deux intermédiaires, et une rétractation écrite, concoctée par les mêmes personnes.",
     "url": "https://www.mediapart.fr/journal/france/141221/sarkozy-kadhafi-l-ex-directeur-de-paris-match-et-du-jdd-entendu-comme-suspect-libre",
     "date": "2021-12-14",
-    "etiquettes": "Hervé Gattegno,Journal du dimanche,Mouammar Kadhafi,Nicolas Sarkozy,Paris Match,Ziad Takieddine",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2803,
+        "value": "Libye"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 585,
+        "value": "Mouammar Kadhafi"
+      },
+      {
+        "id": 586,
+        "value": "Ziad Takieddine"
+      },
+      {
+        "id": 1152,
+        "value": "Michèle Marchand"
+      },
+      {
+        "id": 1446,
+        "value": "Hervé Gattegno"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 592,
+        "value": "Paris Match"
+      },
+      {
+        "id": 700,
+        "value": "Journal du dimanche"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -58370,15 +58854,41 @@
     "contenu": "La femme d’affaires Michèle Marchand, qui dirige l’agence photographique Bestimage, a été incarcérée après avoir violé son contrôle judiciaire dans l’affaire de la fausse rétractation de l’intermédiaire Ziad Takieddine, en marge du dossier Sarkozy-Kadhafi. C'est la violation de son contrôle judiciaire, qui lui interdisait notamment de rencontrer plusieurs personnes mises en cause ou liées à l’enquête, qui vaut à Mimi Marchand d’être aujourd’hui incarcérée. Les modalités exactes de la violation de son contrôle judiciaire sont à cette heure encore imprécises et l’identité de la personne avec laquelle Michèle Marchand est entrée en contact, alors que cela lui était interdit par les juges, n’a pas été rendue publique.",
     "url": "https://www.mediapart.fr/journal/france/180621/retractation-de-takieddine-michele-marchand-ete-incarceree",
     "date": "2021-06-18",
-    "etiquettes": "75 - Paris,Bestimages,Michèle Marchand,Mouammar Kadhafi,Nicolas Sarkozy,Ziad Takieddine",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2762,
         "value": "75 - Paris"
+      },
+      {
+        "id": 2803,
+        "value": "Libye"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 585,
+        "value": "Mouammar Kadhafi"
+      },
+      {
+        "id": 586,
+        "value": "Ziad Takieddine"
+      },
+      {
+        "id": 1152,
+        "value": "Michèle Marchand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 699,
+        "value": "Bestimage"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -64808,6 +65318,22 @@
   },
   {
     "id": 523,
+    "titre": "",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2140,
     "titre": "",
     "contenu": "",
     "url": "",
