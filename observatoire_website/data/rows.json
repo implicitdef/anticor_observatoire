@@ -33292,7 +33292,7 @@
       },
       {
         "id": 286,
-        "value": "Avisa Partners"
+        "value": "Avisa Partners (ex-iStrat)"
       },
       {
         "id": 287,
@@ -45643,7 +45643,7 @@
     "personnes_morales": [
       {
         "id": 286,
-        "value": "Avisa Partners"
+        "value": "Avisa Partners (ex-iStrat)"
       }
     ],
     "categorie": [
@@ -47439,7 +47439,7 @@
     "contenu": "Depuis plusieurs mois, les policiers du service territorial de la police judiciaire enquêtent sur des faits présumés de favoritisme et de corruption au sein d'EDF Martinique. Des faits qui auraient été commis entre 2016 et 2019.\nDes entreprises auraient été avantagées dans l’attribution d’appels d’offres. L'affaire a démarré par la plainte d'un chef d’entreprise qui essayait d’obtenir justice après un préjudice qui lui a coûté sa société. Il avait du mal à être rémunéré pour un chantier pour lequel il avait été retenu.",
     "url": "https://www.rci.fm/martinique/infos/Sport/Des-actes-de-favoritisme-presumes-EDF-Martinique-pour-un-montant-de-150-millions-deuros",
     "date": "2022-07-12",
-    "etiquettes": "972 - Martinique,EDF",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2784,
@@ -47447,9 +47447,24 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 101,
+        "value": "Électricité de France (EDF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2666,
+        "value": "Énergie"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -47460,18 +47475,38 @@
     "contenu": "Marsactu a eu accès à la synthèse du parquet national financier qui a terminé son enquête sur la mairie d'Istres. Il envisage de renvoyer le maire François Bernardini pour 13 dossiers. Une douzaine d'autres personnes pourraient connaître le même sort.",
     "url": "https://marsactu.fr/corruption-favoritisme-emploi-fictif-le-parquet-financier-charge-le-systeme-istreen/",
     "date": "2022-07-11",
-    "etiquettes": "13 - Bouches-du-Rhône,François Bernardini",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2708,
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1568,
+        "value": "François Bernardini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -47481,12 +47516,48 @@
     "contenu": "Une fois de plus, la famille Perrodo est venue soutenir Konbini. Cette famille ayant fait fortune dans le pétrole et dont la fortune est estimée à 6 milliards d’euros, vient d’apporter 3 millions d’euros supplémentaires au site de vidéos lifestyle, en convertissant des BSA (bons de souscription d’actions) acquis en 2018. Cette augmentation de capital lui a permis de passer de 79,7% à 80,8% de la société. Le solde du capital reste détenu notamment par les dirigeants fondateurs, David Creuzot et Lucie Beudet.\nA noter que les Perrodo n’ont jamais annoncé - ou même confirmé - avoir investi dans Konbini. Cette famille française installée à Londres a effectué cet investissement de manière opaque, via une holding luxembourgeoise baptisée Ommirep TMT Holdings, elle-même détenue par trois sociétés immatriculées aux Bahamas, Tchack Ltd, Annacha Ltd et Magny-Cours Ltd. Cette discrétion s’explique peut-être par la réputation controversée de cette famille, en raison de leur utilisation des paradis fiscaux et d’accusations de corruption. En 2018, Abraham Ortega, ancien directeur financier de la compagnie pétrolière vénézuélienne PDVSA, a affirmé avoir reçu 3 millions de dollars de pots-de-vin de Perenco, la compagnie pétrolière des Perrodo, selon l’agence Reuters.",
     "url": "https://www.capital.fr/entreprises-marches/konbini-encore-renfloue-par-la-famille-perrodo-1441134",
     "date": "2022-07-11",
-    "etiquettes": "Konbini,PDVSA,Perenco",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 202,
+        "value": "Perenco"
+      },
+      {
+        "id": 548,
+        "value": "Konbini"
+      },
+      {
+        "id": 692,
+        "value": "PDVSA"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      },
+      {
+        "id": 2666,
+        "value": "Énergie"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -47497,12 +47568,53 @@
     "contenu": "L’enquête du « Monde » et de ses partenaires illustre comment une multinationale peut recourir à des moyens colossaux, des jeux d’influence à très haut niveau et des méthodes agressives pour faire changer la loi à son avantage.\nDes documents internes à l’entreprise, analysés par « Le Monde », montrent comment, entre 2014 et 2016, le ministre de l’économie Emmanuel Macron a œuvré en coulisse pour la société de VTC, qui tentait d’imposer une dérégulation du marché et affrontait l’hostilité du gouvernement. Emmanuel Macron a été, à Bercy, plus qu’un soutien, quasiment un partenaire. Un ministre qui suggère à Uber de transmettre des amendements « clés en main » à des députés amis ; un ministre qu’Uber France n’hésite pas à solliciter en cas de perquisition dans ses locaux ; un ministre qui, ce 1er octobre 2014, « s’excuse presque » de l’entrée en vigueur de la loi Thévenoud, d’après un compte rendu du rendez-vous écrit par le lobbyiste Mark MacGann pour ses collègues anglophones.\nLe groupe américain a aussi rémunéré des experts, dont les économistes français Nicolas Bouzou et Augustin Landier, pour réaliser des études sur mesure et prendre sa défense dans les médias.",
     "url": "https://www.lemonde.fr/pixels/article/2022/07/10/uber-files-revelations-sur-le-deal-secret-entre-uber-et-macron-a-bercy_6134202_4408996.html",
     "date": "2022-07-10",
-    "etiquettes": "Augustin Landier,Emmanuel Macron,Gouvernement Valls II,Ministère de l&#039;économie,Nicolas Bouzou,Uber",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 648,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 1592,
+        "value": "Augustin Landier"
+      },
+      {
+        "id": 1593,
+        "value": "Nicolas Bouzou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 206,
+        "value": "Uber"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -47513,18 +47625,46 @@
     "contenu": "En février dernier, un signalement sur les potentiels conflits d’intérêts de celle qui est aussi présidente d’Île-de-France Mobilités avait été adressé par trois élus franciliens à la procureure de Paris. Le dossier vient d’atterrir au Parquet national financier (PNF).\nDans une enquête en plusieurs volets publiée entre janvier et février 2022, Blast avait révélé la façon dont Mme Pécresse avait invisibilisé ses titres Alstom, après avoir pris la présidence d’Île-de-France Mobilités fin 2015, dans la foulée de sa victoire aux régionales. En créant une fiducie en janvier 2016, sur le mode des trusts anglo-saxons. Le groupe Alstom, un des leaders mondiaux des transports, notamment du rail et du métro, est attributaire régulier de marchés pesant lourd (plusieurs dizaine de millions d'euros, et souvent bien au-delà) initiés et pilotés par IDF Mobilités.",
     "url": "https://www.blast-info.fr/articles/2022/affaire-pecresse-alstom-le-pnf-prend-une-option-simple-7cyoXIAcQlqhYiCoI0aVKg",
     "date": "2022-07-08",
-    "etiquettes": "75 - Paris,Alstom,Les Républicains,Parquet National Financier,Valérie Pécresse",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2762,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 834,
+        "value": "Valérie Pécresse"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 630,
+        "value": "Alstom"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -47602,12 +47742,41 @@
     "contenu": "La ministre déléguée aux PME affirme n’avoir été « en aucun cas responsable des contenus qui étaient rédigé s» par l’entreprise d’intelligence économique. Une version contestée par d’anciens rédacteurs du cabinet, dont CheckNews a recueilli le témoignage.",
     "url": "https://www.liberation.fr/checknews/olivia-gregoire-aurait-supervise-la-production-darticles-sous-faux-profils-lorsquelle-etait-cadre-distrat-selon-danciens-salaries-20220708_CXEMZPWQHZGEFJTPJ6X2TGJXG4/?redirected=1",
     "date": "2022-07-08",
-    "etiquettes": "Avisa Partners,Gouvernement Élisabeth Borne,iStrat,Olivia Grégoire",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1594,
+        "value": "Olivia Grégoire"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 286,
+        "value": "Avisa Partners (ex-iStrat)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
