@@ -1,5 +1,89 @@
 [
   {
+    "id": 2139,
+    "titre": "L’appel de 130 magistrats financiers spécialisés : « La lutte contre la délinquance financière est un investissement vital pour la démocratie et l’Etat de droit »",
+    "contenu": "Alors que le gouvernement devrait bientôt présenter un plan anticorruption, un collectif de magistrats spécialisés appelle, dans une tribune au « Monde », à mieux doter la justice financière, rappelant qu’elle améliore les comptes publics et opère une fonction redistributive entre fraudeurs et honnêtes gens.",
+    "url": "https://www.lemonde.fr/idees/article/2024/04/08/l-appel-de-130-magistrats-financiers-specialises-la-lutte-contre-la-delinquance-financiere-est-un-investissement-vital-pour-la-democratie-et-l-etat-de-droit_6226634_3232.html",
+    "date": "2024-04-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2138,
+    "titre": "L’élu qui a réalisé la sextape de Saint-Étienne incrimine à son tour le maire Gaël Perdriau",
+    "contenu": "Devant les juges d’instruction, l’ancien adjoint Samy Kéfi-Jérôme, qui avait caché une caméra pour piéger un de ses collègues dans une chambre d’hôtel, a présenté Gaël Perdriau comme l’un des « commanditaires » de l’opération. Le maire est lâché de toutes parts, tandis que se profile la fin des investigations.",
+    "url": "https://www.mediapart.fr/journal/france/080424/l-elu-qui-realise-la-sextape-de-saint-etienne-incrimine-son-tour-le-maire-gael-perdriau",
+    "date": "2024-04-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2736,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 937,
+        "value": "Gaël Perdriau"
+      },
+      {
+        "id": 938,
+        "value": "Gilles Artigues"
+      },
+      {
+        "id": 1006,
+        "value": "Pierre Gauttieri"
+      },
+      {
+        "id": 1101,
+        "value": "Samy Kéfi-Jérôme"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2137,
     "titre": "Opération place nette dans l'Yonne : 70 kg de cannabis découverts au domicile de la maire d'Avallon placée en garde à vue",
     "contenu": "Jamilah Habsaoui a été interpellée et placée en garde à vue. Environ 1 kg de cocaïne, un lingot d'or et ainsi que 7 000 euros en liquide ont également été retrouvés par les forces de l'ordre.",
