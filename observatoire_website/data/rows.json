@@ -1,5 +1,46 @@
 [
   {
+    "id": 2141,
+    "titre": "Bientôt jugé pour «favoritisme», l’ancien PDG d’EDF Henri Proglio à nouveau perquisitionné pour une affaire de «corruption»",
+    "contenu": "L’homme de 75 ans, qui sera jugé en mai avec une douzaine de consultants qui ont travaillé pour le groupe, a fait l’objet, avec une élue parisienne, d’une perquisition dans le cadre d’une enquête préliminaire du Parquet national financier. Plusieurs centaines de milliers d’euros ont été découverts en espèces.",
+    "url": "https://www.liberation.fr/societe/police-justice/bientot-juge-pour-favoritisme-lancien-pdg-dedf-henri-proglio-a-nouveau-perquisitionne-pour-une-affaire-de-corruption-20240409_3PMVJERLJJA5LEOMQS2FQZ2OGI/?redirected=1",
+    "date": "2024-04-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 716,
+        "value": "Henri Proglio"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 101,
+        "value": "Électricité de France (EDF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2139,
     "titre": "L’appel de 130 magistrats financiers spécialisés : « La lutte contre la délinquance financière est un investissement vital pour la démocratie et l’Etat de droit »",
     "contenu": "Alors que le gouvernement devrait bientôt présenter un plan anticorruption, un collectif de magistrats spécialisés appelle, dans une tribune au « Monde », à mieux doter la justice financière, rappelant qu’elle améliore les comptes publics et opère une fonction redistributive entre fraudeurs et honnêtes gens.",
