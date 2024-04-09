@@ -66,7 +66,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -48417,7 +48422,12 @@
     "url": "https://acteurspublics.fr/nomination/ulysse-dorioz-rejoint-le-cabinet-de-stanislas-guerini",
     "date": "2022-07-06",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [],
     "categorie": [
@@ -48444,9 +48454,24 @@
         "value": "92 - Hauts-de-Seine"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 646,
+        "value": "Patrick Balkany"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -48479,13 +48504,51 @@
     "contenu": "En juillet 2021, Mediapart révélait un système d’encaissement illégal d’argent liquide au sein du groupe Fnac-Darty. Depuis, quatre directeurs de magasins Darty et un directeur régional ont été mis en examen. Selon de nouveaux documents et témoignages, de nombreux cadres dirigeants du groupe auraient eu connaissance de ces opérations réalisées dans toute la France, au-dessus des seuils légaux.",
     "url": "https://www.mediapart.fr/journal/france/040722/affaire-darty-cinq-mises-en-examen-pour-blanchiment-et-association-de-malfaiteurs",
     "date": "2022-07-04",
-    "etiquettes": "Alexandre Bompard,Darty,François Gazuit,Haziz Fadel",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1620,
+        "value": "Alexandre Bompard"
+      },
+      {
+        "id": 1621,
+        "value": "Haziz Fadel"
+      },
+      {
+        "id": 1622,
+        "value": "François Gazuit"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 701,
+        "value": "Fnac Darty"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2669,
+        "value": "Grande consommation"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -48579,10 +48642,15 @@
     "contenu": "La Commission européenne ne dispose pas de lignes directrices détaillées sur le recours aux consultants externes, expliquent les auditeurs de la Cour des comptes l’Union européenne, qui ont mis en garde contre les risques de conflit d’intérêts et de dépendance excessive à l’égard d’un petit nombre de sociétés de conseil.\nAu cours de leur enquête, les auditeurs de la CCE ont constaté que le recours à des consultants externes financés par le budget de l’UE ne garantit pas entièrement une optimisation des ressources. Si l’étude ne nomme pas de contractants en particulier, elle démontre qu’il existe un risque important de concentration et de dépendance excessive à l’égard d’un petit nombre de sociétés de conseil.",
     "url": "https://www.euractiv.fr/section/institutions/news/la-cour-des-comptes-de-lue-met-en-garde-contre-les-risques-lies-aux-depenses-de-la-commission-pour-les-consultants-externes/",
     "date": "2022-07-01",
-    "etiquettes": "Cour des comptes européenne",
+    "etiquettes": "",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 702,
+        "value": "Cour des comptes européenne (CCE)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
