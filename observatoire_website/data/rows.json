@@ -1,5 +1,62 @@
 [
   {
+    "id": 2142,
+    "titre": "L’ancien chef d’état-major de l’Élysée visé par une enquête pour corruption",
+    "contenu": "La justice soupçonne le général Benoît Puga, en poste sous Nicolas Sarkozy et François Hollande, de s’être compromis avec un richissime sénateur de droite. Ce dernier a bénéficié de nombreuses décorations pour ses proches quand le militaire dirigeait la Légion d’honneur.",
+    "url": "https://www.mediapart.fr/journal/france/090424/l-ancien-chef-d-etat-major-de-l-elysee-vise-par-une-enquete-pour-corruption",
+    "date": "2024-04-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1623,
+        "value": "Benoît Puga"
+      },
+      {
+        "id": 1624,
+        "value": "Jean-Pierre Bansard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 116,
+        "value": "Ministère des armées"
+      },
+      {
+        "id": 370,
+        "value": "Ordre national de la Légion d'honneur"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2141,
     "titre": "Bientôt jugé pour «favoritisme», l’ancien PDG d’EDF Henri Proglio à nouveau perquisitionné pour une affaire de «corruption»",
     "contenu": "L’homme de 75 ans, qui sera jugé en mai avec une douzaine de consultants qui ont travaillé pour le groupe, a fait l’objet, avec une élue parisienne, d’une perquisition dans le cadre d’une enquête préliminaire du Parquet national financier. Plusieurs centaines de milliers d’euros ont été découverts en espèces.",
