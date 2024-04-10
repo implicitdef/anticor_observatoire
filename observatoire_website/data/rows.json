@@ -1,5 +1,70 @@
 [
   {
+    "id": 2145,
+    "titre": "JO de Paris 2024 : le créateur de l’emblème de la compétition porte plainte pour favoritisme et prise illégale d’intérêts",
+    "contenu": "Attributaire en 2019 du marché public lié à la création et au déploiement du logo des Jeux olympiques, Sylvain Boyer estime avoir été illégalement évincé par le comité d’organisation, en 2020, au profit d’une filiale du groupe de communication Havas.",
+    "url": "https://www.lemonde.fr/societe/article/2024/04/10/jo-de-paris-2024-le-createur-de-l-embleme-de-la-competition-porte-plainte-pour-favoritisme-et-prise-illegale-d-interets_6226975_3224.html",
+    "date": "2024-04-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1625,
+        "value": "Sylvain Boyer"
+      },
+      {
+        "id": 1626,
+        "value": "Gilles Deléris"
+      },
+      {
+        "id": 1627,
+        "value": "Denis Gancel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 9,
+        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024 (COJOP)"
+      },
+      {
+        "id": 61,
+        "value": "Havas"
+      },
+      {
+        "id": 705,
+        "value": "W&Cie"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      },
+      {
+        "id": 2668,
+        "value": "Communication / Événementiel"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2142,
     "titre": "L’ancien chef d’état-major de l’Élysée visé par une enquête pour corruption",
     "contenu": "La justice soupçonne le général Benoît Puga, en poste sous Nicolas Sarkozy et François Hollande, de s’être compromis avec un richissime sénateur de droite. Ce dernier a bénéficié de nombreuses décorations pour ses proches quand le militaire dirigeait la Légion d’honneur.",
@@ -38,6 +103,10 @@
       {
         "id": 370,
         "value": "Ordre national de la Légion d'honneur"
+      },
+      {
+        "id": 703,
+        "value": "Alliance solidaire des Français de l’étranger (ASFE)"
       }
     ],
     "categorie": [
@@ -181,6 +250,46 @@
       {
         "id": 2692,
         "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2143,
+    "titre": "Lanton : l'ex-conseiller municipal chargé de l'urbanisme face à la justice pour prise illégale d'intérêts",
+    "contenu": "Un conseiller municipal de Lanton s'est retrouvé à la barre du tribunal correctionnel de Bordeaux ce lundi. Damien Belloc est accusé de prise illégale d'intérêts. En 2022 il avait obtenu sur sa commune un permis de construire qui avait été pourtant refusé à l'ancien propriétaire du terrain.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/lanton-l-ex-conseiller-municipal-charge-de-l-urbanisme-face-a-la-justice-pour-prise-illegale-d-interet-8806869",
+    "date": "2024-04-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2727,
+        "value": "33 - Gironde"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1358,
+        "value": "Marie Larrue"
+      },
+      {
+        "id": 1360,
+        "value": "Damien Belloc"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
       }
     ],
     "titre_corrige": "",
@@ -24745,6 +24854,70 @@
     "a_la_une": false
   },
   {
+    "id": 2144,
+    "titre": "Soirées, vacances et décorations : scandale à la Légion d’honneur",
+    "contenu": "Le sénateur Jean-Pierre Bansard, l’une des 300 premières fortunes de France, s’est montré des plus généreux avec le général Puga, grand chancelier de la Légion d’honneur jusqu’en janvier 2023. Il l’a invité pour des vacances en Corse, l’a convié à des dîners, a offert un contrat à l’un de ses fils. Dans le même temps, nombre de ses proches et soutiens politiques ont été décorés.",
+    "url": "https://www.mediapart.fr/journal/france/120923/soirees-vacances-et-decorations-scandale-la-legion-d-honneur",
+    "date": "2023-09-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1623,
+        "value": "Benoît Puga"
+      },
+      {
+        "id": 1624,
+        "value": "Jean-Pierre Bansard"
+      },
+      {
+        "id": 1628,
+        "value": "Augustin Puga"
+      },
+      {
+        "id": 1629,
+        "value": "Nathalie Bansard"
+      },
+      {
+        "id": 1630,
+        "value": "Yves Minjollet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 370,
+        "value": "Ordre national de la Légion d'honneur"
+      },
+      {
+        "id": 704,
+        "value": "Cible"
+      },
+      {
+        "id": 706,
+        "value": "Puga immobilier construction"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 515,
     "titre": "Adam Farkas rejoint l'Association pour les marchés financiers en Europe",
     "contenu": "Le directeur exécutif de l'Autorité bancaire européenne a démissionné pour diriger l'Association pour les marchés financiers en Europe.",
@@ -48611,7 +48784,7 @@
   },
   {
     "id": 1087,
-    "titre": "Morgane Colas-Weill",
+    "titre": "Morgane Colas-Weill rejoint le cabinet de Bruno Le Maire",
     "contenu": "Habituée des allers-retours public-privé, Morgane Colas-Weill a commencé chez McKinsey avant de travailler en préfectures (Morbihan, Seine St-Denis, Bouches-du-Rhône), puis chez Carrefour en affaires publiques, avant de rejoindre l'inspection des finances comme inspectrice pour 5 ans. Elle retourne ensuite chez Carrefour pour 4 ans, à différents postes de direction. En juillet 2022 elle est nommée directrice adjointe du cabinet du ministère de l’Economie et des Finances, aux côtés de Bruno Le Maire.",
     "url": "https://www.offremedia.com/morgane-colas-weill-directrice-executive-market-france-de-carrefour-rejoint-le-ministere-de",
     "date": "2022-07-04",
@@ -48632,7 +48805,7 @@
   },
   {
     "id": 1088,
-    "titre": "Jonathan Guémas",
+    "titre": "Jonathan Guémas rejoint Publicis",
     "contenu": "Repéré par Gérard Collomb alors qu'il sortait de l'ENS Lyon, il intègre son cabinet en tant que chargé de mission puis conseiller communication. Il intègre ensuite l'entourage d'Emmanuel Macron dont il devient le conseiller stratégie, prospective et discours en 2017. En juin 2022, il quitte l'Élysée pour devenir directeur associé du groupe de communication Publicis France. Il rejoint ainsi son ancien collègue et aujourd'hui patron, Clément Léonarduzzi, ex-conseiller spécial à l'Elysée.",
     "url": "https://www.lefigaro.fr/politique/jonathan-guemas-la-plume-du-president-part-ecrire-la-suite-20220703",
     "date": "2022-07-03",
@@ -48700,7 +48873,16 @@
     "url": "https://www.euractiv.fr/section/institutions/news/la-cour-des-comptes-de-lue-met-en-garde-contre-les-risques-lies-aux-depenses-de-la-commission-pour-les-consultants-externes/",
     "date": "2022-07-01",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 2804,
+        "value": "Luxembourg"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [
       {
@@ -48708,7 +48890,12 @@
         "value": "Cour des comptes européenne (CCE)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -48721,10 +48908,25 @@
     "url": "https://www.lagazettedescommunes.com/815528/le-controle-des-lobbyistes-locaux-un-flop-annonce/",
     "date": "2022-07-01",
     "etiquettes": "Haute Autorité pour la Transparence de la Vie Publique",
-    "departement": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -48736,13 +48938,54 @@
     "contenu": "L'intermédiaire Noël Dubus et l'avocat Gérald Pandelon ont été mis en examen mercredi, notamment pour des soupçons d'escroquerie dans un volet de l'enquête sur le possible financement libyen de la campagne présidentielle 2007 de Nicolas Sarkozy, a appris l'AFP vendredi de sources proches du dossier.\nSollicité par l'AFP, le parquet national financier (PNF) a confirmé que Me Pandelon et Noël Dubus avaient été mis en examen pour escroquerie en bande organisée, faux et usage de faux. Me Pandelon, qui aurait un temps travaillé comme conseil de Noël Dubus, a fait récemment l'objet d'une perquisition.\nNoël Dubus, déjà condamné pour escroquerie, est l'un des principaux protagonistes de l'enquête ouverte en mai 2021 sur des soupçons de paiements à l'intermédiaire Ziad Takieddine, avec l'éventuel aval de Nicolas Sarkozy, afin qu'il retire ses accusations visant l'ancien chef de l'État d'avoir touché de l'argent libyen pour financer sa campagne présidentielle victorieuse de 2007.",
     "url": "https://www.lefigaro.fr/actualite-france/retractation-de-takieddine-un-intermediaire-et-un-avocat-mis-en-examen-dans-le-volet-extorsion-20220701",
     "date": "2022-07-01",
-    "etiquettes": "Gérald Pandelon,Les Républicains,Nicolas Sarkozy,Noël Dubus,Parquet National Financier,Ziad Takieddine",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 586,
+        "value": "Ziad Takieddine"
+      },
+      {
+        "id": 1153,
+        "value": "Noël Dubus"
+      },
+      {
+        "id": 1631,
+        "value": "Gérald Pandelon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
