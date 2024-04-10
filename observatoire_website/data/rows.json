@@ -296,6 +296,54 @@
     "a_la_une": false
   },
   {
+    "id": 2146,
+    "titre": "Le procès des « Panama Papers » s’ouvre lundi",
+    "contenu": "Vingt-sept personnes sont jugées à partir de lundi dans ce scandale d’évasion fiscale et blanchiment d’argent révélé en 2016 par « Le Monde » et 108 autres médias internationaux.",
+    "url": "https://www.lemonde.fr/economie/article/2024/04/08/evasion-fiscale-le-proces-des-panama-papers-s-ouvre-lundi_6226644_3234.html",
+    "date": "2024-04-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3034,
+        "value": "République du Panama"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1632,
+        "value": "Jürgen Mossack"
+      },
+      {
+        "id": 1633,
+        "value": "Ramon Fonseca Mora"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 707,
+        "value": "Mossack Fonseca"
+      },
+      {
+        "id": 708,
+        "value": "Consortium international de journalistes d’investigation (ICIJ)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2137,
     "titre": "Opération place nette dans l'Yonne : 70 kg de cannabis découverts au domicile de la maire d'Avallon placée en garde à vue",
     "contenu": "Jamilah Habsaoui a été interpellée et placée en garde à vue. Environ 1 kg de cocaïne, un lingot d'or et ainsi que 7 000 euros en liquide ont également été retrouvés par les forces de l'ordre.",
