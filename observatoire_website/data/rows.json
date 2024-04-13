@@ -126,6 +126,50 @@
     "a_la_une": false
   },
   {
+    "id": 2147,
+    "titre": "« Face à la montée en puissance du crime organisé, la justice française souffre d’un manque durable de moyens »",
+    "contenu": "Vingt ans après la création des huit juridictions interrégionales spécialisées de France (JIRS), consacrées à la lutte contre le crime organisé, un collectif de plus de 120 magistrats, emmenés par Audrey Bailleul et Marion Cackel, déplore, dans une tribune au « Monde », l’abandon contraint, au sein de ces instances, des volets financiers des enquêtes, pourtant cruciaux pour enrayer ce type de criminalité.",
+    "url": "https://www.lemonde.fr/idees/article/2024/04/08/face-a-la-montee-en-puissance-du-crime-organise-la-justice-francaise-souffre-d-un-manque-durable-de-moyens_6226629_3232.html",
+    "date": "2024-04-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 709,
+        "value": "Juridictions interrégionales spécialisées de France (JIRS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2677,
+        "value": "Police"
+      },
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2141,
     "titre": "Bientôt jugé pour «favoritisme», l’ancien PDG d’EDF Henri Proglio à nouveau perquisitionné pour une affaire de «corruption»",
     "contenu": "L’homme de 75 ans, qui sera jugé en mai avec une douzaine de consultants qui ont travaillé pour le groupe, a fait l’objet, avec une élue parisienne, d’une perquisition dans le cadre d’une enquête préliminaire du Parquet national financier. Plusieurs centaines de milliers d’euros ont été découverts en espèces.",
@@ -340,6 +384,51 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2148,
+    "titre": "Enquête ouverte pour détournement de fonds sur l'emploi de Christian Wang Sang",
+    "contenu": "Le parquet de Papeete a ouvert une enquête préliminaire pour détournements de fonds afin de clarifier la situation du beau-fils de Moetai Brotherson, Christian Wang Sang qui a perçu un salaire de chef de cabinet après avoir été replacé, il y a sept mois, en qualité de chargé de mission à la cellule Tū'aro Nui pour les Jeux olympiques.",
+    "url": "https://www.tahiti-infos.com/Enquete-ouverte-pour-detournement-de-fonds-sur-l-emploi-de-Christian-Wang-Sang_a223179.html",
+    "date": "2024-04-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2789,
+        "value": "987 - Polynésie Française"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1634,
+        "value": "Christian Wang Sang"
+      },
+      {
+        "id": 1635,
+        "value": "Moetai Brotherson"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 710,
+        "value": "Tavini huiraatira"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
