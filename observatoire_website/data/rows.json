@@ -1,5 +1,131 @@
 [
   {
+    "id": 2150,
+    "titre": "Derrière le rachat d’Euronews, la main de Viktor Orban",
+    "contenu": "La chaîne d’information européenne en difficulté, qui bascule de Lyon vers Bruxelles, a été rachetée en 2022 grâce à des fonds fournis par des proches du premier ministre nationaliste hongrois, selon des documents confidentiels.",
+    "url": "https://www.lemonde.fr/economie/article/2024/04/11/derriere-le-rachat-d-euronews-la-main-de-viktor-orban_6227270_3234.html",
+    "date": "2024-04-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 3035,
+        "value": "Hongrie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1636,
+        "value": "Viktor Orbán"
+      },
+      {
+        "id": 1637,
+        "value": "Guillaume Dubois"
+      },
+      {
+        "id": 1638,
+        "value": "Vargas David"
+      },
+      {
+        "id": 1639,
+        "value": "Gyula Balasy"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 711,
+        "value": "Euronews"
+      },
+      {
+        "id": 712,
+        "value": "Alpac"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2149,
+    "titre": "Rétractation de Ziad Takieddine : des protagonistes de l’opération « Sauver Sarko » affirment que l’ancien président était impliqué",
+    "contenu": "Des acteurs de l’opération destinée à blanchir – sans succès – Nicolas Sarkozy dans l’affaire du financement présumé libyen de sa campagne de 2007 témoignent contre l’ancien président dans « Complément d’enquête ».",
+    "url": "https://www.lemonde.fr/societe/article/2024/04/11/retractation-de-ziad-takieddine-des-protagonistes-de-l-operation-sauver-sarko-affirment-que-l-ancien-president-etait-implique_6227289_3224.html",
+    "date": "2024-04-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 586,
+        "value": "Ziad Takieddine"
+      },
+      {
+        "id": 1127,
+        "value": "Thierry Herzog"
+      },
+      {
+        "id": 1152,
+        "value": "Michèle Marchand"
+      },
+      {
+        "id": 1153,
+        "value": "Noël Dubus"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2145,
     "titre": "JO de Paris 2024 : le créateur de l’emblème de la compétition porte plainte pour favoritisme et prise illégale d’intérêts",
     "contenu": "Attributaire en 2019 du marché public lié à la création et au déploiement du logo des Jeux olympiques, Sylvain Boyer estime avoir été illégalement évincé par le comité d’organisation, en 2020, au profit d’une filiale du groupe de communication Havas.",
