@@ -1,15 +1,16 @@
-import type { Metadata } from 'next'
-import { Open_Sans } from 'next/font/google'
-import './globals.css'
-import 'remixicon/fonts/remixicon.css'
-import Link from 'next/link'
-import Image from 'next/image'
+import { InitTarteAuCitron } from '@/components/InitTarteAuCitron'
 import logo from '@/img/logo.png'
+import logoFacebook from '@/img/sociallogos/facebook.svg'
+import logoInstagram from '@/img/sociallogos/instagram.svg'
 import logoMastodon from '@/img/sociallogos/mastodon.svg'
 import logoX from '@/img/sociallogos/x.svg'
-import logoInstagram from '@/img/sociallogos/instagram.svg'
-import logoFacebook from '@/img/sociallogos/facebook.svg'
 import { buildUrlAPropos, buildUrlHome, buildUrlList } from '@/lib/urls'
+import type { Metadata } from 'next'
+import { Open_Sans } from 'next/font/google'
+import Image from 'next/image'
+import Link from 'next/link'
+import 'remixicon/fonts/remixicon.css'
+import './globals.css'
 
 const openSans = Open_Sans({ subsets: ['latin'] })
 
@@ -37,6 +38,7 @@ export default function RootLayout({
             <Menu />
           </div>
         </header>
+        <InitTarteAuCitron />
         <main className="mx-auto grow w-full mb-10">{children}</main>
         <footer className="container mx-auto flex flex-col gap-4 items-center justify-center text-gray-700 mb-10 px-2">
           <p className="text-sm text-center">
