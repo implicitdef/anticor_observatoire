@@ -43,7 +43,7 @@ export default function Fiche({
 
 function MainFiche({ item }: { item: Item }) {
   return (
-    <div className="bg-bleuanticor-200 mb-8">
+    <div className="mb-8">
       <div className="bg-white flex flex-col stretch justify-between px-4 pt-8 pb-8 text-black max-w-4xl mx-auto">
         <div>
           {item.date ? (
