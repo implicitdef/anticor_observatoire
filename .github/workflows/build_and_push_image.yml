@@ -2,7 +2,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main # trigger whenever there's a commit on this
+      - master # trigger whenever there's a commit on this
 
 jobs:
   main-job:
