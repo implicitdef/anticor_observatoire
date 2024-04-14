@@ -11,6 +11,11 @@ jobs:
         working-directory: ./data_collector
     steps:
       - uses: actions/checkout@v4
+        with:
+          # use a Personal Access Token, so that this autocommit from this job
+          # will trigger the deploy job
+          # see https://github.com/stefanzweifel/git-auto-commit-action?tab=readme-ov-file#commits-made-by-this-action-do-not-trigger-new-workflow-runs
+          token: ${{ secrets.MY_GITHUB_PERSONAL_ACCESS_TOKEN }}
       - uses: actions/setup-node@v4
         with:
           node-version: 20
