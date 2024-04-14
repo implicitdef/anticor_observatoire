@@ -14,7 +14,7 @@ import { buildUrlAPropos, buildUrlHome, buildUrlList } from '@/lib/urls'
 const openSans = Open_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'France Corruption',
+  title: 'Observatoire Anticor',
   description: '',
 }
 
