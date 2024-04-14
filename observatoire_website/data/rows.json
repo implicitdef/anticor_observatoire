@@ -48976,16 +48976,40 @@
     "url": "https://www.auto-infos.fr/article/damien-pichereau-rejoint-rev-mobilities.253022",
     "date": "2022-07-06",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3036,
+        "value": "72 - Sarthe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1645,
+        "value": "Damien Pichereau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 714,
+        "value": "Rev Mobilities"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -49142,15 +49166,34 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1521,
+        "value": "Stanislas Guerini"
+      },
+      {
+        "id": 1646,
+        "value": "Ulysse Dorioz"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2660,
+        "value": "Conseil"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -49161,7 +49204,7 @@
     "contenu": "Lundi soir, en séance du conseil municipal, la maire (LR) de la ville des Hauts-de-Seine, Agnès Pottier-Dumas a annoncé aux élus que la municipalité allait se constituer partie civile dans un dossier pour lequel son prédécesseur, Patrick Balkany, a été mis en examen en février 2021 pour « abus de biens sociaux, prise illégale d’intérêts et détournements de fonds publics ».\nEn se constituant partie civile dans un dossier impliquant son ancien emblématique maire, la municipalité coupe le cordon ombilical avec lui. Entre 2008 et 2012, des immeubles de bureaux voués à la démolition, acquis par la Semarelp que présidait alors l’édile auraient été mis à disposition de son ex-gendre, sans versement de loyer.",
     "url": "https://www.leparisien.fr/hauts-de-seine-92/levallois-perret-lache-definitivement-patrick-balkany-05-07-2022-WEY5F2HYP5AQPKUDSK6ZZ2G55Q.php",
     "date": "2022-07-05",
-    "etiquettes": "92 – Hauts de Seine,Les Républicains,Patrick Balkany",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2765,
@@ -49198,16 +49241,40 @@
     "url": "https://www.strategies.fr/actualites/agences/LQ756945C/nouvelle-organisation-havas-paris.html",
     "date": "2022-07-05",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 655,
+        "value": "Jean Castex"
+      },
+      {
+        "id": 1644,
+        "value": "Mayada Boulos"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 61,
+        "value": "Havas"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2668,
+        "value": "Communication / Événementiel"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -49273,16 +49340,40 @@
     "url": "https://www.offremedia.com/morgane-colas-weill-directrice-executive-market-france-de-carrefour-rejoint-le-ministere-de",
     "date": "2022-07-04",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 730,
+        "value": "Bruno Le Maire"
+      },
+      {
+        "id": 1088,
+        "value": "Morgane Colas-Weill"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2669,
+        "value": "Grande consommation"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -49294,37 +49385,89 @@
     "url": "https://www.lefigaro.fr/politique/jonathan-guemas-la-plume-du-president-part-ecrire-la-suite-20220703",
     "date": "2022-07-03",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1643,
+        "value": "Jonathan Guémas"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 668,
+        "value": "Publicis Groupe"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2668,
+        "value": "Communication / Événementiel"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1093,
-    "titre": "Antoine Evennou",
+    "titre": "Antoine Evennou rejoint Accenture",
     "contenu": "Passé par la FCPE, la MGEN et la MACIF, il est nommé en novembre 2018 directeur de cabinet de Gabriel Attal, alors secrétaire d'État auprès du ministre de l’Éducation nationale et de la Jeunesse. Sarah El Hairy, secrétaire d’État à la Jeunesse et à l’engagement dans le gouvernement de Jean Castex, le recrute comme directeur adjoint de son cabinet en juillet 2020. En juin 2021 il rejoint le cabinet de conseil Accenture, en tant que Manager, spécialisé dans le Conseil en stratégie et innovation publique .",
     "url": "https://acteurspublics.fr/nomination/lex-directeur-de-cabinet-de-sarah-el-hairy-rejoint-une-entreprise-de-conseil-et-de-technologies",
     "date": "2022-07-01",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1641,
+        "value": "Sarah El Hairy"
+      },
+      {
+        "id": 1642,
+        "value": "Antoine Evennou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 213,
+        "value": "Ministère de l'Éducation nationale"
+      },
+      {
+        "id": 368,
+        "value": "Accenture"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2660,
+        "value": "Conseil"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -49335,18 +49478,38 @@
     "contenu": "Lorsqu’il était aux commandes de Woippy, l’actuel maire de Metz avait fait voter une hausse de certains salaires de collaborateurs. La chambre régionale des comptes avait tiqué, l’association Anticor aussi. L’affaire avait été classée sans suite. Mais Anticor est revenue à la charge. La justice enquête… depuis Paris.",
     "url": "https://www.republicain-lorrain.fr/faits-divers-justice/2022/07/01/le-maire-de-metz-a-nouveau-dans-le-viseur-de-la-justice",
     "date": "2022-07-01",
-    "etiquettes": "57 - Moselle,François Grosdidier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2748,
         "value": "57 - Moselle"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 881,
+        "value": "François Grosdidier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -49391,7 +49554,7 @@
     "contenu": "Lancement retardé, critères imprécis et manque de sensibilisation des élus locaux et des entreprises : l’extension du répertoire des représentants d’intérêts au monde local sera un défi, tant il cumule les embûches et les flous juridiques.\nConcrètement, cette réforme, issue de la loi « Sapin 2 » du 11 octobre 2013, oblige les représentants d’intérêts à déclarer leurs activités d’influence sur un répertoire national, dont la gestion est confiée à la HATVP. Ce recueil, en vigueur depuis cinq ans pour les seules décisions nationales, est étendu à compter du 1er juillet à la sphère locale.\nEn octobre dernier, la haute autorité a publié une étude sur l’encadrement de la représentation d’intérêts dans laquelle elle dresse un bilan au vitriol. Parmi les griefs figure celui du champ des décisions publiques concernées : « trop large », « mal défini », d’après l’institution présidée par ­Didier ­Migaud. Selon ce dernier, « cette définition entraîne un nombre trop important d’informations retranscrites, or trop d’informations noie l’information ».\nAutre trou dans la raquette : le critère d’initiative. Selon la loi, une action de représentation d’intérêts ne peut être considérée comme telle que si l’entrée en communication avec le responsable public est réalisée à l’initiative du lobby. Ce qui exclut de facto du champ du répertoire toutes celles conduites en réponse à une demande de ­responsables publics, « constituant une part non négligeable de l’activité des représentants d’intérêts », selon l’étude de la HATVP.",
     "url": "https://www.lagazettedescommunes.com/815528/le-controle-des-lobbyistes-locaux-un-flop-annonce/",
     "date": "2022-07-01",
-    "etiquettes": "Haute Autorité pour la Transparence de la Vie Publique",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2762,
@@ -49479,7 +49642,7 @@
     "contenu": "A l’échelle des 52 millions que pourrait coûter le futur « Arbre aux hérons » nantais (dernière estimation en date), cela peut sembler une petite goutte d’eau. Mais une goutte d’eau qui en dit long sur la manière dont ce dossier est géré et sur l’inflation faramineuse qu’a connu le projet depuis son lancement il y a une dizaine d’années. Jeudi 30 juin, l’antenne d’Anticor en Loire-Atlantique publie un communiqué dans lequel il s’étonne « des montant des honoraires décidés et accordés pour la Mission d’assistance et d’expertise juridique concernant cette opération ».",
     "url": "https://www.mediacites.fr/breve/nantes/2022/06/30/arbre-aux-herons-carrousel-auran-nantes-cumule-les-problemes-avec-ses-marches-publics/",
     "date": "2022-06-30",
-    "etiquettes": "44 – Loire-Atlantique,Anticor",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2738,
@@ -49487,8 +49650,18 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -49500,13 +49673,58 @@
     "contenu": "En 2013, une information judiciaire est ouverte contre des sociétés du groupe français, soupçonnées d’avoir financé la réélection du président du Togo, Faure Gnassingbé, dont la famille monopolise le pouvoir depuis plus de cinquante ans, par l’intermédiaire d’une filiale du groupe, qui aurait sous-facturé ses services. En échange, le dirigeant africain aurait permis à Vincent Bolloré de récupérer la concession du port de Lomé, le seul port en eau profonde de la côte ouest africaine.\nJugés le 26 février 2021 devant le tribunal judiciaire de Paris, les trois hommes reconnaissent les faits qui leur ont été reprochés. Ils plaident coupables pour les faits de corruption active d’agent public étranger et complicité d’abus de confiance au Togo, et acceptent le paiement d’une amende de 375 000 euros chacun. Toutefois cette procédure, négociée en amont avec le Parquet national financier, et qui devait éviter la tenue d’un procès, est rejetée par le tribunal judiciaire de Paris, qui estime que les faits sont trop graves.\nPour ces mêmes faits la société Bolloré SE, a quant à elle, pu bénéficier d’une procédure de justice négociée par la conclusion d’une Convention Judiciaire d’Intérêt Public (CJIP) aux termes de laquelle elle devra s’acquitter d’une amende de 12 millions d’euros mais échappe aux autres sanctions pénales dont une très importante : l’interdiction de concourir à un marché public. Sherpa et Anticor se sont constituées dans le cadre de cette information judiciaire notamment pour rappeler l’importance de la tenue de débats publics concernant les faits de corruption, et alerter sur les dangers et dérives de toutes les formes de justice négociée qui se sont développées récemment.",
     "url": "https://www.asso-sherpa.org/corruption-au-togo-sherpa-et-anticor-se-constituent-parties-civiles-dans-le-cadre-du-proces-bollore",
     "date": "2022-06-30",
-    "etiquettes": "Anticor,Faure Gnassingbé,Groupe Bolloré,Parquet National Financier,Sherpa",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 3030,
+        "value": "Togo"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 641,
+        "value": "Vincent Bolloré"
+      },
+      {
+        "id": 1600,
+        "value": "Faure Gnassingbé"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 60,
+        "value": "Bolloré"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 141,
+        "value": "Sherpa"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -49516,12 +49734,49 @@
     "contenu": "Roselyne Bachelot envisage de travailler à nouveau dans les médias maintenant qu’elle n’est plus ministre de la Culture. À la rentrée, elle sera de retour dans « Les Grosses Têtes » sur « RTL » et aimerait également participer à des émissions sur « BFMTV » et « France Musique ». La Haute Autorité pour la transparence de la vie publique donnera sa réponse cet été.",
     "url": "https://www.ouest-france.fr/politique/roselyne-bachelot/roselyne-bachelot-pourrait-travailler-sur-bfmtv-france-musique-et-rtl-des-la-rentree-7839100",
     "date": "2022-06-30",
-    "etiquettes": "Gouvernement Jean Castex,Ministère de la Culture,Roselyne Bachelot",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1439,
+        "value": "Roselyne Bachelot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 73,
+        "value": "BFM TV"
+      },
+      {
+        "id": 277,
+        "value": "Ministère de la Culture"
+      },
+      {
+        "id": 355,
+        "value": "Radio France"
+      },
+      {
+        "id": 715,
+        "value": "RTL"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -49529,14 +49784,38 @@
   {
     "id": 1098,
     "titre": "L'ancienne ministre Florence Parly bientôt au conseil d'administration d'Air France-KLM ?",
-    "contenu": "L'ancienne ministre des Armées pourrait succéder à Anne-Marie Couderc mais sa candidature devra être validée par la Haute autorité pour la transparence de la vie publique (HATVP).\nLa Tribune note que l'éventuelle nomination de Mme Parly, ministre des Armées de juin 2017 à mai 2022, devra recevoir l'aval de la Haute autorité pour la transparence de la vie publique (HATVP). Or, si son portefeuille ministériel n'était pas lié au groupe, ce n'est pas le cas de l'ancien poste de son époux. Martin Vial vient en effet de quitter la tête de l'Agence des participations de l'Etat (APE), et il représentait ès qualités la puissance publique au conseil d'administration d'Air France-KLM.",
+    "contenu": "L'ancienne ministre des Armées pourrait succéder à Anne-Marie Couderc mais sa candidature devra être validée par la Haute autorité pour la transparence de la vie publique (HATVP). La Tribune note que l'éventuelle nomination de Mme Parly, ministre des Armées de juin 2017 à mai 2022, devra recevoir l'aval de la Haute autorité pour la transparence de la vie publique (HATVP). Or, si son portefeuille ministériel n'était pas lié au groupe, ce n'est pas le cas de l'ancien poste de son époux. Martin Vial vient en effet de quitter la tête de l'Agence des participations de l'Etat (APE), et il représentait ès qualités la puissance publique au conseil d'administration d'Air France-KLM.",
     "url": "https://www.capital.fr/entreprises-marches/lancienne-ministre-florence-parly-bientot-au-conseil-dadministration-dair-france-klm-1440408",
     "date": "2022-06-29",
-    "etiquettes": "Air France-KLM,Florence Parly,Haute Autorité pour la Transparence de la Vie Publique",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 738,
+        "value": "Florence Parly"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 58,
+        "value": "Air France KLM"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -49548,11 +49827,31 @@
     "contenu": "Quand Ursula von der Leyen a vanté un « jour véritablement historique » au lancement, à l’été 2021, du gigantesque plan de relance européen, personne n’a contesté la prétention de la présidente de la Commission européenne. Les 700 milliards d’euros débloqués pour enrayer le choc économique dû au Covid-19 relèvent du jamais-vu sur le continent. Mais, un an plus tard, Bruxelles et les Vingt-Sept se montrent beaucoup plus réservés à l’heure de répondre à une question en apparence simple : « Où est passé l’argent ? »\nEn octobre 2021, la même Ursula von der Leyen promettait de « garantir la transparence » des crédits européens, défendant l’idée qu’il s’agit d’une condition du succès du plan de relance. Mais, derrière ce discours de façade, l’Union européenne (UE) délivre les informations sur l’utilisation de ses subsides au compte-gouttes, démontre l’enquête du collectif #RecoveryFiles, lancée par la plate-forme néerlandaise d’investigation Follow the Money, et dont Le Monde est partenaire.",
     "url": "https://www.lemonde.fr/economie/article/2022/06/29/malgre-les-engagements-de-bruxelles-l-utilisation-des-fonds-du-plan-de-relance-europeen-manque-de-transparence_6132454_3234.html",
     "date": "2022-06-29",
-    "etiquettes": "Commission européenne,Ursula von der Leyen",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1306,
+        "value": "Ursula von der Leyen"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 175,
+        "value": "Commission Européenne"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -49564,16 +49863,31 @@
     "contenu": "Trente-quatre logements sociaux ont été inaugurés mercredi à Paris sur un terrain ayant appartenu à Rifaat al-Assad, l'oncle du président syrien, dans l'un des quartiers les plus huppés de l'Ouest parisien. La mairie de Paris avait versé 9,5 millions d'euros d'indemnités d'expropriation à la Caisse des Dépôts.\nEn septembre 2021, l'ancien vice-président de Syrie Rifaat al-Assad, âgé de 84 ans, avait été reconnu coupable par la cour d'appel de Paris de blanchiment en bande organisée et de détournement de fonds publics syriens entre 1996 et 2016.\nLa cour avait ordonné la confiscation de l'ensemble de ses biens immobiliers frauduleusement acquis, évalués à 90 millions d'euros, et l'avait en outre condamné pour blanchiment de fraude fiscale aggravée et pour le travail dissimulé d'employés de maison. La Cour de cassation examinera le 7 septembre le pourvoi formé par Rifaat al-Assad.",
     "url": "https://www.bfmtv.com/paris/paris-des-logements-sociaux-inaugures-sur-un-ancien-terrain-de-la-famille-al-assad_AD-202206290679.html",
     "date": "2022-06-29",
-    "etiquettes": "75 - Paris,Rifaat al-Assad",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2762,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1529,
+        "value": "Rifaat al-Assad"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 42,
+        "value": "Caisse des dépôts et consignations (CDC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
