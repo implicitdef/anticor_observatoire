@@ -1,5 +1,82 @@
 [
   {
+    "id": 2157,
+    "titre": "Après la voyante ventriloque, le maire d'Agde visé par deux nouvelles affaires",
+    "contenu": "Mis en examen pour détournement de fonds publics notamment, le maire d’Agde Gilles D’Ettore (LR) est également visé par une vaste enquête sur le plus grand chantier d’Occitanie, mêlant un promoteur fantôme et une luxueuse villa.",
+    "url": "https://www.marianne.net/societe/police-et-justice/apres-la-voyante-ventriloque-le-maire-d-agde-vise-par-deux-nouvelles-affaires",
+    "date": "2024-04-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1457,
+        "value": "Gilles d'Ettore"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2153,
+    "titre": "Le maire de Koungou, Assani Saindou Bamcolo, en garde à vue pour plusieurs infractions",
+    "contenu": "Assani Saindou Bamcolo, maire de Koungou, est actuellement en garde à vue pour une enquête portant sur des infractions de favoritisme, prise illégale d'intérêt, détournement de fonds publics et recel de ces infractions.",
+    "url": "https://la1ere.francetvinfo.fr/mayotte/koungou/le-maire-de-koungou-assani-saindou-bamcolo-en-garde-a-vue-pour-des-soupcons-de-malversations-1480010.html",
+    "date": "2024-04-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2787,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1640,
+        "value": "Assani Saindou Bamcolo"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2150,
     "titre": "Derrière le rachat d’Euronews, la main de Viktor Orban",
     "contenu": "La chaîne d’information européenne en difficulté, qui bascule de Lyon vers Bruxelles, a été rachetée en 2022 grâce à des fonds fournis par des proches du premier ministre nationaliste hongrois, selon des documents confidentiels.",
@@ -69,6 +146,101 @@
     "a_la_une": false
   },
   {
+    "id": 2154,
+    "titre": "En pleine lutte anti-drogue, des soupçons de corruption au sein de l'Office anti-stupéfiants de la police judiciaire de Marseille",
+    "contenu": "Des enquêteurs de l'Office anti-stupéfiants de la très respectée police judiciaire à Marseille sont dans le viseur de la police des polices pour des soupçons de corruption, une affaire qui tombe mal en pleine opération \"Place nette XXL\" contre les trafics de drogue qui gangrènent la ville.",
+    "url": "https://www.nicematin.com/faits-divers/en-pleine-lutte-anti-drogue-a-marseille-soupcons-de-corruption-au-sein-de-l-ofast-914953",
+    "date": "2024-04-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 63,
+        "value": "Office antistupéfiants (Ofast)"
+      },
+      {
+        "id": 235,
+        "value": "Inspection générale de la Police nationale (IGPN)"
+      },
+      {
+        "id": 619,
+        "value": "Ministère de l'Intérieur"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2156,
+    "titre": "Lutte anticorruption : la France a encore des progès à faire",
+    "contenu": "Le Groupe d’Etats contre la corruption (Greco), a rendu le mercredi 10 avril 2024 son deuxième «rapport de conformité» sur la politique française en la matière. Pour en conclure qu’elle «ne se conforme pas suffisamment» à ses précédentes recommandations. La France est certes bien loin d’être le pays le plus corrompu de la planète, mais le diable se niche parfois dans quelques détails. Le Greco loue certes le travail de la Haute autorité pour la transparence de la vie publique (HATVP) et de l’Agence française anticorruption (AFA), qui épluchent régulièrement les patrimoines et conflits d’intérêts potentiels des décideurs publics, essentiellement les ministres et leurs proches conseillers. Mais il souhaiterait que cette vigilance soit étendue à toute «personne exerçant une haute fonction exécutive» (PHSE, dans son jargon), soit un spectre bien plus large – voire à son conjoint ou enfants, au risque d’une atteinte à la vie privée, comme l’a déjà pointé le Conseil constitutionnel.",
+    "url": "https://www.liberation.fr/societe/police-justice/lutte-anticorruption-la-france-a-encore-des-proges-a-faire-20240411_HVVPSL7EURHQRA334LM5LFIHBQ/?redirected=1",
+    "date": "2024-04-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 68,
+        "value": "Cour de Justice de la République (CJR)"
+      },
+      {
+        "id": 74,
+        "value": "Agence française anticorruption (AFA)"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 503,
+        "value": "Groupe d’Etats contre la corruption (GRECO)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2149,
     "titre": "Rétractation de Ziad Takieddine : des protagonistes de l’opération « Sauver Sarko » affirment que l’ancien président était impliqué",
     "contenu": "Des acteurs de l’opération destinée à blanchir – sans succès – Nicolas Sarkozy dans l’affaire du financement présumé libyen de sa campagne de 2007 témoignent contre l’ancien président dans « Complément d’enquête ».",
@@ -122,6 +294,55 @@
         "value": "Enquête"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2155,
+    "titre": "L'ombre d'Anthenor plane sur les débats sur le verdissement des flottes automobiles",
+    "contenu": "Le cabinet d'affaires publiques Anthenor, qui représente plusieurs lobbies du secteur de la mobilité, a soufflé certains amendements à la proposition de loi sur le verdissement des flottes automobiles portée par Damien Adam. Ce dernier a lui-même prêté l'oreille à leurs arguments.",
+    "url": "https://www.lalettre.fr/fr/action-publique_lobbying/2024/04/10/l-ombre-d-anthenor-plane-sur-les-debats-sur-le-verdissement-des-flottes-automobiles%252C110202934-art",
+    "date": "2024-04-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 7,
+        "value": "Damien Adam"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 713,
+        "value": "Anthenor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -65990,6 +66211,22 @@
   },
   {
     "id": 523,
+    "titre": "",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2152,
     "titre": "",
     "contenu": "",
     "url": "",
