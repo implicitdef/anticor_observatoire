@@ -90,7 +90,7 @@ function Logo() {
       <Image
         src={logo}
         width={130}
-        height={61}
+        priority
         alt="Logo de l'Observatoire, par Anticor"
       />
       <span className="uppercase font-bold text-xl bg-bleuanticor-500 px-2 mt-2 text-white tracking-tight bg-bleXuanticor-100">
