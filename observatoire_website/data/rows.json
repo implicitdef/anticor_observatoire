@@ -1,5 +1,103 @@
 [
   {
+    "id": 2158,
+    "titre": "« Abu Dhabi Secrets » : les barbouzes des Émirats visés par les justices française et suisse",
+    "contenu": "Suite aux révélations de Mediapart et de l’EIC, les justices française et suisse ont ouvert des enquêtes contre l’agence genevoise Alp Services et son patron Mario Brero, qui ont mené en Europe des opérations de renseignement, de fichage et de déstabilisation pour le compte des Émirats arabes unis.",
+    "url": "https://www.mediapart.fr/journal/international/150424/abu-dhabi-secrets-les-barbouzes-des-emirats-vises-par-les-justices-francaise-et-suisse",
+    "date": "2024-04-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2812,
+        "value": "Suisse"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2794,
+        "value": "Émirats arabes unis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 647,
+        "value": "Mohammed ben Zayed Al Nahyane"
+      },
+      {
+        "id": 948,
+        "value": "Alexandre Benalla"
+      },
+      {
+        "id": 996,
+        "value": "Mario Brero"
+      },
+      {
+        "id": 1655,
+        "value": "Sihem Souid"
+      },
+      {
+        "id": 1656,
+        "value": "Muriel Cavin"
+      },
+      {
+        "id": 1657,
+        "value": "Zakia Khattabi"
+      },
+      {
+        "id": 1658,
+        "value": "Tariq Ramadan"
+      },
+      {
+        "id": 1659,
+        "value": "Hazim Nada"
+      },
+      {
+        "id": 1660,
+        "value": "Rokhaya Diallo"
+      },
+      {
+        "id": 1661,
+        "value": "Benoît Hamon"
+      },
+      {
+        "id": 1662,
+        "value": "Samia Ghali"
+      },
+      {
+        "id": 1663,
+        "value": "Taha Bouhafs"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 722,
+        "value": "Alp Services"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2157,
     "titre": "Après la voyante ventriloque, le maire d'Agde visé par deux nouvelles affaires",
     "contenu": "Mis en examen pour détournement de fonds publics notamment, le maire d’Agde Gilles D’Ettore (LR) est également visé par une vaste enquête sur le plus grand chantier d’Occitanie, mêlant un promoteur fantôme et une luxueuse villa.",
@@ -49896,16 +49994,49 @@
   {
     "id": 1100,
     "titre": "Détournement de frais de mandat : Cambadélis se voit refuser une procédure de « plaider-coupable »",
-    "contenu": "L'ancien premier secrétaire du Parti socialiste Jean-Christophe Cambadélis s'est vu refuser mardi 28 juin une procédure de plaider-coupable qui lui aurait évité un procès dans une affaire de détournement de frais de mandat parlementaire pour un montant total de 114 000 euros entre 2015 et 2017.\nÀ la barre, l'ex-élu a reconnu les faits et accepté la peine, proposée par le parquet national financier (PNF), de six mois d'emprisonnement avec sursis et un an d'inéligibilité également assorti du sursis. Il a par ailleurs commencé à rembourser l'Assemblée nationale. Mais le président a refusé d'homologuer cette peine, estimant qu'elle n'était pas adaptée à la «gravité des faits (…) commis par un élu de la République» et regrettant que le PNF n'ait pas proposé en plus une amende. Le procureur avait expliqué un peu plus tôt ne pas avoir retenu l'amende pour tenir compte d'«une situation d'infortune» de Jean-Christophe Cambadélis et car une peine de prison était «plus forte qu'une peine d'amende», qui risquait de «rester lettre morte».",
+    "contenu": "L'ancien premier secrétaire du Parti socialiste Jean-Christophe Cambadélis s'est vu refuser mardi 28 juin une procédure de plaider-coupable qui lui aurait évité un procès dans une affaire de détournement de frais de mandat parlementaire pour un montant total de 114 000 euros entre 2015 et 2017. À la barre, l'ex-élu a reconnu les faits et accepté la peine, proposée par le parquet national financier (PNF), de six mois d'emprisonnement avec sursis et un an d'inéligibilité également assorti du sursis. Il a par ailleurs commencé à rembourser l'Assemblée nationale. Mais le président a refusé d'homologuer cette peine, estimant qu'elle n'était pas adaptée à la «gravité des faits (…) commis par un élu de la République» et regrettant que le PNF n'ait pas proposé en plus une amende. Le procureur avait expliqué un peu plus tôt ne pas avoir retenu l'amende pour tenir compte d'«une situation d'infortune» de Jean-Christophe Cambadélis et car une peine de prison était «plus forte qu'une peine d'amende», qui risquait de «rester lettre morte».",
     "url": "https://www.lefigaro.fr/flash-actu/detournement-de-frais-de-mandat-cambadelis-se-voit-refuser-une-procedure-de-plaider-coupable-20220628",
     "date": "2022-06-28",
-    "etiquettes": "Assemblée Nationale,Jean-Christophe Cambadélis,Parquet National Financier,Parti Socialiste",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1647,
+        "value": "Jean-Christophe Cambadélis"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2690,
+        "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -49915,12 +50046,41 @@
     "contenu": "Le PDG de la société de joaillerie Dinh Van, épinglé par les «Dubaï Papers» en 2018, a été condamné mardi à quinze mois de prison avec sursis et à une amende 600.000 euros pour avoir dissimulé des millions de dividendes dans des paradis fiscaux. Lors d'une audience de comparution sur reconnaissance préalable de culpabilité (CRPC) au tribunal judiciaire de Paris, sorte de plaider-coupable à la française, Frédéric Laporte a reconnu les faits reprochés, notamment de blanchiment de fraude fiscale et blanchiment de fraude fiscale aggravé. Il a accepté la peine négociée avec le Parquet national financier (PNF), que le juge du siège, Alain Alçufrom, a ensuite homologuée.",
     "url": "https://amp-lefigaro-fr.cdn.ampproject.org/c/s/amp.lefigaro.fr/flash-eco/evasion-fiscale-condamnation-d-un-pdg-epingle-par-les-dubai-papers-20220628",
     "date": "2022-06-28",
-    "etiquettes": "Dinh Van,Frédéric Laporte,Parquet National Financier",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1649,
+        "value": "Frédéric Laporte"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 718,
+        "value": "Dinh Van"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -49931,13 +50091,38 @@
     "contenu": "L’ancien ministre délégué aux PME Alain Griset a été condamné mardi à Lille à un an d’emprisonnement avec sursis et trois ans d’inéligibilité pour avoir placé des fonds d’un syndicat qu’il présidait sur un PEA personnel. Le tribunal, qui l’a également condamné à une amende de 5 000 euros, a « tenu compte de l’absence d’antécédent et de la restitution des fonds ». Alain Griset a été reconnu coupable d'« abus de confiance » et de faux et usage de faux.\nIl est « indifférent qu’il n’y ait pas d’enrichissement, quoique les investigations n’aient pas été à même d’évaluer précisément la plus-value » réalisée, a souligné le tribunal, le placement ayant privé le propriétaire des fonds, la Confédération nationale de l’artisanat des métiers et des services (Cnams) du Nord, de leur jouissance. À l’audience fin mai, l’ancien ministre (2020-2021), 69 ans, avait assuré avoir commis « une maladresse », mais ni « tricherie » ni « vol ».",
     "url": "https://www.sudouest.fr/justice/l-ex-ministre-alain-griset-condamne-a-un-an-de-prison-avec-sursis-pour-abus-de-confiance-11464427.php",
     "date": "2022-06-28",
-    "etiquettes": "Alain Griset,Cnams,Gouvernement Jean Castex",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1058,
+        "value": "Alain Griset"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 717,
+        "value": "Confédération nationale de l'artisanat des métiers et des services (CNAMS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -49947,11 +50132,35 @@
     "contenu": "J-M Huguet, membre du bureau national d’Alliance Police nationale est convoqué devant un tribunal correctionnel pour abus de biens sociaux, blanchiment et faux. Il doit aussi passer en conseil de discipline pour extorsion de fonds et corruption. . Les faits reprochés seraient en lien avec l’activité professionnelle d’une ancienne compagne, sur la période 2015-2017.",
     "url": "https://www.streetpress.com/sujet/1656335280-cadre-alliance-police-nationale-mis-cause-abus-biens-sociaux-justice",
     "date": "2022-06-28",
-    "etiquettes": "Alliance Police nationale,Jean-Michel Huguet",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1648,
+        "value": "Jean-Michel Huguet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 189,
+        "value": "Direction nationale de la Police judiciaire (DNPJ)"
+      },
+      {
+        "id": 716,
+        "value": "Alliance Police nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -49963,38 +50172,85 @@
     "contenu": "Lundi 27 juin, la 4ème chambre du tribunal correctionnel de Bordeaux condamne Jean-François Boras, le maire de Langoiran. Il écope de huit mois de prison avec sursis et de 30.000 euros d’amende, dont 15.000 avec sursis, pour « favoritisme en toute connaissance de cause » dans le projet de rénovation du presbytère en habitat partagé.\nPour rappel, le 1er août 2019, Dominique Jobard, élue de l’opposition, donne l’alerte au procureur. Elle sollicite le procureur de la République dans un courrier où elle pointe du doigt une « suspicion de conflit d’intérêts et de délit de favoritisme » dans le cadre de la rénovation du presbytère pour la création d’un habitat partagé. Elle remarque que l’association, créée et présidée par l’édile de Langoiran pour l’étude de faisabilité du projet à ce moment-là, a été confiée à l’architecte Frédéric Raffy. Celui-là même qui a déposé le permis de construire pour la rénovation du presbytère et qui s’est vu par la suite attribuer le marché de maîtrise d’œuvre.",
     "url": "https://actu.fr/nouvelle-aquitaine/langoiran_33226/gironde-le-maire-de-langoiran-condamne-pour-favoritisme-au-tribunal-de-bordeaux_52069960.html",
     "date": "2022-06-27",
-    "etiquettes": "33 – Gironde,Frédéric Raffy,Jean-François Boras",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2727,
         "value": "33 - Gironde"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1650,
+        "value": "Jean-François Boras"
+      },
+      {
+        "id": 1651,
+        "value": "Frédéric Raffy"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1106,
-    "titre": "Julien Dumond",
+    "titre": "Julien Dumond rejoint CMA-CGM",
     "contenu": "Diplômé de l’École des ponts Paristech, il a travaillé au Trésor, puis à l'ambassade de France en Chine, avant de revenir au Trésor en tant que Chef du bureau des produits et marchés d’assurance. En septembre 2021 il est nommé Directeur de cabinet adjoint de Cédric O, le Secrétaire d’Etat chargé de la Transition numérique et des communications électroniques. En 2022 il rejoint l'armateur de porte-conteneurs français CMA-CGM.",
     "url": "https://www.lalettrea.fr/action-publique_executif/2022/06/27/le-dircab--adjoint-de-cedric-o-arrive-chez-cma-cgm,109795018-bre",
     "date": "2022-06-27",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 679,
+        "value": "Cédric O"
+      },
+      {
+        "id": 1652,
+        "value": "Julien Dumond"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 721,
+        "value": "CMA CGM (Compagnie maritime d'affrètement - Compagnie générale maritime)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -50005,7 +50261,7 @@
     "contenu": "Dans un communiqué de presse, la société Orea, spécialisée dans la maintenance des canalisations près de Lyon, accuse l'Agglomération montargoise d'avoir, à son détriment, favorisé une autre entreprise. L'Agglo conteste fermement et se réserve le droit de poursuivre cette entreprise devant la justice. Elle rejette aussi le principe de recours gracieux.",
     "url": "https://www.larep.fr/montargis-45200/actualites/favoritisme-l-agglo-montargoise-mise-en-cause-par-une-entreprise-dans-l-attribution-d-un-marche-public_14148850/",
     "date": "2022-06-27",
-    "etiquettes": "45 - Loiret,Orea",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2739,
@@ -50013,8 +50269,22 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 719,
+        "value": "Orea"
+      },
+      {
+        "id": 720,
+        "value": "Terideal"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -50026,12 +50296,41 @@
     "contenu": "Anne Lauvergeon s’est vu notifier un redressement concernant les avantages en nature qu'Areva lui a accordé pendant l’année suivant son départ, c’est-à-dire entre mi-2011 et mi-2012 : mise à disposition d’un véhicule, paiement du salaire d’un chauffeur et d’une secrétaire. Ces avantages (en incluant aussi un garde du corps) se chiffraient à 635.262 euros, selon les comptes d’Areva.\nLe fisc a découvert ces avantages lors d’un contrôle fiscal d’Areva. Il a considéré que le groupe d'énergie n’avait confié à Anne Lauvergeon aucune mission justifiant ces dépenses, hormis un poste purement honorifique de présidente d’honneur du directoire. Bercy a donc conclu qu’elle avait bénéficié de “rémunérations et avantages occultes”, et l’a redressée pour cela, lui infligeant une pénalité de 40% pour “manquement délibéré”.",
     "url": "https://www.capital.fr/entreprises-marches/anne-lauvergeon-ecope-dun-lourd-redressement-fiscal-1421460",
     "date": "2022-06-24",
-    "etiquettes": "Anne Lauvergeon,Areva",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1319,
+        "value": "Anne Lauvergeon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 27,
+        "value": "Direction générale des finances publiques (DGFIP)"
+      },
+      {
+        "id": 516,
+        "value": "Areva"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -50040,7 +50339,7 @@
     "id": 1109,
     "titre": "Détournements de fonds publics à l'AMEP : une relaxe et une condamnation",
     "contenu": "Jugé fin mai pour détournement de fonds publics, l'ancien directeur général de l'AMEP, Joseph Fonsat, écope d'une peine d'un an de prison avec sursis, de 100 000 euros d'amende et d'une inéligibilité de 5 ans. La cheffe d'établissement de l'AMEP CFA BTP, Eliane Trébeau, est relaxée.",
-    "url": "https://www.martinique.franceantilles.fr/actualite/education/detournements-de-fonds-publics-a-l-amep-une-relaxe-et-une-condamnation-610259.php",
+    "url": "https://www.martinique.franceantilles.fr/actualite/education/detournements-de-fonds-publics-a-lamep-une-relaxe-et-une-condamnation-490898.php",
     "date": "2022-06-24",
     "etiquettes": "972 - Martinique,AMEP,Eliane Trébeau,Joseph Fonsat",
     "departement": [
@@ -50049,7 +50348,12 @@
         "value": "972 - Martinique"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1654,
+        "value": "Joseph Fonsat"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -50063,18 +50367,46 @@
     "contenu": "Daniel Sperling, ancien adjoint de Jean-Claude Gaudin, élu entre 2001 et 2020, délégué au numérique, a-t-il réellement fourni le travail pour lequel il était embauché entre 2007 et 2017 par les hôpitaux de Marseille (AP-HM) ?\nSi le mis en cause l’assure, la justice en doute et l'a mis en examen pour détournement de fonds public, avec un préjudice estimé d’un million d’euros par les enquêteurs du Parquet national financier dans le cadre de cet emploi fictif présumé. L’affaire, révélée par Marsactu en 2016, arrive au tribunal de Paris ce lundi, avec toutes les chances d’être renvoyée.",
     "url": "https://www.20minutes.fr/justice/3314799-20220624-marseille-ancien-adjoint-accuse-emploi-fictif-demande-complement-information-parquet-national-financier",
     "date": "2022-06-24",
-    "etiquettes": "13 - Bouches-du-Rhône,Daniel Sperling,Jean-Claude Gaudin",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2708,
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1361,
+        "value": "Daniel Sperling"
+      },
+      {
+        "id": 1653,
+        "value": "Jean-Claude Gaudin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -50274,7 +50606,7 @@
   },
   {
     "id": 1118,
-    "titre": "Frédéric Mion",
+    "titre": "Frédéric Mion rejoint Gide Loyrette Nouel",
     "contenu": "Diplômé de Sciences Po Paris, ancien élève de l’ENS Ulm et de l’ENA, il débute sa carrière en intégrant le Conseil d’Etat en 1996 comme auditeur puis maître des requêtes. En 2000, il rejoint le ministère de l’Education nationale comme conseiller au cabinet du ministre, puis, en 2001, celui de la fonction publique, comme adjoint au Directeur général de l’administration et de la fonction publique. Il devient avocat en 2003 au sein du cabinet Allen et Overy LLP. En 2007, il pantoufle chez Canal+ en tant que Secrétaire général. En 2013 il devient directeur de Sciences Po Paris pour 8 ans. En 2021 il réintègre le Conseil d’Etat. En 2022, il rejoint le cabinet d'affaires Gide Loyrette Nouel en tant qu'associé.",
     "url": "https://www.gide.com/fr/actualites/frederic-mion-rejoint-gide-en-qualite-dassocie",
     "date": "2022-06-22",
@@ -50347,7 +50679,7 @@
   },
   {
     "id": 1119,
-    "titre": "Matthieu Heurtel",
+    "titre": "Matthieu Heurtel rejoint Morgan Stanley",
     "contenu": "Fondateur du service Dossierfacile, qui propose aux propriétaires de biens immobiliers de repérer pour eux les faux justificatifs dans les dossiers de location, il est nommé conseiller auprès de Cédric O, quand celui-ci est secrétaire d’Etat chargé du Numérique. Il part en septembre 2021 pour rejoindre la banque Morgan Stanley, avant de cofonder l'école Albert School, une école de commerce « data-centric ».",
     "url": "https://www.politico.eu/article/bourbonnite-aigue-observatoire-de-la-charentaise-ppl-mckinsey/",
     "date": "2022-06-22",
