@@ -98,6 +98,46 @@
     "a_la_une": false
   },
   {
+    "id": 2160,
+    "titre": "Des marchés publics au coeur de la garde à vue du maire de Koungou et de son DGS",
+    "contenu": "La garde à vue du maire de Koungou, Assani Saindou Bamcolo et de son directeur général des services, Alain Manteau, a été levée ce samedi à 18h. D'après le procureur, ils sont suspectés de favoritisme, prise illégale d'intérêt et détournement de fonds publics pour les modalités de passation des marchés publics de la municipalité.",
+    "url": "https://la1ere.francetvinfo.fr/mayotte/des-marches-publics-au-coeur-de-la-garde-a-vue-du-maire-de-koungou-et-de-son-dgs-1480208.html",
+    "date": "2024-04-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2787,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1640,
+        "value": "Assani Saindou Bamcolo"
+      },
+      {
+        "id": 1664,
+        "value": "Alain Manteau"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2157,
     "titre": "Après la voyante ventriloque, le maire d'Agde visé par deux nouvelles affaires",
     "contenu": "Mis en examen pour détournement de fonds publics notamment, le maire d’Agde Gilles D’Ettore (LR) est également visé par une vaste enquête sur le plus grand chantier d’Occitanie, mêlant un promoteur fantôme et une luxueuse villa.",
@@ -831,6 +871,47 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2159,
+    "titre": "Le procès pour favoritisme et corruption passive de Nicolas Best, l’ancien directeur du CHU de Nîmes devrait avoir lieu fin août",
+    "contenu": "La cour de cassation n’a pas retenu, ce 26 mars 2024, la deuxième question prioritaire de constitutionnalité, déposée par l’une des parties, au procès pour favoritisme et corruption passive de Nicolas Best, l’ancien directeur du CHU de Nîmes.",
+    "url": "https://www.midilibre.fr/2024/04/08/le-proces-pour-favoritisme-et-corruption-passive-de-nicolas-best-lancien-directeur-du-chu-de-nimes-devrait-avoir-lieu-fin-aout-11878207.php",
+    "date": "2024-04-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2724,
+        "value": "30 - Gard"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 813,
+        "value": "Nicolas Best"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 162,
+        "value": "Centre hospitalier universitaire (CHU) de Nîmes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2148,
@@ -50341,7 +50422,7 @@
     "contenu": "Jugé fin mai pour détournement de fonds publics, l'ancien directeur général de l'AMEP, Joseph Fonsat, écope d'une peine d'un an de prison avec sursis, de 100 000 euros d'amende et d'une inéligibilité de 5 ans. La cheffe d'établissement de l'AMEP CFA BTP, Eliane Trébeau, est relaxée.",
     "url": "https://www.martinique.franceantilles.fr/actualite/education/detournements-de-fonds-publics-a-lamep-une-relaxe-et-une-condamnation-490898.php",
     "date": "2022-06-24",
-    "etiquettes": "972 - Martinique,AMEP,Eliane Trébeau,Joseph Fonsat",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2784,
@@ -50352,12 +50433,31 @@
       {
         "id": 1654,
         "value": "Joseph Fonsat"
+      },
+      {
+        "id": 1665,
+        "value": "Eliane Trébeau"
       }
     ],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 724,
+        "value": "AMEP Martinique"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -50458,18 +50558,38 @@
     "contenu": "Le maire du Puy-en-Velay a été placé en garde à vue mercredi matin. Cette dernière a été levée le jour-même, en fin d'après-midi. Michel Chapuis a été entendu dans le cadre de l'enquête préliminaire ouverte par le Parquet national financier pour « des chefs de favoritisme, de corruption et de trafic d’influence » dans le dossier de la délégation de service public de la future halle du Marché couvert du Puy-en-Velay.",
     "url": "https://www.lamontagne.fr/puy-en-velay-43000/actualites/marche-couvert-michel-chapuis-maire-du-puy-a-ete-mis-en-garde-a-vue-mercredi_14149437/",
     "date": "2022-06-23",
-    "etiquettes": "43 - Haute-Loire,Michel Chapuis",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2737,
         "value": "43 - Haute-Loire"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 610,
+        "value": "Michel Chapuis"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 254,
+        "value": "Union des démocrates et indépendants (UDI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -50479,10 +50599,24 @@
     "contenu": "Anticor a indiqué mercredi vouloir obtenir qu’un juge d’instruction enquête sur la sous-gouverneure de la Banque de France concernant d’anciennes prestations réalisées pour un groupe de réflexion américain, après le classement sans suite d’une première enquête. Anticor avait déjà déposé une plainte simple en 2019 visant l’ex-eurodéputée, éphémère ministre des Armées d’Emmanuel Macron en 2017 et actuellement numéro trois de la Banque de France depuis 2018. Le PNF avait ouvert une enquête préliminaire, classée sans suite le 19 novembre 2020 pour « absence d’infraction ».\nL’association estime « insuffisantes » les investigations menées par le PNF et a donc déposé à Paris, le 9 juin, une plainte avec constitution de partie civile, ce qui permet quasi systématiquement la saisine d’un juge d’instruction. Le PNF a indiqué n’avoir pas reçu cette plainte à ce jour. Celle-ci vise les délits de corruption passive, trafic d’influence passif, prise illégale d’intérêts et abus de confiance. Anticor s’interroge sur la réalité du travail effectué par l’ancienne députée européenne pour l’Institut Berggruen, centre de réflexion basé en Californie, mais aussi et surtout sur les éventuelles contreparties en échange des rémunérations versées dans le cadre de ce contrat.",
     "url": "https://www.20minutes.fr/justice/3313827-20220623-parquet-national-financier-anticor-veut-nouvelle-enquete-sylvie-goulard-apres-premier-classement-suite",
     "date": "2022-06-23",
-    "etiquettes": "Anticor,Gouvernement Édouard Philippe 2,Institut Berggruen,Parquet National Financier,Sylvie Goulard",
+    "etiquettes": "Anticor,Gouvernement Édouard Philippe 2,Institut Berggruen",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 947,
+        "value": "Sylvie Goulard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
