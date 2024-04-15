@@ -1,32 +1,59 @@
-# Base Image
-FROM node:20
+FROM node:20-alpine AS base
 
-#  Set the working directory
+
+# Install dependencies only when needed
+FROM base AS deps
+
+RUN apk add --no-cache libc6-compat
 WORKDIR /app
 
-# Copy package.json and yarn.lock files
-COPY package.json yarn.lock ./
+# Install deps
+COPY package.json yarn.lock* ./
+RUN yarn --frozen-lockfile
 
-# Install dependencies
-RUN yarn install --frozen-lockfile
 
-# Copy the rest of your application's code
+# Rebuild source code only when needed
+FROM base AS builder
+WORKDIR /app
+COPY --from=deps /app/node_modules ./node_modules
 COPY . .
+
+# Disable nextjs telemetry
+ENV NEXT_TELEMETRY_DISABLED 1
 
 # Build your Next.js application
 RUN yarn build
 
-# Document that the port 3000 is meant to be used
+
+# Production image
+FROM base AS runner
+WORKDIR /app
+
+ENV NODE_ENV production
+# Disable nextjs telemetry
+ENV NEXT_TELEMETRY_DISABLED 1
+
+RUN addgroup --system --gid 1001 nodejs
+RUN adduser --system --uid 1001 nextjs
+
+COPY --from=builder /app/public ./public
+
+# Set correct permissions
+RUN mkdir .next
+RUN chown nextjs:nodejs .next
+
+# Automatically leverage output traces to reduce image size
+COPY --from=builder --chown=nextjs:nodejs /app/.next/standalone ./
+COPY --from=builder --chown=nextjs:nodejs /app/.next/static ./.next/static
+
+USER nextjs
+
 EXPOSE 3000
 
-# Define the command to run your app
-# This uses the start script defined in your package.json
-CMD ["yarn", "start"]
-
-
+CMD ["node", "server.js"]
 
 ###################
-# Typical ommands 
+# Typical commands
 #
 # Builds the image
 # docker build -t observatoire .
