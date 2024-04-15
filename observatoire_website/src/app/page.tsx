@@ -26,6 +26,8 @@ export default function Home() {
     allItems,
   )
 
+  console.log('@@@ a la une', laUneItem)
+
   // DOUBLON avec les actus vues plus haut
   const itemsActualites = allItems
     .filter((_) => _.categorie.some((_) => _.value === 'Actualité'))
@@ -120,7 +122,7 @@ function ALaUneBanner({ item }: { item: Item }) {
           <span className="">{readTitre(item)}</span>{' '}
         </h1>
         <p className="text-base uppercase text-bleuanticor-100 font-normal mb-2">
-          Le 8 février 2024
+          Le {formatDateVerbose(item.date)}
         </p>
         <p className="text-bleuanticor-100 text-lg text-left">{item.contenu}</p>
       </LinkToItem>
