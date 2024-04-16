@@ -98,6 +98,42 @@
     "a_la_une": false
   },
   {
+    "id": 2161,
+    "titre": "La date du procès repoussée pour l'ancien président du conseil départemental de l'Allier, Jean-Paul Dufrègne",
+    "contenu": "Le tribunal correctionnel de Moulins a renvoyé le dossier qui concernait l’ancien président du conseil départemental, Jean-Paul Dufrègne, pour une question juridique. Une nouvelle audience ne sera pas reprogrammée avant plusieurs mois.",
+    "url": "https://www.lamontagne.fr/moulins-03000/actualites/la-date-du-proces-repoussee-pour-l-ancien-president-du-conseil-departemental-de-l-allier-jean-paul-dufregne_14486102/",
+    "date": "2024-04-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2700,
+        "value": "03 - Allier"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1666,
+        "value": "Jean-Paul Dufrègne"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2160,
     "titre": "Des marchés publics au coeur de la garde à vue du maire de Koungou et de son DGS",
     "contenu": "La garde à vue du maire de Koungou, Assani Saindou Bamcolo et de son directeur général des services, Alain Manteau, a été levée ce samedi à 18h. D'après le procureur, ils sont suspectés de favoritisme, prise illégale d'intérêt et détournement de fonds publics pour les modalités de passation des marchés publics de la municipalité.",
