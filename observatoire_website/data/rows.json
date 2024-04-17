@@ -50,6 +50,99 @@
     "a_la_une": true
   },
   {
+    "id": 2167,
+    "titre": "Scandale de la Légion d’honneur : des nouvelles décorations suspectes",
+    "contenu": "L’ouverture d’une enquête judiciaire délie les langues sur le fonctionnement de la Légion d’honneur. Au cœur des questionnements : un lobbyiste immobilier, proche du grand chancelier Benoît Puga, qui entretenait des relations d’affaires avec des bénéficiaires de décorations.",
+    "url": "https://www.mediapart.fr/journal/france/160424/scandale-de-la-legion-d-honneur-des-nouvelles-decorations-suspectes",
+    "date": "2024-04-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1439,
+        "value": "Roselyne Bachelot"
+      },
+      {
+        "id": 1623,
+        "value": "Benoît Puga"
+      },
+      {
+        "id": 1624,
+        "value": "Jean-Pierre Bansard"
+      },
+      {
+        "id": 1675,
+        "value": "Julien Renault"
+      },
+      {
+        "id": 1676,
+        "value": "Pauline Duval"
+      },
+      {
+        "id": 1677,
+        "value": "Éric Duval"
+      },
+      {
+        "id": 1678,
+        "value": "Guillaume Puga"
+      },
+      {
+        "id": 1679,
+        "value": "Philippe Journo"
+      },
+      {
+        "id": 1680,
+        "value": "Karine Journo"
+      },
+      {
+        "id": 1681,
+        "value": "Emmanuel Launiau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 70,
+        "value": "Compagnie de Phalsbourg"
+      },
+      {
+        "id": 370,
+        "value": "Ordre national de la Légion d'honneur"
+      },
+      {
+        "id": 726,
+        "value": "Groupe Duval"
+      },
+      {
+        "id": 727,
+        "value": "Quartus"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2158,
     "titre": "« Abu Dhabi Secrets » : les barbouzes des Émirats visés par les justices française et suisse",
     "contenu": "Suite aux révélations de Mediapart et de l’EIC, les justices française et suisse ont ouvert des enquêtes contre l’agence genevoise Alp Services et son patron Mario Brero, qui ont mené en Europe des opérations de renseignement, de fichage et de déstabilisation pour le compte des Émirats arabes unis.",
