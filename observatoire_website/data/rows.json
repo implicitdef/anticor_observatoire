@@ -1,5 +1,50 @@
 [
   {
+    "id": 2169,
+    "titre": "Après dix ans d’existence, l’office anticorruption entre excellence et saturation",
+    "contenu": "Le service est devenu un acteur important de la lutte contre les atteintes à la probité et la délinquance fiscale… tout en souffrant d’un manque chronique de moyens humains.",
+    "url": "https://www.lemonde.fr/societe/article/2024/04/17/apres-dix-ans-d-existence-l-office-anticorruption-entre-excellence-et-saturation_6228397_3224.html",
+    "date": "2024-04-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1687,
+        "value": "Guillaume Hézard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 730,
+        "value": "Office national antifraude"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2168,
     "titre": "De l’affaire Cahuzac au livre de Bardella, l’étrange vie «professionnelle personnelle» de Jean-François Achilli, journaliste phare de France Info",
     "contenu": "Mis à pied par Radio France pour son implication dans le projet de livre du président du RN, l’animateur des «Informés» a, durant toute sa carrière, allégrement pratiqué le mélange des genres, de la campagne de Nicolas Sarkozy à ses ménages pour la société de conseil en communication Tilder.",
@@ -93,6 +138,124 @@
     "a_la_une": false
   },
   {
+    "id": 2174,
+    "titre": "La justice française saisit des biens immobiliers de proches de Poutine",
+    "contenu": "Une villa au Pays basque liée à l’ex-épouse de Vladimir Poutine et un appartement parisien détenu par l’ex-femme du porte-parole du Kremlin ont été saisis en décembre 2023 dans le cadre d’enquêtes pour blanchiment d’argent.",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2024/04/17/la-justice-francaise-saisit-des-biens-immobiliers-de-proches-de-poutine_6228386_4355770.html",
+    "date": "2024-04-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2811,
+        "value": "Russie"
+      },
+      {
+        "id": 2754,
+        "value": "64 - Pyrénées-Atlantiques"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1092,
+        "value": "Vladimir Poutine"
+      },
+      {
+        "id": 1689,
+        "value": "Lioudmila Poutina"
+      },
+      {
+        "id": 1690,
+        "value": "Artur Ocheretny"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 64,
+        "value": "Office central pour la répression de la grande délinquance financière (OCRGDF)"
+      },
+      {
+        "id": 265,
+        "value": "Transparency International"
+      },
+      {
+        "id": 731,
+        "value": "Organized Crime and Corruption Reporting Project (OCCRP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2170,
+    "titre": "La magistrate Hélène Gerhards, mise en cause pour ses liens supposés avec le banditisme corse, va être remise en liberté",
+    "contenu": "Juge d’instruction en Corse de 2010 à 2016, Mme Gerhards est mise en examen pour onze infractions, dont association de malfaiteurs et détournement de fonds publics.",
+    "url": "https://www.lemonde.fr/societe/article/2024/04/17/mise-en-cause-pour-ses-liens-supposes-avec-le-banditisme-corse-la-magistrate-helene-gerhards-remise-en-liberte_6228331_3224.html",
+    "date": "2024-04-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      },
+      {
+        "id": 2722,
+        "value": "2A - Corse-du-Sud"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 997,
+        "value": "Hélène Gerhards"
+      },
+      {
+        "id": 998,
+        "value": "Johann Carta"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2166,
     "titre": "Affaire Business France : après Muriel Pénicaud, une nouvelle mise en examen chez Havas",
     "contenu": "Le patron d’Havas Paris, filiale de Vivendi, est soupçonné de recel de favoritisme dans le cadre du voyage d’Emmanuel Macron à Las Vegas en 2016.",
@@ -141,6 +304,152 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2171,
+    "titre": "Affaire Ghosn : le PDG de Renault Jean-Dominique Sénard porte plainte contre Rachida Dati pour «dénonciation calomnieuse»",
+    "contenu": "Mise en examen pour «corruption passive», la ministre de la Culture accuse le patron du constructeur automobile de refuser de communiquer à la justice des éléments pouvant l’innocenter.",
+    "url": "https://www.liberation.fr/politique/affaire-ghosn-le-pdg-de-renault-jean-dominique-senard-porte-plainte-contre-rachida-dati-pour-denonciation-calomnieuse-20240416_FUCSTJEUIJG47EZG4URKPRBTNU/?redirected=1",
+    "date": "2024-04-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 617,
+        "value": "Carlos Ghosn"
+      },
+      {
+        "id": 1688,
+        "value": "Jean-Dominique Sénard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      },
+      {
+        "id": 277,
+        "value": "Ministère de la Culture"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2172,
+    "titre": "Ingérence russe au Parlement européen : la justice française saisie d’une plainte",
+    "contenu": "Une plainte pour corruption d’eurodéputés vient d’être transmise au Parquet National Financier (PNF) dans la lignée des enquêtes menées, en Belgique, sur les dessous du Qatargate.",
+    "url": "https://www.marianne.net/economie/ingerence-russe-au-parlement-europeen-la-justice-francaise-saisie-dune-plainte",
+    "date": "2024-04-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2173,
+    "titre": "L’ex-directeur de Sciences po Aix condamné à un an et demi de prison avec sursis",
+    "contenu": "Le tribunal judiciaire d’Aix-en-Provence a condamné ce 16 avril l’ancien directeur de Science po Aix Christian Duval ainsi que celui qui était son adjoint, Stéphane Boudrandi, notamment pour escroquerie. Le premier écope d’un an et demi de prison avec sursis. Le second de la moitié. Ils devront verser solidairement 30 000 euros en indemnisation du préjudice de l’institut d’études politiques (IEP). Ils sont en revanche relaxés des accusations de détournement de fonds publics et de ce que le parquet qualifiait de faux diplômes.",
+    "url": "https://marsactu.fr/bref/lex-directeur-de-sciences-po-aix-condamne-a-un-an-et-demi-de-prison-avec-sursis/",
+    "date": "2024-04-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1223,
+        "value": "Christian Duval"
+      },
+      {
+        "id": 1224,
+        "value": "Stéphane Boudrandi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 459,
+        "value": "Institut d'études politiques d'Aix-en-Provence (Sciences Po Aix)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2167,
