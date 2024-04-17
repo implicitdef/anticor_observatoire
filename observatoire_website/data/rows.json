@@ -1,5 +1,98 @@
 [
   {
+    "id": 2168,
+    "titre": "De l’affaire Cahuzac au livre de Bardella, l’étrange vie «professionnelle personnelle» de Jean-François Achilli, journaliste phare de France Info",
+    "contenu": "Mis à pied par Radio France pour son implication dans le projet de livre du président du RN, l’animateur des «Informés» a, durant toute sa carrière, allégrement pratiqué le mélange des genres, de la campagne de Nicolas Sarkozy à ses ménages pour la société de conseil en communication Tilder.",
+    "url": "https://www.liberation.fr/economie/medias/de-laffaire-cahuzac-au-livre-de-bardella-letrange-vie-professionnelle-personnelle-de-jean-francois-achilli-journaliste-phare-de-france-info-20240417_MWAOCO4OTBBWHDLC5I7ZCUCVM4/",
+    "date": "2024-04-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 819,
+        "value": "Matthias Leridon"
+      },
+      {
+        "id": 1474,
+        "value": "Jean-François Achilli"
+      },
+      {
+        "id": 1682,
+        "value": "Franck Louvrier"
+      },
+      {
+        "id": 1683,
+        "value": "Jean-Pierre Elkabbach"
+      },
+      {
+        "id": 1684,
+        "value": "Jérôme Cahuzac"
+      },
+      {
+        "id": 1685,
+        "value": "Laurent Bigorgne"
+      },
+      {
+        "id": 1686,
+        "value": "Chloé Morin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 76,
+        "value": "Société nationale des chemins de fer français (SNCF)"
+      },
+      {
+        "id": 167,
+        "value": "Tilder"
+      },
+      {
+        "id": 220,
+        "value": "Europe 1"
+      },
+      {
+        "id": 355,
+        "value": "Radio France"
+      },
+      {
+        "id": 599,
+        "value": "Groupe Casino"
+      },
+      {
+        "id": 728,
+        "value": "Franprix"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2166,
     "titre": "Affaire Business France : après Muriel Pénicaud, une nouvelle mise en examen chez Havas",
     "contenu": "Le patron d’Havas Paris, filiale de Vivendi, est soupçonné de recel de favoritisme dans le cadre du voyage d’Emmanuel Macron à Las Vegas en 2016.",
@@ -60029,15 +60122,25 @@
     "contenu": "Selon le Journal de l'île de La Réunion (JIR), une enquête judiciaire est ouverte dans l'affaire des emplois au cabinet de Didier Robert lorsque celui-ci était président du Conseil régional. La chambre régionale des comptes avait déjà épinglé Didier Robert pour des embauches supposées illégales au cabinet. 22 collaborateurs seraient concernés.",
     "url": "https://www.ipreunion.com/actualites-reunion/reportage/2021/07/16/une-information-du-jir-emplois-au-cabinet-de-didier-robert-une-enquete-judiciaire-ouverte,138181.html",
     "date": "2021-07-16",
-    "etiquettes": "974 – La Réunion,Didier Robert",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2786,
         "value": "974 - La Réunion"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1392,
+        "value": "Didier Robert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -61447,15 +61550,25 @@
     "contenu": "Candidat à un troisième mandat, le président du conseil régional de La Réunion, Didier Robert (divers droite), va devoir affronter localement une nouvelle tempête politique. Condamné le 21 mai à quinze mois de prison avec sursis et trois ans d’inéligibilité par le tribunal judiciaire de Saint-Denis, après avoir perçu des rémunérations litigieuses dans la société publique Réunion des musées régionaux, Didier Robert, qui a fait appel, est épinglé pour s’être entouré d’un cabinet pléthorique et très coûteux. Selon un rapport de la chambre régionale des comptes (CRC), le responsable de la collectivité disposait en 2020 « d’au moins » 22 conseillers techniques et chargés de mission, en plus des six collaborateurs autorisés par la loi. Pour un coût de plus de 1,4 million d’euros par an.\nSelon l’analyse de la CRC, ces conseillers techniques n’occupent pas des fonctions purement administratives mais remplissent des missions qui « s’apparentent à des activités politiques ». Ils doivent être comptés parmi les collaborateurs de cabinet dont l’emploi par des autorités territoriales est strictement encadré par une loi de 1987. La CRC souligne que ces recrutements ont été opérés de façon « discrétionnaire », sans transparence et sans appel à candidature. Les magistrats financiers s’étonnent aussi que les fiches de poste de ces conseillers techniques soient « succinctes » et présentent « un caractère vague ». La CRC évoque en outre un « risque de confusion entre fonctions politiques et administratives » en raison des engagements politiques de 18 de ces conseillers. « Onze étaient candidats en tête de liste lors des élections municipales de 2020. » Et huit avaient été « par le passé collaborateurs de cabinet d’autorités locales ».",
     "url": "https://www.lemonde.fr/politique/article/2021/06/07/la-reunion-le-president-du-conseil-regional-epingle-pour-son-cabinet-trop-politique_6083213_823448.html",
     "date": "2021-06-07",
-    "etiquettes": "974 – La Réunion,Didier Robert",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2786,
         "value": "974 - La Réunion"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1392,
+        "value": "Didier Robert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -62307,15 +62420,25 @@
     "contenu": "Le tribunal correctionnel condamne Didier Robert, vendredi 21 mai, à trois ans d’inéligibilité et 15 mois de prison avec sursis, dans l'affaire des Musées Régionaux. Une condamnation qui tombe mal pour le président de Région, candidat à sa réélection pour les élections de juin prochain. Les avocats du président sortant de la Région ont déjà prévenu qu'ils feraient appel.",
     "url": "https://la1ere.francetvinfo.fr/reunion/affaire-des-musees-regionaux-didier-robert-condamne-a-trois-ans-d-ineligibilite-et-15-mois-de-prison-avec-sursis-1014304.html",
     "date": "2021-05-21",
-    "etiquettes": "974 – La Réunion,Didier Robert",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2786,
         "value": "974 - La Réunion"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1392,
+        "value": "Didier Robert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -63564,15 +63687,29 @@
     "contenu": "Alors qu’il briguera en juin un troisième mandat à la tête de la Région Réunion, Didier Robert, 56 ans, va d’abord devoir ferrailler à la barre du tribunal correctionnel de Saint-Denis de La Réunion pour s’épargner une encombrante condamnation à la veille d’un scrutin capital pour la suite de sa carrière politique. Le chef de file de la droite républicaine dans l’île doit en effet répondre ce jeudi 22 avril de faits d’abus de biens sociaux, prises illégales d’intérêt et concussion, passibles d’emprisonnement et d’une peine d’inéligibilité.\nL’affaire, dite de la SPL-Réunion des musées régionaux (RMR), a fait grand bruit sur l’île de l’océan Indien. Elle débute fin 2018 à l’occasion d’un contrôle réalisé par la chambre régionale des comptes (CRC), qui soulève le caractère irrégulier des émoluments que le président de région se serait fait voter « sans fondement juridique » en tant que président-directeur général de cette société publique locale à hauteur de 6800 euros nets mensuels à compter de juillet 2017, avec effet rétroactif à partir de mars 2016. Une rémunération de 52 % supérieure à celle de son prédécesseur dont n’a pas eu connaissance non plus la HATVP, qui signale à son tour les faits au parquet en avril 2019. Face au scandale, qui connaît son climax en décembre 2019 en pleine crise des Gilets jaunes, Didier Robert finit par renoncer à son mandat de président de la SPL-RMR en démissionnant de ses fonctions.",
     "url": "https://www.leparisien.fr/faits-divers/affaire-des-musees-regionaux-le-president-de-la-region-reunion-devant-la-justice-21-04-2021-23Y7JODCM5BPXIHXFAJJHNHFYE.php",
     "date": "2021-04-21",
-    "etiquettes": "974 – La Réunion,Anticor,Didier Robert",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2786,
         "value": "974 - La Réunion"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1392,
+        "value": "Didier Robert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
