@@ -1,5 +1,191 @@
 [
   {
+    "id": 2176,
+    "titre": "Affaire des emplois présumés fictifs à la Région : 12 mois avec sursis et 5 ans d’inéligibilité requis contre Didier Robert",
+    "contenu": "Au quatrième jour de procès, l’ancien président de Région, Didier Robert a répondu aux questions du tribunal dans l’affaire des emplois présumés fictifs au cabinet de la Région. En début d’après-midi, les réquisitions sont tombées à son encontre, ainsi que pour les autres prévenus.",
+    "url": "https://la1ere.francetvinfo.fr/reunion/affaire-des-emplois-presumes-fictifs-a-la-region-12-mois-avec-sursis-et-5-ans-d-ineligibilite-requis-contre-didier-robert-1481501.html",
+    "date": "2024-04-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2786,
+        "value": "974 - La Réunion"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1392,
+        "value": "Didier Robert"
+      },
+      {
+        "id": 1667,
+        "value": "Jean-Louis Lagourgue"
+      },
+      {
+        "id": 1668,
+        "value": "Sabrina Ramin"
+      },
+      {
+        "id": 1669,
+        "value": "Yves Ferrière"
+      },
+      {
+        "id": 1671,
+        "value": "Alfred Ablancourt"
+      },
+      {
+        "id": 1702,
+        "value": "Yoland Velleyen"
+      },
+      {
+        "id": 1703,
+        "value": "Jean-Charles Maroudé"
+      },
+      {
+        "id": 1704,
+        "value": "Ravy Vellayoudom"
+      },
+      {
+        "id": 1705,
+        "value": "Yannick Gironcel"
+      },
+      {
+        "id": 1706,
+        "value": "Ismaël Aboudou"
+      },
+      {
+        "id": 1707,
+        "value": "Vincent Bègue"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2175,
+    "titre": "Comment le maire d’Agde est tombé sous l’emprise d’une voyante ventriloque et la voix de « l’archange Michaël »",
+    "contenu": "En détention provisoire depuis un mois, Gilles d’Ettore, élu depuis deux décennies, a reconnu avoir été influencé par Sophia Martinez, une médium à la belle réputation locale, à qui il a accordé largesses et cadeaux via des entrepreneurs locaux.",
+    "url": "https://www.lemonde.fr/societe/article/2024/04/18/comment-le-maire-d-agde-est-tombe-sous-l-emprise-de-la-voix-de-l-archange-michael_6228464_3224.html",
+    "date": "2024-04-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1457,
+        "value": "Gilles d'Ettore"
+      },
+      {
+        "id": 1692,
+        "value": "Sophia Martinez"
+      },
+      {
+        "id": 1693,
+        "value": "Cédric Martinez"
+      },
+      {
+        "id": 1694,
+        "value": "Thyl Zoete"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 462,
+        "value": "Eiffage"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2177,
+    "titre": "Procès du sénateur Stéphane Ravier pour un emploi octroyé à son fils : des peines de prison avec sursis et d’inéligibilité requises",
+    "contenu": "Thomas Ravier avait été embauché comme vacataire aux espaces verts de la Ville de Marseille, puis titularisé. Son père, élu Reconquête ! des Bouches-du-Rhône, est jugé pour prise illégale d’intérêts du temps où il était le maire (à l’époque Front national) des 13ᵉ et 14ᵉ arrondissements de la cité phocéenne.",
+    "url": "https://www.lemonde.fr/societe/article/2024/04/18/proces-du-senateur-stephane-ravier-pour-un-emploi-octroye-a-son-fils-des-peines-de-prison-avec-sursis-et-d-ineligibilite-requises_6228412_3224.html",
+    "date": "2024-04-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1104,
+        "value": "Stéphane Ravier"
+      },
+      {
+        "id": 1708,
+        "value": "Thomas Ravier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 74,
+        "value": "Agence française anticorruption (AFA)"
+      },
+      {
+        "id": 179,
+        "value": "Reconquête"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2169,
     "titre": "Après dix ans d’existence, l’office anticorruption entre excellence et saturation",
     "contenu": "Le service est devenu un acteur important de la lutte contre les atteintes à la probité et la délinquance fiscale… tout en souffrant d’un manque chronique de moyens humains.",
@@ -51487,28 +51673,56 @@
   },
   {
     "id": 1123,
-    "titre": "Aigline de Ginestous",
+    "titre": "Aigline de Ginestous rejoint Unibail Rodamco Westfield",
     "contenu": "Elle a commencé dans le contrôle de gestion chez Airbus avant de se spécialiser dans la finance (Société Générale, Lehman Brothers, Rothschild). Elle fait les campagnes de 2017 avec LREM puis est cheffe de cabinet et conseillère de Roland Lescure à la Présidence de la Commission des Affaires Economiques de l'Assemblée. Elle est ensuite conseillère au Ministère de l'Économie et des Finances pendant près de trois ans, avant de passer au lobbying en mai 2021 pour Unibail Rodamco Westfield.",
     "url": "https://www.politico.eu/article/bourbonnite-aigue-observatoire-de-la-charentaise-ppl-mckinsey/",
     "date": "2022-06-22",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1710,
+        "value": "Aigline de Ginestous"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 677,
+        "value": "Unibail-Rodamco-Westfield (URW)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      },
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1121,
-    "titre": "Aloïs Kirchner",
+    "titre": "Aloïs Kirchner rejoint Keolis",
     "contenu": "Il commence sa carrière dans la délégation générale pour l'armement avant de passer dans le privé : ESL&Network, le groupe Pernod-Ricard,, enfin GDF-Suez. Il retourne dans le public à la DIRECCTE de Lorraine, puis à l'inspection des finances, avant de rejoindre le cabinet de Bruno Le Maire, puis celui d'Agnès Pannier-Runacher dont il devient le directeur. En 2021 il retourne dans le privé en rejoignant le groupe Keolis, opérateur privé de transport public.",
     "url": "https://www.politico.eu/article/bourbonnite-aigue-observatoire-de-la-charentaise-ppl-mckinsey/",
     "date": "2022-06-22",
@@ -51523,16 +51737,30 @@
       {
         "id": 1047,
         "value": "Agnès Pannier-Runacher"
+      },
+      {
+        "id": 1701,
+        "value": "Aloïs Kirchner"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 737,
+        "value": "Keolis"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -51543,38 +51771,81 @@
     "contenu": "Le maire de Cholet (Maine-et-Loire) a demandé une nouvelle fois à la ville, le 11 octobre 2021, de prendre en charge ses frais de justice, ce que les élus lui ont accordé. Mais il est aujourd’hui poursuivi en justice pour être resté dans la salle lors de l’examen de cette délibération, avoir distribué la parole et fait procéder au vote. Il comparaîtra le mercredi 29 juin, pour prise illégale d’intérêts.",
     "url": "https://www.ouest-france.fr/politique/cholet-gilles-bourdouleix-sera-juge-pour-etre-reste-lors-du-vote-sur-sa-protection-fonctionnelle-6233b162-f144-11ec-87d0-35a1f71d923f",
     "date": "2022-06-22",
-    "etiquettes": "49 - Maine-et-Loire,Gilles Bourdouleix",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2742,
         "value": "49 - Maine-et-Loire"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 974,
+        "value": "Gilles Bourdouleix"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1120,
-    "titre": "Eléonore Leprettre",
+    "titre": "Eléonore Leprettre rejoint Phyteis",
     "contenu": "Issue de la communication, elle commence en politique en 2011 en travaillant pour Benoist Apparu, alors Secrétaire d’Etat chargé du logement. Puis elle rejoint l’équipe de Christian Estrosi lors des élections régionales. En 2016, elle est nommée au bureau exécutif du Modem. En 2017, elle rejoint LREM et s’occupe des actions militantes. Elle rejoint l’Assemblée nationale en tant que collaboratrice de Marc Fesneau, dont elle devient la cheffe de cabinet quand il est nommé Ministre des relations avec le Parlement en 2018. En juin 2022, elle part chez Phyteis (ex-UIPP), le lobby des pesticides.",
     "url": "https://www.politico.eu/article/bourbonnite-aigue-observatoire-de-la-charentaise-ppl-mckinsey/",
     "date": "2022-06-22",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1013,
+        "value": "Marc Fesneau"
+      },
+      {
+        "id": 1700,
+        "value": "Eléonore Leprettre"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 56,
+        "value": "Ministère de l'agriculture"
+      },
+      {
+        "id": 736,
+        "value": "Phyteis (ex-Union des Industries de la Protection des Plantes, UIPP)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2654,
+        "value": "Agro-alimentaire"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -51586,16 +51857,40 @@
     "url": "https://www.gide.com/fr/actualites/frederic-mion-rejoint-gide-en-qualite-dassocie",
     "date": "2022-06-22",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1698,
+        "value": "Frédéric Mion"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 733,
+        "value": "Gide Loyrette Nouel"
+      },
+      {
+        "id": 734,
+        "value": "Institut d'études politiques de Paris (Sciences-Po Paris)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2665,
+        "value": "Éducation / Enseignement"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -51606,25 +51901,49 @@
     "contenu": "Soupçonné d’avoir perçu indûment plus de 8 millions d'euros de commissions, l’homme d’affaires corse implanté en Afrique de l’Ouest a été mis en examen par un juge d’instruction français pour recel d'abus de confiance.\nÀ la tête du groupe Kabi - qui regroupe notamment des casinos, une entreprise de BTP et une compagnie aérienne -, l’homme d’affaires corse de 75 ans installé en Afrique de l’Ouest est soupçonné d’avoir perçu indument 8,3 millions d’euros de commissions entre 2008 et 2011. Selon l’Obs, cela concernerait un marché passé grâce à son entregent entre la présidence du Gabon, dont Michel Tomi était proche, et la société d’aéronautique CS aviation pour l’aménagement de l’avion présidentiel.",
     "url": "https://france3-regions.francetvinfo.fr/corse/justice-michel-tomi-mis-en-examen-pour-recel-d-abus-de-confiance-2568868.html",
     "date": "2022-06-22",
-    "etiquettes": "75 - Paris,Michel Tomi",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2762,
         "value": "75 - Paris"
+      },
+      {
+        "id": 2797,
+        "value": "Gabon"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1695,
+        "value": "Michel Tomi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 732,
+        "value": "Groupe Kabi"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1122,
-    "titre": "Marie Petitcuénot",
-    "contenu": "issue de la communication et du lobbying, elle passe par ESL&Network, Veolia Environnement et l'institut de conseil CSA puis fonde son propre cabinet de conseil aux dirigeants. Depuis 2020 elle est Conseillère spéciale au cabinet d'Agnès Pannier-Runacher, la Ministre déléguée en charge de l'Industrie. En avril 2022 elle est partie dans le privé en rejoignant Salesforce.",
+    "titre": "Marie Petitcuénot rejoint Salesforces",
+    "contenu": "Issue de la communication et du lobbying, elle passe par ESL&Network, Veolia Environnement et l'institut de conseil CSA puis fonde son propre cabinet de conseil aux dirigeants. Depuis 2020 elle est Conseillère spéciale au cabinet d'Agnès Pannier-Runacher, la Ministre déléguée en charge de l'Industrie. En avril 2022 elle est partie dans le privé en rejoignant Salesforce.",
     "url": "https://www.politico.eu/article/bourbonnite-aigue-observatoire-de-la-charentaise-ppl-mckinsey/",
     "date": "2022-06-22",
     "etiquettes": "",
@@ -51638,16 +51957,34 @@
       {
         "id": 1047,
         "value": "Agnès Pannier-Runacher"
+      },
+      {
+        "id": 1709,
+        "value": "Marie Petitcuénot"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 738,
+        "value": "Salesforces"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2685,
+        "value": "Technologies"
+      },
+      {
+        "id": 2660,
+        "value": "Conseil"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -51659,16 +51996,44 @@
     "url": "https://www.politico.eu/article/bourbonnite-aigue-observatoire-de-la-charentaise-ppl-mckinsey/",
     "date": "2022-06-22",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 679,
+        "value": "Cédric O"
+      },
+      {
+        "id": 1699,
+        "value": "Matthieu Heurtel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 735,
+        "value": "Morgan Stanley"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -51679,24 +52044,48 @@
     "contenu": "La Cour d’appel d’Aix-en-Provence a alourdi mercredi 22 juin les peines prononcées en première instance contre Jean-Pierre Maggi et Luc Jorda, ex-responsables du service départemental des pompiers des Bouches-du-Rhône, jugés pour détournement de fonds publics, favoritisme et prise illégale d’intérêts.\nL'ex-maire (PS) de Velaux (Bouches-du-Rhône), Jean-Pierre Maggi, a été condamné en appel à trois ans de prison dont deux avec sursis ainsi qu'à 100.000 euros d'amende et cinq ans d'inéligibilité pour avoir favorisé ses proches pendant qu'il présidait le Service départemental des pompiers. Maire de 1977 à 2020 de cette commune de 8.800 habitants, Jean-Pierre Maggi, âgé de 78 ans, a aussi été privé d'exercer toute fonction publique par la Cour d'appel d'Aix-en-Provence.",
     "url": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/peines-aggravees-en-appel-pour-les-ex-responsables-des-pompiers-des-bouches-du-rhone-juges-pour-detournement-de-fonds-publics-2568820.html",
     "date": "2022-06-22",
-    "etiquettes": "13 - Bouches-du-Rhône,Jean-Pierre Maggi,Luc Jorda",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2708,
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1696,
+        "value": "Luc Jorda"
+      },
+      {
+        "id": 1697,
+        "value": "Jean-Pierre Maggi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1126,
-    "titre": "Alix Lecadre",
+    "titre": "Alix Lecadre rejoint Transdev",
     "contenu": "Passée par la Direction générale des Finances publiques, elle est ensuite conseillère mobilités et infrastructures au cabinet de Joël Giraud, Ministre de la cohésion des territoires et des relations avec les collectivités territoriales dans le gouvernement Castex. En juin 2022, elle est nommée directrice des offres et métiers ferroviaires de Transdev. Le groupe précise qu’il s’agit d’une création de poste et d’une nouvelle fonction au sein de la direction ferroviaire.",
     "url": "https://acteurspublics.fr/nomination/une-conseillere-de-joel-giraud-part-chez-transdev",
     "date": "2022-06-21",
@@ -51717,7 +52106,7 @@
   },
   {
     "id": 1127,
-    "titre": "Dorothée Rouzet",
+    "titre": "Dorothée Rouzet rejoint Citigroup",
     "contenu": "Ancienne conseillère du ministre de l’économie Bruno Le Maire, Dorothé Rouzet rejoint en juin 2022 la banque américaine Citigroup. Dans sa filiale française, Dorothée Rouzet prendra la fonction de Cheffe économiste. Elle travaillait auparavant à l’OCDE (Organisation de coopération et de développement économiques). Ce pantouflage a été validé avec réserves par la HATVP.",
     "url": "https://www.lalettrea.fr/action-publique_executif/2022/06/21/une-conseillere-de-bruno-le-maire-rejoint-la-banque-citigroup,109793747-bre",
     "date": "2022-06-21",
@@ -51742,18 +52131,51 @@
     "contenu": "L’hebdomadaire Marianne a pu consulter une alerte envoyée lundi par le directeur général de l’Institut hospitalo-universitaire (IHU) de Strasbourg, le professeur de médecine Benoît Gallix, au parquet national financier (PNF), au nom de « l’article 40 » du Code de procédure pénale qui fait obligation à tout fonctionnaire ayant une présomption de faits délictueux d’en informer la justice.\nDans son courrier au PNF, Benoît Gallix s’étonne de flux comptables entre l’IHU qu’il dirige et l’institut de recherche contre les cancers de l’appareil digestif (Ircad), créé et présidé par le professeur Jacques Marescaux. Benoit Gallix a passé les deux années depuis sa nomination à la tête de l’IHU à remettre à plat les marchés et la comptabilité de l’établissement public, selon l’hebdomadaire qui publie des extraits de l’alerte au PNF.",
     "url": "https://www.rue89strasbourg.com/vigie-ihu-ircad-jacques-marescaux-238223",
     "date": "2022-06-21",
-    "etiquettes": "67 - Bas-Rhin,Benoît Gallix,Jacques Marescaux,Parquet National Financier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2757,
         "value": "67 - Bas-Rhin"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 1430,
+        "value": "Jacques Marescaux"
+      },
+      {
+        "id": 1538,
+        "value": "Benoît Gallix"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 650,
+        "value": "Institut hospitalo-universitaire de Strasbourg"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -51763,17 +52185,53 @@
     "contenu": "Après son rapport explosif publié en mars, le Sénat veut passer aux travaux pratiques. Dénonçant l’« inaction » du gouvernement face aux révélations de ce rapport, les sénateurs Eliane Assassi (Parti communiste) et Arnaud Bazin (Les Républicains) ont déposé, mardi 21 juin, une proposition de loi transpartisane pour encadrer le recours de l’Etat aux consultants privés, qui s’est chiffré à plus d’un milliard d’euros en 2021. Ils souhaitent contraindre l’Etat à publier chaque année la liste, le coût et l’objet des missions confiées à des cabinets. Les ministères seraient aussi invités à produire systématiquement une évaluation a posteriori de la qualité des prestations, qui serait rendue publique.\nAlors que la commission d’enquête a mis en évidence plusieurs cas de mélange des genres et de conflits d’intérêts autour des consultants, les sénateurs souhaitent renforcer leurs obligations déontologiques. Pour éviter les soupçons de renvois d’ascenseur, la proposition de loi veut tout bonnement interdire les prestations pro bono (engagement bénévole de compétences professionnelles), réalisées gratuitement par les cabinets de conseil en contrepartie de visibilité, à l’image de McKinsey, qui avait coorganisé le sommet Tech for Good à l’Elysée.\nLe texte entend aussi imposer aux consultants de signer un code de déontologie et de remplir une déclaration d’intérêts en amont de leur intervention. Cette nouvelle obligation serait contrôlée par la Haute Autorité pour la transparence de la vie publique (HATVP) et passible en cas de manquement de 15 000 euros d’amende, voire d’une exclusion des marchés publics pour les cabinets en faute. La HATVP se verrait aussi confier le contrôle des « pantouflages » des nombreux fonctionnaires et responsables politiques qui se reconvertissent dans le conseil, pour s’assurer par exemple qu’ils n’interviennent pas pour leur ancienne administration.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2022/06/21/recours-aux-cabinets-de-conseil-le-senat-denonce-l-inaction-du-gouvernement-et-propose-une-reforme_6131363_4355770.html",
     "date": "2022-06-21",
-    "etiquettes": "Arnaud Bazin,Eliane Assassi,Elysée,McKinsey,Sénat",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1520,
+        "value": "Éliane Assassi"
+      },
+      {
+        "id": 1711,
+        "value": "Arnaud Bazin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 397,
+        "value": "McKinsey & Company"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
+      },
+      {
+        "id": 2651,
+        "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2660,
+        "value": "Conseil"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -51838,7 +52296,7 @@
   },
   {
     "id": 1129,
-    "titre": "Martin hirsch",
+    "titre": "Martin hirsch rejoint Galileo Global Education",
     "contenu": "Passé par l'ENS et l’ENA, il rejoint le Conseil d'État puis évolue dans la sphère publique en travaillant au ministère de la Santé et de l’Action humanitaire. En 1995, il rejoint la Pharmacie centrale des Hôpitaux de Paris. En 2002, il est nommé président d’Emmaüs France. En 2007 il est nommé haut-commissaire aux Solidarités actives contre la pauvreté dans le gouvernement François Fillon. Il est à l'origine du revenu de solidarité active (RSA), qui remplace le revenu minimum d'insertion (RMI). En 2013 il est nommé à la tête de l'Assistance publique - Hôpitaux de Paris (AP-HP), poste qu'il quitte en juin 2022. En septembre 2022, il devient vice-président exécutif de Galileo Global Education, une entreprise privée d'enseignement supérieur.",
     "url": "https://business-cool.com/actualites/actu-ecoles/martin-hirsch-vice-president-galileo/",
     "date": "2022-06-20",
