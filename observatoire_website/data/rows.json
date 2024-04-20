@@ -1,5 +1,45 @@
 [
   {
+    "id": 2178,
+    "titre": "Le voyage très « confidentiel » de Laurent Wauquiez au Japon",
+    "contenu": "Prompt habituellement à promouvoir son action, le président de la région Auvergne-Rhône-Alpes s’est gardé d’informer les élus régionaux d’un séjour qu’il a effectué en mars dans l’archipel nippon. Encore moins du montant et des conditions de financement.",
+    "url": "https://www.lemonde.fr/politique/article/2024/04/20/le-voyage-tres-confidentiel-de-laurent-wauquiez-au-japon_6228870_823448.html",
+    "date": "2024-04-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 3037,
+        "value": "Japon"
+      },
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 668,
+        "value": "Laurent Wauquiez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2176,
     "titre": "Affaire des emplois présumés fictifs à la Région : 12 mois avec sursis et 5 ans d’inéligibilité requis contre Didier Robert",
     "contenu": "Au quatrième jour de procès, l’ancien président de Région, Didier Robert a répondu aux questions du tribunal dans l’affaire des emplois présumés fictifs au cabinet de la Région. En début d’après-midi, les réquisitions sont tombées à son encontre, ainsi que pour les autres prévenus.",
