@@ -26,8 +26,6 @@ export default function Home() {
     allItems,
   )
 
-  console.log('@@@ a la une', laUneItem)
-
   // DOUBLON avec les actus vues plus haut
   const itemsActualites = allItems
     .filter((_) => _.categorie.some((_) => _.value === 'Actualité'))
