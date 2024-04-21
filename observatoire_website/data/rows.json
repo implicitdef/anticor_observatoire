@@ -1,5 +1,93 @@
 [
   {
+    "id": 2179,
+    "titre": "Affaire Gilles d'Ettore : la ville d'Agde se porte partie civile dans l'épineux dossier de la \"voyante\", le maire va-t-il démissionner ?",
+    "contenu": "Un mois après la mise en examen du maire LR d'Agde pour détournement de fonds publics et son placement en détention provisoire, sa majorité municipale s'est constituée partie civile \"pour clarifier la situation\". Son premier adjoint lui a aussi écrit en prison pour \"connaître ses intentions\".",
+    "url": "https://france3-regions.francetvinfo.fr/occitanie/herault/agde/affaire-gilles-d-ettore-la-ville-d-agde-se-porte-partie-civile-dans-l-epineux-dossier-de-la-voyante-le-maire-va-t-il-demissionner-2958245.html",
+    "date": "2024-04-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1457,
+        "value": "Gilles d'Ettore"
+      },
+      {
+        "id": 1712,
+        "value": "Sébastien Frey"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 462,
+        "value": "Eiffage"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2181,
+    "titre": "Détournements de fonds publics à Nice? Une enquête ouverte à Paris sur la Hopman Cup",
+    "contenu": "Alerté par un signalement et une plainte pénale, le parquet national financier semble s'intéresser de près au financement de la Hopman Cup 2023, au travers de subventions publiques.",
+    "url": "https://www.nicematin.com/sport/detournements-de-fonds-publics-a-nice-une-enquete-ouverte-a-paris-sur-la-hopman-cup-916607",
+    "date": "2024-04-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 740,
+        "value": "Hopman Cup"
+      },
+      {
+        "id": 741,
+        "value": "Fédération internationale de tennis (ITF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2178,
     "titre": "Le voyage très « confidentiel » de Laurent Wauquiez au Japon",
     "contenu": "Prompt habituellement à promouvoir son action, le président de la région Auvergne-Rhône-Alpes s’est gardé d’informer les élus régionaux d’un séjour qu’il a effectué en mars dans l’archipel nippon. Encore moins du montant et des conditions de financement.",
@@ -36,6 +124,51 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2180,
+    "titre": "Pau : une plainte déposée contre X pour favoritisme concernant un terrain du quartier Trespoey",
+    "contenu": "L’association AC !! Anti corruption a déposé une plainte en avril. Elle cible le passage - en 2019 - d’un terrain en zone constructible. Il était la propriété de l’avocat Jean-Pierre Casadebaig, qui avait été associé Jean-Paul Brin, devenu par la suite premier adjoint. Tous les deux sont aujourd’hui décédés.",
+    "url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/pau-une-plainte-deposee-contre-x-pour-favoritisme-concernant-le-terrain-litigieux-du-quartier-trespoey-19396603.php",
+    "date": "2024-04-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2754,
+        "value": "64 - Pyrénées-Atlantiques"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1713,
+        "value": "Jean-Pierre Casadebaig"
+      },
+      {
+        "id": 1714,
+        "value": "Jean-Paul Brin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 159,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -29680,6 +29813,47 @@
     "a_la_une": false
   },
   {
+    "id": 2182,
+    "titre": "A Matignon, la communicante Clara Koenig prépare sa reconversion dans le privé",
+    "contenu": "Clara Koenig, ajointe du pôle communication d'Elisabeth Borne à Matignon depuis 11 mois, quitte la politique pour se reconvertir dans le privé. Elle vient de faire une demande en ce sens auprès de la Haute autorité pour la transparence de la vie publique.",
+    "url": "https://www.lalettre.fr/fr/action-publique_elysee-matignon/2023/04/25/a-matignon-la-communicante-clara-koenig-prepare-sa-reconversion-dans-le-prive,109948664-bre",
+    "date": "2023-04-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1715,
+        "value": "Clara Koenig"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 110,
+        "value": "Axa"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2668,
+        "value": "Communication / Événementiel"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 626,
     "titre": "Tempête Alex : Enquête ouverte pour « détournements de fonds » sur les chantiers de reconstruction dans les Alpes-Maritimes",
     "contenu": "Des perquisitions sont menées dans des locaux de la métropole Nice Côte d’Azur, à la mairie de Nice. Le procureur précise que d’autres opérations des enquêteurs sont à venir.",
@@ -52130,16 +52304,40 @@
     "url": "https://acteurspublics.fr/nomination/une-conseillere-de-joel-giraud-part-chez-transdev",
     "date": "2022-06-21",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 655,
+        "value": "Jean Castex"
+      },
+      {
+        "id": 1718,
+        "value": "Alix Lecadre"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 744,
+        "value": "Transdev"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -52151,16 +52349,44 @@
     "url": "https://www.lalettrea.fr/action-publique_executif/2022/06/21/une-conseillere-de-bruno-le-maire-rejoint-la-banque-citigroup,109793747-bre",
     "date": "2022-06-21",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 730,
+        "value": "Bruno Le Maire"
+      },
+      {
+        "id": 1717,
+        "value": "Dorothée Rouzet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 743,
+        "value": "Citigroup"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -52303,12 +52529,45 @@
     "contenu": "Epinglé par la HATVP à l'automne, l'ancien ambassadeur de France aux Etats-Unis Gérard Araud, qui a travaillé pour plusieurs sociétés dont l'entreprise de cybersécurité NSO Group, va subir une retenue de 5 000 euros sur sa retraite de diplomate.",
     "url": "https://www.lalettrea.fr/action-publique_lobbying/2022/06/20/le-quai-d-orsay-sanctionne-gerard-araud-pour-ses-activites-non-declarees,109793039-art",
     "date": "2022-06-20",
-    "etiquettes": "Gérard Araud,Haute Autorité pour la Transparence de la Vie Publique,Ministère des Affaires étrangères,NSO Group",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1716,
+        "value": "Gérard Araud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 550,
+        "value": "Ministère des Affaires étrangères"
+      },
+      {
+        "id": 742,
+        "value": "NSO Group"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2685,
+        "value": "Technologies"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
