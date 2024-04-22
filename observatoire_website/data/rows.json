@@ -44,6 +44,90 @@
     "a_la_une": false
   },
   {
+    "id": 2185,
+    "titre": "De Renault au contrat Orange : Rachida Dati, une ministre pas tirée d’affaires",
+    "contenu": "Le constructeur automobile, une société de conseil dans l’énergie et désormais le groupe de télécoms… Les révélations se multiplient sur les activités passées de la ministre, grassement rémunérée par de grandes sociétés parallèlement à son mandat d’élue européenne, et qui la menacent d’un procès.",
+    "url": "https://www.liberation.fr/societe/police-justice/de-laffaire-renault-au-contrat-orange-rachida-dati-une-ministre-pas-tiree-daffaires-20240422_LH2THSF7VFHVNPKNBBZQUY4ZBM/",
+    "date": "2024-04-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3041,
+        "value": "Liban"
+      },
+      {
+        "id": 2791,
+        "value": "Azerbaïdjan"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 617,
+        "value": "Carlos Ghosn"
+      },
+      {
+        "id": 1590,
+        "value": "Jean-Dominique Senard"
+      },
+      {
+        "id": 1722,
+        "value": "Patrick Pélata"
+      },
+      {
+        "id": 1723,
+        "value": "Stéphane Courbit"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      },
+      {
+        "id": 47,
+        "value": "Orange"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 277,
+        "value": "Ministère de la Culture"
+      },
+      {
+        "id": 600,
+        "value": "AlphaOne Partners"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2181,
     "titre": "Détournements de fonds publics à Nice? Une enquête ouverte à Paris sur la Hopman Cup",
     "contenu": "Alerté par un signalement et une plainte pénale, le parquet national financier semble s'intéresser de près au financement de la Hopman Cup 2023, au travers de subventions publiques.",
@@ -28745,7 +28829,7 @@
       },
       {
         "id": 196,
-        "value": "Galileo"
+        "value": "Galileo Global Education"
       }
     ],
     "categorie": [
@@ -52622,25 +52706,49 @@
     ],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1131,
-    "titre": "Florence Priouret",
+    "titre": "Florence Priouret crée sa société de conseil",
     "contenu": "Formée à l'université Lyon 2, elle commence sa carrière dans la société d'audit et de conseil Mazars, où elle fait du commissariat aux comptes dans le secteur bancaire et du conseil aux entreprises. Elle rejoint ensuite l'Autorité des Marchés Financiers (AMF) comme membre du comité de direction et de la division Émetteurs, en charge du contrôle de l'information délivrée par les sociétés cotées. En mai 2022 elle fonde sa société de conseil, Priouret Consulting.",
     "url": "https://www.lesechos.fr/amp/1414523",
     "date": "2022-06-20",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1725,
+        "value": "Florence Priouret"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 178,
+        "value": "Autorité des Marchés Financiers (AMF)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2660,
+        "value": "Conseil"
+      },
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -52692,25 +52800,53 @@
     ],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1130,
-    "titre": "Louis Charpentier",
+    "titre": "Louis Charpentier rejoint Coinhouse",
     "contenu": "Formé à l'université l'École supérieure d'ingénieurs Léonard-de-Vinci, il est Analyste Blockchain à la Banque de France, puis Analyste technologies de registres distribués (distributed ledger) à l'Autorité Monétaire de Singapour, puis consultant chez EY. Il rejoint l'AMF en 2018 comme expert en nouvelles technologies et innovation, et travaille sur la régulation des fintechs. En 2022 il part chez Coinhouse, la première plateforme de cryptoactifs française enregistrée en tant que PSAN (Prestataire de Services en Actifs Numériques) auprès de l'AMF, en tant qu'Analyste DeFi & Produits Crypto Financier.",
     "url": "https://www.lesechos.fr/amp/1414523",
     "date": "2022-06-20",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1724,
+        "value": "Louis Charpentier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 178,
+        "value": "Autorité des Marchés Financiers (AMF)"
+      },
+      {
+        "id": 748,
+        "value": "Coinhouse"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2661,
+        "value": "Cryptomonnaies"
+      },
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -52722,16 +52858,36 @@
     "url": "https://business-cool.com/actualites/actu-ecoles/martin-hirsch-vice-president-galileo/",
     "date": "2022-06-20",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 852,
+        "value": "Martin Hirsch"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 196,
+        "value": "Galileo Global Education"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2665,
+        "value": "Éducation / Enseignement"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -52742,38 +52898,91 @@
     "contenu": "Le patron de la clinique mutualiste de Grenoble est la cible de deux syndicats et de nombreux médecins. Les premiers ont déposé plainte contre X pour “prise illégale d’intérêts”. Les seconds demandent son départ dénonçant une “mauvaise gouvernance”.\nLes syndicats Force ouvrière (FO) et la Confédération générale du travail (CGT) ont déposé plainte contre X auprès du procureur de Grenoble pour “prise illégale d’intérêts”. En cause notamment, une convention de services signée en 2020 entre Bernard Bensaid, le patron du groupe Avec et… Bernard Bensaid, le patron de la clinique (puisque rappelons-le, il occupe les deux postes).",
     "url": "https://www.francebleu.fr/infos/sante-sciences/a-grenoble-la-prestigieuse-clinique-mutualiste-est-dans-la-tourmente-1655393052",
     "date": "2022-06-17",
-    "etiquettes": "38 - Isère,Bernard Bensaid,Groupe Hospitalier Mutualiste",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2732,
         "value": "38 - Isère"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 1015,
+        "value": "Bernard Bensaid"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 312,
+        "value": "Groupe hospitalier mutualiste de Grenoble (GHM)"
+      },
+      {
+        "id": 345,
+        "value": "Clinique mutualiste de Grenoble (GHM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1134,
-    "titre": "Julie Ansidei",
+    "titre": "Julie Ansidei rejoint Blackrock",
     "contenu": "Elle commence sa carrière comme professeure à l'université Paris Dauphine. Elle est ensuite consultante chez Deloitte, puis directrice des affaires européennes et internationales chez AMAFI (lobbying du secteur boursier) avant de rejoindre l'AMF en 2010 en tant que directrice adjoint de la stratégie risques et recherche. De 2014 à 2016 elle travaille comme conseillère senior pour la régulation et les affaires internationales chez ANBIMA, l’association des marchés de capitaux brésilienne, avant de revenir à l'AMF en 2016 comme directrice de la stratégie, puis secrétaire du comité exécutif et responsable de l’unité Stratégie et finance durable à partir de 2018. En avril 2022 elle rejoint la société de gestion d'actifs Blackrock.",
     "url": "https://www.boursorama.com/bourse/actualites/blackrock-nomme-une-directrice-de-la-durabilite-pour-la-france-7657051c42b1eee0a8252c3b76663589",
     "date": "2022-06-17",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1726,
+        "value": "Julie Ansidei"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 178,
+        "value": "Autorité des Marchés Financiers (AMF)"
+      },
+      {
+        "id": 595,
+        "value": "BlackRock"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -52784,17 +52993,41 @@
     "contenu": "Alors que la commune de Plombières-les-Bains essaye de se positionner pour racheter les thermes, leur propriétaire, Bernard Bensaïd, est accusé de prise illégale d'intérêt dans un autre de ses établissements. Une gestion qui mettrait les patients en danger selon certains médecins.\nLe propriétaire des thermes de Plombières-les-Bains, dans les Vosges, et patron du groupe AVEC, est pointé du doigt dans un autre de ses établissements. C'est une information de la cellule investigation de Radio France : des praticiens de la clinique mutualiste de Grenoble, l'une des plus grandes de France, l'accusent de prise illégale d'intérêt. Les syndicats Force ouvrière et la CGT sont montés au créneau et ont déposé ce jeudi une plainte contre X. Ils soupçonnent le propriétaire de prélever illégalement 1,7 million d'euros tous les ans sur le budget de la clinique. Une somme qui prendrait la direction du groupe Avec, propriétaire de l'établissement, appartenant lui-même à Bernard Bensaïd.",
     "url": "https://www.francebleu.fr/infos/sante-sciences/le-proprietaire-des-thermes-de-plombieres-les-bains-accuse-de-prise-illegale-d-interet-1655439032",
     "date": "2022-06-17",
-    "etiquettes": "88 - Vosges,Bernard Bensaid",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2778,
         "value": "88 - Vosges"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnalites": [
+      {
+        "id": 1015,
+        "value": "Bernard Bensaid"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 312,
+        "value": "Groupe hospitalier mutualiste de Grenoble (GHM)"
+      },
+      {
+        "id": 345,
+        "value": "Clinique mutualiste de Grenoble (GHM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -52805,18 +53038,38 @@
     "contenu": "L'influenceur de 24 ans avait profité du «quoi qu'il en coûte» pour s'offrir une vie d'instagrammeur à Dubaï. A l'issue de quasiment une semaine de procès en juin, Paul Antony a été condamné ce mercredi à Paris à sept ans d'emprisonnement et 80.000 euros d'amende.",
     "url": "https://www.lefigaro.fr/conjoncture/la-vie-fantasmee-a-dubai-de-pa7-influenceur-qui-a-detourne-des-millions-d-aides-covid-20220616",
     "date": "2022-06-16",
-    "etiquettes": "75 - Paris,PA7,Paris,Paul Anthony",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2762,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1727,
+        "value": "Paul Antony (PA7)"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -52826,15 +53079,49 @@
     "contenu": "Dans le cadre d’une nouvelle enquête pour « trafic d’influence » et « prise illégale d’intérêts », la justice a découvert des documents dérangeants pour le secrétaire général de l’Élysée. Non seulement il a été beaucoup plus impliqué qu’on ne l’imaginait dans tous les dossiers concernant de près ou de loin l’armateur MSC, mais des documents ont disparu à certains endroits – mais été retrouvés dans d’autres – afin d’effacer les traces de ses interventions.",
     "url": "https://www.mediapart.fr/journal/france/150622/affaire-alexis-kohler-le-grand-menage",
     "date": "2022-06-15",
-    "etiquettes": "Alexis Kohler,Elysée,MSC",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1068,
+        "value": "Alexis Kohler"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 268,
+        "value": "Mediterranean Shipping Company (MSC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1137,
@@ -52842,33 +53129,99 @@
     "contenu": "L'ancien patron de Renault continue d'éviter la justice française. Carlos Ghosn ne s'est pas rendu à la récente convocation d'une juge d'instruction parisienne, a appris ce mercredi l'AFP de sources proches du dossier. Cette absence de Carlos Ghosn, qui l'a justifiée par son interdiction de quitter le Liban, ouvre la voie à l'émission d'un second mandat d'arrêt de la justice française, après la délivrance d'un premier mandat, le 21 avril dernier, par un juge nanterrois.",
     "url": "https://www.20minutes.fr/justice/3308823-20220615-affaire-carlos-ghosn-ancien-patron-renault-absent-nouvelle-convocation-france",
     "date": "2022-06-15",
-    "etiquettes": "Carlos Ghosn,Renault-Nissan",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3041,
+        "value": "Liban"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 617,
+        "value": "Carlos Ghosn"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2670,
+        "value": "Industrie"
+      },
+      {
+        "id": 2687,
+        "value": "Transports"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1138,
-    "titre": "Bruno Julliard",
+    "titre": "Bruno Julliard rejoint Art Explora",
     "contenu": "Adjoint à la Culture jusqu’à sa démission de l’exécutif parisien en 2018, Bruno Julliard a rejoint l’entrepreneur français Frédéric Jousset pour l’aider à monter sa fondation Art Explora, une structure dédiée au mécénat culturel, puis en a pris la direction en 2019. Aux commandes d’Art Explora, Julliard contracte avec des institutions sur lesquelles s’exerçait sa tutelle, comme la Cité internationale des arts. Celle-ci gère, notamment, des résidences d’artistes depuis peu financées par la fondation.",
     "url": "https://www.marianne.net/politique/gauche/pantouflage-la-reconversion-litigieuse-de-bruno-julliard-ancien-bras-droit-danne-hidalgo",
     "date": "2022-06-15",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1728,
+        "value": "Frédéric Jousset"
+      },
+      {
+        "id": 1729,
+        "value": "Bruno Julliard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 277,
+        "value": "Ministère de la Culture"
+      },
+      {
+        "id": 749,
+        "value": "Art Explora"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2662,
+        "value": "Culture"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -52900,10 +53253,81 @@
     "contenu": "En ce début de quinquennat, marqué par le changement de gouvernement et le renouvellement de l’Assemblée nationale, les acteurs du lobbying sont à l’affût pour s’attacher les services des députés sortants – des recrues de choix dont le carnet d’adresses et la connaissance des rouages de la décision publique peuvent se révéler déterminants pour influencer les politiques dans un sens favorable à certains intérêts économiques.\nCes profils d’anciens élus sont d’autant plus appréciés que, contrairement aux anciens ministres, ils ne font pas l’objet d’une surveillance particulière de la part de la HATVP. A l’Assemblée, la prévention des conflits d’intérêts repose sur le déontologue, une fonction créée en 2011, que les députés peuvent consulter volontairement, et qui ne dispose d’aucun pouvoir contraignant pour s’opposer à une reconversion.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2022/06/14/conflits-d-interets-le-jeu-dangereux-des-deputes-qui-pantouflent-dans-le-prive-apres-leur-mandat_6130196_4355770.html#xtor=AL-32280270-%5Bdefault%5D-%5Bios%5D",
     "date": "2022-06-14",
-    "etiquettes": "Denis Baupin,Dominique Bussereau,Emmanuelle Cosse,Georges Fenech,Gilles Savary,Hervé Mariton,Jean-Baptiste Djebbari,Luc Chatel,Matthias Fekl,Mickaël Nogal,Pierre Venteau,Sébastien Pietrasanta,Thomas Thévenoud,Véronique Massonneau",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "etiquettes": "Mickaël Nogal,Pierre Venteau,Sébastien Pietrasanta,Thomas Thévenoud,Véronique Massonneau",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1431,
+        "value": "Matthias Fekl"
+      },
+      {
+        "id": 1556,
+        "value": "Jean-Baptiste Djebbari"
+      },
+      {
+        "id": 1730,
+        "value": "Denis Baupin"
+      },
+      {
+        "id": 1731,
+        "value": "Dominique Bussereau"
+      },
+      {
+        "id": 1732,
+        "value": "Emmanuelle Cosse"
+      },
+      {
+        "id": 1733,
+        "value": "Georges Fenech"
+      },
+      {
+        "id": 1734,
+        "value": "Gilles Savary"
+      },
+      {
+        "id": 1735,
+        "value": "Hervé Mariton"
+      },
+      {
+        "id": 1736,
+        "value": "Luc Chatel"
+      },
+      {
+        "id": 1737,
+        "value": "Mickaël Nogal"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 23,
+        "value": "Les écologistes (ex-Europe Ecologie Les Verts) (EELV)"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 750,
+        "value": "Territoires de progrès – Mouvement social-réformiste (TDP)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
@@ -52913,7 +53337,7 @@
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 1141,
