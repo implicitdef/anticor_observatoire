@@ -88,6 +88,59 @@
     "a_la_une": false
   },
   {
+    "id": 2184,
+    "titre": "L'AFP gagne contre Marine Le Pen en cassation",
+    "contenu": "La cheffe des députés du Rassemblement national a été condamnée à verser 2 500 € au journaliste Guillaume Daudin et à Emmanuel Hoog, ex-PDG de l'Agence France-Presse. Elle avait porté plainte après la publication d'une dépêche liée à l'affaire dite des \"kits de campagne\".",
+    "url": "https://www.lalettre.fr/fr/medias_presse-ecrite/2024/04/22/l-afp-gagne-contre-marine-le-pen-en-cassation%2C110218169-gra",
+    "date": "2024-04-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 1720,
+        "value": "Guillaume Daudin"
+      },
+      {
+        "id": 1721,
+        "value": "Emmanuel Hoog"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 746,
+        "value": "Agence France-Presse (AFP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2178,
     "titre": "Le voyage très « confidentiel » de Laurent Wauquiez au Japon",
     "contenu": "Prompt habituellement à promouvoir son action, le président de la région Auvergne-Rhône-Alpes s’est gardé d’informer les élus régionaux d’un séjour qu’il a effectué en mars dans l’archipel nippon. Encore moins du montant et des conditions de financement.",
@@ -169,6 +222,75 @@
         "value": "Plainte"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2183,
+    "titre": "A TV5 Monde, des pays prédateurs de la liberté de la presse approchés pour intégrer le capital de la chaîne audiovisuelle publique",
+    "contenu": "Depuis quelques mois, le patron de TV5 Monde est en tournée pour tenter de faire entrer plusieurs pays africains à l’actionnariat de la chaîne, dont le siège est basé à Paris. Si l’objectif affiché d’ouverture à d’autres acteurs de la Francophonie est tout à fait louable, le casting comprend plusieurs États au passif très lourd en matière d’atteintes à la liberté de la presse et dont les chaînes publiques nationales, appelées à être représentées et diffusées, restent des instruments de propagande au service des régimes en place, très loin des standards d’une information libre, plurielle, fiable et indépendante.",
+    "url": "https://rsf.org/fr/tv5-monde-des-pays-pr%C3%A9dateurs-de-la-libert%C3%A9-de-la-presse-approch%C3%A9s-pour-int%C3%A9grer-le-capital-de-la",
+    "date": "2024-04-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3038,
+        "value": "Sénégal"
+      },
+      {
+        "id": 3039,
+        "value": "Côte d'Ivoire"
+      },
+      {
+        "id": 3040,
+        "value": "Bénin"
+      },
+      {
+        "id": 2809,
+        "value": "République du Congo"
+      },
+      {
+        "id": 3031,
+        "value": "Cameroun"
+      },
+      {
+        "id": 2797,
+        "value": "Gabon"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1719,
+        "value": "Yves Bigot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 389,
+        "value": "France Télévisions"
+      },
+      {
+        "id": 745,
+        "value": "TV5 Monde"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias"
+      }
+    ],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
