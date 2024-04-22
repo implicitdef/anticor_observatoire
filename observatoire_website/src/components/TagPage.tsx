@@ -11,12 +11,54 @@ import {
   slugify,
 } from '@/lib/utils'
 import uniqBy from 'lodash/uniqBy'
+import { Metadata, ResolvingMetadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 
 type TagPageKind = 'departement' | 'country' | 'other'
 
-export function TagPage({
+type Props = {
+  params: LocalParams
+  searchParams: NextSearchParams
+}
+
+type LocalParams = {
+  pathParam: string
+}
+
+export function buildTagPageGenerateMetadata({
+  tagPageKind,
+}: {
+  tagPageKind: TagPageKind
+}) {
+  return async function tagPageGenerateMetadata(
+    { params, searchParams }: Props,
+    parent: ResolvingMetadata,
+  ): Promise<Metadata> {
+    const { tag } = identifyTag({ tagPageKind, tagPathParam: params.pathParam })
+    if (tag) {
+      return { title: `${tag.value} - Observatoire - Anticor` }
+    }
+    return {}
+  }
+}
+
+export function buildTagPageFinal({
+  tagPageKind,
+}: {
+  tagPageKind: TagPageKind
+}) {
+  return function TagPageFinal({ params, searchParams }: Props) {
+    return (
+      <TagPage
+        tagPathParam={params.pathParam}
+        {...{ searchParams, tagPageKind }}
+      />
+    )
+  }
+}
+
+function TagPage({
   tagPageKind,
   tagPathParam,
   searchParams,
@@ -25,8 +67,7 @@ export function TagPage({
   tagPathParam: string
   searchParams: NextSearchParams
 }) {
-  const allItems = getData()
-  const tag = identifyTag({ allItems, tagPageKind, tagPathParam })
+  const { tag, allItems } = identifyTag({ tagPageKind, tagPathParam })
   if (!tag) {
     return notFound()
   }
@@ -52,37 +93,36 @@ export function TagPage({
 function identifyTag({
   tagPageKind,
   tagPathParam,
-  allItems,
 }: {
   tagPageKind: TagPageKind
   tagPathParam: string
-  allItems: Item[]
-}): TypedTag | undefined {
+}): { allItems: Item[]; tag: TypedTag | undefined } {
+  const allItems = getData()
   const allTags = uniqBy(allItems.flatMap(readTagsOfItem), (_) => _.id)
   // This is the reverse of the logic in urls.ts
-  if (tagPageKind === 'country') {
-    return allTags.find((_) => {
-      if (hasKindDepartements(_)) {
-        const res = identifyDepartementsTagForUrl(_)
-        if (res.kind === 'country') {
-          return slugify(res.name) === tagPathParam
-        }
-      }
-    })
-  }
-  if (tagPageKind === 'departement') {
-    return allTags.find((_) => {
-      if (hasKindDepartements(_)) {
-        const res = identifyDepartementsTagForUrl(_)
-        if (res.kind === 'departement') {
-          return res.number === tagPathParam
-        }
-      }
-    })
-  }
-  return allTags.find((_) => {
-    if (!hasKindDepartements(_)) {
-      return slugify(_.value) === tagPathParam
-    }
-  })
+  const tag =
+    tagPageKind === 'country'
+      ? allTags.find((_) => {
+          if (hasKindDepartements(_)) {
+            const res = identifyDepartementsTagForUrl(_)
+            if (res.kind === 'country') {
+              return slugify(res.name) === tagPathParam
+            }
+          }
+        })
+      : tagPageKind === 'departement'
+        ? allTags.find((_) => {
+            if (hasKindDepartements(_)) {
+              const res = identifyDepartementsTagForUrl(_)
+              if (res.kind === 'departement') {
+                return res.number === tagPathParam
+              }
+            }
+          })
+        : allTags.find((_) => {
+            if (!hasKindDepartements(_)) {
+              return slugify(_.value) === tagPathParam
+            }
+          })
+  return { allItems, tag }
 }

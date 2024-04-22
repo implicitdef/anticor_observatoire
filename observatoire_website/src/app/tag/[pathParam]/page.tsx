@@ -1,22 +1,11 @@
-import { NextSearchParams } from '@/app/revuedepresse/page'
-import { TagPage } from '@/components/TagPage'
+import {
+  buildTagPageFinal,
+  buildTagPageGenerateMetadata,
+} from '@/components/TagPage'
 
-type LocalParams = {
-  pathParam: string
-}
+const tagPageKind = 'other'
 
-export default function PaysPage({
-  params,
-  searchParams,
-}: {
-  params: LocalParams
-  searchParams: NextSearchParams
-}) {
-  return (
-    <TagPage
-      tagPageKind="other"
-      tagPathParam={params.pathParam}
-      {...{ searchParams }}
-    />
-  )
-}
+export const generateMetadata = buildTagPageGenerateMetadata({ tagPageKind })
+
+const Page = buildTagPageFinal({ tagPageKind })
+export default Page

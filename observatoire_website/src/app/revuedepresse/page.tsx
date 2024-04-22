@@ -1,6 +1,7 @@
 import { ItemsList } from '@/components/ItemsList'
 import { SearchPanel } from '@/components/SearchPanel'
 import { getData } from '@/lib/dataReader'
+import { Metadata } from 'next'
 import z from 'zod'
 
 export type NextSearchParams = { [key: string]: string | string[] | undefined }
@@ -11,6 +12,10 @@ const searchParamsSchema = z.object({
 type SearchParams = z.infer<typeof searchParamsSchema>
 
 const ENABLE_SEARCH_PANEL = false // la feature n'est pas terminée
+
+export const metadata: Metadata = {
+  title: 'La revue de presse - Observatoire - Anticor',
+}
 
 export default function RevueDePresse({
   searchParams,

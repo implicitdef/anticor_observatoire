@@ -1,5 +1,10 @@
+import { Metadata } from 'next'
 import Link from 'next/link'
 import { PropsWithChildren } from 'react'
+
+export const metadata: Metadata = {
+  title: 'À propos - Observatoire - Anticor',
+}
 
 export default function Page() {
   return (
