@@ -1,3 +1,7 @@
+import { NextSearchParams } from '@/app/revuedepresse/page'
+import { LinkToItem } from '@/components/LinkToItem'
+import { LinkToTag } from '@/components/LinkToTag'
+import { TagsList } from '@/components/TagsList'
 import { Item, getData } from '@/lib/dataReader'
 import {
   extractDomain,
@@ -6,13 +10,15 @@ import {
   readTagsOfItem,
   readTitre,
 } from '@/lib/utils'
+import sortBy from 'lodash/sortBy'
+import { Metadata, ResolvingMetadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { TagsList } from '@/components/TagsList'
-import { LinkToItem } from '@/components/LinkToItem'
-import { LinkToTag } from '@/components/LinkToTag'
-import sortBy from 'lodash/sortBy'
-import { NextSearchParams } from '@/app/revuedepresse/page'
+
+type Props = {
+  params: LocalParams
+  searchParams: NextSearchParams
+}
 
 type LocalParams = {
   year: string
@@ -21,14 +27,23 @@ type LocalParams = {
   pathParam: string
 }
 
-export default function Fiche({
-  params,
-}: {
-  params: LocalParams
-  searchParams: NextSearchParams
-}) {
-  const allItems = getData()
-  const item = identifyItem(params, allItems)
+export async function generateMetadata(
+  { params, searchParams }: Props,
+  parent: ResolvingMetadata,
+): Promise<Metadata> {
+  const { item } = fetchItem(params)
+
+  if (item) {
+    return {
+      title: `${readTitre(item)} - Observatoire - Anticor`,
+      description: item.contenu,
+    }
+  }
+  return {}
+}
+
+export default function Fiche({ params }: Props) {
+  const { item, allItems } = fetchItem(params)
 
   if (item) {
     return (
@@ -139,8 +154,9 @@ function getSimilarItems(item: Item, allItems: Item[]) {
   return sortBy(tagsWithItems, (_) => -_.items.length)
 }
 
-function identifyItem(params: LocalParams, allItems: Item[]) {
+function fetchItem(params: LocalParams) {
+  const allItems: Item[] = getData()
   const id = params.pathParam.split('-')[0].trim()
   const item = allItems.find((_) => _.id.toString() === id)
-  return item
+  return { item, allItems }
 }

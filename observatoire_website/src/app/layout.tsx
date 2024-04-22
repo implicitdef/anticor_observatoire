@@ -1,22 +1,22 @@
-import type { Metadata } from 'next'
-import { Open_Sans } from 'next/font/google'
-import './globals.css'
-import 'remixicon/fonts/remixicon.css'
-import Link from 'next/link'
-import Image from 'next/image'
+import { GoogleAnalytics } from '@/components/GoogleAnalytics'
 import logo from '@/img/logo.png'
+import logoFacebook from '@/img/sociallogos/facebook.svg'
+import logoInstagram from '@/img/sociallogos/instagram.svg'
 import logoMastodon from '@/img/sociallogos/mastodon.svg'
 import logoX from '@/img/sociallogos/x.svg'
-import logoInstagram from '@/img/sociallogos/instagram.svg'
-import logoFacebook from '@/img/sociallogos/facebook.svg'
 import { buildUrlAPropos, buildUrlHome, buildUrlList } from '@/lib/urls'
-import { GoogleAnalytics } from '@/components/GoogleAnalytics'
+import type { Metadata } from 'next'
+import { Open_Sans } from 'next/font/google'
+import Image from 'next/image'
+import Link from 'next/link'
+import 'remixicon/fonts/remixicon.css'
+import './globals.css'
 
 const openSans = Open_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Observatoire Anticor',
-  description: '',
+  title: `Observatoire - Anticor`,
+  description: `L'observatoire d'Anticor publie une revue de presse aussi exhaustive que possible des actualités liées à la corruption en France, au niveau national et local. Une initiative de bénévoles de l'association de lutte anticorruption Anticor.`,
 }
 
 export default function RootLayout({
