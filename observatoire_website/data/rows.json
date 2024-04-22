@@ -53232,18 +53232,37 @@
     "contenu": "Entendu mardi 14 juin par les juges de la juridiction interrégionale spécialisée (JIRS) de Marseille, l’avocat pénaliste parisien Pascal Garbarini a été mis en examen pour « association de malfaiteurs », selon une information du Monde, confirmée par le parquet de Marseille. Avocat historique de la bande dite du Petit Bar – une équipe de malfrats ajacciens qui depuis le début des années 2000 s’est imposée dans le milieu criminel d’Ajaccio et de sa région –, Me Garbarini avait été placé en garde à vue le 12 mai à la section de recherche de la gendarmerie de Corse. Il en était ressorti libre à l’issue d’une dizaine d’heures d’interrogatoire avec une convocation à comparaître devant les juges.\nDans cette affaire complexe et à multiples tiroirs, les magistrats et les gendarmes s’intéressent notamment au rôle qu’aurait joué Pascal Garbarini auprès de ses clients. Celui de simple avocat en charge de leur défense devant la justice ? Ou, celui de consigliere, complice des exactions dont Jacques Santoni et son gang sont suspectés ? La justice s’interroge notamment sur des flux financiers de plusieurs dizaines de millions d’euros vers Hongkong, le Luxembourg et Malte. Selon les enquêteurs, ces mouvements d’argent suspects constitueraient une preuve de la volonté de l’équipe du Petit Bar de blanchir des fonds provenant d’activités criminelles. Plusieurs membres de cette équipe ont déjà été condamnées dans des affaires de trafic de stupéfiants, d’extorsion de fonds ou de tentatives d’assassinats.",
     "url": "https://www.lemonde.fr/societe/article/2022/06/15/l-avocat-pascal-garbarini-mis-en-examen-pour-association-de-malfaiteurs_6130389_3224.html#xtor=AL-32280270-%5Bdefault%5D-%5Bios%5D",
     "date": "2022-06-14",
-    "etiquettes": "2A – Corse-du-Sud,Jacques Santoni,Pascal Garbarini",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2722,
         "value": "2A - Corse-du-Sud"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1743,
+        "value": "Jacques Santoni"
+      },
+      {
+        "id": 1744,
+        "value": "Pascal Garbarini"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -53253,7 +53272,7 @@
     "contenu": "En ce début de quinquennat, marqué par le changement de gouvernement et le renouvellement de l’Assemblée nationale, les acteurs du lobbying sont à l’affût pour s’attacher les services des députés sortants – des recrues de choix dont le carnet d’adresses et la connaissance des rouages de la décision publique peuvent se révéler déterminants pour influencer les politiques dans un sens favorable à certains intérêts économiques.\nCes profils d’anciens élus sont d’autant plus appréciés que, contrairement aux anciens ministres, ils ne font pas l’objet d’une surveillance particulière de la part de la HATVP. A l’Assemblée, la prévention des conflits d’intérêts repose sur le déontologue, une fonction créée en 2011, que les députés peuvent consulter volontairement, et qui ne dispose d’aucun pouvoir contraignant pour s’opposer à une reconversion.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2022/06/14/conflits-d-interets-le-jeu-dangereux-des-deputes-qui-pantouflent-dans-le-prive-apres-leur-mandat_6130196_4355770.html#xtor=AL-32280270-%5Bdefault%5D-%5Bios%5D",
     "date": "2022-06-14",
-    "etiquettes": "Mickaël Nogal,Pierre Venteau,Sébastien Pietrasanta,Thomas Thévenoud,Véronique Massonneau",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2762,
@@ -53300,6 +53319,22 @@
       {
         "id": 1737,
         "value": "Mickaël Nogal"
+      },
+      {
+        "id": 1738,
+        "value": "Pierre Venteau"
+      },
+      {
+        "id": 1739,
+        "value": "Sébastien Pietrasanta"
+      },
+      {
+        "id": 1740,
+        "value": "Thomas Thévenoud"
+      },
+      {
+        "id": 1741,
+        "value": "Véronique Massonneau"
       }
     ],
     "personnes_morales": [
@@ -53345,38 +53380,90 @@
     "contenu": "Jean-Luc Petithuguenin ne peut plus diriger l’entreprise qu’il a créée il y a trente ans. Le président et fondateur de Paprec a été placé, la semaine dernière, sous contrôle judiciaire. Il a été mis en examen, \"à sa demande\" précise l’entreprise, pour corruption dans le cadre d’un contrat pour la construction d’une usine de recyclage de déchets, la spécialité de Paprec.\nSur le fond de l'affaire, la justice soupçonne le fondateur de Paprec de corruption. Elle enquête sur le lien entre l'obtention d'un contrat pour la construction d'une usine de recyclage dans l'Oise et le sponsoring d'une course équestre à Compiègne, organisée par la femme du sénateur-maire de la ville, Philippe Marini. La défense pointe que cet évènement était aussi soutenu financièrement par d’autres groupes comme Indigo et Suez.",
     "url": "https://www.bfmtv.com/economie/la-justice-oblige-le-president-de-paprec-a-quitter-ses-fonctions-ses-fils-prennent-le-relai_AV-202206140038.html",
     "date": "2022-06-14",
-    "etiquettes": "60 - Oise,Jean-Luc Petithuguenin,Paprec,Philippe Marini",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2750,
         "value": "60 - Oise"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1580,
+        "value": "Philippe Marini"
+      },
+      {
+        "id": 1742,
+        "value": "Jean-Luc Petithuguenin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 680,
+        "value": "Paprec"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1143,
-    "titre": "Pierre Venteau",
+    "titre": "Pierre Venteau rejoint l'Association nationale pommes poires",
     "contenu": "Suppléant du député LREM devenu secrétaire d’État puis ministre des transports Jean-Baptiste Djebbari, il le remplace à son poste en 2019. En mai 2022, il annonce ne pas briguer sa propre succession, étant devenu directeur du lobby Association nationale pommes poires. Il prend ses fonctions dès mars, alors qu’il est encore élu jusqu’en juin et que la loi interdit aux députés en fonction d’exercer une activité de représentant d’intérêts. Le Monde relève qu’il a siégé dans la mission d’information sur les coopératives agricoles où il a défendu les positions de son futur employeur.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2022/06/14/conflits-d-interets-le-jeu-dangereux-des-deputes-qui-pantouflent-dans-le-prive-apres-leur-mandat_6130196_4355770.html#xtor=AL-32280270-%5Bdefault%5D-%5Bios%5D",
     "date": "2022-06-14",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1556,
+        "value": "Jean-Baptiste Djebbari"
+      },
+      {
+        "id": 1738,
+        "value": "Pierre Venteau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 752,
+        "value": "Association nationale pommes poires (ANPP)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -53387,11 +53474,43 @@
     "contenu": "La Cour de justice de la République a rejeté ce mardi plusieurs requêtes d’Eric Dupond-Moretti, mis en examen depuis juillet 2021 pour prise illégale d’intérêt, a indiqué le parquet général près la Cour de cassation. Saisie par les avocats du garde des Sceaux, la commission d’instruction de la CJR a rejeté leur demande d’audition de Céline Parisot, présidente de l’Union syndicale des magistrats (USM), l’un des syndicats à l’origine des plaintes déposées avec l’association Anticor pour dénoncer des situations de conflits d’intérêts dans deux dossiers. Elle a aussi refusé d’auditionner Henri-Claude Le Gall, magistrat honoraire à la retraite et ancien président de la CJR entre 2000 et 2012. Cette même commission d’instruction avait sollicité son avis sur la marche à suivre concernant des requêtes en nullité déposées par le ministre.",
     "url": "https://www.20minutes.fr/politique/3308315-20220614-soupcons-conflit-interets-cjr-rejette-requetes-eric-dupond-moretti",
     "date": "2022-06-14",
-    "etiquettes": "Anticor,Cour de Justice de la République,Éric Dupond-Moretti,Ministère de la Justice,Union Syndicale des Magistrats",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 658,
+        "value": "Éric Dupond-Moretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 68,
+        "value": "Cour de Justice de la République (CJR)"
+      },
+      {
+        "id": 500,
+        "value": "Union syndicale des magistrats (USM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -53403,11 +53522,63 @@
     "contenu": "Les ennuis judiciaires des prétendants à l'Assemblée peuvent représenter un obstacle pour se hisser au second tour des élections législatives. Mais pas pour tous : de nombreux candidats obtiennent suffisamment de voix pour y parvenir.",
     "url": "https://www.francetvinfo.fr/elections/legislatives/resultats-des-legislatives-2022-quels-sont-les-scores-des-candidats-condamnes-ou-mis-en-cause-par-la-justice_5193826.html",
     "date": "2022-06-13",
-    "etiquettes": "La République En Marche,Les Républicains,Libertés et territoires,Mouvement démocrate,Parti communiste français,Rassemblement National,Reconquête",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 70,
+        "value": "Ian Boucard"
+      },
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 492,
+        "value": "Fabien Roussel"
+      },
+      {
+        "id": 697,
+        "value": "Wallerand de Saint-Just"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 84,
+        "value": "Mouvement démocrate (MoDem)"
+      },
+      {
+        "id": 179,
+        "value": "Reconquête"
+      },
+      {
+        "id": 300,
+        "value": "Parti communiste français (PCF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -53440,13 +53611,22 @@
     "contenu": "La direction du gendarme boursier a accepté, sans y trouver rien à redire, que la directrice adjointe des affaires juridiques du régulateur, ancienne magistrate de la Cour des comptes et responsable de la mise en place de la régulation des acteurs du secteur numérique, rejoigne la direction de la société Binance, une des principales plateformes d’échange de cryptomonnaies. Mieux, quinze jours plus tard, Binance obtenait son enregistrement comme prestataire de services des actifs numériques par l’AMF, ce que tous les régulateurs européens s’étaient refusés à lui accorder jusqu’alors.\nLe succès de Binance, pourtant, suscite la plus grande méfiance de la part des régulateurs du monde entier, tant ses activités se déroulent dans la plus grande opacité. La société n’est officiellement contrôlée par personne. Elle est même quasiment aussi virtuelle que ses activités. Son siège social est impossible à localiser, une fois aux Bermudes, une fois aux îles Caïmans ; aux dernières nouvelles, elle compterait s’installer en Irlande. Sa filiale en France ne loue qu’un espace dans un immeuble de co-working (espace de travail partagé) à Montrouge pour un montant de 45 euros par mois, mais n’a ni téléphone ni mail.",
     "url": "https://www.mediapart.fr/journal/economie/100622/la-france-cede-aux-sirenes-de-la-cryptomonnaie-et-accueille-le-sulfureux-binance-bras-ouverts",
     "date": "2022-06-10",
-    "etiquettes": "Autorité des Marchés Financiers,Binance",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [
       {
         "id": 120,
         "value": "Binance"
+      },
+      {
+        "id": 178,
+        "value": "Autorité des Marchés Financiers (AMF)"
       }
     ],
     "categorie": [
@@ -53492,7 +53672,7 @@
     "contenu": "Le comité des pêches du Calvados a porté plainte auprès du Parquet national financier (PNF) pour des soupçons de « favoritisme » et de « détournement de fonds publics » dans l'attribution d'un parc éolien en mer au large du département. En 2012, Eolien Maritime France (EMF) s'était vu attribuer le marché du parc éolien en mer du Calvados, au large de Courseulles-sur-Mer après appel d'offres.\nL'actionariat d'EMF était alors détenu par EDF Renouvelables et le danois Dong Energy, remplacé en 2016 par le canadien Enbridge qui, selon les plaignants, « ne disposait à cette date d'aucune expertise industrielle dans la construction ou l'exploitation de parc éolien en mer ». Le CDPMEM estime que ce « changement d'intervenant aurait dû déclencher l'émission d'un nouvel appel d'offres, en ce qu'il était susceptible d e dégrader les capacités techniques mises en œuvre sur le projet de construction du parc éolien offshore ». Les plaignants estiment également que « l'absence de remise en concurrence a empêché tout réajustement des subventions accordées », qui aurait dû être selon le comité revues à la baisse, au bénéfice du contribuable. La construction du parc est lancée depuis février 2021.",
     "url": "https://www.lefigaro.fr/conjoncture/une-plainte-penale-au-pnf-vise-le-parc-eolien-en-mer-du-calvados-20220610",
     "date": "2022-06-10",
-    "etiquettes": "14 - Calvados,Dong Energy,Eolien Maritime France,Parquet National Financier",
+    "etiquettes": "14 - Calvados,Dong Energy,Eolien Maritime France",
     "departement": [
       {
         "id": 2709,
@@ -53500,7 +53680,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
