@@ -1,5 +1,49 @@
 [
   {
+    "id": 2190,
+    "titre": "Un contrat d’Eiffage dans le viseur du parquet national financier",
+    "contenu": "Ouverte il y a un an, l’enquête du PNF sur le chantier de rénovation du pont Houphouët-Boigny à Abidjan remporté par le groupe de BTP est toujours en cours.",
+    "url": "https://www.linforme.com/industrie/article/un-contrat-d-eiffage-dans-le-viseur-du-parquet-national-financier_1638.html",
+    "date": "2024-04-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3039,
+        "value": "Côte d'Ivoire"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 462,
+        "value": "Eiffage"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2179,
     "titre": "Affaire Gilles d'Ettore : la ville d'Agde se porte partie civile dans l'épineux dossier de la \"voyante\", le maire va-t-il démissionner ?",
     "contenu": "Un mois après la mise en examen du maire LR d'Agde pour détournement de fonds publics et son placement en détention provisoire, sa majorité municipale s'est constituée partie civile \"pour clarifier la situation\". Son premier adjoint lui a aussi écrit en prison pour \"connaître ses intentions\".",
@@ -54020,8 +54064,26 @@
     "date": "2022-06-08",
     "etiquettes": "Alain Wan,Francis Selemani,Joseph Kabila,Marc Piedbœuf,Parquet National Financier,Sherpa,Transparency International France,Unis",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 856,
+        "value": "Alain Wan"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 141,
+        "value": "Sherpa"
+      },
+      {
+        "id": 265,
+        "value": "Transparency International"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
