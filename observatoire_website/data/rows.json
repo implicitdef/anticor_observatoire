@@ -53590,18 +53590,47 @@
     "contenu": "Malaise à l’hôpital de Dole. Depuis plusieurs mois, une enquête préliminaire concernant des soupçons de détournement de fonds publics, diligentée par la brigade financière de Dijon, agite le centre hospitalier. Plusieurs praticiens du service des Urgences, le directeur de l’établissement, Gilles Chaffange, ainsi que son prédécesseur, Emmanuel Luigi, ont déjà été auditionnés.",
     "url": "https://www.leprogres.fr/faits-divers-justice/2022/06/10/des-soupcons-de-detournement-de-fonds-publics-pesent-sur-l-hopital-de-dole",
     "date": "2022-06-10",
-    "etiquettes": "39 - Jura",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2733,
         "value": "39 - Jura"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 1748,
+        "value": "Gilles Chaffange"
+      },
+      {
+        "id": 1749,
+        "value": "Emmanuel Luigi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 756,
+        "value": "Centre Hospitalier Général Louis Pasteur"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -53651,18 +53680,37 @@
     "contenu": "Jeudi 9 juin 2022, le tribunal de Rouen (Seine-Maritime) s’est penché sur une affaire qui agite depuis trois ans le conseil municipal de Saint-Martin-de-Boscherville. Maire de cette petite commune de 1 600 habitants depuis 2020, Thierry Chauvin a comparu sur le banc des prévenus aux côtés de son prédécesseur, Hubert Saint, et d’une ex-conseillère municipale. Ils sont poursuivis ainsi que deux chefs d’entreprise pour des faits de prise illégale d’intérêt dans le cadre d’un marché public pour la construction d’une maison médicale.",
     "url": "https://actu.fr/normandie/saint-martin-de-boscherville_76614/rouen-un-maire-ex-vice-president-a-la-metropole-juge-pour-prise-illegale-d-interet_51592573.html",
     "date": "2022-06-10",
-    "etiquettes": "76 – Seine Maritime,Hubert Saint,Thierry Chauvin",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2763,
         "value": "76 - Seine-Maritime"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1511,
+        "value": "Thierry Chauvin"
+      },
+      {
+        "id": 1747,
+        "value": "Hubert Saint"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -53672,7 +53720,7 @@
     "contenu": "Le comité des pêches du Calvados a porté plainte auprès du Parquet national financier (PNF) pour des soupçons de « favoritisme » et de « détournement de fonds publics » dans l'attribution d'un parc éolien en mer au large du département. En 2012, Eolien Maritime France (EMF) s'était vu attribuer le marché du parc éolien en mer du Calvados, au large de Courseulles-sur-Mer après appel d'offres.\nL'actionariat d'EMF était alors détenu par EDF Renouvelables et le danois Dong Energy, remplacé en 2016 par le canadien Enbridge qui, selon les plaignants, « ne disposait à cette date d'aucune expertise industrielle dans la construction ou l'exploitation de parc éolien en mer ». Le CDPMEM estime que ce « changement d'intervenant aurait dû déclencher l'émission d'un nouvel appel d'offres, en ce qu'il était susceptible d e dégrader les capacités techniques mises en œuvre sur le projet de construction du parc éolien offshore ». Les plaignants estiment également que « l'absence de remise en concurrence a empêché tout réajustement des subventions accordées », qui aurait dû être selon le comité revues à la baisse, au bénéfice du contribuable. La construction du parc est lancée depuis février 2021.",
     "url": "https://www.lefigaro.fr/conjoncture/une-plainte-penale-au-pnf-vise-le-parc-eolien-en-mer-du-calvados-20220610",
     "date": "2022-06-10",
-    "etiquettes": "14 - Calvados,Dong Energy,Eolien Maritime France",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2709,
@@ -53684,11 +53732,38 @@
       {
         "id": 3,
         "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 101,
+        "value": "Électricité de France (EDF)"
+      },
+      {
+        "id": 754,
+        "value": "Eolien Maritime France (EMF)"
+      },
+      {
+        "id": 755,
+        "value": "Ørsted (ex-Dong Energy)"
       }
     ],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2666,
+        "value": "Énergie"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -53698,8 +53773,13 @@
     "contenu": "La Fédération française de rugby (FFR) va se constituer partie civile au procès de son président, Bernard Laporte, et de l'homme d'affaires Mohed Altrad, jugés en septembre pour des soupçons de favoritisme autour du sponsoring du XV de France.",
     "url": "https://www.lanouvellerepublique.fr/sports/affaire-laporte-altrad-la-federation-francaise-de-rugby-se-constitue-partie-civile",
     "date": "2022-06-09",
-    "etiquettes": "Bernard Laporte,Claude Atcher,Fédération française de rugby,Mohed Altrad,Parquet National Financier",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 848,
@@ -53708,17 +53788,40 @@
       {
         "id": 896,
         "value": "Mohed Altrad"
+      },
+      {
+        "id": 897,
+        "value": "Claude Atcher"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 194,
+        "value": "Fédération française de rugby (FFR)"
+      }
+    ],
     "categorie": [
       {
         "id": 2652,
         "value": "Probité"
       }
     ],
-    "theme": [],
-    "procedure": [],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
