@@ -225,6 +225,104 @@
     "a_la_une": false
   },
   {
+    "id": 2189,
+    "titre": "La France incitée à mieux surveiller les activités d'ingérence étrangère",
+    "contenu": "L'OCDE, à la demande de la Haute Autorité pour la transparence de la vie politique, préconise de compléter le dispositif français de surveillance des activités d'ingérence étrangère.",
+    "url": "https://www.lesechos.fr/politique-societe/politique/la-france-incitee-a-mieux-surveiller-les-activites-dingerence-etrangere-2090353",
+    "date": "2024-04-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 757,
+        "value": "Organisation de coopération et de développement économiques (OCDE)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2187,
+    "titre": "Pascaline Bongo relaxée lors de son procès à Paris pour soupçons de corruption",
+    "contenu": "Pascaline Bongo, aînée du défunt président gabonais Omar Bongo, soupçonnée de corruption passive d'agent public étranger au début des années 2010 au Gabon, a été relaxée lundi par le tribunal correctionnel de Paris. Aux côtés de la sœur du président déchu Ali Bongo, âgée de 68 ans, ont comparu début 2024 la société d'ingénierie française Egis et trois de ses anciens cadres, ainsi que l'homme d'affaires gabonais Franck Ping et l'avocate Danyèle Palazo-Gauthier. Tous ont été relaxés.",
+    "url": "https://www.rfi.fr/fr/afrique/20240422-gabon-pascaline-bongo-relax%C3%A9e-proc%C3%A8s-%C3%A0-paris-pour-soup%C3%A7ons-de-corruption",
+    "date": "2024-04-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2797,
+        "value": "Gabon"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1169,
+        "value": "Pascaline Bongo"
+      },
+      {
+        "id": 1750,
+        "value": "Danyèle Palazo-Gauthier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 428,
+        "value": "Egis"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2178,
     "titre": "Le voyage très « confidentiel » de Laurent Wauquiez au Japon",
     "contenu": "Prompt habituellement à promouvoir son action, le président de la région Auvergne-Rhône-Alpes s’est gardé d’informer les élus régionaux d’un séjour qu’il a effectué en mars dans l’archipel nippon. Encore moins du montant et des conditions de financement.",
@@ -261,6 +359,51 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2186,
+    "titre": "Affaire Rachida Dati : un signalement à la justice sur une possible utilisation d’agents publics à des fins privées",
+    "contenu": "Les soupçons de porosité entre l’activité d’élue et le business d’avocate de celle qui est devenue ministre de la Culture touchent aussi le travail de ses collaborateurs au Parlement européen ou à la mairie du 7ᵉ arrondissement de Paris. Selon nos informations, Anne Hidalgo a fait un signalement auprès de la procureure de la République sur cette question.",
+    "url": "https://www.nouvelobs.com/justice/20240419.OBS87313/info-nouvel-obs-affaire-rachida-dati-un-signalement-a-la-justice-sur-une-possible-utilisation-d-agents-publics-a-des-fins-privees.html",
+    "date": "2024-04-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 657,
+        "value": "Anne Hidalgo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -456,6 +599,50 @@
         "value": "Procès"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2188,
+    "titre": "Chantage à la sextape à Saint-Étienne : \"Je suis un plombier dans cette affaire, pas l'architecte\", confie Gilles Rossary-Lenglet",
+    "contenu": "Gilles Rossary-Lenglet assume son rôle dans cette affaire et charge d'autres accusés concernant le financement de la vidéo intime.",
+    "url": "https://www.francetvinfo.fr/faits-divers/justice-proces/temoignage-chantage-a-la-video-intime-a-saint-etienne-je-suis-une-sorte-de-prestataire-de-service-temoigne-gilles-rossary-lenglet-l-un-des-mis-en-cause-qui-avait-revele-l-affaire_6492623.html",
+    "date": "2024-04-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2736,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 937,
+        "value": "Gaël Perdriau"
+      },
+      {
+        "id": 938,
+        "value": "Gilles Artigues"
+      },
+      {
+        "id": 1102,
+        "value": "Gilles Rossary-Lenglet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
