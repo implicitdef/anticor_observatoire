@@ -1,5 +1,181 @@
 [
   {
+    "id": 2193,
+    "titre": "François Fillon définitivement jugé coupable dans l’affaire des emplois fictifs ; un nouveau procès déterminera sa peine",
+    "contenu": "La Cour de cassation a rejeté mercredi les pourvois formulés par l’ancien premier ministre, son épouse et son ancien suppléant. Elle a en revanche cassé la décision de la cour d’appel « relative aux peines prononcées et aux dommages-intérêts à verser ».",
+    "url": "https://www.lemonde.fr/societe/article/2024/04/24/francois-fillon-definitivement-juge-coupable-dans-l-affaire-des-emplois-fictifs-un-nouveau-proces-determinera-sa-peine_6229657_3224.html",
+    "date": "2024-04-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3036,
+        "value": "72 - Sarthe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1388,
+        "value": "François Fillon"
+      },
+      {
+        "id": 1389,
+        "value": "Pénélope Fillon"
+      },
+      {
+        "id": 1752,
+        "value": "Marc Joulaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2192,
+    "titre": "Soupçonnée de détournements à la FNSEA, une eurodéputée d’extrême droite est introuvable",
+    "contenu": "L’ancienne « spécialiste de l’agriculture » du RN est soupçonnée d’avoir détourné 57 000 euros des caisses d’une fédération de la FNSEA. Mais, à quelques semaines des élections européennes, l’élue Maxette Pirbakas ne répond pas aux convocations de la justice.",
+    "url": "https://www.mediapart.fr/journal/france/240424/soupconnee-de-detournements-la-fnsea-une-eurodeputee-d-extreme-droite-est-introuvable",
+    "date": "2024-04-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1751,
+        "value": "Maxette Pirbakas"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 179,
+        "value": "Reconquête"
+      },
+      {
+        "id": 569,
+        "value": "Fédération nationale des syndicats d'exploitants agricoles (FNSEA)"
+      },
+      {
+        "id": 758,
+        "value": "Rassemblement pour les français d’Outre-mer et de l’étranger (RPFOM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2654,
+        "value": "Agro-alimentaire"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2194,
+    "titre": "Autoroute A69 : un collectif fait un signalement au Parquet National Financier",
+    "contenu": "Le collectif d’opposants à l’autoroute A69 La Voie est Libre vient de faire un signalement au PNF sur la légalité du montage financier et de l’appel d’offres.",
+    "url": "https://www.ladepeche.fr/2024/04/23/autoroute-a69-un-collectif-fait-un-signalement-au-parquet-national-financier-11908018.php",
+    "date": "2024-04-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2771,
+        "value": "81 - Tarn"
+      },
+      {
+        "id": 2725,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 759,
+        "value": "La Voie est Libre"
+      },
+      {
+        "id": 760,
+        "value": "Groupe NGE"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2190,
     "titre": "Un contrat d’Eiffage dans le viseur du parquet national financier",
     "contenu": "Ouverte il y a un an, l’enquête du PNF sur le chantier de rénovation du pont Houphouët-Boigny à Abidjan remporté par le groupe de BTP est toujours en cours.",
