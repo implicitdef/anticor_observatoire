@@ -9,7 +9,13 @@ declare global {
   }
 }
 
+const ENABLE_GOOGLE_ANALYTICS = false
+
 export function GoogleAnalytics() {
+  return ENABLE_GOOGLE_ANALYTICS ? <GoogleAnalyticsImpl /> : null
+}
+
+function GoogleAnalyticsImpl() {
   useEffect(() => {
     window.dataLayer = window.dataLayer || []
     window.gtag = function () {
