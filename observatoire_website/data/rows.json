@@ -317,6 +317,40 @@
     "a_la_une": false
   },
   {
+    "id": 2201,
+    "titre": "La Sécurité sociale déconventionne dix centres de santé dentaires pour fraude",
+    "contenu": "Quatre centres de santé dentaires situés en Ile-de-France et en Provence-Alpes-Côte d’Azur seront déconventionnés pour cinq ans, quatre autres implantés en Ile-de-France et en Nouvelle-Aquitaine pour trois ans, et deux autres installés en Auvergne-Rhône-Alpes pour un an.",
+    "url": "https://www.lemonde.fr/societe/article/2024/04/23/la-securite-sociale-deconventionne-dix-centres-de-sante-dentaires-pour-fraude_6229424_3224.html",
+    "date": "2024-04-23",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 766,
+        "value": "Caisse nationale de l'assurance maladie (CNAM)"
+      },
+      {
+        "id": 767,
+        "value": "Nobel Santé +"
+      },
+      {
+        "id": 768,
+        "value": "Office central de lutte contre le travail illégal (OCLTI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2200,
     "titre": "Le fondateur de l'association les Nez Rouges Sébastien Buisson arrêté en Espagne",
     "contenu": "Le fondateur de l'association les Nez Rouges, Sébastien Buisson, a été arrêté ce lundi en Espagne. Il avait été condamné à 42 mois de prison ferme, peine confirmée en appel en mars dernier. Un mandat d'arrêt européen avait été émis à son encontre.",
