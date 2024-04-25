@@ -1,5 +1,41 @@
 [
   {
+    "id": 2197,
+    "titre": "Européennes: pour Macron, la zone grise entre moyens de l’État et comptes de campagne",
+    "contenu": "L’Élysée assure faire la distinction entre ce qui relève de la fonction présidentielle et du soutien à la liste Renaissance. Mais le chef de l’État bénéficie de fait d’une surexposition médiatique.",
+    "url": "https://www.lefigaro.fr/elections/europeennes/europeennes-pour-macron-la-zone-grise-entre-moyens-de-l-etat-et-comptes-de-campagne-20240424",
+    "date": "2024-04-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 648,
+        "value": "Emmanuel Macron"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2193,
     "titre": "François Fillon définitivement jugé coupable dans l’affaire des emplois fictifs ; un nouveau procès déterminera sa peine",
     "contenu": "La Cour de cassation a rejeté mercredi les pourvois formulés par l’ancien premier ministre, son épouse et son ancien suppléant. Elle a en revanche cassé la décision de la cour d’appel « relative aux peines prononcées et aux dommages-intérêts à verser ».",
@@ -55,6 +91,70 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2195,
+    "titre": "Les dérapages financiers du Grand Prix de formule 1 de Christian Estrosi",
+    "contenu": "Organisé entre 2018 et 2022 sur le circuit Paul-Ricard (Var), l’événement, dont la structure légale vient d’être placée en liquidation, accuse une dette de plus de 32 millions d’euros. Le parquet de Marseille a ouvert une enquête pour « favoritisme » et « détournement de fonds publics ».",
+    "url": "https://www.lemonde.fr/societe/article/2024/04/24/les-derapages-financiers-du-grand-prix-de-formule-1-de-christian-estrosi_6229493_3224.html",
+    "date": "2024-04-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      },
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 872,
+        "value": "Christian Estrosi"
+      },
+      {
+        "id": 1753,
+        "value": "Arnaud Péricard"
+      },
+      {
+        "id": 1754,
+        "value": "Eric Boullier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 761,
+        "value": "Grand Prix de France de formule 1 (Grand Prix de l'ACF)"
+      },
+      {
+        "id": 762,
+        "value": "Formula One Group"
+      },
+      {
+        "id": 763,
+        "value": "GL Events"
+      },
+      {
+        "id": 764,
+        "value": "CPC & Associés"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2192,
@@ -123,6 +223,47 @@
     "a_la_une": false
   },
   {
+    "id": 2196,
+    "titre": "Soupçons de fraude fiscale visant Bernard Laporte : l'enquête classée sans suite",
+    "contenu": "Le parquet national financier (PNF) a classé sans suite l'enquête pour \"blanchiment de fraude fiscale aggravée\" visant notamment Bernard Laporte, l'ancien patron du rugby français. La décision a été prise le 21 mars dernier, car \"aucune infraction n’a pu être caractérisée\".",
+    "url": "https://www.francetvinfo.fr/faits-divers/justice-proces/info-franceinfo-soupcons-de-fraude-fiscale-visant-bernard-laporte-l-enquete-classee-sans-suite_6505703.html",
+    "date": "2024-04-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 848,
+        "value": "Bernard Laporte"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 194,
+        "value": "Fédération française de rugby (FFR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2194,
     "titre": "Autoroute A69 : un collectif fait un signalement au Parquet National Financier",
     "contenu": "Le collectif d’opposants à l’autoroute A69 La Voie est Libre vient de faire un signalement au PNF sur la légalité du montage financier et de l’appel d’offres.",
@@ -172,6 +313,82 @@
         "value": "Révélation / signalement"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2200,
+    "titre": "Le fondateur de l'association les Nez Rouges Sébastien Buisson arrêté en Espagne",
+    "contenu": "Le fondateur de l'association les Nez Rouges, Sébastien Buisson, a été arrêté ce lundi en Espagne. Il avait été condamné à 42 mois de prison ferme, peine confirmée en appel en mars dernier. Un mandat d'arrêt européen avait été émis à son encontre.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-fondateur-de-l-association-les-nez-rouges-sebastien-buisson-arrete-en-espagne-4477699",
+    "date": "2024-04-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2777,
+        "value": "87 - Haute-Vienne"
+      },
+      {
+        "id": 2795,
+        "value": "Espagne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1065,
+        "value": "Sébastien Buisson"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 353,
+        "value": "Nez Rouges"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2199,
+    "titre": "​Le procès de Stéphane Chin Loy renvoyé",
+    "contenu": "Le procès pour favoritisme de l'ancien président de la Chambre de commerce, d'industrie, des services et des métiers, Stéphane Chin Loy, a été renvoyé, mardi par le tribunal correctionnel, au 18 février 2025.",
+    "url": "https://www.tahiti-infos.com/%E2%80%8BLe-proces-de-Stephane-Chin-Loy-renvoye_a223503.html",
+    "date": "2024-04-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2789,
+        "value": "987 - Polynésie Française"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1755,
+        "value": "Stéphane Chin Loy"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
