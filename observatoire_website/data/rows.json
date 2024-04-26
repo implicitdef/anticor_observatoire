@@ -1,5 +1,85 @@
 [
   {
+    "id": 2206,
+    "titre": "« Complément d’enquête » apporte de nouvelles preuves sur les dérives du business de l’apprentissage privé",
+    "contenu": "Le magazine d’investigation Complément d’enquête, diffusé ce jeudi 25 avril sur France 2 à 23 heures, apporte de nouvelles preuves du business juteux et insuffisamment contrôlé que représente aujourd’hui l’alternance. Sur le papier, ce dispositif pédagogique (alternant les cours et les périodes en entreprise) est la voie rêvée pour se former et s’insérer sur le marché du travail. Sauf qu’aujourd’hui, le dispositif est en partie dévoyé : des milliards d’euros d’aides publiques pour soutenir l’apprentissage remplissent surtout les caisses des actionnaires qui montent parfois des formations bidon.",
+    "url": "https://www.liberation.fr/societe/education/complement-denquete-apporte-de-nouvelles-preuves-sur-les-derives-du-business-de-lapprentissage-prive-20240425_3VSEND3ZUJGNPLEWF433ODQNGQ/?redirected=1",
+    "date": "2024-04-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 196,
+        "value": "Galileo Global Education"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2204,
+    "titre": "Affaire Pascaline Bongo : le parquet national financier fait appel de la relaxe",
+    "contenu": "La sœur de l’ancien président du Gabon était poursuivie pour corruption aux côtés, notamment, de son avocate, ancienne consule du Gabon à Bordeaux, et quatre autres prévenus dans une affaire de marché public attribué à une société française. Tous ont été relaxés en première instance",
+    "url": "https://www.sudouest.fr/economie/affaire-pascaline-bongo-le-parquet-national-financier-fait-appel-de-la-relaxe-19467597.php",
+    "date": "2024-04-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2797,
+        "value": "Gabon"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1169,
+        "value": "Pascaline Bongo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 428,
+        "value": "Egis"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2202,
     "titre": "Le contrat de l’A69 révèle le nouvel asservissement volontaire de l’État face aux intérêts privés",
     "contenu": "De nombreux rapports parlementaires, mais aussi la Cour des comptes et l’Inspection générale des finances ont dénoncé ces dernières années le caractère léonin de certains contrats autoroutiers, le déséquilibre accepté des relations entre l’État et les intérêts privés, les situations de rente non encadrées, non contrôlées, de groupes privés ayant mis la main sur des monopoles naturels. Qu’ont retenu les ministres des transports, Jean-Baptiste Djebbari et Clément Beaune, de ces mises en garde, de ces critiques, de ces avertissements quand ils ont rédigé puis signé ce contrat, définitivement conclu en 2022 ? Rien, a-t-on envie d’écrire après la lecture du contrat et de ses annexes que Mediapart a pu consulter. Ou plutôt si, un souci manifeste de dissimuler, d’opacifier encore plus qu’auparavant tout ce qui préside à cette concession.",
@@ -72,6 +152,46 @@
         "value": "Transports"
       }
     ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2205,
+    "titre": "Banditisme en Corse : vague d'interpellations dans le \"clan Federici\"",
+    "contenu": "Une dizaine de personnes ont été placées en garde à vue par la police judiciaire dans le cadre d'un dossier financier conduit par la juridiction interrégionale spécialisée (Jirs) de Marseille. Des perquisitions ont également été réalisées.",
+    "url": "https://www.corsematin.com/article/faits-diversjustice/53881270758555/banditisme-en-corse-vague-dinterpellations-dans-le-clan-federici",
+    "date": "2024-04-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1759,
+        "value": "Ange-Toussaint Federici"
+      },
+      {
+        "id": 1760,
+        "value": "Pierre-Jules Federici"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 522,
+        "value": "Direction générale de la Police nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -168,6 +288,58 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2203,
+    "titre": "Guadeloupe : la Région perquisitionnée dans le cadre d'une enquête sur le Mémorial ACTe",
+    "contenu": "Des agents du parquet national financier ont procédé à des perquisitions de plusieurs organismes, dont la Région Guadeloupe, dans le cadre d'une enquête sur le Mémorial ACTe. Les locaux du conseil régional ainsi que ceux du bailleur social, aménageur et opérateur immobilier Semsamar, la Société d'économie mixte patrimoniale et un bureau d'ingénierie culture BICFL, ont été perquisitionnés lundi.",
+    "url": "https://www.europe1.fr/Police-Justice/guadeloupe-la-region-perquisitionnee-dans-le-cadre-dune-enquete-sur-le-memorial-acte-4243391",
+    "date": "2024-04-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1757,
+        "value": "Ary Chalus"
+      },
+      {
+        "id": 1758,
+        "value": "Victorin Lurel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 190,
+        "value": "Mémorial Acte (MACTe) (Centre caribéen d'expressions et de mémoire de la Traite et de l'Esclavage)"
+      },
+      {
+        "id": 770,
+        "value": "Semsamar"
+      },
+      {
+        "id": 771,
+        "value": "BICFL"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2195,
