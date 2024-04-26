@@ -1,5 +1,44 @@
 [
   {
+    "id": 2207,
+    "titre": "Action civile d’Anticor : l’annulation de son agrément a déjà des conséquences sur les affaires en cours",
+    "contenu": "Par arrêt du 13 mars 2024, la Cour de cassation rappelle que l’article 2-23 du code de procédure pénale autorise les seules associations de lutte contre la corruption agréées à exercer l’action civile du chef des infractions qu’il énonce. Tel n’est plus le cas de l’association Anticor qui a vu le renouvellement de son agrément, accordé par arrêté du Premier ministre daté du 2 avril 2021, rétroactivement annulé par jugement du Tribunal administratif de Paris en date du 23 juin 2023.",
+    "url": "https://www.dalloz-actualite.fr/flash/action-civile-d-anticor-l-annulation-de-son-agrement-deja-des-consequences-sur-affaires-en-cou",
+    "date": "2024-04-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 184,
+        "value": "Cour de cassation"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2206,
     "titre": "« Complément d’enquête » apporte de nouvelles preuves sur les dérives du business de l’apprentissage privé",
     "contenu": "Le magazine d’investigation Complément d’enquête, diffusé ce jeudi 25 avril sur France 2 à 23 heures, apporte de nouvelles preuves du business juteux et insuffisamment contrôlé que représente aujourd’hui l’alternance. Sur le papier, ce dispositif pédagogique (alternant les cours et les périodes en entreprise) est la voie rêvée pour se former et s’insérer sur le marché du travail. Sauf qu’aujourd’hui, le dispositif est en partie dévoyé : des milliards d’euros d’aides publiques pour soutenir l’apprentissage remplissent surtout les caisses des actionnaires qui montent parfois des formations bidon.",
@@ -12,7 +51,12 @@
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 850,
+        "value": "Muriel Pénicaud"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 196,
@@ -25,7 +69,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2665,
+        "value": "Éducation / Enseignement"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
