@@ -1,5 +1,82 @@
 [
   {
+    "id": 2202,
+    "titre": "Le contrat de l’A69 révèle le nouvel asservissement volontaire de l’État face aux intérêts privés",
+    "contenu": "De nombreux rapports parlementaires, mais aussi la Cour des comptes et l’Inspection générale des finances ont dénoncé ces dernières années le caractère léonin de certains contrats autoroutiers, le déséquilibre accepté des relations entre l’État et les intérêts privés, les situations de rente non encadrées, non contrôlées, de groupes privés ayant mis la main sur des monopoles naturels. Qu’ont retenu les ministres des transports, Jean-Baptiste Djebbari et Clément Beaune, de ces mises en garde, de ces critiques, de ces avertissements quand ils ont rédigé puis signé ce contrat, définitivement conclu en 2022 ? Rien, a-t-on envie d’écrire après la lecture du contrat et de ses annexes que Mediapart a pu consulter. Ou plutôt si, un souci manifeste de dissimuler, d’opacifier encore plus qu’auparavant tout ce qui préside à cette concession.",
+    "url": "https://www.mediapart.fr/journal/economie-et-social/250424/le-contrat-de-l-a69-revele-le-nouvel-asservissement-volontaire-de-l-etat-face-aux-interets-pri",
+    "date": "2024-04-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2771,
+        "value": "81 - Tarn"
+      },
+      {
+        "id": 2725,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1556,
+        "value": "Jean-Baptiste Djebbari"
+      },
+      {
+        "id": 1756,
+        "value": "Clément Beaune"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 186,
+        "value": "Ministère de l'Écologie"
+      },
+      {
+        "id": 462,
+        "value": "Eiffage"
+      },
+      {
+        "id": 613,
+        "value": "Laboratoires Pierre Fabre"
+      },
+      {
+        "id": 615,
+        "value": "Atosca"
+      },
+      {
+        "id": 760,
+        "value": "Groupe NGE"
+      },
+      {
+        "id": 769,
+        "value": "Ascendi"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2197,
     "titre": "Européennes: pour Macron, la zone grise entre moyens de l’État et comptes de campagne",
     "contenu": "L’Élysée assure faire la distinction entre ce qui relève de la fonction présidentielle et du soutien à la liste Renaissance. Mais le chef de l’État bénéficie de fait d’une surexposition médiatique.",
