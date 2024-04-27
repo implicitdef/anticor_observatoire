@@ -1,5 +1,74 @@
 [
   {
+    "id": 2208,
+    "titre": "A la présidentielle russe, l’internationale de pseudo-observateurs venus légitimer le sacre de Poutine",
+    "contenu": "Une ONG allemande a identifié un groupe de 183 élus et militants, venus des quatre continents, qui ont été conviés durant le scrutin, marqué par un niveau très élevé de fraude. Parmi eux figurent 13 Français, souvent marqués à l’extrême droite.",
+    "url": "https://www.lemonde.fr/international/article/2024/04/27/a-la-presidentielle-russe-l-internationale-de-pseudo-observateurs-venus-legitimer-le-sacre-de-poutine_6230302_3210.html",
+    "date": "2024-04-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2811,
+        "value": "Russie"
+      },
+      {
+        "id": 2714,
+        "value": "21 - Côte-d'Or"
+      },
+      {
+        "id": 2726,
+        "value": "32 - Gers"
+      },
+      {
+        "id": 2698,
+        "value": "01 - Ain"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1761,
+        "value": "Loup Bommier"
+      },
+      {
+        "id": 1762,
+        "value": "Cyril Gaucher"
+      },
+      {
+        "id": 1763,
+        "value": "Aymeri de Montesquiou-Fezensac"
+      },
+      {
+        "id": 1764,
+        "value": "Michel Voisin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 179,
+        "value": "Reconquête"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2207,
     "titre": "Action civile d’Anticor : l’annulation de son agrément a déjà des conséquences sur les affaires en cours",
     "contenu": "Par arrêt du 13 mars 2024, la Cour de cassation rappelle que l’article 2-23 du code de procédure pénale autorise les seules associations de lutte contre la corruption agréées à exercer l’action civile du chef des infractions qu’il énonce. Tel n’est plus le cas de l’association Anticor qui a vu le renouvellement de son agrément, accordé par arrêté du Premier ministre daté du 2 avril 2021, rétroactivement annulé par jugement du Tribunal administratif de Paris en date du 23 juin 2023.",
