@@ -1,5 +1,54 @@
 [
   {
+    "id": 2212,
+    "titre": "Jean-François Achilli licencié par Radio France pour « manquements répétés aux obligations déontologiques »",
+    "contenu": "L’éditorialiste politique était suspendu de l’antenne à titre conservatoire après la révélation d’une collaboration avec Jordan Bardella, président du Rassemblement national, autour de l’écriture d’un livre.",
+    "url": "https://www.lemonde.fr/politique/article/2024/04/29/jean-francois-achilli-licencie-par-radio-france-pour-manquements-repetes-aux-obligations-deontologiques_6230597_823448.html",
+    "date": "2024-04-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1019,
+        "value": "Jordan Bardella"
+      },
+      {
+        "id": 1474,
+        "value": "Jean-François Achilli"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 355,
+        "value": "Radio France"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2209,
     "titre": "Eric Dupond-Moretti annonce la mise en place d’un parquet national consacré à la lutte contre la criminalité organisée",
     "contenu": "Ce nouveau parquet, à l’image de ce qui a été fait avec les parquets nationaux antiterroristes et financiers, permettra, selon le ministre, « de mieux coordonner l’action de la justice et de la rendre plus efficace dans sa lutte contre le crime organisé ». Autre projet annoncé par M. Dupond-Moretti : la création d’un « véritable statut du repenti », inspiré du modèle en vigueur en Italie pour lutter contre la mafia.",
@@ -100,6 +149,41 @@
         "value": "Mafia / Crime organisé"
       }
     ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2211,
+    "titre": "Moselle : La fausse démission d’un élu examinée en référé",
+    "contenu": "Julien Ruaro a eu la surprise d’apprendre qu’il avait démissionné du conseil municipal de Coin-lès-Cuvry (57) en janvier 2024. Une lettre recommandée dont il n’est pas l’auteur avait été adressée au maire. Audience en référé le 29 avril à Strasbourg.",
+    "url": "https://infodujour.fr/politique/collectivites/74393-moselle-la-fausse-demission-dun-elu-examinee-en-refere",
+    "date": "2024-04-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2748,
+        "value": "57 - Moselle"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1766,
+        "value": "Julien Ruaro"
+      },
+      {
+        "id": 1767,
+        "value": "Anne-Marie Linden-Guesdon"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
