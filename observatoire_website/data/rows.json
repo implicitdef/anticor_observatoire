@@ -49,6 +49,62 @@
     "a_la_une": true
   },
   {
+    "id": 2210,
+    "titre": "Le crime organisé en Europe, « une menace majeure pour la sécurité intérieure de l’Union »",
+    "contenu": "Selon Europol, l’agence européenne de coopération policière, et des éléments plus confidentiels auxquels « Le Monde » a eu accès, plusieurs centaines de groupes criminels s’organisent entre eux selon les standards de véritables multinationales.",
+    "url": "https://www.lemonde.fr/societe/article/2024/04/28/le-crime-organise-en-europe-une-menace-majeure-pour-la-securite-interieure-de-l-union_6230437_3224.html",
+    "date": "2024-04-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2806,
+        "value": "Portugal"
+      },
+      {
+        "id": 2858,
+        "value": "Pays-Bas"
+      },
+      {
+        "id": 2795,
+        "value": "Espagne"
+      },
+      {
+        "id": 2794,
+        "value": "Émirats arabes unis"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 773,
+        "value": "Europol"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2674,
+        "value": "Mafia / Crime organisé"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2208,
     "titre": "A la présidentielle russe, l’internationale de pseudo-observateurs venus légitimer le sacre de Poutine",
     "contenu": "Une ONG allemande a identifié un groupe de 183 élus et militants, venus des quatre continents, qui ont été conviés durant le scrutin, marqué par un niveau très élevé de fraude. Parmi eux figurent 13 Français, souvent marqués à l’extrême droite.",
@@ -3956,7 +4012,7 @@
       },
       {
         "id": 2674,
-        "value": "Mafia"
+        "value": "Mafia / Crime organisé"
       }
     ],
     "procedure": [
@@ -21745,7 +21801,7 @@
     "theme": [
       {
         "id": 2674,
-        "value": "Mafia"
+        "value": "Mafia / Crime organisé"
       }
     ],
     "procedure": [],
@@ -22038,7 +22094,7 @@
     "theme": [
       {
         "id": 2674,
-        "value": "Mafia"
+        "value": "Mafia / Crime organisé"
       }
     ],
     "procedure": [],
@@ -26537,7 +26593,7 @@
     "theme": [
       {
         "id": 2674,
-        "value": "Mafia"
+        "value": "Mafia / Crime organisé"
       }
     ],
     "procedure": [],
@@ -36170,7 +36226,7 @@
     "theme": [
       {
         "id": 2674,
-        "value": "Mafia"
+        "value": "Mafia / Crime organisé"
       },
       {
         "id": 2664,
@@ -40047,7 +40103,7 @@
     "theme": [
       {
         "id": 2674,
-        "value": "Mafia"
+        "value": "Mafia / Crime organisé"
       }
     ],
     "procedure": [],
