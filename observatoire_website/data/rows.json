@@ -134,6 +134,54 @@
     "a_la_une": false
   },
   {
+    "id": 2216,
+    "titre": "Affaire des emplois fictifs : Penelope Fillon a démissionné de son mandat municipal",
+    "contenu": "La veille de sa démission, la Cour de cassation maintenait la condamnation de Mme Fillon à deux ans d’emprisonnement avec sursis, 375 000 euros d’amende et deux ans d’inéligibilité, obligeant la Franco-Britannique à quitter ses fonctions de conseillère municipale.",
+    "url": "https://www.lemonde.fr/politique/article/2024/04/29/affaire-des-emplois-fictifs-penelope-fillon-a-demissionne-de-son-mandat-municipal_6230657_823448.html",
+    "date": "2024-04-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3036,
+        "value": "72 - Sarthe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1388,
+        "value": "François Fillon"
+      },
+      {
+        "id": 1389,
+        "value": "Pénélope Fillon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2212,
     "titre": "Jean-François Achilli licencié par Radio France pour « manquements répétés aux obligations déontologiques »",
     "contenu": "L’éditorialiste politique était suspendu de l’antenne à titre conservatoire après la révélation d’une collaboration avec Jordan Bardella, président du Rassemblement national, autour de l’écriture d’un livre.",
@@ -179,6 +227,42 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2215,
+    "titre": "Le maire du Barcarès Alain Ferrand interpellé à sa descente d’avion à Montpellier et placé en garde à vue",
+    "contenu": "Le maire de la commune du Barcarès a été arrêté dans l’Hérault ce dimanche 28 avril 2024 alors qu’il rentrait d’Afrique. Il serait toujours interrogé ce lundi en fin de journée sur des soupçons de favoritisme dans le cadre de l’organisation du marché de Noël.",
+    "url": "https://www.lindependant.fr/2024/04/29/exclusif-le-maire-du-barcares-alain-ferrand-interpelle-a-sa-descente-davion-a-montpellier-et-place-en-garde-a-vue-11921279.php",
+    "date": "2024-04-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 771,
+        "value": "Alain Ferrand"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -55306,31 +55390,78 @@
     "contenu": "Une deuxième élue de la Ville de Martigues a été mise en examen le 13 mai pour favoritisme dans l’affaire de corruption présumée de la Semivim, une société d’économie mixte, dépendante de la municipalité. L’information parue dans Le Ravi a été confirmée par le parquet de Marseille à La Provence vendredi 3 juin. L’élue déléguée à l’aménagement urbain Linda Bouchicha avait été placée en garde à vue en avril. Elle n’avait cependant pas été déférée devant le juge d’instruction pour des raisons médicales. Elle était convoquée au côté de Mehdi Khouani, élu administrateur de la Société d’économie mixte immobilière de la ville de Martigues (Semivim), et Corinne Dupont, directrice de la société.",
     "url": "https://marsactu.fr/bref/affaire-semivim-une-deuxieme-elue-mise-en-examen-pour-favoritisme/",
     "date": "2022-06-07",
-    "etiquettes": "13 - Bouches-du-Rhône,Corinne Dupont,Linda Bouchicha,Mehdi Khouani,Semivim",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2708,
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1781,
+        "value": "Mehdi Khouani"
+      },
+      {
+        "id": 1782,
+        "value": "Linda Bouchicha"
+      },
+      {
+        "id": 1783,
+        "value": "Corinne Dupont"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 298,
+        "value": "Société d'Economie Mixte Immobilière de la Ville de Martigues (SEMIVIM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1159,
-    "titre": "Charlotte Gounot",
+    "titre": "Charlotte Gounot rejoint Defacto",
     "contenu": "Entrée au cabinet du ministre de l’économie Bruno Le Maire en août 2020 en tant que Conseillère en charge de la relance, de la transition écologique et du suivi de l’exécution des réformes, après cinq années passées au Trésor, Charlotte Gounot va rejoindre cette semaine la start-up de fintech (technologie financière) Defacto, dédiée au paiement différé pour les PME.",
     "url": "https://www.lalettrea.fr/action-publique_executif/2022/06/07/la-conseillere-relance-de-bruno-le-maire-se-reconvertit-dans-la-fintech,109790216-bre",
     "date": "2022-06-07",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1788,
+        "value": "Charlotte Gounot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 784,
+        "value": "Defacto"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
@@ -55438,14 +55569,33 @@
   },
   {
     "id": 1158,
-    "titre": "Martin Vial",
+    "titre": "Martin Vial rejoint Montefiore Investment",
     "contenu": "Après différentes responsabilités au sein de cabinets ministériels, Martin Vial est nommé PDG de l’Aéropostale en 1993, puis Directeur général du Groupe La Poste en 1997. En 2000, il en est nommé Président ; parallèlement il est Vice-Président de la Caisse Nationale de Prévoyance (CNP). De 2003 à 2014, il est DG du Groupe Europ Assistance. En 2015, il est nommé Commissaire aux participations de l’État. Il reste Directeur général de l’APE jusqu’au 1er juin 2022, avant de rejoindre la société d’investissement Montefiore Investment.",
     "url": "https://bourse.lefigaro.fr/fonds/martin-vial-rejoint-montefiore-investment-en-qualite-de-senior-advisor-20220607",
     "date": "2022-06-07",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1787,
+        "value": "Martin Vial"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 782,
+        "value": "Montefiore Investment"
+      },
+      {
+        "id": 783,
+        "value": "Agence des participations de l'État (APE)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
@@ -55508,38 +55658,81 @@
     "contenu": "Le tribunal correctionnel de Bastia a rendu son jugement dans une enquête sur les conditions jugées suspectes d'attribution de marchés publics pour laquelle comparaissaient l'ancien maire de Prunelli di Fiumorbu, Pierre Siméon de Buochberg, et un dirigeant de société, Youval Eched. Pierre Siméon Buochberg a été relaxé de la qualification de complicité de détournement de fonds publics. Il a été en revanche reconnu coupable de favoritisme et a été condamné à 18 mois de prison assortis d'un sursis probatoire pour une durée de deux ans, à 20 000 euros d'amende et, en peine complémentaire, à 5 ans d'inéligibilité. Ce jugement a suivi, sur le quantum de peine, les réquisitions du parquet formulées lors du procès le 23 mars contre l'ancien élu.\nAlors maire de Prunelli di Fiumorbu, Pierre Siméon de Buochberg était accusé d'avoir attribué plusieurs marchés, sans mise en concurrence, à la société de Youval Eched pour des prestations qui n'ont pas ou mal été effectuées.",
     "url": "https://www.corsematin.com/articles/lancien-maire-de-prunelli-di-fiumorbu-condamne-pour-favoritisme-125824",
     "date": "2022-06-07",
-    "etiquettes": "2B – Haute Corse,Siméon de Buochberg,Youval Eched",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2723,
         "value": "2B - Haute-Corse"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1784,
+        "value": "Siméon de Buochberg"
+      },
+      {
+        "id": 1785,
+        "value": "Youval Eched"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1157,
-    "titre": "William Lecat",
+    "titre": "William Lecat rejoint Cyber Impact Ventures",
     "contenu": "Diplômé de Polytechnique, il a travaillé pour la DGA (ministère des armées) dans le développement d’outils de cyberdéfense en tant qu’adjoint au responsable du pôle SSI, en charge des études amont, des relations avec l’ANSSI et avec les industriels. Depuis 2021 il est coordinateur de la Stratégie Nationale de Cybersécurité du Programme d’Investissements d’Avenir, après avoir été le Directeur de programme pour le Secrétariat Général pour l’Investissement. En 2022 il rejoint le fonds Cyber Impact Ventures.",
     "url": "https://education.newstank.fr/article/view/254022/cybersecurite-william-lecat-coordinateur-strategie-sgpi-rejoint-fonds.html?print=true",
     "date": "2022-06-07",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1786,
+        "value": "William Lecat"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 116,
+        "value": "Ministère des armées"
+      },
+      {
+        "id": 781,
+        "value": "Cyber Impact Ventures"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2663,
+        "value": "Défense"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -55550,12 +55743,37 @@
     "contenu": "En 2018, le gouvernement a décidé de confier un contrat de conseil de plus de 100 000 euros à Pierre-Jérôme Hénin, un communicant bien connu de la droite sarkozyste, en s’émancipant de la règle cardinale des marchés publics : le traitement équitable de tous les candidats au marché. Des courriels internes suggèrent que des hauts fonctionnaires du ministère des affaires étrangères avaient déjà décidé d’attribuer ce marché à la société de M. Hénin avant même d’avoir reçu toutes les propositions des prestataires concurrents – tout en ayant conscience du caractère potentiellement litigieux d’un tel comportement.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2022/06/06/cabinets-de-conseil-au-quai-d-orsay-soupcon-de-marche-truque-sur-un-contrat-de-communication_6129107_4355770.html",
     "date": "2022-06-06",
-    "etiquettes": "Gouvernement Édouard Philippe 2,Ministère des Affaires étrangères,Pierre-Jérôme Hénin",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1789,
+        "value": "Pierre-Jérôme Hénin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 550,
+        "value": "Ministère des Affaires étrangères"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2668,
+        "value": "Communication / Événementiel"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -55631,18 +55849,33 @@
     "contenu": "Caroline Zittel, maire de Revonnas de 2008 à 2015, était jugée pour faux et usage de faux en écriture publique. L'élue avait déjà été condamnée en novembre 2019 pour détournements de fonds en tant que comptable de la Semcoda pour un montant de 141 019 euros. La Cour des comptes a relevé qu'elle s'était aussi versée, via son association, 33 308 euros depuis le compte de la mairie. Elle vient d’écoper de deux ans de prison ferme et d’un an avec sursis.",
     "url": "https://www.leprogres.fr/faits-divers-justice/2022/06/01/l-ancienne-maire-de-revonnas-condamnee-a-deux-ans-de-prison-pour-detournement-de-fonds",
     "date": "2022-06-02",
-    "etiquettes": "01 - Ain,Caroline Zittel",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2698,
         "value": "01 - Ain"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1791,
+        "value": "Caroline Zittel"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -55705,10 +55938,33 @@
     "contenu": "La cour d’appel de Paris a débouté, mardi 31 mai, les demandes du député François Ruffin (LFI) visant à contester un accord judiciaire passé entre LVMH et la justice, au terme duquel une amende de 10 millions d’euros a permis l’abandon des poursuites contre le géant du luxe dans l’affaire Squarcini.\nLa cour d’appel de Paris a jugée irrecevable la demande du député insoumis. Les motivations exactes de l’arrêt de la cour ne sont pas encore connues. Mais sitôt la décision rendue publique, François Ruffin a annoncé saisir « dès aujourd’hui » la Cour européenne des droits de l’homme (CEDH) afin qu’elle sanctionne « les manquements de l’État français dans son obligation de protection de la liberté d’expression et du respect de la vie privée ».",
     "url": "https://www.mediapart.fr/journal/france/310522/affaire-lvmh-defait-devant-la-cour-d-appel-francois-ruffin-en-appelle-l-europe",
     "date": "2022-05-31",
-    "etiquettes": "Cour Européenne des Droits de l&#039;Homme,François Ruffin,La France Insoumise,LVMH",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 496,
+        "value": "François Ruffin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 15,
+        "value": "La France Insoumise (LFI)"
+      },
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      },
+      {
+        "id": 502,
+        "value": "Cour européenne des droits de l'Homme (CEDH)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -55721,14 +55977,23 @@
     "contenu": "La lauréate du concours Miss France 2000 est devenue en 2003 propriétaire d’un appartement à Paris (XVIe). Financé de façon opaque, ce cadeau d’Omar Bongo fait partie des biens dits mal acquis par feu le président gabonais. Sonia Rolland concède avoir été naïve, mais conteste toute infraction.\nLa justice lui reproche de s’être fait offrir, en 2013, un appartement dans le très chic XVIe arrondissement de Paris de la part d’Omar Bongo, le défunt président du Gabon. Un généreux cadeau dont elle aurait dû connaître le mode d’acquisition frauduleux, selon l’accusation.\nCette mise en cause fait suite à la récente mise en examen, entre le 25 mars et le 5 avril dernier, de 4 des 54 enfants de l’ancien homme fort de Libreville pour les mêmes faits. Ils sont soupçonnés d’avoir sciemment bénéficié d’un patrimoine frauduleusement acquis par leur père. Cette enquête dite des « biens mal acquis », ouverte après la plainte déposée en 2008 par l’ONG Transparency International, connaît un sérieux coup d’accélérateur.",
     "url": "https://www.leparisien.fr/faits-divers/biens-mal-acquis-lex-miss-france-sonia-rolland-mise-en-examen-pour-un-appartement-offert-par-omar-bongo-31-05-2022-X3E43FT2RNDQ5KAV2I74UPV2NQ.php",
     "date": "2022-05-31",
-    "etiquettes": "75 - Paris,Omar Bongo,Sonia Rolland",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2762,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 722,
+        "value": "Omar Bongo"
+      },
+      {
+        "id": 1790,
+        "value": "Sonia Rolland"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -55763,15 +56028,25 @@
     "contenu": "Philippe Marini, le maire de Compiègne est entendu depuis ce mardi matin par les enquêteurs de la section de recherches de Paris dans le cadre d’une enquête portant sur des suspicions de favoritisme et de corruption. Le patron de l’entreprise Paprec est lui aussi entendu par les enquêteurs.\nIl y a un an, dans le cadre de la même enquête, les gendarmes parisiens avaient perquisitionné les locaux de la mairie de Compiègne, le domicile du maire ainsi qu’un centre de tri de déchets situé à Villers-Saint-Paul. Selon des sources concordantes, c’est ce centre de tri ultramoderne qui intéresse la justice. En mars 2017, après un appel d’offres, le Syndicat mixte du département de l’Oise attribue à Paprec la construction de ce centre de tri inauguré début 2019 après des travaux estimés à 36 millions d’euros.\nLa justice veut ainsi savoir si l’édile et ses proches n’auraient pas pu bénéficier de contreparties pour confier le marché public à Paprec. Le PNF a notamment noté que Paprec est un partenaire majeur de Compiègne Équestre, association présidée depuis plus de 30 ans par… Monique Marini, la femme du maire.",
     "url": "https://www.leparisien.fr/faits-divers/le-maire-de-compiegne-philippe-marini-place-en-garde-a-vue-31-05-2022-34I4AQ2TJJHQ7DPNIY5SXZXWFI.php?ts=1654014082791",
     "date": "2022-05-31",
-    "etiquettes": "60 - Oise,Les Républicains,Philippe Marini",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2750,
         "value": "60 - Oise"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1580,
+        "value": "Philippe Marini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -56090,10 +56365,19 @@
     "contenu": "Le géant McDonald’s va devoir verser plus de 1 milliard d’euros à la France pour clore un litige avec notre administration fiscale. Ce montant, supérieur aux 965 millions d’euros que le moteur de recherche Google a dû payer en 2019, constitue un record.",
     "url": "https://www.capital.fr/entreprises-marches/11-milliard-deuros-damende-mcdonalds-bat-le-record-de-lhistoire-fiscale-francaise-1436990",
     "date": "2022-05-20",
-    "etiquettes": "McDonald's,Parquet National Financier",
+    "etiquettes": "",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 658,
+        "value": "McDonald's"
+      }
+    ],
     "categorie": [
       {
         "id": 2652,
@@ -56116,9 +56400,14 @@
     "contenu": "Le parlementaire, qui a démissionné jeudi de la présidence du groupe LR à l’Assemblée et a intégré le lendemain le gouvernement d’Elisabeth Borne, apparaît dans des écoutes policières ciblant deux de ses amis. Ces derniers étaient surveillés dans le cadre d’une enquête judiciaire sur une affaire de barbouzerie.",
     "url": "https://www.liberation.fr/societe/police-justice/justice-les-curieux-coups-de-fil-du-depute-damien-abad-20220520_NBRHIXBVI5B47DVZRXVK2W6HHY/",
     "date": "2022-05-20",
-    "etiquettes": "Damien Abad,Gouvernement Élisabeth Borne",
+    "etiquettes": "",
     "departement": [],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 3,
+        "value": "Damien Abad"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [],
     "theme": [],
@@ -56253,10 +56542,25 @@
     "contenu": "La Commission européenne devrait temporairement empêcher son personnel d’accepter des emplois dans le secteur privé — un phénomène appelé « pantouflage » — s’ils présentent des risques de conflits d’intérêts qui ne peuvent pas être compensés par des restrictions, a recommandé la Médiatrice européenne Emily O’Reilly.\nL’exécutif européen devrait également conditionner son accord pour un nouvel emploi à l’obtention par le membre du personnel d’un engagement de la part de son nouvel employeur de publier toute restriction sur son site Internet, a déclaré la Médiatrice.\nElle a également averti que les institutions européennes arrivaient à un « point critique » dans leur approche de la question du « pantouflage », et que « ne pas contrôler cette pratique maintenant permettra d’ancrer une culture qui pourrait éroder la confiance du public dans l’intégrité et l’expertise des institutions européennes ».",
     "url": "https://www.euractiv.fr/section/politique/news/la-commission-doit-empecher-le-pantouflage-parmi-son-personnel-selon-la-mediatrice-europeenne/",
     "date": "2022-05-19",
-    "etiquettes": "Commission européenne,Emily O&#039;Reilly",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1780,
+        "value": "Emily O'Reilly"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 175,
+        "value": "Commission Européenne"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
@@ -56295,10 +56599,27 @@
     "contenu": "Alors que les travaux de construction de l’immeuble de 180 mètres de haut ont débuté en février porte de Versailles (Paris XVe), le parquet national financier a désigné un juge d’instruction pour enquêter sur ce dossier à la suite d’une plainte pour délit de favoritisme déposée par l’association Anticor.\n« Ce qui nous a interpellés sur ce dossier et convaincus de nous porter partie civile, c’est que le maire de Paris (Bertrand Delanoë, à l’époque) est passé outre l’avis de son propre service des affaires juridiques », rappelle Elis Van Bededen, la présidente d’Anticor.",
     "url": "https://www.leparisien.fr/paris-75/soupcons-de-favoritisme-la-justice-ouvre-une-information-judiciaire-sur-la-concession-de-la-tour-triangle-19-05-2022-HJMV3MYPNFDXTKTGG5D3YMAR2I.php?ts=1653392799",
     "date": "2022-05-19",
-    "etiquettes": "Anticor,Axa,Cour des comptes,Mairie de Paris,Unibail-Rodamco-Westfield",
+    "etiquettes": "",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 6,
+        "value": "Cour des comptes (CDC)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 110,
+        "value": "Axa"
+      },
+      {
+        "id": 677,
+        "value": "Unibail-Rodamco-Westfield (URW)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -56353,10 +56674,19 @@
     "contenu": "Nouveau rebondissement dans l'affaire des cabinets de conseil, et plus spécifiquement sur l'aspect fiscal du dossier. Ce mercredi, dans un communiqué, le bureau du Sénat a annoncé avoir décidé «de saisir le parquet […] pour suspicion de faux témoignage» sur la situation fiscale du cabinet de conseil McKinsey en France.\nL'annonce de cet après-midi vient, en réalité, « lever une argutie procédurale », explique une source sénatoriale au Figaro. Le 25 mars, la commission d'enquête a voulu saisir le procureur, « car il est interdit de mentir » lors d'une audition, comme le rappelle l'article 6 de l'ordonnance du 17 novembre 1958. Mais, précise cet article, « les poursuites prévues au présent article sont exercées à la requête du président de la commission ou, lorsque le rapport de la commission a été publié, à la requête du bureau de l'assemblée intéressée ». Or, le courrier de saisine n'a été rédigé et envoyé au procureur que quelques jours après la publication du rapport, lorsque la commission d'enquête n'existait déjà plus : les textes interdisaient donc les poursuites, sauf si elles étaient requises par le bureau du Sénat. Ce qui a été validé ce jour, « à l'unanimité ».",
     "url": "https://www.lefigaro.fr/societes/mckinsey-le-bureau-du-senat-saisit-le-parquet-pour-suspicion-de-faux-temoignage-20220518",
     "date": "2022-05-18",
-    "etiquettes": "McKinsey,Sénat",
+    "etiquettes": "",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 397,
+        "value": "McKinsey & Company"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -56369,7 +56699,7 @@
     "contenu": "Mediapart et Investigate Europe révèlent l’existence d’une structure parallèle à Orpea, basée au Luxembourg, qui a accumulé 92 millions d’actifs et mené des opérations financières douteuses. Le géant français des Ehpad a porté plainte pour « abus de biens sociaux ».\nDepuis au moins treize ans, Orpea s’est appuyé, dans la plus grande discrétion, sur une société luxembourgeoise nommée Lipany. Laquelle a réalisé plusieurs opérations financières douteuses, et a récupéré, via sa quarantaine de filiales, 92 millions d’euros d’actifs dans quatre pays européens, dont la France. Il s’agit principalement de parts dans de nombreux Ehpad et cliniques gérés par Orpea. Officiellement, cette société implantée dans un paradis fiscal est totalement indépendante d’Orpea. Elle appartient à Roberto Tribuno, un comptable et conseiller fiscal qui a été le patron d’Orpea en Italie.\nL'enquête révèle aussi plusieurs opérations problématiques menées par des filiales de Lipany en lien avec Orpea. En Italie, deux structures ont été mises en cause dans des affaires d’évasion fiscale et de fraude aux financements publics. En France, Lipany a aidé Orpea à couvrir le versement d’une commission occulte de 700 000 euros à un intermédiaire, tandis que quatorze sociétés détenues par les deux groupes revendiquent dans leurs comptes officiels un avantage fiscal auquel elles n’ont pas droit. Le groupe Orpea soupçonne lui-même que des opérations menées avec la société luxembourgeoise auraient servi à détourner de l’argent.",
     "url": "https://www.mediapart.fr/journal/economie/180522/un-scandale-financier-luxembourgeois-menace-orpea",
     "date": "2022-05-18",
-    "etiquettes": "Orpea",
+    "etiquettes": "",
     "departement": [],
     "personnalites": [],
     "personnes_morales": [
