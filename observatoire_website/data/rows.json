@@ -1,5 +1,139 @@
 [
   {
+    "id": 2213,
+    "titre": "Auchan, Leroy Merlin, Decathlon : les milliards de la « nébuleuse » des Mulliez dans le viseur de la justice",
+    "contenu": "A la tête d’un empire de la grande distribution, la richissime famille du Nord cultive le secret sur son organisation et sur la préservation de son patrimoine. C’est à la faveur du divorce d’une des héritières que les juges d’instruction ont été mis sur la trace d’éventuels «abus de confiance» et «blanchiment de fraude fiscale».",
+    "url": "https://www.liberation.fr/societe/police-justice/auchan-leroy-merlin-decathlon-les-milliards-de-la-nebuleuse-des-mulliez-dans-le-viseur-de-la-justice-20240430_FQK26SHMD5FXVNDROSU7W2J6Q4/",
+    "date": "2024-04-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2858,
+        "value": "Pays-Bas"
+      },
+      {
+        "id": 2749,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1768,
+        "value": "Gérard Mulliez"
+      },
+      {
+        "id": 1769,
+        "value": "Jérôme Mulliez"
+      },
+      {
+        "id": 1770,
+        "value": "Thierry Mulliez"
+      },
+      {
+        "id": 1771,
+        "value": "Johannes Duivenvoorde"
+      },
+      {
+        "id": 1772,
+        "value": "Hervé Dubly"
+      },
+      {
+        "id": 1773,
+        "value": "Priscilla Mulliez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 774,
+        "value": "Auchan"
+      },
+      {
+        "id": 775,
+        "value": "Decathlon"
+      },
+      {
+        "id": 776,
+        "value": "Leroy Merlin"
+      },
+      {
+        "id": 777,
+        "value": "Association familiale Mulliez"
+      },
+      {
+        "id": 778,
+        "value": "Soliance (ex-Soderec)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 2669,
+        "value": "Grande consommation"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2214,
+    "titre": "Renew Europe rejette l'interdiction de cumuler mandat d'eurodéputé et consulting",
+    "contenu": "À rebours des positions qu'il défendait jusqu'à présent, le groupe Renew Europe vient de rejeter l'interdiction du cumul du mandat d'eurodéputé avec des activités rémunérées par des entités inscrites au registre de transparence de l'UE.",
+    "url": "https://www.lalettre.fr/fr/action-publique/2024/04/30/renew-europe-rejette-l-interdiction-de-cumuler-mandat-d-eurodepute-et-consulting%2C110221368-art",
+    "date": "2024-04-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2660,
+        "value": "Conseil"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2212,
     "titre": "Jean-François Achilli licencié par Radio France pour « manquements répétés aux obligations déontologiques »",
     "contenu": "L’éditorialiste politique était suspendu de l’antenne à titre conservatoire après la révélation d’une collaboration avec Jordan Bardella, président du Rassemblement national, autour de l’écriture d’un livre.",
@@ -461,7 +595,7 @@
     ],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 2205,
@@ -55045,12 +55179,33 @@
     "contenu": "L’affaire « Congo hold-up » gagne la France. Selon une information de Mediapart et Africa Intelligence, le parquet national financier (PNF) a récemment ouvert une enquête préliminaire à la suite de leurs révélations et celles de vingt-trois médias et ONG internationales sur la corruption et le détournement massif de fonds publics en République démocratique du Congo (RDC), notamment au profit de l’ancien président Joseph Kabila et de son premier cercle.\nÀ la suite de notre premier article, qui a révélé comment le clan Kabila a détourné 138 millions de dollars d’argent public via une société-écran installée dans un garage de Kinshasa, la justice congolaise avait ouvert une enquête judiciaire le 21 janvier dernier. Deux plaintes ont par ailleurs été déposées auprès du PNF à l’initiative de l’ONG panafricaine anticorruption Unis, cofondée par le lanceur d’alerte congolais Jean-Jacques Lumumba. Cet ancien banquier de la BGFI avait révélé un premier scandale visant la banque et l’entourage de Joseph Kabila en 2016.",
     "url": "https://www.mediapart.fr/journal/international/080622/la-justice-francaise-ouvre-une-enquete-apres-les-revelations-de-congo-hold",
     "date": "2022-06-08",
-    "etiquettes": "Alain Wan,Francis Selemani,Joseph Kabila,Marc Piedbœuf,Parquet National Financier,Sherpa,Transparency International France,Unis",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2809,
+        "value": "République du Congo"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
+      {
+        "id": 855,
+        "value": "Joseph Kabila"
+      },
       {
         "id": 856,
         "value": "Alain Wan"
+      },
+      {
+        "id": 857,
+        "value": "Marc Piedbœuf"
+      },
+      {
+        "id": 1774,
+        "value": "Francis Selemani"
       }
     ],
     "personnes_morales": [
@@ -55067,9 +55222,19 @@
         "value": "Transparency International"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -55079,18 +55244,59 @@
     "contenu": "Le 27 novembre 2020, le conseil départemental des Yvelines – y compris son président Pierre Bédier – vote à l’unanimité une subvention de 1 132 054 € au bénéfice d’un projet de maison médicale à Mantes-la-Jolie. Cette subvention permet à la commune d’acheter pour un montant total de 1,6 million d’euros 442 m2 de locaux à la SCI 2 rue de Lorraine détenue par Laurent Nicouleau, le beau-frère de Pierre Bédier, et par Patrick De Rorre, un ami entrepreneur dans le BTP avec lequel le président du Département serait par ailleurs, selon le Canard enchaîné, associé dans une société domiciliée à Hong Kong.\nDans le signalement qu’elle vient d’adresser à la procureure de la République, l’association Anticor détaille l’étonnant enchaînement des faits qui aboutit aussi à la vente par la SCI 2 rue de Lorraine de 22 logements pour un montant de 5,7 millions d’euros à l’office HLM Les Résidences Yvelines Essonne, dont le conseil de surveillance est présidé par… Pierre Bédier.",
     "url": "https://actu.fr/ile-de-france/mantes-la-jolie_78361/mantes-la-jolie-affaire-de-la-sci-2-rue-de-lorraine-anticor-saisit-la-justice_51500133.html",
     "date": "2022-06-08",
-    "etiquettes": "78 - Yvelines,Anticor,Laurent Nicouleau,Les Républicains,Pierre Bédier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2768,
         "value": "78 - Yvelines"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 983,
+        "value": "Pierre Bédier"
+      },
+      {
+        "id": 1775,
+        "value": "Laurent Nicouleau"
+      },
+      {
+        "id": 1776,
+        "value": "Patrick De Rorre"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 779,
+        "value": "Les Résidences Yvelines Essonne"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -55142,17 +55348,45 @@
     "contenu": "L’ancien patron d’Orpea est auditionné ce mardi par les gendarmes dans le cadre d’une enquête ouverte par le PNF pour «délit d’initié». La justice soupçonne Yves Le Masne d’avoir revendu ses actions alors qu’il savait qu’un livre très néfaste pour leur cours était en préparation.\nLa juridiction financière avait en effet décidé de lancer des investigations après un article du Canard enchaîné mettant directement en cause Yves Le Masne. L’hebdomadaire satirique avait révélé que l’ancien directeur général d’Orpea avait revendu, au cours du mois de juillet 2021, pas moins de « 5456 actions du groupe » pour un montant approchant les 600 000 euros. Le cours de l’action Orpea était alors de 107,80 euros pièce. Après les révélations contenues dans le livre de Victor Castanet et faisant état de mauvais traitements sur les pensionnaires des établissements Orpea, ce cours voisine aujourd’hui avec les 25 euros. D’où cette question qui taraude la justice financière : le grand patron a-t-il précipité la vente de ses actions après avoir appris que Victor Castanet se préparait à sortir son enquête sur Orpea ? Ce qui pourrait, selon la lecture du PNF, s’apparenter à un délit d’initié.",
     "url": "https://www.leparisien.fr/faits-divers/lancien-directeur-general-dorpea-entendu-par-les-gendarmes-07-06-2022-EQQN7RWJ3RG5VKAXMDCNSXQZ2I.php?ts=1654604755228",
     "date": "2022-06-07",
-    "etiquettes": "Orpea,Yves Le Masne",
-    "departement": [],
-    "personnalites": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 962,
+        "value": "Victor Castanet"
+      },
+      {
+        "id": 1777,
+        "value": "Yves Le Masne"
+      }
+    ],
     "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
       {
         "id": 86,
         "value": "Orpea"
       }
     ],
-    "categorie": [],
-    "theme": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -55163,12 +55397,41 @@
     "contenu": "Dans son rapport annuel 2022, publié mardi 7 juin, la Cour des Comptes étrille la Société de perception et de distribution des droits des artistes-interprètes (Spedidam), présidée par François Nowak, qui collecte et redistribue les droits voisins, liés aux utilisations secondaires des interprétations enregistrées, sonores ou audiovisuelles (enregistrements diffusés dans des spectacles, disques sonorisant des films par exemple) de 38 691 musiciens, chanteurs, comédiens, DJ, artistes lyriques, circassiens ou danseurs.\nA tel point que la commission a transmis au procureur de la République les faits susceptibles de constituer des infractions pénales au sein de la Spedidam. Une nouvelle enquête de cette commission sera d’ailleurs diligentée en septembre, afin de vérifier que les 35 recommandations formulées auront bien été appliquées. Si rien n’a évolué, bien que la Spedidam affirme avoir déjà engagé de nombreuses réformes, un processus de sanction sera mis en œuvre.",
     "url": "https://www.lemonde.fr/economie/article/2022/06/07/la-cour-des-comptes-etrille-la-spedidam-societe-gerant-les-droits-des-artistes-interpretes_6129211_3234.html",
     "date": "2022-06-07",
-    "etiquettes": "Cour des comptes,François Nowak,Spedidam",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1778,
+        "value": "François Nowak"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 6,
+        "value": "Cour des comptes (CDC)"
+      },
+      {
+        "id": 780,
+        "value": "Société de perception et de distribution des droits des artistes-interprètes (SPEDIDAM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2662,
+        "value": "Culture"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -55200,18 +55463,42 @@
     "contenu": "Dans la Somme, des élus locaux accusent le député Jean-Claude Leclabart d’avoir multiplié les projets coûteux, votés dans des conditions litigieuses, juste avant de quitter la présidence d’une communauté de communes. Mis en examen pour « faux en écriture publique », l’élu LREM a été réinvesti aux législatives. Et pourrait in extremis échapper à un procès.",
     "url": "https://www.mediapart.fr/journal/france/070622/un-depute-lrem-ruine-une-collectivite-rurale-il-est-reinvesti",
     "date": "2022-06-07",
-    "etiquettes": "80 - Somme,Jean-Claude Leclabart,La République En Marche",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2770,
         "value": "80 - Somme"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1779,
+        "value": "Jean-Claude Leclabart"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
