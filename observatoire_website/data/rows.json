@@ -134,6 +134,67 @@
     "a_la_une": false
   },
   {
+    "id": 2217,
+    "titre": "Soupçons de pantouflage à l'Agence régionale de santé Auvergne-Rhône-Alpes",
+    "contenu": "Après le Parquet national financier, un signalement a été fait au procureur de la République de Lyon concernant de potentielles prises illégales d'intérêts d'anciens hauts cadres de l'Agence régionale de santé Auvergne-Rhône-Alpes.",
+    "url": "https://www.lyoncapitale.fr/actualite/soupcons-de-pantouflage-a-l-agence-regionale-de-sante-auvergne-rhone-alpes",
+    "date": "2024-04-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 806,
+        "value": "Jean-Yves Grall"
+      },
+      {
+        "id": 807,
+        "value": "Serge Morais"
+      },
+      {
+        "id": 808,
+        "value": "Jean-Charles Faivre-Pierret"
+      },
+      {
+        "id": 810,
+        "value": "Céline Vigné"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 160,
+        "value": "Ykoé (ex-Clinipsy)"
+      },
+      {
+        "id": 471,
+        "value": "Agence régionale de santé (ARS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2216,
     "titre": "Affaire des emplois fictifs : Penelope Fillon a démissionné de son mandat municipal",
     "contenu": "La veille de sa démission, la Cour de cassation maintenait la condamnation de Mme Fillon à deux ans d’emprisonnement avec sursis, 375 000 euros d’amende et deux ans d’inéligibilité, obligeant la Franco-Britannique à quitter ses fonctions de conseillère municipale.",
