@@ -1,5 +1,240 @@
 [
   {
+    "id": 2223,
+    "titre": "Affaire Alpexpo à Grenoble : jusqu'à dix mois de prison avec sursis requis contre d'anciens dirigeants du centre de congrès",
+    "contenu": "Jeudi 2 mai, deux anciens PDG et une ancienne directrice d’Alpexpo comparaissaient devant le tribunal correctionnel de Grenoble, soupçonnés notamment de favoritisme de 2012 à 2015. Des peines de prison avec sursis ont été requises contre les trois mis en cause. Le jugement, mis en délibéré, sera rendu le 2 juillet.",
+    "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/affaire-alpexpo-a-grenoble-jusqu-a-dix-mois-de-prison-avec-sursis-requis-contre-d-anciens-dirigeants-du-centre-de-congres-2964323.html",
+    "date": "2024-05-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2732,
+        "value": "38 - Isère"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1795,
+        "value": "Catherine Calmels"
+      },
+      {
+        "id": 1796,
+        "value": "Claus Habfast"
+      },
+      {
+        "id": 1797,
+        "value": "Alain Pilaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 788,
+        "value": "Alpexpo"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2218,
+    "titre": "Financement libyen de la présidentielle : Carla Bruni-Sarkozy entendue comme \"mise en cause\" après la rétractation de Ziad Takieddine",
+    "contenu": "La femme de Nicolas Sarkozy a été entendue dans les locaux de l'Office central de lutte contre la corruption et les infractions financières et fiscales. Elle est repartie sans poursuites judiciaires à ce stade.",
+    "url": "https://www.francetvinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/financement-libyen-de-la-presidentielle-carla-bruni-sarkozy-entendue-comme-mise-en-cause-apres-la-retractation-de-ziad-takieddine_6520673.html",
+    "date": "2024-05-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2803,
+        "value": "Libye"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 586,
+        "value": "Ziad Takieddine"
+      },
+      {
+        "id": 1792,
+        "value": "Carla Bruni-Sarkozy"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2221,
+    "titre": "« Il faut enfin donner une véritable impulsion politique à la lutte contre la corruption »",
+    "contenu": "Alors que le coût de la corruption en France est estimé à 120 milliards d’euros par an selon l’association Anticor, les anciens député de Saône-et-Loire Raphaël Gauvain et vice-procureur au Parquet national financier Vincent Filhol proposent, dans une tribune au « Monde », la création d’un comité interministériel consacré à cet « enjeu démocratique majeur ».",
+    "url": "https://www.lemonde.fr/idees/article/2024/05/01/il-faut-enfin-donner-une-veritable-impulsion-politique-a-la-lutte-contre-la-corruption_6230937_3232.html",
+    "date": "2024-05-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 624,
+        "value": "Raphaël Gauvain"
+      },
+      {
+        "id": 628,
+        "value": "Vincent Filhol"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2220,
+    "titre": "Le maire du Barcarès mis en examen et en détention provisoire pour des soupçons de corruption",
+    "contenu": "Alain Ferrand, maire Divers droite (DVD) du Barcarès (Pyrénées-Orientales) a été interpellé en début de semaine et mis en examen mardi 30 avril 2024 pour « corruption par un élu public, favoritisme, prise illégale d’intérêt » concernant la gestion de marchés publics relatifs aux villages de Noël de la commune entre 2012 et 2024. L’élu a été placé en détention provisoire.",
+    "url": "https://www.ouest-france.fr/faits-divers/corruption/le-maire-du-barcares-mis-en-examen-et-en-detention-provisoire-pour-des-soupcons-de-corruption-15075084-07bc-11ef-9b61-fca6986e7514",
+    "date": "2024-05-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2756,
+        "value": "66 - Pyrénées-Orientales"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 771,
+        "value": "Alain Ferrand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 785,
+        "value": "K Invest"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2222,
+    "titre": "Megève dépose plainte contre le maire de Saint-Gervais Jean-Marc Peillex pour favoritisme",
+    "contenu": "La Ville de Megève embauche l’avocat renommé, Alain Jakubowicz, pour démontrer sa bonne foi dans l’attribution de la délégation de service public des Crêtes et soupçonne le maire de Saint-Gervais, Jean-Marc Peillex, de délit de favoritisme.",
+    "url": "https://www.ledauphine.com/faits-divers-justice/2024/05/01/megeve-depose-plainte-contre-jean-marc-peillex-pour-favoritisme",
+    "date": "2024-05-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2761,
+        "value": "74 - Haute-Savoie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1793,
+        "value": "Jean-Marc Peillex"
+      },
+      {
+        "id": 1794,
+        "value": "Catherine Jullien-Brèches"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 786,
+        "value": "Téléportés Bettex Mont d'Arbois (S.T.B.M.A)"
+      },
+      {
+        "id": 787,
+        "value": "SEM des Remontées Mécaniques de Megève (SRMM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2213,
     "titre": "Auchan, Leroy Merlin, Decathlon : les milliards de la « nébuleuse » des Mulliez dans le viseur de la justice",
     "contenu": "A la tête d’un empire de la grande distribution, la richissime famille du Nord cultive le secret sur son organisation et sur la préservation de son patrimoine. C’est à la faveur du divorce d’une des héritières que les juges d’instruction ont été mis sur la trace d’éventuels «abus de confiance» et «blanchiment de fraude fiscale».",
@@ -92,6 +327,47 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2219,
+    "titre": "Favoritisme au MACTe : Laurella Rinçon condamnée à un an de prison avec sursis",
+    "contenu": "Laurella Rinçon s’en est allée sans un mot, ce mardi matin, après avoir été informée de sa condamnation pour atteinte au code des marchés publics. L’ancienne directrice du MACTe écope d’une année de prison avec sursis, de 10.000€ d’amende. Elle est inéligible et interdite d’emploi public durant deux ans.",
+    "url": "https://la1ere.francetvinfo.fr/guadeloupe/favoritisme-au-macte-laurella-rincon-condamnee-a-un-an-de-prison-avec-sursis-1484612.html",
+    "date": "2024-04-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 846,
+        "value": "Laurella Rinçon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 190,
+        "value": "Mémorial Acte (MACTe) (Centre caribéen d'expressions et de mémoire de la Traite et de l'Esclavage)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2214,
