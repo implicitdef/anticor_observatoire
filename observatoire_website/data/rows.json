@@ -49,6 +49,147 @@
     "a_la_une": false
   },
   {
+    "id": 2225,
+    "titre": "Banditisme corse : le Conseil supérieur de la magistrature saisi du cas de la juge Gerhards",
+    "contenu": "Le Conseil supérieur de la magistrature (CSM) a été saisi, vendredi 26 avril, du cas de la juge Hélène Gerhards. La magistrate avait été, de manière rarissime, placée en détention provisoire après avoir sa mise en examen pour 11 chefs d’inculpation, dont détournement de fonds publics, dans le cadre d’une enquête ouverte sur ses liens suspects avec le banditisme corse.",
+    "url": "https://www.ouest-france.fr/societe/justice/banditisme-corse-le-conseil-superieur-de-la-magistrature-saisi-du-cas-de-la-juge-gerhards-248dfd12-0944-11ef-943a-cd1e31449f57",
+    "date": "2024-05-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      },
+      {
+        "id": 2722,
+        "value": "2A - Corse-du-Sud"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 918,
+        "value": "Gabriel Attal"
+      },
+      {
+        "id": 997,
+        "value": "Hélène Gerhards"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      },
+      {
+        "id": 2674,
+        "value": "Mafia / Crime organisé"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2226,
+    "titre": "Coupable de favoritisme, l’ex-élu ne veut pas payer ses frais de justice : il est débouté en référé",
+    "contenu": "Le juge des référés du tribunal administratif de Nantes a rendu sa décision, jeudi 2 mai, après le recours intenté par Éric Lucas, ex-maire de Vair-sur-Loire (Loire-Atlantique). Il estime qu’il n’y a pas d’urgence à statuer. La requête sera examinée au fond dans quelques mois.",
+    "url": "https://www.ouest-france.fr/societe/justice/coupable-de-favoritisme-lex-elu-ne-veut-pas-payer-ses-frais-de-justice-il-est-deboute-en-refere-ccc858d8-0949-11ef-943a-cd1e31449f57",
+    "date": "2024-05-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2738,
+        "value": "44 - Loire-Atlantique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1510,
+        "value": "Éric Lucas"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2224,
+    "titre": "L'affaire de fuites qui ébranle la PJ de la Seine-Saint-Denis",
+    "contenu": "Selon les informations du « Monde », un brigadier-chef très expérimenté, qui fut longtemps en poste aux « stups » en Seine-Saint-Denis, est suspecté d’avoir été de mèche avec d’importants trafiquants. Un dossier révélateur des zones d’ombre entourant la traque des réseaux dans ce département confronté au narcobanditisme.",
+    "url": "https://www.lemonde.fr/societe/visuel/2024/05/03/narcotrafic-l-affaire-de-fuites-qui-ebranle-la-pj-de-la-seine-saint-denis_6231312_3224.html",
+    "date": "2024-05-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2766,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 189,
+        "value": "Direction nationale de la Police judiciaire (DNPJ)"
+      },
+      {
+        "id": 235,
+        "value": "Inspection générale de la Police nationale (IGPN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2677,
+        "value": "Police"
+      },
+      {
+        "id": 2664,
+        "value": "Drogue"
+      },
+      {
+        "id": 2674,
+        "value": "Mafia / Crime organisé"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2218,
     "titre": "Financement libyen de la présidentielle : Carla Bruni-Sarkozy entendue comme \"mise en cause\" après la rétractation de Ziad Takieddine",
     "contenu": "La femme de Nicolas Sarkozy a été entendue dans les locaux de l'Office central de lutte contre la corruption et les infractions financières et fiscales. Elle est repartie sans poursuites judiciaires à ce stade.",
@@ -2579,7 +2720,16 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      },
+      {
+        "id": 2674,
+        "value": "Mafia / Crime organisé"
+      }
+    ],
     "procedure": [
       {
         "id": 2692,
@@ -4241,6 +4391,10 @@
       {
         "id": 3024,
         "value": "Justice"
+      },
+      {
+        "id": 2674,
+        "value": "Mafia / Crime organisé"
       }
     ],
     "procedure": [
@@ -34990,7 +35144,16 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      },
+      {
+        "id": 2674,
+        "value": "Mafia / Crime organisé"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
