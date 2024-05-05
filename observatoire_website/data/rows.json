@@ -49,6 +49,46 @@
     "a_la_une": false
   },
   {
+    "id": 2227,
+    "titre": "Anticor : l’association anticorruption dénonce « la mise en attente » par le gouvernement de sa demande d’agrément",
+    "contenu": "L’association de lutte contre la corruption dénonce dans un communiqué vendredi la « mise en attente » par le gouvernement de sa demande de renouvellement de son agrément, perdu l’an dernier et qui lui permet d’intervenir dans les procédures judiciaires. « Par cette réponse, le gouvernement s’affranchit totalement des textes encadrant la procédure d’octroi de l’agrément anticorruption aux associations », fustige Anticor, qui souligne qu’« aucune mise en attente n’est (…) prévue par les textes ».",
+    "url": "https://www.leparisien.fr/politique/anticor-lassociation-anticorruption-denonce-la-mise-en-attente-par-le-gouvernement-de-sa-demande-dagrement-03-05-2024-3HUXGY73ENE7XATZ3Z7FNP3YPE.php",
+    "date": "2024-05-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 918,
+        "value": "Gabriel Attal"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2225,
     "titre": "Banditisme corse : le Conseil supérieur de la magistrature saisi du cas de la juge Gerhards",
     "contenu": "Le Conseil supérieur de la magistrature (CSM) a été saisi, vendredi 26 avril, du cas de la juge Hélène Gerhards. La magistrate avait été, de manière rarissime, placée en détention provisoire après avoir sa mise en examen pour 11 chefs d’inculpation, dont détournement de fonds publics, dans le cadre d’une enquête ouverte sur ses liens suspects avec le banditisme corse.",
