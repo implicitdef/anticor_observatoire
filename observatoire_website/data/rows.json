@@ -1,5 +1,45 @@
 [
   {
+    "id": 2229,
+    "titre": "La rémunération de Christophe Béchu, premier adjoint fantôme, irrite les élus d’Angers",
+    "contenu": "Ancien maire de la ville, le ministre de la transition écologique est toujours membre du conseil municipal. Une fonction pour laquelle il touche une indemnité mensuelle de 3 089,50 euros, même s’il ne participe que rarement aux séances. L’opposition demande des sanctions.",
+    "url": "https://www.lemonde.fr/politique/article/2024/05/04/la-remuneration-de-christophe-bechu-premier-adjoint-fantome-irrite-les-elus-d-angers_6231544_823448.html",
+    "date": "2024-05-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2742,
+        "value": "49 - Maine-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1798,
+        "value": "Christophe Béchu"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 12,
+        "value": "Horizons"
+      },
+      {
+        "id": 186,
+        "value": "Ministère de l'Écologie"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2223,
     "titre": "Affaire Alpexpo à Grenoble : jusqu'à dix mois de prison avec sursis requis contre d'anciens dirigeants du centre de congrès",
     "contenu": "Jeudi 2 mai, deux anciens PDG et une ancienne directrice d’Alpexpo comparaissaient devant le tribunal correctionnel de Grenoble, soupçonnés notamment de favoritisme de 2012 à 2015. Des peines de prison avec sursis ont été requises contre les trois mis en cause. Le jugement, mis en délibéré, sera rendu le 2 juillet.",
@@ -177,6 +217,58 @@
       }
     ],
     "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2228,
+    "titre": "Disney France dans la tourmente : climat social tendu, soupçons d’évasion fiscale…",
+    "contenu": "Un nouveau plan social au sein de la filiale française de Disney essentiellement dédiée au cinéma, distincte du parc Disneyland, suscite l’incompréhension et le malaise des salariés. Ils s’interrogent sur la santé économique réelle de l’entreprise, qui est également dans le viseur de Bercy pour de nouveaux soupçons de fraude fiscale.",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2024/05/03/disney-france-dans-la-tourmente-climat-social-tendu-soupcons-d-evasion-fiscale_6231251_4355770.html",
+    "date": "2024-05-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2767,
+        "value": "77 - Seine-et-Marne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 27,
+        "value": "Direction générale des finances publiques (DGFIP)"
+      },
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 356,
+        "value": "Direction régionales de l’économie, de l’emploi, du travail et des solidarités (DREETS)"
+      },
+      {
+        "id": 789,
+        "value": "The Walt Disney Company"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
