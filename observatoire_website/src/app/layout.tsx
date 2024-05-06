@@ -1,4 +1,4 @@
-import { GoogleAnalytics } from '@/components/GoogleAnalytics'
+import { InitTarteAuCitron } from '@/components/InitTarteAuCitron'
 import logo from '@/img/logo.png'
 import logoFacebook from '@/img/sociallogos/facebook.svg'
 import logoInstagram from '@/img/sociallogos/instagram.svg'
@@ -26,6 +26,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr">
+      <head>
+        <InitTarteAuCitron />
+      </head>
       <body
         className={`${openSans.className} bg-white min-h-screen flex flex-col`}
       >
@@ -37,8 +40,8 @@ export default function RootLayout({
             </div>
             <Menu />
           </div>
-          <GoogleAnalytics />
         </header>
+
         <main className="mx-auto grow w-full mb-10">{children}</main>
         <footer className="container mx-auto flex flex-col gap-4 items-center justify-center text-gray-700 mb-10 px-2">
           <p className="text-sm text-center">
