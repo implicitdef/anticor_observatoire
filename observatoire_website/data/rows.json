@@ -1,5 +1,94 @@
 [
   {
+    "id": 2230,
+    "titre": "Le lobby patronal du « public-privé » enrôle des élus malgré eux",
+    "contenu": "La présidente de la région Occitanie, Carole Delga, a fait retirer son nom du bureau de l’Institut de la gestion déléguée, un lobby de dirigeants d’entreprises où elle précise n’avoir « jamais siégé ». La maire de Nantes, Johanna Rolland, a fait de même.",
+    "url": "https://www.mediapart.fr/journal/france/060524/le-lobby-patronal-du-public-prive-enrole-des-elus-malgre-eux",
+    "date": "2024-05-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1463,
+        "value": "Renaud Muselier"
+      },
+      {
+        "id": 1799,
+        "value": "Carole Delga"
+      },
+      {
+        "id": 1800,
+        "value": "Johanna Rolland"
+      },
+      {
+        "id": 1801,
+        "value": "François Sauvadet"
+      },
+      {
+        "id": 1802,
+        "value": "Hubert du Mesnil"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 90,
+        "value": "Vinci"
+      },
+      {
+        "id": 181,
+        "value": "Veolia"
+      },
+      {
+        "id": 182,
+        "value": "Suez"
+      },
+      {
+        "id": 293,
+        "value": "Office européen de lutte antifraude (OLAF)"
+      },
+      {
+        "id": 760,
+        "value": "Groupe NGE"
+      },
+      {
+        "id": 790,
+        "value": "Institut de la gestion déléguée"
+      },
+      {
+        "id": 791,
+        "value": "Bouygues"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      },
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2229,
     "titre": "La rémunération de Christophe Béchu, premier adjoint fantôme, irrite les élus d’Angers",
     "contenu": "Ancien maire de la ville, le ministre de la transition écologique est toujours membre du conseil municipal. Une fonction pour laquelle il touche une indemnité mensuelle de 3 089,50 euros, même s’il ne participe que rarement aux séances. L’opposition demande des sanctions.",
