@@ -103,11 +103,20 @@
     ],
     "personnalites": [
       {
+        "id": 1092,
+        "value": "Vladimir Poutine"
+      },
+      {
         "id": 1803,
         "value": "Thomas Bach"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 792,
+        "value": "Comité international olympique (CIO)"
+      }
+    ],
     "categorie": [
       {
         "id": 2651,
@@ -122,6 +131,212 @@
       {
         "id": 2683,
         "value": "Sport"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2235,
+    "titre": "La stratégie de défense tous azimuts de Rachida Dati pour échapper à un procès dans l’affaire Ghosn",
+    "contenu": "Les avocats de la ministre de la culture, mise en examen depuis 2021 pour « corruption passive », veulent faire annuler la procédure en invoquant la prescription, mardi 7 mai, devant la chambre de l’instruction. Un énième recours pour obtenir, jusqu’ici en vain, l’abandon des poursuites.",
+    "url": "https://www.lemonde.fr/societe/article/2024/05/05/affaire-dati-ghosn-une-strategie-de-defense-tous-azimuts-en-question_6231745_3224.html",
+    "date": "2024-05-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 617,
+        "value": "Carlos Ghosn"
+      },
+      {
+        "id": 1454,
+        "value": "Nicolas Sarkis"
+      },
+      {
+        "id": 1590,
+        "value": "Jean-Dominique Senard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      },
+      {
+        "id": 277,
+        "value": "Ministère de la Culture"
+      },
+      {
+        "id": 600,
+        "value": "AlphaOne Partners"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2236,
+    "titre": "Offensive judiciaire contre le clan corse des Federici",
+    "contenu": "Depuis le 23 avril, une opération judiciaire de grande ampleur est en cours contre le clan Federici, l’un des groupes mafieux les plus puissants de Corse. Dans un style qui n’est pas sans rappeler l’antimafia italienne.",
+    "url": "https://www.mediapart.fr/journal/france/050524/offensive-judiciaire-contre-le-clan-corse-des-federici",
+    "date": "2024-05-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2722,
+        "value": "2A - Corse-du-Sud"
+      },
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1759,
+        "value": "Ange-Toussaint Federici"
+      },
+      {
+        "id": 1760,
+        "value": "Pierre-Jules Federici"
+      },
+      {
+        "id": 1808,
+        "value": "Jules-André Albertini"
+      },
+      {
+        "id": 1809,
+        "value": "Estelle Bianconi"
+      },
+      {
+        "id": 1810,
+        "value": "Dominique Moracchini"
+      },
+      {
+        "id": 1811,
+        "value": "Jean-François Federici"
+      },
+      {
+        "id": 1812,
+        "value": "Christophe Perfettini"
+      },
+      {
+        "id": 1813,
+        "value": "Pierre-Louis Montet"
+      },
+      {
+        "id": 1814,
+        "value": "Magali Montet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 793,
+        "value": "Sandaya"
+      },
+      {
+        "id": 794,
+        "value": "Hestia services sécurité (ex-Sisis)"
+      },
+      {
+        "id": 795,
+        "value": "Casinc’Air fret"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2674,
+        "value": "Mafia / Crime organisé"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2234,
+    "titre": "Révélations sur les ripoux de la DGSI",
+    "contenu": "Une dizaine d’agents ou ex-agents du renseignement intérieur doivent répondre prochainement devant la justice de divers crimes et délits. Leurs affaires, présentées comme autant de dérives individuelles, posent la question de la déontologie des espions.",
+    "url": "https://www.mediapart.fr/journal/france/050524/revelations-sur-les-ripoux-de-la-dgsi",
+    "date": "2024-05-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 818,
+        "value": "Malik Nait-Liman"
+      },
+      {
+        "id": 1182,
+        "value": "Xavier Julie"
+      },
+      {
+        "id": 1804,
+        "value": "Christophe Boutry"
+      },
+      {
+        "id": 1805,
+        "value": "Laurent Benier"
+      },
+      {
+        "id": 1806,
+        "value": "Daniel Beaulieu"
+      },
+      {
+        "id": 1807,
+        "value": "Yannick Pham"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 152,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3042,
+        "value": "Renseignement"
       }
     ],
     "procedure": [],
@@ -963,6 +1178,54 @@
       {
         "id": 2675,
         "value": "Médias"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2232,
+    "titre": "Le cabinet de lobbying Artcher au service de Japan Tobbaco",
+    "contenu": "En amont du PLFSS 2025 qui sera discuté à l'automne, le géant Japan Tobacco International (Camel, Winston…) s'appuie sur le cabinet de lobbying Artcher pour tenter de contrer une éventuelle hausse de fiscalité sur le tabac.",
+    "url": "https://www.lalettre.fr/fr/action-publique_lobbying/2024/04/29/le-cabinet-de-lobbying-artcher-au-service-de-japan-tobbaco%2C110220357-bre",
+    "date": "2024-04-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 85,
+        "value": "Japan Tobacco"
+      },
+      {
+        "id": 647,
+        "value": "Artcher"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      },
+      {
+        "id": 2684,
+        "value": "Tabac"
       }
     ],
     "procedure": [],
