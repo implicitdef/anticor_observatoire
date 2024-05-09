@@ -1,5 +1,50 @@
 [
   {
+    "id": 2237,
+    "titre": "« Panama Papers » : Ramon Fonseca, l’un des deux avocats au cœur du scandale, est mort",
+    "contenu": "L’avocat panaméen Ramon Fonseca, l’un des deux fondateurs du cabinet d’avocats au cœur des « Panama Papers », est mort à 71 ans alors qu’il attendait son jugement dans le cadre de ce scandale mondial qui a éclaté en 2016. Dans la nuit, M. Fonseca « est décédé, il était hospitalisé, c’est pourquoi il n’a pas assisté au procès », qui s’était ouvert le 8 avril et n’avait pas encore délivré de jugement, a affirmé jeudi 9 mai à l’Agence France-Presse (AFP), Guillermina Mc Donald, une avocate de l’ancienne société au centre du scandale qui a révélé comment des célébrités du monde entier ont caché de l’argent au fisc.",
+    "url": "https://www.lemonde.fr/disparitions/article/2024/05/09/panama-papers-ramon-fonseca-l-un-des-deux-avocats-au-c-ur-du-scandale-est-mort_6232377_3382.html",
+    "date": "2024-05-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 3034,
+        "value": "République du Panama"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1632,
+        "value": "Jürgen Mossack"
+      },
+      {
+        "id": 1633,
+        "value": "Ramon Fonseca Mora"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 707,
+        "value": "Mossack Fonseca"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2230,
     "titre": "Le lobby patronal du « public-privé » enrôle des élus malgré eux",
     "contenu": "La présidente de la région Occitanie, Carole Delga, a fait retirer son nom du bureau de l’Institut de la gestion déléguée, un lobby de dirigeants d’entreprises où elle précise n’avoir « jamais siégé ». La maire de Nantes, Johanna Rolland, a fait de même.",
