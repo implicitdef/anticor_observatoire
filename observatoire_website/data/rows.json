@@ -45,6 +45,142 @@
     "a_la_une": false
   },
   {
+    "id": 2238,
+    "titre": "Passe d’armes juridique autour d’un signalement d’Anticor contre la ministre Amélie Oudéa-Castéra",
+    "contenu": "La Cour de justice de la République a rejeté, en avril, un signalement effectué par l’association anticorruption pour « prise illégale d’intérêts » contre la ministre des sports, prenant comme fondement la perte de son agrément ministériel.",
+    "url": "https://www.lemonde.fr/societe/article/2024/05/08/passe-d-armes-juridique-autour-d-un-signalement-d-anticor-contre-la-ministre-oudea-castera_6232236_3224.html",
+    "date": "2024-05-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1297,
+        "value": "Amélie Oudéa-Castera"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 68,
+        "value": "Cour de Justice de la République (CJR)"
+      },
+      {
+        "id": 78,
+        "value": "Ministère des Sports"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2239,
+    "titre": "Prise illégale d'intérêt et favoritisme : l'ancien directeur du Centre Hospitalier Esquirol condamné",
+    "contenu": "Thomas Roux est condamné à 15 000 euros d'amende dont 5 000 avec sursis. Plusieurs faits lui étaient reprochés. D'abord, le recrutement de son épouse au centre hospitalier, sans que la procédure habituelle soit respectée. Ensuite, l'attribution de formations à un organisme dont il connaissait personnellement le formateur, sans appel d’offres ni mise en concurrence, contrairement aux règles de marché public.",
+    "url": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/prise-illegale-d-interet-et-favoritisme-l-ancien-directeur-du-centre-hospitalier-esquirol-condamne-2966267.html",
+    "date": "2024-05-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2777,
+        "value": "87 - Haute-Vienne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1815,
+        "value": "Thomas Roux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 796,
+        "value": "Centre Hospitalier Esquirol de Limoges"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2240,
+    "titre": "Une nouvelle perquisition dans les locaux du conseil départemental de la Mayenne",
+    "contenu": "Dans le cadre de l’enquête préliminaire ouverte pour des soupçons de « prise illégale d’intérêt », des enquêteurs de la direction territoriale de police judiciaire ont procédé à une nouvelle perquisition, lundi 6 mai 2024, à l’Hôtel du département de la Mayenne. Dans son rapport consacré à la gestion du Département, la chambre régionale des comptes avait notamment pointé des dépenses en communication (pour près de 800 000 €) réalisées sans procédure d’appel d’offres.",
+    "url": "https://www.ouest-france.fr/pays-de-la-loire/mayenne/une-nouvelle-perquisition-dans-les-locaux-du-conseil-departemental-de-la-mayenne-2337bfd8-0c8d-11ef-a774-30ba526539fb",
+    "date": "2024-05-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2745,
+        "value": "53 - Mayenne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 863,
+        "value": "Olivier Richefou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2230,
     "titre": "Le lobby patronal du « public-privé » enrôle des élus malgré eux",
     "contenu": "La présidente de la région Occitanie, Carole Delga, a fait retirer son nom du bureau de l’Institut de la gestion déléguée, un lobby de dirigeants d’entreprises où elle précise n’avoir « jamais siégé ». La maire de Nantes, Johanna Rolland, a fait de même.",
@@ -181,6 +317,45 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2241,
+    "titre": "Un quart des eurodéputés augmentent leur salaire avec des activités parallèles",
+    "contenu": "Dans un rapport, l’ONG Transparency International constate que 26 % des eurodéputés bénéficient de revenus liés à des activités parallèles à leur mandat, pour 47 000 euros par an en moyenne. Ces eurodéputés sont principalement situés à droite et à l’extrême droite de l’échiquier politique.",
+    "url": "https://www.mediapart.fr/journal/international/060524/un-quart-des-eurodeputes-augmentent-leur-salaire-avec-des-activites-paralleles",
+    "date": "2024-05-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 265,
+        "value": "Transparency International"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2235,
