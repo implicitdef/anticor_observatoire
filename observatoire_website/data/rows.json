@@ -1,5 +1,41 @@
 [
   {
+    "id": 2248,
+    "titre": "L'ancien juge d'instruction Renaud Van Ruymbeke est mort",
+    "contenu": "L'ancien juge d'instruction Renaud Van Ruymbeke est mort, annonce Eric Dupond-Moretti ce vendredi sur X. \"Le juge Renaud Van Ruymbeke nous a quittés. La France perd un grand magistrat et la justice un immense serviteur\", écrit le garde des Sceaux. Connu pour avoir instruit plusieurs dossiers politico-financiers très complexes, notamment les affaires Elf, Kerviel, ou encore Cahuzac, Renaud Van Ruymbeke avait 71 ans et avait pris sa retraite de la magistrature il y a quelques années.",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-5825012",
+    "date": "2024-05-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1832,
+        "value": "Renaud Van Ruymbeke"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2237,
     "titre": "« Panama Papers » : Ramon Fonseca, l’un des deux avocats au cœur du scandale, est mort",
     "contenu": "L’avocat panaméen Ramon Fonseca, l’un des deux fondateurs du cabinet d’avocats au cœur des « Panama Papers », est mort à 71 ans alors qu’il attendait son jugement dans le cadre de ce scandale mondial qui a éclaté en 2016. Dans la nuit, M. Fonseca « est décédé, il était hospitalisé, c’est pourquoi il n’a pas assisté au procès », qui s’était ouvert le 8 avril et n’avait pas encore délivré de jugement, a affirmé jeudi 9 mai à l’Agence France-Presse (AFP), Guillermina Mc Donald, une avocate de l’ancienne société au centre du scandale qui a révélé comment des célébrités du monde entier ont caché de l’argent au fisc.",
@@ -43,6 +79,42 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2249,
+    "titre": "Soupçons de détournement de biens publics à Anould : le jugement de l’employée de mairie renvoyé en décembre",
+    "contenu": "Soupçonnant la DGS (directrice générale des services) d’Anould de détournement de biens publics, trois personnes ont déposé plainte en 2021 et 2022. L’employée devait comparaître ce mardi au tribunal judiciaire d’Épinal, mais son jugement a été renvoyé au mois de décembre.",
+    "url": "https://www.vosgesmatin.fr/faits-divers-justice/2024/05/09/soupcons-de-detournement-de-biens-publics-a-anould-le-jugement-de-l-employee-de-mairie-renvoye-en-decembre",
+    "date": "2024-05-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2778,
+        "value": "88 - Vosges"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 159,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2238,
@@ -57349,18 +57421,38 @@
     "contenu": "Dans une enquête vidéo de Mediapart, plusieurs anciens proches de Pierre Morel À-l’Huissier l’accusent d’avoir mis en place un système de rétrocessions en cash de faux frais de l’Assemblée nationale. Le député LR de la Lozère conteste.",
     "url": "https://www.mediapart.fr/journal/france/020622/faux-frais-et-argent-liquide-de-nouveaux-elements-mettent-en-cause-le-chevalier-blanc-de-l-assemblee-natio",
     "date": "2022-06-02",
-    "etiquettes": "48 - Lozère,Les Républicains,Pierre Morel À-l’Huissier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2741,
         "value": "48 - Lozère"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1833,
+        "value": "Pierre Morel-À-L'Huissier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 254,
+        "value": "Union des démocrates et indépendants (UDI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -57370,8 +57462,13 @@
     "contenu": "Le journal L’Équipe a révélé ce jeudi que Claude Atcher, chargé notamment d’organiser la Coupe du monde de rugby en France en 2023, a fait l’objet d’une citation à comparaître devant le Tribunal correctionnel de Paris. Il devra donc se présenter en septembre prochain aux côtés du patron du rugby français, Bernard Laporte, et l’homme d’affaires Mohed Altrad, propriétaire du club de Montpellier, visés par une enquête pour des soupçons de favoritisme.\nEn mars dernier, le Parquet national financier (PNF) avait déjà annoncé que le patron du rugby français, Bernard Laporte, et l’homme d’affaires Mohed Altrad, propriétaire du club de Montpellier, allaient être jugés à Paris du 7 au 22 septembre pour « trafic d’influence », « corruption » et « abus de bien sociaux ».",
     "url": "https://www.ouest-france.fr/coupe-du-monde-rugby/rugby-le-patron-de-la-coupe-du-monde-2023-appele-a-comparaitre-devant-le-tribunal-correctionnel-5106fb24-e285-11ec-a665-c765ae49fc18",
     "date": "2022-06-02",
-    "etiquettes": "#France2023,Bernard Laporte,Claude Atcher,Mohed Altrad,Parquet National Financier",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 848,
@@ -57390,6 +57487,10 @@
       {
         "id": 3,
         "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 256,
+        "value": "France 2023"
       }
     ],
     "categorie": [
@@ -57398,7 +57499,12 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
     "procedure": [
       {
         "id": 2695,
@@ -57450,11 +57556,43 @@
     "contenu": "L’homme d’affaires Vincent Bolloré a saisi la cour d’appel de Paris pour contester sa mise en examen dans une enquête pour corruption dans l’attribution de la gestion d’un port au Togo, a-t-on appris ce mercredi 1er juin de sources proches du dossier. M. Bolloré a saisi la cour après le refus d’une juge d’instruction de lui accorder le statut plus favorable de témoin assisté, selon l’une de ces sources.",
     "url": "https://www.sudouest.fr/justice/enquete-pour-corruption-au-togo-bollore-conteste-sa-mise-en-examen-11144024.php",
     "date": "2022-06-01",
-    "etiquettes": "Groupe Bolloré,Havas,Jean-Philippe Dorent,Vincent Bolloré",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3030,
+        "value": "Togo"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 641,
+        "value": "Vincent Bolloré"
+      },
+      {
+        "id": 781,
+        "value": "Jean-Philippe Dorent"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 60,
+        "value": "Bolloré"
+      },
+      {
+        "id": 61,
+        "value": "Havas"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -57466,17 +57604,45 @@
     "contenu": "Mediapart et Investigate Europe révèlent les manœuvres d’Orpea pour dissimuler des paiements à des intermédiaires dans des paradis fiscaux. Lors d’un rachat d’Ehpad qui intéresse la justice, l’ancien directeur du développement du groupe a touché 500 000 euros en Suisse.",
     "url": "https://www.mediapart.fr/journal/economie/010622/les-juteuses-commissions-des-intermediaires-d-orpea",
     "date": "2022-06-01",
-    "etiquettes": "Jean-François Rémy,Orpea,Sébastien Mesnard,Yves Le Masne",
-    "departement": [],
-    "personnalites": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1777,
+        "value": "Yves Le Masne"
+      },
+      {
+        "id": 1834,
+        "value": "Jean-François Rémy"
+      },
+      {
+        "id": 1835,
+        "value": "Sébastien Mesnard"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 86,
         "value": "Orpea"
       }
     ],
-    "categorie": [],
-    "theme": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -57487,11 +57653,31 @@
     "contenu": "A l'occasion du rapport annuel de la Haute Autorité pour la transparence de la vie publique, Didier Migaud relève un problème concernant les représentants d’intérêt, soit le lobbying. On compte 2.391 entités inscrites au répertoire, qui sera élargi aux élus locaux au 1er juillet 2022. Il permet par exemple de savoir si un lobbyiste rencontre un parlementaire ou un cabinet. « Mais il est possible dans certaines circonstances de contourner complètement la loi », pointe le président de la HATVP, qui « ne comprend pas qu’un dispositif réglementaire permette de contourner la loi »… La faute au décret d’application de la loi Sapin 2.\n« Un critère d’initiative », de la part du lobbyiste, ainsi que la nécessité d’avoir « 10 actions de personnes physiques », précise Didier Migaud, limite la portée du décret en question. Autrement dit, des lobbyistes passent sous les radars. Par ailleurs, « les « gros » ont très peu d’actions à déclarer, car ils sont invités systématiquement ». Résultat, on arrive à « un paradoxe, où une entreprise comme Dassault déclare très peu » d’interventions, illustre le responsable de la HATVP. Il souligne qu’« au niveau de l’Union européenne, c’est beaucoup plus simple, on ne peut pas rencontrer (de parlementaires) si on n’est pas inscrit ».",
     "url": "https://www.publicsenat.fr/article/politique/transparence-sur-les-representants-d-interets-on-est-tres-en-retard-denonce-didier",
     "date": "2022-06-01",
-    "etiquettes": "Didier Migaud,Haute Autorité pour la Transparence de la Vie Publique",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1836,
+        "value": "Didier Migaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -57572,16 +57758,31 @@
     "contenu": "En pleine bataille des municipales, la secrétaire d’État à la mer a utilisé l’argent du MoDem pour arroser les associations de sa commune du Moule (Guadeloupe), où elle se présentait. Face aux documents présentés par Mediapart, la nouvelle ministre et son parti reconnaissent les faits. Et assument.",
     "url": "https://www.mediapart.fr/journal/france/310522/la-derive-clienteliste-de-la-nouvelle-ministre-justine-benin",
     "date": "2022-05-31",
-    "etiquettes": "971 – Guadeloupe,Gouvernement Élisabeth Borne,Justine Benin,Mouvement démocrate",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2783,
         "value": "971 - Guadeloupe"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1837,
+        "value": "Justine Benin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 84,
+        "value": "Mouvement démocrate (MoDem)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -57610,11 +57811,29 @@
       {
         "id": 11,
         "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 680,
+        "value": "Paprec"
+      },
+      {
+        "id": 805,
+        "value": "Compiègne Équestre"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -57624,13 +57843,55 @@
     "contenu": "Le Parquet national financier est saisi d'une plainte contre l'Américain pour blanchiment de fraude fiscale, abus de confiance, recel, faux et usage de faux. La plainte a été déposée par Eva Joly le lundi 30 mai au nom des syndicats de la branche énergie de GE, ex-Alstom, avec le soutien des ONG Attac et d’Oxfam France.",
     "url": "https://www.marianne.net/economie/economie-francaise/le-site-de-belfort-depouille-par-general-electric-eva-joly-depose-plainte-devant-le-pnf",
     "date": "2022-05-31",
-    "etiquettes": "Attac,Eva Joly,General Electric,Oxfam,Parquet National Financier",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2780,
+        "value": "90 - Territoire-de-Belfort"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 592,
+        "value": "Eva Joly"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 22,
+        "value": "General Electric"
+      },
+      {
+        "id": 803,
+        "value": "Association pour la taxation des transactions financières et pour l'action citoyenne (ATTAC)"
+      },
+      {
+        "id": 804,
+        "value": "Oxfam"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2670,
+        "value": "Industrie"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
