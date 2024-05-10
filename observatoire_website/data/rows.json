@@ -42,7 +42,7 @@
     ],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 2238,
@@ -87,6 +87,306 @@
       {
         "id": 2683,
         "value": "Sport"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2246,
+    "titre": "Portrait-robot d’un espion corrompu",
+    "contenu": "Qu’est-ce qui pousse un agent de la DGSI à franchir la ligne rouge ? L’argent, l’ego, le sexe. Les ressorts qui servent à corrompre un espion au temps de la lutte contre le terrorisme ressemblent à s’y méprendre à ceux utilisés pour recruter une taupe durant la guerre froide.",
+    "url": "https://www.mediapart.fr/journal/france/080524/portrait-robot-d-un-espion-corrompu",
+    "date": "2024-05-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 818,
+        "value": "Malik Nait-Liman"
+      },
+      {
+        "id": 1804,
+        "value": "Christophe Boutry"
+      },
+      {
+        "id": 1805,
+        "value": "Laurent Benier"
+      },
+      {
+        "id": 1806,
+        "value": "Daniel Beaulieu"
+      },
+      {
+        "id": 1807,
+        "value": "Yannick Pham"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 152,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2247,
+    "titre": "A l’agence Tilder, les sulfureuses méthodes d’un «gourou de la com»",
+    "contenu": "Management violent, collusions politiques, acrobaties financières… Longtemps fleuron du conseil aux grands patrons, l’agence est dans la tourmente, malgré le recrutement tape-à-l’œil de l’ex-ministre Marlène Schiappa. En cause : les frasques de son patron, Matthias Leridon, qui essore ses salariés et mélange allégrement dépenses professionnelles et personnelles.",
+    "url": "https://www.liberation.fr/economie/management-violent-collusions-politiques-acrobaties-financieres-chez-tilder-les-sulfureuses-methodes-dun-gourou-de-la-com-20240507_XHL4OK4GZBDHNMLK2IUYMKECZQ/?redirected=1",
+    "date": "2024-05-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 676,
+        "value": "Marlène Schiappa"
+      },
+      {
+        "id": 819,
+        "value": "Matthias Leridon"
+      },
+      {
+        "id": 851,
+        "value": "Guillaume Pepy"
+      },
+      {
+        "id": 1828,
+        "value": "Michel Sapin"
+      },
+      {
+        "id": 1829,
+        "value": "Fleur Pellerin"
+      },
+      {
+        "id": 1830,
+        "value": "Jean-Marie Bockel"
+      },
+      {
+        "id": 1831,
+        "value": "Jean-Marc Borello"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 167,
+        "value": "Tilder"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2668,
+        "value": "Communication / Événementiel"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2244,
+    "titre": "Affaire Sodem : des peines d'inéligibilité et d'amendes requises contre les prévenus",
+    "contenu": "Le ministère public a livré ses réquisitions pour les neuf prévenus jugés dans l’affaire de la Sodem. Le parquet requiert la peine la plus lourde pour Serge Letchimy, l’actuel président du Conseil Exécutif de la CTM qui comparaissait en sa qualité d'ancien président de l'ex-Conseil Régional. Le délibéré sera connu le 4 juillet 2024.",
+    "url": "https://la1ere.francetvinfo.fr/martinique/affaire-sodem-des-peines-d-ineligibilite-et-d-amendes-requises-contre-les-prevenus-1486421.html",
+    "date": "2024-05-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2784,
+        "value": "972 - Martinique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1821,
+        "value": "Serge Letchimy"
+      },
+      {
+        "id": 1822,
+        "value": "Thierry Fondelot"
+      },
+      {
+        "id": 1823,
+        "value": "Fernand Larmaillard"
+      },
+      {
+        "id": 1824,
+        "value": "Auguste Arcade"
+      },
+      {
+        "id": 1825,
+        "value": "Didier Laguerre"
+      },
+      {
+        "id": 1826,
+        "value": "Alain Alfred"
+      },
+      {
+        "id": 1827,
+        "value": "Jean Crusol"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 800,
+        "value": "Société d'équipement de la Martinique (SODEM)"
+      },
+      {
+        "id": 801,
+        "value": "City Up (ex-CFTU)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2242,
+    "titre": "Crise à Haplincourt : une enquête ouverte pour soupçons détournement de fonds publics",
+    "contenu": "Le parquet d’Arras à ouvert une enquête pour des soupçons de détournement de fonds publics, faux en écriture publique et usage, à la suite d’un signalement de la direction des finances publiques. Le maire Michel Flahaut, visé, contre-attaque via un tract virulent.",
+    "url": "https://www.lavoixdunord.fr/1459669/article/2024-05-07/crise-haplincourt-une-enquete-ouverte-pour-detournement-de-fonds-publics",
+    "date": "2024-05-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2752,
+        "value": "62 - Pas-de-Calais"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1820,
+        "value": "Michel Flahaut"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2243,
+    "titre": "Gestion de l’aéroport de Vannes : la requête d’Edeis rejetée par le tribunal administratif",
+    "contenu": "Après l’attribution, le 1er juillet 2021, de la gestion de l’aéroport de Vannes par l’agglo à Sealar, Edeis avait intenté deux recours pour favoritisme et détournement de fonds publics. Une requête rejetée par le tribunal administratif ce 25 avril 2024.",
+    "url": "https://www.letelegramme.fr/morbihan/vannes-56000/gestion-de-laeroport-de-vannes-la-requete-dedeis-rejetee-par-le-tribunal-administratif-6579959.php",
+    "date": "2024-05-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2747,
+        "value": "56 - Morbihan"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 798,
+        "value": "Société d’exploitation et d’action locale pour les aéroports régionaux (SEALAR)"
+      },
+      {
+        "id": 799,
+        "value": "Edeis"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2245,
+    "titre": "Les Balkany perdent l’usufruit de leur moulin de Giverny, confirme la Cour de cassation",
+    "contenu": "La Cour de cassation a rendu son arrêt ce mardi sur le devenir de cette ancienne bâtisse, habitation du couple emblématique des Hauts-de-Seine, située dans l’Eure. La haute juridiction a par ailleurs cassé la décision de la cour d’appel de Paris sur les dommages et intérêts, ce qui implique la tenue d’un nouveau procès. Mais uniquement sur ce sujet.",
+    "url": "https://www.leparisien.fr/hauts-de-seine-92/la-cour-de-cassation-confirme-la-confiscation-du-moulin-de-giverny-aux-balkany-07-05-2024-4WROL7YGSNHPFA32J2IR53IVCU.php",
+    "date": "2024-05-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2719,
+        "value": "27 - Eure"
+      },
+      {
+        "id": 2765,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 646,
+        "value": "Patrick Balkany"
+      },
+      {
+        "id": 1043,
+        "value": "Isabelle Balkany"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
       }
     ],
     "procedure": [],
@@ -335,7 +635,28 @@
         "value": "67 - Bas-Rhin"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1060,
+        "value": "Manon Aubry"
+      },
+      {
+        "id": 1816,
+        "value": "Viktor Uspaskich"
+      },
+      {
+        "id": 1817,
+        "value": "Jérôme Rivière"
+      },
+      {
+        "id": 1818,
+        "value": "Geoffroy Didier"
+      },
+      {
+        "id": 1819,
+        "value": "Guy Verhofstadt"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 65,
