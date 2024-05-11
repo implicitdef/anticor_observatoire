@@ -1,5 +1,36 @@
 [
   {
+    "id": 2250,
+    "titre": "Chalets du village de Noël : le maire du Barcarès Alain Ferrand reste en prison",
+    "contenu": "Onze jours après le placement en détention provisoire du maire du Barcarès, le tribunal d’Aix-en-Provence a examiné ce vendredi 10 mai 2024 sa demande de remise en liberté et l’a finalement rejetée.",
+    "url": "https://www.midilibre.fr/2024/05/10/exclusif-lindependant-chalets-du-village-de-noel-le-maire-du-barcares-alain-ferrand-reste-en-prison-11942576.php",
+    "date": "2024-05-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2756,
+        "value": "66 - Pyrénées-Orientales"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 771,
+        "value": "Alain Ferrand"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2248,
     "titre": "L'ancien juge d'instruction Renaud Van Ruymbeke est mort",
     "contenu": "L'ancien juge d'instruction Renaud Van Ruymbeke est mort, annonce Eric Dupond-Moretti ce vendredi sur X. \"Le juge Renaud Van Ruymbeke nous a quittés. La France perd un grand magistrat et la justice un immense serviteur\", écrit le garde des Sceaux. Connu pour avoir instruit plusieurs dossiers politico-financiers très complexes, notamment les affaires Elf, Kerviel, ou encore Cahuzac, Renaud Van Ruymbeke avait 71 ans et avait pris sa retraite de la magistrature il y a quelques années.",
@@ -26054,8 +26085,8 @@
     ],
     "theme": [
       {
-        "id": 2681,
-        "value": "Secteur bancaire"
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
       }
     ],
     "procedure": [],
@@ -57716,7 +57747,12 @@
         "value": "Cour européenne des droits de l'Homme (CEDH)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -57746,9 +57782,19 @@
       }
     ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -57897,21 +57943,49 @@
   },
   {
     "id": 1172,
-    "titre": "Edouard Montchamp",
+    "titre": "Edouard Montchamp rejoint TBWA",
     "contenu": "Après 4 ans chez Havas en tant que consultant, où il travaille notamment pour McDonald's, Amazon et Carrefour, il est nommé Responsable communication et relations presse locale d'En Marche en 2018. Il est ensuite Conseiller auprès d'Olivier Véran, alors ministre des Solidarités et de la Santé, dont il supervise le pôle communication. En juin 2022, il rétro-pantoufle en rejoignant l'agence de communication TBWA, en tant que Directeur Conseil.",
     "url": "https://www.strategies.fr/guides-annuaires/mouvements/LQ627586C/edouard-montchamp-directeur-conseil-chez-tbwacorporate.html",
     "date": "2022-05-30",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 666,
+        "value": "Olivier Véran"
+      },
+      {
+        "id": 1838,
+        "value": "Edouard Montchamp"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 103,
+        "value": "Ministère de la Santé"
+      },
+      {
+        "id": 806,
+        "value": "TBWA"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2668,
+        "value": "Communication / Événementiel"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -57922,7 +57996,7 @@
     "contenu": "C’est un fiasco industriel qui n’en finit plus. Sept ans après la vente de la branche énergie d’Alstom à General Electric, le bilan de la multinationale américaine en France est désastreux : 5 000 emplois supprimés, dont 1 400 rien que pour son usine de turbine de Belfort ; un savoir-faire technologique laissé à l’abandon ; une enquête préliminaire pour « prise illégale d’intérêts » contre Hugh Bailey, le directeur général de GE France… Et désormais, un scandale d’évasion fiscale.\nSelon l'enquête de Disclose, qui s’appuie sur des rapports d’audits indépendants et plusieurs documents comptables internes au groupe, la multinationale américaine aux 80 milliards d’euros de chiffre d’affaires a mis en place un opaque montage financier entre son antenne française, la General Electric Energy Products France (GEEPF), et des filiales domiciliées en Suisse et dans l’état américain du Delaware. L’objectif : échapper au fisc en sortant de France plusieurs centaines de millions de bénéfices liés à la vente de turbines à gaz produites à Belfort.",
     "url": "https://disclose.ngo/fr/article/general-electric-800-millions-euros-transferes-de-france-vers-des-paradis-fiscaux",
     "date": "2022-05-29",
-    "etiquettes": "90 - Territoire de Belfort,General Electric,Ministère du budget",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2780,
@@ -57930,9 +58004,28 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnes_morales": [
+      {
+        "id": 22,
+        "value": "General Electric"
+      },
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -57943,11 +58036,34 @@
     "contenu": "Pour fêter ses dix ans, l'Agrasc (Agence de recouvrement des avoirs saisis et confisqués) organisait une vente aux enchères exceptionnelle de biens saisis lors des enquêtes judiciaires.\nL'Agence, qui dépend des ministères de la Justice et du Budget, a connu une année 2021 record. Selon le rapport d'activité, qui vient d'être publié, les recouvrements nets se sont élevés à 468 millions d'euros, ce qui correspond à un total de 484 millions d'euros d'avoirs saisis l'an dernier, en hausse de 200 millions sur un an. Mieux, les confiscations - autrement dit les saisies confirmées par un jugement - se sont établies à 150 millions d'euros, presque le double du montant de 2020.\n«L'importance des encaissements tient pour l'essentiel au grand nombre d'affaires économiques et financières ayant entraîné des saisies de comptes bancaires pour des montants exceptionnels», précise le rapport. Il cite deux affaires du Parquet national financier, qui ont totalisé 45 millions d'euros, une au tribunal judiciaire de Toulon de 13 millions ou une escroquerie aux tests antigéniques instruite au tribunal judiciaire de Paris pour 10,5 millions. Plus inédit encore, un dossier de cybercriminalité a débouché sur la première vente aux enchères de crypto-monnaies (avant jugement) pour 23 millions d'euros.",
     "url": "https://www.lesechos.fr/economie-france/budget-fiscalite/forte-hausse-des-saisies-et-confiscations-davoirs-criminels-en-france-1409795",
     "date": "2022-05-27",
-    "etiquettes": "Agence de recouvrement des avoirs saisis et confisqués,Ministère de la Justice,Ministère du budget",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 125,
+        "value": "Agence de Gestion et de Recouvrement des Avoirs Saisis et Confisqués (AGRASC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -57955,42 +58071,102 @@
   },
   {
     "id": 1175,
-    "titre": "François-Xavier Huard",
-    "contenu": "François-Xavier Huard a débuté sa carrière au ministère du Travail avant d’occuper, de 2008 à 2011 le secrétariat général de l’association Nos Quartiers ont des Talents. Il rejoint ensuite CMA France, la tête de réseau nationale des chambres de métiers et de l’artisanat. En 2020, il est nommé directeur des relations avec les branches et des partenariats d’Atlas, avant d'intégrer en 2020 le cabinet du ministre délégué aux PME Jean-Baptiste Lemoyne, en tant que conseiller en charge de l’artisanat et du suivi de l’exécution des réformes. En mars 2022, il est nommé PDG de la Fédération nationale des industries laitières",
+    "titre": "François-Xavier Huard rejoint la Fédération nationale des industries laitières",
+    "contenu": "François-Xavier Huard a débuté sa carrière au ministère du Travail avant d’occuper, de 2008 à 2011 le secrétariat général de l’association Nos Quartiers ont des Talents. Il rejoint ensuite CMA France, la tête de réseau nationale des chambres de métiers et de l’artisanat. En 2020, il est nommé directeur des relations avec les branches et des partenariats d’Atlas, avant d'intégrer en 2020 le cabinet du ministre délégué aux PME Jean-Baptiste Lemoyne, en tant que conseiller en charge de l’artisanat et du suivi de l’exécution des réformes. En mars 2022, il est nommé PDG de la Fédération nationale des industries laitières.",
     "url": "https://www.lsa-conso.fr/francois-xavier-huard-nomme-dg-de-la-fnil-pour-remplacer-jehan-moreau,404661",
     "date": "2022-05-27",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1839,
+        "value": "François-Xavier Huard"
+      },
+      {
+        "id": 1840,
+        "value": "Jean-Baptiste Lemoyne"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 807,
+        "value": "Fédération nationale des industries laitières (FNIL)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2669,
+        "value": "Grande consommation"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1176,
-    "titre": "Margaux Bonneau",
+    "titre": "Margaux Bonneau rejoint Nestlé",
     "contenu": "Conseillère parlementaire LREM à partir de 2017, elle coordonne le pôle Affaires sociales et Affaires culturelles puis est chargée d'études au sein du groupe UDI. En 2018 elle rejoint le cabinet d'Agnès Buzyn en tant que conseillère parlementaire, et reste en poste lorsque Olivier Véran la remplace. En avril 2021 elle part dans le lobbying en rejoingnant le groupe Nestlé en tant que Responsable des affaires publiques.",
     "url": "https://www.nouvelobs.com/politique/20220527.OBS58997/ca-interroge-l-ex-directrice-de-cabinet-de-marc-fesneau-ministre-de-l-agriculture-rejoint-le-lobby-des-pesticides.html",
     "date": "2022-05-27",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 666,
+        "value": "Olivier Véran"
+      },
+      {
+        "id": 1841,
+        "value": "Agnès Buzyn"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 103,
+        "value": "Ministère de la Santé"
+      },
+      {
+        "id": 437,
+        "value": "Nestlé"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      },
+      {
+        "id": 2669,
+        "value": "Grande consommation"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -58001,55 +58177,148 @@
     "contenu": "Alors qu’une étape judiciaire a été fixée à ce vendredi 3 juin, l’association Anticor a annoncé ce jeudi s’être constituée partie civile dans l’affaire dite \"du frigo\" qui agite le landerneau politique varois depuis plus de deux ans. Dans ce dossier, Marc Giraud, président du conseil départemental du Var, et Hubert Falco, maire de Toulon, sont convoqués devant le tribunal correctionnel pour s’expliquer sur des soupçons de \"détournement de fonds public\" et de \"recel de détournement de fonds publics\".\nL’enquête judiciaire – \"dépaysée\" à Marseille – avait notamment porté sur les conditions dans lesquelles Hubert Falco a continué de bénéficier de plats préparés dans les cuisines de la collectivité alors qu’il n’exerçait plus de mandat départemental depuis 2002.",
     "url": "https://www.varmatin.com/justice/affaire-des-repas-dhubert-falco-anticor-se-constitue-partie-civile-769952",
     "date": "2022-05-26",
-    "etiquettes": "83 - Var,Anticor,Horizons,Hubert Falco",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2773,
         "value": "83 - Var"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1333,
+        "value": "Hubert Falco"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 12,
+        "value": "Horizons"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1181,
-    "titre": "Eléonore Lepettre",
+    "titre": "Eléonore Lepettre rejoint Phyteis",
     "contenu": "D’abord chargé de communication pour plusieurs entreprises (Zooah, Gojob, Birds), elle rejoint ensuite LREM où elle travaille à la coordination de la campagne de 2017. Elle est conseillère régionale MoDem en Provence-Alpes-Côte d’Azur depuis 2016. En elle travaillait avec Marc Fesneau, ministre de l’agriculture, depuis octobre 2018, dont elle a été nommé cheffe de cabinet. En 2022 elle est embauchée par Phyteis (ex-Union des industries de la protection des plantes), le lobby des entreprises agrochimiques.",
     "url": "https://www.lemonde.fr/planete/article/2022/05/25/l-ancienne-cheffe-de-cabinet-du-ministre-de-l-agriculture-marc-fesneau-rejoint-le-lobby-des-pesticides_6127615_3244.html#xtor=AL-32280270-%5Btwitter%5D-%5Bios%5D",
     "date": "2022-05-25",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1013,
+        "value": "Marc Fesneau"
+      },
+      {
+        "id": 1844,
+        "value": "Eléonore Lepettre"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 56,
+        "value": "Ministère de l'agriculture"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 736,
+        "value": "Phyteis (ex-Union des Industries de la Protection des Plantes, UIPP)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2654,
+        "value": "Agro-alimentaire"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1179,
-    "titre": "Gare d'Austerlitz: une plainte d'associations pour détournement de fonds publics",
+    "titre": "Gare d'Austerlitz : une plainte d'associations pour détournement de fonds publics",
     "contenu": "Trois associations opposées au futur bâtiment près de la gare d'Austerlitz, à Paris, qui doit accueillir le siège de l'Agence française du développement (AFD), ont annoncé avoir déposé plainte contre X pour détournement de fonds publics. Dans le document envoyé au parquet de Paris le 19 mai, l'avocat des associations InCOPruptibles, SOS Paris et France Nature Environnement (FNE) Paris estime que \"l'acquisition de l'ensemble immobilier A7A8 du projet Austerlitz par l'AFD constitue un détournement de fonds publics\".\nL'AFD, établissement public qui met en oeuvre la politique de développement de la France à l'étranger, doit racheter ce vaste ensemble de 50.000 m² de bureaux pour \"un total de 924 millions d'euros\", souligne Jérôme Karsenti en se basant sur l'avis très critique du Conseil immobilier de l'Etat, rendu en juin 2021. Le coût estimé de l'opération, entre 17.000 et 18.000 euros le m², \"est particulièrement élevé\" dans une zone où le prix moyen est évalué à 12.000 euros le m², estiment les plaignants pour qui l'achat \"ne présente aucun intérêt financier pour l'AFD\" et la contraint \"à poursuivre une activité de bailleur de fonds\" qui se trouve \"hors de son objet social\".",
     "url": "https://www.bfmtv.com/paris/gare-d-austerlitz-une-plainte-d-associations-pour-detournement-de-fonds-publics_AD-202205250286.html",
     "date": "2022-05-25",
-    "etiquettes": "Agence française du développement,France Nature Environnement,InCOPruptibles,SOS Paris",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnes_morales": [
+      {
+        "id": 808,
+        "value": "Agence française de développement (AFD)"
+      },
+      {
+        "id": 809,
+        "value": "France Nature Environnement (FNE)"
+      },
+      {
+        "id": 810,
+        "value": "InCOPruptibles"
+      },
+      {
+        "id": 811,
+        "value": "SOS Paris"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -58059,13 +58328,51 @@
     "contenu": "Une vaste enquête est menée en France par le juge d’instruction Jean-Michel Gentil et a conduit à la garde à vue, lundi 23 mai, de l’ancien président du Louvre Jean-Luc Martinez, ainsi que du conservateur, responsable du département des antiquités égyptiennes, Vincent Rondot et de l’égyptologue Olivier Perdu, selon un article du Canard enchaîné du mercredi 25 mai. Ces deux derniers ont été libérés mardi soir. En revanche, Jean-Luc Martinez a été mis en examen mercredi 25 mai au soir pour des faits de blanchiment en bande organisée et complicité d’escroquerie en bande organisée. Il a été libéré mais reste sous contrôle judiciaire.",
     "url": "https://www.lemonde.fr/culture/article/2022/05/25/jean-luc-martinez-mis-en-examen-dans-une-affaire-de-trafic-d-antiquites_6127696_3246.html",
     "date": "2022-05-25",
-    "etiquettes": "Jean-Luc Martinez,Le Louvre,Olivier Perdu,Vincent Rondot",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1554,
+        "value": "Jean-Luc Martinez"
+      },
+      {
+        "id": 1842,
+        "value": "Olivier Perdu"
+      },
+      {
+        "id": 1843,
+        "value": "Vincent Rondot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 662,
+        "value": "Musée du Louvre"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2657,
+        "value": "Art"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -58075,18 +58382,38 @@
     "contenu": "Un an d’emprisonnement avec sursis a été requis ce mercredi à Lille contre l’ancien ministre Alain Griset, jugé pour avoir placé de l’argent d’une organisation patronale sur son PEA personnel.\nPoursuivi notamment pour « abus de confiance », l’ancien ministre délégué aux PME (2020-2021), 68 ans, a assuré devant le tribunal correctionnel avoir commis « une maladresse », mais ni « tricherie » ni « vol ». Le parquet a requis à son encontre un an d’emprisonnement avec sursis, trois ans d’inéligibilité et une amende d’au moins 80 000 euros.\nChauffeur de taxi durant plus de 30 ans, Alain Griset a démissionné du gouvernement à la suite d’une condamnation prononcée le 8 décembre dernier pour déclaration incomplète de sa situation patrimoniale auprès de la Haute autorité pour la transparence de la vie publique (HATVP). Le tribunal correctionnel de Paris l’a condamné à six mois d’emprisonnement avec sursis et une peine d’inéligibilité de trois ans avec sursis. Il a fait appel.",
     "url": "https://www.leparisien.fr/faits-divers/un-an-avec-sursis-requis-contre-lex-ministre-alain-griset-juge-pour-abus-de-confiance-25-05-2022-E7KTAKE3X5DCTMCACVV7HLRWQI.php?ts=1653644667220",
     "date": "2022-05-25",
-    "etiquettes": "59 – Nord,Alain Griset,Gouvernement Jean Castex,La République En Marche",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2749,
         "value": "59 - Nord"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1058,
+        "value": "Alain Griset"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -58096,17 +58423,49 @@
     "contenu": "L’ancien ministre des Transports, Jean-Baptiste Djebbari, qui a déjà mis un pied dans le privé via son entrée annoncée au Conseil d’administration d’Hopium (un constructeur de voitures à hydrogène), ne pourra pas rejoindre le géant du secteur logistique CGA CGM, en qualité de vice-président exécutif en charge du pôle spatial, comme il le souhaitait.\n“Au regard des attributions ainsi confiées au ministre délégué chargé des Transports, qui sont en lien direct avec les activités du groupe CMA CGM, et compte tenu de l’importance de celui-ci, opérateur de premier plan dans le domaine du transport maritime, le risque de mise en cause du fonctionnement indépendant et impartial de l’administration serait substantiel si monsieur Djebbari rejoignait ce groupe”, note la haute autorité, qui souligne que le ministre a plusieurs fois rencontré le PDG “ou d’autres cadres dirigeants du groupe” du temps où il était au gouvernement.",
     "url": "https://www.huffingtonpost.fr/entry/jean-baptiste-djebbari-voulait-aussi-rejoindre-cga-cgm-la-hatvp-refuse_fr_628ce606e4b0b1d9844d6960",
     "date": "2022-05-24",
-    "etiquettes": "Gouvernement Jean Castex,Haute Autorité pour la Transparence de la Vie Publique,Jean-Baptiste Djebbari,Ministère des transports",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1556,
+        "value": "Jean-Baptiste Djebbari"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 186,
+        "value": "Ministère de l'Écologie"
+      },
+      {
+        "id": 721,
+        "value": "CMA CGM (Compagnie maritime d'affrètement - Compagnie générale maritime)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -58114,21 +58473,54 @@
   {
     "id": 1184,
     "titre": "Le directeur du CHU de Nîmes placé en garde à vue à Lyon",
-    "contenu": "Nicolas Best, actuel directeur du CHU de Nîmes est en garde à vue à Lyon. Convoqué depuis des semaines, il est entendu dans le cadre d'une enquête pour des soupçons de corruption et favoritisme entre 2015 et 2018, alors qu'il était directeur du centre hospitalier d'Annecy Genevois, puis pour des faits similaires à Nîmes.\nDans la ligne de mire du PNF, Parquet national financier, des \"irrégularités\". Des travaux réalisés à l'hôpital d'Annecy, pour un montant d'environ 47 millions d'euros, par le groupe Eiffage. Travaux décidés en 2018. A Nîmes, les enquêteurs cherchent à comprendre ses relations avec deux entreprises spécialisées en travaux dans les structures hospitalières et de santé depuis son arrivée. Sociétés qui ont également eu des marchés publics du temps où Nicolas Best était à Annecy.",
+    "contenu": "Nicolas Best, actuel directeur du CHU de Nîmes est en garde à vue à Lyon. Convoqué depuis des semaines, il est entendu dans le cadre d'une enquête pour des soupçons de corruption et favoritisme entre 2015 et 2018, alors qu'il était directeur du centre hospitalier d'Annecy Genevois, puis pour des faits similaires à Nîmes. Dans la ligne de mire du PNF, Parquet national financier, des \"irrégularités\". Des travaux réalisés à l'hôpital d'Annecy, pour un montant d'environ 47 millions d'euros, par le groupe Eiffage. Travaux décidés en 2018. A Nîmes, les enquêteurs cherchent à comprendre ses relations avec deux entreprises spécialisées en travaux dans les structures hospitalières et de santé depuis son arrivée. Sociétés qui ont également eu des marchés publics du temps où Nicolas Best était à Annecy.",
     "url": "https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/le-directeur-du-chu-de-nimes-place-en-garde-a-vue-a-lyon-2548240.html",
     "date": "2022-05-24",
-    "etiquettes": "30 – Gard,Eiffage,Nicolas Best,Parquet National Financier",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2724,
         "value": "30 - Gard"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 813,
+        "value": "Nicolas Best"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 462,
+        "value": "Eiffage"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      },
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -58138,33 +58530,82 @@
     "contenu": "Une perquisition est en cours au siège français du cabinet de conseil McKinsey. A quatre jours du premier tour de l’élection présidentielle, le parquet national financier (PNF) avait ouvert une enquête sur les pratiques fiscales de McKinsey pour le motif de « blanchiment aggravé de fraude fiscale ».",
     "url": "https://www.leparisien.fr/faits-divers/mckinsey-une-perquisition-en-cours-au-siege-francais-du-cabinet-de-conseil-soupconne-doptimisation-fiscale-24-05-2022-SGROB3UHM5C7TM37ENBDK3MATQ.php",
     "date": "2022-05-24",
-    "etiquettes": "McKinsey,Parquet National Financier",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 397,
+        "value": "McKinsey & Company"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1185,
-    "titre": "Clément Leonarduzzi",
+    "titre": "Clément Leonarduzzi retourne chez Publicis",
     "contenu": "Diplômé de Sciences Po Bordeaux et de l’Institut Catholique de Paris, il débute sa carrière en agences de communication (Edelman, TBWA, Havas) avant de prendre, en 2009, la direction de la communication de la Fédération Française des Assurances. Il préside ensuite successivement CleKom Conseil, Ella Factory et Publicis Consultants. Il est ensuite conseiller d’Emmanuel Macron en communication. En 2022, il intègre le comité exécutif de Publicis France, en tant que vice-président chargé des opérations d’influence.",
     "url": "https://www.leparisien.fr/politique/clement-leonarduzzi-lancien-conseiller-en-communication-demmanuel-macron-retourne-chez-publicis-23-05-2022-TZCFE6XB6VH6JBUGBYX7GX6T7Q.php?ts=1653513926928",
     "date": "2022-05-23",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1845,
+        "value": "Clément Leonarduzzi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2668,
+        "value": "Communication / Événementiel"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -58175,12 +58616,49 @@
     "contenu": "L’association Aeré pour les réfugiés, dirigée par une responsable du Conseil pour l’Afrique d’Emmanuel Macron, se vante de « résultats extraordinaires » en termes d’intégration. Mais les alertes sur sa gestion se multiplient, alors qu’elle a déjà encaissé 1,7 million d’euros de fonds publics.",
     "url": "https://www.mediapart.fr/journal/france/210522/une-start-de-l-asile-proche-de-la-macronie-accumule-les-subventions-malgre-ses-defaillances?at_medium=custom3&amp;at_campaign=67",
     "date": "2022-05-21",
-    "etiquettes": "Aeré,Diane Binder,Kavita Brahmbhatt,Muriel Pénicaud",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 850,
+        "value": "Muriel Pénicaud"
+      },
+      {
+        "id": 1846,
+        "value": "Kavita Brahmbhatt"
+      },
+      {
+        "id": 1847,
+        "value": "Diane Binder"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 802,
+        "value": "Groupe SOS"
+      },
+      {
+        "id": 812,
+        "value": "Action Emploi Réfugiés (AERé)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3049,
+        "value": "Associatif / caritatif"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -58227,17 +58705,46 @@
     "url": "https://www.liberation.fr/societe/police-justice/justice-les-curieux-coups-de-fil-du-depute-damien-abad-20220520_NBRHIXBVI5B47DVZRXVK2W6HHY/",
     "date": "2022-05-20",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 3,
         "value": "Damien Abad"
       }
     ],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2677,
+        "value": "Police"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
