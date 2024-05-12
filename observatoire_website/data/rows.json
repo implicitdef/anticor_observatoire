@@ -31,6 +31,91 @@
     "a_la_une": false
   },
   {
+    "id": 2253,
+    "titre": "Narcotrafic et corruption : des magistrats et policiers sonnent l’alarme",
+    "contenu": "La France n’est pas épargnée par la montée en puissance de réseaux criminels capables de s’offrir des informations sensibles et des passe-droits. Si les autorités politiques minimisent cette menace, les professionnels appellent à en prendre la mesure pour tenter d’endiguer le phénomène.",
+    "url": "https://www.mediapart.fr/journal/france/120524/narcotrafic-et-corruption-des-magistrats-et-policiers-sonnent-l-alarme",
+    "date": "2024-05-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2785,
+        "value": "973 - Guyane"
+      },
+      {
+        "id": 2782,
+        "value": "95 - Val-d'Oise"
+      },
+      {
+        "id": 2767,
+        "value": "77 - Seine-et-Marne"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      },
+      {
+        "id": 2779,
+        "value": "89 - Yonne"
+      },
+      {
+        "id": 2763,
+        "value": "76 - Seine-Maritime"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 658,
+        "value": "Éric Dupond-Moretti"
+      },
+      {
+        "id": 761,
+        "value": "Gérald Darmanin"
+      },
+      {
+        "id": 1856,
+        "value": "Émile Diaz"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 63,
+        "value": "Office antistupéfiants (Ofast)"
+      },
+      {
+        "id": 170,
+        "value": "Office central de répression du trafic illicite de stupéfiants (Ocrtis)"
+      },
+      {
+        "id": 235,
+        "value": "Inspection générale de la Police nationale (IGPN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2664,
+        "value": "Drogue"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2251,
     "titre": "Soupçons de corruption : l’ancien préfet Alain Gardère jugé à Paris avec trois maires franciliens",
     "contenu": "Petits cadeaux, \"services rendus\" et opérations immobilières: le tribunal correctionnel de Paris se penche à partir du lundi 13 mai sur une vaste affaire de corruption qui implique l'ancien préfet Alain Gardère, des maires franciliens et des entrepreneurs du BTP.",
