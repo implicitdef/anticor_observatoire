@@ -1,5 +1,90 @@
 [
   {
+    "id": 2252,
+    "titre": "Affaire des malversations sur les chantiers post-tempête Alex: de nouvelles auditions vont être diligentées par les gendarmes",
+    "contenu": "Quatre fonctionnaires de la Métropole seront entendus en qualité de témoins, le 14 mai prochain, dans l’affaire des travaux dans les vallées après le passage de la tempête Alex. Il s’agit, cette fois, de deux inspecteurs de la ville de Nice qui ont écrit un rapport sur le chantier de la route de La Madone, à Saint-Martin-Vésubie, la directrice des marchés publics et la directrice financière de la direction des \"Routes\".",
+    "url": "https://www.monacomatin.mc/faits-divers/affaire-des-malversations-sur-les-chantiers-post-tempete-alex-de-nouvelles-auditions-vont-etre-diligentees-par-les-gendarmes-920535",
+    "date": "2024-05-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2251,
+    "titre": "Soupçons de corruption : l’ancien préfet Alain Gardère jugé à Paris avec trois maires franciliens",
+    "contenu": "Petits cadeaux, \"services rendus\" et opérations immobilières: le tribunal correctionnel de Paris se penche à partir du lundi 13 mai sur une vaste affaire de corruption qui implique l'ancien préfet Alain Gardère, des maires franciliens et des entrepreneurs du BTP.",
+    "url": "https://www.bfmtv.com/paris/soupcons-de-corruption-l-ancien-prefet-alain-gardere-juge-a-paris-avec-trois-maires-franciliens_AN-202405110284.html",
+    "date": "2024-05-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1506,
+        "value": "Alain Gardère"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 678,
+        "value": "Conseil national des activités de sécurité privées (CNAPS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2677,
+        "value": "Police"
+      },
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2250,
     "titre": "Chalets du village de Noël : le maire du Barcarès Alain Ferrand reste en prison",
     "contenu": "Onze jours après le placement en détention provisoire du maire du Barcarès, le tribunal d’Aix-en-Provence a examiné ce vendredi 10 mai 2024 sa demande de remise en liberté et l’a finalement rejetée.",
@@ -494,7 +579,7 @@
     ],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 2239,
@@ -58670,12 +58755,21 @@
     "url": "https://www.capital.fr/entreprises-marches/11-milliard-deuros-damende-mcdonalds-bat-le-record-de-lhistoire-fiscale-francaise-1436990",
     "date": "2022-05-20",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [
       {
         "id": 3,
         "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 27,
+        "value": "Direction générale des finances publiques (DGFIP)"
       },
       {
         "id": 658,
@@ -58688,7 +58782,12 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
     "procedure": [
       {
         "id": 2691,
@@ -58759,6 +58858,10 @@
       {
         "id": 2762,
         "value": "75 - Paris"
+      },
+      {
+        "id": 2793,
+        "value": "Chine"
       }
     ],
     "personnalites": [
@@ -58771,6 +58874,10 @@
       {
         "id": 326,
         "value": "Agence nationale de la sécurité des systèmes d'information (Anssi)"
+      },
+      {
+        "id": 438,
+        "value": "Huawei"
       }
     ],
     "categorie": [
@@ -58796,10 +58903,10 @@
   {
     "id": 1189,
     "titre": "Un magistrat et trois avocats du tribunal de Nanterre mis en examen",
-    "contenu": "Le parquet de Versailles a mis en examen un juge et trois avocats du tribunal de Nanterre (Hauts-de-Seine). Ils sont soupçonnés de corruption et de trafic d'influence.\nLes faits se seraient déroulés en 2020. Le magistrat, qui exerçait alors au tribunal de Nanterre, est mis en examen pour « détournement de données à caractère personnel » et « complicité de trafic d’influence ». Il est soupçonné d’être intervenu auprès du consulat de rattachement d’une contractuelle du tribunal de Nanterre pour lui obtenir un rendez-vous plus rapidement.\nLa contractuelle mentionnée plus haut, elle aussi mise en examen pour « corruption passive », « violation du secret professionnel » et « escroquerie ». Elle est suspectée d’avoir rabattu des clients pour le compte de trois avocats, contre rémunération. Ces derniers sont également mis en examen pour « corruption ».",
+    "contenu": "Le parquet de Versailles a mis en examen un juge et trois avocats du tribunal de Nanterre (Hauts-de-Seine). Ils sont soupçonnés de corruption et de trafic d'influence. Les faits se seraient déroulés en 2020. Le magistrat, qui exerçait alors au tribunal de Nanterre, est mis en examen pour « détournement de données à caractère personnel » et « complicité de trafic d’influence ». Il est soupçonné d’être intervenu auprès du consulat de rattachement d’une contractuelle du tribunal de Nanterre pour lui obtenir un rendez-vous plus rapidement. La contractuelle mentionnée plus haut, elle aussi mise en examen pour « corruption passive », « violation du secret professionnel » et « escroquerie ». Elle est suspectée d’avoir rabattu des clients pour le compte de trois avocats, contre rémunération. Ces derniers sont également mis en examen pour « corruption ».",
     "url": "https://actu.fr/ile-de-france/nanterre_92050/hauts-de-seine-un-magistrat-et-trois-avocats-du-tribunal-de-nanterre-mis-en-examen_51111599.html",
     "date": "2022-05-20",
-    "etiquettes": "92 – Hauts de Seine",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2765,
@@ -58808,8 +58915,18 @@
     ],
     "personnalites": [],
     "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -58820,18 +58937,31 @@
     "contenu": "La préfète de la région Centre-Val de Loire, Régine Engström, veut le poste de directrice générale de l’ONF. Mise en cause pour prise illégale d’intérêts, la candidature de cette haute fonctionnaire suscite un fort rejet des ingénieurs des ponts, eaux et forêts.",
     "url": "https://reporterre.net/Une-prefete-visee-par-la-justice-est-candidate-a-la-direction-de-l-ONF",
     "date": "2022-05-20",
-    "etiquettes": "Jean d’Haussonville,Nexity,Office national des forêts,Régine Engström",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 645,
         "value": "Régine Engström"
+      },
+      {
+        "id": 1850,
+        "value": "Jean d'Haussonville"
       }
     ],
     "personnes_morales": [
       {
         "id": 56,
         "value": "Ministère de l'agriculture"
+      },
+      {
+        "id": 67,
+        "value": "Nexity"
       },
       {
         "id": 185,
@@ -58848,7 +58978,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 3050,
+        "value": "Environnement"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -58856,16 +58991,58 @@
   {
     "id": 1188,
     "titre": "Vinci Construction France mis en examen pour « corruption privée » dans un dossier lié au Qatar",
-    "contenu": "Vinci Construction France a été mis en examen en février pour \"corruption privée\" dans une instruction qui vise également l'ex-gérante de fortune en France de l'ancien émir du Qatar, a annoncé le parquet de Nanterre, vendredi 20 mai.\nLa femme d'affaires Chadia Clot a dirigé le fonds French Property Management (FPM), dédié aux investissements de l'ancien émir qatari, Hamad Ben Khalifa Al-Thani, jusqu'en juin 2017. Elle et son compagnon ont été mis en examen, en janvier dernier, pour \"corruption privée passive\", car ils sont soupçonnés d'être les bénéficiaires de cette corruption présumée, a confirmé le parquet de Nanterre.",
+    "contenu": "Vinci Construction France a été mis en examen en février pour \"corruption privée\" dans une instruction qui vise également l'ex-gérante de fortune en France de l'ancien émir du Qatar, a annoncé le parquet de Nanterre, vendredi 20 mai. La femme d'affaires Chadia Clot a dirigé le fonds French Property Management (FPM), dédié aux investissements de l'ancien émir qatari, Hamad Ben Khalifa Al-Thani, jusqu'en juin 2017. Elle et son compagnon ont été mis en examen, en janvier dernier, pour \"corruption privée passive\", car ils sont soupçonnés d'être les bénéficiaires de cette corruption présumée, a confirmé le parquet de Nanterre.",
     "url": "https://www.francetvinfo.fr/societe/justice/vinci-construction-france-mis-en-examen-pour-corruption-privee-dans-un-dossier-lie-au-qatar_5149669.html",
     "date": "2022-05-20",
-    "etiquettes": "Chadia Clot,Hamad Ben Khalifa Al-Thani,Vinci",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2807,
+        "value": "Qatar"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1848,
+        "value": "Chadia Clot"
+      },
+      {
+        "id": 1849,
+        "value": "Hamad Ben Khalifa Al-Thani"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 90,
+        "value": "Vinci"
+      },
+      {
+        "id": 813,
+        "value": "French Property Management (FPM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -58900,7 +59077,12 @@
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -58911,16 +59093,43 @@
     "contenu": "Le député Jérôme Lambert, tout juste désinvesti par la Nupes et désormais candidat dissident pour les élections législatives en Charente, vit dans un logement parisien de 95 m2 pour 971 euros par mois. « Être logé à ce prix-là à Paris, j’estime que c’est déjà cher », justifie l’élu qui n’y voit rien de « choquant ».\nInterrogé par Mediapart, un responsable de Paris Habitat confirme et dit découvrir la situation. « Nous vérifions scrupuleusement les attributions, encore plus après les périodes électorales, mais ce député a échappé à notre vigilance », explique-t-il. « Ce logement avait été attribué à sa compagne en 1997 et lorsqu’il s’est déclaré co-occupant, il n’a pas signalé ses revenus », ajoute-t-il, précisant que pour les logements intermédiaires, aucune enquête n’est menée par le bailleur social pour vérifier les revenus des occupants : « Nous allons immédiatement lui écrire pour demander une clarification. »",
     "url": "https://www.mediapart.fr/journal/france/190522/le-depute-ps-de-charente-jerome-lambert-loge-chez-un-bailleur-social-car-les-loyers-sont-trop-chers-paris",
     "date": "2022-05-19",
-    "etiquettes": "16 - Charente,Jérôme Lambert",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2710,
         "value": "16 - Charente"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1851,
+        "value": "Jérôme Lambert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 148,
+        "value": "Paris Habitat"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -58929,16 +59138,34 @@
   {
     "id": 1195,
     "titre": "Soupçons de favoritisme : la justice ouvre une information judiciaire sur la concession de la tour Triangle",
-    "contenu": "Alors que les travaux de construction de l’immeuble de 180 mètres de haut ont débuté en février porte de Versailles (Paris XVe), le parquet national financier a désigné un juge d’instruction pour enquêter sur ce dossier à la suite d’une plainte pour délit de favoritisme déposée par l’association Anticor.\n« Ce qui nous a interpellés sur ce dossier et convaincus de nous porter partie civile, c’est que le maire de Paris (Bertrand Delanoë, à l’époque) est passé outre l’avis de son propre service des affaires juridiques », rappelle Elis Van Bededen, la présidente d’Anticor.",
+    "contenu": "Alors que les travaux de construction de l’immeuble de 180 mètres de haut ont débuté en février porte de Versailles (Paris XVe), le parquet national financier a désigné un juge d’instruction pour enquêter sur ce dossier à la suite d’une plainte pour délit de favoritisme déposée par l’association Anticor.\n« Ce qui nous a interpellés sur ce dossier et convaincus de nous porter partie civile, c’est que le maire de Paris (Bertrand Delanoë, à l’époque) est passé outre l’avis de son propre service des affaires juridiques », rappelle Elise Van Bededen, la présidente d’Anticor.",
     "url": "https://www.leparisien.fr/paris-75/soupcons-de-favoritisme-la-justice-ouvre-une-information-judiciaire-sur-la-concession-de-la-tour-triangle-19-05-2022-HJMV3MYPNFDXTKTGG5D3YMAR2I.php?ts=1653392799",
     "date": "2022-05-19",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 657,
+        "value": "Anne Hidalgo"
+      },
+      {
+        "id": 1852,
+        "value": "Bertrand Delanoë"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 6,
         "value": "Cour des comptes (CDC)"
+      },
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
       },
       {
         "id": 66,
@@ -58953,29 +59180,64 @@
         "value": "Unibail-Rodamco-Westfield (URW)"
       }
     ],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1196,
-    "titre": "Stéphane Richard",
+    "titre": "Stéphane Richard rejoint Perella Weinberg",
     "contenu": "D’abord inspecteur des finances, puis au Ministère de l’Industrie, il est embauché en 1992 par Messier à la Compagnie Générale des Eaux puis chez Nexity où il fait fortune grâce à une opération de LBO, et Veolia. En 2007 il revient au Ministère de l’Economie et des Finances comme chef de cabinet (Borloo puis Lagarde). En 2009 il rejoint France Telecom dont il devient PDG en 2011. En 2021 il est condamné en appel à un an de prison avec sursis et 50.000€ d’amende dans l’affaire Tapie. En 2022, il rejoint la banque d’affaires Perella Weinberg.",
     "url": "https://www.agefi.fr/corporate/actualites/quotidien/20220519/stephane-richard-s-apprete-a-rejoindre-banque-344354",
     "date": "2022-05-19",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1853,
+        "value": "Stéphane Richard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 814,
+        "value": "Perella Weinberg Partners"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -58986,15 +59248,25 @@
     "contenu": "Le député de la 4e circonscription du Puy-de-Dôme Michel Fanget (Modem) a indiqué avoir déposé sa candidature aux élections législatives malgré sa condamnation en appel mercredi à deux ans d’inéligibilité pour « complicité d’escroquerie » au préjudice de l’Assurance maladie.\nLa cour d’appel de Riom (Puy-de-Dôme) a relaxé le député pour des faits de complicité d’escroquerie à l’encontre de Pôle emploi mais l’a condamné à 2000 euros d’amende et deux ans d’inéligibilité pour les mêmes faits au détriment de l’Assurance maladie, a indiqué son avocat Me Gilles-Jean Portejoie, accompagné de Me Mohamed Khanifar. Il est reproché au député, 72 ans, également médecin, d’avoir procuré des arrêts maladie à un proche en conflit avec les organismes sociaux.",
     "url": "https://www.ouest-france.fr/elections/legislatives/legislatives-le-depute-modem-michel-fanget-reste-candidat-malgre-une-peine-d-ineligibilite-424b9d2c-d6bb-11ec-9b2d-786031940fdf",
     "date": "2022-05-18",
-    "etiquettes": "63 - Puy-de-Dôme,Michel Fanget,Mouvement démocrate",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2753,
         "value": "63 - Puy-de-Dôme"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 1854,
+        "value": "Michel Fanget"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 84,
+        "value": "Mouvement démocrate (MoDem)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -59008,8 +59280,18 @@
     "url": "https://www.lefigaro.fr/societes/mckinsey-le-bureau-du-senat-saisit-le-parquet-pour-suspicion-de-faux-temoignage-20220518",
     "date": "2022-05-18",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1855,
+        "value": "Karim Tadjeddine"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 4,
@@ -59020,7 +59302,12 @@
         "value": "McKinsey & Company"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -59033,7 +59320,16 @@
     "url": "https://www.mediapart.fr/journal/economie/180522/un-scandale-financier-luxembourgeois-menace-orpea",
     "date": "2022-05-18",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 2804,
+        "value": "Luxembourg"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
     "personnes_morales": [
       {
@@ -59041,8 +59337,18 @@
         "value": "Orpea"
       }
     ],
-    "categorie": [],
-    "theme": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
