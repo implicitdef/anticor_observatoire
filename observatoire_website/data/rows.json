@@ -1,5 +1,147 @@
 [
   {
+    "id": 2256,
+    "titre": "Argent liquide et soupçons de corruption : un géant belge du BTP et la Société générale empêtrés au Tchad",
+    "contenu": "Les justices française et belge ont été saisies d’une affaire présumée de corruption et d’abus de biens sociaux visant des cadres français d’un groupe de BTP belge, en lien avec la construction d’un palace au Tchad. L’entreprise a retiré des millions d’euros en liquide sur son compte à la Société générale.",
+    "url": "https://www.mediapart.fr/journal/international/140524/argent-liquide-et-soupcons-de-corruption-un-geant-belge-du-btp-et-la-societe-generale-empetres-au-t",
+    "date": "2024-05-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3051,
+        "value": "Tchad"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1857,
+        "value": "Michel Marstal"
+      },
+      {
+        "id": 1858,
+        "value": "Luc Bertrand"
+      },
+      {
+        "id": 1859,
+        "value": "Patrick Bonnetain"
+      },
+      {
+        "id": 1860,
+        "value": "Didier Schuller"
+      },
+      {
+        "id": 1861,
+        "value": "Renaud Bentégeat"
+      },
+      {
+        "id": 1862,
+        "value": "Abderahman Moussa"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 137,
+        "value": "Société générale"
+      },
+      {
+        "id": 815,
+        "value": "Ackermans & van Haaren"
+      },
+      {
+        "id": 816,
+        "value": "CFE (Belgique)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      },
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2255,
+    "titre": "Enquête ouverte à Nice pour les cumuls d’emplois de l'entourage d'Eric Ciotti",
+    "contenu": "Une enquête préliminaire pour détournement de fonds publics a été ouverte par le parquet de Nice concernant des soupçons de cumuls d'emplois de proches du président des Républicains.",
+    "url": "https://www.francetvinfo.fr/politique/les-republicains/enquete-ouverte-a-nice-pour-les-cumuls-d-emplois-de-l-entourage-d-eric-ciotti_6542330.html",
+    "date": "2024-05-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 123,
+        "value": "Éric Ciotti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 159,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2254,
     "titre": "L’ancien député Bernard Perrut condamné pour avoir détourné ses frais de mandat",
     "contenu": "Figure de la droite dans le Rhône, l’ancien député-maire de Villefranche-sur-Saône a été condamné à un an de prison avec sursis et cinq ans d’inéligibilité pour avoir utilisé son enveloppe de frais de mandat pour des dépenses personnelles.",
