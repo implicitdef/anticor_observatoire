@@ -1,5 +1,62 @@
 [
   {
+    "id": 2254,
+    "titre": "L’ancien député Bernard Perrut condamné pour avoir détourné ses frais de mandat",
+    "contenu": "Figure de la droite dans le Rhône, l’ancien député-maire de Villefranche-sur-Saône a été condamné à un an de prison avec sursis et cinq ans d’inéligibilité pour avoir utilisé son enveloppe de frais de mandat pour des dépenses personnelles.",
+    "url": "https://www.mediapart.fr/journal/france/130524/l-ancien-depute-bernard-perrut-condamne-pour-avoir-detourne-ses-frais-de-mandat",
+    "date": "2024-05-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1193,
+        "value": "Bernard Perrut"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2252,
     "titre": "Affaire des malversations sur les chantiers post-tempête Alex: de nouvelles auditions vont être diligentées par les gendarmes",
     "contenu": "Quatre fonctionnaires de la Métropole seront entendus en qualité de témoins, le 14 mai prochain, dans l’affaire des travaux dans les vallées après le passage de la tempête Alex. Il s’agit, cette fois, de deux inspecteurs de la ville de Nice qui ont écrit un rapport sur le chantier de la route de La Madone, à Saint-Martin-Vésubie, la directrice des marchés publics et la directrice financière de la direction des \"Routes\".",
