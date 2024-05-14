@@ -1,5 +1,49 @@
 [
   {
+    "id": 2258,
+    "titre": "« La France ne gagnera pas la guerre contre le narcotrafic sans mener la bataille contre la corruption et le blanchiment »",
+    "contenu": "Le manque de moyens de la police judiciaire et de la justice financière interroge sur la capacité du pays à combattre sur tous les fronts, estime, dans une tribune au « Monde », le président de l’organisation non gouvernementale Transparency International France.",
+    "url": "https://www.lemonde.fr/idees/article/2024/05/14/la-france-ne-gagnera-pas-la-guerre-contre-le-narcotrafic-sans-mener-la-bataille-contre-la-corruption-et-le-blanchiment_6233038_3232.html",
+    "date": "2024-05-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 265,
+        "value": "Transparency International"
+      },
+      {
+        "id": 772,
+        "value": "Parquet national anticriminalité organisée (PNACO)"
+      },
+      {
+        "id": 817,
+        "value": "Crimjust"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2664,
+        "value": "Drogue"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2256,
     "titre": "Argent liquide et soupçons de corruption : un géant belge du BTP et la Société générale empêtrés au Tchad",
     "contenu": "Les justices française et belge ont été saisies d’une affaire présumée de corruption et d’abus de biens sociaux visant des cadres français d’un groupe de BTP belge, en lien avec la construction d’un palace au Tchad. L’entreprise a retiré des millions d’euros en liquide sur son compte à la Société générale.",
@@ -85,6 +129,47 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2257,
+    "titre": "Prise illégale d’intérêts : l’ancien maire de Curbans condamné",
+    "contenu": "Au terme d’un délibéré de près de trois mois, Daniel Rolland, 81 ans, dont 31 années à la tête de Curbans, petite commune aux marches des Alpes-de-Haute-Provence et des Hautes-Alpes, a été reconnu coupable de prise illégale d’intérêts et condamné à 50 000 euros d’amende par le tribunal correctionnel de Digne présidé par Géraldine Frizzi. On reprochait à l’ancien maire une décision du conseil municipal en date du 21 octobre 2018. Décision transformant des terrains inconstructibles en terrains constructibles.",
+    "url": "https://www.ledauphine.com/faits-divers-justice/2024/05/14/le-maire-de-curbans-condamne-pour-prise-illegale-d-interets",
+    "date": "2024-05-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2701,
+        "value": "04 - Alpes-de-Haute-Provence"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1863,
+        "value": "Daniel Rolland"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
