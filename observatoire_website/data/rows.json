@@ -51,8 +51,16 @@
     "personnalites": [],
     "personnes_morales": [
       {
+        "id": 416,
+        "value": "Observatoire de l'éthique publique"
+      },
+      {
         "id": 505,
         "value": "Commission d'accès aux documents administratifs (CADA)"
+      },
+      {
+        "id": 819,
+        "value": "Ma dada"
       }
     ],
     "categorie": [
