@@ -1,5 +1,168 @@
 [
   {
+    "id": 2265,
+    "titre": "Hôtels de luxe et vols en classe affaires : les notes de frais du gouverneur de la Banque de France en question",
+    "contenu": "François Villeroy de Galhau a dépensé en 2023 plus de 50 000 euros en transports, hébergements et restaurants. Un train de vie à part, même au sein de la très haute fonction publique.",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2024/05/17/hotels-de-luxe-et-vols-en-classe-affaires-les-notes-de-frais-du-gouverneur-de-la-banque-de-france-en-question_6233758_4355770.html",
+    "date": "2024-05-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1868,
+        "value": "François Villeroy de Galhau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 113,
+        "value": "Banque de France"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2266,
+    "titre": "Fiche de paie du Président, conventions de mécénat des grandes écoles… L’accès aux documents administratifs, transparent pauvre de la vie publique",
+    "contenu": "Dans les faits, la Commission d’accès aux documents administratifs a pour but de faciliter la consultation de ces derniers par tous. Mais face au manque d’information des agents de l’Etat et l’opacité persistante, des citoyens se démènent pour «lever au maximum les barrières».",
+    "url": "https://www.liberation.fr/societe/fiche-de-paie-du-president-conventions-de-mecenat-des-grandes-ecoles-lacces-aux-documents-administratifs-transparent-pauvre-de-la-vie-publique-20240516_KBED3Z4BJNDBJOICPNLHJTLSOQ/",
+    "date": "2024-05-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 505,
+        "value": "Commission d'accès aux documents administratifs (CADA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2259,
+    "titre": "Rugby : soupçonné d’infractions financières, Claude Atcher placé en garde à vue pendant 48 heures",
+    "contenu": "L’ancien patron du GIP France 2023 est soupçonné d’infractions concernant la billetterie et d’autres marchés relatifs à la dernière Coupe du monde.",
+    "url": "https://www.lefigaro.fr/sports/rugby/rugby-claude-atcher-place-en-garde-a-vue-pour-plusieurs-infractions-financieres-20240515",
+    "date": "2024-05-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 897,
+        "value": "Claude Atcher"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 256,
+        "value": "France 2023"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2260,
+    "titre": "Un millionnaire chinois, propriétaire de vignobles bordelais, condamné pour blanchiment",
+    "contenu": "Le tribunal correctionnel de Paris a infligé une peine de trois ans de prison avec sursis et un million d’euros d’amende à Naijie Qu, fondateur du conglomérat Haichang. Il a également prononcé la confiscation de neuf châteaux et de créances.",
+    "url": "https://www.challenges.fr/economie/un-millionnaire-chinois-proprietaire-de-vignobles-bordelais-condamne-pour-blanchiment_893121",
+    "date": "2024-05-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2727,
+        "value": "33 - Gironde"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 614,
+        "value": "Naijie Qu"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 818,
+        "value": "Haichang"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2655,
+        "value": "Alcools"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2258,
     "titre": "« La France ne gagnera pas la guerre contre le narcotrafic sans mener la bataille contre la corruption et le blanchiment »",
     "contenu": "Le manque de moyens de la police judiciaire et de la justice financière interroge sur la capacité du pays à combattre sur tous les fronts, estime, dans une tribune au « Monde », le président de l’organisation non gouvernementale Transparency International France.",
@@ -133,6 +296,111 @@
     "a_la_une": true
   },
   {
+    "id": 2261,
+    "titre": "Détournement de fonds publics : Hubert Falco, maire de Toulon, condamné à cinq ans d’inéligibilité",
+    "contenu": "La condamnation à une peine d’inéligibilité de l’ancien maire de Toulon (Var) Hubert Falco a été confirmée en appel. Ce mardi après-midi, la cour d’appel d’Aix-en-Provence a confirmé la décision du tribunal correctionnel de Marseille. En avril 2023, en première instance, le maire et président de la métropole toulonnaise depuis plus de 20 ans, qui avait ravi la ville à l’extrême droite en 2001, était condamné à trois ans d’emprisonnement avec sursis pour recel de détournement de fonds publics. Et, surtout, à une peine d’inéligibilité de cinq ans.",
+    "url": "https://www.leparisien.fr/politique/detournement-de-fonds-publics-hubert-falco-maire-de-toulon-condamne-a-cinq-ans-dineligibilite-14-05-2024-IHYSXBKLVFAZJKFARP7IAGNAMA.php?ts=1715925918770",
+    "date": "2024-05-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1333,
+        "value": "Hubert Falco"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2263,
+    "titre": "Deux maires de Seine-et-Marne devant le tribunal correctionnel de Paris",
+    "contenu": "Jean-François Oneto et Sinclair Vouriot, maires d’Ozoir-la-Ferrière et de Saint-Thibault-des-Vignes, sont jugés dans une vaste affaire de corruption.",
+    "url": "https://mesinfos.fr/ile-de-france/deux-maires-de-seine-et-marne-devant-le-tribunal-correctionnel-de-paris-198862.html",
+    "date": "2024-05-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2767,
+        "value": "77 - Seine-et-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1506,
+        "value": "Alain Gardère"
+      },
+      {
+        "id": 1507,
+        "value": "Antonio De Sousa"
+      },
+      {
+        "id": 1508,
+        "value": "Serge Poinsot"
+      },
+      {
+        "id": 1864,
+        "value": "Jean-François Oneto"
+      },
+      {
+        "id": 1865,
+        "value": "Sinclair Vouriot"
+      },
+      {
+        "id": 1866,
+        "value": "Gérard Hérault"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 634,
+        "value": "France Pierre"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2257,
     "titre": "Prise illégale d’intérêts : l’ancien maire de Curbans condamné",
     "contenu": "Au terme d’un délibéré de près de trois mois, Daniel Rolland, 81 ans, dont 31 années à la tête de Curbans, petite commune aux marches des Alpes-de-Haute-Provence et des Hautes-Alpes, a été reconnu coupable de prise illégale d’intérêts et condamné à 50 000 euros d’amende par le tribunal correctionnel de Digne présidé par Géraldine Frizzi. On reprochait à l’ancien maire une décision du conseil municipal en date du 21 octobre 2018. Décision transformant des terrains inconstructibles en terrains constructibles.",
@@ -168,6 +436,42 @@
       {
         "id": 2689,
         "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2264,
+    "titre": "Dans le cadre du projet agrivoltaïque du Beugnon, une plainte cible le maire d’Arcy-sur-Cure",
+    "contenu": "Le projet agrivoltaïque du Beugnon, à Arcy-sur-Cure, fait l’objet d’une enquête pour prise illégale d’intérêt, qui cible notamment le maire de la commune, Olivier Bertrand.",
+    "url": "https://www.lyonne.fr/arcy-sur-cure-89270/actualites/le-projet-agrivoltaique-du-beugnon-a-arcy-sur-cure-sous-le-coup-dune-enquete-pour-prise-illegale-dinteret_14499828/",
+    "date": "2024-05-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2779,
+        "value": "89 - Yonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1867,
+        "value": "Olivier Bertrand"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
       }
     ],
     "titre_corrige": "",
@@ -282,6 +586,52 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2262,
+    "titre": "Soupçons d'emploi fictif à l'AP-HM : l'élu marseillais Daniel Sperling condamné à 2 ans de prison avec sursis",
+    "contenu": "Le tribunal correctionnel de Paris a condamné lundi 13 mai Daniel Sperling, ancien adjoint LR à la mairie de Marseille, à deux ans de prison avec sursis et 80 000 euros d'amende pour avoir occupé un emploi fictif partiel au sein des hôpitaux de Marseille.",
+    "url": "https://www.laprovence.com/article/faits-divers-justice/2438899026366915/soupcons-demploi-fictif-a-lap-hm-lelu-marseillais-daniel-sperling-condamne-a-2-ans-de-prison-avec-sursis",
+    "date": "2024-05-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1361,
+        "value": "Daniel Sperling"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 544,
+        "value": "Assistance publique - Hôpitaux de Marseille (AP-HM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2252,
