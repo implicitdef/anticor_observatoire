@@ -1,5 +1,678 @@
 [
   {
+    "id": 2284,
+    "titre": "Une information judiciaire ouverte pour détournement de fonds publics à la mairie de Charvieu-Chavagneux",
+    "contenu": "Une information judiciaire contre X a été ouverte à la mairie de Charvieu-Chavagneux et confiée à un juge d’instruction. C’est une nouvelle étape dans l’enquête contre X ouverte par le parquet de Vienne en juillet 2022 notamment pour détournement de fonds publics, favoritisme, prise illégale d’intérêts.",
+    "url": "https://www.ledauphine.com/faits-divers-justice/2024/05/23/isere-une-information-judiciaire-ouverte-pour-detournement-de-fonds-publics-a-la-mairie-de-charvieu-chavagneux",
+    "date": "2024-05-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2732,
+        "value": "38 - Isère"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2276,
+    "titre": "Le maire du Tampon, André Thien Ah Koon, condamné à 5 ans d'inéligibilité pour prise illégale d'intérêts",
+    "contenu": "Ce jeudi 23 mai, la justice a rendu sa décision sur l'affaire de prise illégale d'intérêt dont le maire du Tampon faisait l'objet. II est condamné à 5 ans d'inéligibilité, 8 mois de prison avec sursis et 10 000 euros d'amende.",
+    "url": "https://la1ere.francetvinfo.fr/reunion/le-maire-du-tampon-andre-thien-ah-koon-condamne-a-5-ans-d-ineligibilite-pour-prise-illegale-d-interets-1490471.html",
+    "date": "2024-05-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2786,
+        "value": "974 - La Réunion"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1877,
+        "value": "André Thien Ah Koon"
+      },
+      {
+        "id": 1878,
+        "value": "Christelle Mondon"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2274,
+    "titre": "Les sondages très politiques du maire de Saint-Étienne",
+    "contenu": "La chambre régionale des comptes Auvergne-Rhône-Alpes demande à Gaël Perdriau de « mettre fin à l’achat », avec l’argent public de sa collectivité, de sondages portant sur son image ou sa carrière politique.",
+    "url": "https://www.mediapart.fr/journal/france/230524/les-sondages-tres-politiques-du-maire-de-saint-etienne",
+    "date": "2024-05-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2736,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 937,
+        "value": "Gaël Perdriau"
+      },
+      {
+        "id": 938,
+        "value": "Gilles Artigues"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2275,
+    "titre": "Soupçons d’ingérence étrangère : une demande de levée d’immunité déposée à l’encontre du député Hubert Julien-Laferrière",
+    "contenu": "« Le Monde » a pu consulter des échanges entre l’élu et le lobbyiste Jean-Pierre Duthion qui font mention de paiements pour des interventions, notamment à l’Assemblée.",
+    "url": "https://www.lemonde.fr/societe/article/2024/05/23/soupcons-d-ingerence-etrangere-une-demande-de-levee-d-immunite-deposee-a-l-encontre-du-depute-hubert-julien-laferriere_6234969_3224.html",
+    "date": "2024-05-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2791,
+        "value": "Azerbaïdjan"
+      },
+      {
+        "id": 2807,
+        "value": "Qatar"
+      },
+      {
+        "id": 2794,
+        "value": "Émirats arabes unis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 274,
+        "value": "Hubert Julien-Laferrière"
+      },
+      {
+        "id": 602,
+        "value": "Jean-Pierre Duthion"
+      },
+      {
+        "id": 615,
+        "value": "Rachid M’Barki"
+      },
+      {
+        "id": 689,
+        "value": "Nabil Ennasri"
+      },
+      {
+        "id": 1604,
+        "value": "William Bourdon"
+      },
+      {
+        "id": 1875,
+        "value": "Reckya Madougou"
+      },
+      {
+        "id": 1876,
+        "value": "Ahmed Naser Al-Raisi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 822,
+        "value": "Gulf Centre for Human Rights"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2278,
+    "titre": "Trafic d'influence, prise illégale d'intérêt et déclaration mensongère : un élu et deux entrepreneurs convoqués par la justice",
+    "contenu": "Paul Salvador, président de l'agglomération Gaillac-Graulhet (Tarn), et les deux patrons du groupe de BTP Laclau sont convoqués par les gendarmes dans le cadre d'une enquête pour \"trafic d'influence, prise illégale d'intérêt et déclaration incomplète ou mensongère\". Ils sont soupçonnés d'un possible conflit d'intérêts lors d'une vente de terrains, appartenant à la collectivité tarnaise.",
+    "url": "https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/trafic-d-influence-prise-illegale-d-interet-et-declaration-mensongere-un-elu-et-deux-entrepreneurs-convoques-par-la-justice-2973830.html",
+    "date": "2024-05-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2771,
+        "value": "81 - Tarn"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1113,
+        "value": "Paul Salvador"
+      },
+      {
+        "id": 1143,
+        "value": "Jean-Marc Laclau"
+      },
+      {
+        "id": 1144,
+        "value": "Sylvain Laclau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 823,
+        "value": "Groupe Laclau"
+      },
+      {
+        "id": 824,
+        "value": "Grésigne Résidences"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2277,
+    "titre": "Dîner des sommets\" : Laurent Wauquiez a 15 jours pour transmettre la liste des convives",
+    "contenu": "Le tribunal administratif de Lyon a enjoint la Région Auvergne-Alpes à communiquer la liste des personnes invitées au \"dîner des sommets\" organisé en juin 2022. La Région va faire appel.",
+    "url": "https://www.lyoncapitale.fr/actualite/diner-des-sommets-laurent-wauquiez-a-15-jours-pour-transmettre-la-liste-des-convives",
+    "date": "2024-05-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 668,
+        "value": "Laurent Wauquiez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2281,
+    "titre": "Perquisitions au Conseil départemental des Alpes-Maritimes et à la mairie de Nice, le PNF sur tous les fronts",
+    "contenu": "Le PNF, le parquet national financier, a perquisitionné ce mercredi matin les locaux du Conseil départemental des Alpes-Maritimes ainsi que cinq autres lieux dans le cadre d'une enquête préliminaire sur des infractions fiscales. La mairie de Nice a également été visée, mais pour une autre affaire.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/perquisitions-au-conseil-departemental-et-a-la-mairie-de-nice-le-pnf-sur-tous-les-fronts-9567204",
+    "date": "2024-05-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 788,
+        "value": "Charles-Ange Ginésy"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 87,
+        "value": "Tracfin"
+      },
+      {
+        "id": 740,
+        "value": "Hopman Cup"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2283,
+    "titre": "Proposition de loi cabinets de conseil : le Sénat revient sur plusieurs modifications des députés",
+    "contenu": "Près de quatre mois après les débats à l’Assemblée nationale, la proposition de loi née de la commission d’enquête, sur les interventions des cabinets de conseil dans les politiques publiques, fait son retour au Sénat. En commission, les sénateurs ont restauré plusieurs dispositions phares de leur texte initial.",
+    "url": "https://www.publicsenat.fr/actualites/politique/proposition-de-loi-cabinets-de-conseil-le-senat-revient-sur-plusieurs-modifications-des-deputes",
+    "date": "2024-05-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2280,
+    "titre": "Affaire CADEMA : des réquisitions sévères du procureur contre Rachadi Saindou et Salime Mdéré.",
+    "contenu": "Mardi 21 mai, au tribunal correctionnel de Mamoudzou, Rachadi Saindou, le président de la CADEMA, et Salime Mdéré, le vice-président du département, étaient jugés pour prise illégale d'intérêt et emploi fictif à la CADEMA. Le procureur a requis des peines de prison avec sursis ainsi qu'une forte amende pour les deux prévenus.",
+    "url": "https://la1ere.francetvinfo.fr/mayotte/affaire-cadema-des-requisitions-severes-du-procureur-contre-rachadi-saindou-et-salime-mdere-1490006.html",
+    "date": "2024-05-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2787,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1880,
+        "value": "Rachadi Saindou"
+      },
+      {
+        "id": 1881,
+        "value": "Salime Mdéré"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 826,
+        "value": "Communauté d'Agglomération Dembéni-Mamoudzou (CADEMA)"
+      },
+      {
+        "id": 827,
+        "value": "May Environnement"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2272,
+    "titre": "Affaire des emplois présumés fictifs à la Région : Didier Robert et tous les autres prévenus relaxés par le tribunal de Saint-Denis",
+    "contenu": "Après 5 jours de procès en avril dernier, Didier Robert et les 10 autres prévenus ont été relaxés ce mardi 21 mai. 12 mois avec sursis et 5 ans d’inéligibilité avaient été requis à l’encontre de l’ancien président de Région.",
+    "url": "https://la1ere.francetvinfo.fr/reunion/affaire-des-emplois-presumes-fictifs-a-la-region-didier-robert-sera-fixe-sur-son-sort-ce-mardi-1489862.html",
+    "date": "2024-05-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2786,
+        "value": "974 - La Réunion"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1392,
+        "value": "Didier Robert"
+      },
+      {
+        "id": 1667,
+        "value": "Jean-Louis Lagourgue"
+      },
+      {
+        "id": 1707,
+        "value": "Vincent Bègue"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2270,
+    "titre": "L’ancien PDG d’EDF Henri Proglio jugé pour favoritisme, le procès d’un homme aux larges réseaux",
+    "contenu": "L’homme d’affaires comparaît à partir de mardi devant le tribunal correctionnel de Paris. Il est accusé d’avoir signé, à la tête de l’électricien public, pour 21 millions d’euros de contrats de conseil sans mise en concurrence. Au profit de figures de l’ombre du monde des affaires, comme Alain Bauer ou Jean-Marie Messier, également convoqués.",
+    "url": "https://www.lemonde.fr/societe/article/2024/05/21/l-ancien-pdg-d-edf-henri-proglio-juge-pour-favoritisme-le-proces-d-un-homme-aux-larges-reseaux_6234486_3224.html",
+    "date": "2024-05-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 715,
+        "value": "Stéphane Fouks"
+      },
+      {
+        "id": 716,
+        "value": "Henri Proglio"
+      },
+      {
+        "id": 983,
+        "value": "Pierre Bédier"
+      },
+      {
+        "id": 1219,
+        "value": "Alain Bauer"
+      },
+      {
+        "id": 1401,
+        "value": "Claude Allègre"
+      },
+      {
+        "id": 1403,
+        "value": "Jean-Marie Messier"
+      },
+      {
+        "id": 1405,
+        "value": "Loïk Le Floch-Prigent"
+      },
+      {
+        "id": 1406,
+        "value": "Laïd Sammari"
+      },
+      {
+        "id": 1504,
+        "value": "Alain Tchernonog"
+      },
+      {
+        "id": 1874,
+        "value": "Samir Traboulsi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 6,
+        "value": "Cour des comptes (CDC)"
+      },
+      {
+        "id": 61,
+        "value": "Havas"
+      },
+      {
+        "id": 101,
+        "value": "Électricité de France (EDF)"
+      },
+      {
+        "id": 287,
+        "value": "ESL & Network"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2660,
+        "value": "Conseil"
+      },
+      {
+        "id": 2666,
+        "value": "Énergie"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2271,
+    "titre": "Mort de Jean-Claude Gaudin : logement, écoles, démêlés judiciaires... Comment les affaires ont marqué son mandat de trop",
+    "contenu": "Jean-Claude Gaudin a incarné Marseille pendant 25 ans. Son décès lundi 20 mai, à l'âge de 84 ans a surpris ses amis comme ses anciens adversaires, qui ont salué unanimement sa longévite politique et sa stature d'homme d'Etat. L'enfant de Mazargues a réalisé son rêve en s'asseyant dans le fauteuil de Gaston Defferre, mais il a connu une fin de règne compliquée. S'il a accompli de grands projets pour sa ville au cours de ses quatre mandats,  le dernier est très critiqué par adversaires, souvent jugé comme celui de trop, marqué par le scandale de l'habitat indigne, les écoles vétustes et ses démêlés judiciaires.",
+    "url": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/mort-de-jean-claude-gaudin-logement-ecoles-demeles-judiciaires-comment-les-affaires-ont-marque-son-mandat-de-trop-2972744.html",
+    "date": "2024-05-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1653,
+        "value": "Jean-Claude Gaudin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2273,
+    "titre": "Soupçons de prise illégale d'intérêts à Mont-de-Marsan Agglo : 30 000 euros d'amende requis contre le maire de Benquet",
+    "contenu": "Le maire de Benquet, Pierre Mallet, était jugé ce mardi après-midi après un signalement du président de Mont-de-Marsan Agglo, Charles Dayot, pour prise illégale d'intérêts. Le tribunal de Mont-de-Marsan rendra sa décision le 25 juin.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/soupcons-de-prise-illegale-d-interets-a-mont-de-marsan-agglo-30-000-euros-d-amende-requis-contre-le-maire-de-benquet-2476394",
+    "date": "2024-05-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2734,
+        "value": "40 - Landes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1184,
+        "value": "Pierre Mallet"
+      },
+      {
+        "id": 1186,
+        "value": "Charles Dayot"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2267,
+    "titre": "Européennes : le candidat macroniste Ambroise Méjean épinglé pour être «au chômage pendant la campagne»",
+    "contenu": "Interrogé par un créateur de contenu durant un tractage pour les élections européennes, le président des «Jeunes avec Macron» (JAM) indique, face caméra, qu’il est «au chômage pendant la période de la campagne électorale» et qu’il «touche 2500 euros par mois».",
+    "url": "https://www.lefigaro.fr/elections/europeennes/europeennes-le-candidat-macroniste-ambroise-mejean-epingle-pour-etre-au-chomage-pendant-la-campagne-20240517",
+    "date": "2024-05-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1869,
+        "value": "Ambroise Méjean"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2265,
     "titre": "Hôtels de luxe et vols en classe affaires : les notes de frais du gouverneur de la Banque de France en question",
     "contenu": "François Villeroy de Galhau a dépensé en 2023 plus de 50 000 euros en transports, hébergements et restaurants. Un train de vie à part, même au sein de la très haute fonction publique.",
@@ -36,6 +709,103 @@
     "a_la_une": false
   },
   {
+    "id": 2279,
+    "titre": "Pfizergate\" et SMS : tout comprendre à l’affaire qui menace Ursula von der Leyen",
+    "contenu": "En avril 2021, le New York Times révélait que la présidente de la Commission européenne avait négocié directement par SMS avec Albert Bourla, le patron de Pfizer, un contrat de 1,8 milliard de doses de vaccin contre le Covid, durant la pandémie. Ce vendredi 17 mai, une première audience s'est tenue au Tribunal de Liège.",
+    "url": "https://www.marianne.net/politique/pfizergate-et-sms-tout-comprendre-a-laffaire-qui-menace-ursula-von-der-leyen",
+    "date": "2024-05-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1306,
+        "value": "Ursula von der Leyen"
+      },
+      {
+        "id": 1879,
+        "value": "Frédéric Baldan"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 175,
+        "value": "Commission Européenne"
+      },
+      {
+        "id": 825,
+        "value": "Pfizer"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2268,
+    "titre": "Affaire du Marché couvert : l'annulation du contrat de concession des halles du Puy-en-Velay demandée au tribunal administratif",
+    "contenu": "Alors que l'enquête judiciaire du Parquet national financier se poursuit, la rapporteure publique du tribunal administratif de Clermont-Ferrand vient de demander l'annulation du contrat de concession des halles du Marché couvert du Puy-en-Velay, ce 16 mai, avec effet différé à douze mois. Réponse d'ici à quinze jours.",
+    "url": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/l-annulation-du-contrat-de-concession-des-halles-du-puy-en-velay-demandee-au-tribunal-administratif_14502136/",
+    "date": "2024-05-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2737,
+        "value": "43 - Haute-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 612,
+        "value": "Alexis Haon"
+      },
+      {
+        "id": 1870,
+        "value": "Guillaume Fourcade"
+      },
+      {
+        "id": 1871,
+        "value": "Frédéric Bayer"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 820,
+        "value": "Marché Couvert - Les Halles Ponotes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2266,
     "titre": "Fiche de paie du Président, conventions de mécénat des grandes écoles… L’accès aux documents administratifs, transparent pauvre de la vie publique",
     "contenu": "Dans les faits, la Commission d’accès aux documents administratifs a pour but de faciliter la consultation de ces derniers par tous. Mais face au manque d’information des agents de l’Etat et l’opacité persistante, des citoyens se démènent pour «lever au maximum les barrières».",
@@ -61,6 +831,54 @@
       {
         "id": 819,
         "value": "Ma dada"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2269,
+    "titre": "Villejuif : l’affaire de corruption autour de la halle des sports renvoyée en décembre",
+    "contenu": "L’ancien maire de Villejuif, Franck Le Bohellec, la société Demathieu Bard Immobilier et cinq autres prévenus seront finalement jugés le 11 décembre pour l’attribution du marché de la halle des sports Colette Besson. Le procès a été renvoyé ce matin.",
+    "url": "https://94.citoyens.com/2024/villejuif-laffaire-de-corruption-autour-de-la-halle-des-sports-renvoyee-en-decembre,16-05-2024.html",
+    "date": "2024-05-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2781,
+        "value": "94 - Val-de-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1564,
+        "value": "Franck Le Bohellec"
+      },
+      {
+        "id": 1872,
+        "value": "Demathieu Bard"
+      },
+      {
+        "id": 1873,
+        "value": "Michel Monin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 33,
+        "value": "Brigade de répression de la délinquance économique (BRDE)"
+      },
+      {
+        "id": 821,
+        "value": "Halle des Sports Colette Besson"
       }
     ],
     "categorie": [
