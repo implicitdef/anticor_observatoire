@@ -1,5 +1,59 @@
 [
   {
+    "id": 2295,
+    "titre": "Prise illégale d’intérêt et favoritisme : le directeur d’un hôpital du Morbihan condamné à Limoges",
+    "contenu": "Le 7 mai 2024, Thomas Roux, directeur de l’Établissement public de santé mentale (EPSM) du Morbihan, a été condamné à 15 000 € d’amende pour prise illégale d’intérêt et favoritisme alors qu’il était directeur du Centre hospitalier d’Esquirol à Limoges (Haute-Vienne), entre 2018 et 2020. Il a fait appel de cette décision.",
+    "url": "https://www.ouest-france.fr/sante/hopital/prise-illegale-dinteret-et-favoritisme-le-directeur-dun-hopital-du-morbihan-condamne-a-limoges-657ab042-1905-11ef-89e1-9d0ea397ae43",
+    "date": "2024-05-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2747,
+        "value": "56 - Morbihan"
+      },
+      {
+        "id": 2777,
+        "value": "87 - Haute-Vienne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1815,
+        "value": "Thomas Roux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 796,
+        "value": "Centre Hospitalier Esquirol de Limoges"
+      },
+      {
+        "id": 833,
+        "value": "Établissement public de santé mentale (EPSM) Morbihan"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2287,
     "titre": "Roland-Garros : le rapport secret de l'Inspection générale sur la gestion de la billetterie",
     "contenu": "À la suite de scandales à répétition, l'Inspection générale a livré un rapport secret, recommandant de confier la billetterie à une « autorité interne indépendante » et suggérant de créer une société commerciale, sur le modèle pourtant décrié du football.",
@@ -343,6 +397,37 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2294,
+    "titre": "Soupçons de prise illégale d'intérêts et de détournement de fonds publics dans l'Eure : le parquet général de Rouen entre dans la danse",
+    "contenu": "Malgré deux classements sans suite, une procédure de recours hiérarchique a été lancée afin que le parquet général de Rouen enjoigne le parquet d’Évreux d’engager des poursuites contre les élus du Val d’Hazey visés par des soupçons de plusieurs infractions, allant de la prise illégale d'intérêts au détournement de fonds publics.",
+    "url": "https://www.lepoulpe.info/soupcons-de-prise-illegale-d-interets-et-de-detournement-de-fonds-publics-dans-l-eure-le-parquet-general-de-rouen-entre-dans-la-danse",
+    "date": "2024-05-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2719,
+        "value": "27 - Eure"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2278,
