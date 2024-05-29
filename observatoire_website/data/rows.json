@@ -1,5 +1,50 @@
 [
   {
+    "id": 2296,
+    "titre": "Stéphane Ravier, sénateur Reconquête !, condamné à six mois de prison avec sursis et inéligibilité d’un an",
+    "contenu": "Le sénateur (Reconquête !) des Bouches-du-Rhône, Stéphane Ravier, a été condamné à six mois de prison avec sursis et un an d’inéligibilité, sans exécution provisoire, mercredi 29 mai, par le tribunal correctionnel de Marseille, pour prise illégale d’intérêts. Son fils, Thomas Ravier, qu’il avait fait embaucher à la ville de Marseille quand il était maire de secteur, en 2015, a lui été condamné à 10 000 euros d’amende dont 5 000 euros avec sursis, et à un an d’inéligibilité, là encore sans exécution provisoire.",
+    "url": "https://www.lemonde.fr/politique/article/2024/05/29/le-senateur-de-reconquete-stephane-ravier-condamne-a-six-mois-de-prison-avec-sursis-et-ineligibilite-d-un-an-pour-prise-illegale-d-interets_6236149_823448.html",
+    "date": "2024-05-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1104,
+        "value": "Stéphane Ravier"
+      },
+      {
+        "id": 1708,
+        "value": "Thomas Ravier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 179,
+        "value": "Reconquête"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2295,
     "titre": "Prise illégale d’intérêt et favoritisme : le directeur d’un hôpital du Morbihan condamné à Limoges",
     "contenu": "Le 7 mai 2024, Thomas Roux, directeur de l’Établissement public de santé mentale (EPSM) du Morbihan, a été condamné à 15 000 € d’amende pour prise illégale d’intérêt et favoritisme alors qu’il était directeur du Centre hospitalier d’Esquirol à Limoges (Haute-Vienne), entre 2018 et 2020. Il a fait appel de cette décision.",
