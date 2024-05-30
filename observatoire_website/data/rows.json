@@ -66,6 +66,55 @@
     "a_la_une": true
   },
   {
+    "id": 2299,
+    "titre": "Paris : un ancien adjoint d’Anne Hidalgo convoqué devant la justice",
+    "contenu": "Hermano Sanches Ruivo, adjoint en charge de l’Europe, avait démissionné en décembre 2021 après avoir été entendu par la police dans une affaire de délit de blanchiment de fraude fiscale. Il sera jugé en novembre pour abus de confiance et prise illégale d’intérêts.",
+    "url": "https://www.leparisien.fr/paris-75/paris-un-ancien-adjoint-danne-hidalgo-convoque-devant-la-justice-29-05-2024-IUQKYC237VDH5M2SH3E7VWX3XQ.php",
+    "date": "2024-05-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 657,
+        "value": "Anne Hidalgo"
+      },
+      {
+        "id": 1889,
+        "value": "Hermano Sanches Ruivo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 834,
+        "value": "Cap Magellan"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2296,
     "titre": "Stéphane Ravier, sénateur Reconquête !, condamné à six mois de prison avec sursis et inéligibilité d’un an",
     "contenu": "Le sénateur (Reconquête !) des Bouches-du-Rhône, Stéphane Ravier, a été condamné à six mois de prison avec sursis et un an d’inéligibilité, sans exécution provisoire, mercredi 29 mai, par le tribunal correctionnel de Marseille, pour prise illégale d’intérêts. Son fils, Thomas Ravier, qu’il avait fait embaucher à la ville de Marseille quand il était maire de secteur, en 2015, a lui été condamné à 10 000 euros d’amende dont 5 000 euros avec sursis, et à un an d’inéligibilité, là encore sans exécution provisoire.",
