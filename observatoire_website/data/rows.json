@@ -66,10 +66,10 @@
     "a_la_une": true
   },
   {
-    "id": 2299,
-    "titre": "Paris : un ancien adjoint d’Anne Hidalgo convoqué devant la justice",
-    "contenu": "Hermano Sanches Ruivo, adjoint en charge de l’Europe, avait démissionné en décembre 2021 après avoir été entendu par la police dans une affaire de délit de blanchiment de fraude fiscale. Il sera jugé en novembre pour abus de confiance et prise illégale d’intérêts.",
-    "url": "https://www.leparisien.fr/paris-75/paris-un-ancien-adjoint-danne-hidalgo-convoque-devant-la-justice-29-05-2024-IUQKYC237VDH5M2SH3E7VWX3XQ.php",
+    "id": 2301,
+    "titre": "Gouvernement de Gabriel Attal : 9 ministres épinglés par la HATVP pour leur retard sur leurs déclarations d’intérêts et de patrimoine",
+    "contenu": "La Haute Autorité pour la transparence de la vie publique a déploré « une première regrettable » sans dévoiler les noms des ministres concernés.",
+    "url": "https://www.huffingtonpost.fr/politique/article/gouvernement-de-gabriel-attal-9-ministres-epingles-par-la-hatvp-pour-leur-retard-sur-leurs-declarations-d-interets-et-de-patrimoine_234696.html",
     "date": "2024-05-29",
     "etiquettes": "",
     "departement": [
@@ -80,37 +80,24 @@
     ],
     "personnalites": [
       {
-        "id": 657,
-        "value": "Anne Hidalgo"
-      },
-      {
-        "id": 1889,
-        "value": "Hermano Sanches Ruivo"
+        "id": 918,
+        "value": "Gabriel Attal"
       }
     ],
     "personnes_morales": [
       {
-        "id": 14,
-        "value": "Parti Socialiste (PS)"
-      },
-      {
-        "id": 834,
-        "value": "Cap Magellan"
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
       }
     ],
     "categorie": [
       {
-        "id": 2652,
-        "value": "Probité"
+        "id": 2651,
+        "value": "Actualité"
       }
     ],
     "theme": [],
-    "procedure": [
-      {
-        "id": 2695,
-        "value": "Procès"
-      }
-    ],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -158,6 +145,181 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2299,
+    "titre": "Un ancien adjoint d’Anne Hidalgo convoqué devant la justice",
+    "contenu": "Hermano Sanches Ruivo, adjoint en charge de l’Europe, avait démissionné en décembre 2021 après avoir été entendu par la police dans une affaire de délit de blanchiment de fraude fiscale. Il sera jugé en novembre pour abus de confiance et prise illégale d’intérêts.",
+    "url": "https://www.leparisien.fr/paris-75/paris-un-ancien-adjoint-danne-hidalgo-convoque-devant-la-justice-29-05-2024-IUQKYC237VDH5M2SH3E7VWX3XQ.php",
+    "date": "2024-05-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 657,
+        "value": "Anne Hidalgo"
+      },
+      {
+        "id": 1889,
+        "value": "Hermano Sanches Ruivo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 834,
+        "value": "Cap Magellan"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2303,
+    "titre": "La campagne des législatives 2022 d’Éric Ciotti dans le viseur d’Anticor",
+    "contenu": "Le référent pour les Alpes-Maritimes de l’association de lutte contre la corruption en politique a fait un signalement au Procureur de la République de Nice et au Parquet national financier.",
+    "url": "https://www.nicematin.com/politique/la-campagne-des-legislatives-2022-d-eric-ciotti-dans-le-viseur-d-anticor-923767",
+    "date": "2024-05-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 123,
+        "value": "Éric Ciotti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2302,
+    "titre": "Le maire d'Étampes de nouveau placé en garde à vue",
+    "contenu": "Le maire d'Étampes (Essonne) Franck Marlin a été placé en garde à vue ce mardi 28 mai dans la matinée, notamment pour abus de confiance et prise illégale d'intérêt, trois mois après une première garde à vue pour détournement de fonds publics. En février, le maire DVD de 59 ans avait été relâché dans la journée après avoir été placé en garde à vue pour détournement de fonds publics. Cette fois-là, la procédure avait été démarrée après un signalement de l'association Anticor sur la situation budgétaire de la ville.",
+    "url": "https://www.bfmtv.com/paris/essonne-le-maire-d-etampes-a-nouveau-place-en-garde-a-vue_AD-202405280820.html",
+    "date": "2024-05-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2764,
+        "value": "91 - Essonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1391,
+        "value": "Franck Marlin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2300,
+    "titre": "Le maire d'Homécourt accusé d'avoir détourné 37.000 euros à des fins personnelles",
+    "contenu": "Un collectif d'élus d'Homécourt dans le Pays-haut a porté plainte contre le maire de la commune. Jean Toniolo est accusé d'avoir détourné 37.000 euros depuis le début de son mandat en 2020. L'intéressé s'en défend et évoque une manœuvre politique.",
+    "url": "https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/le-maire-d-homecourt-accuse-d-avoir-detourne-37-000-euros-a-des-fins-personnelles-c-est-une-calomnie-affirme-jean-toniolo-2976677.html",
+    "date": "2024-05-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2746,
+        "value": "54 - Meurthe-et-Moselle"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1890,
+        "value": "Jean Toniolo"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2298,
