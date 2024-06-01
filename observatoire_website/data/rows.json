@@ -80,6 +80,37 @@
     "a_la_une": false
   },
   {
+    "id": 2315,
+    "titre": "Auberge de jeunesse de Clermont-Ferrand : une enquête ouverte après un signalement d’Anticor",
+    "contenu": "Symbole de la réhabilitation d’une friche industrielle, l’auberge de jeunesse de Clermont-Ferrand fait l’objet d’une enquête par le parquet local car l’ancien directeur général des services de la métropole était également le président de la Fédération unie des auberges de jeunesse, qui n’est autre que l’exploitant actuel du lieu.",
+    "url": "https://www.marianne.net/politique/petites-indiscretions-grosses-revelations/auberge-de-jeunesse-de-clermont-ferrand-une-enquete-ouverte-apres-un-signalement-danticor",
+    "date": "2024-05-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2753,
+        "value": "63 - Puy-de-Dôme"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2312,
     "titre": "Emmanuel Macron promet à la FIFA un écrin fiscal en 2025",
     "contenu": "À la demande du président de la République, une disposition fiscale favorable à la FIFA sera proposée dans le cadre du projet de loi de finances 2025. L'organisation menée par Gianni Infantino avait suspendu son projet de transfert de siège à Paris après la censure par le Conseil constitutionnel, en décembre, d'une mouture particulièrement avantageuse.",
@@ -132,6 +163,42 @@
         "value": "Lobbying / Influence"
       }
     ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2317,
+    "titre": "Nasser al-Khelaïfi entendu comme partie civile dans l’affaire des barbouzeries",
+    "contenu": "Le président qatari du Paris Saint-Germain Nasser Al-Khelaïfi a été entendu le 13 mai comme partie civile dans l’enquête sur les barbouzeries dont sont soupçonnés deux anciens membres du club, un lobbyiste et des policiers.",
+    "url": "https://www.ouest-france.fr/sport/football/paris-sg/psg-nasser-al-khelaifi-entendu-comme-partie-civile-dans-laffaire-des-barbouzeries-0014c93c-1e95-11ef-9302-e3fef0044a0c",
+    "date": "2024-05-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 968,
+        "value": "Nasser al-Khelaïfi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 166,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -267,6 +334,41 @@
       {
         "id": 2651,
         "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2316,
+    "titre": "Soupçons d'ingérence russe : des perquisitions ont été menées au Parlement européen à Bruxelles et à Strasbourg",
+    "contenu": "Des enquêteurs se sont rendus au domicile et au bureau d'un collaborateur parlementaire. Le parquet fédéral belge évoque des indices selon lesquels \"des membres du Parlement européen auraient été approchés et payés\".",
+    "url": "https://www.francetvinfo.fr/monde/europe/soupcons-d-ingerence-russe-des-perquisitions-ont-ete-menees-au-parlement-europeen-a-bruxelles-et-a-strasbourg_6572453.html",
+    "date": "2024-05-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
       }
     ],
     "theme": [],
