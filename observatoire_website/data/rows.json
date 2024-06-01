@@ -1,5 +1,142 @@
 [
   {
+    "id": 2307,
+    "titre": "Incarcéré depuis le 21 mars dans l’affaire de la voyante, le maire Gilles d’Ettore a démissionné",
+    "contenu": "Gilles d’Ettore (LR) n’est plus le maire d’Agde. Mis en examen pour détournements de fonds par une personne dépositaire de l’autorité publique, prises illégales d’intérêts et corruption, il est en détention provisoire depuis le 21 mars. L’édile, élu sans discontinuer à la tête de la commune depuis 2001, en a fait la demande auprès du préfet Francois-Xavier Lauch, qui l’a accepté.",
+    "url": "https://www.20minutes.fr/politique/4094010-20240531-agde-incarcere-depuis-21-mars-affaire-voyante-maire-gilles-ettore-demissionne",
+    "date": "2024-05-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1457,
+        "value": "Gilles d'Ettore"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2309,
+    "titre": "Quand la Japan Tobacco s'incruste à l'Assemblée pour la Journée mondiale sans tabac",
+    "contenu": "Deux lobbyistes du cigarettier ont tenté de s'infiltrer en catimini à un colloque organisé au Palais Bourbon par l'Alliance contre le tabac avec le parrainage du ministère de la santé. Démasquées, elles ont finalement été éconduites.",
+    "url": "https://www.lalettre.fr/fr/action-publique_lobbying/2024/05/31/quand-la-japan-tobacco-s-incruste-a-l-assemblee-pour-la-journee-mondiale-sans-tabac%2C110243039-gra?cxt=PUB&utm_source=LLA&utm_medium=email&utm_campaign=AUTO_EDIT_SOM_PROS&did=109825881",
+    "date": "2024-05-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 466,
+        "value": "Japan Tobacco International (JTI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      },
+      {
+        "id": 2684,
+        "value": "Tabac"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2312,
+    "titre": "Emmanuel Macron promet à la FIFA un écrin fiscal en 2025",
+    "contenu": "À la demande du président de la République, une disposition fiscale favorable à la FIFA sera proposée dans le cadre du projet de loi de finances 2025. L'organisation menée par Gianni Infantino avait suspendu son projet de transfert de siège à Paris après la censure par le Conseil constitutionnel, en décembre, d'une mouture particulièrement avantageuse.",
+    "url": "https://www.lalettre.fr/fr/action-publique_elysee-matignon/2024/05/30/emmanuel-macron-promet-a-la-fifa-un-ecrin-fiscal-en-2025%2C110242561-eve",
+    "date": "2024-05-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 648,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 838,
+        "value": "Gianni Infantino"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 187,
+        "value": "Fédération internationale de football association (FIFA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 2683,
+        "value": "Sport"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2297,
     "titre": "Affaire des cabinets de conseil : perquisition au ministère de la santé dans le cadre d’une information judiciaire pour « favoritisme »",
     "contenu": "Les gendarmes de la section de recherches de Paris ont perquisitionné le siège du ministère, ciblant le recours croissant par l’Etat aux cabinets de conseil, dont McKinsey, étroitement lié au chef de l’Etat.",
@@ -64,6 +201,42 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2314,
+    "titre": "Condamné dans l’affaire de la SPL Sudec, André Thien-Ah-Koon reste maire du Tampon pour le moment",
+    "contenu": "Perdu à l'annonce du délibéré, le fauteuil de maire du Tampon reste bien à André Thien-Ah-Koon pour le moment. Une erreur de frappe s'est glissée à la rédaction du document de justice qui le condamnait à une peine de 5 ans d'inéligibilité assortie d'une exécution provisoire. La décision finale tombera dans une quinzaine de jours.",
+    "url": "https://la1ere.francetvinfo.fr/reunion/tampon/condamne-dans-l-affaire-de-la-spl-sudec-andre-thien-ah-koon-reste-maire-du-tampon-pour-le-moment-1492163.html",
+    "date": "2024-05-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2786,
+        "value": "974 - La Réunion"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1877,
+        "value": "André Thien Ah Koon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 651,
+        "value": "Sudec"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2301,
@@ -196,6 +369,151 @@
     "a_la_une": true
   },
   {
+    "id": 2305,
+    "titre": "Accusations de corruption : au Cameroun, l’énième pépin judiciaire africain de Vincent Bolloré",
+    "contenu": "Choisi en 2015 pour exploiter le nouveau terminal pour containers de Kribi, dans le sud du pays, l’homme d’affaires breton a été accusé de corruption par un ancien directeur général adjoint de l’une de ses filiales. Une enquête est en cours à Paris.",
+    "url": "https://www.liberation.fr/societe/police-justice/accusations-de-corruption-au-cameroun-lenieme-pepin-judiciaire-africain-de-vincent-bollore-20240528_6LD5APGMCVBP7J2ZDIONB2IPDI/?redirected=1",
+    "date": "2024-05-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3031,
+        "value": "Cameroun"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 641,
+        "value": "Vincent Bolloré"
+      },
+      {
+        "id": 767,
+        "value": "François Hollande"
+      },
+      {
+        "id": 1601,
+        "value": "Paul Biya"
+      },
+      {
+        "id": 1891,
+        "value": "Philémon Mendo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 60,
+        "value": "Bolloré"
+      },
+      {
+        "id": 62,
+        "value": "Bolloré Africa Logistics"
+      },
+      {
+        "id": 721,
+        "value": "CMA CGM (Compagnie maritime d'affrètement - Compagnie générale maritime)"
+      },
+      {
+        "id": 835,
+        "value": "China Harbour Engineering Company (CHEC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2308,
+    "titre": "Affaire du maire d'Agde et de la voyante : trois nouvelles personnes mises en examen",
+    "contenu": "Un promoteur immobilier a été mis en examen le 14 mai dernier dans le cadre de cette affaire, a révélé le procureur de Béziers. Ce lundi, la fille de la voyante et un \"ami très proche\" ont été mis en examen à leur tour, soupçonnés d'avoir bénéficié d'emplois accordés par le maire.",
+    "url": "https://www.tf1info.fr/justice-faits-divers/affaire-du-maire-d-agde-et-de-la-voyante-trois-nouvelles-personnes-mises-en-examen-2301456.html",
+    "date": "2024-05-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1457,
+        "value": "Gilles d'Ettore"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2310,
+    "titre": "Cabinets de conseil : deuxième feu vert du Sénat, qui renvoie la balle au gouvernement",
+    "contenu": "Le Sénat a adopté mardi en deuxième lecture, à l'unanimité, la proposition de loi destinée à encadrer les prestations de conseil commandées par les administrations aux cabinets privés, et exhorté le gouvernement à rapidement la faire examiner par l'Assemblée nationale. Plus d'un an et demi après l'examen du texte en première lecture, le scénario s'est répété: la plupart des amendements défendus par le gouvernement ont été rejetés, notamment celui qui visait à soumettre les collectivités locales aux nouvelles obligations.",
+    "url": "https://www.bfmtv.com/economie/entreprises/cabinets-de-conseil-deuxieme-feu-vert-du-senat-qui-renvoie-la-balle-au-gouvernement_AD-202405280844.html",
+    "date": "2024-05-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2303,
     "titre": "La campagne des législatives 2022 d’Éric Ciotti dans le viseur d’Anticor",
     "contenu": "Le référent pour les Alpes-Maritimes de l’association de lutte contre la corruption en politique a fait un signalement au Procureur de la République de Nice et au Parquet national financier.",
@@ -318,6 +636,185 @@
         "value": "Plainte"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2311,
+    "titre": "Le Tennis club de Sathonay-Village soupçonné de détournement de fonds publics",
+    "contenu": "Le tennis club de Sathonay-Village est dans le viseur de la justice. Une enquête a été ouverte par le parquet de Lyon pour des soupçons de \"détournement de fonds publics\". \"Les investigations sont toujours en cours\", a confirmé le parquet de Lyon, précisant qu’un adhérant de cette association a signalé avoir été auditionné par des gendarmes de la brigade financière.",
+    "url": "https://www.lyoncapitale.fr/actualite/le-tennis-club-de-sathonay-village-soupconne-de-detournement-de-fonds-publics",
+    "date": "2024-05-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 837,
+        "value": "Tennis club de Sathonay-Village"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2304,
+    "titre": "Les factures de la maire de Rognac et de son prédécesseur interrogent la justice",
+    "contenu": "Une enquête préliminaire a été ouverte le 17 avril par le parquet d’Aix-en-Provence concernant la gestion des fonds municipaux de la ville des Bouches-du-Rhône par Sylvie Miceli-Houdais (UDI) et son prédécesseur, le sénateur Stéphane Le Rudulier (LR).",
+    "url": "https://www.lemonde.fr/societe/article/2024/05/28/les-factures-de-la-maire-de-rognac-et-de-son-predecesseur-interrogent-la-justice_6235935_3224.html",
+    "date": "2024-05-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 898,
+        "value": "Stéphane Le Rudulier"
+      },
+      {
+        "id": 899,
+        "value": "Sylvie Miceli-Houdais"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 254,
+        "value": "Union des démocrates et indépendants (UDI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2306,
+    "titre": "Vincent Bolloré, la top-modèle et les contrats africains : ces mails qui font trembler le milliardaire",
+    "contenu": "Pendant quatre ans, l’ancienne mannequin Tasha de Vasconcelos a collaboré avec le groupe de l’homme d’affaires en Afrique. Avant de l’accuser de harcèlement, d’abus de pouvoir et de corruption.",
+    "url": "https://www.liberation.fr/societe/police-justice/vincent-bollore-la-top-modele-et-les-contrats-africains-ces-mails-qui-font-trembler-le-milliardaire-20240528_4MO4HXTEDVHBDKATEA63U5KZUQ/?redirected=1",
+    "date": "2024-05-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3031,
+        "value": "Cameroun"
+      },
+      {
+        "id": 3040,
+        "value": "Bénin"
+      },
+      {
+        "id": 3052,
+        "value": "Niger"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 641,
+        "value": "Vincent Bolloré"
+      },
+      {
+        "id": 1892,
+        "value": "Tasha de Vasconcelos"
+      },
+      {
+        "id": 1893,
+        "value": "Thierry Lacoste"
+      },
+      {
+        "id": 1894,
+        "value": "Claude Palmero"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 836,
+        "value": "Société camerounaise de palmeraies (SOCAPALM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2313,
+    "titre": "À Vénissieux, un signalement pour prise illégale d'intérêts et détournement de fonds publics",
+    "contenu": "L'opposition vénissiane a procédé à un signalement auprès du procureur de la République pour des soupçons de prise illégale d'intérêts et de détournement de fonds publics.",
+    "url": "https://www.lyoncapitale.fr/actualite/a-venissieux-un-signalement-pour-prise-illegale-d-interets-et-detournements-de-fonds-publics",
+    "date": "2024-05-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1285,
+        "value": "Michèle Picard"
+      },
+      {
+        "id": 1895,
+        "value": "Quentin Taïeb"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -591,7 +1088,12 @@
         "value": "Christelle Mondon"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 651,
+        "value": "Sudec"
+      }
+    ],
     "categorie": [
       {
         "id": 2652,
@@ -2867,7 +3369,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [],
@@ -4742,7 +5244,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [],
@@ -5146,7 +5648,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [
@@ -7193,7 +7695,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       },
       {
         "id": 2672,
@@ -7919,7 +8421,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       },
       {
         "id": 2672,
@@ -10610,7 +11112,7 @@
       },
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [],
@@ -13173,7 +13675,7 @@
       },
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [],
@@ -42663,7 +43165,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [
@@ -43917,7 +44419,7 @@
       },
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       },
       {
         "id": 2677,
@@ -47009,7 +47511,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [
@@ -53997,7 +54499,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [],
@@ -54237,7 +54739,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       },
       {
         "id": 2685,
@@ -55435,7 +55937,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       },
       {
         "id": 2672,
@@ -56053,7 +56555,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [],
@@ -57196,7 +57698,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [],
@@ -57700,7 +58202,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [],
@@ -58063,7 +58565,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [],
@@ -58633,7 +59135,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [
@@ -58687,7 +59189,7 @@
       },
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [
@@ -60885,7 +61387,7 @@
     "theme": [
       {
         "id": 2687,
-        "value": "Transports"
+        "value": "Transports / Logistique"
       }
     ],
     "procedure": [],
