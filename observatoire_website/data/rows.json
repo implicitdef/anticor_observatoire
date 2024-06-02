@@ -62582,21 +62582,36 @@
   {
     "id": 1204,
     "titre": "Une plainte pour favoritisme au Parquet national financier contre la présidente d’Entre Bièvre et Rhône",
-    "contenu": "Ancien exploitant du Domaine de la Colombière à Moissieu-sur-Dolon, Gilbert Carle a déposé une plainte pour favoritisme visant Sylvie Dézarnaud, la présidente de la communauté de communes.\nLa plainte déposée par Gilbert Carle, créateur en 2000 avec sa femme du Domaine de la Colombière, qu’il a exploité jusqu’en 2010, vise Sylvie Dézarnaud, la présidente d’EBER, et un directeur de service pour favoritisme dans l’appel à projets lancé par la communauté de communes, ainsi que trois vice-présidents pour complicité de favoritisme.",
+    "contenu": "Ancien exploitant du Domaine de la Colombière à Moissieu-sur-Dolon, Gilbert Carle a déposé une plainte pour favoritisme visant Sylvie Dézarnaud, la présidente de la communauté de communes. La plainte déposée par Gilbert Carle, créateur en 2000 avec sa femme du Domaine de la Colombière, qu’il a exploité jusqu’en 2010, vise Sylvie Dézarnaud, la présidente d’EBER, et un directeur de service pour favoritisme dans l’appel à projets lancé par la communauté de communes, ainsi que trois vice-présidents pour complicité de favoritisme.",
     "url": "https://www.ledauphine.com/faits-divers-justice/2022/05/15/isere-moissieu-sur-dolon-une-plainte-au-parquet-national-financier-contre-la-presidente-d-entre-bievre-et-rhone",
     "date": "2022-05-15",
-    "etiquettes": "38 - Isère,Sylvie Dézarnaud",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2732,
         "value": "38 - Isère"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1899,
+        "value": "Sylvie Dézarnaud"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -62647,18 +62662,43 @@
     "contenu": "Renvoyée devant le tribunal judiciaire d’Évreux pour prise et recel de prise illégale d’intérêts jeudi 12 mai 2022, Clarisse Juin, ancienne présidente d’Eure Habitat et ancienne conseillère départementale de l’Eure, a été condamnée à une amende de 5 000 €.\nQue lui est-il reproché ? Que son mari, expert en mycologie et parasite divers du bois, soit sollicité aux côtés d’un expert national. Ils ne sont que trois en France à détenir cette certification permettant d’expertiser l’état, entre autres, de charpente et autres bâtiments à structure de bois.",
     "url": "https://www.paris-normandie.fr/id306217/article/2022-05-13/5-000-eu-damende-pour-lancienne-conseillere-departementale-de-leure",
     "date": "2022-05-13",
-    "etiquettes": "27 - Eure,Clarisse Juin,Heure Habitat",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2719,
         "value": "27 - Eure"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 1901,
+        "value": "Clarisse Juin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 839,
+        "value": "Eure Habitat"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3053,
+        "value": "Logement"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -62668,39 +62708,69 @@
     "contenu": "Le tribunal de Carpentras a rendu hier son délibéré concernant Anne-Lise Choquet, ancienne directrice générale des services de la mairie d’Entraigues. Cette dernière avait été jugée lors d’une audience en mars dernier pour avoir utilisé à des fins personnelles une carte bleue mise à sa disposition par la mairie. L’ancienne DGS avait reconnu a minima ces faits qui s’étaient produits de 2010 à 2014.",
     "url": "https://www.laprovence.com/actu/en-direct/6763565/entraigues-prison-avec-sursis-pour-lancienne-dgs-jugee-coupable-de-detournement-de-fonds.html",
     "date": "2022-05-13",
-    "etiquettes": "84 – Vaucluse,Anne-Lise Choquet",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2774,
         "value": "84 - Vaucluse"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1900,
+        "value": "Anne-Lise Choquet"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1208,
-    "titre": "Pays d’Ancenis. Le maire de Vair-sur-Loire condamné à deux ans d’inéligibilité",
+    "titre": "Le maire de Vair-sur-Loire condamné à deux ans d’inéligibilité",
     "contenu": "​Jeudi 12 mai, le maire de Vair-sur-Loire, Éric Lucas a écopé de deux ans d’inéligibilité et 3 000 € d’amende. Il a aussitôt fait appel de la condamnation. Il lui est reproché deux délits de favoritisme dans des marchés publics. Le premier concerne des travaux de voirie, le second, un achat de camion benne.",
     "url": "https://www.ouest-france.fr/pays-de-la-loire/ancenis-saint-gereon-44150/pays-d-ancenis-le-maire-de-vair-sur-loire-condamne-a-deux-ans-d-ineligibilite-8adedfde-d2a3-11ec-8fd0-9941437d80ae",
     "date": "2022-05-13",
-    "etiquettes": "44 – Loire-Atlantique,Éric Lucas",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2738,
         "value": "44 - Loire-Atlantique"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1510,
+        "value": "Éric Lucas"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -62710,39 +62780,79 @@
     "contenu": "Philippe Gomès a été condamné, ce vendredi matin, dans l’affaire NCE - Nouvelle-Calédonie Énergie. Le délibéré vient de tomber un mois après sa comparution pour prise illégale d’intérêts, devant le tribunal correctionnel de Nouméa. La justice reproche au député d’avoir fait voter, en tant qu’élu, des subventions en faveur de NCE, à l’époque où il en était le président. Des faits qui remontent à 2016.",
     "url": "https://la1ere.francetvinfo.fr/nouvellecaledonie/philippe-gomes-condamne-dans-l-affaire-nouvelle-caledonie-energie-1283080.html",
     "date": "2022-05-13",
-    "etiquettes": "98 – Nouvelle Calédonie,Anticor,Philippe Gomès",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2788,
         "value": "98 - Nouvelle Calédonie"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 1902,
+        "value": "Philippe Gomès"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2666,
+        "value": "Énergie"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1211,
-    "titre": "Ardennes : Le maire de Rethel mis en examen pour une affaire détournement de fonds publics",
+    "titre": "Le maire de Rethel mis en examen pour une affaire détournement de fonds publics",
     "contenu": "Soupçonné d’avoir détourné des fonds publics lorsqu’il était maire d’Acy-Romance (Ardennes), le premier magistrat de Rethel a été mis en examen ce mercredi pour « soustraction, détournement, ou destruction de biens d’un dépôt public par le dépositaire ou un de ses subordonnés ».\nSelon France 3 Grand-Est, il est reproché à Joseph Afribo d’avoir laissé la mairie réceptionner en 1993 des enveloppes d’argent liquide remises par des agriculteurs pour des fermages sans contrat de bail. Son avocat assure qu’aucun enrichissement personnel ne peut être démontré dans ce dossier. Selon lui, ces sommes étaient de 800 euros par an.",
     "url": "https://www.20minutes.fr/faits_divers/3288731-20220512-ardennes-le-maire-de-rethel-mis-en-examen-pour-une-affaire-detournement-de-fonds-publics",
     "date": "2022-05-12",
-    "etiquettes": "08 - Ardennes,Joseph Afribo",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2705,
         "value": "08 - Ardennes"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1903,
+        "value": "Joseph Afribo"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -62752,17 +62862,45 @@
     "contenu": "Tout commence par une cargaison de purée de bananes qui se révèle cacher un trafic international de drogue. Sur les bords de l’étang de Berre, l’enquête a conduit à d’incroyables révélations sur un système de corruption au sein de l’organisme de logements sociaux de la ville. Une affaire aux allures de polar marseillais qui fragilise la mairie, communiste depuis 1959.",
     "url": "https://www.liberation.fr/societe/police-justice/martigues-la-cocaine-qui-mene-aux-hlm-qui-menent-aux-marches-truques-20220512_GKG5YNWI2BBYZHTD2VUXIPBXTM/",
     "date": "2022-05-12",
-    "etiquettes": "13 - Bouches-du-Rhône,Gaby Charroux,Parti communiste français,Semivim",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2708,
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnalites": [
+      {
+        "id": 1000,
+        "value": "Gaby Charroux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 298,
+        "value": "Société d'Economie Mixte Immobilière de la Ville de Martigues (SEMIVIM)"
+      },
+      {
+        "id": 300,
+        "value": "Parti communiste français (PCF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2664,
+        "value": "Drogue"
+      },
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -62773,27 +62911,96 @@
     "contenu": "L'association anticorruption française dévoile avoir porté plainte le 2 mai après des soupçons de favoritisme dans l'attribution d'un marché public qui remonte à septembre 2020. Les ministères de l'Éducation nationale et de l'Enseignement supérieur avaient lancé un appel d'offres pour \"la concession de droits d'usage à titre non exclusif, en mode perpétuel ou en mode locatif, de solutions Microsoft et services associés\". Un appel d'offres évalué à 8,3 millions d'euros. Très vite, le Conseil national du logiciel libre (CNLL) s'était inscrit en faux contre cet appel d'offres, jugeant qu'il favorisait injustement la société américaine au détriment d'entreprises françaises.",
     "url": "https://www.capital.fr/economie-politique/microsoft-a-t-il-ete-favorise-par-leducation-nationale-anticor-saisit-le-pnf-1436300",
     "date": "2022-05-12",
-    "etiquettes": "Anticor,Microsoft,Parquet National Financier",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 213,
+        "value": "Ministère de l'Éducation nationale"
+      },
+      {
+        "id": 840,
+        "value": "Microsoft"
+      },
+      {
+        "id": 841,
+        "value": "Union des entreprises du logiciel libre et du numérique ouvert / Conseil national du logiciel libre (CNLL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2685,
+        "value": "Technologies"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1214,
     "titre": "Au Mali, Jean-Yves Le Drian convoqué par la justice dans une enquête pour « atteinte aux biens publics »",
-    "contenu": "Dans un contexte de relations très tendues entre la France et le Mali, le ministre des affaires étrangères français, Jean-Yves Le Drian, est convoqué par la justice malienne dans le cadre d’une enquête portant sur une « atteinte aux biens publics et autres infractions », a fait savoir mercredi 11 mai un tribunal de Bamako.\nUn juge d’instruction du pôle économique et financier de Bamako « invite Monsieur Jean-Yves Le Drian à se présenter à son cabinet le lundi 20 juin 2022 pour affaire le concernant », précise la convocation, qui a été authentifiée à l’Agence France-Presse (AFP) par la justice malienne. Dans la soirée, le Quai d’Orsay a rapporté n’en avoir pas été informé. « Aucune notification ni information d’aucune sorte ne nous est parvenue par les canaux appropriés », a-t-il assuré.\nUne source judiciaire malienne a précisé que cette enquête faisait suite à la plainte d’une plate-forme de plusieurs associations de la société civile malienne, dénommée « Maliko » (« la cause du Mali »). « C’est une histoire d’attribution d’un marché de fabrication de passeports maliens à une société française [à laquelle] le fils de Le Drian serait lié », a ajouté cette source judiciaire.",
+    "contenu": "Dans un contexte de relations très tendues entre la France et le Mali, le ministre des affaires étrangères français, Jean-Yves Le Drian, est convoqué par la justice malienne dans le cadre d’une enquête portant sur une « atteinte aux biens publics et autres infractions », a fait savoir mercredi 11 mai un tribunal de Bamako. Un juge d’instruction du pôle économique et financier de Bamako « invite Monsieur Jean-Yves Le Drian à se présenter à son cabinet le lundi 20 juin 2022 pour affaire le concernant », précise la convocation, qui a été authentifiée à l’Agence France-Presse (AFP) par la justice malienne. Dans la soirée, le Quai d’Orsay a rapporté n’en avoir pas été informé. « Aucune notification ni information d’aucune sorte ne nous est parvenue par les canaux appropriés », a-t-il assuré.\nUne source judiciaire malienne a précisé que cette enquête faisait suite à la plainte d’une plate-forme de plusieurs associations de la société civile malienne, dénommée « Maliko » (« la cause du Mali »). « C’est une histoire d’attribution d’un marché de fabrication de passeports maliens à une société française [à laquelle] le fils de Le Drian serait lié », a ajouté cette source judiciaire.",
     "url": "https://www.lemonde.fr/afrique/article/2022/05/11/au-mali-jean-yves-le-drian-convoque-par-la-justice-dans-une-enquete-pour-atteinte-aux-biens-publics_6125694_3212.html",
     "date": "2022-05-11",
-    "etiquettes": "Gouvernement Jean Castex,Jean-Yves Le Drian,Ministère des Affaires étrangères,Territoire de progrès",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3054,
+        "value": "Mali"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1448,
+        "value": "Jean-Yves Le Drian"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 550,
+        "value": "Ministère des Affaires étrangères"
+      },
+      {
+        "id": 750,
+        "value": "Territoires de progrès – Mouvement social-réformiste (TDP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -62840,9 +63047,24 @@
         "value": "Airbus"
       }
     ],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -62852,59 +63074,23 @@
     "contenu": "Selon les informations du Canard enchaîné, mercredi 11 mai, l’actuelle mairie du Puy-en-Velay aurait truqué un marché de concession d’une halle gourmande pour ne pas déplaire à Laurent Wauquiez. Le Parquet national financier (PNF) a ouvert une enquête. Il dispose de 58 enregistrements, réalisés clandestinement, dans le bureau du \"service commerce de proximité\" commun à la ville et à la communauté d’agglomération. Dans ceux-ci, le nom de Laurent Wauquiez est souvent cité comme étant \"derrière\" la procédure.\nC’est en tout cas ce que révèlent les enregistrements et témoignages recueillis par les enquêteurs: \"Tu sais qui tu dois prendre et tu te démerdes pour qu’il soit pris…\", \"Le gars, là, il doit perdre parce que Wauquiez n’en veut pas\", \"Si ce n’était pas pipé d’avance, on ne serait pas dans ces situations-là\", ou encore \"Je préfère qu’on aille au tribunal plutôt que d’annoncer à Laurent Wauquiez que ça ne se passe pas comme prévu\". Ces propos ont été tenus par la responsable du \"service commerce\", elle se serait régulièrement plainte à son supérieur et des collègues de la charge de travail importante induite par cette affaire, laissant sous-entendre qu’elle a reçu des instructions.",
     "url": "https://www.capital.fr/economie-politique/la-mairie-de-puy-en-velay-accusee-davoir-truque-un-marche-public-pour-plaire-a-laurent-wauquiez-1436152",
     "date": "2022-05-11",
-    "etiquettes": "43 - Haute-Loire,Laurent Wauquiez,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2737,
         "value": "43 - Haute-Loire"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 1215,
-    "titre": "Soupçons de prise illégale d’intérêts : un procès requis contre Éric Dupond-Moretti",
-    "contenu": "Le procureur général près la Cour de cassation, François Molins, requiert un procès contre Éric Dupond-Moretti devant la Cour de justice de la République, mis en examen depuis juillet 2021 pour prise illégale d’intérêts. Selon un communiqué du parquet général près la Cour de cassation, le ministère public a jugé qu’il existait des « charges suffisantes » contre le ministre pour le renvoyer en procès. Il est soupçonné d’avoir lancé une enquête et des poursuites contre des magistrats qui lui avaient causé des problèmes alors qu’il était avocat.",
-    "url": "https://www.leparisien.fr/faits-divers/soupcons-de-prise-illegale-dinterets-un-proces-requis-contre-eric-dupond-moretti-10-05-2022-DBFD4LTGF5H7RJLFPE336ZAK5A.php?ts=1652195566771",
-    "date": "2022-05-10",
-    "etiquettes": "Éric Dupond-Moretti,La République En Marche,Ministère de la Justice",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 1219,
-    "titre": "Affaire LVMH-Squarcini : François Ruffin veut faire le procès de la justice négociée",
-    "contenu": "En décembre dernier, la justice parisienne a validé un accord – une CJIP donc – passé entre LVMH et le parquet pour des faits recouvrant deux paquets de délits présumés. Primo, des manœuvres occultes pour connaître le contenu d’une enquête pénale visant LVMH, déclenchée à l’initiative de son concurrent Hermès. Secundo, la surveillance, jusque dans sa vie privée, de François Ruffin mais aussi de la rédaction de son journal Fakir, basé à Amiens (Somme). Judiciairement, un homme, seize fois mis en examen et présumé innocent, fait aujourd’hui le lien entre ses deux volets du dossier : Bernard Squarcini, l’ancien chef des services secrets intérieurs sous Sarkozy, embauché au service de LVMH en 2013.\nLes avocats du député insoumis, Mes Laure Heinich et Benjamin Sarfati, ont demandé à la cour d’appel de Paris de juger comme excessif l’accord passé entre LVMH et la justice, mais aussi de transmettre au Conseil constitutionnel une question prioritaire de constitutionnalité (QPC), qui permet à toute partie à un procès de contester le bien fondé d’une loi au regard de la Constitution. De manière générale, ils ont estimé que la CJIP violait plusieurs principes constitutionnels élémentaires, à commencer par celui de l’égalité devant la loi, arguant d’un flou sur le champ d’application de la disposition et d’une absence de tout recours possible pour les victimes constituées dans un dossier.",
-    "url": "https://www.mediapart.fr/journal/france/090522/affaire-lvmh-squarcini-francois-ruffin-veut-faire-le-proces-de-la-justice-negociee",
-    "date": "2022-05-09",
-    "etiquettes": "Bernard Squarcini,François Ruffin,LVMH",
-    "departement": [],
     "personnalites": [
       {
-        "id": 496,
-        "value": "François Ruffin"
-      },
-      {
-        "id": 719,
-        "value": "Bernard Squarcini"
+        "id": 668,
+        "value": "Laurent Wauquiez"
       }
     ],
     "personnes_morales": [
       {
-        "id": 104,
-        "value": "LVMH - Moët Hennessy Louis Vuitton"
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
       }
     ],
     "categorie": [
@@ -62919,39 +63105,199 @@
     "a_la_une": false
   },
   {
-    "id": 1216,
-    "titre": "François Fillon condamné en appel à quatre ans de prison, dont un ferme dans l’affaire des emplois fictifs",
-    "contenu": "La cour d’appel de Paris a condamné, lundi 9 mai, l’ancien premier ministre François Fillon à quatre ans de prison, dont un ferme, et son épouse, Penelope, à deux ans de prison avec sursis et 375 000 euros d’amende, dans l’affaire des soupçons d’emplois fictifs. François Fillon, 68 ans, et Penelope Fillon, 66 ans, qui contestent depuis l’origine tout emploi fictif, n’étaient pas présents au prononcé de la décision, pas plus que l’ancien suppléant du premier au poste de député dans la Sarthe, Marc Joulaud, 54 ans.",
-    "url": "https://www.lemonde.fr/politique/article/2022/05/09/francois-fillon-condamne-en-appel-a-quatre-ans-de-prison-dont-un-ferme-dans-l-affaire-des-emplois-fictifs_6125351_823448.html",
-    "date": "2022-05-09",
-    "etiquettes": "François Fillon,Les Républicains,Pénélope Fillon",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 1218,
-    "titre": "Paris : Buon Tan, candidat La République en marche, soupçonné de détournement de fonds",
-    "contenu": "Élu municipal du 13e, chargé des questions économiques auprès du maire Jérôme Coumet (PS), et candidat LREM aux législatives, ce chef d’entreprise de 50 ans est actuellement au cœur d’une polémique. Et ce, à quelques jours du premier tour du scrutin. Buon Tan est visé par une plainte faisant état de soupçons de « détournement de fonds », à l’époque où il était président du Conseil représentatif des associations asiatiques de France (Craaf). Il y a deux semaines, l’association a adressé un courrier de trois pages au procureur de la République de Paris, qui a ouvert une enquête préliminaire.",
-    "url": "https://www.20minutes.fr/paris/2082655-20170608-paris-candidat-republique-marche-soupconne-detournement-fonds",
-    "date": "2022-05-09",
-    "etiquettes": "75 - Paris,Buon Tan,La République En Marche",
+    "id": 1215,
+    "titre": "Soupçons de prise illégale d’intérêts : un procès requis contre Éric Dupond-Moretti",
+    "contenu": "Le procureur général près la Cour de cassation, François Molins, requiert un procès contre Éric Dupond-Moretti devant la Cour de justice de la République, mis en examen depuis juillet 2021 pour prise illégale d’intérêts. Selon un communiqué du parquet général près la Cour de cassation, le ministère public a jugé qu’il existait des « charges suffisantes » contre le ministre pour le renvoyer en procès. Il est soupçonné d’avoir lancé une enquête et des poursuites contre des magistrats qui lui avaient causé des problèmes alors qu’il était avocat.",
+    "url": "https://www.leparisien.fr/faits-divers/soupcons-de-prise-illegale-dinterets-un-proces-requis-contre-eric-dupond-moretti-10-05-2022-DBFD4LTGF5H7RJLFPE336ZAK5A.php?ts=1652195566771",
+    "date": "2022-05-10",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2762,
         "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "personnalites": [
+      {
+        "id": 658,
+        "value": "Éric Dupond-Moretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1219,
+    "titre": "Affaire LVMH-Squarcini : François Ruffin veut faire le procès de la justice négociée",
+    "contenu": "En décembre dernier, la justice parisienne a validé un accord – une CJIP donc – passé entre LVMH et le parquet pour des faits recouvrant deux paquets de délits présumés. Primo, des manœuvres occultes pour connaître le contenu d’une enquête pénale visant LVMH, déclenchée à l’initiative de son concurrent Hermès. Secundo, la surveillance, jusque dans sa vie privée, de François Ruffin mais aussi de la rédaction de son journal Fakir, basé à Amiens (Somme). Judiciairement, un homme, seize fois mis en examen et présumé innocent, fait aujourd’hui le lien entre ses deux volets du dossier : Bernard Squarcini, l’ancien chef des services secrets intérieurs sous Sarkozy, embauché au service de LVMH en 2013.\nLes avocats du député insoumis, Mes Laure Heinich et Benjamin Sarfati, ont demandé à la cour d’appel de Paris de juger comme excessif l’accord passé entre LVMH et la justice, mais aussi de transmettre au Conseil constitutionnel une question prioritaire de constitutionnalité (QPC), qui permet à toute partie à un procès de contester le bien fondé d’une loi au regard de la Constitution. De manière générale, ils ont estimé que la CJIP violait plusieurs principes constitutionnels élémentaires, à commencer par celui de l’égalité devant la loi, arguant d’un flou sur le champ d’application de la disposition et d’une absence de tout recours possible pour les victimes constituées dans un dossier.",
+    "url": "https://www.mediapart.fr/journal/france/090522/affaire-lvmh-squarcini-francois-ruffin-veut-faire-le-proces-de-la-justice-negociee",
+    "date": "2022-05-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2770,
+        "value": "80 - Somme"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 496,
+        "value": "François Ruffin"
+      },
+      {
+        "id": 719,
+        "value": "Bernard Squarcini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      },
+      {
+        "id": 843,
+        "value": "Fakir"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1218,
+    "titre": "Buon Tan, candidat La République en marche, soupçonné de détournement de fonds",
+    "contenu": "Élu municipal du 13e, chargé des questions économiques auprès du maire Jérôme Coumet (PS), et candidat LREM aux législatives, ce chef d’entreprise de 50 ans est actuellement au cœur d’une polémique. Et ce, à quelques jours du premier tour du scrutin. Buon Tan est visé par une plainte faisant état de soupçons de « détournement de fonds », à l’époque où il était président du Conseil représentatif des associations asiatiques de France (Craaf). Il y a deux semaines, l’association a adressé un courrier de trois pages au procureur de la République de Paris, qui a ouvert une enquête préliminaire.",
+    "url": "https://www.20minutes.fr/paris/2082655-20170608-paris-candidat-republique-marche-soupconne-detournement-fonds",
+    "date": "2022-05-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1905,
+        "value": "Buon Tan"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 842,
+        "value": "Conseil représentatif des associations asiatiques de France (CRAAF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1216,
+    "titre": "François Fillon condamné en appel à quatre ans de prison, dont un ferme dans l’affaire des emplois fictifs",
+    "contenu": "La cour d’appel de Paris a condamné, lundi 9 mai, l’ancien premier ministre François Fillon à quatre ans de prison, dont un ferme, et son épouse, Penelope, à deux ans de prison avec sursis et 375 000 euros d’amende, dans l’affaire des soupçons d’emplois fictifs. François Fillon, 68 ans, et Penelope Fillon, 66 ans, qui contestent depuis l’origine tout emploi fictif, n’étaient pas présents au prononcé de la décision, pas plus que l’ancien suppléant du premier au poste de député dans la Sarthe, Marc Joulaud, 54 ans.",
+    "url": "https://www.lemonde.fr/politique/article/2022/05/09/francois-fillon-condamne-en-appel-a-quatre-ans-de-prison-dont-un-ferme-dans-l-affaire-des-emplois-fictifs_6125351_823448.html",
+    "date": "2022-05-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1388,
+        "value": "François Fillon"
+      },
+      {
+        "id": 1389,
+        "value": "Pénélope Fillon"
+      },
+      {
+        "id": 1752,
+        "value": "Marc Joulaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -62961,11 +63307,43 @@
     "contenu": "Le ministère public près la Cour de justice de la République (CJR) a annoncé lundi avoir requis un non-lieu pour l’ex-ministre du Budget Éric Woerth dans l’information judiciaire ouverte en 2019 sur un coup de pouce fiscal contesté accordé en 2009 à Bernard Tapie. Selon un communiqué du parquet général près la Cour de cassation, « l’élément intentionnel de l’infraction de concussion ne paraît pas être suffisamment caractérisé ». M. Woerth avait été mis en examen début juillet par des magistrats de la CJR pour avoir octroyé un avantage fiscal indu à M. Tapie, décédé en octobre d’un cancer, après l’arbitrage controversé de son conflit avec le Crédit lyonnais.",
     "url": "https://www.sudouest.fr/france/ristourne-fiscale-a-tapie-non-lieu-requis-pour-l-ex-ministre-eric-woerth-10873605.php",
     "date": "2022-05-09",
-    "etiquettes": "Bernard Tapie,Cour de Justice de la République,Eric Woerth,Les Républicains",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 574,
+        "value": "Éric Woerth"
+      },
+      {
+        "id": 1904,
+        "value": "Bernard Tapie"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 68,
+        "value": "Cour de Justice de la République (CJR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -62977,18 +63355,41 @@
     "contenu": "Gilbert Bringant, maire de Forcalqueiret et deux de ses adjoints, Thierry Allain et Thierry Constant, ont été condamnés chacun à 1 000 euros d’amende avec sursis. Mais sans peine d’inégibilité pour eux trois. Le ministère public, par la voix de Mathilde Gauvain, leur reprochait d’avoir pris part à une délibération lors du conseil municipal du 18 octobre 2019 alors qu’ils étaient partie prenante au vote.",
     "url": "https://www.varmatin.com/politique/trois-elus-dont-le-maire-de-forcalqueiret-condamnes-pour-prise-illegale-dinterets-765743",
     "date": "2022-05-09",
-    "etiquettes": "83 - Var,Gilbert Bringant,Thierry Allain,Thierry Constant",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2773,
         "value": "83 - Var"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1906,
+        "value": "Thierry Constant"
+      },
+      {
+        "id": 1907,
+        "value": "Thierry Allain"
+      },
+      {
+        "id": 1908,
+        "value": "Gilbert Bringant"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -62998,11 +63399,39 @@
     "contenu": "Déménagement de son fils, réparation du disque dur de sa fille, séjour à l’hôtel avec son conjoint : la députée de la majorité Patricia Mirallès, élue à Montpellier dans une circonscription voisine de celle de Coralie Dubost, a elle aussi confondu notes de frais et dépenses personnelles.\nMembre de Territoires de progrès, le microparti lancé par les ministres Jean-Yves Le Drian et Olivier Dussopt pour représenter l’« aile gauche » de la majorité, Patricia Mirallès a notamment pioché dans son avance de frais de mandat (AFM) – 5 373 euros par mois d’argent public, censés servir aux dépenses liées à l’activité parlementaire – pour héberger sa famille à l’hôtel lors du déménagement de son fils à Limoges, à plus de 400 km de sa circonscription, en septembre 2019 (219,35 euros).\nUn mois plus tôt, lors d’un déplacement pour le 75e anniversaire du débarquement de Provence, elle avait aussi payé, toujours sur fonds publics, l’hébergement à l’hôtel de son conjoint (total de 352 euros pour les deux nuits du couple). La même année, la députée a aussi utilisé cette enveloppe pour régler une facture informatique de 1 198,80 euros pour sa fille, alors étudiante, qui souhaitait absolument récupérer les données de son disque dur tombé en panne.",
     "url": "https://www.mediapart.fr/journal/france/050522/les-notes-de-frais-en-famille-de-la-deputee-patricia-miralles",
     "date": "2022-05-05",
-    "etiquettes": "Assemblée Nationale,La République En Marche,Patricia Mirallès,Territoires de progrès",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1909,
+        "value": "Patricia Mirallès"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 750,
+        "value": "Territoires de progrès – Mouvement social-réformiste (TDP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -63011,21 +63440,45 @@
   {
     "id": 1222,
     "titre": "Plainte pour détournement de fonds publics : d'ex-collaborateurs du président de Nouvelle-Aquitaine entendus",
-    "contenu": "D'anciens membres du cabinet du président de la région Nouvelle-Aquitaine, Alain Rousset (PS), ont été entendus à Bordeaux dans le cadre d'une enquête pour détournement de fonds publics et d'autres le seront dans les prochains jours, a indiqué mercredi 4 mai la région.\nSelon le journal Sud Ouest, quatre personnes ont été placées lundi en garde à vue, dont les directeur et chef de cabinet du président Rousset en 2015. Le plaignant, David Angevin, collaborateur de cabinet de 2015 à 2018 comme «plume» d'Alain Rousset, avait accusé l'équipe dirigeante socialiste d'avoir «fait payer avec de l'argent public» la campagne électorale des régionales de 2015, en utilisant les moyens et le travail des salariés de la collectivité. En janvier 2020, il avait été licencié de l'Université du Futur, organisme de réflexion de la région sur la révolution numérique, à cause, selon lui, de désaccords avec des responsables politiques. Il avait déposé plainte en mars 2021 à Bordeaux.",
+    "contenu": "D'anciens membres du cabinet du président de la région Nouvelle-Aquitaine, Alain Rousset (PS), ont été entendus à Bordeaux dans le cadre d'une enquête pour détournement de fonds publics et d'autres le seront dans les prochains jours, a indiqué mercredi 4 mai la région. Quatre personnes ont été placées lundi en garde à vue, dont les directeur et chef de cabinet du président Rousset en 2015. Le plaignant, David Angevin, collaborateur de cabinet de 2015 à 2018 comme «plume» d'Alain Rousset, avait accusé l'équipe dirigeante socialiste d'avoir «fait payer avec de l'argent public» la campagne électorale des régionales de 2015, en utilisant les moyens et le travail des salariés de la collectivité. En janvier 2020, il avait été licencié de l'Université du Futur, organisme de réflexion de la région sur la révolution numérique, à cause, selon lui, de désaccords avec des responsables politiques. Il avait déposé plainte en mars 2021 à Bordeaux.",
     "url": "https://www.lefigaro.fr/flash-actu/plainte-pour-detournement-de-fonds-publics-d-ex-collaborateurs-du-president-de-nouvelle-aquitaine-entendus-20220504",
     "date": "2022-05-04",
-    "etiquettes": "33 – Gironde,Alain Rousset,Parti Socialiste",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2727,
         "value": "33 - Gironde"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 876,
+        "value": "Alain Rousset"
+      },
+      {
+        "id": 1910,
+        "value": "David Angevin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -63035,13 +63488,46 @@
     "contenu": "Jean-Pierre Maggi, ex-député et ancien président du service départemental d’incendie et de secours des Bouches-du-Rhône (SDIS 13) connaît désormais les réquisitions de l’avocat général. Depuis ce mardi 3 mai, son affaire est examinée par la cour d’appel d’Aix-en-Provence pour des faits présumés de détournement de fonds publics, trafic d’influence et atteintes à l’égalité des marchés. Pour ces délits, le ministère public représenté par Pierre-Jean Gaury réclame quatre ans d’emprisonnement, dont 18 mois ferme à effectuer à domicile. Il demande également la confiscation du terrain vendu par la commune de Velaux, dont Jean-Pierre Maggi était maire, aux enfants de sa compagne. S’ajoutent dans ces réquisitions une amende de 100 000 euros et la privation de ses droits civiques pendant cinq ans.",
     "url": "https://marsactu.fr/bref/quatre-ans-de-prison-dont-18-mois-fermes-requis-en-appel-contre-lex-depute-maggi/",
     "date": "2022-05-04",
-    "etiquettes": "Assemblée Nationale,Jean-Pierre Maggi,Parti Socialiste",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1697,
+        "value": "Jean-Pierre Maggi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -63051,33 +63537,85 @@
     "contenu": "Andhanouni Saïd, maire de Chirongui, a été condamné à 18 mois de prison avec sursis, 10 ans d'inéligibilité avec exécution provisoire du jugement et 15 000 euros d'amendes ainsi que 5 ans d'interdiction d'exercer dans la fonction publique dans l'affaire de détournements de fonds et de prise illégale d'intérêts.\nLe parquet avait requis trois ans de prison dont un an ferme, 30 000 euros d’amende et une peine d’inéligibilité de dix ans contre le premier magistrat.\nLe maire peut faire appel de la décision mais son appel ne sera pas suspensif. Le procureur annonce qu'il est démis de ses fonctions de maire de la commune du Sud. Selon la loi, l'intérim doit être assuré par le premier adjoint. A Chirongui, il s'agit de Youssouf Abdallah.",
     "url": "https://la1ere.francetvinfo.fr/mayotte/justice-andhanouni-said-n-est-plus-maire-de-chirongui-1279464.html",
     "date": "2022-05-03",
-    "etiquettes": "976 - Mayotte,Andhanouni Saïd",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2787,
         "value": "976 - Mayotte"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1913,
+        "value": "Andhanouni Saïd"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1224,
     "titre": "En Suisse, les financements douteux d’un centre de recherche proche du PS français",
-    "contenu": "Pendant des années, des fonds de l’université de Neuchâtel ont permis de financer des manifestations d’un centre de recherche proche de réseaux socialistes français. Ces flux financiers interrogent au sein de l’université, selon une enquête menée par Mediapart et le média suisse ArcInfo.",
+    "contenu": "Pendant des années, des fonds de l’université de Neuchâtel ont permis de financer des manifestations d’un centre de recherche proche de réseaux socialistes français. Ces flux financiers interrogent au sein de l’université.",
     "url": "https://www.mediapart.fr/journal/international/030522/en-suisse-les-financements-douteux-d-un-centre-de-recherche-proche-du-ps-francais",
     "date": "2022-05-03",
-    "etiquettes": "Olivier Christin,Parti Socialiste,Vincent Peillon",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2812,
+        "value": "Suisse"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1911,
+        "value": "Vincent Peillon"
+      },
+      {
+        "id": 1912,
+        "value": "Olivier Christin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 844,
+        "value": "Université de Neuchâtel"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2665,
+        "value": "Éducation / Enseignement"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -63085,21 +63623,53 @@
   {
     "id": 1225,
     "titre": "Soupçons d’emploi fictif : la belle-mère de Thierry Solère mise en examen",
-    "contenu": "Selon des informations de Mediapart, l’information judiciaire menée par le juge d’instruction du tribunal de Nanterre Serge Tournaire vient de s’enrichir de deux nouvelles mises en examen. La première, intervenue le 30 mars 2022 pour des faits présumés de « recel de détournement de fonds publics », vise Françoise G., la belle-mère de Thierry Solère, soupçonnée d’avoir occupé un emploi fictif à l’Assemblée nationale pendant quatorze mois, entre 2015 et 2016.\nLa seconde mise en examen, prononcée le 1er avril 2022, vise le cabinet de conseil Deloitte pour des faits présumés de « trafic d’influence actif ». L’antenne française de la multinationale britannique, membre du « big four » mondial du conseil et de l’audit, a employé Thierry Solère entre 2011 et 2012, en lui versant 20 000 euros d’honoraires. Or les enquêteurs soupçonnent Deloitte d’avoir embauché l’homme politique pour qu’il use de son influence, « réelle ou supposée », auprès d’autorités publiques.\nL’enquête en cours porte aussi sur les frais de mandat du député de la majorité. Parti d’un signalement de la Haute Autorité pour la transparence de la vie publique (HATVP), qui portait initialement sur 38 998 euros de dépenses litigieuses, ce volet des investigations a permis de pointer 167 000 euros d’argent public suspects, qui auraient pu être détournés de leur usage.",
+    "contenu": "L’information judiciaire menée par le juge d’instruction du tribunal de Nanterre Serge Tournaire vient de s’enrichir de deux nouvelles mises en examen. La première, intervenue le 30 mars 2022 pour des faits présumés de « recel de détournement de fonds publics », vise Françoise G., la belle-mère de Thierry Solère, soupçonnée d’avoir occupé un emploi fictif à l’Assemblée nationale pendant quatorze mois, entre 2015 et 2016. La seconde mise en examen, prononcée le 1er avril 2022, vise le cabinet de conseil Deloitte pour des faits présumés de « trafic d’influence actif ». L’antenne française de la multinationale britannique, membre du « big four » mondial du conseil et de l’audit, a employé Thierry Solère entre 2011 et 2012, en lui versant 20 000 euros d’honoraires. Or les enquêteurs soupçonnent Deloitte d’avoir embauché l’homme politique pour qu’il use de son influence, « réelle ou supposée », auprès d’autorités publiques.\nL’enquête en cours porte aussi sur les frais de mandat du député de la majorité. Parti d’un signalement de la Haute Autorité pour la transparence de la vie publique (HATVP), qui portait initialement sur 38 998 euros de dépenses litigieuses, ce volet des investigations a permis de pointer 167 000 euros d’argent public suspects, qui auraient pu être détournés de leur usage.",
     "url": "https://www.mediapart.fr/journal/france/030522/soupcons-d-emploi-fictif-la-belle-mere-de-thierry-solere-mise-en-examen",
     "date": "2022-05-03",
-    "etiquettes": "Assemblée Nationale,Deloitte,La République En Marche,Thierry Solère",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 847,
         "value": "Thierry Solère"
       }
     ],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 531,
+        "value": "Deloitte"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -63109,16 +63679,79 @@
     "contenu": "L'appartement parisien de la fille du président djiboutien Ismaïl Omar Guelleh, dont l'entourage est visé par une enquête en France sur des soupçons de « biens mal acquis », a été récemment perquisitionné par la police judiciaire française.\nL'opération s'inscrit dans le cadre de l'enquête ouverte en novembre 2018 par le Parquet national financier (PNF) à la suite d'une plainte déposée par l'ONG Sherpa et le Collectif européen de la diaspora djiboutienne (CEDD). « Après trois ans d'enquête, enfin on s'approche du cœur nucléaire du système corruptif familial », a réagi auprès de l'AFP l'avocat de Sherpa, Me William Bourdon.",
     "url": "https://www.lefigaro.fr/flash-actu/biens-mal-acquis-perquisition-dans-l-appartement-parisien-de-la-fille-du-president-djiboutien-20220429",
     "date": "2022-04-29",
-    "etiquettes": "75 - Paris,Collectif européen de la diaspora djiboutienne,Omar Guelleh,Parquet National Financier,Sherpa",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2762,
         "value": "75 - Paris"
+      },
+      {
+        "id": 3055,
+        "value": "Djibouti"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1915,
+        "value": "Ismaïl Omar Guelleh"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 141,
+        "value": "Sherpa"
+      },
+      {
+        "id": 845,
+        "value": "Collectif européen de la diaspora djiboutienne (CEDD)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1229,
+    "titre": "La mise en examen d’Alain Ferrand partiellement annulée",
+    "contenu": "La cour d’appel d'Aix-en-Provence (Bouches-du-Rhône) a partiellement annulé, jeudi, la mise en examen pour concussion d'Alain Ferrand, maire (divers droite) du Barcarès, une station balnéaire des Pyrénées-Orientales. Il reste mis en examen pour extorsion en bande organisée et complicité de destruction de preuves.\nEn 2020, une information judiciaire avait été ouverte en raison de soupçons dans la mise en place de taxes ou droits, sans base légale, pour des commerçants et des gérants de campings : la concussion consiste en la perception par une personne dépositaire de l’autorité publique de droits et taxes qui ne sont pas dus, ou leur exonération injustifiée.",
+    "url": "https://www.20minutes.fr/justice/3280087-20220429-pyrenees-orientales-mise-examen-alain-ferrand-partiellement-annulee",
+    "date": "2022-04-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2756,
+        "value": "66 - Pyrénées-Orientales"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 771,
+        "value": "Alain Ferrand"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -63130,32 +63763,35 @@
     "contenu": "Coralie Dubost, élue de la troisième circonscription de l’Hérault, étoile montante de La République en marche (LREM) et présidente déléguée du groupe majoritaire à l’Assemblée nationale, a multiplié les usages inappropriés de ses frais de mandat, selon des informations de Mediapart.\nEn plus de ses escapades à la plage ou au bord de la piscine d’un célèbre domaine de la région de Montpellier, la députée a également effectué des achats astronomiques (jusqu’à 3 000 euros par mois) en vêtements et lingerie. \nÀ tel point que l’enveloppe de frais mensuels de 5 373 euros alloués par l’Assemblée ne lui a pas suffi : début 2019, face à un découvert dépassant les 7 000 euros , elle a contracté un prêt auprès de La Banque postale, qui gère les comptes AFM (avance de frais de mandat) de chaque parlementaire, prétextant des travaux (en réalité inexistants) qu’elle aurait eu à faire dans sa permanence.\nSollicitée par Mediapart, la députée explique avoir désormais tout remis en ordre, en procédant à des remboursements de frais indus, après avoir fait l’objet, pour les années 2018 et 2019, d’un contrôle opéré par la déontologue de l’Assemblée nationale.",
     "url": "https://www.mediapart.fr/journal/france/290422/les-mirobolantes-notes-de-frais-de-la-deputee-coralie-dubost",
     "date": "2022-04-29",
-    "etiquettes": "Assemblée Nationale,Coralie Dubost,La République En Marche",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 1229,
-    "titre": "Pyrénées-Orientales : La mise en examen d’Alain Ferrand partiellement annulée",
-    "contenu": "La cour d’appel d'Aix-en-Provence (Bouches-du-Rhône) a partiellement annulé, jeudi, la mise en examen pour concussion d'Alain Ferrand, maire (divers droite) du Barcarès, une station balnéaire des Pyrénées-Orientales. Il reste mis en examen pour extorsion en bande organisée et complicité de destruction de preuves.\nEn 2020, une information judiciaire avait été ouverte en raison de soupçons dans la mise en place de taxes ou droits, sans base légale, pour des commerçants et des gérants de campings : la concussion consiste en la perception par une personne dépositaire de l’autorité publique de droits et taxes qui ne sont pas dus, ou leur exonération injustifiée.",
-    "url": "https://www.20minutes.fr/justice/3280087-20220429-pyrenees-orientales-mise-examen-alain-ferrand-partiellement-annulee",
-    "date": "2022-04-29",
-    "etiquettes": "66 - Pyrénées Orientales,Alain Ferrand",
+    "etiquettes": "",
     "departement": [
       {
-        "id": 2756,
-        "value": "66 - Pyrénées-Orientales"
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1914,
+        "value": "Coralie Dubost"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -63188,12 +63824,53 @@
     "contenu": "Dans un courrier du 21 avril adressé à Ursula von der Leyen et Věra Jourová, respectivement présidente de la Commission européenne et commissaire en charge de la transparence et des valeurs, l’Union syndicale des magistrats (USM) et le Syndicat de la magistrature (SM) dénoncent « la poursuite de procédures disciplinaires de nature à faire pression sur des magistrats chargés d’enquêtes sur des proches ou anciens clients d’Éric Dupond-Moretti », pointent le soutien apporté par Emmanuel Macron à son garde des Sceaux, citent des nominations problématiques de magistrats, et demandent à la Commission européenne d’intervenir pour que la France respecte l’indépendance de la justice.",
     "url": "https://www.mediapart.fr/journal/france/280422/affaire-dupond-moretti-les-syndicats-de-magistrats-en-appellent-la-commission-europeenne",
     "date": "2022-04-28",
-    "etiquettes": "Éric Dupond-Moretti,Gouvernement Jean Castex,Ministère de la Justice,Syndicat de la Magistrature,Union Syndicale des Magistrats,Ursula von der Leyen,Věra Jourová",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 658,
+        "value": "Éric Dupond-Moretti"
+      },
+      {
+        "id": 1306,
+        "value": "Ursula von der Leyen"
+      },
+      {
+        "id": 1916,
+        "value": "Věra Jourová"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 500,
+        "value": "Union syndicale des magistrats (USM)"
+      },
+      {
+        "id": 501,
+        "value": "Syndicat de la magistrature"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
