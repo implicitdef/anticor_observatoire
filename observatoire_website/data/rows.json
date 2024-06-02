@@ -1,5 +1,127 @@
 [
   {
+    "id": 2318,
+    "titre": "Prise illégale d'intérêts et favoritisme : le maire de Gorron ne fait pas appel de sa condamnation",
+    "contenu": "Le maire de Gorron ne fait pas appel de sa condamnation. Jean-Marc Allain a écopé d'un un an de prison avec sursis le 16 mai dernier dans une affaire de prise illégale d'intérêts et favoritisme.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/prise-illegale-d-interets-et-favoritisme-le-maire-de-gorron-ne-fait-pas-appel-de-sa-condamnation-4512249",
+    "date": "2024-06-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2745,
+        "value": "53 - Mayenne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1417,
+        "value": "Jean-Marc Allain"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2320,
+    "titre": "Au tribunal, les combines immobilières de l’ex-préfet Alain Gardère",
+    "contenu": "L’ancien haut fonctionnaire sarkozyste a effectué de très bonnes affaires auprès d’entreprises du bâtiment auxquelles il rendait des services. Le promoteur Antonio de Sousa, proche de nombreux élus d’Île-de-France, en faisait partie.",
+    "url": "https://www.mediapart.fr/journal/france/310524/au-tribunal-les-combines-immobilieres-de-l-ex-prefet-alain-gardere",
+    "date": "2024-05-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2781,
+        "value": "94 - Val-de-Marne"
+      },
+      {
+        "id": 2766,
+        "value": "93 - Seine-Saint-Denis"
+      },
+      {
+        "id": 2767,
+        "value": "77 - Seine-et-Marne"
+      },
+      {
+        "id": 2764,
+        "value": "91 - Essonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1506,
+        "value": "Alain Gardère"
+      },
+      {
+        "id": 1507,
+        "value": "Antonio De Sousa"
+      },
+      {
+        "id": 1896,
+        "value": "Hugues Rondeau"
+      },
+      {
+        "id": 1897,
+        "value": "Philippe Lohmuller"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 634,
+        "value": "France Pierre"
+      },
+      {
+        "id": 678,
+        "value": "Conseil national des activités de sécurité privées (CNAPS)"
+      },
+      {
+        "id": 838,
+        "value": "Séminaires & Wines"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2307,
     "titre": "Incarcéré depuis le 21 mars dans l’affaire de la voyante, le maire Gilles d’Ettore a démissionné",
     "contenu": "Gilles d’Ettore (LR) n’est plus le maire d’Agde. Mis en examen pour détournements de fonds par une personne dépositaire de l’autorité publique, prises illégales d’intérêts et corruption, il est en détention provisoire depuis le 21 mars. L’édile, élu sans discontinuer à la tête de la commune depuis 2001, en a fait la demande auprès du préfet Francois-Xavier Lauch, qui l’a accepté.",
@@ -75,6 +197,41 @@
         "value": "Tabac"
       }
     ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2319,
+    "titre": "Restaurant du golf de Saint-François : Le Tribunal administratif résilie la convention entre la commune et Maxo Location FWI",
+    "contenu": "Le Tribunal Administratif de la Guadeloupe vient de prononcer la résiliation avec effet immédiat de la convention d’occupation du domaine public conclue par la commune de Saint-François avec la société Maxo Location FWI pour l’exploitation du bar-restaurant et l’animation du club house du golf de Saint-François.",
+    "url": "https://la1ere.francetvinfo.fr/guadeloupe/grande-terre/saint-francois/restaurant-du-golf-de-saint-francois-le-tribunal-administratif-resilie-la-convention-entre-la-commune-et-maxo-location-fwi-1492970.html",
+    "date": "2024-05-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 828,
+        "value": "Caribbean Street Food"
+      },
+      {
+        "id": 829,
+        "value": "Maxo Location"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -62208,7 +62365,12 @@
         "value": "Mouvement démocrate (MoDem)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -62296,21 +62458,41 @@
   },
   {
     "id": 1202,
-    "titre": "Jean-Baptiste Djebbari",
+    "titre": "Jean-Baptiste Djebbari rejoint Hopium",
     "contenu": "Passé par la Direction Générale de l’Aviation Civile (DGAC), puis par des sociétés privées de transport aérien (NetJets, Jetfly), il fait la campagne des législatives sous la bannière LREM avant d’être nommé Secrétaire d’État puis ministre chargé des Transports. En mai 2022, avant même le remaniement, il annonce rejoindre le conseil d’administration d’Hopium, entreprise spécialisée dans la construction de voitures à hydrogène haut de gamme.",
     "url": "https://www.leparisien.fr/politique/le-depart-de-jean-baptiste-djebbari-dans-le-prive-annonce-avant-meme-le-remaniement-16-05-2022-6533FO6RQBC5XI3OSOKBIDR2MQ.php?ts=1652697353267",
     "date": "2022-05-16",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1556,
+        "value": "Jean-Baptiste Djebbari"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 663,
+        "value": "Hopium"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -62321,17 +62503,37 @@
     "contenu": "Le ministre des Transports devrait rejoindre le conseil d’administration du constructeur automobile Hopium, spécialisé dans l’hydrogène. L’annonce a été faite ce lundi par le groupe avant que le remaniement ne soit officialisé.\nLes départs dans le privé d’anciens ministres sont fréquents et la pratique n’est pas nouvelle. Mais le timing de l’annonce a pu susciter quelques étonnements. Contacté à ce sujet par Le Parisien, l’entourage du ministre des Transports rappelle que les entreprises sont contraintes de publier l’objet de la convocation de l’Assemblée générale 35 jours avant qu’elle ne se réunisse. Un délai qui est donc tout juste respecté, puisque l’Assemblée générale doit se réunir le 20 juin prochain.",
     "url": "https://www.leparisien.fr/politique/le-depart-de-jean-baptiste-djebbari-dans-le-prive-annonce-avant-meme-le-remaniement-16-05-2022-6533FO6RQBC5XI3OSOKBIDR2MQ.php?ts=1652697353267",
     "date": "2022-05-16",
-    "etiquettes": "Gouvernement Jean Castex,Jean-Baptiste Djebbari,Ministère des transports",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1556,
+        "value": "Jean-Baptiste Djebbari"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 186,
+        "value": "Ministère de l'Écologie"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -62342,18 +62544,38 @@
     "contenu": "L'ancien maire de Biguglia a été relaxé par le tribunal correctionnel de Paris ce lundi. Sauveur Gandolfi-Scheit, également ancien député de Haute-Corse, était accusé d'avoir profité d'un appartement à prix réduit en échange de la modification du plan d'occupation des sols de sa commune en faveur d'un promoteur immobilier. Le tribunal a estimé que les faits étaient prescrits.",
     "url": "https://france3-regions.francetvinfo.fr/corse/haute-corse/biguglia/corruption-sauveur-gandolfi-scheit-ancien-maire-de-biguglia-relaxe-2543492.html",
     "date": "2022-05-16",
-    "etiquettes": "2B – Haute Corse,Sauveur Gandolfi-Scheit",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2723,
         "value": "2B - Haute-Corse"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1898,
+        "value": "Sauveur Gandolfi-Scheit"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -62384,7 +62606,7 @@
     "contenu": "Le parc éolien du bois de Belfays est au cœur de problématiques judiciaires. Une enquête est en cours suite à un signalement du maire de Saâles et une plainte contre X, pour prise illégale d’intérêt, a été déposée par une association anti-corruption. Des Vosgiens seraient visés par cette plainte.",
     "url": "https://www.vosgesmatin.fr/faits-divers-justice/2022/05/15/vosges-tourmente-judiciaire-autour-des-eoliennes-de-belfays-dans-le-secteur-de-saint-die",
     "date": "2022-05-15",
-    "etiquettes": "88 - Vosges,AC Corruption",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2778,
@@ -62392,10 +62614,30 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnes_morales": [
+      {
+        "id": 159,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2666,
+        "value": "Énergie"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
