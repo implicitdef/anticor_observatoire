@@ -1177,6 +1177,87 @@
     "a_la_une": false
   },
   {
+    "id": 2322,
+    "titre": "Comment TotalEnergies construit son influence, des universités aux laboratoires de recherche",
+    "contenu": "Total Professeurs Associés, une association qui met à disposition ses retraités et salariés pour des interventions bénévoles, n’est qu’un exemple de la présence grandissante de la major au sein des établissements d’enseignement supérieur.",
+    "url": "https://www.lemonde.fr/campus/article/2024/05/24/des-universites-aux-laboratoires-de-recherche-comment-totalenergies-construit-son-influence-sur-les-campus_6235201_4401467.html",
+    "date": "2024-05-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1917,
+        "value": "Patrick Pouyanné"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 28,
+        "value": "École nationale supérieure des mines d'Alès"
+      },
+      {
+        "id": 150,
+        "value": "TotalEnergies"
+      },
+      {
+        "id": 273,
+        "value": "École polytechnique"
+      },
+      {
+        "id": 846,
+        "value": "Université de Pau et des Pays de l'Adour (UPPA)"
+      },
+      {
+        "id": 847,
+        "value": "IFP Énergies nouvelles (IFPEN, ex-Institut français du pétrole, IFP)"
+      },
+      {
+        "id": 848,
+        "value": "École nationale supérieure des mines de Paris (Mines Paris – PSL)"
+      },
+      {
+        "id": 849,
+        "value": "École des Ponts ParisTech (École nationale des ponts et chaussées)"
+      },
+      {
+        "id": 850,
+        "value": "Université Clermont-Auvergne (UCA)"
+      },
+      {
+        "id": 851,
+        "value": "Labos 1point5"
+      },
+      {
+        "id": 852,
+        "value": "Université Toulouse III - Paul Sabatier"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      },
+      {
+        "id": 2665,
+        "value": "Éducation / Enseignement"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2287,
     "titre": "Roland-Garros : le rapport secret de l'Inspection générale sur la gestion de la billetterie",
     "contenu": "À la suite de scandales à répétition, l'Inspection générale a livré un rapport secret, recommandant de confier la billetterie à une « autorité interne indépendante » et suggérant de créer une société commerciale, sur le modèle pourtant décrié du football.",
