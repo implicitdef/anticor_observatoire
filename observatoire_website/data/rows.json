@@ -1,5 +1,54 @@
 [
   {
+    "id": 2323,
+    "titre": "Eric Piolle, maire de Grenoble, fait l’objet d’une enquête, soupçonné d’avoir fait reverser indûment 16 800 euros à son ancienne première adjointe",
+    "contenu": "D’après le « Canard enchaîné », l’élu écologiste aurait augmenté le salaire d’un collaborateur afin qu’il en reverse une partie, en liquide et sous le radar du fisc, à son ex-adjointe Elisa Martin.",
+    "url": "https://www.lemonde.fr/politique/article/2024/06/05/eric-piolle-maire-de-grenoble-fait-l-objet-d-une-enquete-soupconne-d-avoir-fait-reverser-indument-16-800-euros-a-son-ex-premiere-adjointe_6237453_823448.html",
+    "date": "2024-06-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2732,
+        "value": "38 - Isère"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1304,
+        "value": "Éric Piolle"
+      },
+      {
+        "id": 1918,
+        "value": "Elisa Martin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 15,
+        "value": "La France Insoumise (LFI)"
+      },
+      {
+        "id": 23,
+        "value": "Les écologistes (ex-Europe Ecologie Les Verts) (EELV)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2318,
     "titre": "Prise illégale d'intérêts et favoritisme : le maire de Gorron ne fait pas appel de sa condamnation",
     "contenu": "Le maire de Gorron ne fait pas appel de sa condamnation. Jean-Marc Allain a écopé d'un un an de prison avec sursis le 16 mai dernier dans une affaire de prise illégale d'intérêts et favoritisme.",
