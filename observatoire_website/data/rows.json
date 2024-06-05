@@ -49,6 +49,239 @@
     "a_la_une": true
   },
   {
+    "id": 2329,
+    "titre": "Police : le commandant des renseignements territoriaux mis en examen pour trafic d’influence",
+    "contenu": "Le directeur des services du renseignement territorial (ex-RG) en Meurthe-et-Moselle a été mis en examen dans le cadre d’une affaire de trafic d’influence, d’aide au séjour irrégulier d’étrangers et de travail dissimulé. Un maire de l’agglomération de Nancy et la directrice de cabinet du préfet du 54 ont été entendus comme témoins.",
+    "url": "https://www.estrepublicain.fr/faits-divers-justice/2024/06/04/police-le-commandant-des-renseignements-territoriaux-mis-en-examen-pour-trafic-d-influence",
+    "date": "2024-06-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2746,
+        "value": "54 - Meurthe-et-Moselle"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 854,
+        "value": "Direction nationale du renseignement territorial (DNRT)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "Le commandant des renseignements territoriaux mis en examen pour trafic d’influence",
+    "a_la_une": false
+  },
+  {
+    "id": 2324,
+    "titre": "Enquête sur Hélène Gerhards, ancienne juge d’instruction en Corse : perquisitions au bureau d’un promoteur ajaccien",
+    "contenu": "Ce mardi 4 juin, des perquisitions ont eu lieu au bureau d'un promoteur ajaccien. Ces dernières entrent dans le cadre d'une enquête visant une ancienne juge d'instruction en Corse, Hélène Gerhards. Mise en examen, elle est soupçonnée d'avoir des liens avec un proche supposé de la bande criminelle du \"Petit Bar\".",
+    "url": "https://france3-regions.francetvinfo.fr/corse/enquete-sur-helene-gerhards-ancienne-juge-d-instruction-en-corse-perquisitions-au-bureau-d-un-promoteur-ajaccien-2980841.html",
+    "date": "2024-06-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2722,
+        "value": "2A - Corse-du-Sud"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 997,
+        "value": "Hélène Gerhards"
+      },
+      {
+        "id": 998,
+        "value": "Johann Carta"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 92,
+        "value": "Gang du Petit Bar"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2326,
+    "titre": "Le commandant de la CRS 4 convoqué devant la justice pour détournement de fonds publics",
+    "contenu": "Le commandant de la CRS 4 fait l’objet d’une convocation devant le tribunal correctionnel de Meaux le 4 décembre prochain pour des faits de détournement de fonds publics pour un montant total de 33 000 €.",
+    "url": "https://www.aefinfo.fr/depeche/713153-le-commandant-de-la-crs-4-convoque-devant-la-justice-pour-detournement-de-fonds-publics",
+    "date": "2024-06-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2767,
+        "value": "77 - Seine-et-Marne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 234,
+        "value": "Direction centrale des compagnies républicaines de sécurité (DCCRS)"
+      },
+      {
+        "id": 522,
+        "value": "Direction générale de la Police nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2677,
+        "value": "Police"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2325,
+    "titre": "Le maire de Tarbes sera jugé en mars 2025 pour prise illégale d'intérêts et favoritisme dans l'attribution de marchés publics",
+    "contenu": "Après plus de dix ans d'instruction, la date du procès de Gérard Trémège, maire de Tarbes, a été fixée au 3 mars 2025 par le tribunal de Pau. L'édile sera jugé pour prise illégale d'intérêts et favoritisme dans l'attribution de marchés publics et cessions de terrains municipaux, aux côtés de neuf autres prévenus.",
+    "url": "https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/le-maire-de-tarbes-sera-juge-en-mars-2025-pour-prise-illegale-d-interets-et-favoritisme-dans-l-attribution-de-marches-publics-2980244.html",
+    "date": "2024-06-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2755,
+        "value": "65 - Hautes-Pyrénées"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 845,
+        "value": "Gérard Trémège"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2328,
+    "titre": "Nice : cette nouvelle discrète perquisition dans le bureau du directeur de cabinet de Christian Estrosi",
+    "contenu": "Dans le cadre d’une information judiciaire ouverte par le tribunal de Paris et qui concerne en partie l’affaire «Iconic», une nouvelle perquisition a eu lieu en mairie, la semaine dernière.",
+    "url": "https://www.lefigaro.fr/nice/nice-cette-nouvelle-discrete-perquisition-dans-le-bureau-du-directeur-de-cabinet-de-christian-estrosi-20240603",
+    "date": "2024-06-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 123,
+        "value": "Éric Ciotti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "Perquisition dans le bureau du directeur de cabinet de Christian Estrosi",
+    "a_la_une": false
+  },
+  {
+    "id": 2327,
+    "titre": "Pressions à l'Ordre des infirmiers : une enquête préliminaire ouverte",
+    "contenu": "Mi-avril, une enquête de Marianne révélait le climat toxique régnant à l’Ordre des Infirmiers et les menaces qui y étaient proférées à l’approche des élections du nouveau Président de l’instance. Le procureur de la République saisi de l'affaire a ouvert une enquête préliminaire pour trafic d’influence et appels malveillants.",
+    "url": "https://www.marianne.net/societe/sante/pressions-a-l-ordre-des-infirmiers-une-enquete-preliminaire-ouverte-apres-nos-revelations",
+    "date": "2024-06-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1919,
+        "value": "Patrick Chamboredon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 853,
+        "value": "Ordre national des infirmiers"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2318,
     "titre": "Prise illégale d'intérêts et favoritisme : le maire de Gorron ne fait pas appel de sa condamnation",
     "contenu": "Le maire de Gorron ne fait pas appel de sa condamnation. Jean-Marc Allain a écopé d'un un an de prison avec sursis le 16 mai dernier dans une affaire de prise illégale d'intérêts et favoritisme.",
