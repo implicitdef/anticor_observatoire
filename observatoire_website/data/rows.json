@@ -1,5 +1,102 @@
 [
   {
+    "id": 2331,
+    "titre": "Autoroute A69 : l’ombre du groupe pharmaceutique Pierre Fabre sur le contrat de concession",
+    "contenu": "Partisan historique du projet d’autoroute contesté, le laboratoire du Tarn s’est impliqué de façon très active dans sa mise en œuvre.",
+    "url": "https://www.lemonde.fr/planete/article/2024/06/07/autoroute-a69-l-ombre-du-groupe-pharmaceutique-pierre-fabre-sur-le-contrat-de-concession_6237859_3244.html",
+    "date": "2024-06-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2771,
+        "value": "81 - Tarn"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1920,
+        "value": "Eric Ducournau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 613,
+        "value": "Laboratoires Pierre Fabre"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2330,
+    "titre": "Soupçons de corruption au Togo : le Parquet national financier requiert un procès pour Vincent Bolloré",
+    "contenu": "Les magistrats parisiens soupçonnent le groupe Bolloré d’avoir utilisé les activités de conseil politique de la filiale Euro RSCG pour obtenir frauduleusement la gestion du port de Lomé.",
+    "url": "https://www.lemonde.fr/afrique/article/2024/06/07/soupcons-de-corruption-au-togo-le-parquet-national-financier-requiert-un-proces-pour-vincent-bollore_6237841_3212.html",
+    "date": "2024-06-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3030,
+        "value": "Togo"
+      },
+      {
+        "id": 3056,
+        "value": "Guinée"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 641,
+        "value": "Vincent Bolloré"
+      },
+      {
+        "id": 780,
+        "value": "Gilles Alix"
+      },
+      {
+        "id": 781,
+        "value": "Jean-Philippe Dorent"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 61,
+        "value": "Havas"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2323,
     "titre": "Eric Piolle, maire de Grenoble, fait l’objet d’une enquête, soupçonné d’avoir fait reverser indûment 16 800 euros à son ancienne première adjointe",
     "contenu": "D’après le « Canard enchaîné », l’élu écologiste aurait augmenté le salaire d’un collaborateur afin qu’il en reverse une partie, en liquide et sous le radar du fisc, à son ex-adjointe Elisa Martin.",
