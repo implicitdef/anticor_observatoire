@@ -226,6 +226,54 @@
     "a_la_une": false
   },
   {
+    "id": 2332,
+    "titre": "Karachi : un nouveau procès s’ouvre pour le clan Balladur",
+    "contenu": "Les proches d’Édouard Balladur condamnés en juin 2020 dans le volet financier de l’affaire Karachi doivent comparaître jusqu’au 20 juin devant la cour d’appel de Paris. Les deux intermédiaires, Ziad Takieddine et Abdul Rahman El Assir, sont eux en fuite.",
+    "url": "https://www.mediapart.fr/journal/international/040624/karachi-un-nouveau-proces-s-ouvre-pour-le-clan-balladur",
+    "date": "2024-06-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 586,
+        "value": "Ziad Takieddine"
+      },
+      {
+        "id": 1921,
+        "value": "Édouard Balladur"
+      },
+      {
+        "id": 1922,
+        "value": "Abdul Rahman El Assir"
+      },
+      {
+        "id": 1923,
+        "value": "Nicolas Bazire"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2326,
     "titre": "Le commandant de la CRS 4 convoqué devant la justice pour détournement de fonds publics",
     "contenu": "Le commandant de la CRS 4 fait l’objet d’une convocation devant le tribunal correctionnel de Meaux le 4 décembre prochain pour des faits de détournement de fonds publics pour un montant total de 33 000 €.",
