@@ -1,5 +1,105 @@
 [
   {
+    "id": 2338,
+    "titre": "Cinq mises en examen pour corruption, trafic d’influence et extorsion autour de la mairie d’Ajaccio",
+    "contenu": "Le directeur de cabinet du maire, Antoine Maestrali, l’adjoint aux sports, Stéphane Vannucci, et Johann Carta, un homme réputé proche de la bande du Petit Bar, sont soupçonnés d’être impliqués dans une affaire politico-judiciaire à tiroirs.",
+    "url": "https://www.lemonde.fr/societe/article/2024/06/09/cinq-mises-en-examen-pour-corruption-trafic-d-influence-et-extorsion-autour-de-la-mairie-d-ajaccio_6238255_3224.html",
+    "date": "2024-06-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2722,
+        "value": "2A - Corse-du-Sud"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 652,
+        "value": "Stéphane Vannucci"
+      },
+      {
+        "id": 998,
+        "value": "Johann Carta"
+      },
+      {
+        "id": 1926,
+        "value": "Antoine Maestrali"
+      },
+      {
+        "id": 1927,
+        "value": "Michel Amhan"
+      },
+      {
+        "id": 1928,
+        "value": "Khalid Azhour"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 709,
+        "value": "Juridictions interrégionales spécialisées de France (JIRS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2336,
+    "titre": "Affaires africaines : ce que contient le réquisitoire du PNF contre Vincent Bolloré",
+    "contenu": "Selon le Parquet national financier, qui demande un procès contre lui, Vincent Bolloré a personnellement « validé le montant des dépenses » et « sciemment donné des instructions » pour le financement présumé illégal de deux chefs d’État au Togo et en Guinée. Ses avocats contestent.",
+    "url": "https://www.mediapart.fr/journal/france/070624/affaires-africaines-ce-que-contient-le-requisitoire-du-pnf-contre-vincent-bollore",
+    "date": "2024-06-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3030,
+        "value": "Togo"
+      },
+      {
+        "id": 3056,
+        "value": "Guinée"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 641,
+        "value": "Vincent Bolloré"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 60,
+        "value": "Bolloré"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2331,
     "titre": "Autoroute A69 : l’ombre du groupe pharmaceutique Pierre Fabre sur le contrat de concession",
     "contenu": "Partisan historique du projet d’autoroute contesté, le laboratoire du Tarn s’est impliqué de façon très active dans sa mise en œuvre.",
@@ -95,6 +195,139 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2335,
+    "titre": "Le président du département du Tarn décharge de ses délégations son vice-président mis en examen pour corruption",
+    "contenu": "Christophe Ramond, président du Conseil départemental du Tarn, a annoncé jeudi 6 juin le retrait des délégations de Paul Salvador en tant que vice-président en charge du Tourisme, suite à la mise en examen de ce dernier pour corruption. M. Ramond estime que la situation ne lui permet pas d'exercer sereinement ses fonctions exécutives.",
+    "url": "https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/le-president-du-departement-du-tarn-decharge-de-ses-delegations-son-vice-president-mis-en-examen-pour-corruption-2982551.html",
+    "date": "2024-06-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2771,
+        "value": "81 - Tarn"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1113,
+        "value": "Paul Salvador"
+      },
+      {
+        "id": 1925,
+        "value": "Christophe Ramond"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2333,
+    "titre": "LVMH : Bernard Arnault exfiltre Nicolas Bazire à la veille de son procès en appel dans l'affaire Karachi",
+    "contenu": "Un mois avant l'ouverture de son procès, ce 3 juin, ce fidèle du PDG de LVMH a dû quitter le conseil d'administration de Financière Agache, la holding de la famille Arnault.",
+    "url": "https://www.lalettre.fr/fr/entreprises_comex-et-ca/2024/06/06/lvmh--bernard-arnault-exfiltre-nicolas-bazire-a-la-veille-de-son-proces-en-appel-dans-l-affaire-karachi,110244970-fac",
+    "date": "2024-06-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 690,
+        "value": "Bernard Arnault"
+      },
+      {
+        "id": 1923,
+        "value": "Nicolas Bazire"
+      },
+      {
+        "id": 1924,
+        "value": "Frédéric Arnault"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3027,
+        "value": "Luxe"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2334,
+    "titre": "Richard Ferrand, un si discret consultant du Crédit mutuel",
+    "contenu": "Qu’est devenu l’ancien président de l’Assemblée nationale ? Depuis deux ans, il est consultant auprès de la présidence du groupe mutualiste pour près de 145 000 € d’honoraires, et alors qu’il est également administrateur du nouveau fonds sociétal de la banque. Un contrat qui suscite des réserves au cœur même de la direction.",
+    "url": "https://www.marianne.net/politique/richard-ferrand-un-si-discret-consultant-du-credit-mutuel",
+    "date": "2024-06-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1081,
+        "value": "Richard Ferrand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 855,
+        "value": "Crédit mutuel"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3033,
+        "value": "Assurances"
+      },
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2323,
@@ -420,6 +653,120 @@
       {
         "id": 2680,
         "value": "Santé"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2339,
+    "titre": "Rachida Dati, la plume au service (secret) du Qatar",
+    "contenu": "Alors qu’elle était députée européenne, la désormais ministre de la Culture s’est démenée pour une cause majeure : la promotion du Qatar et de son homme lige en Europe. Aujourd’hui ministre du Travail, président de la conférence annuelle de l’OIT en 2023, le Dr Al Marri est le principal suspect dans le scandale de corruption des élus au Parlement européen. Révélations.",
+    "url": "https://www.blast-info.fr/articles/2024/exclu-blast-rachida-dati-la-plume-au-service-secret-du-qatar-jjxMjmNlQZmSY4G8CRBInQ",
+    "date": "2024-06-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2807,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 1929,
+        "value": "Ali bin Samikh Al Marri"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2337,
+    "titre": "Variétés Club de France : comment Macron s’est mis au service du « charity business » des Vendroux",
+    "contenu": "Lors de la visite du président de la République démocratique du Congo, le 29 avril, l’Élysée a confié les clés de Clairefontaine au journaliste Jacques Vendroux et à son fils, qui ont ainsi obtenu l’organisation d’un lucratif match de charité du Variétés Club de France à Kinshasa.",
+    "url": "https://www.mediapart.fr/journal/international/030624/varietes-club-de-france-comment-macron-s-est-mis-au-service-du-charity-business-des-vendroux",
+    "date": "2024-06-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2809,
+        "value": "République du Congo"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 648,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 1882,
+        "value": "Jacques Vendroux"
+      },
+      {
+        "id": 1883,
+        "value": "Baptiste Vendroux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 830,
+        "value": "Variétés Club de France"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      },
+      {
+        "id": 2683,
+        "value": "Sport"
       }
     ],
     "procedure": [],
