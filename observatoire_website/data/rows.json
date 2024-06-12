@@ -100,6 +100,78 @@
     "a_la_une": false
   },
   {
+    "id": 2341,
+    "titre": "Au procès Gardère, des élus enrichis à l’insu de leur plein gré",
+    "contenu": "Trois maires d’Île-de-France ayant bénéficié des largesses de France Pierre sont sur le gril, au tribunal correctionnel de Paris, lors du procès à tiroirs de l’ex-préfet Alain Gardère et du promoteur Antonio de Sousa.",
+    "url": "https://www.mediapart.fr/journal/france/070624/au-proces-gardere-des-elus-enrichis-l-insu-de-leur-plein-gre",
+    "date": "2024-06-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2767,
+        "value": "77 - Seine-et-Marne"
+      },
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      },
+      {
+        "id": 2764,
+        "value": "91 - Essonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1506,
+        "value": "Alain Gardère"
+      },
+      {
+        "id": 1507,
+        "value": "Antonio De Sousa"
+      },
+      {
+        "id": 1864,
+        "value": "Jean-François Oneto"
+      },
+      {
+        "id": 1865,
+        "value": "Sinclair Vouriot"
+      },
+      {
+        "id": 1930,
+        "value": "Gérald Hérault"
+      },
+      {
+        "id": 1931,
+        "value": "Armindo Dias Fernandes"
+      },
+      {
+        "id": 1932,
+        "value": "Michel Maes"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 634,
+        "value": "France Pierre"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2331,
     "titre": "Autoroute A69 : l’ombre du groupe pharmaceutique Pierre Fabre sur le contrat de concession",
     "contenu": "Partisan historique du projet d’autoroute contesté, le laboratoire du Tarn s’est impliqué de façon très active dans sa mise en œuvre.",
@@ -325,6 +397,45 @@
         "value": "Banque / Finance / Capital-risque"
       }
     ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2340,
+    "titre": "En Moldavie, des fonctionnaires suspectés d'avoir été payés pour effacer des notices rouges Interpol de fugitifs liés au crime organisé",
+    "contenu": "Des magistrats français du Parquet national financier se sont rendus mardi dans ce pays d'Europe de l'Est pour participer à des perquisitions menées notamment avec le FBI.",
+    "url": "https://www.francetvinfo.fr/monde/europe/en-moldavie-des-fonctionnaires-suspectes-d-avoir-ete-payes-pour-effacer-des-notices-rouges-interpol-de-fugitifs-lies-au-crime-organise_6586092.html",
+    "date": "2024-06-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3057,
+        "value": "Moldavie"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 856,
+        "value": "Federal Bureau of Investigation (FBI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
