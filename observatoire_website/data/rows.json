@@ -163,6 +163,63 @@
     "a_la_une": false
   },
   {
+    "id": 2348,
+    "titre": "« Barbouzeries » autour du PSG : nouvelle mise en examen d’un policier",
+    "contenu": "Un policier de la direction régionale de la police judiciaire a été mis en examen, en mars, pour notamment « corruption passive », dans le volet relatif à l’ex-directeur de la communication du Paris-Saint-Germain, Jean-Martial Ribes.",
+    "url": "https://www.lemonde.fr/sport/article/2024/06/07/barbouzeries-autour-du-psg-nouvelle-mise-en-examen-d-un-policier_6237910_3242.html",
+    "date": "2024-06-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 816,
+        "value": "Jean-Martial Ribes"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 166,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 402,
+        "value": "Brigade de répression du banditisme (BRB)"
+      },
+      {
+        "id": 404,
+        "value": "Direction nationale de la Police aux frontières (DNPAF)"
+      },
+      {
+        "id": 858,
+        "value": "Direction régionale de la police judiciaire"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2677,
+        "value": "Police"
+      },
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2336,
     "titre": "Affaires africaines : ce que contient le réquisitoire du PNF contre Vincent Bolloré",
     "contenu": "Selon le Parquet national financier, qui demande un procès contre lui, Vincent Bolloré a personnellement « validé le montant des dépenses » et « sciemment donné des instructions » pour le financement présumé illégal de deux chefs d’État au Togo et en Guinée. Ses avocats contestent.",
@@ -691,14 +748,42 @@
     ],
     "personnalites": [
       {
+        "id": 816,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 818,
+        "value": "Malik Nait-Liman"
+      },
+      {
         "id": 1016,
         "value": "Hugues Renson"
+      },
+      {
+        "id": 1936,
+        "value": "Charlotte Casasoprana"
       }
     ],
     "personnes_morales": [
       {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
         "id": 69,
         "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 166,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 235,
+        "value": "Inspection générale de la Police nationale (IGPN)"
       }
     ],
     "categorie": [
