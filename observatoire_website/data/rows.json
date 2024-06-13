@@ -1,5 +1,116 @@
 [
   {
+    "id": 2343,
+    "titre": "Le parquet réclame de la prison ferme contre l’ex-préfet Gardère et le promoteur De Sousa",
+    "contenu": "Des peines d’inéligibilité immédiate ont également été réclamées contre plusieurs maires d’Île-de-France accusés de corruption et de trafic d’influence, mardi 11 juin au tribunal judiciaire de Paris.",
+    "url": "https://www.mediapart.fr/journal/france/120624/le-parquet-reclame-de-la-prison-ferme-contre-l-ex-prefet-gardere-et-le-promoteur-de-sousa",
+    "date": "2024-06-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1506,
+        "value": "Alain Gardère"
+      },
+      {
+        "id": 1507,
+        "value": "Antonio De Sousa"
+      },
+      {
+        "id": 1864,
+        "value": "Jean-François Oneto"
+      },
+      {
+        "id": 1865,
+        "value": "Sinclair Vouriot"
+      },
+      {
+        "id": 1930,
+        "value": "Gérald Hérault"
+      },
+      {
+        "id": 1931,
+        "value": "Armindo Dias Fernandes"
+      },
+      {
+        "id": 1932,
+        "value": "Michel Maes"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 634,
+        "value": "France Pierre"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2346,
+    "titre": "Affaire Castelain : deux ans d'inéligibilité, du sursis et 50 000 euros d'amende requis contre le président de la MEL",
+    "contenu": "Le président de la métropole européenne de Lille Damien Castelain (DVD) comparaîssait ce mardi 11 juin pour quatre délits différents. La procureure de la République requiert deux ans d'inéligibilité, deux ans de sursis probatoire et 50 000 euros d'amende.",
+    "url": "https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/affaire-castelain-la-procureure-requiert-des-peines-severes-et-une-peine-d-ineligibilite-pour-le-president-de-la-mel-2985122.html",
+    "date": "2024-06-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2749,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 981,
+        "value": "Damien Castelain"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 290,
+        "value": "Métropole Européenne de Lille (MEL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2338,
     "titre": "Cinq mises en examen pour corruption, trafic d’influence et extorsion autour de la mairie d’Ajaccio",
     "contenu": "Le directeur de cabinet du maire, Antoine Maestrali, l’adjoint aux sports, Stéphane Vannucci, et Johann Carta, un homme réputé proche de la bande du Petit Bar, sont soupçonnés d’être impliqués dans une affaire politico-judiciaire à tiroirs.",
@@ -167,7 +278,12 @@
       }
     ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -267,6 +383,46 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2344,
+    "titre": "Carrières des lumières : les Baux doivent verser 6 millions à l’ancien exploitant",
+    "contenu": "L’arrêt de la cour d’appel de Lyon rendu jeudi, après renvoi en cassation, confirme largement le jugement de première instance de janvier 2018. Le volet pénal sera tranché en fin d’année par la cour d’appel de Paris. L’ancien maire Michel Fenard (ex-LR) a fait appel de sa condamnation pour favoritisme, ainsi que la société et le gérant de Culturespaces, nouvel exploitant depuis 2008, pour recel de favoritisme.",
+    "url": "https://marsactu.fr/bref/carrieres-des-lumiere-les-baux-de-provence-doivent-verser-6-millions-a-lancien-exploitant/",
+    "date": "2024-06-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1935,
+        "value": "Michel Fenard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 542,
+        "value": "Culturespaces"
+      },
+      {
+        "id": 857,
+        "value": "Cathédrale d’images"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2335,
@@ -521,6 +677,51 @@
     "a_la_une": false
   },
   {
+    "id": 2347,
+    "titre": "Trafic d'influence et corruption autour du PSG: Un ancien député macroniste et une ex-conseillère de l'Elysée entendus par la police des polices",
+    "contenu": "L'ex-député macroniste de Paris (2017-2022) Hugues Renson et l'ex-conseillère de lL'Elysée (2012-2019), Charlotte Casasoprana, ont été auditionnés dans les locaux de l'Inspection générale de la police nationale (IGPN), ont précisé des sources proches du dossier.",
+    "url": "https://www.lindependant.fr/2024/06/05/trafic-dinfluence-et-corruption-autour-du-psg-un-ancien-depute-macroniste-et-une-ex-conseillere-de-lelysee-entendus-par-la-police-des-polices-11996887.php",
+    "date": "2024-06-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1016,
+        "value": "Hugues Renson"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2677,
+        "value": "Police"
+      },
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2324,
     "titre": "Enquête sur Hélène Gerhards, ancienne juge d’instruction en Corse : perquisitions au bureau d’un promoteur ajaccien",
     "contenu": "Ce mardi 4 juin, des perquisitions ont eu lieu au bureau d'un promoteur ajaccien. Ces dernières entrent dans le cadre d'une enquête visant une ancienne juge d'instruction en Corse, Hélène Gerhards. Mise en examen, elle est soupçonnée d'avoir des liens avec un proche supposé de la bande criminelle du \"Petit Bar\".",
@@ -613,6 +814,63 @@
       }
     ],
     "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2342,
+    "titre": "Faveurs, pressions, mélange des genres… LVMH est comme chez lui à la mairie de Paris",
+    "contenu": "Anne Hidalgo est très attentive aux desiderata de Bernard Arnault. La ville de Paris promet qu’« il n’y a jamais eu de tête-à-tête » entre eux, ce que met en doute un document consulté par Mediapart. Marc-Antoine Jamet, secrétaire général de l’entreprise, est quoi qu’il en soit omniprésent dans les couloirs de la municipalité.",
+    "url": "https://www.mediapart.fr/journal/politique/030624/faveurs-pressions-melange-des-genres-lvmh-est-comme-chez-lui-la-mairie-de-paris",
+    "date": "2024-06-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 657,
+        "value": "Anne Hidalgo"
+      },
+      {
+        "id": 690,
+        "value": "Bernard Arnault"
+      },
+      {
+        "id": 1933,
+        "value": "Marc-Antoine Jamet"
+      },
+      {
+        "id": 1934,
+        "value": "Christophe Girard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      },
+      {
+        "id": 3027,
+        "value": "Luxe"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
