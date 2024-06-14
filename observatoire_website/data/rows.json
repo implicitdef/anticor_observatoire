@@ -1,5 +1,148 @@
 [
   {
+    "id": 2350,
+    "titre": "Des réseaux d’influence prorusses ont soutenu Jordan Bardella pendant la campagne des européennes",
+    "contenu": "Ces derniers mois, des réseaux prorusses ont fait la promotion de la liste du RN aux européennes et ont tenté de décrédibiliser des médias et « fact-checkers » français. Les services de l’État ont alerté le parti. Interrogée par Mediapart, Marine Le Pen a dénoncé un « mensonge » et « du n’importe quoi », avant d’être démentie par son propre parti, qui a confirmé ces informations.",
+    "url": "https://www.mediapart.fr/journal/politique/140624/des-reseaux-d-influence-prorusses-ont-soutenu-jordan-bardella-pendant-la-campagne-des-europeennes",
+    "date": "2024-06-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2811,
+        "value": "Russie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 1019,
+        "value": "Jordan Bardella"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2360,
+    "titre": "Commémoration du Débarquement : les étranges coulisses de l’attribution de la cérémonie à Shortcut Events",
+    "contenu": "L’organisation de la cérémonie du 6 juin à Omaha Beach, en présence de 25 chefs d’Etat et de gouvernement, a été attribuée à l’agence de communication Shortcut Events après un appel d’offres. Mais des documents inédits consultés par «Libé» posent la question d’un éventuel simulacre de procédure.",
+    "url": "https://www.liberation.fr/societe/commemoration-du-debarquement-les-etranges-coulisses-de-lattribution-de-la-ceremonie-a-shortcut-events-20240612_QRT5GXHBINBPRNBZ5VNF4DSSLM/?redirected=1",
+    "date": "2024-06-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1949,
+        "value": "Philippe Bélaval"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 868,
+        "value": "Shortcut Events"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2668,
+        "value": "Communication / Événementiel"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2362,
+    "titre": "Le milliardaire Xavier Niel vole au secours de Mimi Marchand",
+    "contenu": "Le magnat des télécoms et des médias Xavier Niel rachète l’agence Bestimage de son amie Michèle Marchand, criblée de dettes et menacée par plusieurs procédures judiciaires.",
+    "url": "https://www.mediapart.fr/journal/france/120624/le-milliardaire-xavier-niel-vole-au-secours-de-mimi-marchand",
+    "date": "2024-06-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1085,
+        "value": "Xavier Niel"
+      },
+      {
+        "id": 1152,
+        "value": "Michèle Marchand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 699,
+        "value": "Bestimage"
+      },
+      {
+        "id": 870,
+        "value": "Groupe Nice-Matin"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2343,
     "titre": "Le parquet réclame de la prison ferme contre l’ex-préfet Gardère et le promoteur De Sousa",
     "contenu": "Des peines d’inéligibilité immédiate ont également été réclamées contre plusieurs maires d’Île-de-France accusés de corruption et de trafic d’influence, mardi 11 juin au tribunal judiciaire de Paris.",
@@ -111,6 +254,82 @@
     "a_la_une": false
   },
   {
+    "id": 2361,
+    "titre": "Syndicat des eaux de Mayotte: deux entrepreneurs condamnés à Paris pour recel de favoritisme",
+    "contenu": "Deux chefs d’entreprise ont été condamnés mardi à Paris à une amende et à de la prison avec sursis pour recel de favoritisme pour avoir bénéficié de contrats, entre 2017 et 2021, avec le syndicat des eaux de Mayotte sans respecter les règles des marchés publics.",
+    "url": "https://www.mediapart.fr/journal/fil-dactualites/110624/syndicat-des-eaux-de-mayotte-deux-entrepreneurs-condamnes-paris-pour-recel-de-favoritisme",
+    "date": "2024-06-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2787,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 869,
+        "value": "Syndicat intercommunal d’eau et d’assainissement de Mayotte (SIEAM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2690,
+        "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2349,
+    "titre": "Dissolution de l'Assemblée : l'ancien ministre Jérôme Cahuzac annonce qu'il sera candidat aux législatives anticipées",
+    "contenu": "Jérôme Cahuzac est de retour en politique. Condamné pour fraude fiscale, l'ex-ministre chargé du Budget sous la présidence de François Hollande a annoncé, dimanche 9 juin, qu'il sera candidat dans le Lot-et-Garonne aux prochaines élections législatives, consécutives à la dissolution de l'Assemblée nationale annoncée par Emmanuel Macron.",
+    "url": "https://www.francetvinfo.fr/politique/parlement-francais/assemblee-nationale/dissolution/dissolution-de-l-assemblee-l-ancien-ministre-jerome-cahuzac-annonce-qu-il-sera-candidat-aux-legislatives-anticipees_6595635.html",
+    "date": "2024-06-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2740,
+        "value": "47 - Lot-et-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1684,
+        "value": "Jérôme Cahuzac"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2338,
     "titre": "Cinq mises en examen pour corruption, trafic d’influence et extorsion autour de la mairie d’Ajaccio",
     "contenu": "Le directeur de cabinet du maire, Antoine Maestrali, l’adjoint aux sports, Stéphane Vannucci, et Johann Carta, un homme réputé proche de la bande du Petit Bar, sont soupçonnés d’être impliqués dans une affaire politico-judiciaire à tiroirs.",
@@ -159,6 +378,42 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2351,
+    "titre": "Essonne : un fonctionnaire suspendu après sa condamnation pour détournement de fonds publics",
+    "contenu": "Un agent municipal de Corbeil-Essonnes, qui contestait sa suspension après sa condamnation dans une affaire de détournement de fonds publics, a été débouté par la justice.",
+    "url": "https://actu.fr/ile-de-france/corbeil-essonnes_91174/essonne-un-fonctionnaire-suspendu-apres-sa-condamnation-pour-detournement-de-fonds-publics_61177743.html",
+    "date": "2024-06-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2764,
+        "value": "91 - Essonne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 87,
+        "value": "Tracfin"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -442,6 +697,75 @@
     "a_la_une": true
   },
   {
+    "id": 2359,
+    "titre": "Un maire proche d’Hubert Falco visé par une nouvelle plainte",
+    "contenu": "Thierry Albertini, maire LR de la commune de La Valette-du-Var, fait l’objet d’une plainte pour prise illégale d’intérêts et détournement de fonds publics. Ce proche de l’ancien maire de Toulon Hubert Falco était déjà visé par une plainte pour corruption.",
+    "url": "https://www.mediapart.fr/journal/france/070624/var-un-maire-proche-d-hubert-falco-vise-par-une-nouvelle-plainte",
+    "date": "2024-06-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1333,
+        "value": "Hubert Falco"
+      },
+      {
+        "id": 1944,
+        "value": "Thierry Albertini"
+      },
+      {
+        "id": 1945,
+        "value": "Laurent Chabaud"
+      },
+      {
+        "id": 1946,
+        "value": "Olivier Lutersztejn"
+      },
+      {
+        "id": 1947,
+        "value": "Nicolas Eudeline"
+      },
+      {
+        "id": 1948,
+        "value": "Lucien Lesur"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 866,
+        "value": "Société publique locale Méditerranée (SPLM)"
+      },
+      {
+        "id": 867,
+        "value": "Société d'économie mixte d'expansion de La Valette-du-Var (Semexval)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2344,
     "titre": "Carrières des lumières : les Baux doivent verser 6 millions à l’ancien exploitant",
     "contenu": "L’arrêt de la cour d’appel de Lyon rendu jeudi, après renvoi en cassation, confirme largement le jugement de première instance de janvier 2018. Le volet pénal sera tranché en fin d’année par la cour d’appel de Paris. L’ancien maire Michel Fenard (ex-LR) a fait appel de sa condamnation pour favoritisme, ainsi que la société et le gérant de Culturespaces, nouvel exploitant depuis 2008, pour recel de favoritisme.",
@@ -477,6 +801,47 @@
       }
     ],
     "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2358,
+    "titre": "Le Conseil régional du Grand Est perquisitionné dans le cadre d'une enquête qui vise Jean Rottner",
+    "contenu": "Jean Rottner dans le viseur de la justice. L'ancien président de la région Grand Est est visé par une enquête pour favoritisme et prise illégale d'intérêts. Des enquêteurs ont perquisitionné l'Hôtel de région de Metz, ce jeudi, dans le cadre de cette affaire.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/la-region-grand-est-perquisitionnee-dans-le-cadre-d-une-enquete-qui-vise-jean-rottner-7014958",
+    "date": "2024-06-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2748,
+        "value": "57 - Moselle"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 599,
+        "value": "Jean Rottner"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 159,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2660,
+        "value": "Conseil"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -615,6 +980,42 @@
     "a_la_une": false
   },
   {
+    "id": 2352,
+    "titre": "Caribus : annulation du marché attribué à la société Optimom",
+    "contenu": "Les déboires judiciaires de Rachadi Saindou, le président de la Cadema continuent. Ce mardi 4 juin, le tribunal administratif a annulé le marché de Caribus attribué à la société Optimom.",
+    "url": "https://la1ere.francetvinfo.fr/mayotte/caribus-annulation-du-marche-attribue-a-la-societe-optimom-1494164.html",
+    "date": "2024-06-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2787,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1880,
+        "value": "Rachadi Saindou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 859,
+        "value": "Optimom"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2340,
     "titre": "En Moldavie, des fonctionnaires suspectés d'avoir été payés pour effacer des notices rouges Interpol de fugitifs liés au crime organisé",
     "contenu": "Des magistrats français du Parquet national financier se sont rendus mardi dans ce pays d'Europe de l'Est pour participer à des perquisitions menées notamment avec le FBI.",
@@ -649,6 +1050,95 @@
       }
     ],
     "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2357,
+    "titre": "Entre la France et Madagascar, le business des « séjours de rupture » pour enfants placés",
+    "contenu": "Trois associations accueillant depuis des années des jeunes de l’aide sociale à l’enfance notamment sur  l’île de l'océan indien sont visées par une plainte de l’association Anticor. Leurs gérants sont accusés de prise illégale d’intérêts et de détournement de fonds publics, mais ils démentent toute irrégularité.",
+    "url": "https://www.mediapart.fr/journal/france/050624/entre-la-france-et-madagascar-le-business-des-sejours-de-rupture-pour-enfants-places",
+    "date": "2024-06-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 3058,
+        "value": "Madagascar"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1938,
+        "value": "Annick Aguado"
+      },
+      {
+        "id": 1939,
+        "value": "Farid Abdelli"
+      },
+      {
+        "id": 1940,
+        "value": "Anna Abdelli"
+      },
+      {
+        "id": 1941,
+        "value": "Thomas Voetzel"
+      },
+      {
+        "id": 1942,
+        "value": "Quentin Voetzel"
+      },
+      {
+        "id": 1943,
+        "value": "Alexis Aime"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 862,
+        "value": "Aide Sociale à l'Enfance (ASE)"
+      },
+      {
+        "id": 863,
+        "value": "Manda Spring"
+      },
+      {
+        "id": 864,
+        "value": "Anvie (ex-Reso Labonde)"
+      },
+      {
+        "id": 865,
+        "value": "Média Jeunesse"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2682,
+        "value": "Social"
+      },
+      {
+        "id": 3049,
+        "value": "Associatif / caritatif"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -701,6 +1191,117 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2354,
+    "titre": "Halles Biltoki à Angers : y a-t-il eu favoritisme et prise illégale d’intérêts ?",
+    "contenu": "Alors que les Halles Cœur de Maine Biltoki se préparent à fêter leur premier anniversaire à Angers, on ne connaît pas encore les conclusions de l’enquête déclenchée après le signalement de l’opposition municipale auprès du parquet.",
+    "url": "https://www.ouest-france.fr/pays-de-la-loire/angers-49000/halles-biltoki-a-angers-y-a-t-il-eu-favoritisme-et-prise-illegale-dinterets-faa6a854-2352-11ef-950f-122928859832",
+    "date": "2024-06-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2742,
+        "value": "49 - Maine-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1798,
+        "value": "Christophe Béchu"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2355,
+    "titre": "Inéligible pour prise illégale d'intérêt, Valérie Bozzi sera rejugée, estime la cour de cassation",
+    "contenu": "La cour de cassation a annulé la peine prononcée en appel en 2022 par la cour de Bastia pour prise illégale d'intérêt contre Valérie Bozzi. Celle-ci la rendait inéligible. La maire de Grosseto-Prugna sera rejugée à Aix-en-Provence.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/ineligible-pour-prise-illegale-d-interet-valerie-bozzi-sera-rejugee-estime-la-cour-de-cassation-3078000",
+    "date": "2024-06-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1158,
+        "value": "Valérie Bozzi"
+      },
+      {
+        "id": 1159,
+        "value": "Sylvestre Ceccaldi"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2353,
+    "titre": "L’ancien maire de Saint-Tropez mis en examen pour favoritisme",
+    "contenu": "Jean-Pierre Tuveri est soupçonné d’avoir avantagé entre 2010 et 2011 l’un des candidats pour la rénovation du centre-ville.",
+    "url": "https://www.sudouest.fr/justice/l-ancien-maire-de-saint-tropez-mis-en-examen-pour-favoritisme-20011330.php?csnt=19010eb6a5c",
+    "date": "2024-06-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1937,
+        "value": "Jean-Pierre Tuveri"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 860,
+        "value": "Kaufman & Broad"
+      },
+      {
+        "id": 861,
+        "value": "Société anonyme gardéenne d’économie mixte (SAGEM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2329,
@@ -79847,6 +80448,22 @@
     "titre": "Dupond-Moretti accuse des juges de le «salir», la plus haute magistrate de France le recadre",
     "contenu": "",
     "url": "https://www.liberation.fr/societe/police-justice/dupond-moretti-accuse-des-juges-de-le-salir-la-plus-haute-magistrate-de-france-le-recadre-20220304_WTC6KTJFOJH3NAMRXHT2J56TOU/?redirected=1",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2356,
+    "titre": "Entre la France et Madagascar, le business des « séjours de rupture » pour enfants placés",
+    "contenu": "",
+    "url": "",
     "date": null,
     "etiquettes": "",
     "departement": [],
