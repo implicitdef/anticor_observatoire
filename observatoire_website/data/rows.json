@@ -49,6 +49,54 @@
     "a_la_une": false
   },
   {
+    "id": 2363,
+    "titre": "Procès pour pantouflage d’un ancien conseiller ministériel : « On a l’impression qu’avec vous, c’est “Circulez, y a rien à voir” »",
+    "contenu": "Quelques jours après la dissolution de l’Assemblée nationale et alors qu’une valse ministérielle pourrait se profiler, un débat inédit autour de la notion de « prise illégale d’intérêts » d’un conseiller ministériel contractuel parti dans le privé a eu lieu, jeudi 13 juin, au tribunal correctionnel de Paris.",
+    "url": "https://www.lemonde.fr/societe/article/2024/06/14/proces-pour-pantouflage-d-un-ancien-conseiller-ministeriel-on-a-l-impression-qu-avec-vous-c-est-circulez-y-a-rien-a-voir_6239993_3224.html",
+    "date": "2024-06-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1396,
+        "value": "Pierre-Yves Burlot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 186,
+        "value": "Ministère de l'Écologie"
+      },
+      {
+        "id": 571,
+        "value": "Séché Environnement"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2360,
     "titre": "Commémoration du Débarquement : les étranges coulisses de l’attribution de la cérémonie à Shortcut Events",
     "contenu": "L’organisation de la cérémonie du 6 juin à Omaha Beach, en présence de 25 chefs d’Etat et de gouvernement, a été attribuée à l’agence de communication Shortcut Events après un appel d’offres. Mais des documents inédits consultés par «Libé» posent la question d’un éventuel simulacre de procédure.",
