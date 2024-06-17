@@ -1,5 +1,58 @@
 [
   {
+    "id": 2365,
+    "titre": "Rodolphe Saadé, le milliardaire chouchou de Macron, échappe à l’impôt",
+    "contenu": "Grâce à une niche fiscale sur le fret maritime et à l’optimisation via sa holding, le patron de CMA CGM, Rodolphe Saadé, ne paie quasiment pas d’impôts, alors que sa fortune a septuplé grâce à la crise du covid. La Macronie et le président en personne applaudissent.",
+    "url": "https://www.mediapart.fr/journal/economie-et-social/170624/rodolphe-saade-le-milliardaire-chouchou-de-macron-echappe-l-impot",
+    "date": "2024-06-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 648,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 1950,
+        "value": "Rodolphe Saadé"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 721,
+        "value": "CMA CGM (Compagnie maritime d'affrètement - Compagnie générale maritime)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2350,
     "titre": "Des réseaux d’influence prorusses ont soutenu Jordan Bardella pendant la campagne des européennes",
     "contenu": "Ces derniers mois, des réseaux prorusses ont fait la promotion de la liste du RN aux européennes et ont tenté de décrédibiliser des médias et « fact-checkers » français. Les services de l’État ont alerté le parti. Interrogée par Mediapart, Marine Le Pen a dénoncé un « mensonge » et « du n’importe quoi », avant d’être démentie par son propre parti, qui a confirmé ces informations.",
@@ -97,6 +150,138 @@
     "a_la_une": false
   },
   {
+    "id": 2366,
+    "titre": "Dix mois de prison avec sursis et deux ans d’inéligibilité requis à l'encontre du sous-préfet d'Aix",
+    "contenu": "Bruno Cassette comparaissait en début de semaine devant le tribunal de Lille, où il devait répondre des faits de complicité de prise illégale d’intérêts et atteinte à la liberté d’accès aux marchés publics, lorsqu'il était directeur général des services à la Métropole européenne de Lille.",
+    "url": "https://www.laprovence.com/article/region/70476459507049/dix-mois-de-prison-avec-sursis-et-deux-ans-d-ineligibilite-requis-a-lencontre-du-sous-prefet-daix",
+    "date": "2024-06-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2749,
+        "value": "59 - Nord"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 980,
+        "value": "Bruno Cassette"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 290,
+        "value": "Métropole Européenne de Lille (MEL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2368,
+    "titre": "Législatives anticipées : la HATVP prévoit « des conséquences lourdes » sur son activité de contrôle des députés et des ministres",
+    "contenu": "Avec les élections législatives à venir le 30 juin et le 7 juillet, la Haute autorité pour la transparence de la vie publique va voir arriver environ 3 000 déclarations supplémentaires. Une augmentation de l’activité imprévue, alors que l’autorité administrative demande plus de moyens.",
+    "url": "https://www.publicsenat.fr/actualites/politique/legislatives-anticipees-la-hatvp-prevoit-des-consequences-lourdes-sur-son-activite-de-controle-des-deputes-et-des-ministres",
+    "date": "2024-06-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2364,
+    "titre": "Scandale de la Légion d’honneur : l’Élysée, alerté, n’a pas saisi la justice",
+    "contenu": "De riches récipiendaires de la Légion d’honneur sont soupçonnés d’avoir profité de largesses de l’institution. Alertée, la présidence de la République n’a pas voulu faire de vagues.",
+    "url": "https://www.mediapart.fr/journal/france/130624/scandale-de-la-legion-d-honneur-l-elysee-alerte-n-pas-saisi-la-justice",
+    "date": "2024-06-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1623,
+        "value": "Benoît Puga"
+      },
+      {
+        "id": 1675,
+        "value": "Julien Renault"
+      },
+      {
+        "id": 1677,
+        "value": "Éric Duval"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 370,
+        "value": "Ordre national de la Légion d'honneur"
+      },
+      {
+        "id": 871,
+        "value": "Groupe Fareneït"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2360,
     "titre": "Commémoration du Débarquement : les étranges coulisses de l’attribution de la cérémonie à Shortcut Events",
     "contenu": "L’organisation de la cérémonie du 6 juin à Omaha Beach, en présence de 25 chefs d’Etat et de gouvernement, a été attribuée à l’agence de communication Shortcut Events après un appel d’offres. Mais des documents inédits consultés par «Libé» posent la question d’un éventuel simulacre de procédure.",
@@ -138,6 +323,42 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2367,
+    "titre": "Condamnée pour prise illégale d'intérêt, l'élue de Menton Sandra Paire va faire appel",
+    "contenu": "Sandra Paire était restée dans la salle des délibérations lors du vote d’une subvention accordée à une association qu’elle présidait. Une infraction de pure forme qui lui vaut deux ans d’inéligibilité.",
+    "url": "https://www.nicematin.com/politique/l-elue-mentonnaise-sandra-paire-va-faire-appel-927027",
+    "date": "2024-06-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1951,
+        "value": "Sandra Paire"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
