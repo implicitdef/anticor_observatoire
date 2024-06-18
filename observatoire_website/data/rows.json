@@ -1,5 +1,36 @@
 [
   {
+    "id": 2370,
+    "titre": "Marco Mouly, le « roi de l’arnaque », placé en garde à vue",
+    "contenu": "Connu pour son implication dans une vaste escroquerie à la TVA sur les quotas carbone, Marco Mouly est soupçonné d’organisation frauduleuse de son insolvabilité, d’escroquerie au jugement et d’abus de biens sociaux dans le cadre d’une autre affaire.",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2024/06/17/marco-mouly-le-roi-de-l-arnaque-place-en-garde-a-vue_6240967_4355770.html",
+    "date": "2024-06-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1131,
+        "value": "Marco Mouly"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2365,
     "titre": "Rodolphe Saadé, le milliardaire chouchou de Macron, échappe à l’impôt",
     "contenu": "Grâce à une niche fiscale sur le fret maritime et à l’optimisation via sa holding, le patron de CMA CGM, Rodolphe Saadé, ne paie quasiment pas d’impôts, alors que sa fortune a septuplé grâce à la crise du covid. La Macronie et le président en personne applaudissent.",
@@ -359,6 +390,46 @@
         "value": "Condamnation"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2369,
+    "titre": "Le candidat RN Florent de Kersauson absent pour la justice, présent pour les législatives",
+    "contenu": "Candidat RN dans la deuxième circonscription du Morbihan, Florent de Kersauson devait être jugé, ce 12 juin 2024, pour des suspicions de délits financiers. L’audience a été renvoyée : il souffre de « problèmes de santé ».",
+    "url": "https://www.letelegramme.fr/bretagne/le-candidat-rn-florent-de-kersauson-absent-pour-la-justice-present-pour-les-legislatives-6603071.php",
+    "date": "2024-06-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2747,
+        "value": "56 - Morbihan"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1952,
+        "value": "Florent de Kersauson"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
