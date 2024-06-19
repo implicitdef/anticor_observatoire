@@ -1,5 +1,102 @@
 [
   {
+    "id": 2372,
+    "titre": "Éric Ciotti visé par une enquête pour «détournement de fonds publics»",
+    "contenu": "Le représentant d’Anticor dans les Alpes-Maritimes avait adressé un signalement au parquet de Nice concernant l’usage de cartes de parking. Derrière cette affaire, le président des Républicains voit «une manipulation politique» de son ennemi Christian Estrosi.",
+    "url": "https://www.lefigaro.fr/nice/campagne-des-legislatives-2022-eric-ciotti-vise-par-une-enquete-pour-detournement-de-fonds-publics-20240617",
+    "date": "2024-06-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 123,
+        "value": "Éric Ciotti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2371,
+    "titre": "Législatives : Typhanie Degois, une lobbyiste de Pierre-Édouard Stérin en campagne sous l'étiquette RN-LR",
+    "contenu": "Prise de guerre de Jordan Bardella et d'Éric Ciotti, l'ex-macroniste Typhanie Degois s'était reconvertie dans le lobbying en 2023, après son premier mandat de députée LREM. Son principal client : le milliardaire conservateur Pierre-Édouard Stérin.",
+    "url": "https://www.lalettre.fr/fr/action-publique_partis-et-elections/2024/06/17/legislatives--typhanie-degois-une-lobbyiste-de-pierre-edouard-sterin-en-campagne-sous-l-etiquette-rn-lr%2C110248685-art",
+    "date": "2024-06-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2760,
+        "value": "73 - Savoie"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1953,
+        "value": "Typhanie Degois"
+      },
+      {
+        "id": 1954,
+        "value": "Pierre-Édouard Stérin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2370,
     "titre": "Marco Mouly, le « roi de l’arnaque », placé en garde à vue",
     "contenu": "Connu pour son implication dans une vaste escroquerie à la TVA sur les quotas carbone, Marco Mouly est soupçonné d’organisation frauduleuse de son insolvabilité, d’escroquerie au jugement et d’abus de biens sociaux dans le cadre d’une autre affaire.",
