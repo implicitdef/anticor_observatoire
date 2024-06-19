@@ -1,5 +1,119 @@
 [
   {
+    "id": 2373,
+    "titre": "Affaire des kits de campagne : la Cour de cassation valide la condamnation du RN",
+    "contenu": "La plus haute juridiction française a approuvé ce mercredi 19 juin la condamnation de l’ex-Front national qui imposait à ses candidats l’achat de matériel produit par des amis de Marine Le Pen et remboursé par l’Etat au titre des frais de campagne.",
+    "url": "https://www.liberation.fr/politique/elections/affaire-des-kits-de-campagne-le-rn-a-cour-de-cassation-valide-la-condamnation-du-rn-dans-l-20240619_CLRT52QP5RFIJFYIYGOOMCYPRI/",
+    "date": "2024-06-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 697,
+        "value": "Wallerand de Saint-Just"
+      },
+      {
+        "id": 802,
+        "value": "Frédéric Chatillon"
+      },
+      {
+        "id": 803,
+        "value": "Axel Loustau"
+      },
+      {
+        "id": 804,
+        "value": "Jean-François Jalkh"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 157,
+        "value": "Riwal"
+      },
+      {
+        "id": 158,
+        "value": "Jeanne"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2374,
+    "titre": "Le lobbyiste de TikTok Éric Garandeau dans le collimateur du PNF",
+    "contenu": "Après un signalement de la Cour des comptes, le Parquet national financier a ouvert une enquête préliminaire en novembre 2023 à l'encontre d'Éric Garandeau. Les enquêteurs se penchent sur son rôle de consultant pour le Pass Culture, entre 2018 et 2019. Des perquisitions ont été réalisées à son domicile début juin.",
+    "url": "https://www.lalettre.fr/fr/action-publique_operateurs-de-l-etat/2024/06/19/le-lobbyiste-de-tiktok-eric-garandeau-dans-le-collimateur-du-pnf%2C110249814-art",
+    "date": "2024-06-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1955,
+        "value": "Éric Garandeau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 277,
+        "value": "Ministère de la Culture"
+      },
+      {
+        "id": 872,
+        "value": "TikTok"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2372,
     "titre": "Éric Ciotti visé par une enquête pour «détournement de fonds publics»",
     "contenu": "Le représentant d’Anticor dans les Alpes-Maritimes avait adressé un signalement au parquet de Nice concernant l’usage de cartes de parking. Derrière cette affaire, le président des Républicains voit «une manipulation politique» de son ennemi Christian Estrosi.",
