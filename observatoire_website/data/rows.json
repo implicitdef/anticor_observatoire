@@ -1,5 +1,120 @@
 [
   {
+    "id": 2381,
+    "titre": "Thales visé par la justice, soupçons de corruption pour la vente de sous-marins",
+    "contenu": "Le Parquet national financier (PNF) a requis le renvoi de Thales et DCNI, trois anciens dirigeants et un intermédiaire, pour des soupçons de corruption dans la vente de sous-marins à la Malaisie. En cause, des contrats conclus en marge de la vente de deux sous-marins Scorpène et d'un sous-marin Agosta.",
+    "url": "https://www.capital.fr/entreprises-marches/thales-vise-par-la-justice-soupcons-de-corruption-pour-la-vente-de-sous-marins-1498571",
+    "date": "2024-06-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3061,
+        "value": "Malaisie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1968,
+        "value": "Najib Razak"
+      },
+      {
+        "id": 1969,
+        "value": "Abdul Razak Baginda"
+      },
+      {
+        "id": 1970,
+        "value": "Dominique Castellan"
+      },
+      {
+        "id": 1971,
+        "value": "Philippe Japiot"
+      },
+      {
+        "id": 1972,
+        "value": "Jean-Paul Perrier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Thales"
+      },
+      {
+        "id": 874,
+        "value": "DCNI"
+      },
+      {
+        "id": 875,
+        "value": "Naval Group"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2656,
+        "value": "Armement"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2379,
+    "titre": "Le maire de Valenciennes Laurent Degallaix placé en garde à vue",
+    "contenu": "Le maire de Valenciennes Laurent Degallaix a été placé en garde à vue mardi à Lille. Il en ressorti mercredi. Deux plaintes ont été déposées contre lui en 2022 et en 2023 pour trafic d'influence et subornation de témoin. La première plainte a été déposée par une ex-salariée de la SAEM stationnement, une structure extra-municipale. La jeune femme avait été embauchée par le maire quatre ans plus tôt, alors qu'elle était intime avec lui. Elle lui reproche de l'avoir licenciée lorsqu'elle a mis un terme à leur relation.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-maire-de-valenciennes-laurent-degallaix-place-en-garde-a-vue-8071965",
+    "date": "2024-06-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2749,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1331,
+        "value": "Laurent Degallaix"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 873,
+        "value": "Société Economie Mixte Valenciennes Stationnement"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2373,
     "titre": "Affaire des kits de campagne : la Cour de cassation valide la condamnation du RN",
     "contenu": "La plus haute juridiction française a approuvé ce mercredi 19 juin la condamnation de l’ex-Front national qui imposait à ses candidats l’achat de matériel produit par des amis de Marine Le Pen et remboursé par l’Etat au titre des frais de campagne.",
@@ -65,6 +180,70 @@
     "a_la_une": true
   },
   {
+    "id": 2378,
+    "titre": "Affaire Ghosn-Dati : la ligne de défense de la ministre fragilisée par de nouveaux témoignages",
+    "contenu": "Mise en examen depuis 2021 pour \"corruption\" et \"trafic d’influence\", Rachida Dati est soupçonnée d’avoir fait du lobbying au Parlement européen pour Renault-Nissan. Elle dément et affirme avoir été l’avocate du groupe à l’international, surtout au Maroc. Mais des témoignages fragilisent sa version.",
+    "url": "https://www.francetvinfo.fr/politique/rachida-dati/enquete-franceinfo-affaire-ghosn-dati-la-ligne-de-defense-de-la-ministre-fragilisee-par-de-nouveaux-temoignages_6613674.html",
+    "date": "2024-06-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 617,
+        "value": "Carlos Ghosn"
+      },
+      {
+        "id": 1965,
+        "value": "Martin Schulz"
+      },
+      {
+        "id": 1966,
+        "value": "Christian Husson"
+      },
+      {
+        "id": 1967,
+        "value": "Mouna Sepehri"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2374,
     "titre": "Le lobbyiste de TikTok Éric Garandeau dans le collimateur du PNF",
     "contenu": "Après un signalement de la Cour des comptes, le Parquet national financier a ouvert une enquête préliminaire en novembre 2023 à l'encontre d'Éric Garandeau. Les enquêteurs se penchent sur son rôle de consultant pour le Pass Culture, entre 2018 et 2019. Des perquisitions ont été réalisées à son domicile début juin.",
@@ -115,6 +294,42 @@
         "value": "Enquête"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2380,
+    "titre": "Dîner des Sommets : la Région snobe la décision du tribunal administratif",
+    "contenu": "La Région avait été sommée, le 21 mai, par le tribunal administratif de Lyon, de transmettre sous 15 jours la liste des invités du Dîner des sommets à son opposition socialiste. Mais cette dernière affirme n’avoir toujours rien reçu. Elle demande au tribunal la mise en place d’une astreinte.",
+    "url": "https://www.leprogres.fr/politique/2024/06/18/diner-des-sommets-la-region-snobe-la-decision-du-tribunal-administratif",
+    "date": "2024-06-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 668,
+        "value": "Laurent Wauquiez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
