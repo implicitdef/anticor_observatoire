@@ -103,11 +103,263 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2662,
+        "value": "Culture"
+      }
+    ],
     "procedure": [
       {
         "id": 2692,
         "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2376,
+    "titre": "Jets privés : Patrick Drahi et François-Henri Pinault soupçonnés de fausse déclaration de TVA",
+    "contenu": "Les patrons d’Altice et de Kering voyagent à bord de Global 7 500 du canadien Bombardier, achetés 55 millions d’euros pièce sans payer de TVA. Ils risquent jusqu’à 550 millions d’euros d’amende.",
+    "url": "https://www.linforme.com/luxe/article/jets-prives-patrick-drahi-et-francois-henri-pinault-soupconnes-de-fausse-declaration-de-tva_1807.html",
+    "date": "2024-06-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 757,
+        "value": "Patrick Drahi"
+      },
+      {
+        "id": 1490,
+        "value": "François-Henri Pinault"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 133,
+        "value": "Altice"
+      },
+      {
+        "id": 627,
+        "value": "Kering"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2375,
+    "titre": "Législatives : quinze candidats RN ont entretenu des liens directs avec la Russie de Poutine",
+    "contenu": "Le Rassemblement national a investi au moins quinze candidats qui ont effectué des missions de caution électorale pour la Russie ou des visites à haut niveau à Moscou, ou bien qui ont été à la tête d’associations faisant la promotion du régime de Vladimir Poutine.",
+    "url": "https://www.mediapart.fr/journal/politique/180624/legislatives-quinze-candidats-rn-ont-entretenu-des-liens-directs-avec-la-russie-de-poutine",
+    "date": "2024-06-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2811,
+        "value": "Russie"
+      },
+      {
+        "id": 2752,
+        "value": "62 - Pas-de-Calais"
+      },
+      {
+        "id": 3036,
+        "value": "72 - Sarthe"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2740,
+        "value": "47 - Lot-et-Garonne"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      },
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      },
+      {
+        "id": 2739,
+        "value": "45 - Loiret"
+      },
+      {
+        "id": 2698,
+        "value": "01 - Ain"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      },
+      {
+        "id": 3060,
+        "value": "18 - Cher"
+      },
+      {
+        "id": 2768,
+        "value": "78 - Yvelines"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 56,
+        "value": "Bruno Bilde"
+      },
+      {
+        "id": 62,
+        "value": "Frédéric Boccaletti"
+      },
+      {
+        "id": 295,
+        "value": "Hélène Laporte"
+      },
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 321,
+        "value": "Julie Lechanteux"
+      },
+      {
+        "id": 382,
+        "value": "Joëlle Mélin"
+      },
+      {
+        "id": 694,
+        "value": "Louis Aliot"
+      },
+      {
+        "id": 792,
+        "value": "Thierry Mariani"
+      },
+      {
+        "id": 1092,
+        "value": "Vladimir Poutine"
+      },
+      {
+        "id": 1956,
+        "value": "Marie-Caroline Le Pen"
+      },
+      {
+        "id": 1957,
+        "value": "Philippe Olivier"
+      },
+      {
+        "id": 1958,
+        "value": "Konstantin Malofeïev"
+      },
+      {
+        "id": 1959,
+        "value": "Virginie Joron"
+      },
+      {
+        "id": 1960,
+        "value": "Jean-Lin Lacapelle"
+      },
+      {
+        "id": 1961,
+        "value": "Andréa Kotarac"
+      },
+      {
+        "id": 1962,
+        "value": "Pierre Gentillet"
+      },
+      {
+        "id": 1963,
+        "value": "Jacques Myard"
+      },
+      {
+        "id": 1964,
+        "value": "Rémy Berthonneau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2377,
+    "titre": "Soupçons de favoritisme : deux ans de prison avec sursis requis contre l'ex-PDG d'EDF Henri Proglio",
+    "contenu": "Le parquet a requis mardi deux ans de prison avec sursis et 200.000 euros d'amende contre Henri Proglio, PDG d'EDF de 2009 à 2014, jugé devant le tribunal de Paris pour avoir recruté des consultants en dehors des règles de mise en concurrence.",
+    "url": "https://www.europe1.fr/Police-Justice/soupcons-de-favoritisme-deux-ans-de-prison-avec-sursis-requis-contre-lex-pdg-dedf-henri-proglio-4253428",
+    "date": "2024-06-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 716,
+        "value": "Henri Proglio"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 101,
+        "value": "Électricité de France (EDF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
       }
     ],
     "titre_corrige": "",
