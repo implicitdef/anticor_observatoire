@@ -1,5 +1,123 @@
 [
   {
+    "id": 2384,
+    "titre": "Une enquête mettant en cause un notaire et sa collaboratrice a été ouverte à Agen",
+    "contenu": "Un notaire de Port-Sainte-Marie vient d’être mis en examen, entre autres, pour crimes de faux en écriture publique et détournement de fonds publics. Sa compagne et collaboratrice a aussi été convoquée devant la justice pour complicité.",
+    "url": "https://www.petitbleu.fr/2024/06/21/une-enquete-mettant-en-cause-un-notaire-et-sa-collaboratrice-a-ete-ouverte-a-agen-12032565.php",
+    "date": "2024-06-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2740,
+        "value": "47 - Lot-et-Garonne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2383,
+    "titre": "« Biens mal acquis » de l’ex-gouverneur de la banque du Liban: un auditeur mis en examen",
+    "contenu": "Le patron d’un important cabinet d’audit libanais a été mis en examen le 14 mai à Paris pour complicité de blanchiment pour un rapport dédouanant l’ex-gouverneur de la Banque du Liban (BDL) Riad Salamé d’accusations de détournement de fonds publics.",
+    "url": "https://www.mediapart.fr/journal/fil-dactualites/210624/biens-mal-acquis-de-l-ex-gouverneur-de-la-banque-du-liban-un-auditeur-mis-en-examen",
+    "date": "2024-06-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3041,
+        "value": "Liban"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 910,
+        "value": "Riad Salamé"
+      },
+      {
+        "id": 913,
+        "value": "Marwan Kheireddine"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 141,
+        "value": "Sherpa"
+      },
+      {
+        "id": 244,
+        "value": "Banque du Liban"
+      },
+      {
+        "id": 876,
+        "value": "BDO France"
+      },
+      {
+        "id": 877,
+        "value": "Collectif des victimes des pratiques frauduleuses et criminelles au Liban (CPVCL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2385,
+    "titre": "Le Conseil régional Auvergne-Rhône-Alpes fait un signalement au procureur contre une élue du Cantal",
+    "contenu": "Voter une subvention à une structure dans laquelle on est salarié peut être considéré comme une prise illégale d'intérêt. Natacha Muracciole, élue écologiste du Cantal, l'a fait à trois reprises et plaide l'\"erreur bête\".",
+    "url": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/le-conseil-regional-auvergne-rhone-alpes-fait-un-signalement-au-procureur-contre-une-elue-du-cantal_14522182/",
+    "date": "2024-06-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 3062,
+        "value": "15 - Cantal"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1973,
+        "value": "Natacha Muracciole"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 878,
+        "value": "Institut d'Etudes Occitanes d'Auvergne-Rhône-Alpes (IEO)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2381,
     "titre": "Thales visé par la justice, soupçons de corruption pour la vente de sous-marins",
     "contenu": "Le Parquet national financier (PNF) a requis le renvoi de Thales et DCNI, trois anciens dirigeants et un intermédiaire, pour des soupçons de corruption dans la vente de sous-marins à la Malaisie. En cause, des contrats conclus en marge de la vente de deux sous-marins Scorpène et d'un sous-marin Agosta.",
@@ -72,6 +190,46 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2386,
+    "titre": "Compiègne. Un contribuable veut poursuivre la société du Pôle équestre, dont le gérant a pris sa fille comme prestataire",
+    "contenu": "Un contribuable soupçonne des infractions dans la gestion de Pôle équestre du Compiégnois. Le conseil municipal défend cette Société publique locale.",
+    "url": "https://www.oisehebdo.fr/2024/06/20/compiegne-societe-pole-equestre-gerant-fille-prestataire/",
+    "date": "2024-06-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2750,
+        "value": "60 - Oise"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1974,
+        "value": "François Devulder"
+      },
+      {
+        "id": 1975,
+        "value": "Florentine Devulder"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 879,
+        "value": "Pôle Equestre du Compiégnois"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2379,
@@ -244,6 +402,42 @@
     "a_la_une": true
   },
   {
+    "id": 2387,
+    "titre": "Gestion de la commune de Centuri : nouveau renvoi et nouvelle plainte d’Anticor",
+    "contenu": "Malgré 10 ans de procédures, le procès de la gestion opaque de la commune de Centuri, qui devait se tenir devant le tribunal correctionnel de Bastia ce mercredi 19 juin 2024, a fait l’objet d’un nouveau renvoi. Anticor dénonce les demandes de renvoi dilatoires de l’ancien maire dans un contexte local de collusions qui semblent perdurer.",
+    "url": "https://www.anticor.org/2024/06/19/gestion-de-la-commune-de-centuri-nouveau-renvoi-et-nouvelle-plainte-danticor/",
+    "date": "2024-06-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1976,
+        "value": "Joseph Micheli"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2374,
     "titre": "Le lobbyiste de TikTok Éric Garandeau dans le collimateur du PNF",
     "contenu": "Après un signalement de la Cour des comptes, le Parquet national financier a ouvert une enquête préliminaire en novembre 2023 à l'encontre d'Éric Garandeau. Les enquêteurs se penchent sur son rôle de consultant pour le Pass Culture, entre 2018 et 2019. Des perquisitions ont été réalisées à son domicile début juin.",
@@ -294,6 +488,94 @@
         "value": "Enquête"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2390,
+    "titre": "«Détournement de fonds publics» : Eric Ciotti, ses places de parking à l’œil et ses réunions fantomatiques",
+    "contenu": "Alors que le parquet de Nice a ouvert une enquête préliminaire visant le président conspué de LR, le département des Alpes-Maritimes assure que les cartes de parking gratuites lui étaient attribuées en tant qu’administrateur du port de Nice. L’élu n’a pourtant assisté à aucun conseil portuaire depuis au moins 2017, révèle «Libération».",
+    "url": "https://www.liberation.fr/societe/police-justice/detournement-de-fonds-publics-eric-ciotti-ses-places-de-parking-a-loeil-et-ses-reunions-fantomatiques-20240618_UQTZB7SGTNDM5JVROZMDN4DM6A/",
+    "date": "2024-06-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 123,
+        "value": "Éric Ciotti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 880,
+        "value": "Chambre de Commerce et d'Industrie Nice Côte d'Azur (CCI Nice Côte d'Azur)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2388,
+    "titre": "Alain Carignon demande à être désigné partie civile dans le cadre de l’affaire (présumée) Piolle-Martin",
+    "contenu": "Le conseiller municipal d’opposition de Grenoble Alain Carignon annonce demander à être désigné partie civile dans le cadre de l’affaire Piolle-Martin. Soit des faits présumés de reversements illicites de salaire en faveur de l’ex-première adjointe du maire, révélés par Le Canard enchaîné. Et pour lesquels une enquête pour concussion a été ouverte par le parquet de Grenoble.",
+    "url": "https://www.placegrenet.fr/2024/06/18/alain-carignon-demande-a-etre-designe-partie-civile-dans-le-cadre-de-laffaire-presumee-piolle-martin/631594",
+    "date": "2024-06-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2732,
+        "value": "38 - Isère"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 365,
+        "value": "Élisa Martin"
+      },
+      {
+        "id": 1304,
+        "value": "Éric Piolle"
+      },
+      {
+        "id": 1977,
+        "value": "Alain Carignon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 23,
+        "value": "Les écologistes (ex-Europe Ecologie Les Verts) (EELV)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -380,6 +662,37 @@
     ],
     "procedure": [],
     "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2389,
+    "titre": "La procureure fait une erreur de pièces jointes, le procès d’un maire pour détournement reporté",
+    "contenu": "Le maire de Pont-Sainte-Marie (Aube) et sa femme étaient jugés pour diverses irrégularités au tribunal judiciaire de Troyes le lundi 17 juin 2024. En raison de pièces jointes mal envoyées par mail par la procureure à l’avocat, l’audience a finalement été renvoyée au 9 juillet.",
+    "url": "https://www.ouest-france.fr/societe/justice/la-procureure-fait-une-erreur-de-pieces-jointes-le-proces-dun-maire-pour-detournement-reporte-2a32798a-2d72-11ef-b6d6-b082ab0fa5c9",
+    "date": "2024-06-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 3063,
+        "value": "10 - Aube"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 638,
+        "value": "Pascal Landréat"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "Le procès du maire de Pont-Sainte-Marie reporté pour vice de procédure",
     "a_la_une": false
   },
   {
