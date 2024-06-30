@@ -1,5 +1,349 @@
 [
   {
+    "id": 2392,
+    "titre": "Soupçonné de corruption, le géant français de l'armement Thales perquisitionné dans plusieurs pays",
+    "contenu": "Le géant français de l'armement Thales a été perquisitionné cette semaine aux sièges de différentes sociétés du groupe, en France, aux Pays-Bas et en Espagne. L'un des principaux groupes de défense au monde est soupçonné dans des affaires de corruption liée à des ventes d'équipement militaire à l'étranger. La première enquête ouverte fin 2016 concerne la vente de sous-marins et la construction d'une base navale au Brésil, tandis que la seconde ouverte en juin 2023 porte sur différentes opérations de vente de matériel militaire et civil à l'étranger.",
+    "url": "https://www.france24.com/fr/france/20240629-soup%C3%A7onn%C3%A9-de-corruption-le-g%C3%A9ant-fran%C3%A7ais-de-l-armement-thales-perquisitionn%C3%A9-dans-plusieurs-pays",
+    "date": "2024-06-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2858,
+        "value": "Pays-Bas"
+      },
+      {
+        "id": 2795,
+        "value": "Espagne"
+      },
+      {
+        "id": 3064,
+        "value": "Brésil"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 75,
+        "value": "Thales"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2656,
+        "value": "Armement"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2391,
+    "titre": "L’ancienne « spécialiste agriculture » du RN condamnée pour des détournements à la FNSEA",
+    "contenu": "L’ancienne eurodéputée Maxette Pirbakas, que le RN présentait comme sa « spécialiste de l’agriculture », a été condamnée, jeudi 27 juin, dans une affaire de détournements au sein du syndicat agricole.",
+    "url": "https://www.mediapart.fr/journal/france/280624/l-ancienne-specialiste-agriculture-du-rn-condamnee-pour-des-detournements-la-fnsea",
+    "date": "2024-06-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1751,
+        "value": "Maxette Pirbakas"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 179,
+        "value": "Reconquête"
+      },
+      {
+        "id": 569,
+        "value": "Fédération nationale des syndicats d'exploitants agricoles (FNSEA)"
+      },
+      {
+        "id": 758,
+        "value": "Rassemblement pour les français d’Outre-mer et de l’étranger (RPFOM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2654,
+        "value": "Agro-alimentaire"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2394,
+    "titre": "En marge du prêt russe au RN : 255 000 euros ont été versés en échange de positions pro-Poutine",
+    "contenu": "Jean-Luc Schaffhauser, l’eurodéputé qui a négocié le prêt russe au RN, dispose d’une fondation qui a touché des centaines de milliers d’euros en échange d’interventions en faveur de Moscou au Parlement européen, selon des mails dont Mediapart a pu prendre connaissance. Sollicitée, Marine Le Pen ne nous a pas répondu sur le sujet.",
+    "url": "https://www.mediapart.fr/journal/france/270624/en-marge-du-pret-russe-au-rn-255-000-euros-ont-ete-verses-en-echange-de-positions-pro-poutine?utm_source=global&utm_medium=social&utm_campaign=SharingApp&xtor=CS3-5",
+    "date": "2024-06-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2811,
+        "value": "Russie"
+      },
+      {
+        "id": 3065,
+        "value": "Ukraine"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 694,
+        "value": "Louis Aliot"
+      },
+      {
+        "id": 697,
+        "value": "Wallerand de Saint-Just"
+      },
+      {
+        "id": 1311,
+        "value": "Jean-Luc Schaffhauser"
+      },
+      {
+        "id": 1978,
+        "value": "Alexandre Babakov"
+      },
+      {
+        "id": 1979,
+        "value": "Mikhail Plisyuk"
+      },
+      {
+        "id": 1980,
+        "value": "Alexander Vorobyev"
+      },
+      {
+        "id": 1981,
+        "value": "Nicolas Lesage"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 881,
+        "value": "Académie européenne"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2395,
+    "titre": "Tamara Volokhova, cette binationale qui embarrasse Jordan Bardella",
+    "contenu": "Lors du débat télévisé du mardi 25 juin, le patron du RN a été gêné à l’évocation du cas d’une conseillère franco-russe de son parti au Parlement européen, qui a été en contact avec un espion russe, mais aussi en lien avec le conseiller de Poutine à l’origine du prêt accordé au RN.",
+    "url": "https://www.mediapart.fr/journal/politique/260624/tamara-volokhova-cette-binationale-qui-embarrasse-jordan-bardella",
+    "date": "2024-06-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2811,
+        "value": "Russie"
+      },
+      {
+        "id": 3065,
+        "value": "Ukraine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 792,
+        "value": "Thierry Mariani"
+      },
+      {
+        "id": 793,
+        "value": "Aymeric Chauprade"
+      },
+      {
+        "id": 794,
+        "value": "Tamara Volokhova"
+      },
+      {
+        "id": 1019,
+        "value": "Jordan Bardella"
+      },
+      {
+        "id": 1092,
+        "value": "Vladimir Poutine"
+      },
+      {
+        "id": 1958,
+        "value": "Konstantin Malofeïev"
+      },
+      {
+        "id": 1978,
+        "value": "Alexandre Babakov"
+      },
+      {
+        "id": 1982,
+        "value": "Philippe de Villiers"
+      },
+      {
+        "id": 1983,
+        "value": "Alexeï Kovalski"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 152,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      },
+      {
+        "id": 882,
+        "value": "Service des renseignements extérieurs de la fédération de Russie (SVR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2393,
+    "titre": "Carla Bruni lâche son amie Mimi Marchand dans le dossier de la rétractation de Takieddine",
+    "contenu": "La chanteuse et épouse de Nicolas Sarkozy a été entendue début mai par les enquêteurs en charge du dossier de la rétractation de l’intermédiaire Ziad Takieddine survenue à l’automne 2020. Celui-ci accusait jusque-là Nicolas Sarkozy d’avoir financé sa campagne présidentielle de 2007 avec des fonds libyens.",
+    "url": "https://www.leparisien.fr/faits-divers/elle-est-tres-manipulatrice-carla-bruni-lache-son-amie-mimi-marchand-dans-le-dossier-de-la-retractation-de-takieddine-22-06-2024-M37DJKAGZZBRHE3SUTQKBK7ZQE.php?ts=1719744095708",
+    "date": "2024-06-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 586,
+        "value": "Ziad Takieddine"
+      },
+      {
+        "id": 1152,
+        "value": "Michèle Marchand"
+      },
+      {
+        "id": 1447,
+        "value": "Carla Bruni"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2384,
     "titre": "Une enquête mettant en cause un notaire et sa collaboratrice a été ouverte à Agen",
     "contenu": "Un notaire de Port-Sainte-Marie vient d’être mis en examen, entre autres, pour crimes de faux en écriture publique et détournement de fonds publics. Sa compagne et collaboratrice a aussi été convoquée devant la justice pour complicité.",
