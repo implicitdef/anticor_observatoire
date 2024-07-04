@@ -104,13 +104,18 @@ function Logo() {
 }
 
 function Menu() {
+  const urlFormSuggestion =
+    'https://docs.google.com/forms/d/e/1FAIpQLSfXtnPuP44WAugjsiToJJEbmKJuogL6-E1QaOCSbxloZobReg/viewform'
   return (
-    <div className="p-4 flex items-center gap-4 uppercase">
-      <Link href={buildUrlList()} className="">
+    <div className="py-4 px-2 flex items-center gap-4 uppercase ">
+      <Link href={buildUrlList()} className="text-center">
         Revue de presse
       </Link>
-      <Link href={buildUrlAPropos()} className="">
+      <Link href={buildUrlAPropos()} className="text-center">
         À propos{' '}
+      </Link>
+      <Link href={urlFormSuggestion} target={'_blank'} className="text-center">
+        Suggérer<span className="hidden sm:inline"> un ajout</span>
       </Link>
     </div>
   )
