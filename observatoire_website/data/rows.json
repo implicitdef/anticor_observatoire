@@ -1,5 +1,159 @@
 [
   {
+    "id": 2405,
+    "titre": "Affaire des assistants parlementaires : Jean-Marie Le Pen pas \"en état\" d'être jugé",
+    "contenu": "Le tribunal judiciaire de Paris a annoncé mercredi 3 juillet que Jean-Marie Le Pen, placé sous régime de protection depuis quelques mois, n’était pas apte à assister au procès pour détournement de fonds publics européens prévu cet automne.",
+    "url": "https://www.rtl.fr/actu/justice-faits-divers/affaire-des-assistants-parlementaires-jean-marie-le-pen-pas-en-etat-d-etre-juge-7900400628",
+    "date": "2024-07-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 665,
+        "value": "Jean-Marie Le Pen"
+      },
+      {
+        "id": 804,
+        "value": "Jean-François Jalkh"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2406,
+    "titre": "L’ex-maire de Canteleu, Mélanie Boulanger, relaxée par la justice d’accusations de complicité de trafic de stupéfiants dans sa ville",
+    "contenu": "L’ex-maire socialiste, un de ses adjoints et une quinzaine d’autres personnes, soupçonnées d’avoir participé ou laissé prospérer le narcotrafic dans la commune, étaient poursuivis dans cette affaire.",
+    "url": "https://www.lemonde.fr/societe/article/2024/07/04/l-ex-maire-de-canteleu-melanie-boulanger-relaxee-par-la-justice-d-accusations-de-complicite-de-trafic-de-stupefiants-dans-sa-ville_6246888_3224.html",
+    "date": "2024-07-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2763,
+        "value": "76 - Seine-Maritime"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 929,
+        "value": "Mélanie Boulanger"
+      },
+      {
+        "id": 930,
+        "value": "Hasbi Colak"
+      },
+      {
+        "id": 1988,
+        "value": "Aziz Meziani"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2403,
+    "titre": "Affaire Ghosn : la justice rejette un recours de Rachida Dati sur la prescription des faits",
+    "contenu": "La cour d’appel de Paris a rejeté, mardi 2 juillet, la demande de Rachida Dati de faire reconnaître la prescription et de mettre fin aux poursuites qui la visent pour corruption, notamment depuis 2021 dans un volet de l’affaire Carlos Ghosn.",
+    "url": "https://www.lemonde.fr/societe/article/2024/07/02/affaire-ghosn-la-justice-rejette-un-recours-de-rachida-dati-sur-la-prescription-des-faits_6246011_3224.html",
+    "date": "2024-07-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 617,
+        "value": "Carlos Ghosn"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 277,
+        "value": "Ministère de la Culture"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2392,
     "titre": "Soupçonné de corruption, le géant français de l'armement Thales perquisitionné dans plusieurs pays",
     "contenu": "Le géant français de l'armement Thales a été perquisitionné cette semaine aux sièges de différentes sociétés du groupe, en France, aux Pays-Bas et en Espagne. L'un des principaux groupes de défense au monde est soupçonné dans des affaires de corruption liée à des ventes d'équipement militaire à l'étranger. La première enquête ouverte fin 2016 concerne la vente de sous-marins et la construction d'une base navale au Brésil, tandis que la seconde ouverte en juin 2023 porte sur différentes opérations de vente de matériel militaire et civil à l'étranger.",
@@ -77,7 +231,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 179,
@@ -179,7 +333,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 65,
@@ -203,6 +357,51 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2404,
+    "titre": "Jean-Paul Huchon, ancien président de la région Ile-de-France, a été condamné à huit mois de prison avec sursis pour prise illégale d’intérêts",
+    "contenu": "Il a comparu, en mai, dans une affaire concernant une subvention de 60 000 euros attribuée, dans « des conditions paraissant irrégulières », par la région en 2014 à l’association Green Lotus.",
+    "url": "https://www.lemonde.fr/societe/article/2024/06/26/jean-paul-huchon-ancien-president-de-la-region-ile-de-france-a-ete-condamne-a-huit-mois-de-prison-avec-sursis-pour-prise-illegale-d-interets_6243876_3224.html",
+    "date": "2024-06-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1986,
+        "value": "Jean-Paul Huchon"
+      },
+      {
+        "id": 1987,
+        "value": "Jean-Marc Brûlé"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 883,
+        "value": "Green Lotus"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -268,7 +467,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 65,
@@ -296,6 +495,283 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2402,
+    "titre": "Rachadi Saindou et Salime Mdéré condamnés à des peines de prison ferme et d'inégibilité",
+    "contenu": "Le président de la Cadema, Rachadi Saindou et le premier vice-président du conseil départemental, Salime Mdéré, ont été condamnés ce mardi à des peines de prison et d'inéligibilité. Ils étaient accusés de faits de détournement de fonds publics, recels ou encore de prise illégale d'intérêt.",
+    "url": "https://la1ere.francetvinfo.fr/mayotte/rachadi-saindou-et-salime-mdere-condamnes-a-des-peines-de-prison-ferme-et-d-inegibilite-1499984.html",
+    "date": "2024-06-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2787,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1880,
+        "value": "Rachadi Saindou"
+      },
+      {
+        "id": 1881,
+        "value": "Salime Mdéré"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 826,
+        "value": "Communauté d'Agglomération Dembéni-Mamoudzou (CADEMA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2400,
+    "titre": "« On a une fragilité, c’est notre indépendance » : les magistrats inquiets face au risque RN",
+    "contenu": "En l’absence d’un parquet indépendant, les procureurs s’inquiètent de l’arrivée de l’extrême droite au pouvoir.",
+    "url": "https://www.humanite.fr/politique/democratie/on-a-une-fragilite-cest-notre-independance-les-magistrats-inquiets-face-au-risque-rn",
+    "date": "2024-06-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2396,
+    "titre": "Détournement de frais de mandat : 8 mois de prison avec sursis et 5 ans d'inéligibilité requis contre Jean-Christophe Cambadélis",
+    "contenu": "Jean-Christophe Cambadélis est jugé au tribunal correctionnel de Paris pour détournement de frais de mandat parlementaire.",
+    "url": "https://www.francetvinfo.fr/faits-divers/justice-proces/detournement-de-frais-de-mandat-8-mois-de-prison-avec-sursis-et-5-ans-d-ineligibilite-requis-contre-jean-christophe-cambadelis_6623691.html",
+    "date": "2024-06-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1647,
+        "value": "Jean-Christophe Cambadélis"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2401,
+    "titre": "Soupçons de corruption : nouvelles révélations sur le président de l’agglomération Gaillac‐Grauhlet",
+    "contenu": "Déjà mis en examen pour corruption, prise illégale d’intérêt et favoritisme, Paul Salvador a attribué plusieurs marchés publics à deux entrepreneurs avec lesquels il est associé personnellement.",
+    "url": "https://www.mediacites.fr/enquete/toulouse/2024/06/24/soupcons-de-corruption-nouvelles-revelations-sur-le-president-de-lagglomeration-gaillac-grauhlet/",
+    "date": "2024-06-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2771,
+        "value": "81 - Tarn"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1113,
+        "value": "Paul Salvador"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2397,
+    "titre": "Un agent des finances publiques écroué pour escroquerie à la TVA",
+    "contenu": "En fin de semaine dernière, un agent des finances publiques des Hauts-de-Seine a été écroué, suspecté de corruption passive, pour une somme de 330 000 euros en remboursements de crédits de TVA.",
+    "url": "https://www.lejsl.com/faits-divers-justice/2024/06/24/un-agent-des-finances-publiques-ecroue-pour-escroquerie-a-la-tva",
+    "date": "2024-06-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2765,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 27,
+        "value": "Direction générale des finances publiques (DGFIP)"
+      },
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2398,
+    "titre": "“Dîner des sommets” : la Région Auvergne-Rhône-Alpes rechigne à se soumettre à la décision du tribunal administratif",
+    "contenu": "La Région avait été sommée, le 21 mai, par le tribunal administratif de Lyon, de transmettre sous 15 jours la liste des invités du “Dîner des sommets” à son opposition socialiste. Mais cette dernière affirme n’avoir toujours rien reçu. Elle demande au tribunal la mise en place d’une astreinte.",
+    "url": "https://www.ledauphine.com/politique/2024/06/23/diner-des-sommets-la-region-rechigne-a-se-soumettre-a-la-decision-du-tribunal-administratif",
+    "date": "2024-06-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 668,
+        "value": "Laurent Wauquiez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2399,
+    "titre": "Affaire de favoritisme présumé : David Riché, ancien maire de Roura, relaxé",
+    "contenu": "L’ancien maire de Roura, David Riché, et le consultant financier, Jean-Paul Toula, relaxés par la justice. L'ex-élu était poursuivi pour favoritisme dans deux dossiers de marchés publics. Jean-Paul Toula comparaissait pour \"recel de favoritisme\" dans l’un de ces dossiers. L’audience du tribunal correctionnel a eu lieu dans l'après-midi du 20 juin.",
+    "url": "https://la1ere.francetvinfo.fr/guyane/centre-littoral/roura/video-affaire-de-favoritisme-presume-david-riche-ancien-maire-de-roura-relaxe-1499420.html",
+    "date": "2024-06-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2785,
+        "value": "973 - Guyane"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1984,
+        "value": "David Riché"
+      },
+      {
+        "id": 1985,
+        "value": "Jean-Paul Toula"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -654,7 +1130,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 157,
@@ -1173,7 +1649,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       }
     ],
     "categorie": [
@@ -1315,7 +1791,7 @@
       },
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       }
     ],
     "categorie": [
@@ -1448,7 +1924,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       }
     ],
     "categorie": [
@@ -1754,7 +2230,7 @@
       },
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       }
     ],
     "categorie": [
@@ -8573,7 +9049,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 355,
@@ -9374,7 +9850,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 179,
@@ -9860,7 +10336,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 746,
@@ -13578,7 +14054,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 65,
@@ -13972,7 +14448,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 355,
@@ -16142,7 +16618,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 87,
@@ -20687,7 +21163,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       }
     ],
     "categorie": [
@@ -22829,7 +23305,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 65,
@@ -25053,7 +25529,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 383,
@@ -26672,7 +27148,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 180,
@@ -28481,7 +28957,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 179,
@@ -29836,7 +30312,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       }
     ],
     "categorie": [
@@ -30110,7 +30586,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 65,
@@ -30221,7 +30697,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       }
     ],
     "categorie": [
@@ -32098,7 +32574,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 180,
@@ -33858,7 +34334,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 157,
@@ -34266,7 +34742,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 152,
@@ -34315,7 +34791,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       }
     ],
     "categorie": [
@@ -35478,7 +35954,7 @@
       },
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 69,
@@ -36062,7 +36538,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       }
     ],
     "categorie": [
@@ -36583,7 +37059,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       }
     ],
     "categorie": [
@@ -41631,7 +42107,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 272,
@@ -46945,7 +47421,7 @@
       },
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 65,
@@ -48060,7 +48536,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       }
     ],
     "categorie": [
@@ -50944,7 +51420,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 65,
@@ -51769,7 +52245,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 65,
@@ -52749,7 +53225,7 @@
     "personnes_morales": [
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       }
     ],
     "categorie": [
@@ -63422,7 +63898,7 @@
       },
       {
         "id": 16,
-        "value": "Rassemblement National (RN)"
+        "value": "Rassemblement National (RN), ex Front National (FN)"
       },
       {
         "id": 69,
