@@ -1,5 +1,45 @@
 [
   {
+    "id": 2410,
+    "titre": "Avant les législatives, les banques à l’offensive auprès de Bercy pour tenter de légaliser le « CumCum »",
+    "contenu": "Le lobbying bancaire ne souffre ni répit ni trêve. Au contraire, anticipant un changement de gouvernement, les banques ont fait le siège de Bercy, ces dernières semaines, dans l’affaire dite du « CumCum » (du latin cum, « avec », sous-entendu « gagnant-gagnant », avec dividende). Leur objectif : obtenir de l’administration, avant le dimanche 7 juillet, le texte le plus favorable possible, pour pouvoir continuer à pratiquer ces activités controversées d’arbitrage de dividendes, dans un cadre réglementaire négocié, sans risquer d’être poursuivies.",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2024/07/05/avant-les-legislatives-les-banques-a-l-offensive-aupres-de-bercy-pour-tenter-de-legaliser-le-cumcum_6247186_4355770.html",
+    "date": "2024-07-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 27,
+        "value": "Direction générale des finances publiques (DGFIP)"
+      },
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2405,
     "titre": "Affaire des assistants parlementaires : Jean-Marie Le Pen pas \"en état\" d'être jugé",
     "contenu": "Le tribunal judiciaire de Paris a annoncé mercredi 3 juillet que Jean-Marie Le Pen, placé sous régime de protection depuis quelques mois, n’était pas apte à assister au procès pour détournement de fonds publics européens prévu cet automne.",
