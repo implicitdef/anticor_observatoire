@@ -616,6 +616,42 @@
     "a_la_une": false
   },
   {
+    "id": 2411,
+    "titre": "Landes : le maire de Benquet, Pierre Mallet, condamné à 10.000€ d'amende",
+    "contenu": "Pierre Mallet, le maire de Benquet dans les Landes et ancien vice-président de l'agglomération a été reconnu coupable de prise illégale d'intérêts. Il doit payer une amende de 10.000 euros. Pierre Mallet fait appel de cette décision.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/landes-le-maire-de-benquet-pierre-mallet-condamne-a-10-000-d-amende-4002564",
+    "date": "2024-06-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2734,
+        "value": "40 - Landes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1184,
+        "value": "Pierre Mallet"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2402,
     "titre": "Rachadi Saindou et Salime Mdéré condamnés à des peines de prison ferme et d'inégibilité",
     "contenu": "Le président de la Cadema, Rachadi Saindou et le premier vice-président du conseil départemental, Salime Mdéré, ont été condamnés ce mardi à des peines de prison et d'inéligibilité. Ils étaient accusés de faits de détournement de fonds publics, recels ou encore de prise illégale d'intérêt.",
