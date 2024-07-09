@@ -1,5 +1,138 @@
 [
   {
+    "id": 2418,
+    "titre": "Les dessous de la mise en examen de Carla Bruni-Sarkozy dans l’affaire de la rétractation de Ziad Takieddine",
+    "contenu": "L’épouse de Nicolas Sarkozy est une proche de Mimi Marchand, figure de la presse people soupçonnée d’avoir orchestré la rétractation de Ziad Takieddine, l’un des accusateurs de son mari dans l’enquête sur le supposé financement libyen de sa campagne présidentielle de 2007.",
+    "url": "https://www.lemonde.fr/societe/article/2024/07/09/les-dessous-de-la-mise-en-examen-de-carla-bruni-sarkozy-dans-l-affaire-de-la-retractation-de-ziad-takieddine_6248265_3224.html",
+    "date": "2024-07-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 586,
+        "value": "Ziad Takieddine"
+      },
+      {
+        "id": 1152,
+        "value": "Michèle Marchand"
+      },
+      {
+        "id": 1447,
+        "value": "Carla Bruni-Sarkozy"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2417,
+    "titre": "Sébastien Tiran promu à la tête du renseignement douanier",
+    "contenu": "L'ancien directeur adjoint de la Direction nationale du renseignement et des enquêtes douanières (DNRED) prend du galon. Il assurera la direction de ce service de renseignement de Bercy à compter du 1er juillet.",
+    "url": "https://www.lalettre.fr/fr/action-publique_executif/2024/06/28/bercy--sebastien-tiran-promu-a-la-tete-du-renseignement-douanier%2C110252911-art",
+    "date": "2024-07-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1993,
+        "value": "Sébastien Tiran"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 583,
+        "value": "Direction nationale du renseignement et des enquêtes douanières (DNRED)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2412,
+    "titre": "Soupçons de financement illégal : la campagne présidentielle de Marine Le Pen en 2022 visée par une enquête sur ses comptes",
+    "contenu": "Après l’affaire des assistants parlementaires au Parlement européen, le RN est de nouveau visé par une enquête, cette fois-ci pour des soupçons de financement illégal durant la campagne présidentielle de 2022.",
+    "url": "https://www.publicsenat.fr/actualites/politique/soupcons-de-financement-illegal-la-campagne-presidentielle-de-marine-le-pen-en-2022-visee-par-une-enquete-sur-ses-comptes",
+    "date": "2024-07-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 180,
+        "value": "Commission nationale des comptes de campagne et des financements politiques (CNCCFP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2410,
     "titre": "Avant les législatives, les banques à l’offensive auprès de Bercy pour tenter de légaliser le « CumCum »",
     "contenu": "Le lobbying bancaire ne souffre ni répit ni trêve. Au contraire, anticipant un changement de gouvernement, les banques ont fait le siège de Bercy, ces dernières semaines, dans l’affaire dite du « CumCum » (du latin cum, « avec », sous-entendu « gagnant-gagnant », avec dividende). Leur objectif : obtenir de l’administration, avant le dimanche 7 juillet, le texte le plus favorable possible, pour pouvoir continuer à pratiquer ces activités controversées d’arbitrage de dividendes, dans un cadre réglementaire négocié, sans risquer d’être poursuivies.",
@@ -142,6 +275,67 @@
     "a_la_une": false
   },
   {
+    "id": 2413,
+    "titre": "Une agence d’influence proche de Bolloré a mené une campagne de désinformation contre RSF",
+    "contenu": "Progressif Media, une société dont le groupe de Vincent Bolloré est actionnaire, a entrepris de mener une campagne de discrédit contre Reporters sans frontières, à coups notamment de faux sites internet. Au motif que l’ONG plaide pour la régulation de CNews.",
+    "url": "https://www.mediapart.fr/journal/culture-et-idees/040724/une-agence-d-influence-proche-de-bollore-mene-une-campagne-de-desinformation-contre-rsf",
+    "date": "2024-07-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 641,
+        "value": "Vincent Bolloré"
+      },
+      {
+        "id": 1989,
+        "value": "Christophe Deloire"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 567,
+        "value": "Reporters sans frontières (RSF)"
+      },
+      {
+        "id": 620,
+        "value": "CNews"
+      },
+      {
+        "id": 644,
+        "value": "Autorité de régulation de la communication audiovisuelle et numérique (ARCOM)"
+      },
+      {
+        "id": 886,
+        "value": "Progressif Media"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2403,
     "titre": "Affaire Ghosn : la justice rejette un recours de Rachida Dati sur la prescription des faits",
     "contenu": "La cour d’appel de Paris a rejeté, mardi 2 juillet, la demande de Rachida Dati de faire reconnaître la prescription et de mettre fin aux poursuites qui la visent pour corruption, notamment depuis 2021 dans un volet de l’affaire Carlos Ghosn.",
@@ -189,6 +383,67 @@
       }
     ],
     "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2414,
+    "titre": "La vente de la villa de Marine Le Pen à Rueil-Malmaison relance les interrogations sur son patrimoine",
+    "contenu": "L’ex-présidente du RN a vendu pour 2,5 millions d’euros la villa où demeure son père au milliardaire conservateur Pierre-Édouard Stérin et à son bras droit François Durvye. Une opération surprenante, d'autant que l’élue l’avait déclarée « invendable » dans sa déclaration de patrimoine en 2022.",
+    "url": "https://www.mediapart.fr/journal/france/020724/la-vente-de-la-villa-de-marine-le-pen-rueil-malmaison-relance-les-interrogations-sur-son-patrimoine",
+    "date": "2024-07-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2765,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 665,
+        "value": "Jean-Marie Le Pen"
+      },
+      {
+        "id": 1954,
+        "value": "Pierre-Édouard Stérin"
+      },
+      {
+        "id": 1990,
+        "value": "François Durvye"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 887,
+        "value": "Otium capital"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -478,6 +733,50 @@
     "a_la_une": false
   },
   {
+    "id": 2415,
+    "titre": "À Lyon, la gestion de la monnaie locale «la Gonette» fait polémique",
+    "contenu": "Dans un rapport publié lundi, la chambre régionale des comptes d’Auvergne-Rhône-Alpes a pointé du doigt la mauvaise gestion de la monnaie locale et citoyenne lyonnaise. Plusieurs élus écologistes de la métropole sont par ailleurs accusés de «prise illégale d'intérêt».",
+    "url": "https://www.lefigaro.fr/lyon/a-lyon-la-gestion-de-la-monnaie-locale-la-gonette-fait-polemique-20240626",
+    "date": "2024-06-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1035,
+        "value": "Bruno Bernard"
+      },
+      {
+        "id": 1991,
+        "value": "Émeline Baume de Brosses"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 96,
+        "value": "Chambre régionale des comptes"
+      },
+      {
+        "id": 888,
+        "value": "Gonette"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2404,
     "titre": "Jean-Paul Huchon, ancien président de la région Ile-de-France, a été condamné à huit mois de prison avec sursis pour prise illégale d’intérêts",
     "contenu": "Il a comparu, en mai, dans une affaire concernant une subvention de 60 000 euros attribuée, dans « des conditions paraissant irrégulières », par la région en 2014 à l’association Green Lotus.",
@@ -611,6 +910,46 @@
         "value": "Lobbying / Influence"
       }
     ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2416,
+    "titre": "L’ex directeur du marché d’intérêt national des Arnavaux jugé pour prise illégale d’intérêts",
+    "contenu": "L’ex directeur du marché d’intérêt national des Arnavaux jugé pour prise illégale d’intérêts",
+    "url": "https://marsactu.fr/bref/lex-directeur-du-marche-dinteret-national-des-arnavaux-juge-pour-prise-illegale-dinterets/",
+    "date": "2024-06-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1992,
+        "value": "Marc Dufour"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 889,
+        "value": "Somimar"
+      },
+      {
+        "id": 890,
+        "value": "Marché Marseille Méditerranée (M.I.N. des Arnavaux)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -18224,7 +18563,7 @@
       },
       {
         "id": 567,
-        "value": "Reporters sans frontières"
+        "value": "Reporters sans frontières (RSF)"
       },
       {
         "id": 568,
