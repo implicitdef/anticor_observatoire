@@ -445,6 +445,99 @@
     "a_la_une": false
   },
   {
+    "id": 2424,
+    "titre": "Soupçons de malversations à Istres : la première adjointe se voit refuser un plaider-coupable",
+    "contenu": "La première adjointe d'Istres (Bouches-dur-Rhône), Nicole Joulia, a été auditionnée ce mardi. Elle est soupçonnée de favoritisme et de détournement de fonds publics. Une nouvelle audience collégiale est prévue dans un an, les juges doutant de sa culpabilité dans l'affaire.",
+    "url": "https://www.bfmtv.com/marseille/soupcons-de-malversations-a-istres-la-premiere-adjointe-se-voit-refuser-un-plaider-coupable_AD-202407030215.html",
+    "date": "2024-07-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1568,
+        "value": "François Bernardini"
+      },
+      {
+        "id": 1569,
+        "value": "Nicole Joulia"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2426,
+    "titre": "Affaire Alpexpo : Alain Pilaud relaxé, Claus Habfast et l’ancienne directrice à la fois relaxés et condamnés",
+    "contenu": "Deux mois après la comparution de trois anciens dirigeants d’Alpexpo, le tribunal correctionnel de Grenoble a rendu sa décision, mardi 2 juillet 2024, suivant en partie les arguments de la défense. Poursuivi pour complicité de favoritisme, Alain Pilaud, ex-élu de la Ville, a été relaxé. Prévenu de favoritisme, le conseiller municipal Claus Habfast est également relaxé pour les faits datant d’avant juillet 2015 mais reconnu coupable pour la période postérieure, écopant de 5 000 euros d’amende avec sursis. Enfin, l’ancienne directrice Catherine Calmels est condamnée pour abus de biens sociaux à cinq mois de prison avec sursis et 5 000 euros d’amende.",
+    "url": "https://www.placegrenet.fr/2024/07/02/affaire-alpexpo-alain-pilaud-relaxe-claus-habfast-et-lancienne-directrice-a-la-fois-relaxes-et-condamnes/632702",
+    "date": "2024-07-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2732,
+        "value": "38 - Isère"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1795,
+        "value": "Catherine Calmels"
+      },
+      {
+        "id": 1796,
+        "value": "Claus Habfast"
+      },
+      {
+        "id": 1797,
+        "value": "Alain Pilaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 788,
+        "value": "Alpexpo"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      },
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2403,
     "titre": "Affaire Ghosn : la justice rejette un recours de Rachida Dati sur la prescription des faits",
     "contenu": "La cour d’appel de Paris a rejeté, mardi 2 juillet, la demande de Rachida Dati de faire reconnaître la prescription et de mettre fin aux poursuites qui la visent pour corruption, notamment depuis 2021 dans un volet de l’affaire Carlos Ghosn.",
@@ -493,6 +586,88 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2425,
+    "titre": "Bernard Pancrel condamné à 5 ans d'interdiction d'exercer un mandat public et 10 ans d'inéligibilité",
+    "contenu": "Bernard Pancrel a été reconnu coupable de favoritisme et de faux et usage de faux par le tribunal correctionnel de Pointe-à-Pitre ce mardi matin. Il est condamné à 18 mois de prison avec sursis, 15 000 euros d'amende, 5 ans d'interdiction d'exercer un mandat public et 10 ans d'inéligibilité, le tout soumis à exécution provisoire.",
+    "url": "https://la1ere.francetvinfo.fr/guadeloupe/grande-terre/saint-francois/bernard-pancrel-condamne-a-5-ans-d-interdiction-d-exercer-un-mandat-public-et-10-ans-d-ineligibilite-1502480.html",
+    "date": "2024-07-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1674,
+        "value": "Bernard Pancrel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 891,
+        "value": "Communauté d'agglomération La Riviéra du Levant (CARL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2423,
+    "titre": "Damien Castelain, le président de la Métropole européenne de Lille, condamné",
+    "contenu": "Jugé pour quatre affaires différentes, Damien Castelain a notamment été condamné à 5 ans d'inéligibilité ce mardi par le tribunal de Lille, mais sans exécution provisoire. Le président de la Métropole européenne de Lille peut donc rester en poste.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/proces-castelain-le-president-de-la-metropole-europeenne-de-lille-condamne-2691510",
+    "date": "2024-07-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2749,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 981,
+        "value": "Damien Castelain"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 290,
+        "value": "Métropole Européenne de Lille (MEL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -555,6 +730,96 @@
     ],
     "procedure": [],
     "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2428,
+    "titre": "Le maire de Menton Yves Juhel placé en garde à vue dans le cadre d’une enquête pour détournements de fonds publics",
+    "contenu": "Le maire de Menton Yves Juhel a été placé en garde à vue ce mardi. Mathieu Messina, ancien adjoint au maire, et l’épouse de l’édile ont été également entendus par les enquêteurs. Le domicile du maire ainsi que l’hôtel de ville de la commune des Alpes-Maritimes ont été perquisitionnés ce mardi.",
+    "url": "https://www.leparisien.fr/faits-divers/le-maire-de-menton-yves-juhel-place-en-garde-a-vue-dans-le-cadre-dune-enquete-pour-detournements-de-fonds-publics-02-07-2024-CVQ3SFKCURF65ELO2IWSWJ4FQE.php",
+    "date": "2024-07-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 953,
+        "value": "Yves Juhel"
+      },
+      {
+        "id": 1180,
+        "value": "Mathieu Messina"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 51,
+        "value": "Société publique locale des Ports de Menton"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2421,
+    "titre": "Prise illégale d'intérêts : deux ans de prison avec sursis requis contre Michèle Alliot-Marie",
+    "contenu": "Le parquet a requis mardi deux ans d'emprisonnement avec sursis contre l'ex-ministre Michèle Alliot-Marie, soupçonnée de prise illégale d'intérêts de 2010 à 2012 alors qu'elle était adjointe à la mairie de Saint-Jean-de-Luz (Pyrénées-Atlantiques). Le ministère public a également demandé que «MAM» soit condamnée à payer 50.000 euros d'amende et qu'elle soit déclarée inéligible pendant trois ans.",
+    "url": "https://www.lefigaro.fr/faits-divers/prise-illegale-d-interets-douze-ans-plus-tard-michele-alliot-marie-jugee-20240701",
+    "date": "2024-07-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2754,
+        "value": "64 - Pyrénées-Atlantiques"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 683,
+        "value": "Michèle Alliot-Marie"
+      },
+      {
+        "id": 1472,
+        "value": "Bernard Marie"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "Deux ans de prison avec sursis requis contre Michèle Alliot-Marie pour prise illégale d'intérêts",
     "a_la_une": false
   },
   {
@@ -22692,7 +22957,7 @@
     "personnes_morales": [
       {
         "id": 51,
-        "value": "Ports de Menton"
+        "value": "Société publique locale des Ports de Menton"
       }
     ],
     "categorie": [
@@ -23344,7 +23609,7 @@
     "personnes_morales": [
       {
         "id": 51,
-        "value": "Ports de Menton"
+        "value": "Société publique locale des Ports de Menton"
       }
     ],
     "categorie": [
@@ -82565,6 +82830,22 @@
   },
   {
     "id": 2291,
+    "titre": "",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2422,
     "titre": "",
     "contenu": "",
     "url": "",
