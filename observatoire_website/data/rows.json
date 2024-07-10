@@ -1,5 +1,50 @@
 [
   {
+    "id": 2419,
+    "titre": "Affaire François Thierry : nouveau procès en vue pour l’ex-patron de l’Office des stups",
+    "contenu": "Soupçonnée d’avoir favorisé l’importation d’au moins 15 tonnes de résine de cannabis en octobre 2015, l’ancienne gloire de la lutte antidrogue est renvoyée devant le tribunal judiciaire de Bordeaux pour «complicité de trafic de stupéfiants» et «destruction de preuves».",
+    "url": "https://www.liberation.fr/societe/police-justice/affaire-francois-thierry-nouveau-proces-en-vue-pour-lex-patron-de-loffice-des-stups-20240710_FCJ3DW6R25BGRMXJ3YU4NAEHDE/?redirected=1",
+    "date": "2024-07-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 820,
+        "value": "François Thierry"
+      },
+      {
+        "id": 821,
+        "value": "Sophiane Hambli"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 63,
+        "value": "Office antistupéfiants (Ofast)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2664,
+        "value": "Drogue"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2418,
     "titre": "Les dessous de la mise en examen de Carla Bruni-Sarkozy dans l’affaire de la rétractation de Ziad Takieddine",
     "contenu": "L’épouse de Nicolas Sarkozy est une proche de Mimi Marchand, figure de la presse people soupçonnée d’avoir orchestré la rétractation de Ziad Takieddine, l’un des accusateurs de son mari dans l’enquête sur le supposé financement libyen de sa campagne présidentielle de 2007.",
