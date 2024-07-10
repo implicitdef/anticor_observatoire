@@ -45,6 +45,70 @@
     "a_la_une": false
   },
   {
+    "id": 2420,
+    "titre": "Des textos révèlent comment BFM s’est mise au service de Sarkozy, le « boss »",
+    "contenu": "Des messages obtenus par des juges d’instruction montrent l’incroyable mobilisation de responsables et figures de la chaîne d’information en soutien de Nicolas Sarkozy au moment de la fausse rétractation de Ziad Takieddine. Révélations sur une manipulation.",
+    "url": "https://www.mediapart.fr/journal/france/100724/des-textos-revelent-comment-bfm-s-est-mise-au-service-de-sarkozy-le-boss",
+    "date": "2024-07-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 586,
+        "value": "Ziad Takieddine"
+      },
+      {
+        "id": 1994,
+        "value": "Véronique Waché"
+      },
+      {
+        "id": 1995,
+        "value": "Marc-Olivier Fogiel"
+      },
+      {
+        "id": 1996,
+        "value": "Ruth Elkrief"
+      },
+      {
+        "id": 1997,
+        "value": "Bruno Jeudy"
+      },
+      {
+        "id": 1998,
+        "value": "Arthur Dreyfuss"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 73,
+        "value": "BFM TV"
+      },
+      {
+        "id": 592,
+        "value": "Paris Match"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2418,
     "titre": "Les dessous de la mise en examen de Carla Bruni-Sarkozy dans l’affaire de la rétractation de Ziad Takieddine",
     "contenu": "L’épouse de Nicolas Sarkozy est une proche de Mimi Marchand, figure de la presse people soupçonnée d’avoir orchestré la rétractation de Ziad Takieddine, l’un des accusateurs de son mari dans l’enquête sur le supposé financement libyen de sa campagne présidentielle de 2007.",
