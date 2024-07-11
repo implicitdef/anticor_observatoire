@@ -1,5 +1,93 @@
 [
   {
+    "id": 2435,
+    "titre": "Enedis : des fournisseurs liés à Linky au cœur de l’enquête pour corruption",
+    "contenu": "La fraude organisée par des salariés du groupe avec certains sous-traitants informatiques est dans le viseur du parquet national financier. Elle aurait duré plusieurs années.",
+    "url": "https://www.linforme.com/energie/article/enedis-des-fournisseurs-lies-a-linky-au-c-ur-de-l-enquete-pour-corruption_1880.html?utm_campaign=quotidienne&utm_medium=email&utm_source=newsletter",
+    "date": "2024-07-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 33,
+        "value": "Brigade de répression de la délinquance économique (BRDE)"
+      },
+      {
+        "id": 892,
+        "value": "Enedis (ex-ERDF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2666,
+        "value": "Énergie"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2434,
+    "titre": "L’étrange prêt de 1,3 million d’euros autorisé par un député ciottiste du Gard, haut fonctionnaire de Bercy",
+    "contenu": "Alexandre Allegret-Pilot, élu député RN-LR, dit avoir signé un arrêté non conforme sur ordre de Bruno Le Maire, ce que ce dernier dément vigoureusement.",
+    "url": "https://www.lemonde.fr/politique/article/2024/07/11/l-etrange-pret-de-1-3-million-d-euros-autorise-par-un-depute-ciottiste-du-gard-haut-fonctionnaire-de-bercy_6248860_823448.html",
+    "date": "2024-07-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2003,
+        "value": "Alexandre Allegret-Pilot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 52,
+        "value": "Bpifrance"
+      },
+      {
+        "id": 893,
+        "value": "Les Amis d'Éric Ciotti"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2419,
     "titre": "Affaire François Thierry : nouveau procès en vue pour l’ex-patron de l’Office des stups",
     "contenu": "Soupçonnée d’avoir favorisé l’importation d’au moins 15 tonnes de résine de cannabis en octobre 2015, l’ancienne gloire de la lutte antidrogue est renvoyée devant le tribunal judiciaire de Bordeaux pour «complicité de trafic de stupéfiants» et «destruction de preuves».",
@@ -41,6 +129,47 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2430,
+    "titre": "Des perquisitions à la Région Réunion dans le cadre d'une enquête du parquet national financier",
+    "contenu": "La Région Réunion le confirme ce mercredi par voie de communiqué : une perquisition est en cours à la pyramide inversée dans le cadre d'une information ouverte par le parquet national financier. L'enquête concernerait un dispositif d'aides aux petites entreprise mis en place par l'ancienne mandature.",
+    "url": "https://la1ere.francetvinfo.fr/reunion/des-perquisitions-en-cours-a-la-region-reunion-dans-le-cadre-d-une-enquete-du-parquet-national-financier-1504829.html",
+    "date": "2024-07-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2786,
+        "value": "974 - La Réunion"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1476,
+        "value": "Huguette Bello"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -242,6 +371,78 @@
     "a_la_une": true
   },
   {
+    "id": 2432,
+    "titre": "Agnès Pannier-Runacher, Marc Fesneau et Stanislas Guerini parmi les neuf ministres ayant remis leurs déclarations de transparence hors délais",
+    "contenu": "La HATVP a rendu publiques les déclarations d’intérêts et de patrimoine du gouvernement Attal, six mois après son installation.",
+    "url": "https://www.lemonde.fr/politique/article/2024/07/08/agnes-pannier-runacher-marc-fesneau-et-stanislas-guerini-parmi-les-neuf-ministres-ayant-remis-leurs-declarations-de-transparence-hors-delais_6247951_823448.html",
+    "date": "2024-07-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 862,
+        "value": "Sabrina Agresti-Roubache"
+      },
+      {
+        "id": 888,
+        "value": "Aurore Bergé"
+      },
+      {
+        "id": 1013,
+        "value": "Marc Fesneau"
+      },
+      {
+        "id": 1047,
+        "value": "Agnès Pannier-Runacher"
+      },
+      {
+        "id": 1521,
+        "value": "Stanislas Guerini"
+      },
+      {
+        "id": 1594,
+        "value": "Olivia Grégoire"
+      },
+      {
+        "id": 2000,
+        "value": "Hervé Berville"
+      },
+      {
+        "id": 2001,
+        "value": "Dominique Faure"
+      },
+      {
+        "id": 2002,
+        "value": "Fadila Khattabi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2410,
     "titre": "Avant les législatives, les banques à l’offensive auprès de Bercy pour tenter de légaliser le « CumCum »",
     "contenu": "Le lobbying bancaire ne souffre ni répit ni trêve. Au contraire, anticipant un changement de gouvernement, les banques ont fait le siège de Bercy, ces dernières semaines, dans l’affaire dite du « CumCum » (du latin cum, « avec », sous-entendu « gagnant-gagnant », avec dividende). Leur objectif : obtenir de l’administration, avant le dimanche 7 juillet, le texte le plus favorable possible, pour pouvoir continuer à pratiquer ces activités controversées d’arbitrage de dividendes, dans un cadre réglementaire négocié, sans risquer d’être poursuivies.",
@@ -329,6 +530,42 @@
       {
         "id": 2695,
         "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2433,
+    "titre": "L'ancien maire de Chirongui, Andhanouni Saïd, évite la prison ferme en appel",
+    "contenu": "Le délibéré en appel a été rendu ce jeudi matin concernant l'ancien maire de Chirongui, Andhanouni Saïd, dans l'affaire des radiations frauduleuses d'électeurs lors des élections départementales de 2021. La condamnation a été validée, mais la peine d'un an de prison ferme a été allégée à six mois avec sursis.",
+    "url": "https://la1ere.francetvinfo.fr/mayotte/l-ancien-maire-de-chirongui-andhanouni-said-evite-la-prison-ferme-en-appel-1503170.html",
+    "date": "2024-07-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2787,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1913,
+        "value": "Andhanouni Saïd"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
       }
     ],
     "titre_corrige": "",
@@ -441,6 +678,51 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2431,
+    "titre": "Soupçons de biens mal acquis, le président du Tchad visé par une enquête en France",
+    "contenu": "Après Teodoro Obiang Nguema en Guinée équatoriale, les Bongo au Gabon et les Sassou Nguesso au Congo-Brazzaville, c’est désormais le président du Tchad, Mahamat Idriss Déby, qui est visé par une enquête ouverte à Paris sur des soupçons de biens mal acquis en France. Une enquête préliminaire a été ouverte par le Parquet national financier (PNF) en janvier pour détournement de fonds publics et recel « concernant les dépenses vestimentaires de la présidence de la République du Tchad, Mahamat Idriss Déby Itno ».",
+    "url": "https://www.lemonde.fr/afrique/article/2024/07/03/soupcons-de-biens-mal-acquis-le-president-du-tchad-vise-par-une-enquete-en-france_6246429_3212.html",
+    "date": "2024-07-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 3051,
+        "value": "Tchad"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1999,
+        "value": "Mahamat Idriss Déby"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -765,6 +1047,46 @@
       {
         "id": 2652,
         "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2429,
+    "titre": "Perquisition chez Enedis : le parquet financier soupçonne des salariés de corruption",
+    "contenu": "Une enquête préliminaire a été ouverte par le parquet financier contre plusieurs cadres de l’entreprise soupçonnés d’escroquerie et de corruption. L’entreprise a aussi porté plainte.",
+    "url": "https://www.linforme.com/energie/article/perquisition-chez-enedis-le-parquet-financier-soupconne-des-salaries-de-corruption_1854.html",
+    "date": "2024-07-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 101,
+        "value": "Électricité de France (EDF)"
+      },
+      {
+        "id": 892,
+        "value": "Enedis (ex-ERDF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
       }
     ],
     "theme": [],
