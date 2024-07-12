@@ -238,6 +238,42 @@
     "a_la_une": true
   },
   {
+    "id": 2436,
+    "titre": "L'ancien maire de Sanary-sur-Mer mis en examen pour immixtion et placé sous contrôle judiciaire",
+    "contenu": "Ferdinand Bernhard, déjà condamné à une peine d’inéligibilité pour prise illégale d'intérêt, détournement de fonds publics et favoritisme, est soupçonné d'avoir continué à s'immiscer dans la vie de la station balnéaire varoise.",
+    "url": "https://www.lefigaro.fr/marseille/l-ancien-maire-de-sanary-sur-mer-mis-en-examen-pour-immixtion-et-place-sous-controle-judiciaire-20240711",
+    "date": "2024-07-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2004,
+        "value": "Ferdinand Bernhard"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2418,
     "titre": "Les dessous de la mise en examen de Carla Bruni-Sarkozy dans l’affaire de la rétractation de Ziad Takieddine",
     "contenu": "L’épouse de Nicolas Sarkozy est une proche de Mimi Marchand, figure de la presse people soupçonnée d’avoir orchestré la rétractation de Ziad Takieddine, l’un des accusateurs de son mari dans l’enquête sur le supposé financement libyen de sa campagne présidentielle de 2007.",
@@ -73626,6 +73662,42 @@
     "a_la_une": false
   },
   {
+    "id": 1961,
+    "titre": "Le maire de Sanary-sur-Mer (Var), Ferdinand Bernhard, condamné à un an ferme et 5 ans d'inéligibilité",
+    "contenu": "Le maire de Sanary-sur-Mer (Var), Ferdinand Bernhard, qui devra effectuer sa peine de prison à domicile sous bracelet électronique, a indiqué à l'AFP s'être pourvu en cassation.",
+    "url": "https://www.lefigaro.fr/flash-actu/detournements-de-fonds-un-maire-condamne-a-un-an-ferme-et-5-ans-d-ineligibilite-20211019",
+    "date": "2021-10-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2004,
+        "value": "Ferdinand Bernhard"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1482,
     "titre": "Procès Seurot : la ville de Bruges réclame plusieurs millions d'euros à son ancien maire pour corruption",
     "contenu": "Seule partie civile au procès de Bernard Seurot, la ville de Bruges a réclamé ce lundi près de sept millions d'euros à son ancien maire et à cinq de ses co-prévenus, tous liés par « un pacte corruptif » et responsables d'une « dérive indiscutable » selon l'avocat de la commune.\nDans cette affaire de corruption vieille de plus de vingt ans, Bernard Seurot comparaît, aux côtés de 15 patrons du BTP, devant le tribunal correctionnel de Bordeaux depuis le lundi 4 octobre. La justice reproche à l'ancien maire de Bruges d'avoir bénéficié des largesses d'entreprises du bâtiment en contreparties de l'attribution de marchés publics.",
@@ -76764,18 +76836,33 @@
     "contenu": "Le maire de Sanary-sur-Mer comparait en appel devant la cour d'Aix-en-Provence mardi 15 et mercredi 16 juin. En première instance, il y a un an, Ferdinand avait été condamné à trois ans de prison dont 6 mois ferme pour prise illégale d'intérêt, détournement de fonds public et favoritisme. L'élu divers droite avait également été condamné à cinq ans de privation de droits civiques et civils et la confiscation de ses biens immobiliers en cause dans cette affaire.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-maire-de-sanary-sur-mer-ferdinand-bernhard-juge-en-appel-1623696498",
     "date": "2021-06-14",
-    "etiquettes": "83 - Var,Ferdinand Bernhard",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2773,
         "value": "83 - Var"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 2004,
+        "value": "Ferdinand Bernhard"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -84402,22 +84489,6 @@
     "titre": "Le maire de Luisant, Bertrand Massot, et sa compagne placés en garde à vue",
     "contenu": "",
     "url": "https://www.lechorepublicain.fr/luisant-28600/actualites/le-maire-de-luisant-bertrand-massot-et-sa-compagne-places-en-garde-a-vue_14091098/",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 1961,
-    "titre": "Le maire de Sanary-sur-Mer (Var), Ferdinand Bernhard, condamné à un an ferme et 5 ans d'inéligibilité",
-    "contenu": "",
-    "url": "https://www.lefigaro.fr/flash-actu/detournements-de-fonds-un-maire-condamne-a-un-an-ferme-et-5-ans-d-ineligibilite-20211019",
     "date": null,
     "etiquettes": "",
     "departement": [],
