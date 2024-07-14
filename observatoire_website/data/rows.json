@@ -1,5 +1,126 @@
 [
   {
+    "id": 2443,
+    "titre": "Le Parquet national financier enquête sur un compte à l'étranger appartenant à Charles Ange Ginésy",
+    "contenu": "Il s'agit d'un compte ouvert il y a plusieurs années par feu son père, Charles Ginésy. Le président du Département en a hérité au décès de sa mère, l'année dernière, mais ne l'a pas déclaré à l'administration fiscale.",
+    "url": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/le-parquet-national-financier-enquete-sur-un-compte-a-l-etranger-appartenant-a-charles-ange-ginesy-3004289.html",
+    "date": "2024-07-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2008,
+        "value": "Charles Ange Ginésy"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2442,
+    "titre": "A Lyon, coup de tonnerre dans le milieu de la santé",
+    "contenu": "En 2022, l'hôpital psychiatrique de Saint-Cyr-au-Mont-d'Or était placé sous administration provisoire, son directeur mis à pied. Le tribunal administratif vient d'annuler ces deux décisions.",
+    "url": "https://www.lyoncapitale.fr/actualite/a-lyon-le-coup-de-tonnerre-dans-le-milieu-de-la-sante",
+    "date": "2024-07-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 806,
+        "value": "Jean-Yves Grall"
+      },
+      {
+        "id": 808,
+        "value": "Jean-Charles Faivre-Pierret"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 471,
+        "value": "Agence régionale de santé (ARS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2440,
+    "titre": "Trois ans d’inéligibilité requis contre le maire de Pont-Sainte-Marie, Pascal Landréat",
+    "contenu": "La procureure de la République a requis six mois de prison avec sursis et trois ans d’inéligibilité contre Pascal Landréat lors de son procès, mardi, pour détournement de fonds publics et prise illégale d’intérêts. Le maire de Pont-Sainte-Marie et sa femme ont contesté en bloc les accusations. Verdict le 7 octobre. Retour point par point sur l’audience.",
+    "url": "https://www.lest-eclair.fr/id620806/article/2024-07-12/justice-trois-ans-dineligibilite-requis-contre-le-maire-de-pont-sainte-marie",
+    "date": "2024-07-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 3063,
+        "value": "10 - Aube"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 638,
+        "value": "Pascal Landréat"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2435,
     "titre": "Enedis : des fournisseurs liés à Linky au cœur de l’enquête pour corruption",
     "contenu": "La fraude organisée par des salariés du groupe avec certains sous-traitants informatiques est dans le viseur du parquet national financier. Elle aurait duré plusieurs années.",
@@ -84,6 +205,37 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2438,
+    "titre": "Port-de-Bouc : le parquet ouvre une enquête pour soupçons de fraude lors des législatives",
+    "contenu": "Une enquête a été ouverte dimanche par le parquet d'Aix pour des soupçons de fraude électorale lors du second tour des législatives à Port-de-Bouc. Une électrice a signalé les manœuvres du président d'un bureau de vote – également adjoint au maire – faisant craindre des substitutions de bulletins.",
+    "url": "https://marsactu.fr/port-de-bouc-le-parquet-ouvre-une-enquete-pour-soupcons-de-fraude-lors-des-legislatives/",
+    "date": "2024-07-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -519,6 +671,37 @@
     "a_la_une": false
   },
   {
+    "id": 2441,
+    "titre": "Une secrétaire de mairie soupçonnée d’avoir détourné 125 000 € de fonds publics dans le Tarn",
+    "contenu": "L’ancienne secrétaire de mairie de Mirandol (Tarn) sera jugée en novembre 2024 à Albi pour abus de confiance et escroquerie. Après sa prise de poste en 2015, la suspecte aurait détourné plus de 125 000 € des caisses de la municipalité pour effectuer des achats personnels. La maire de la commune avait repéré un problème dans les comptes.",
+    "url": "https://www.ouest-france.fr/faits-divers/escroquerie/une-secretaire-de-mairie-soupconnee-davoir-detourne-125-000-euros-de-fonds-publics-dans-le-tarn-3b594a8a-3ab6-11ef-b9ca-a227f2483acd",
+    "date": "2024-07-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2771,
+        "value": "81 - Tarn"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2405,
     "titre": "Affaire des assistants parlementaires : Jean-Marie Le Pen pas \"en état\" d'être jugé",
     "contenu": "Le tribunal judiciaire de Paris a annoncé mercredi 3 juillet que Jean-Marie Le Pen, placé sous régime de protection depuis quelques mois, n’était pas apte à assister au procès pour détournement de fonds publics européens prévu cet automne.",
@@ -568,6 +751,119 @@
         "value": "Procès"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2444,
+    "titre": "Affaire Sodem/TCSP : 8 relaxes et deux condamnations prononcées",
+    "contenu": "Relaxe quasi générale dans le procès Sodem/TCSP ce jeudi matin. C’était le délibéré de ce procès qui alignait dix personnes, dont des ténors du Parti Progressif Martiniquais (PPM) : Serge Letchimy, Didier Laguerre, Jean Crusol ou encore Thierry Fondelot. Tous ont été relaxés des faits qui leur étaient reprochés, à l’exception de deux administratifs. Mais le dossier Sodem n’est pas bouclé pour autant.",
+    "url": "https://la1ere.francetvinfo.fr/martinique/affaire-sodem-tcsp-8-relaxes-et-deux-condamnations-prononcees-1503176.html",
+    "date": "2024-07-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2784,
+        "value": "972 - Martinique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1821,
+        "value": "Serge Letchimy"
+      },
+      {
+        "id": 1822,
+        "value": "Thierry Fondelot"
+      },
+      {
+        "id": 1823,
+        "value": "Fernand Larmaillard"
+      },
+      {
+        "id": 1824,
+        "value": "Auguste Arcade"
+      },
+      {
+        "id": 1825,
+        "value": "Didier Laguerre"
+      },
+      {
+        "id": 1826,
+        "value": "Alain Alfred"
+      },
+      {
+        "id": 1827,
+        "value": "Jean Crusol"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 800,
+        "value": "Société d'équipement de la Martinique (SODEM)"
+      },
+      {
+        "id": 801,
+        "value": "City Up (ex-CFTU)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
+      },
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2445,
+    "titre": "Détournements de fonds publics, blanchiment... 14 personnes, dont le maire de Menton, placées en garde à vue",
+    "contenu": "Dans le cadre de l’affaire sur la gestion des ports de Menton, désormais suivi par une juridiction spécialisée du parquet de Marseille, les enquêteurs ont procédé à une série d’opérations, mardi, dans les Alpes-Maritimes mais aussi en Corse.",
+    "url": "https://www.lefigaro.fr/nice/detournements-de-fonds-publics-blanchiment-14-personnes-dont-le-maire-de-menton-placees-en-garde-a-vue-20240704",
+    "date": "2024-07-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 953,
+        "value": "Yves Juhel"
+      },
+      {
+        "id": 1180,
+        "value": "Mathieu Messina"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 51,
+        "value": "Société publique locale des Ports de Menton"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -714,6 +1010,42 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2439,
+    "titre": "Vente de la colonie de vacances de Penmarc’h : une ancienne élue jugée le 28 novembre pour prise illégale d’intérêts",
+    "contenu": "Ce jeudi 4 juillet, une ancienne adjointe de Penmarc’h, poursuivie pour prise illégale d’intérêts dans l’affaire de la vente d’une ancienne colonie de vacances, a été convoquée devant la procureure de la République. Contestant les faits, elle sera jugée devant le tribunal le 28 novembre prochain.",
+    "url": "https://www.letelegramme.fr/bretagne/vente-de-la-colonie-de-vacances-de-penmarch-une-ancienne-elue-jugee-le-28-novembre-pour-prise-illegale-dinterets-6619840.php",
+    "date": "2024-07-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2721,
+        "value": "29 - Finistère"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1314,
+        "value": "Nathalie Poulard"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2690,
+        "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -973,6 +1305,50 @@
         "value": "Métropole Européenne de Lille (MEL)"
       }
     ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2437,
+    "titre": "Fraudes électorales à Bastia : Don Petru Luccioni et Laura Orsini-Sauli condamnés à 1 an d’inéligibilité",
+    "contenu": "Les deux adjoints au maire de Bastia ont été condamnés ce mardi 2 juillet par le tribunal correctionnel de Bastia à 3 000 euros, dont 1 500 avec sursis, ainsi qu’un an d’inéligibilité. Le troisième prévenu écope pour sa part de 1 500 euros d'amende avec sursis et également 1 an d'inéligibilité.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/fraudes-electorales-a-bastia-don-petru-luccioni-et-laura-orsini-sauli-condamne-a-1-an-d-ineligibilite-4784320",
+    "date": "2024-07-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2005,
+        "value": "Don Petru Luccioni"
+      },
+      {
+        "id": 2006,
+        "value": "Laura Orsini-Sauli"
+      },
+      {
+        "id": 2007,
+        "value": "Marc'Andria Luccioni"
+      }
+    ],
+    "personnes_morales": [],
     "categorie": [
       {
         "id": 2652,
