@@ -1,5 +1,45 @@
 [
   {
+    "id": 2446,
+    "titre": "Marseille : un logement social attribué à la mère de la présidente de l'office HLM, l'adjoint au maire demande une enquête",
+    "contenu": "Patrick Amico, maire adjoint de Marseille a demandé l'ouverture d'une enquête après la publication d'une enquête affirmant que la mère de la présidente de l'office HLM des Bouches-du-Rhône s'est vu attribuer un appartement de 120 m² avec terrasse.",
+    "url": "https://www.lejdd.fr/societe/marseille-un-logement-social-attribue-la-mere-de-la-presidente-de-loffice-hlm-ladjoint-au-maire-demande-une-enquete-147594",
+    "date": "2024-07-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2009,
+        "value": "Nora Preziosi"
+      },
+      {
+        "id": 2010,
+        "value": "Patrick Amico"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 894,
+        "value": "13 Habitat"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2443,
     "titre": "Le Parquet national financier enquête sur un compte à l'étranger appartenant à Charles Ange Ginésy",
     "contenu": "Il s'agit d'un compte ouvert il y a plusieurs années par feu son père, Charles Ginésy. Le président du Département en a hérité au décès de sa mère, l'année dernière, mais ne l'a pas déclaré à l'administration fiscale.",
