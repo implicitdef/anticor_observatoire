@@ -40,6 +40,83 @@
     "a_la_une": false
   },
   {
+    "id": 2447,
+    "titre": "Opération « Sauver Sarko » : des images inédites montrent l’ampleur de la manipulation de BFMTV",
+    "contenu": "Mediapart s’est procuré le film de l’interview de Ziad Takieddine, dont BFMTV n’avait publié qu’un court extrait, déjà peu convaincant, pour voler au secours de Nicolas Sarkozy. Le reste de l’entretien, qui n’a jamais été montré par la direction au reste de la rédaction, est pire. Nous le diffusons en intégralité.",
+    "url": "https://www.mediapart.fr/journal/france/160724/operation-sauver-sarko-des-images-inedites-montrent-l-ampleur-de-la-manipulation-de-bfmtv",
+    "date": "2024-07-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 586,
+        "value": "Ziad Takieddine"
+      },
+      {
+        "id": 1152,
+        "value": "Michèle Marchand"
+      },
+      {
+        "id": 1994,
+        "value": "Véronique Waché"
+      },
+      {
+        "id": 1995,
+        "value": "Marc-Olivier Fogiel"
+      },
+      {
+        "id": 1996,
+        "value": "Ruth Elkrief"
+      },
+      {
+        "id": 1997,
+        "value": "Bruno Jeudy"
+      },
+      {
+        "id": 1998,
+        "value": "Arthur Dreyfuss"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 73,
+        "value": "BFM TV"
+      },
+      {
+        "id": 592,
+        "value": "Paris Match"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2443,
     "titre": "Le Parquet national financier enquête sur un compte à l'étranger appartenant à Charles Ange Ginésy",
     "contenu": "Il s'agit d'un compte ouvert il y a plusieurs années par feu son père, Charles Ginésy. Le président du Département en a hérité au décès de sa mère, l'année dernière, mais ne l'a pas déclaré à l'administration fiscale.",
@@ -386,6 +463,10 @@
       {
         "id": 586,
         "value": "Ziad Takieddine"
+      },
+      {
+        "id": 1152,
+        "value": "Michèle Marchand"
       },
       {
         "id": 1994,
@@ -39292,7 +39373,7 @@
       },
       {
         "id": 722,
-        "value": "Omar Bongo"
+        "value": "Omar Bongo Ondimba"
       },
       {
         "id": 723,
@@ -66693,7 +66774,7 @@
     "personnalites": [
       {
         "id": 722,
-        "value": "Omar Bongo"
+        "value": "Omar Bongo Ondimba"
       },
       {
         "id": 1790,
@@ -69539,18 +69620,37 @@
     "contenu": "Le tribunal judiciaire de Saint-Pierre vient de condamner l'ancien maire de Saint-Louis Cyrille Hamilcaro à 5 ans d'inéligibilité et à une peine aménagée avec bracelet électronique. Il était soupçonné d’avoir continué à gérer la commune \"en misouk\", malgré son inéligibilité, après que Patrick Malet ait pris sa succession en juin 2014.\nEgalement sur le banc des accusés, Patrick Malet, maire ayant succédé à la fonction de premier édile, juste après Cyrille Hamilcaro. Il est reconnu coupable des faits de complicité.\nAbsent lors de l'énoncé du verdict, Patrick Malet a été condamné à cinq ans d'inéligibilité et à une amende de 20 000 euros. Son avocat, le bâtonnier Georges André Hoarau d'ores et déjà annoncé que son client fait appel.",
     "url": "https://la1ere.francetvinfo.fr/reunion/affaire-de-la-gestion-en-misouk-de-la-mairie-de-saint-louis-cyrille-hamilcaro-condamne-a-5-ans-d-ineligibilite-et-place-sous-surveillance-electronique-1277684.html",
     "date": "2022-04-28",
-    "etiquettes": "974 – La Réunion,Cyrille Hamilcaro",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2786,
         "value": "974 - La Réunion"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 2011,
+        "value": "Cyrille Hamilcaro"
+      },
+      {
+        "id": 2012,
+        "value": "Patrick Malet"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -69617,18 +69717,43 @@
     "contenu": "Après le scandale qui a suivi la sortie du livre de Victor Castanet, Les Fossoyeurs, c'est une nouvelle étape importante dans l'affaire Orpea. Jeudi, le parquet de Nanterre a indiqué avoir ouvert une enquête sur le groupe privé gestionnaire d'Ehpad, soupçonné de maltraitance institutionnelle et de détournements de fonds publics. Elle fait suite au signalement du gouvernement, le 28 mars dernier. L'État avait saisi la justice à la lumière de la double enquête administrative et financière accablante sur les pratiques du groupe qui avait confirmé des « dysfonctionnements graves » dans la gestion du groupe.",
     "url": "https://www.lefigaro.fr/actualite-france/scandale-orpea-ouverture-d-une-enquete-apres-le-signalement-du-gouvernement-20220428",
     "date": "2022-04-28",
-    "etiquettes": "Orpea,Victor Castanet",
-    "departement": [],
-    "personnalites": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 962,
+        "value": "Victor Castanet"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 86,
         "value": "Orpea"
       }
     ],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -69638,28 +69763,57 @@
     "contenu": "L’ancien président du club de basket de Levallois-Perret (Hauts-de-Seine) a été condamné. Jean-Pierre Aubry a écopé d’un an de prison avec sursis pour présentation de comptes inexacts par le tribunal correctionnel de Nanterre. Le prévenu a été jugé le 27 janvier dernier pour faux, usage de faux, recel et présentation de comptes inexacts. Il n’a finalement été condamné que pour le dernier motif. Ce proche de Patrick Balkany aurait intégré aux comptes du club de basket Metropolitans 92 des contrats à la réalité douteuse.",
     "url": "https://www.20minutes.fr/justice/3278767-20220427-levallois-perret-l-ancien-president-du-club-de-basket-condamne-pour-sa-gestion-douteuse-des-comptes",
     "date": "2022-04-27",
-    "etiquettes": "92 – Hauts de Seine,Jean-Pierre Aubry,Patrick Balkany",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2765,
         "value": "92 - Hauts-de-Seine"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 646,
+        "value": "Patrick Balkany"
+      },
+      {
+        "id": 2013,
+        "value": "Jean-Pierre Aubry"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 895,
+        "value": "Metropolitans 92"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1235,
     "titre": "« Un système à la marseillaise »… Un cadre hospitalier jugé pour favoritisme",
-    "contenu": "Deux ans de prison avec sursis ont été requis, lundi, contre un cadre d’un centre hospitalier de Marseille jugé pour avoir favorisé une entreprise dans laquelle il avait des intérêts lors de travaux au sein de l’établissement. « Un système à la marseillaise marqué par une proximité inadaptée et illégale entre un agent public et un entrepreneur ami », a dénoncé lundi le procureur du tribunal correctionnel de Marseille.\nLe prévenu, poursuivi pour prise illégale d’intérêts, favoritisme et recel d’abus de biens sociaux, était responsable des services techniques de l’hôpital psychiatrique Edouard-Toulouse à Marseille. De 2007 à 2011, le prévenu avait signé pour 1,2 million d’euros de contrats au profit d’une société, D2G Construction, dans laquelle il détenait un quart des parts. Parmi eux, ce sont trois marchés publics d’un montant global de 547.000 euros que le tribunal a disséqués.",
+    "contenu": "Deux ans de prison avec sursis ont été requis, lundi, contre un cadre d’un centre hospitalier de Marseille jugé pour avoir favorisé une entreprise dans laquelle il avait des intérêts lors de travaux au sein de l’établissement. « Un système à la marseillaise marqué par une proximité inadaptée et illégale entre un agent public et un entrepreneur ami », a dénoncé lundi le procureur du tribunal correctionnel de Marseille. Le prévenu, poursuivi pour prise illégale d’intérêts, favoritisme et recel d’abus de biens sociaux, était responsable des services techniques de l’hôpital psychiatrique Edouard-Toulouse à Marseille. De 2007 à 2011, le prévenu avait signé pour 1,2 million d’euros de contrats au profit d’une société, D2G Construction, dans laquelle il détenait un quart des parts. Parmi eux, ce sont trois marchés publics d’un montant global de 547.000 euros que le tribunal a disséqués.",
     "url": "https://www.20minutes.fr/justice/3277831-20220426-systeme-marseillaise-cadre-hospitalier-juge-favoritisme",
     "date": "2022-04-26",
-    "etiquettes": "31 - Haute-Garonne,D2G Construction",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2725,
@@ -69667,10 +69821,34 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnes_morales": [
+      {
+        "id": 896,
+        "value": "D2G Construction"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      },
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -69680,17 +69858,37 @@
     "contenu": "Orpea a décidé de reporter au 13 mai la publication de ses résultats annuels, a annoncé le groupe mardi. Les premières conclusions de l'audit indépendant qu'il avait commandé sur la gestion de ses Ehpad confirment notamment que ses achats sur fonds publics donnaient lieu à un bénéfice indu sous forme de ristournes de fin d'année.",
     "url": "https://www.lesechos.fr/industrie-services/pharmacie-sante/affaire-orpea-les-audits-independants-confirment-le-detournement-dargent-public-1402997",
     "date": "2022-04-26",
-    "etiquettes": "Orpea,Victor Castanet",
-    "departement": [],
-    "personnalites": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 962,
+        "value": "Victor Castanet"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 86,
         "value": "Orpea"
       }
     ],
-    "categorie": [],
-    "theme": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -69698,16 +69896,57 @@
   {
     "id": 1236,
     "titre": "Thales mis en examen pour corruption : les investigations sont closes",
-    "contenu": "Le groupe français de défense Thales SA a été mis en examen en janvier pour complicité de corruption active d’agent public étranger dans l’enquête sur des soupçons de versement de pots-de-vin en marge de la vente de sous-marins à la Malaisie en 2002, a-t-on appris mardi 26 avril d’une source proche du dossier. La juge d’instruction financière parisienne Aude Buresi a mis en examen le 18 janvier le groupe, qui « conteste avec la plus grande fermeté » les accusations, avant de clôturer neuf jours plus tard les investigations menées depuis mars 2010 dans cette affaire.\nAu total, neuf personnes physiques ou morales sont mises en cause dans cette enquête ouverte après une plainte pour corruption déposée fin 2009 par Suaram, une association anticorruption malaisienne. Autre mise en examen, la DCNI, poursuivie depuis septembre 2020 pour corruption active d’agent public étranger et complicité d’abus de confiance.\nLa société a répondu que « les sous-marins ont été vendus à la Malaisie en 2002 par DCN International (DCNI), alors détenue à 100 % par l’État », et désormais filiale de Naval Group. « DCNI conteste la commission d’une quelconque infraction en lien avec la conclusion du contrat malaisien. » Le Parquet national financier doit désormais rendre ses réquisitions, avant une décision finale de la juge d’instruction sur un renvoi éventuel en procès des protagonistes.",
+    "contenu": "Le groupe français de défense Thales SA a été mis en examen en janvier pour complicité de corruption active d’agent public étranger dans l’enquête sur des soupçons de versement de pots-de-vin en marge de la vente de sous-marins à la Malaisie en 2002, a-t-on appris mardi 26 avril d’une source proche du dossier. La juge d’instruction financière parisienne Aude Buresi a mis en examen le 18 janvier le groupe, qui « conteste avec la plus grande fermeté » les accusations, avant de clôturer neuf jours plus tard les investigations menées depuis mars 2010 dans cette affaire. Au total, neuf personnes physiques ou morales sont mises en cause dans cette enquête ouverte après une plainte pour corruption déposée fin 2009 par Suaram, une association anticorruption malaisienne. Autre mise en examen, la DCNI, poursuivie depuis septembre 2020 pour corruption active d’agent public étranger et complicité d’abus de confiance.\nLa société a répondu que « les sous-marins ont été vendus à la Malaisie en 2002 par DCN International (DCNI), alors détenue à 100 % par l’État », et désormais filiale de Naval Group. « DCNI conteste la commission d’une quelconque infraction en lien avec la conclusion du contrat malaisien. » Le Parquet national financier doit désormais rendre ses réquisitions, avant une décision finale de la juge d’instruction sur un renvoi éventuel en procès des protagonistes.",
     "url": "https://www.sudouest.fr/economie/thales-mis-en-examen-pour-corruption-les-investigations-sont-closes-10733935.php",
     "date": "2022-04-26",
-    "etiquettes": "DCNI,Naval Group,Parquet National Financier,Suaram,Thalès",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 75,
+        "value": "Thales"
+      },
+      {
+        "id": 874,
+        "value": "DCNI"
+      },
+      {
+        "id": 875,
+        "value": "Naval Group"
+      },
+      {
+        "id": 897,
+        "value": "Suaram"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2663,
+        "value": "Défense"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -69717,38 +69956,86 @@
     "contenu": "Le procès s’ouvre ce mardi 26 avril 2022, quasiment deux ans jour pour jour après l’élection d’Andhanouni Said.\nLa mairie de Chirongui est partie civile dans cette affaire tout comme Anticor. C’est une première à Mayotte pour l’association qui lutte contre la corruption. Il y a quelques jours, elle a répondu favorablement à un avis d’appel à victime sur le sujet.",
     "url": "https://la1ere.francetvinfo.fr/mayotte/le-maire-de-chirongui-andhanouni-said-en-garde-a-vue-pour-detournement-de-fonds-publics-1276636.html",
     "date": "2022-04-25",
-    "etiquettes": "976 - Mayotte,Andhanouni Said",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2787,
         "value": "976 - Mayotte"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1913,
+        "value": "Andhanouni Saïd"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1240,
-    "titre": "Alicia Botti",
+    "titre": "Alicia Botti rejoint Brasseurs de France",
     "contenu": "Passée par le conseil en relations presse chez Albera Conseils, elle est ensuite assistante parlementaire de Nicole Bricq au Sénat puis conseillère pour le groupe LREM au Sénat, en charge de la commission des affaires sociales et de celle de la culture et de l'éducation, puis des affaires économiques et de l'aménagement du territoire. À partir de de juillet 2020 elle est conseillère chargée des élus locaux auprès du Ministre de l'agriculture et de l'alimentation, Julien Denormandie. En avril 2022 elle pantoufle en rejoignant Brasseurs de France en tant que Directrice de la communication.",
     "url": "https://www.strategies.fr/guides-annuaires/mouvements/LQ505251C/alicia-botti-directrice-de-la-communication-de-brasseurs-de-france.html",
     "date": "2022-04-22",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1438,
+        "value": "Julien Denormandie"
+      },
+      {
+        "id": 2015,
+        "value": "Alicia Botti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 56,
+        "value": "Ministère de l'agriculture"
+      },
+      {
+        "id": 588,
+        "value": "Brasseurs de France"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2655,
+        "value": "Alcools"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -69756,21 +70043,58 @@
   {
     "id": 1239,
     "titre": "L'ombre d'un conflit d'intérêt sur le projet de la future prison du Muy?",
-    "contenu": "Selon Anticor, l’implantation de la future prison au Muy sur des terres agricoles serait le fruit d’un conflit d’intérêts au sein de Dracénie Provence Verdon agglomération. L’organisme a envoyé un signalement au Parquet de Draguignan. De son côté, Richard Strambio a lui aussi alerté le procureur.\nAu cours de leurs investigations, Jean Galli et Me Lavignac ont tous les deux estimé que l’implantation, a priori définitive au nord de la parcelle choisie, serait le fruit d’un conflit d’intérêts. « Parmi les propriétaires des 75 hectares figurent plusieurs entités au sud des Ferrières: il y a Établissement public foncier Provence-Alpes-Côte d’Azur (EPF Paca), mais aussi la SCP HortiFrance et la société civile agricole Riviera Plant Company », énumère l’avocate. « Or, quand on s’attarde sur les personnes derrière ces sociétés, on trouve Alain Samson comme président des deux sociétés », détaille Jean Galli. « Et chose plus intéressante encore, il se trouve que Frédéric Rannou est le directeur général de la société HortiFrance. »\nJusqu’en septembre 2020, Frédéric Rannou était directeur général adjoint au sein de DPVa, en charge du pôle développement économique, de l’aménagement et du patrimoine. Fonction qu’il a quittée pour devenir…promoteur immobilier. C’est le 30 septembre 2020 qu’il a d’ailleurs pris ses fonctions de directeur général de la société Hortifrance.",
+    "contenu": "Selon Anticor, l’implantation de la future prison au Muy sur des terres agricoles serait le fruit d’un conflit d’intérêts au sein de Dracénie Provence Verdon agglomération. L’organisme a envoyé un signalement au Parquet de Draguignan. De son côté, Richard Strambio a lui aussi alerté le procureur. Au cours de leurs investigations, Jean Galli et Me Lavignac ont tous les deux estimé que l’implantation, a priori définitive au nord de la parcelle choisie, serait le fruit d’un conflit d’intérêts. « Parmi les propriétaires des 75 hectares figurent plusieurs entités au sud des Ferrières: il y a Établissement public foncier Provence-Alpes-Côte d’Azur (EPF Paca), mais aussi la SCP HortiFrance et la société civile agricole Riviera Plant Company », énumère l’avocate. « Or, quand on s’attarde sur les personnes derrière ces sociétés, on trouve Alain Samson comme président des deux sociétés », détaille Jean Galli. « Et chose plus intéressante encore, il se trouve que Frédéric Rannou est le directeur général de la société HortiFrance. »\nJusqu’en septembre 2020, Frédéric Rannou était directeur général adjoint au sein de DPVa, en charge du pôle développement économique, de l’aménagement et du patrimoine. Fonction qu’il a quittée pour devenir…promoteur immobilier. C’est le 30 septembre 2020 qu’il a d’ailleurs pris ses fonctions de directeur général de la société Hortifrance.",
     "url": "https://www.varmatin.com/vie-locale/lombre-dun-conflit-dinteret-sur-le-projet-de-la-future-prison-du-muy-762196",
     "date": "2022-04-22",
-    "etiquettes": "83 - Var,Alain Samson,Anticor,DPVa,EPF Paca,Hortifrance",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2773,
         "value": "83 - Var"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnalites": [
+      {
+        "id": 2014,
+        "value": "Alain Samson"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 667,
+        "value": "Dracénie Provence Verdon agglomération (DPVa)"
+      },
+      {
+        "id": 898,
+        "value": "Hortifrance"
+      },
+      {
+        "id": 899,
+        "value": "Établissement public foncier Provence-Alpes-Côte d’Azur (EPF PACA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -69780,12 +70104,41 @@
     "contenu": "La justice française a délivré un mandat d’arrêt international contre Carlos Ghosn, ancien président-directeur général de l’Alliance Renault-Nissan (RNBV), dans le cadre d’une enquête instruite à Nanterre (Hauts-de-Seine), notamment pour abus de biens sociaux et blanchiment, a déclaré le parquet de Nanterre, vendredi 22 avril, confirmant des informations du Wall Street Journal.",
     "url": "https://www.lemonde.fr/societe/article/2022/04/22/la-justice-francaise-emet-un-mandat-d-arret-international-contre-carlos-ghosn_6123217_3224.html",
     "date": "2022-04-22",
-    "etiquettes": "Carlos Ghosn,Renault-Nissan",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2765,
+        "value": "92 - Hauts-de-Seine"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 617,
+        "value": "Carlos Ghosn"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -69796,26 +70149,90 @@
     "contenu": "Pour la première fois, entre le 25 mars et le 5 avril, le juge financier Dominique Blanc a successivement mis en examen Grâce (58 ans), Betty (55), Arthur (51) puis Hermine (53) – tous des enfants du défunt président gabonais Omar Bongo Ondimba – pour recel de détournement de fonds publics, de corruption active et passive et d'abus de biens sociaux.\nAprès la mise en examen de la banque française BNP Paribas en mai 2021, c'est une nouvelle accélération dans cette enquête difficile et au long cours, déclenchée après une plainte en mars 2007. D'autres enfants, parmi les 54 de l'ex-allié historique de la France, pourraient suivre.",
     "url": "https://www.lepoint.fr/afrique/biens-mal-acquis-des-enfants-d-omar-bongo-mis-en-examen-en-france-21-04-2022-2472903_3826.php",
     "date": "2022-04-21",
-    "etiquettes": "BNP Paribas,Omar Bongo",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2797,
+        "value": "Gabon"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 722,
+        "value": "Omar Bongo Ondimba"
+      },
+      {
+        "id": 2016,
+        "value": "Grâce Bongo Ondimba"
+      },
+      {
+        "id": 2017,
+        "value": "Betty Bongo Ondimba"
+      },
+      {
+        "id": 2018,
+        "value": "Arthur Bongo Ondimba"
+      },
+      {
+        "id": 2019,
+        "value": "Hermine Bongo Ondimba"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 652,
+        "value": "BNP Paribas"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1242,
-    "titre": "Guillaume Nardin",
-    "contenu": "Titulaire d’un double master 2 en droit et en gestion de l’environnement littoral, il a travaillé pour le département de l'Hérault au développement de la filière nautisme, puis dans le privé dans l’industrie nautique en Martinique avant de rejoindre le Ministère de la Transition écologique et solidaire (direction de la mer de la Martinique) puis le ministère des Outre-mer comme adjoint au chef du bureau des politiques agricoles rurales et maritimes. En avril 2022, il est nommé Délégué Général de la Fédération française des ports de plaisance.",
+    "titre": "Guillaume Nardin rejoint la Fédération française des ports de plaisance",
+    "contenu": "Guillaume Nardin a travaillé pour le département de l'Hérault au développement de la filière nautisme, puis dans le privé dans l’industrie nautique en Martinique avant de rejoindre le Ministère de la Transition écologique et solidaire (direction de la mer de la Martinique) puis le ministère des Outre-mer comme adjoint au chef du bureau des politiques agricoles rurales et maritimes. En avril 2022, il est nommé Délégué Général de la Fédération française des ports de plaisance.",
     "url": "https://lemarin.ouest-france.fr/secteurs-activites/nautisme/43284-guillaume-nardin-delegue-general-de-la-ffpp",
     "date": "2022-04-21",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2020,
+        "value": "Guillaume Nardin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 619,
+        "value": "Ministère de l'Intérieur"
+      },
+      {
+        "id": 900,
+        "value": "Fédération française des ports de plaisance (F.F.P.P)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
@@ -69834,9 +70251,19 @@
     "url": "https://acteurspublics.fr/articles/pantouflage-la-territoriale-en-mal-de-sensibilisation-deontologique",
     "date": "2022-04-20",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 74,
+        "value": "Agence française anticorruption (AFA)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
@@ -69856,11 +70283,26 @@
     "date": "2022-04-20",
     "etiquettes": "Ernest-Antoine Seillière,Jean-Bernard Lafonta,Medef,Parquet National Financier,Wendel",
     "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 2021,
+        "value": "Ernest-Antoine Seillière"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 111,
+        "value": "Medef"
+      }
+    ],
     "categorie": [],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
