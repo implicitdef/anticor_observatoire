@@ -117,6 +117,37 @@
     "a_la_une": true
   },
   {
+    "id": 2448,
+    "titre": "Le tribunal administratif rejette le recours de Salime Mdéré contre l'arrêté le déclarant démissionnaire",
+    "contenu": "Suite à sa condamnation à une peine d'inéligibilité, la préfecture a pris un arrêté pour déclarer Salime Mdéré démissionnaire de son poste de premier vice-président du département. Son recours contre cet arrêté a été rejeté ce lundi par le tribunal administratif.",
+    "url": "https://la1ere.francetvinfo.fr/mayotte/le-tribunal-administratif-rejette-le-recours-de-salime-mdere-contre-l-arrete-le-declarant-demissionnaire-1506113.html",
+    "date": "2024-07-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2787,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1881,
+        "value": "Salime Mdéré"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2443,
     "titre": "Le Parquet national financier enquête sur un compte à l'étranger appartenant à Charles Ange Ginésy",
     "contenu": "Il s'agit d'un compte ouvert il y a plusieurs années par feu son père, Charles Ginésy. Le président du Département en a hérité au décès de sa mère, l'année dernière, mais ne l'a pas déclaré à l'administration fiscale.",
