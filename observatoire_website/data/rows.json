@@ -1,5 +1,59 @@
 [
   {
+    "id": 2449,
+    "titre": "Atos : le PNF enquête sur des soupçons de corruption active et passive",
+    "contenu": "À la suite d'une plainte déposée en septembre par Alix AM pour corruption active et passive au sein du groupe informatique, le Parquet national financier a ouvert une enquête préliminaire. Le fonds vise deux dirigeants d'Atos en poste en 2023, ainsi que Daniel Kretinsky.",
+    "url": "https://www.lalettre.fr/fr/entreprises_conseil-et-services/2024/07/18/atos--le-pnf-enquete-sur-des-soupcons-de-corruption-active-et-passive%2C110269685-art",
+    "date": "2024-07-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2022,
+        "value": "Diane Galbe"
+      },
+      {
+        "id": 2023,
+        "value": "Nourdine Bihmane"
+      },
+      {
+        "id": 2024,
+        "value": "Daniel Křetínský"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 366,
+        "value": "Atos"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2685,
+        "value": "Technologies"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2446,
     "titre": "Marseille : un logement social attribué à la mère de la présidente de l'office HLM, l'adjoint au maire demande une enquête",
     "contenu": "Patrick Amico, maire adjoint de Marseille a demandé l'ouverture d'une enquête après la publication d'une enquête affirmant que la mère de la présidente de l'office HLM des Bouches-du-Rhône s'est vu attribuer un appartement de 120 m² avec terrasse.",
