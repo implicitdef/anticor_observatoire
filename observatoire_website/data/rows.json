@@ -54,6 +54,54 @@
     "a_la_une": true
   },
   {
+    "id": 2450,
+    "titre": "Raquel Garrido dépose un recours pour faire annuler l’élection du député LFI Aly Diouara",
+    "contenu": "En tant que chef de service à la mairie de Drancy, le nouvel élu occupe une fonction lui interdisant de concourir à une élection. Une proche de la maire Aude Lagarde a également saisi le Conseil constitutionnel.",
+    "url": "https://www.liberation.fr/politique/elections/raquel-garrido-depose-un-recours-pour-faire-annuler-lelection-du-depute-lfi-aly-diouara-20240717_YZCHKQ5LXVF5NLL4QIG4D4MGA4/?redirected=1&redirected=1",
+    "date": "2024-07-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2766,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 208,
+        "value": "Raquel Garrido"
+      },
+      {
+        "id": 926,
+        "value": "Jean-Christophe Lagarde"
+      },
+      {
+        "id": 1581,
+        "value": "Aude Lagarde"
+      },
+      {
+        "id": 2025,
+        "value": "Aly Diouara"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 15,
+        "value": "La France Insoumise (LFI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2446,
     "titre": "Marseille : un logement social attribué à la mère de la présidente de l'office HLM, l'adjoint au maire demande une enquête",
     "contenu": "Patrick Amico, maire adjoint de Marseille a demandé l'ouverture d'une enquête après la publication d'une enquête affirmant que la mère de la présidente de l'office HLM des Bouches-du-Rhône s'est vu attribuer un appartement de 120 m² avec terrasse.",
