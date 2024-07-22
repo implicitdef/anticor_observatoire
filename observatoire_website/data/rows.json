@@ -1,5 +1,65 @@
 [
   {
+    "id": 2451,
+    "titre": "Anticor : comment Gabriel Attal a freiné le renouvellement de l’agrément de l’association anticorruption",
+    "contenu": "« Marianne » a eu accès aux documents qui listent les arguments de Matignon pour justifier le retrait du sésame qui permet à l’association anticorruption, qui a notamment porté devant la justice l’affaire Kohler, de se constituer partie civile. Délais d’instruction à rallonge et peut-être même un « faux en écriture », dénoncent les responsables d’Anticor : le camp présidentiel semble avoir utilisé tous les moyens pour parvenir à ses fins.",
+    "url": "https://www.marianne.net/politique/anticor-comment-gabriel-attal-a-freine-le-renouvellement-de-lagrement-de-lassociation-anticorruption",
+    "date": "2024-07-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 643,
+        "value": "Elisabeth Borne"
+      },
+      {
+        "id": 655,
+        "value": "Jean Castex"
+      },
+      {
+        "id": 918,
+        "value": "Gabriel Attal"
+      },
+      {
+        "id": 1068,
+        "value": "Alexis Kohler"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 327,
+        "value": "Conseil d'État"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2449,
     "titre": "Atos : le PNF enquête sur des soupçons de corruption active et passive",
     "contenu": "À la suite d'une plainte déposée en septembre par Alix AM pour corruption active et passive au sein du groupe informatique, le Parquet national financier a ouvert une enquête préliminaire. Le fonds vise deux dirigeants d'Atos en poste en 2023, ainsi que Daniel Kretinsky.",
@@ -27,6 +87,10 @@
       }
     ],
     "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
       {
         "id": 366,
         "value": "Atos"
