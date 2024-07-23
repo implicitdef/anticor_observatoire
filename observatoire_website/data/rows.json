@@ -1,5 +1,44 @@
 [
   {
+    "id": 2452,
+    "titre": "L’Agence française anticorruption diligente un contrôle chez CMA CGM",
+    "contenu": "Dans le cadre des audits qu’elle lance chaque année, l’autorité indépendante a choisi de passer au crible la pertinence des mesures anticorruption de l’armateur marseillais.",
+    "url": "https://www.linforme.com/transports-auto/article/l-agence-francaise-anticorruption-diligente-un-controle-chez-cma-cgm_1912.html",
+    "date": "2024-07-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 74,
+        "value": "Agence française anticorruption (AFA)"
+      },
+      {
+        "id": 721,
+        "value": "CMA CGM (Compagnie maritime d'affrètement - Compagnie générale maritime)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2451,
     "titre": "Anticor : comment Gabriel Attal a freiné le renouvellement de l’agrément de l’association anticorruption",
     "contenu": "« Marianne » a eu accès aux documents qui listent les arguments de Matignon pour justifier le retrait du sésame qui permet à l’association anticorruption, qui a notamment porté devant la justice l’affaire Kohler, de se constituer partie civile. Délais d’instruction à rallonge et peut-être même un « faux en écriture », dénoncent les responsables d’Anticor : le camp présidentiel semble avoir utilisé tous les moyens pour parvenir à ses fins.",
