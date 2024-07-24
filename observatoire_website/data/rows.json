@@ -99,6 +99,141 @@
     "a_la_une": false
   },
   {
+    "id": 2455,
+    "titre": "Un ancien président du tribunal de commerce de Nice mis en examen pour prise illégale d’intérêt",
+    "contenu": "Fabien Paul, ancien président de juridiction à Nice, est soupçonné de prise illégale d’intérêt dans une affaire \"annexe\" au dossier Negresco. Une administratrice judiciaire est également mise en examen.",
+    "url": "https://www.nicematin.com/faits-divers/un-ancien-president-du-tribunal-de-commerce-de-nice-mis-en-examen-pour-prise-illegale-d-interet-934514",
+    "date": "2024-07-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2029,
+        "value": "Fabien Paul"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 901,
+        "value": "Negresco"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2453,
+    "titre": "Accusé de corruption et de manipulation de cours, l’ex-PDG de Casino risque un procès",
+    "contenu": "Le Parquet national financier pointe une « manipulation de cours orchestrée par Casino » de septembre 2018 à juin 2019, et un « pacte de corruption passé entre Nicolas Miguet et Casino »",
+    "url": "https://www.20minutes.fr/justice/4101987-20240718-accuse-corruption-manipulation-cours-ex-pdg-casino-risque-proces",
+    "date": "2024-07-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2026,
+        "value": "Jean-Charles Naouri"
+      },
+      {
+        "id": 2027,
+        "value": "Nicolas Miguet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 599,
+        "value": "Groupe Casino"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2669,
+        "value": "Grande consommation"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2457,
+    "titre": "Affaire Preziosi : perquisition en cours au siège de 13 habitat",
+    "contenu": "Depuis ce jeudi matin, neuf heures, plusieurs fonctionnaires de la brigade financière sont à pied d’œuvre au siège de 13 habitat, le bailleur social du département des Bouches-du-Rhône, dans le cadre d’une perquisition. Celle-ci intervient quelques heures après l’ouverture d’une enquête préliminaire pour prise illégale d’intérêts, détournement de fonds publics et recel de ces délits.",
+    "url": "https://marsactu.fr/bref/affaire-preziosi-perquisition-en-cours-au-siege-de-13-habitat/",
+    "date": "2024-07-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2009,
+        "value": "Nora Preziosi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 894,
+        "value": "13 Habitat"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2449,
     "titre": "Atos : le PNF enquête sur des soupçons de corruption active et passive",
     "contenu": "À la suite d'une plainte déposée en septembre par Alix AM pour corruption active et passive au sein du groupe informatique, le Parquet national financier a ouvert une enquête préliminaire. Le fonds vise deux dirigeants d'Atos en poste en 2023, ainsi que Daniel Kretinsky.",
@@ -157,6 +292,87 @@
     "a_la_une": true
   },
   {
+    "id": 2458,
+    "titre": "Bolbec. Conflit d'intérêts : le maire bénéficie d'un classement de l'affaire sans suite",
+    "contenu": "Le maire de Bolbec, Christophe Doré, a bénéficié d'un classement sans suite après l'enquête ouverte par le parquet du Havre pour des faits de prise illégale d'intérêt, concernant la légitimité du prêt gratuit d'une salle municipale à une association qu'il préside",
+    "url": "https://www.lecourriercauchois.fr/actualite-366505-bolbec-conflit-d-interets-le-maire-beneficie-d-un-classement-de-l-affaire-sans-suite",
+    "date": "2024-07-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2763,
+        "value": "76 - Seine-Maritime"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2032,
+        "value": "Christophe Doré"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 903,
+        "value": "Union nationale des entreprises de coiffure (UNEC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2454,
+    "titre": "François Grosdidier, le maire de Metz, se désiste de son appel",
+    "contenu": "François Grosdidier et Marie-Louise Kuntz se sont désistés de leur appel qui devait être jugé en octobre prochain, à Nancy. La peine décidée en première instance, en février 2023, à Épinal, pour prise illégale d’intérêts pour le premier et recel de prise illégale d’intérêts pour la seconde, est donc confirmée.",
+    "url": "https://www.republicain-lorrain.fr/faits-divers-justice/2024/07/18/prise-illegale-d-interets-francois-grosdidier-le-maire-de-metz-se-desiste-de-son-appel",
+    "date": "2024-07-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2748,
+        "value": "57 - Moselle"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 881,
+        "value": "François Grosdidier"
+      },
+      {
+        "id": 2028,
+        "value": "Marie-Louise Kuntz"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2450,
     "titre": "Raquel Garrido dépose un recours pour faire annuler l’élection du député LFI Aly Diouara",
     "contenu": "En tant que chef de service à la mairie de Drancy, le nouvel élu occupe une fonction lui interdisant de concourir à une élection. Une proche de la maire Aude Lagarde a également saisi le Conseil constitutionnel.",
@@ -201,6 +417,55 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2456,
+    "titre": "Soupçons de détournements de fonds au CDAD : l’enquête du PNF qui secoue le palais de Justice de Fort-de-France",
+    "contenu": "Le Conseil Départemental de l’Accès au Droit est dans la tourmente. Le Parquet National Financier (PNF) enquête sur des suspicions de détournements de fonds et des faits de harcèlement moral. Un dossier qui embarrasse les professionnels de la justice.",
+    "url": "https://rci.fm/martinique/infos/Justice/Soupcons-de-detournements-de-fonds-au-CDAD-lenquete-interne-qui-secoue-le-palais-de",
+    "date": "2024-07-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2784,
+        "value": "972 - Martinique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2030,
+        "value": "Micheline Virgal"
+      },
+      {
+        "id": 2031,
+        "value": "Karine Gonnet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 902,
+        "value": "Conseil Départemental de l’Accès au Droit (CDAD)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
