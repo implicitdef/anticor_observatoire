@@ -1,5 +1,128 @@
 [
   {
+    "id": 2460,
+    "titre": "JOP : une nouvelle plainte révèle les relations privilégiées de Paris 2024 avec le groupe Havas",
+    "contenu": "Une agence marketing a dénoncé au Parquet national financier l’attribution du contrat de création de la mascotte des Jeux à une filiale d’Havas. Ce groupe est déjà visé par une première plainte pour favoritisme autour de l’emblème de Paris 2024.",
+    "url": "https://www.mediapart.fr/journal/france/240724/jop-une-nouvelle-plainte-revele-les-relations-privilegiees-de-paris-2024-avec-le-groupe-havas",
+    "date": "2024-07-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2033,
+        "value": "Steve Knafou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 9,
+        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024 (COJOP)"
+      },
+      {
+        "id": 61,
+        "value": "Havas"
+      },
+      {
+        "id": 705,
+        "value": "W&Cie"
+      },
+      {
+        "id": 904,
+        "value": "Mascotte Plus"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2459,
+    "titre": "L’ancien député Hubert Julien-Laferrière mis en examen pour corruption dans un dossier d’ingérences étrangères",
+    "contenu": "L’ancien député du Rhône Hubert Julien-Laferrière, dont le nom apparaît dans un vaste dossier portant sur des soupçons d’ingérences étrangères, a été mis en examen, mercredi 24 juillet, pour « corruption passive » et « trafic d’influence passif en bande organisée par un élu public ». L’ex-élu a été présenté à un juge après presque quarante-huit heures de garde à vue. Il reste libre, sous contrôle judiciaire.",
+    "url": "https://www.lemonde.fr/societe/article/2024/07/24/l-ancien-depute-hubert-julien-laferriere-mis-en-examen-pour-corruption-dans-un-dossier-d-ingerences-etrangeres_6257484_3224.html",
+    "date": "2024-07-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2807,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 274,
+        "value": "Hubert Julien-Laferrière"
+      },
+      {
+        "id": 602,
+        "value": "Jean-Pierre Duthion"
+      },
+      {
+        "id": 615,
+        "value": "Rachid M’Barki"
+      },
+      {
+        "id": 689,
+        "value": "Nabil Ennasri"
+      },
+      {
+        "id": 1875,
+        "value": "Reckya Madougou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2452,
     "titre": "L’Agence française anticorruption diligente un contrôle chez CMA CGM",
     "contenu": "Dans le cadre des audits qu’elle lance chaque année, l’autorité indépendante a choisi de passer au crible la pertinence des mesures anticorruption de l’armateur marseillais.",
@@ -33,7 +156,12 @@
         "value": "Actualité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -223,7 +351,12 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 3053,
+        "value": "Logement"
+      }
+    ],
     "procedure": [
       {
         "id": 2692,
