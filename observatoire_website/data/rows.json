@@ -1,5 +1,45 @@
 [
   {
+    "id": 2461,
+    "titre": "Lutte contre la corruption : le gouvernement refuse de nouveau d’agréer Anticor",
+    "contenu": "Le gouvernement persiste et signe. L’association de lutte contre la corruption Anticor, créée en 2002 et engagée à ce jour dans 148 procédures judiciaires, dont les affaires Alexis Kohler – le secrétaire général de l’Elysée a été mis en examen en 2022 pour des décisions qu’il avait prises concernant l’armateur italo-suisse MSC, avec lequel il avait des liens familiaux –, de la tour Triangle, à Paris – où Elisabeth Borne est mise en cause en tant qu’ancienne directrice générale de l’urbanisme à la Mairie de Paris –, ou encore les contrats russes d’Alexandre Benalla, ne retrouvera pas à court terme son agrément. Vendredi 26 juillet, au lendemain de la date butoir légale, nulle mention dans le Journal officiel de cette attribution. Cette absence constitue un refus implicite de l’exécutif. Il s’agit du deuxième depuis la perte de l’agrément, en 2023.",
+    "url": "https://www.lemonde.fr/societe/article/2024/07/26/lutte-contre-la-corruption-le-gouvernement-refuse-de-nouveau-d-agreer-anticor_6258486_3224.html",
+    "date": "2024-07-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 918,
+        "value": "Gabriel Attal"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2460,
     "titre": "JOP : une nouvelle plainte révèle les relations privilégiées de Paris 2024 avec le groupe Havas",
     "contenu": "Une agence marketing a dénoncé au Parquet national financier l’attribution du contrat de création de la mascotte des Jeux à une filiale d’Havas. Ce groupe est déjà visé par une première plainte pour favoritisme autour de l’emblème de Paris 2024.",
