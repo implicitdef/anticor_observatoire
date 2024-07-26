@@ -1,5 +1,117 @@
 [
   {
+    "id": 2462,
+    "titre": "Employés « fictifs » ou bourreaux de travail ? Ces maires cumulards qui restent hauts fonctionnaires",
+    "contenu": "Une dizaine d’édiles de moyennes et de grandes villes sont rémunérés par Bercy, le Conseil d’Etat ou la Cour des comptes en parallèle de leur mandat. Un cumul qui alimente les soupçons sur l’effectivité de leur travail.",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2024/07/26/employes-fictifs-ou-bourreaux-de-travail-ces-maires-cumulards-qui-restent-hauts-fonctionnaires_6258430_4355770.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default",
+    "date": "2024-07-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2768,
+        "value": "78 - Yvelines"
+      },
+      {
+        "id": 3068,
+        "value": "52 - Haute-Marne"
+      },
+      {
+        "id": 2698,
+        "value": "01 - Ain"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2749,
+        "value": "59 - Nord"
+      },
+      {
+        "id": 2725,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 736,
+        "value": "Jean-Luc Moudenc"
+      },
+      {
+        "id": 2034,
+        "value": "Pierre Fond"
+      },
+      {
+        "id": 2035,
+        "value": "Jean-François Debat"
+      },
+      {
+        "id": 2036,
+        "value": "Dominique Versini"
+      },
+      {
+        "id": 2037,
+        "value": "Dominique Baert"
+      },
+      {
+        "id": 2038,
+        "value": "Stéphane Martinelli"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 6,
+        "value": "Cour des comptes (CDC)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 12,
+        "value": "Horizons"
+      },
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 327,
+        "value": "Conseil d'État"
+      },
+      {
+        "id": 905,
+        "value": "Office national d’études et de recherches aérospatiales (ONERA)"
+      },
+      {
+        "id": 906,
+        "value": "Centre national d’études spatiales (CNES)"
+      },
+      {
+        "id": 907,
+        "value": "Contrôle général économique et financier (CGEFi)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2461,
     "titre": "Lutte contre la corruption : le gouvernement refuse de nouveau d’agréer Anticor",
     "contenu": "Le gouvernement persiste et signe. L’association de lutte contre la corruption Anticor, créée en 2002 et engagée à ce jour dans 148 procédures judiciaires, dont les affaires Alexis Kohler – le secrétaire général de l’Elysée a été mis en examen en 2022 pour des décisions qu’il avait prises concernant l’armateur italo-suisse MSC, avec lequel il avait des liens familiaux –, de la tour Triangle, à Paris – où Elisabeth Borne est mise en cause en tant qu’ancienne directrice générale de l’urbanisme à la Mairie de Paris –, ou encore les contrats russes d’Alexandre Benalla, ne retrouvera pas à court terme son agrément. Vendredi 26 juillet, au lendemain de la date butoir légale, nulle mention dans le Journal officiel de cette attribution. Cette absence constitue un refus implicite de l’exécutif. Il s’agit du deuxième depuis la perte de l’agrément, en 2023.",
@@ -2349,6 +2461,46 @@
       }
     ],
     "titre_corrige": "Deux ans de prison avec sursis requis contre Michèle Alliot-Marie pour prise illégale d'intérêts",
+    "a_la_une": false
+  },
+  {
+    "id": 2463,
+    "titre": "Trafic d’influence à la Senim : l’avocate générale demande la relaxe de Franck Proust, le président de Nîmes Métropole",
+    "contenu": "L’élu nîmois est rejugé à Montpellier après la cassation de sa condamnation pour trafic d’influence à 12 mois de prison avec sursis, 15 000 € d’amende et cinq ans d’inéligibilité, prononcée le 14 avril 2022 par la cour d’appel de Nîmes. Pour une raison juridique et technique, l’accusation estime qu’elle ne peut plus le poursuivre..",
+    "url": "https://www.midilibre.fr/2024/07/01/trafic-dinfluence-a-la-senim-a-montpellier-lavocate-generale-demande-la-relaxe-de-franck-proust-president-de-nimes-metropole-12053216.php",
+    "date": "2024-07-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2724,
+        "value": "30 - Gard"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2039,
+        "value": "Franck Proust"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 908,
+        "value": "Société d'équipement de Nîmes Métropole (SENIM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
     "a_la_une": false
   },
   {
@@ -71023,15 +71175,29 @@
     "contenu": "Franck Proust (LR) a été condamné à cinq ans d’inéligibilité par la Cour d’appel de Nîmes, pour trafic d’influence lorsqu’il était président de la Senim (société d’équipement de Nîmes et de sa région). Il a également été condamné à 15 mois de prison avec sursis et 15.000 euros d’amende. Son avocat a annoncé son intention de se pourvoir en cassation. Poids lourd de la vie politique gardoise, l’actuel vice-président du Parti populaire européen (PPE), auquel adhèrent Les républicains, fut maire par intérim de Nîmes entre 2016 et 2017 pendant la convalescence de Jean-Paul Fournier.",
     "url": "https://www.20minutes.fr/politique/3271499-20220414-nimes-president-communaute-agglomeration-condamne-cinq-ans-ineligibilite",
     "date": "2022-04-14",
-    "etiquettes": "30 – Gard,Franck Proust,Gard,Les Républicains,Senim",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2724,
         "value": "30 - Gard"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 2039,
+        "value": "Franck Proust"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 908,
+        "value": "Société d'équipement de Nîmes Métropole (SENIM)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -76500,15 +76666,29 @@
     "contenu": "Dans l’affaire Senim, les avocats de la défense et celui de la partie civile ont confirmé ce mardi 7 septembre avoir reçu une convocation pour une audience devant la cour d’appel de Nîmes qui pourrait se tenir les 8, 9 et 10 février 2022. Franck Proust, l’ancien président de la Senim devra y répondre de trafic d’influence et de favoritisme sur fond de vente de terrains et d’absence de marchés publics pour des prestations réalisées par la société d’économie mixte. Un promoteur immobilier et des responsables d’entreprises sont également convoqués en justice.\nDébut juillet, le tribunal présidé par le juge Jean-Michel Perez avait annulé tout le dossier estimant, comme la défense le soutenait, que la procédure dépassait le délai raisonnable. Le parquet avait relevé appel et c’est donc un nouveau procès qui, sauf report, doit se tenir en février 2022 devant la chambre des appels correctionnels.",
     "url": "https://www.midilibre.fr/2021/09/07/nimes-trafic-dinfluence-et-favoritisme-laffaire-senim-devrait-etre-jugee-en-appel-en-fevrier-2022-9775136.php",
     "date": "2021-09-07",
-    "etiquettes": "30 – Gard,Franck Proust,Les Républicains,Senim",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2724,
         "value": "30 - Gard"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 2039,
+        "value": "Franck Proust"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 908,
+        "value": "Société d'équipement de Nîmes Métropole (SENIM)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -77536,15 +77716,29 @@
     "contenu": "Trafic d’influence et favoritisme sur fond de ventes de terrains et de travaux réalisés sans appels d’offres. Ce sont les faits qui étaient reprochés contre Franck Proust, actuel président de Nîmes Métropole dans l’affaire de la Senim, entreprise d’économie mixte dont il était à la tête au début des années 2000. Tous les faits qui étaient reprochés à Franck Proust ont été levés après délibération en fin de matinée. En effet, l’affaire remontait à 20 ans, un détail qui a pesé lourd dans l’affaire puisque le tribunal a retenu cette raison pour déclarer la nullité du dossier.",
     "url": "https://actu.fr/occitanie/nimes_30189/gard-franck-proust-relaxe-par-le-tribunal-correctionnel-de-nimes-dans-l-affaire-de-la-senim_43240334.html",
     "date": "2021-07-06",
-    "etiquettes": "30 – Gard,Franck Proust,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2724,
         "value": "30 - Gard"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 2039,
+        "value": "Franck Proust"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 908,
+        "value": "Société d'équipement de Nîmes Métropole (SENIM)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -83205,8 +83399,22 @@
         "value": "30 - Gard"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 2039,
+        "value": "Franck Proust"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 908,
+        "value": "Société d'équipement de Nîmes Métropole (SENIM)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -83845,15 +84053,29 @@
     "contenu": "L’affaire de la Senim sera examinée par le tribunal correctionnel du 6 au 8 juillet 2021. Franck Proust, l’ancien président de la société d’économie mixte de Nîmes métropole (aujourd’hui rebaptisée SAT) et aujourd’hui président de l’Agglo, aura à répondre trafic d’influence sur fond de ventes de terrains et de favoritisme sur l’usage de marché à bons de commande au lieu de marchés publics.",
     "url": "https://www.midilibre.fr/2021/02/13/nimes-laffaire-de-la-senim-le-proces-fixe-en-juillet-en-correctionnelle-un-nouvel-avocat-pour-franck-proust-9371220.php",
     "date": "2021-02-13",
-    "etiquettes": "30 – Gard,Franck Proust",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2724,
         "value": "30 - Gard"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 2039,
+        "value": "Franck Proust"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 908,
+        "value": "Société d'équipement de Nîmes Métropole (SENIM)"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
