@@ -1,5 +1,41 @@
 [
   {
+    "id": 2466,
+    "titre": "Ademe : l'enquête préliminaire pour favoritisme classée sans suite",
+    "contenu": "L'enquête pour favoritisme visant l'agence dédiée à la transition écologique diligentée par le parquet d'Angers a été classée sans suite. Celle-ci visait l'attribution d'un marché destiné à encourager les transporteurs routiers à réduire leur impact énergétique et environnemental.",
+    "url": "https://www.lalettre.fr/fr/entreprises_transports/2024/07/26/ademe--l-enquete-preliminaire-pour-favoritisme-classee-sans-suite%2C110272462-art",
+    "date": "2024-07-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 557,
+        "value": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2666,
+        "value": "Énergie"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2462,
     "titre": "Employés « fictifs » ou bourreaux de travail ? Ces maires cumulards qui restent hauts fonctionnaires",
     "contenu": "Une dizaine d’édiles de moyennes et de grandes villes sont rémunérés par Bercy, le Conseil d’Etat ou la Cour des comptes en parallèle de leur mandat. Un cumul qui alimente les soupçons sur l’effectivité de leur travail.",
@@ -110,6 +146,59 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2467,
+    "titre": "Ingérences étrangères : l'Arcom, la HATVP et la CNCCFP demandent plus de moyens",
+    "contenu": "Devant la commission d'enquête du Sénat, les trois autorités administratives indépendantes ont réclamé un renforcement de leurs pouvoirs. Le rapport final, mené par Dominique de Legge (LR) et Rachid Temal (PS), reprend leur liste de souhaits.",
+    "url": "https://www.lalettre.fr/fr/action-publique/2024/07/26/ingerences-etrangeres--l-arcom-la-hatvp-et-la-cnccfp-demandent-plus-de-moyens%2C110272485-eve",
+    "date": "2024-07-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2041,
+        "value": "Dominique de Legge"
+      },
+      {
+        "id": 2042,
+        "value": "Rachid Temal"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 180,
+        "value": "Commission nationale des comptes de campagne et des financements politiques (CNCCFP)"
+      },
+      {
+        "id": 644,
+        "value": "Autorité de régulation de la communication audiovisuelle et numérique (ARCOM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2461,
@@ -262,7 +351,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [
@@ -1913,7 +2002,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -2273,6 +2362,47 @@
     "a_la_une": false
   },
   {
+    "id": 2465,
+    "titre": "L’ancienne maire de La Terrasse condamnée pour prise illégale d’intérêts",
+    "contenu": "L’ancienne maire de La Terrasse a été condamnée ce mardi à une peine d’inéligibilité de cinq ans. Claudie Brun a été reconnue coupable de prise illégale d’intérêt pour avoir refusé de délivrer un permis de construire à un promoteur qui souhaitait bâtir un immeuble à côté de chez elle.",
+    "url": "https://www.ledauphine.com/faits-divers-justice/2024/07/02/l-ancienne-maire-condamnee-pour-prise-illegale-d-interets",
+    "date": "2024-07-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2732,
+        "value": "38 - Isère"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2040,
+        "value": "Claudie Brun"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2414,
     "titre": "La vente de la villa de Marine Le Pen à Rueil-Malmaison relance les interrogations sur son patrimoine",
     "contenu": "L’ex-présidente du RN a vendu pour 2,5 millions d’euros la villa où demeure son père au milliardaire conservateur Pierre-Édouard Stérin et à son bras droit François Durvye. Une opération surprenante, d'autant que l’élue l’avait déclarée « invendable » dans sa déclaration de patrimoine en 2022.",
@@ -2413,6 +2543,51 @@
       {
         "id": 2692,
         "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2464,
+    "titre": "Prise illégale d'intérêts : le sous-préfet d'Aix finalement relaxé par le tribunal correctionnel de Lille",
+    "contenu": "Il comparaissait mardi 10 juin devant la juridiction lilloise pour prise illégale d’intérêts et atteinte à la liberté d’accès aux marchés publics. Le délibéré a été rendu en début d'après-midi. le sous-préfet d'Aix, Bruno Cassette, a été relaxé par le tribunal correctionnel de Lille.",
+    "url": "https://www.laprovence.com/article/faits-divers-justice/69223945374023/prise-illegale-dinterets-le-sous-prefet-daix-finalement-relaxe-par-le-tribunal-correctionnel-de-lille",
+    "date": "2024-07-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 980,
+        "value": "Bruno Cassette"
+      },
+      {
+        "id": 981,
+        "value": "Damien Castelain"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 290,
+        "value": "Métropole Européenne de Lille (MEL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
       }
     ],
     "titre_corrige": "",
@@ -2780,7 +2955,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -2962,7 +3137,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -4243,7 +4418,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -4385,7 +4560,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -4518,7 +4693,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -5370,7 +5545,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -6283,7 +6458,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 3027,
@@ -6493,7 +6668,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -6550,7 +6725,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2683,
@@ -6752,7 +6927,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2684,
@@ -6879,7 +7054,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -7808,7 +7983,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2665,
@@ -8162,7 +8337,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -8711,7 +8886,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -10136,7 +10311,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -10487,7 +10662,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2658,
@@ -10536,7 +10711,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2683,
@@ -11691,7 +11866,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2684,
@@ -11940,7 +12115,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -12974,7 +13149,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -14112,7 +14287,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [
@@ -14400,7 +14575,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -14601,7 +14776,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -15327,7 +15502,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -16404,7 +16579,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -16844,7 +17019,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -16925,7 +17100,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -17050,7 +17225,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -18010,7 +18185,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2687,
@@ -18553,7 +18728,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -18879,7 +19054,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [
@@ -19560,7 +19735,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2655,
@@ -20569,7 +20744,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2654,
@@ -21013,7 +21188,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -21145,7 +21320,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -21308,7 +21483,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2683,
@@ -22432,7 +22607,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -24010,7 +24185,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -24605,7 +24780,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -27081,7 +27256,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -28930,7 +29105,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -29997,7 +30172,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -30184,7 +30359,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -30394,7 +30569,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -32199,7 +32374,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -33291,7 +33466,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -33681,7 +33856,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -34285,7 +34460,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -34951,7 +35126,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -35099,7 +35274,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -35701,7 +35876,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [
@@ -36808,7 +36983,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -36844,7 +37019,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -37344,7 +37519,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -37505,7 +37680,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -38483,7 +38658,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -40067,7 +40242,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -41966,7 +42141,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -42011,7 +42186,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -42462,7 +42637,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -46617,7 +46792,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -48132,7 +48307,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -48344,7 +48519,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -48530,7 +48705,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -49346,7 +49521,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [
@@ -53836,7 +54011,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2683,
@@ -54851,7 +55026,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -56463,7 +56638,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2683,
@@ -58067,7 +58242,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -60890,7 +61065,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -62155,7 +62330,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2685,
@@ -62391,7 +62566,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2665,
@@ -62782,7 +62957,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2666,
@@ -62843,7 +63018,7 @@
       },
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -63062,7 +63237,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -65055,7 +65230,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2658,
@@ -66387,7 +66562,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
@@ -68630,7 +68805,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       },
       {
         "id": 2685,
@@ -68821,7 +68996,7 @@
     "theme": [
       {
         "id": 2672,
-        "value": "Lobbying / Influence"
+        "value": "Lobbying / Influence / Ingérence"
       }
     ],
     "procedure": [],
