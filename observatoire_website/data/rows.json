@@ -1,5 +1,94 @@
 [
   {
+    "id": 2473,
+    "titre": "Entendu par les enquêteurs pour détournement de fonds publics, un maire du Gers se défend",
+    "contenu": "Une enquête pour « détournement de fonds publics » a été ouverte à l’encontre du maire de Plaisance-du-Gers (Gers), Patrick Fitan, à la suite d’un signalement de trois élus d’opposition. Entendu par les gendarmes le 22 juillet, l’édile s’est défendu dans un communiqué publié sur la page Facebook de la commune.",
+    "url": "https://www.ouest-france.fr/region-occitanie/gers/entendu-par-les-enqueteurs-pour-detournement-de-fonds-publics-un-maire-du-gers-se-defend-c6a84ce0-4e88-11ef-a0c1-3a0d3e6c3ebb",
+    "date": "2024-07-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2726,
+        "value": "32 - Gers"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2043,
+        "value": "Patrick Fitan"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2472,
+    "titre": "La maison mère de Lactalis met de côté 300 millions d'euros pour «contentieux fiscal»",
+    "contenu": "La maison mère du géant mondial du lait Lactalis (Lactel, Président, Leerdammer, Galbani...), BSA, a provisionné trois cents millions d'euros à fin 2023 au titre d'un «contentieux fiscal». Dans un premier temps, le Parquet national financier (PNF) avait ouvert en 2018 une enquête pour blanchiment de fraude fiscale aggravée «portant sur des suspicions de minoration de son bénéfice imposable par le groupe Lactalis». Ces investigations ont ensuite été étendues aux chefs de fraude fiscale aggravée.",
+    "url": "https://www.lefigaro.fr/flash-eco/la-maison-mere-de-lactalis-met-de-cote-300-millions-d-euros-pour-contentieux-fiscal-20240729",
+    "date": "2024-07-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2745,
+        "value": "53 - Mayenne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 434,
+        "value": "Lactalis"
+      },
+      {
+        "id": 909,
+        "value": "Confédération paysanne"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2654,
+        "value": "Agro-alimentaire"
+      },
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2468,
     "titre": "Nouveau refus d’agrément pour Anticor, l’association saisit le juge des référés",
     "contenu": "Vendredi 26 juillet, le gouvernement a implicitement refusé d’octroyer l’agrément à Anticor lui permettant d’intervenir dans les dossiers de corruption. Une décision que l’association conteste devant le juge administratif, saisi en urgence.",
@@ -187,6 +276,63 @@
       {
         "id": 2695,
         "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2475,
+    "titre": "Soupçons de barbouzeries au PSG : l'ex-majordome de Nasser Al-Khelaïfi mis en examen",
+    "contenu": "Hicham Karmoussi, proche de Nasser Al-Khelaïfi, a fini par être en conflit avec le patron du PSG et aurait récupéré des vidéos privées et intimes le concernant.",
+    "url": "https://www.laprovence.com/article/faits-divers-justice/5612805676411314/soupcons-de-barbouzeries-au-psg-lex-majordome-de-nasser-al-khelaifi-mis-en-examen",
+    "date": "2024-07-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2807,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 816,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 818,
+        "value": "Malik Nait-Liman"
+      },
+      {
+        "id": 968,
+        "value": "Nasser al-Khelaïfi"
+      },
+      {
+        "id": 2044,
+        "value": "Hicham Karmoussi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 166,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
       }
     ],
     "titre_corrige": "",
@@ -557,6 +703,98 @@
     "a_la_une": true
   },
   {
+    "id": 2474,
+    "titre": "Soupçons de favoritisme en Haute-Savoie : le maire des Gets entendu en garde à vue",
+    "contenu": "Le maire de la commune des Gets (Haute-Savoie), Henri Anthonioz, son premier adjoint ainsi que le directeur général des services de la commune ont été placés en garde à vue les 2 et 3 juillet dans une affaire de soupçons d'irrégularités dans l'attribution d'un marché d'exploitation du domaine skiable.",
+    "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/haute-savoie/soupcons-de-favoritisme-en-haute-savoie-le-maire-des-gets-entendu-en-garde-a-vue-3008504.html",
+    "date": "2024-07-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2761,
+        "value": "74 - Haute-Savoie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1283,
+        "value": "Tony Parker"
+      },
+      {
+        "id": 1284,
+        "value": "Henri Anthonioz"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 493,
+        "value": "ASVEL Lyon-Villeurbanne"
+      },
+      {
+        "id": 494,
+        "value": "Infinity Nine Mountain"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2476,
+    "titre": "L'étrange voyage du consultant Manuel Valls pour soutenir les intérêts de Bahreïn",
+    "contenu": "Une délégation des plus originales est arrivée lundi 22 juillet à Bahreïn. Emmenée par l'ex-premier ministre français Manuel Valls, elle est conseillée par l'ex-directrice de la communication du Parquet national financier, devenue consultante en affaires publiques.",
+    "url": "https://www.intelligenceonline.fr/renseignement-d-affaires/2024/07/22/l-etrange-voyage-du-consultant-manuel-valls-pour-soutenir-les-interets-de-bahrein,110270942-art",
+    "date": "2024-07-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3069,
+        "value": "Bahreïn"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1222,
+        "value": "Manuel Valls"
+      },
+      {
+        "id": 2045,
+        "value": "Céline Clément-Petremann"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2452,
     "titre": "L’Agence française anticorruption diligente un contrôle chez CMA CGM",
     "contenu": "Dans le cadre des audits qu’elle lance chaque année, l’autorité indépendante a choisi de passer au crible la pertinence des mesures anticorruption de l’armateur marseillais.",
@@ -596,6 +834,42 @@
         "value": "Transports / Logistique"
       }
     ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2477,
+    "titre": "La liste des invités du Dîner des Sommets de Laurent Wauquiez",
+    "contenu": "LyonMag révèle la liste des invités du fameux Dîner des Sommets organisé par la Région Auvergne-Rhône-Alpes le 23 juin 2022 au château de la Chaize dans le Beaujolais. Près d'une centaine d’acteurs économiques, culturels, sportifs ou associatifs d’Auvergne-Rhône-Alpes avait été conviée. La note avait été d'environ 100 000 euros, réglée par la Région.",
+    "url": "https://www.lyonmag.com/article/137276/info-lyonmag-la-liste-exclusive-des-invites-du-diner-des-sommets-de-laurent-wauquiez",
+    "date": "2024-07-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 668,
+        "value": "Laurent Wauquiez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
