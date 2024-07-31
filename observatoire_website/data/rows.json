@@ -43222,7 +43222,7 @@
     "personnes_morales": [
       {
         "id": 223,
-        "value": "Smectom"
+        "value": "Smectom du Plantaurel"
       }
     ],
     "categorie": [
@@ -71749,21 +71749,43 @@
     "contenu": "L'ancien président du Medef, Ernest-Antoine Seillière, a été condamné mercredi à Paris à trois ans de prison avec sursis et 37.500 euros d'amende, reconnu coupable d'avoir participé à une fraude fiscale en 2007 au sein de l'entreprise Wendel.\nL'ex-patron de la société d'investissement, Jean-Bernard Lafonta, s'est vu infliger quatre ans de prison avec sursis. Onze autres cadres et un ancien avocat fiscaliste ont été condamnés à des peines allant de l'amende avec sursis à de la prison avec sursis assorti d'une amende de 37.500 euros. Une quinzaine de dirigeants et cadres de Wendel avaient réalisé en mai 2007 un gain net total de 315 millions d'euros, soit 4,6% du capital de la société, issu d'un programme d'intéressement baptisé Solfur, sans être imposé.\nPour le tribunal, ce bénéfice considérable, lié notamment à la montée en flèche de l'action Wendel entre 2004 et 2007, a été placé «artificiellement» sous un régime de «sursis à imposition», permettant de différer la taxation qui aurait dû atteindre un taux d'environ 30%. Les prévenus ont franchi la «frontière» entre «l'optimisation fiscale» et la «fraude fiscale», a notamment souligné la présidente, estimant qu'ils avaient «dévoyé» un dispositif légal, pensé par le législateur pour faciliter les restructurations d'entreprise et l'activité économique. Le tribunal est cependant resté en-deçà des réquisitions du parquet national financier (PNF), qui avait réclamé lors du procès en janvier et février quatre ans, dont deux ans ferme, à l'encontre du baron Seillière, ainsi que cinq ans dont trois ferme à l'encontre de Jean-Bernard Lafonta.",
     "url": "https://www.lefigaro.fr/conjoncture/proces-wendel-l-ex-president-du-medef-ernest-antoine-seilliere-condamne-a-3-ans-de-prison-avec-sursis-pour-fraude-fiscale-20220420",
     "date": "2022-04-20",
-    "etiquettes": "Ernest-Antoine Seillière,Jean-Bernard Lafonta,Medef,Parquet National Financier,Wendel",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 2021,
         "value": "Ernest-Antoine Seillière"
+      },
+      {
+        "id": 2046,
+        "value": "Jean-Bernard Lafonta"
       }
     ],
     "personnes_morales": [
       {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
         "id": 111,
         "value": "Medef"
+      },
+      {
+        "id": 910,
+        "value": "Wendel"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [
       {
@@ -71777,14 +71799,74 @@
   {
     "id": 1245,
     "titre": "Argent public : un rapport accuse Marine Le Pen de détournements, la justice saisie",
-    "contenu": "",
-    "url": "",
+    "contenu": "Un rapport de l’Office anti-fraude de l’Union européenne, transmis il y a un mois à la justice française, accuse la candidate du Rassemblement national d’avoir personnellement détourné près de 140 000 euros d’argent public du Parlement de Strasbourg quand elle était eurodéputée. Révélations.",
+    "url": "https://www.mediapart.fr/journal/france/160422/argent-public-un-rapport-accuse-marine-le-pen-de-detournements-la-justice-saisie",
     "date": "2022-04-16",
-    "etiquettes": "Marine Le Pen,Office européen de lutte antifraude,Parlement Européen,Rassemblement National",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 665,
+        "value": "Jean-Marie Le Pen"
+      },
+      {
+        "id": 694,
+        "value": "Louis Aliot"
+      },
+      {
+        "id": 695,
+        "value": "Bruno Gollnisch"
+      },
+      {
+        "id": 2047,
+        "value": "Yann Maréchal"
+      },
+      {
+        "id": 2048,
+        "value": "Ludovic de Danne"
+      },
+      {
+        "id": 2049,
+        "value": "Charles Van Houtte"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 293,
+        "value": "Office européen de lutte antifraude (OLAF)"
+      },
+      {
+        "id": 911,
+        "value": "Œuvre d’Orient"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -71797,9 +71879,24 @@
     "url": "https://www.lemonde.fr/m-le-mag/article/2022/04/15/affaire-mckinsey-harcelement-au-pnf-jean-francois-bohnert-un-procureur-trop-tranquille_6122236_4500055.html",
     "date": "2022-04-15",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1466,
+        "value": "Jean-François Bohnert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
     "categorie": [
       {
         "id": 2651,
@@ -71840,15 +71937,25 @@
         "value": "Société d'équipement de Nîmes Métropole (SENIM)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1249,
-    "titre": "Stéphanie Cabossioras",
+    "titre": "Stéphanie Cabossioras rejoint Binance",
     "contenu": "Formée à Sciences Po Paris et l’ENA, elle a travaillé comme conseillère référendaire pour la Cour des Comptes puis a rejoint l’Autorité des Marchés Financiers (AMF), successivement comme responsable du pôle affaires européennes, conseillère puis directrice adjointe des affaires juridiques. En avril 2022, elle rejoint la plateforme d’échange de cryptomonnaies Binance.",
     "url": "https://www.theblock.co/linked/141778/binance-poaches-french-financial-regulators-deputy-general-counsel",
     "date": "2022-04-13",
@@ -71894,8 +72001,18 @@
     "url": "https://www.lechorepublicain.fr/luisant-28600/actualites/une-information-judiciaire-ouverte-contre-le-maire-de-luisant-bertrand-massot-et-sa-compagne_14115598/",
     "date": "2022-04-13",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 2720,
+        "value": "28 - Eure-et-Loir"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1502,
+        "value": "Bertrand Massot"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -71904,7 +72021,12 @@
       }
     ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -71915,12 +72037,53 @@
     "url": "https://www.liberation.fr/societe/police-justice/enquete-pour-trafic-dinfluence-nikolai-sarkisov-letrange-ami-russe-de-nicolas-sarkozy-20220412_FOYCLXGL7ZD3NBX5RJE2LI3VAA/",
     "date": "2022-04-12",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2811,
+        "value": "Russie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 691,
+        "value": "Nikolaï Sarkisov"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 152,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -71931,9 +72094,24 @@
     "url": "https://www.laprovence.com/actu/en-direct/6725870/affaire-solere-une-demande-dannulation-de-la-procedure-de-nouveau-examinee.html",
     "date": "2022-04-11",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2765,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 847,
+        "value": "Thierry Solère"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      }
+    ],
     "categorie": [
       {
         "id": 2652,
@@ -71941,7 +72119,12 @@
       }
     ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -71952,9 +72135,19 @@
     "url": "https://www.ladepeche.fr/2022/04/07/info-la-depeche-le-parquet-de-toulouse-ouvre-une-enquete-sur-plusieurs-elus-davignonet-lauragais-10220758.php",
     "date": "2022-04-08",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 2725,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [
       {
         "id": 2652,
@@ -71973,17 +72166,54 @@
   },
   {
     "id": 1253,
-    "titre": "Affaire McKinsey : le Parquet national financier a ouvert une enquête préliminaire pour blanchiment aggravé de fraude fiscale",
-    "contenu": "",
-    "url": "",
+    "titre": "Affaire McKinsey : le Parquet national financier a ouvert une enquête pour \"blanchiment aggravé de fraude fiscale\"",
+    "contenu": "Le Parquet national financier (PNF) a annoncé, mercredi 6 avril, avoir ouvert une enquête préliminaire du chef de \"blanchiment aggravé de fraude fiscale\", après un rapport du Sénat sur l'influence croissante des cabinets de conseil privés sur les politiques publiques pendant le mandat d'Emmanuel Macron. L'enquête, ouverte le 31 mars, vise le cabinet américain McKinsey \"sur la question de son statut fiscal en France\", a appris France Télévisions de source judiciaire. Elle a été confiée au Service d'enquêtes judiciaires des finances (SEJF).",
+    "url": "https://www.francetvinfo.fr/elections/recours-de-l-etat-a-des-cabinets-de-conseil-le-parquet-national-financier-a-ouvert-une-enquete-pour-blanchiment-aggrave-de-fraude-fiscale_5064994.html",
     "date": "2022-04-06",
-    "etiquettes": "Gouvernement Jean Castex,McKinsey,Parquet National Financier,Sénat",
-    "departement": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 397,
+        "value": "McKinsey & Company"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2660,
+        "value": "Conseil"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -71994,12 +72224,54 @@
     "url": "https://www.francetvinfo.fr/sports/foot/michel-platini/football-michel-platini-porte-plainte-contre-le-president-de-la-fifa-gianni-infantino-pour-trafic-d-influence-actif_5064736.html",
     "date": "2022-04-06",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2812,
+        "value": "Suisse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 837,
+        "value": "Michel Platini"
+      },
+      {
+        "id": 838,
+        "value": "Gianni Infantino"
+      },
+      {
+        "id": 1251,
+        "value": "Sepp Blatter"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 187,
+        "value": "Fédération internationale de football association (FIFA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -72010,34 +72282,32 @@
     "url": "https://actu.fr/faits-divers/ariege-la-presidente-et-l-ancien-directeur-du-syndicat-des-dechets-en-garde-a-vue_49957492.html",
     "date": "2022-04-05",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2706,
+        "value": "09 - Ariège"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 878,
+        "value": "Alain Caillat"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 223,
+        "value": "Smectom du Plantaurel"
+      },
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
     "categorie": [
       {
         "id": 2651,
         "value": "Actualité"
-      }
-    ],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 1257,
-    "titre": "Centre-Val-de-Loire : une perquisition menée à la préfecture d'Orléans dans une enquête visant la préfète pour \"prise illégale d’intérêts\"",
-    "contenu": "La préfète de la région Centre-Val-de-Loire, Régine Engström, est soupçonnée d'avoir favorisé son ancien employeur dans un projet immobilier à Montargis.",
-    "url": "https://www.francetvinfo.fr/societe/justice/centre-val-de-loire-une-perquisition-menee-a-la-prefecture-d-orleans-dans-une-enquete-visant-la-prefete-pour-prise-illegale-dinterets_5064022.html",
-    "date": "2022-04-05",
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [
-      {
-        "id": 2652,
-        "value": "Probité"
       }
     ],
     "theme": [],
@@ -72052,51 +72322,37 @@
   },
   {
     "id": 1256,
-    "titre": "L'ancien maire de Cannes et député LR Bernard Brochand condamné pour dissimulation de patrimoine et fraude fiscale",
-    "contenu": "",
-    "url": "",
+    "titre": "Cannes : Bernard Brochand condamné à un an de prison avec sursis pour un compte non déclaré en Suisse",
+    "contenu": "Le tribunal correctionnel de Paris a reconnu le député LR Bernard Brochand coupable d'avoir omis sciemment de mentionner dans sa déclaration de patrimoine un compte en Suisse. Il le détenait depuis 1973, un peu plus d'un million s'y trouvait.",
+    "url": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/cannes-bernard-brochand-condamne-a-un-an-de-prison-avec-sursis-pour-un-compte-non-declare-en-suisse-2518608.html",
     "date": "2022-04-05",
-    "etiquettes": "06 – Alpes Maritimes,Bernard Brochand,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2703,
         "value": "06 - Alpes-Maritimes"
+      },
+      {
+        "id": 2812,
+        "value": "Suisse"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 1255,
-    "titre": "Martigues : Un élu et un proche de la mairie mises en examen pour favoritisme et trafic d’influence",
-    "contenu": "La justice a procédé à une série de perquisitions et d’interpellations à Martigues, dont deux élus et la directrice générale du bailleur social municipal, dans le cadre d’une enquête pour des soupçons de corruption.",
-    "url": "https://www.20minutes.fr/justice/3265695-20220405-martigues-elu-proche-mairie-mises-examen-favoritisme-trafic-influence",
-    "date": "2022-04-05",
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 1260,
-    "titre": "Omission de déclaration de patrimoine : 2 mois de prison avec sursis pour l'ex-député Alfred Marie-Jeanne",
-    "contenu": "L'ancien député de la Martinique Alfred Marie-Jeanne a été condamné mardi 5 avril à Paris à deux mois d'emprisonnement avec sursis et 10.000 euros d'amende pour déclaration incomplète ou mensongère de patrimoine à la Haute autorité pour la transparence de la vie publique (HATVP).",
-    "url": "https://www.lefigaro.fr/flash-actu/omission-de-declaration-de-patrimoine-2-mois-de-prison-avec-sursis-pour-l-ex-depute-alfred-marie-jeanne-20220405",
-    "date": "2022-04-05",
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "personnalites": [
+      {
+        "id": 2050,
+        "value": "Bernard Brochand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
     "categorie": [
       {
         "id": 2652,
@@ -72114,14 +72370,78 @@
     "a_la_une": false
   },
   {
+    "id": 1257,
+    "titre": "Centre-Val-de-Loire : une perquisition menée à la préfecture d'Orléans dans une enquête visant la préfète pour \"prise illégale d’intérêts\"",
+    "contenu": "La préfète de la région Centre-Val-de-Loire, Régine Engström, est soupçonnée d'avoir favorisé son ancien employeur dans un projet immobilier à Montargis.",
+    "url": "https://www.francetvinfo.fr/societe/justice/centre-val-de-loire-une-perquisition-menee-a-la-prefecture-d-orleans-dans-une-enquete-visant-la-prefete-pour-prise-illegale-dinterets_5064022.html",
+    "date": "2022-04-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2739,
+        "value": "45 - Loiret"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 645,
+        "value": "Régine Engström"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 67,
+        "value": "Nexity"
+      },
+      {
+        "id": 277,
+        "value": "Ministère de la Culture"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 1258,
-    "titre": "Près de Perpignan. Le maire du Barcarès Alain Ferrand de nouveau placé en garde à vue ce mardi",
+    "titre": "Le maire du Barcarès Alain Ferrand de nouveau placé en garde à vue ce mardi",
     "contenu": "Les ennuis judiciaires se succèdent pour Alain Ferrand. Le maire du Barcarès a été placé en garde à vue, mardi, pour des faits liés au Village de Noël, et qui remonteraient à 2018.",
     "url": "https://actu.fr/occitanie/le-barcares_66017/pres-de-perpignan-le-maire-du-barcares-alain-ferrand-de-nouveau-place-en-garde-a-vue-ce-mardi_49970420.html",
     "date": "2022-04-05",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 2756,
+        "value": "66 - Pyrénées-Orientales"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 771,
+        "value": "Alain Ferrand"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -72134,6 +72454,92 @@
       {
         "id": 2692,
         "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1255,
+    "titre": "Martigues : Un élu et un proche de la mairie mises en examen pour favoritisme et trafic d’influence",
+    "contenu": "La justice a procédé à une série de perquisitions et d’interpellations à Martigues, dont deux élus et la directrice générale du bailleur social municipal, dans le cadre d’une enquête pour des soupçons de corruption.",
+    "url": "https://www.20minutes.fr/justice/3265695-20220405-martigues-elu-proche-mairie-mises-examen-favoritisme-trafic-influence",
+    "date": "2022-04-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 298,
+        "value": "Société d'Economie Mixte Immobilière de la Ville de Martigues (SEMIVIM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3053,
+        "value": "Logement"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1260,
+    "titre": "Omission de déclaration de patrimoine : 2 mois de prison avec sursis pour l'ex-député Alfred Marie-Jeanne",
+    "contenu": "L'ancien député de la Martinique Alfred Marie-Jeanne a été condamné mardi 5 avril à Paris à deux mois d'emprisonnement avec sursis et 10.000 euros d'amende pour déclaration incomplète ou mensongère de patrimoine à la Haute autorité pour la transparence de la vie publique (HATVP).",
+    "url": "https://www.lefigaro.fr/flash-actu/omission-de-declaration-de-patrimoine-2-mois-de-prison-avec-sursis-pour-l-ex-depute-alfred-marie-jeanne-20220405",
+    "date": "2022-04-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2784,
+        "value": "972 - Martinique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2051,
+        "value": "Alfred Marie-Jeanne"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 912,
+        "value": "Mouvement indépendantiste martiniquais (MIM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
       }
     ],
     "titre_corrige": "",
@@ -72152,31 +72558,139 @@
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1781,
+        "value": "Mehdi Khouani"
+      },
+      {
+        "id": 1782,
+        "value": "Linda Bouchicha"
+      },
+      {
+        "id": 1783,
+        "value": "Corinne Dupont"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 298,
+        "value": "Société d'Economie Mixte Immobilière de la Ville de Martigues (SEMIVIM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1262,
-    "titre": "Audrey Bourolleau",
-    "contenu": "Elle a travaillé pour la société Baron Philippe de Rotschild, France Boissons, l’Union des Côtes de Bordeaux et enfin Vin & Société, l’organisation de lobbying de la filière viticole dont elle a été la déléguée générale entre 2012 et 2017. Emmanuel Macron l’a ensuite nommée comme conseillère « agriculture, pêche, forêt et développement rural » dans son cabinet. En décembre 2019, elle fait l’acquisition d’un domaine agricole dans les Yvelines où elle fonde Hectar, une école d’agriculture gratuite, financée Xavier Niel. En 2022, en tant que candidat, Emmanuel Macron lui confie la gestion de son groupe de campagne consacré aux questions d’agriculture et d’alimentation. Loin de se déporter des sujets liés à l’alcool, la conseillère du président apparaît, dans plusieurs documents révélés par Le Monde, comme une facilitatrice du lobby alcoolier à l’Elysée.",
+    "titre": "Une lobbyiste du vin au cœur du quinquennat et de la campagne électorale d’Emmanuel Macron",
+    "contenu": "Des documents obtenus par « Le Monde » révèlent comment Audrey Bourolleau, ex-conseillère du chef de l’Etat, a défendu à l’Elysée les intérêts du secteur de l’alcool, après avoir été la déléguée générale de l’organisation de lobbying de la filière viticole.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/21/une-lobbyiste-du-vin-au-c-ur-du-quinquennat-et-de-la-campagne-electorale-d-emmanuel-macron_6118392_4355770.html",
     "date": "2022-03-21",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 648,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 2052,
+        "value": "Audrey Bourolleau"
+      },
+      {
+        "id": 2053,
+        "value": "Krystel Lepresle"
+      },
+      {
+        "id": 2054,
+        "value": "Jean-Marie Barillère"
+      },
+      {
+        "id": 2055,
+        "value": "Antoine Cohen-Potin"
+      },
+      {
+        "id": 2056,
+        "value": "Catherine Chapalain"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      },
+      {
+        "id": 913,
+        "value": "Vin & Société"
+      },
+      {
+        "id": 914,
+        "value": "Mission interministérielle de lutte contre les drogues et les conduites addictives (MIDELCA)"
+      },
+      {
+        "id": 915,
+        "value": "Santé publique France (SPF)"
+      },
+      {
+        "id": 916,
+        "value": "Comité National des Interprofessions de Vins à Appellation d'Origine et à Indication Géographique (CNIV)"
+      },
+      {
+        "id": 917,
+        "value": "Hectar"
+      },
+      {
+        "id": 918,
+        "value": "Association Nationale des Industries Alimentaires (ANIA)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2655,
+        "value": "Alcools"
+      },
+      {
+        "id": 2680,
+        "value": "Santé"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -72228,14 +72742,41 @@
   },
   {
     "id": 1265,
-    "titre": "David Tortel",
+    "titre": "David Tortel rejoint Deloitte",
     "contenu": "Ingénieur en chef des Mines, diplômé de l’Ecole Polytechnique Fédérale de Zurich et de l’école Télécom ParisTech, il a été chef du pôle Cybersécurité du réseau interministériel de l’Etat, puis a travaillé pour l’Anssi (Agence Nationale de la sécurité des systèmes d’information) où il était en charge successivement des activités d’analyse de la menace d’attaques cyber puis des audits et des remédiations. Il est ensuite nommé conseiller de Gérald Darmanin, en charge des technologies et du numérique. En mars 2022 il intègre le cabinet d'audit Deloitte.",
     "url": "https://www2.deloitte.com/fr/fr/pages/presse/2022/nomination-david-tortel.html",
     "date": "2022-03-16",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 761,
+        "value": "Gérald Darmanin"
+      },
+      {
+        "id": 2057,
+        "value": "David Tortel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 326,
+        "value": "Agence nationale de la sécurité des systèmes d'information (Anssi)"
+      },
+      {
+        "id": 531,
+        "value": "Deloitte"
+      },
+      {
+        "id": 619,
+        "value": "Ministère de l'Intérieur"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
@@ -72254,37 +72795,98 @@
     "url": "https://www.varmatin.com/politique/affaire-dite-du-frigo-hubert-falco-et-marc-giraud-renvoyes-devant-le-tribunal-de-marseille-753701",
     "date": "2022-03-16",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1333,
+        "value": "Hubert Falco"
+      },
+      {
+        "id": 1364,
+        "value": "Marc Giraud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 12,
+        "value": "Horizons"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [
       {
         "id": 2688,
         "value": "Usage des deniers publics"
       }
     ],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1266,
-    "titre": "Gauthier Lherbier",
+    "titre": "Gauthier Lherbier rejoint BNP Paribas",
     "contenu": "Diplômé de Télécom ParisTech et des Mines de Paris, il a travaillé chez Thalès et BNP Paribas avant de rejoindre la DIRECCTE de Champagne Ardenne. Il rejoint ensuite la Direction générale du Trésor en tant que rapporteur puis secrétaire général du Comité Interministériel de Restructuration Industrielle. En 2018, il devient conseiller dans le cabinet de Sébastien Lecornu. En mars 2022 il rejoint la division “energy, resources & infrastructures”, dans l’équipe Real Asset de BNP Paribas CIB. Cette division est chargée du financement d’actifs réels dans le domaine des énergies, ressources et infrastructures.",
     "url": "https://www.wansquare.com/012-31926-BNP-Paribas-debauche-un-conseiller-de-Sebastien-Lecornu.html?uid=8cc5d2afca0d0dcf7d4b9830c7af9636",
     "date": "2022-03-11",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 677,
+        "value": "Sébastien Lecornu"
+      },
+      {
+        "id": 2062,
+        "value": "Gauthier Lherbier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 116,
+        "value": "Ministère des armées"
+      },
+      {
+        "id": 652,
+        "value": "BNP Paribas"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -72296,7 +72898,12 @@
     "url": "https://www.sudouest.fr/sport/rugby/ffr-cinq-chefs-d-accusation-retenus-contre-bernard-laporte-9620175.php",
     "date": "2022-03-10",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 848,
@@ -72309,12 +72916,24 @@
       {
         "id": 897,
         "value": "Claude Atcher"
+      },
+      {
+        "id": 958,
+        "value": "Serge Simon"
+      },
+      {
+        "id": 2061,
+        "value": "Jean-Daniel Simonet"
       }
     ],
     "personnes_morales": [
       {
         "id": 3,
         "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 194,
+        "value": "Fédération française de rugby (FFR)"
       }
     ],
     "categorie": [
@@ -72323,7 +72942,12 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
     "procedure": [
       {
         "id": 2695,
@@ -72335,56 +72959,135 @@
   },
   {
     "id": 1267,
-    "titre": "Marine Imbault",
+    "titre": "Marine Imbault rejoint Intercéréales",
     "contenu": "Collaboratrice parlementaire de 2011 à 2019, puis Conseillère parlementaire de Marc Fesneau, le Ministre des Relations avec le Parlement et de la Participation citoyenne, elle quitte le cabinet de ce dernier en février 2022 pour rejoindre Intercéréales, groupement de 14 associations du secteur céréalier français, en tant que Responsable des affaires publiques.",
     "url": "https://www.lalettrea.fr/action-publique_lobbying/2022/03/07/les-conseillers-de-la-macronie-en-marche-vers-le-lobbying-et-la-com--d-influence,109738253-ge0",
     "date": "2022-03-07",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1013,
+        "value": "Marc Fesneau"
+      },
+      {
+        "id": 2063,
+        "value": "Marine Imbault"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 56,
+        "value": "Ministère de l'agriculture"
+      },
+      {
+        "id": 920,
+        "value": "Intercéréales"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2654,
+        "value": "Agro-alimentaire"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1268,
-    "titre": "Marguerite Cazeneuve",
+    "titre": "Après Matignon, Marguerite Cazeneuve nommée à l’Assurance maladie",
     "contenu": "Consultante chez McKinsey, elle rejoint en 2015 le Ministère de la santé et le Comité de pilotage de l’Objectif national de dépenses d’assurance maladie (ONDAM). Elle est ensuite conseillère en charge des comptes sociaux au ministère de l’Économie, puis conseillère entre Bercy et Matignon. En mars 2021 elle rejoint la Caisse nationale de l’assurance maladie en tant que directrice déléguée à la gestion et à l’organisation des soins. Durant la crise covid, elle est conseillère santé de Jean Castex dont elle dirige la task force. A la faveur d’une importante commande par le gouvernement de Bamlanivimab (anticorps monoclonal contre le Covid), une potentielle situation de conflit d’intérêts est apparue avec Béatrice Cazeneuve, sa mère, qui travaille au sein du laboratoire Lilly à l’origine de ce traitement.",
     "url": "https://www.liberation.fr/checknews/conflit-dinteret-apres-matignon-marguerite-cazeneuve-nommee-a-lassurance-maladie-20210304_VXWOA4UCNRA7JERNVVAYQWQL3U/?xtor=EREC-43&actId=ebwp0YMB8s1_OGEGSsDRkNUcvuQDVN7a57ET3fWtrS-th-h5BKC8hCzgsKvbxYyE&actCampaignType=CAMPAIGN_MAIL&actSource=516539",
     "date": "2022-03-04",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2064,
+        "value": "Marguerite Cazeneuve"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 53,
+        "value": "Assurance Maladie"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 103,
+        "value": "Ministère de la Santé"
+      },
+      {
+        "id": 766,
+        "value": "Caisse nationale de l'assurance maladie (CNAM)"
+      },
+      {
+        "id": 921,
+        "value": "Eli Lilly and Company"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1269,
-    "titre": "Myriam El Khomri",
+    "titre": "Myriam El Khomri rejoint Nexity",
     "contenu": "Conseillère de Paris dans le 18e entre 2008 et 2014 puis Secrétaire d'État chargée de la Ville dans le 2e gouvernement Valls, elle est ensuite Ministre du travail sous Hollande dans les gouvernements Valls et Cazeneuve. Elle se reconvertit ensuite dans le conseil en créant en 2017 le cabinet de conseil aux entreprises MEK Conseil. En 2018, elle devient également conseillère principale de Lee Hecht Harrison Altedia (groupe Adecco), puis en 2019 elle intègre le groupe de courtage en assurance Siaci Saint Honoré en tant que directrice du pôle Conseil de sa filiale en conseil et stratégie S2H Consulting. Le 31 mars 2021, elle entre au conseil d'administration de Nexity.",
     "url": "https://m.zonebourse.com/cours/action/NEXITY-5141/actualite/NEXITY-dissociation-des-fonctions-de-president-et-de-directeur-general-32846108/",
     "date": "2022-03-03",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2065,
+        "value": "Myriam El Khomri"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 67,
+        "value": "Nexity"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
@@ -72398,12 +73101,17 @@
   },
   {
     "id": 1270,
-    "titre": "Delphine Scaini",
+    "titre": "Delphine Scaini rejoint Derichebourg",
     "contenu": "Collaboratrice parlementaire Jean-Noël Barrot (Modem), elle est ensuite cheffe de cabinet d’Olivia Grégoire, la Secrétaire d’État chargée de l’Economie sociale, solidaire et responsable. En mars 2022, elle est nommée Directrice des affaires générales auprès de Boris Derichebourg, Président de l’entreprise Derichebourg Multiservices.",
     "url": "https://www.contexte.com/actualite/environnement/derichebourg-multiservices-recrute-lancienne-cheffe-de-cabinet-dolivia-gregoire_146970.html",
     "date": "2022-02-28",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
     "personnalites": [
       {
         "id": 1041,
@@ -72415,6 +73123,10 @@
       }
     ],
     "personnes_morales": [
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
       {
         "id": 342,
         "value": "Derichebourg Multiservices"
@@ -72444,7 +73156,12 @@
         "value": "87 - Haute-Vienne"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 1065,
+        "value": "Sébastien Buisson"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 353,
@@ -72458,7 +73175,12 @@
       }
     ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -72533,6 +73255,10 @@
       {
         "id": 2667,
         "value": "Fiscalité"
+      },
+      {
+        "id": 3027,
+        "value": "Luxe"
       }
     ],
     "procedure": [],
@@ -72541,13 +73267,27 @@
   },
   {
     "id": 1272,
-    "titre": "Natacha Valla",
+    "titre": "Natacha Valla nommée au Conseil national de la productivité",
     "contenu": "Passée par la BCE puis Goldman Sachs, elle travaille ensuite pour le Cepii, organe de recherche sur l’économie internationale rattaché au Premier ministre. Elle rejoint ensuite la Banque européenne d’investissement, et siège parallèlement au conseil d’administration ou de surveillance de cinq entreprises : LVMH, Accor, Tikehau Capital, et deux filiales de Vinci. Puis repasse ensuite à la BCE, avant d’être nommée par Jean Castex à la tête du Conseil national de la productivité.",
     "url": "https://www.marianne.net/economie/economie-francaise/jean-castex-nomme-une-specialiste-du-pantouflage-a-la-tete-dun-comite-dexperts",
     "date": "2022-02-16",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 655,
+        "value": "Jean Castex"
+      },
+      {
+        "id": 2066,
+        "value": "Natacha Valla"
+      }
+    ],
     "personnes_morales": [],
     "categorie": [
       {
@@ -72562,21 +73302,45 @@
   },
   {
     "id": 1274,
-    "titre": "Antoine Boscher",
+    "titre": "Antoine Boscher rejoint TBWA",
     "contenu": "Directeur de la communication du Maire du 13e arrondissement de Paris pendant 5 ans, il a aussi été directeur de la communication du Député-Maire de Palaiseau et attaché de presse au Conseil général des Bouches-du-Rhône. Il est ensuite conseiller spécial en charge de la communication et de la presse auprès de Cédric O, secrétaire d’État chargé de la transition numérique et des communications électroniques. En février 2022 il rejoint TBWA Corporate en tant que Managing Director.",
     "url": "https://www.agefi.fr/nominations/antoine-boscher-337317",
     "date": "2022-02-08",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 679,
+        "value": "Cédric O"
+      },
+      {
+        "id": 2067,
+        "value": "Antoine Boscher"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 806,
+        "value": "TBWA"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2668,
+        "value": "Communication / Événementiel"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -72673,21 +73437,45 @@
   },
   {
     "id": 1276,
-    "titre": "Lionel Corre",
+    "titre": "Lionel Corre rejoint Boston Consulting Group",
     "contenu": "Sous-directeur assurances à la direction générale du Trésor, l’administration centrale rattachée au ministère de l’Économie et des Finances, Lionel Corre rejoint en février 2022 le Boston Consulting Group en tant que partner. Il rejoint le centre d’expertise « services financiers et restructurations ».",
     "url": "https://www.consultor.fr/articles/du-tresor-au-bcg-ces-mouvements-de-hauts-fonctionnaires-scrutes-par-la-hatvp",
     "date": "2022-02-02",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2068,
+        "value": "Lionel Corre"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 221,
+        "value": "Boston Consulting Group (BCG)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2660,
+        "value": "Conseil"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -72782,13 +73570,62 @@
     "contenu": "Claude Guéant s'est vu infliger un an de prison dont 8 mois ferme, avec un mandat de dépôt différé. Son avocat a annoncé que son client allait faire appel de sa condamnation.\nPatrick Buisson, alors proche conseiller du chef de l'Etat, a été condamné à deux ans de prison avec sursis ainsi que 150.000 euros d'amende et l'ex-sondeur Pierre Giacometti à 6 mois avec sursis et 70.000 euros d'amende. A l'époque directrice de cabinet, Emmanuelle Mignon a été sanctionnée de 6 mois avec sursis. En revanche, l'ancien chargé de l'opinion Julien Vaulpré a été relaxé.",
     "url": "https://www.tf1info.fr/justice-faits-divers/sondages-de-l-elysee-claude-gueant-condamne-a-8-mois-de-prison-ferme-avec-mandat-de-depot-2207829.html",
     "date": "2022-01-21",
-    "etiquettes": "Claude Guéant,Elysée,Emmanuelle Mignon,Nicolas Sarkozy,Patrick Buisson,Pierre Giacometti",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 660,
+        "value": "Claude Guéant"
+      },
+      {
+        "id": 2069,
+        "value": "Pierre Giacometti"
+      },
+      {
+        "id": 2070,
+        "value": "Patrick Buisson"
+      },
+      {
+        "id": 2071,
+        "value": "Emmanuelle Mignon"
+      },
+      {
+        "id": 2072,
+        "value": "Julien Vaulpré"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 24,
+        "value": "Élysée"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -72970,18 +73807,38 @@
     "contenu": "Jeudi 6 janvier s’est tenue au tribunal de Paris, une audience pour faire le point sur l’enquête sur les heures sup’ bidons de la Ville de Marseille dans laquelle est mis en cause l’ancien maire LR Jean-Claude Gaudin. Le parquet national financier (PNF) a pointé les conditions d’octroi d’heures sup’ (abusives ou fictives) par l’ancien maire et six cadres municipaux. Tous pourraient être renvoyés devant le tribunal correctionnel pour « détournement de fonds publics par négligence ». D’après La Provence, qui cite une source proche du dossier, « il semble que le parquet de Paris ne soit pas opposé à un plaider-coupable à la française, c’est-à-dire à une comparution sur reconnaissance préalable de culpabilité ».",
     "url": "https://marsactu.fr/bref/un-possible-plaider-coupable-pourjean-claude-gaudin-dans-laffaire-des-heures-sup-bidons/",
     "date": "2022-01-10",
-    "etiquettes": "13 - Bouches-du-Rhône,Jean-Claude Gaudin,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2708,
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1653,
+        "value": "Jean-Claude Gaudin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -72991,38 +73848,86 @@
     "contenu": "Le maire (DVD) de Roubaix Guillaume Delbar sera jugé à Lille pour \"détournement de fonds publics par négligence\" dans le cadre d’une affaire de subvention d’une association accusée de prosélytisme religieux.\nGuillaume Delbar doit comparaître le 1er février au côté de trois dirigeants de l’association roubaisienne de soutien scolaire « Ambitions et initiatives pour la réussite » (AAIR), a-t-on appris auprès du parquet de Lille.\nCes derniers, dont le président et le trésorier, seront jugés pour \"abus de confiance\", a précisé le parquet. Ils avaient été placés deux jours en garde à vue en novembre, avait à l’époque indiqué une source proche du dossier.",
     "url": "https://saint-brieuc.maville.com/actu/actudet_-le-maire-de-roubaix-renvoye-en-proces-pour-detournement-de-fonds-publics-par-negligence-_54135-5019895_actu.Htm",
     "date": "2022-01-07",
-    "etiquettes": "59 – Nord,Guillaume Delbar",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2749,
         "value": "59 - Nord"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1363,
+        "value": "Guillaume Delbar"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 919,
+        "value": "Ambitions et initiatives pour la réussite (AAIR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1292,
-    "titre": "Mickaël Nogal",
+    "titre": "Mickaël Nogal rejoint l'ANIA",
     "contenu": "Mickaël Nogal, jeune député REM de Haute-Garonne, a été recruté le 6 janvier par l’Association nationale des industries alimentaires (Ania), qui l’a nommé au poste de directeur général. Cette organisation professionnelle regroupe 30 syndicats de l’agroalimentaire et 17 associations régionales de défense des intérêts du secteur. Des représentants de Coca-Cola, Lactalis ou encore Danone siègent à son conseil d’administration.",
     "url": "https://www.mediacites.fr/decryptage/toulouse/2022/01/07/le-depute-lrem-mickael-nogal-va-reprendre-sa-casquette-de-lobbyiste-pour-lagroalimentaire/",
     "date": "2022-01-07",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1737,
+        "value": "Mickaël Nogal"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 918,
+        "value": "Association Nationale des Industries Alimentaires (ANIA)"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2654,
+        "value": "Agro-alimentaire"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -73033,16 +73938,35 @@
     "contenu": "Deux jours après sa condamnation par le Parquet national financier de Paris pour détournement de fonds publics, le président du Conseil départemental du Gers, Philippe Martin, a annoncé ce jeudi 6 janvier sa démission lors d'une conférence de presse. Philippe Martin était à la tête du Conseil départemental depuis 1998.\nLes faits remontent au début des années 2000 lorsque Philippe Martin était député du Gers. Il a, entre 2002 et 2013, rémunéré son ex-femme, Joëlle Martin, pour un emploi fictif d'assistante parlementaire. Convoqué par le Parquet national financier ce mardi 4 janvier dans le cadre d'une reconnaissance préalable de culpabilité (CRPC), il a été condamné à deux ans de prison avec sursis et trois ans d'inéligibilité pour \"détournement de fonds publics\".",
     "url": "https://www.ladepeche.fr/2022/01/06/gers-philippe-martin-demissionne-de-ses-fonctions-de-president-du-conseil-departemental-10030051.php",
     "date": "2022-01-06",
-    "etiquettes": "32 - Gers,Joëlle Martin,Parquet National Financier,Philippe Martin",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2726,
         "value": "32 - Gers"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 2058,
+        "value": "Philippe Martin"
+      },
+      {
+        "id": 2059,
+        "value": "Joëlle Martin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -73054,13 +73978,66 @@
     "contenu": "Le MoDem et l'UDF ont été mis en examen en décembre pour « complicité et recel de détournement de fonds publics » dans l'enquête sur des soupçons d'emplois fictifs d'assistants parlementaires d'eurodéputés centristes.\nQuinze personnes, dont François Bayrou, l'ancien garde des Sceaux Michel Mercier et les anciens eurodéputés Sylvie Goulard, Nathalie Griesbeck et Jean-Luc Bennahmias, sont déjà poursuivies dans cette information judiciaire menée depuis 2017 par des juges d'instruction du pôle financier du tribunal judiciaire de Paris.\nSelon un rapport rendu en avril 2021 par l'Office anticorruption (Oclciff), chargé des investigations, le parti centriste a mis en place un « système ancien et plus ou moins informel » de détournement des fonds européens pour salarier ses employés. Le préjudice du Parlement européen est évalué à 1,4 million d'euros.",
     "url": "https://www.bfmtv.com/police-justice/soupcon-d-emplois-fictifs-d-assistants-d-eurodeputes-le-modem-et-l-udf-mis-en-examen_AD-202201060401.html",
     "date": "2022-01-06",
-    "etiquettes": "François Bayrou,Jean-Luc Bennahmias,Michel Mercier,Mouvement démocrate,Nathalie Griesbeck,Office central de lutte contre la corruption et les infractions financières et fiscales,Sylvie Goulard,Union des démocrates et indépendants",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 673,
+        "value": "François Bayrou"
+      },
+      {
+        "id": 944,
+        "value": "Jean-Luc Bennahmias"
+      },
+      {
+        "id": 945,
+        "value": "Michel Mercier"
+      },
+      {
+        "id": 946,
+        "value": "Nathalie Griesbeck"
+      },
+      {
+        "id": 947,
+        "value": "Sylvie Goulard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 84,
+        "value": "Mouvement démocrate (MoDem)"
+      },
+      {
+        "id": 254,
+        "value": "Union des démocrates et indépendants (UDI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -73070,7 +74047,7 @@
     "contenu": "Le tribunal judiciaire de Paris a validé, le 17 décembre, une convention judiciaire d’intérêt public (CJIP) conclue entre LVMH et le parquet de Paris. La multinationale était embarquée dans une enquête sur un système d’espionnage qui impliquerait Bernard Squarcini, ancien directeur du renseignement intérieur reconverti en consultant privé. Elle a accepté de payer 10 millions d’euros afin d’échapper à des poursuites pour trafic d’influence.\nLe ministère public reprochait notamment à Bernard Squarcini d’avoir obtenu des informations, à la demande de Pierre Godé, alors numéro 2 de LVMH, « sur les actions projetées par Fakir », journal et association de François Ruffin, « informations à partir desquelles étaient organisées des surveillances des membres de cette association ». Des données personnelles et une captation partielle d’une copie du film satirique sur LVMH Merci Patron, réalisé par François Ruffin, auraient été collectées.",
     "url": "https://www.magazine-decideurs.com/news/affaire-squarcini-lvmh-signe-une-cjip-a-10-millions-d-euros",
     "date": "2022-01-05",
-    "etiquettes": "75 - Paris,Bernard Squarcini,Fakir,François Ruffin,LVMH,Pierre Godé",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2762,
@@ -73085,12 +74062,20 @@
       {
         "id": 719,
         "value": "Bernard Squarcini"
+      },
+      {
+        "id": 2060,
+        "value": "Pierre Godé"
       }
     ],
     "personnes_morales": [
       {
         "id": 104,
         "value": "LVMH - Moët Hennessy Louis Vuitton"
+      },
+      {
+        "id": 843,
+        "value": "Fakir"
       }
     ],
     "categorie": [
@@ -73115,18 +74100,42 @@
     "contenu": "Le président du conseil départemental du Gers, Philippe Martin (Parti socialiste), qui fut ministre de l’écologie pendant le quinquennat de François Hollande, a été condamné, mardi 4 janvier, à Paris, à deux ans de prison avec sursis. Il a été reconnu coupable de « détournement de fonds publics » pour avoir rémunéré son ex-épouse pour un emploi fictif d’assistante parlementaire entre 2002 et 2013.\nSolidairement avec son ex-épouse, Joëlle Martin, condamnée à six mois de sursis probatoire pour « complicité et recel de détournement de fonds publics », l’ancien député du Gers entre 2002 et 2017, qui avait été ministre de l’écologie, du développement durable et de l’énergie dans le gouvernement de Jean-Marc Ayrault, entre juillet 2013 et avril 2014, devra rembourser 238 000 euros, somme qu’elle avait perçue, à l’Assemblée nationale, partie civile dans ce dossier. Tous les deux ont été déclarés inéligibles pour trois ans et devront payer respectivement 70 000 et 30 000 euros d’amende.",
     "url": "https://www.magazine-decideurs.com/news/affaire-squarcini-lvmh-signe-une-cjip-a-10-millions-d-euros",
     "date": "2022-01-04",
-    "etiquettes": "32 - Gers,Gouvernement Jean-Marc Ayrault 2,Joëlle Martin,Parti Socialiste,Philippe Martin",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2726,
         "value": "32 - Gers"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 2058,
+        "value": "Philippe Martin"
+      },
+      {
+        "id": 2059,
+        "value": "Joëlle Martin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -73136,16 +74145,35 @@
     "contenu": "Le 17 décembre, le tribunal d’application des peines d’Évreux a révoqué le placement sous bracelet électronique qui permettait à Patrick et Isabelle Balkany de purger leur détention dans leur moulin de Giverny, selon les informations de Mediapart. Le couple, qui a fait appel de cette décision et a passé tranquillement les fêtes à domicile, a déclenché « une centaine d’incidents de sonnerie ».",
     "url": "https://www.ladepeche.fr/2022/01/06/gers-philippe-martin-demissionne-de-ses-fonctions-de-president-du-conseil-departemental-10030051.php",
     "date": "2022-01-03",
-    "etiquettes": "92 – Hauts de Seine,Isabelle Balkany,Les Républicains,Patrick Balkany",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2765,
         "value": "92 - Hauts-de-Seine"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 646,
+        "value": "Patrick Balkany"
+      },
+      {
+        "id": 1043,
+        "value": "Isabelle Balkany"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
