@@ -73499,30 +73499,78 @@
         "value": "Gaby Charroux"
       }
     ],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
+    "personnes_morales": [
+      {
+        "id": 298,
+        "value": "Société d'Economie Mixte Immobilière de la Ville de Martigues (SEMIVIM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
   {
     "id": 1278,
-    "titre": "Marion Beyret",
+    "titre": "Marion Beyret rejoint Air-France KLM",
     "contenu": "Après un début de carrière dans le privé chez Canal+, elle est passée par Radio France et le Ministère de la Justice, avant de devenir attachée de presse d’En Marche puis de la Présidence de la République. Elle est ensuite conseillère presse du Ministre des Transports, Jean-Baptiste Djebbari. En février 2022 elle rejoint le groupe Air-France KLM où elle s’occupera des médias ainsi que de la communication externe et interne.",
     "url": "https://www.lettreaudiovisuel.com/marion-beyret-arrive-a-air-france/",
     "date": "2022-01-27",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1556,
+        "value": "Jean-Baptiste Djebbari"
+      },
+      {
+        "id": 2074,
+        "value": "Marion Beyret"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 58,
+        "value": "Air France KLM"
+      },
+      {
+        "id": 186,
+        "value": "Ministère de l'Écologie"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -73533,13 +73581,38 @@
     "contenu": "Libération révèle les dessous de l’enquête judiciaire pour détournement de fonds publics qui vise les conditions de recrutement de collaborateurs d’élus franciliens depuis 2016. Les embauches pourraient avoir été réalisées au mépris des règles sur les emplois publics. Employés officiellement par l’administration de la région, un certain nombre de chargés de mission étaient en fait utilisés comme petites mains par les élus de la majorité.",
     "url": "https://www.liberation.fr/politique/a-la-region-ile-de-france-les-embarrassants-charges-de-mission-de-valerie-pecresse-20220124_CBCOQ3DVKZDQBC3ONWFMDGS7NU/?redirected=1",
     "date": "2022-01-24",
-    "etiquettes": "Les Républicains,Valérie Pécresse",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 834,
+        "value": "Valérie Pécresse"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -73549,18 +73622,42 @@
     "contenu": "Le parquet de Blois a ouvert une enquête préliminaire concernant l'utilisation de fonds publics par le député du Loir-et-Cher, Guillaume Peltier. L'enquête confiée à la division économique et financière de la section de recherches d'Orléans doit « vérifier les conditions exactes d’utilisation de ces fonds », précise le communiqué du parquet. Dans un article publié en novembre, Mediapart accusait le député d'avoir confié des missions privées à des collaborateurs rémunérés par des fonds publics en provenance de la région Centre-Val de Loire de l'Assemblée nationale.",
     "url": "https://www.capital.fr/economie-politique/guillaume-peltier-vise-par-une-enquete-sur-son-utilisation-des-fonds-publics-1426309",
     "date": "2022-01-24",
-    "etiquettes": "41 - Loir-et-Cher,Assemblée Nationale,Guillaume Peltier,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2735,
         "value": "41 - Loir-et-Cher"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 2073,
+        "value": "Guillaume Peltier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -73631,21 +73728,49 @@
   },
   {
     "id": 1282,
-    "titre": "François Baroin",
+    "titre": "François Baroin rejoint Barclays",
     "contenu": "Depuis son départ du Ministère de l’économie, François Baroin était à la fois maire de Troyes, président de l’agglomération, président de l’Association des maires de France (AMF), mais aussi avocat à Paris, membre du conseil d’administration de Sea-Invest Corporation, un opérateur de terminaux portuaires, et conseiller de la banque Barclays. En janvier 2022, il a annoncé prendre la tête de la filiale française de cette dernière.",
     "url": "https://www.lemonde.fr/politique/article/2022/01/20/francois-baroin-l-ancien-president-de-l-amf-nomme-president-de-barclays-france_6110242_823448.html",
     "date": "2022-01-20",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3063,
+        "value": "10 - Aube"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1426,
+        "value": "François Baroin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 922,
+        "value": "Barclays"
+      }
+    ],
     "categorie": [
       {
         "id": 2653,
         "value": "Pantouflages"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -73656,18 +73781,42 @@
     "contenu": "L’association anti-corruption a adressé un signalement au procureur de Toulouse, le 9 décembre dernier. Elle s’interroge sur la réalité de l’emploi de haut fonctionnaire que cumule le maire de Toulouse et président du conseil métropolitain.",
     "url": "https://www.mediacites.fr/pouvoirs/toulouse/2022/01/19/anticor-demande-a-la-justice-denqueter-sur-le-cumul-dactivites-de-jean-luc-moudenc/",
     "date": "2022-01-19",
-    "etiquettes": "31 - Haute-Garonne,Jean-Luc Moudenc,Les Républicains",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2725,
         "value": "31 - Haute-Garonne"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 736,
+        "value": "Jean-Luc Moudenc"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -73678,7 +73827,16 @@
     "url": "https://www.francetvinfo.fr/sports/rugby/xv-de-france/affaire-laporte-altrad-un-rapport-de-police-renforce-les-soupcons-de-trafic-d-influence-et-de-prise-illegale-d-interets_4920479.html",
     "date": "2022-01-17",
     "etiquettes": "",
-    "departement": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
     "personnalites": [
       {
         "id": 848,
@@ -73689,7 +73847,20 @@
         "value": "Mohed Altrad"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 194,
+        "value": "Fédération française de rugby (FFR)"
+      },
+      {
+        "id": 195,
+        "value": "Altrad"
+      },
+      {
+        "id": 236,
+        "value": "Montpellier Hérault Rugby"
+      }
+    ],
     "categorie": [
       {
         "id": 2651,
@@ -73713,12 +73884,37 @@
     "url": "https://www.leparisien.fr/oise-60/condamne-a-6-mois-de-prison-avec-sursis-pour-prise-illegale-dinteret-le-maire-de-morienval-denonce-un-acharnement-17-01-2022-TNS35IUDSFFRFE3BIEPXHV63LE.php",
     "date": "2022-01-17",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "departement": [
+      {
+        "id": 2750,
+        "value": "60 - Oise"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2075,
+        "value": "Hubert Briatte"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -73736,10 +73932,25 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 189,
+        "value": "Direction nationale de la Police judiciaire (DNPJ)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -73749,18 +73960,33 @@
     "contenu": "Gilles Bourdouleix, visé par plusieurs enquêtes pour des faits de prise illégale d’intérêts, de faux et usages de faux, de perception illicite d’indemnités et d’infractions sur l’utilisation d’armes a été placé en garde à vue. Trois enquêtes préliminaires, confiées à la police judiciaire d’Angers, ont été ouvertes l’an passé concernant la mairie de Cholet pour prise illégale d’intérêts, concussion, infractions à la réglementation sur les armes et faux et usages de faux.\nDeux enquêtes ont été lancées au premier trimestre 2021. Une première pour usage irrégulier des armes pendant une période dans la police municipale de Cholet et une deuxième pour un appel d’offres concernant la salle des fêtes de Cholet, en 2020, avait indiqué le parquet d’Angers.\nLa troisième enquête concerne, elle, des soupçons de concussion (perception illicite d’argent par un fonctionnaire) et est liée à une plainte de l’association anti-corruption Anticor, déposée avant l’été, concernant « le calcul des indemnités des élus depuis 2008 », avait indiqué le parquet d’Angers. Selon la plainte d’Anticor, il y aurait eu « trois millions d’euros de trop-perçu depuis 12 ans ».",
     "url": "https://www.sudouest.fr/justice/enquete-sur-des-indemnites-le-maire-de-cholet-place-en-garde-a-vue-7646574.php",
     "date": "2022-01-11",
-    "etiquettes": "49 - Maine-et-Loire,Gilles Bourdouleix",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2742,
         "value": "49 - Maine-et-Loire"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 974,
+        "value": "Gilles Bourdouleix"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -73770,18 +73996,42 @@
     "contenu": "La cour d'appel d'Aix-en-Provence a remis en liberté, mardi 11 janvier, Alexandre Guérini condamné en première instance avec son frère Jean-Noël Guérini, ancien patron du Parti socialiste dans les Bouches-du-Rhône, pour des pratiques clientélistes, dans l'attente de la décision en appel. Libéré, Alexandre Guérini reste placé sous contrôle judiciaire et devra remettre son passeport afin de ne pas quitter le territoire.",
     "url": "https://www.lefigaro.fr/flash-actu/trafic-presume-de-marches-publics-alexandre-guerini-remis-en-liberte-20220111",
     "date": "2022-01-11",
-    "etiquettes": "13 - Bouches-du-Rhône,Alexandre Guérini,Parti Socialiste",
+    "etiquettes": "",
     "departement": [
       {
         "id": 2708,
         "value": "13 - Bouches-du-Rhône"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnalites": [
+      {
+        "id": 1432,
+        "value": "Jean-Noël Guérini"
+      },
+      {
+        "id": 1433,
+        "value": "Alexandre Guérini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -73791,11 +74041,39 @@
     "contenu": "L'ancien ministre et proche de François Hollande Kader Arif sera jugé à partir de mercredi par la Cour de justice de la République (CJR) pour des soupçons de favoritisme dans l'attribution d'un marché public à une société gérée par son frère en 2014.\nKader Arif est accusé d'avoir fait conclure sans mise en concurrence, en mars 2014, alors qu'il était ministre délégué dans le gouvernement de Jean-Marc Ayrault, un contrat portant notamment sur du «media-training» entre le ministère de la Défense et une société gérée par son frère Aissa Arif et l'un de ses neveux, dont le nom n'apparaissait pas. Le marché s'élevait à 60.000 euros pour six séances, mais une seule avait été réalisée.",
     "url": "https://www.lefigaro.fr/actualite-france/l-ex-ministre-kader-arif-devant-la-cjr-mercredi-pour-soupcons-de-favoritisme-20220110",
     "date": "2022-01-10",
-    "etiquettes": "Cour de Justice de la République,Gouvernement Jean-Marc Ayrault 1,Kader Arif,Parti Socialiste",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1313,
+        "value": "Kader Arif"
+      },
+      {
+        "id": 2076,
+        "value": "Aissa Arif"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 68,
+        "value": "Cour de Justice de la République (CJR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
