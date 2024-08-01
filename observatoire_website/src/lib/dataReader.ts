@@ -39,7 +39,7 @@ export type Item = ItemRaw & {
 }
 
 export function getData(): Item[] {
-  const cutoffDate = new Date('2022-06-22T00:00:00')
+  const cutoffDate = new Date('2022-01-01T00:00:00')
   return rowsSchema.parse(rows).filter((_) => {
     return _.date && parseDate(_.date).getTime() >= cutoffDate.getTime()
   }) as Item[] // we filter on the date, so know we can cast down, the date is not null
