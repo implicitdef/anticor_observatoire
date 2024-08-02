@@ -45,6 +45,42 @@
     "a_la_une": false
   },
   {
+    "id": 2479,
+    "titre": "Robert Dagorne, le maire d’Éguilles visé par une enquête pour favoritisme",
+    "contenu": "Début juillet les policiers de la brigade financière ont perquisitionné la mairie d'Éguilles dans le cadre d'une enquête préliminaire ouverte par le parquet d'Aix pour des faits présumés de favoritisme. Au centre des investigations, un marché de réfection de la voirie que la chambre régionale des comptes avait déjà pointé comme irrégulier.",
+    "url": "https://marsactu.fr/robert-dagorne-le-maire-deguilles-vise-par-une-enquete-pour-favoritisme/",
+    "date": "2024-08-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2078,
+        "value": "Robert Dagorne"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2473,
     "titre": "Entendu par les enquêteurs pour détournement de fonds publics, un maire du Gers se défend",
     "contenu": "Une enquête pour « détournement de fonds publics » a été ouverte à l’encontre du maire de Plaisance-du-Gers (Gers), Patrick Fitan, à la suite d’un signalement de trois élus d’opposition. Entendu par les gendarmes le 22 juillet, l’édile s’est défendu dans un communiqué publié sur la page Facebook de la commune.",
@@ -212,8 +248,8 @@
     ],
     "categorie": [
       {
-        "id": 2651,
-        "value": "Actualité"
+        "id": 2652,
+        "value": "Probité"
       }
     ],
     "theme": [],
@@ -256,8 +292,8 @@
     ],
     "categorie": [
       {
-        "id": 2651,
-        "value": "Actualité"
+        "id": 2652,
+        "value": "Probité"
       }
     ],
     "theme": [],
