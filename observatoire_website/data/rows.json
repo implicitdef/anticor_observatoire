@@ -1,5 +1,50 @@
 [
   {
+    "id": 2478,
+    "titre": "Meta toujours adepte d'optimisation fiscale en France",
+    "contenu": "Le groupe de Mark Zuckerberg continue de faire peser sur sa filiale française de lourdes charges, destinées à réduire son impôt sur les bénéfices. Après un important redressement en 2019, Bercy a lancé un contrôle fiscal chez Facebook France en 2022.",
+    "url": "https://www.lalettre.fr/fr/medias_plateformes/2024/08/02/meta-toujours-adepte-d-optimisation-fiscale-en-france%2C110274678-art",
+    "date": "2024-08-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2077,
+        "value": "Laurent Solly"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 923,
+        "value": "Meta (ex-Facebook)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 2685,
+        "value": "Technologies"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2473,
     "titre": "Entendu par les enquêteurs pour détournement de fonds publics, un maire du Gers se défend",
     "contenu": "Une enquête pour « détournement de fonds publics » a été ouverte à l’encontre du maire de Plaisance-du-Gers (Gers), Patrick Fitan, à la suite d’un signalement de trois élus d’opposition. Entendu par les gendarmes le 22 juillet, l’édile s’est défendu dans un communiqué publié sur la page Facebook de la commune.",
