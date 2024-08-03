@@ -1,5 +1,137 @@
 [
   {
+    "id": 2481,
+    "titre": "La Caisse des dépôts invente un « golden parachute » d’un nouveau type",
+    "contenu": "Numéro deux de la CDC, Olivier Sichel a démissionné de la fonction publique et a aussitôt été réembauché avec un contrat de droit privé. Mediapart, qui avait saisi la Cada, est parvenu à l’obtenir. Il offre à son bénéficiaire des indemnités de départ sulfureuses, proches de celles en vigueur dans les groupes du CAC 40.",
+    "url": "https://www.mediapart.fr/journal/economie-et-social/030824/la-caisse-des-depots-invente-un-golden-parachute-d-un-nouveau-type",
+    "date": "2024-08-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1460,
+        "value": "Éric Lombard"
+      },
+      {
+        "id": 1497,
+        "value": "Olivier Sichel"
+      },
+      {
+        "id": 2079,
+        "value": "Aurélie Robineau-Israël"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 6,
+        "value": "Cour des comptes (CDC)"
+      },
+      {
+        "id": 42,
+        "value": "Caisse des dépôts et consignations (CDC)"
+      },
+      {
+        "id": 505,
+        "value": "Commission d'accès aux documents administratifs (CADA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2482,
+    "titre": "Affaire du maire d’Agde et de la voyante : trois nouvelles mises en examen",
+    "contenu": "Trois nouvelles personnes, deux promoteurs immobiliers et un « apporteur d’affaire », ont été mises en examen dans la rocambolesque affaire dite du maire d’Agde (Hérault) et de la « voyante ventriloque », a annoncé vendredi le parquet de Béziers.",
+    "url": "https://www.leparisien.fr/faits-divers/affaire-du-maire-dagde-et-de-la-voyante-trois-nouvelles-mises-en-examen-02-08-2024-R3T26FV4FFAFPORIHETNRORNNE.php",
+    "date": "2024-08-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1457,
+        "value": "Gilles d'Ettore"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 462,
+        "value": "Eiffage"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2480,
+    "titre": "Epinglé pour des déjeuners à plusieurs dizaines de milliers d’euros, Laurent Wauquiez se dit prêt à les rembourser",
+    "contenu": "Laurent Wauquiez tente de faire patte blanche. Epinglé par la chambre régionale des comptes (CRC), le président de la Région Auvergne Rhône-Alpes se dit prêt à rembourser les «sommes excessives» de ses dîners parisiens. Plus de 77 000 euros en 2022, près de 46 000 en 2023… Les montants ont été révélés par Le Dauphiné Libéré, qui s’est procuré en exclusivité le rapport des auditeurs régionaux sur la communication externe de la Région Aura. Sa publication est attendue à l’automne - la CRC refuse de commenter tout document non publié.",
+    "url": "https://www.liberation.fr/politique/epingle-pour-des-dejeuners-a-plusieurs-dizaines-de-milliers-deuros-laurent-wauquiez-se-dit-pret-a-les-rembourser-20240802_KUG666L4YNEPRC62OIDU4PWGTQ/?redirected=1",
+    "date": "2024-08-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 668,
+        "value": "Laurent Wauquiez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2478,
     "titre": "Meta toujours adepte d'optimisation fiscale en France",
     "contenu": "Le groupe de Mark Zuckerberg continue de faire peser sur sa filiale française de lourdes charges, destinées à réduire son impôt sur les bénéfices. Après un important redressement en 2019, Bercy a lancé un contrôle fiscal chez Facebook France en 2022.",
