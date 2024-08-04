@@ -1,5 +1,46 @@
 [
   {
+    "id": 2483,
+    "titre": "Jean-Marie Bernard et cinq autres personnes renvoyés devant le tribunal correctionnel",
+    "contenu": "Le président du Conseil départemental des Hautes-Alpes est renvoyé devant le tribunal correctionnel de Lyon pour \"favoritisme\", \"prise illégale d’intérêt\" et \"détournements de fonds publics\". Cinq autres personnes sont concernées par cette procédure, dont Alexandra Butel, maire de la commune de Dévoluy et nièce de Jean-Marie Bernard.",
+    "url": "https://www.bfmtv.com/bfm-dici/hautes-alpes-jean-marie-bernard-et-cinq-autres-personnes-renvoyees-devant-le-tribunal_AN-202408030308.html",
+    "date": "2024-08-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2702,
+        "value": "05 - Hautes-Alpes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2080,
+        "value": "Jean-Marie Bernard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2481,
     "titre": "La Caisse des dépôts invente un « golden parachute » d’un nouveau type",
     "contenu": "Numéro deux de la CDC, Olivier Sichel a démissionné de la fonction publique et a aussitôt été réembauché avec un contrat de droit privé. Mediapart, qui avait saisi la Cada, est parvenu à l’obtenir. Il offre à son bénéficiaire des indemnités de départ sulfureuses, proches de celles en vigueur dans les groupes du CAC 40.",
