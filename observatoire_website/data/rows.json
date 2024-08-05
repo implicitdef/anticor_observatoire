@@ -26428,6 +26428,10 @@
       {
         "id": 159,
         "value": "AC !! Anti-Corruption"
+      },
+      {
+        "id": 641,
+        "value": "Ligue de football professionnel (LFP)"
       }
     ],
     "categorie": [
@@ -31409,7 +31413,12 @@
         "value": "Nadine Neny"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [
       {
         "id": 2652,
@@ -32293,6 +32302,10 @@
       }
     ],
     "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
       {
         "id": 178,
         "value": "Autorité des Marchés Financiers (AMF)"
@@ -33752,7 +33765,12 @@
         "value": "Alain Ferrand"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [
       {
         "id": 2652,
@@ -40409,7 +40427,16 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 159,
+        "value": "AC !! Anti-Corruption"
+      },
+      {
+        "id": 390,
+        "value": "Mulhouse olympic natation (MON)"
+      }
+    ],
     "categorie": [
       {
         "id": 2652,
@@ -74725,7 +74752,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -74878,7 +74910,12 @@
     "etiquettes": "Anticor,François Bayrou,Mouvement démocrate,Patrick Mignola,Xavier Dullin",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -75639,7 +75676,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -75744,7 +75786,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -76160,7 +76207,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -76197,7 +76249,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -76804,7 +76861,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -77091,7 +77153,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -77112,7 +77179,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -77196,7 +77268,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -77470,7 +77547,12 @@
     "etiquettes": "Anticor,Claude Guéant,Emmanuelle Mignon,Julien Vaulpré,Les Républicains,Nicolas Sarkozy,Parquet National Financier,Patrick Buisson,Publifact",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -82232,7 +82314,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -82248,7 +82335,12 @@
     "etiquettes": "Anticor,Cour de Justice de la République,La République En Marche,Olivier Véran",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -82950,7 +83042,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -83214,7 +83311,12 @@
     "etiquettes": "Anticor,Parquet National Financier",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -83433,7 +83535,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -83901,7 +84008,12 @@
     "etiquettes": "Anticor,Gouvernement Jean Castex,Jean Castex",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -83938,7 +84050,12 @@
     "etiquettes": "Anticor,Assemblée Nationale,La République En Marche,Richard Ferrand",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -84374,7 +84491,12 @@
     "etiquettes": "Anticor,Gouvernement Jean Castex",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -84485,7 +84607,12 @@
     "etiquettes": "Anticor,Cédric O",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -84659,7 +84786,12 @@
     "etiquettes": "Anticor,Éric Dupond-Moretti,Gouvernement Jean Castex,Ministère de la Justice",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -85080,7 +85212,12 @@
     "etiquettes": "Anticor,Éric Dupond-Moretti,Gouvernement Jean Castex",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -86100,7 +86237,12 @@
     "etiquettes": "Anticor,Les Républicains,Michel Platini,Nicolas Sarkozy",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -86293,7 +86435,12 @@
     "etiquettes": "Anticor,Gouvernement Jean Castex,Jean Castex,Ministère de la Justice",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -86843,7 +86990,12 @@
     "etiquettes": "Anticor",
     "departement": [],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
@@ -86901,7 +87053,12 @@
       }
     ],
     "personnalites": [],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
     "categorie": [],
     "theme": [],
     "procedure": [],
