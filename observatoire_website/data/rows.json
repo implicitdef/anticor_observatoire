@@ -1,5 +1,69 @@
 [
   {
+    "id": 2484,
+    "titre": "Autoroute A69 : les opposants saisissent la justice pénale pour prises illégales d'intérêt et trafic d'influence",
+    "contenu": "Plusieurs collectifs d'opposants au projet d'autoroute Toulouse-Castres, dont la Voie est libre et les Amis de la Terre Midi-Pyrénées, annoncent avoir déposé des plaintes au pénal pour trafic d'influence, destructions illégales ou prise illégale d'intérêt.",
+    "url": "https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/autoroute-a69-les-opposants-saisissent-la-justice-penale-pour-prises-illegales-d-interet-et-trafic-d-influence-3014702.html",
+    "date": "2024-08-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2771,
+        "value": "81 - Tarn"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 537,
+        "value": "Jean Terlier"
+      },
+      {
+        "id": 2081,
+        "value": "Claude Reilhes"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 186,
+        "value": "Ministère de l'Écologie"
+      },
+      {
+        "id": 203,
+        "value": "Les Amis de la Terre"
+      },
+      {
+        "id": 615,
+        "value": "Atosca"
+      },
+      {
+        "id": 759,
+        "value": "La Voie est Libre"
+      },
+      {
+        "id": 803,
+        "value": "Association pour la taxation des transactions financières et pour l'action citoyenne (ATTAC)"
+      },
+      {
+        "id": 924,
+        "value": "Office français de la biodiversité (OFB)"
+      },
+      {
+        "id": 925,
+        "value": "Direction régionale de l'Environnement, de l'Aménagement et du Logement (DREAL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2483,
     "titre": "Jean-Marie Bernard et cinq autres personnes renvoyés devant le tribunal correctionnel",
     "contenu": "Le président du Conseil départemental des Hautes-Alpes est renvoyé devant le tribunal correctionnel de Lyon pour \"favoritisme\", \"prise illégale d’intérêt\" et \"détournements de fonds publics\". Cinq autres personnes sont concernées par cette procédure, dont Alexandra Butel, maire de la commune de Dévoluy et nièce de Jean-Marie Bernard.",
