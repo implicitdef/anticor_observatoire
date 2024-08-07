@@ -58,10 +58,79 @@
         "value": "Probité"
       }
     ],
-    "theme": [],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2485,
+    "titre": "Soupçons sur le magot de la formation des employés à domicile",
+    "contenu": "La Fédération des particuliers employeurs (Fepem) est le théâtre d’un sévère affrontement, mettant en lumière l’omniprésence de sa présidente historique, Marie Béatrice Levaux, et de son entreprise Iperia. La Cour des comptes et l’administration s’interrogent. Enquête sur de juteux arrangements entre amis, autour d’un marché de 100 millions d’euros par an.",
+    "url": "https://www.mediapart.fr/journal/economie-et-social/060824/soupcons-sur-le-magot-de-la-formation-des-employes-domicile",
+    "date": "2024-08-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2082,
+        "value": "Marie Béatrice Levaux"
+      },
+      {
+        "id": 2083,
+        "value": "Pierre-Olivier Ruchenstain"
+      },
+      {
+        "id": 2084,
+        "value": "Sigried Debruyne"
+      },
+      {
+        "id": 2085,
+        "value": "Julie L’Hotel Delhoume"
+      },
+      {
+        "id": 2086,
+        "value": "Stéphane Lebrun"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 6,
+        "value": "Cour des comptes (CDC)"
+      },
+      {
+        "id": 926,
+        "value": "Fédération des particuliers employeurs de France (FEPEM)"
+      },
+      {
+        "id": 927,
+        "value": "Iperia"
+      },
+      {
+        "id": 928,
+        "value": "Domicile & compétences"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2483,
