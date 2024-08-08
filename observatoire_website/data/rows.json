@@ -1,5 +1,45 @@
 [
   {
+    "id": 2486,
+    "titre": "Anticor conteste le refus implicite du gouvernement de lui accorder son agrément judiciaire",
+    "contenu": "L’association de lutte contre la corruption Anticor a contesté mercredi matin le refus implicite du gouvernement de lui renouveler son agrément qui lui permet d’intervenir dans les dossiers judiciaires.",
+    "url": "https://www.sudouest.fr/justice/l-association-anticor-conteste-le-refus-implicite-du-gouvernement-de-lui-accorder-son-agrement-judiciaire-20923588.php",
+    "date": "2024-08-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 918,
+        "value": "Gabriel Attal"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2484,
     "titre": "Autoroute A69 : les opposants saisissent la justice pénale pour prises illégales d'intérêt et trafic d'influence",
     "contenu": "Plusieurs collectifs d'opposants au projet d'autoroute Toulouse-Castres, dont la Voie est libre et les Amis de la Terre Midi-Pyrénées, annoncent avoir déposé des plaintes au pénal pour trafic d'influence, destructions illégales ou prise illégale d'intérêt.",
