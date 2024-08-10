@@ -1,5 +1,98 @@
 [
   {
+    "id": 2487,
+    "titre": "Corse : l’équipe criminelle du Petit Bar renvoyée devant le tribunal correctionnel",
+    "contenu": "Après six ans d’enquête sur les activités du groupe qui domine la Corse-du-Sud, les juges d’instruction marseillais assurent, dans leur ordonnance, avoir « mis au jour un véritable système auquel l’adjectif de mafieux pouvait, sans équivoque, être attaché ».",
+    "url": "https://www.lemonde.fr/societe/article/2024/08/10/corse-l-equipe-criminelle-du-petit-bar-renvoyee-devant-le-tribunal-correctionnel_6274984_3224.html",
+    "date": "2024-08-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2722,
+        "value": "2A - Corse-du-Sud"
+      },
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 692,
+        "value": "Patrick Strzoda"
+      },
+      {
+        "id": 693,
+        "value": "Josiane Chevalier"
+      },
+      {
+        "id": 1743,
+        "value": "Jacques Santoni"
+      },
+      {
+        "id": 2087,
+        "value": "Guy Orsoni"
+      },
+      {
+        "id": 2088,
+        "value": "Jean-Jérôme Colonna"
+      },
+      {
+        "id": 2089,
+        "value": "Pascal Porri"
+      },
+      {
+        "id": 2090,
+        "value": "Michaël Ettori"
+      },
+      {
+        "id": 2091,
+        "value": "André Bacchiolelli"
+      },
+      {
+        "id": 2092,
+        "value": "Antony Perrino"
+      },
+      {
+        "id": 2093,
+        "value": "François-Xavier Susini"
+      },
+      {
+        "id": 2094,
+        "value": "Jean-Pierre Valentini"
+      },
+      {
+        "id": 2095,
+        "value": "Jean-Marc Peretti"
+      },
+      {
+        "id": 2096,
+        "value": "Angélique Peretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 92,
+        "value": "Gang du Petit Bar"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2674,
+        "value": "Mafia / Crime organisé"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2486,
     "titre": "Anticor conteste le refus implicite du gouvernement de lui accorder son agrément judiciaire",
     "contenu": "L’association de lutte contre la corruption Anticor a contesté mercredi matin le refus implicite du gouvernement de lui renouveler son agrément qui lui permet d’intervenir dans les dossiers judiciaires.",
