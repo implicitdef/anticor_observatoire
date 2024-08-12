@@ -93,6 +93,50 @@
     "a_la_une": true
   },
   {
+    "id": 2488,
+    "titre": "L'ancienne adjointe au maire de Gréasque Milvia Blachère condamnée pour prise illégale d'intérêts",
+    "contenu": "L'ex-adjointe au maire de Gréasque Milvia Blachère et son mari Pierre Blachère ont été condamnés jeudi 8 août à de la prison avec sursis, des amendes et trois ans d'inéligibilité pour prise illégale d'intérêts.",
+    "url": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/l-ancienne-adjointe-au-maire-de-greasque-milvia-blachere-condamnee-pour-prise-illegale-d-interets-3015917.html",
+    "date": "2024-08-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2097,
+        "value": "Milvia Blachère"
+      },
+      {
+        "id": 2098,
+        "value": "Pierre Blachère"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      },
+      {
+        "id": 2690,
+        "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2486,
     "titre": "Anticor conteste le refus implicite du gouvernement de lui accorder son agrément judiciaire",
     "contenu": "L’association de lutte contre la corruption Anticor a contesté mercredi matin le refus implicite du gouvernement de lui renouveler son agrément qui lui permet d’intervenir dans les dossiers judiciaires.",
