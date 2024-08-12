@@ -1,5 +1,45 @@
 [
   {
+    "id": 2489,
+    "titre": "Agrément d’Anticor : première victoire judiciaire de l’association anticorruption",
+    "contenu": "Saisi en urgence par l’association, le juge des référés du tribunal administratif de Paris a décidé, vendredi 9 août, de suspendre le refus implicite du premier ministre démissionnaire Gabriel Attal de délivrer un agrément gouvernemental. Celui-ci devra réexaminer la demande.",
+    "url": "https://www.lemonde.fr/societe/article/2024/08/12/agrement-d-anticor-premiere-victoire-judiciaire-de-l-association-anticorruption_6278213_3224.html",
+    "date": "2024-08-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 918,
+        "value": "Gabriel Attal"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2487,
     "titre": "Corse : l’équipe criminelle du Petit Bar renvoyée devant le tribunal correctionnel",
     "contenu": "Après six ans d’enquête sur les activités du groupe qui domine la Corse-du-Sud, les juges d’instruction marseillais assurent, dans leur ordonnance, avoir « mis au jour un véritable système auquel l’adjectif de mafieux pouvait, sans équivoque, être attaché ».",
