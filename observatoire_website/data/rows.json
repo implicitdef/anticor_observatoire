@@ -1,5 +1,149 @@
 [
   {
+    "id": 2493,
+    "titre": "Lobbying à Bruxelles : comment un fabricant a réussi à sauver son engrais toxique",
+    "contenu": "Perlka est l’un des plus vieux engrais chimiques d’Europe. Les autorités européennes voulaient interdire son principal composant, nocif pour l’environnement et la santé humaine. Mais le dossier a été bloqué par le lobbying intense de l’entreprise qui le produit.",
+    "url": "https://www.mediapart.fr/journal/international/190824/lobbying-bruxelles-comment-un-fabricant-reussi-sauver-son-engrais-toxique",
+    "date": "2024-08-19",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2654,
+        "value": "Agro-alimentaire"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2490,
+    "titre": "L’association Anticor porte plainte contre l’aéroport de Beauvais",
+    "contenu": "Une plainte a été déposée le 29 février 2024 au Parquet national financier par l’association œuvrant contre la corruption. Elle accuse les structures gérant l’aéroport de favoritisme, concussion et prise illégale d’intérêts.",
+    "url": "https://www.courrier-picard.fr/id550883/article/2024-08-14/lassociation-anticor-porte-plainte-contre-laeroport-de-beauvais",
+    "date": "2024-08-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2750,
+        "value": "60 - Oise"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 428,
+        "value": "Egis"
+      },
+      {
+        "id": 791,
+        "value": "Bouygues"
+      },
+      {
+        "id": 929,
+        "value": "Syndicat Mixte de l'Aéroport de Beauvais Tillé (SMABT)"
+      },
+      {
+        "id": 930,
+        "value": "Société aéroportuaire de gestion et d'exploitation de Beauvais (SAGEB)"
+      },
+      {
+        "id": 931,
+        "value": "Société de transports Paris-Beauvais (TPB)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2491,
+    "titre": "Shein recrute l'ex-commissaire européen Günther Oettinger pour son lobbying",
+    "contenu": "Le géant chinois de la fast-fashion vient de recruter Günther Oettinger, ancien commissaire européen au Budget sous la commission précédente, pour naviguer dans les méandres des politiques européennes. L'Allemand de 70 ans était auparavant commissaire européen à l'Énergie, à l'Économie numérique et à la Société.",
+    "url": "https://www.lecho.be/economie-politique/europe/general/shein-recrute-l-ex-commissaire-europeen-gunther-oettinger-pour-son-lobbying/10559884.html",
+    "date": "2024-08-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 3070,
+        "value": "Allemagne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2099,
+        "value": "Günther Oettinger"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 175,
+        "value": "Commission Européenne"
+      },
+      {
+        "id": 932,
+        "value": "Shein"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3071,
+        "value": "Habillement / Mode"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2489,
     "titre": "Agrément d’Anticor : première victoire judiciaire de l’association anticorruption",
     "contenu": "Saisi en urgence par l’association, le juge des référés du tribunal administratif de Paris a décidé, vendredi 9 août, de suspendre le refus implicite du premier ministre démissionnaire Gabriel Attal de délivrer un agrément gouvernemental. Celui-ci devra réexaminer la demande.",
@@ -38,6 +182,51 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2492,
+    "titre": "La gestion du Chantier naval de La Ciotat visée par une enquête",
+    "contenu": "Avant même de divulguer son rapport d’observations sur La Ciotat Shipyards (LCS), société publique locale gérant le Chantier naval, la Chambre régionale des comptes a fait en début de semaine dernière un signalement au parquet de Marseille.",
+    "url": "https://www.laprovence.com/article/region/2363415706562915/info-la-provence-la-gestion-du-chantier-naval-de-la-ciotat-visee-par-une-enquete",
+    "date": "2024-08-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      },
+      {
+        "id": 933,
+        "value": "La Ciotat Shipyards (LCS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2670,
+        "value": "Industrie"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2487,
