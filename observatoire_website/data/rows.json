@@ -1,14 +1,158 @@
 [
   {
+    "id": 2494,
+    "titre": "Le rapport de l’Agence anticorruption qui accable la Fédération française d’équitation",
+    "contenu": "Un rapport confidentiel de l’Agence française anticorruption révèle que la Fédération française d’équitation a attribué des marchés à plusieurs sociétés de l’un de ses sélectionneurs entre 2018 et 2022. Des opérations qui ont rapporté gros aux entreprises de l’intéressé, mais qui pourraient faire courir “des risques juridiques”, selon l’AFA.",
+    "url": "https://www.lessurligneurs.eu/le-rapport-de-lagence-anticorruption-qui-accable-la-federation-francaise-dequitation/",
+    "date": "2024-08-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2100,
+        "value": "Jean Morel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 8,
+        "value": "Paris 2024"
+      },
+      {
+        "id": 74,
+        "value": "Agence française anticorruption (AFA)"
+      },
+      {
+        "id": 301,
+        "value": "Fédération française d'équitation (FFE)"
+      },
+      {
+        "id": 934,
+        "value": "Cheval TV"
+      },
+      {
+        "id": 935,
+        "value": "Photo Son Vidéo (PSV)"
+      },
+      {
+        "id": 936,
+        "value": "Grand National (course hippique)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2495,
+    "titre": "Laurent Wauquiez fait face à de nouvelles accusations concernant sa gestion des deniers publics",
+    "contenu": "Un signalement a été transmis, le 20 août, au Parquet national financier, par le groupe d’opposition socialiste, au conseil régional Auvergne-Rhône-Alpes sur une étude d’opinion et d’image, commandée pendant la campagne des régionales de 2021.",
+    "url": "https://www.lemonde.fr/societe/article/2024/08/22/wauquiez-fait-face-a-de-nouvelles-accusations-concernant-sa-gestion-des-deniers-publics_6290771_3224.html",
+    "date": "2024-08-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 668,
+        "value": "Laurent Wauquiez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 180,
+        "value": "Commission nationale des comptes de campagne et des financements politiques (CNCCFP)"
+      },
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      },
+      {
+        "id": 939,
+        "value": "Médiascopie"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2493,
     "titre": "Lobbying à Bruxelles : comment un fabricant a réussi à sauver son engrais toxique",
     "contenu": "Perlka est l’un des plus vieux engrais chimiques d’Europe. Les autorités européennes voulaient interdire son principal composant, nocif pour l’environnement et la santé humaine. Mais le dossier a été bloqué par le lobbying intense de l’entreprise qui le produit.",
     "url": "https://www.mediapart.fr/journal/international/190824/lobbying-bruxelles-comment-un-fabricant-reussi-sauver-son-engrais-toxique",
     "date": "2024-08-19",
     "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 828,
+        "value": "Thierry Breton"
+      },
+      {
+        "id": 1306,
+        "value": "Ursula von der Leyen"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 175,
+        "value": "Commission Européenne"
+      },
+      {
+        "id": 937,
+        "value": "Alzchem"
+      },
+      {
+        "id": 938,
+        "value": "Agence européenne des produits chimiques (AEPC / ECHA)"
+      }
+    ],
     "categorie": [
       {
         "id": 2651,
@@ -23,6 +167,10 @@
       {
         "id": 2654,
         "value": "Agro-alimentaire"
+      },
+      {
+        "id": 2680,
+        "value": "Santé"
       }
     ],
     "procedure": [],
