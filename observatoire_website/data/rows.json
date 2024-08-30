@@ -1,5 +1,174 @@
 [
   {
+    "id": 2498,
+    "titre": "Affaire Fillon : l’ex-premier ministre saisit la Cour européenne des droits de l’homme",
+    "contenu": "L’ancien chef du gouvernement, son épouse et l’ex-député UMP Marc Joulaud, dont les peines ont été confirmées par la Cour de cassation, ont déposé, vendredi, une requête devant la juridiction européenne dans le but d’obtenir l’annulation de leur condamnation.",
+    "url": "https://www.lemonde.fr/societe/article/2024/08/30/affaire-fillon-l-ex-premier-ministre-saisit-la-cour-europeenne-des-droits-de-l-homme_6299567_3224.html",
+    "date": "2024-08-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1341,
+        "value": "Éliane Houlette"
+      },
+      {
+        "id": 1388,
+        "value": "François Fillon"
+      },
+      {
+        "id": 1389,
+        "value": "Pénélope Fillon"
+      },
+      {
+        "id": 1752,
+        "value": "Marc Joulaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 237,
+        "value": "Conseil constitutionnel"
+      },
+      {
+        "id": 502,
+        "value": "Cour européenne des droits de l'Homme (CEDH)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2496,
+    "titre": "Le RN garde sous le coude l'expert-comptable des \"kits de campagne\"",
+    "contenu": "Deux eurodéputés RN font appel aux services de Nicolas Crochet, comptable condamné en juin dans l'affaire des kits de campagne et qui comparaîtra en septembre dans celle des emplois présumés fictifs du Front national au Parlement européen.",
+    "url": "https://www.lalettre.fr/fr/action-publique_partis-et-elections/2024/08/28/le-rn-garde-sous-le-coude-l-expert-comptable-des-kits-de-campagne%252C110280446-art",
+    "date": "2024-08-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2101,
+        "value": "Nicolas Crochet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2497,
+    "titre": "Valérie Hayer recrute un conseiller agricole proche de la FNSEA",
+    "contenu": "La présidente du groupe Renew Europe à Strasbourg, Valérie Hayer, muscle son équipe sur les sujets agricoles.",
+    "url": "https://www.lalettre.fr/fr/action-publique_parlement/2024/08/28/valerie-hayer-recrute-un-conseiller-agricole-proche-de-la-fnsea%252C110280301-bre",
+    "date": "2024-08-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2102,
+        "value": "Valérie Hayer"
+      },
+      {
+        "id": 2103,
+        "value": "Aurélien Vaucelle"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2654,
+        "value": "Agro-alimentaire"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2494,
     "titre": "Le rapport de l’Agence anticorruption qui accable la Fédération française d’équitation",
     "contenu": "Un rapport confidentiel de l’Agence française anticorruption révèle que la Fédération française d’équitation a attribué des marchés à plusieurs sociétés de l’un de ses sélectionneurs entre 2018 et 2022. Des opérations qui ont rapporté gros aux entreprises de l’intéressé, mais qui pourraient faire courir “des risques juridiques”, selon l’AFA.",
