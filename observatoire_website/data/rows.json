@@ -1,5 +1,129 @@
 [
   {
+    "id": 2505,
+    "titre": "Jean-Christophe Cambadélis condamné pour détournement de fonds publics",
+    "contenu": "Reconnu coupable d’avoir, entre 2015 et 2017, usé à des fins personnelles plus de 100 000 euros issus de son enveloppe de frais de mandat, l’ancien député de Paris est condamné à huit mois de prison avec sursis et 60 000 euros d’amende. Il annonce faire appel.",
+    "url": "https://www.lemonde.fr/societe/article/2024/09/04/jean-christophe-cambadelis-condamne-pour-detournement-de-fonds-publics_6303958_3224.html",
+    "date": "2024-09-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1647,
+        "value": "Jean-Christophe Cambadélis"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2509,
+    "titre": "Arrestation de Riad Salamé, ex-gouverneur de la Banque centrale",
+    "contenu": "Le banquier franco-libanais a été arrêté à Beyrouth ce mardi 3 septembre. Soupçonné de détournement de fonds publics et de corruption, il faisait l’objet d’un mandat d’arrêt international émis en 2023 par la justice française.",
+    "url": "https://www.jeuneafrique.com/1604701/politique/liban-arrestation-de-riad-salame-ex-gouverneur-de-la-banque-centrale/",
+    "date": "2024-09-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3041,
+        "value": "Liban"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 910,
+        "value": "Riad Salamé"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2510,
+    "titre": "Délibérations falsifiées : le maire d’Aurons jugé en correctionnelle",
+    "contenu": "Maire depuis 2014, André Bertero a rendez-vous au tribunal judiciaire pour être jugé pour faux, usage de faux, escroquerie, détournement de fonds publics et prise illégale d’intérêts, après avoir falsifié une centaine de délibérations municipales.",
+    "url": "https://www.lamarseillaise.fr/societe/deliberations-falsifiees-le-maire-d-aurons-juge-en-correctionnelle-IG16549089",
+    "date": "2024-09-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1886,
+        "value": "André Bertero"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2504,
     "titre": "Le refus d’Attal de réexaminer l’agrément d’Anticor devant le juge administratif",
     "contenu": "Le premier ministre avait jusqu’au 26 août pour appliquer une décision de justice l’obligeant à réexaminer l’agrément de l’association de lutte contre la corruption lui permettant d’ester en justice. En l’absence de réponse, elle demande au tribunal administratif d’infliger au gouvernement une astreinte de mille euros par jour de retard.",
@@ -20,6 +144,10 @@
     ],
     "personnes_morales": [
       {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
         "id": 66,
         "value": "Anticor"
       }
@@ -34,6 +162,73 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2508,
+    "titre": "Protection fonctionnelle : le maire de Cholet, Gilles Bourdouleix, condamné à une amende de 1 000 €",
+    "contenu": "Gilles Bourdouleix, le maire de Cholet (Maine-et-Loire), a été condamné ce mardi 3 septembre 2024 en appel à une amende de 1 000 €, pour être resté dans la salle lors du vote sur sa protection fonctionnelle en 2021.",
+    "url": "https://www.ouest-france.fr/pays-de-la-loire/cholet-49300/vote-sur-sa-protection-fonctionnelle-gilles-bourdouleix-condamne-a-une-amende-de-1-000-euros-en-appel-47e2e572-69f0-11ef-87ff-6b83746dd621",
+    "date": "2024-09-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2742,
+        "value": "49 - Maine-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 974,
+        "value": "Gilles Bourdouleix"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2511,
+    "titre": "Blanchiment, corruption d’élus… : au tribunal de Bobigny, Claire Thépaut à la tête d’une mission « mains propres »",
+    "contenu": "La deuxième juridiction de France se dote d’une force de frappe pour traquer les circuits de l’argent sale. Juge d’instruction pugnace issue du pôle financier de Paris, Claire Thépaut, qui a notamment mis en examen Nicolas Sarkozy, pilote cette mission « mains propres ».",
+    "url": "https://www.leparisien.fr/seine-saint-denis-93/blanchiment-corruption-delus-au-tribunal-de-bobigny-claire-thepaut-a-la-tete-dune-mission-mains-propres-02-09-2024-FWC7L5PPSFCUDLYSROCWHE46FA.php",
+    "date": "2024-09-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2766,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2108,
+        "value": "Claire Thépaut"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2501,
@@ -79,6 +274,72 @@
       }
     ],
     "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2506,
+    "titre": "Prison ferme requise contre Nicolas Best, ancien directeur du CHU de Nîmes jugé pour favoritisme et corruption passive",
+    "contenu": "Trois ans, dont six mois de prison ferme ont été requis contre Nicolas Best, directeur général du CHU de Nîmes jugé à Paris, pour favoritisme et corruption passive lorsqu'il était à la tête de l'hôpital d'Annecy entre 2015 et 2018 puis à Nîmes de 2018 à 2020.",
+    "url": "https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/prison-ferme-requise-contre-nicolas-best-ancien-directeur-du-chu-de-nimes-juge-pour-favoritisme-et-corruption-passive-3025739.html",
+    "date": "2024-09-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2724,
+        "value": "30 - Gard"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 813,
+        "value": "Nicolas Best"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 162,
+        "value": "Centre hospitalier universitaire (CHU) de Nîmes"
+      },
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      },
+      {
+        "id": 791,
+        "value": "Bouygues"
+      },
+      {
+        "id": 942,
+        "value": "Mupi"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      },
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
     "procedure": [
       {
         "id": 2695,
@@ -644,6 +905,63 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2507,
+    "titre": "Perenco : pourquoi le pétrolier est dans le viseur de la justice",
+    "contenu": "Le Parquet national financier a ouvert deux enquêtes préliminaires à l’encontre de Perenco qui appartient à la famille Perrodo. Une troisième procédure judiciaire concerne les activités de la 2e major pétrolière française après Total au Congo-Kinshasa et leur impact sur l’environnement.",
+    "url": "https://www.challenges.fr/fortunes/perenco-pourquoi-le-petrolier-est-dans-le-viseur-de-la-justice_901367",
+    "date": "2024-08-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2809,
+        "value": "République du Congo"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2106,
+        "value": "André-Raphaël Loemba"
+      },
+      {
+        "id": 2107,
+        "value": "Julienne Sassou-Nguesso"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 202,
+        "value": "Perenco"
+      },
+      {
+        "id": 943,
+        "value": "Hemla"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2666,
+        "value": "Énergie"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2491,
