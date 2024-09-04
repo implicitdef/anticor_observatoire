@@ -1,5 +1,118 @@
 [
   {
+    "id": 2514,
+    "titre": "Agrément d’Anticor : Gabriel Attal sommé par la justice de prendre position dans les vingt-quatre heures",
+    "contenu": "Vous pouvez partager un article en cliquant sur les icônes de partage en haut à droite de celui-ci. \nLa reproduction totale ou partielle d’un article, sans l’autorisation écrite et préalable du Monde, est strictement interdite. \nPour plus d’informations, consultez nos conditions générales de vente. \nPour toute demande d’autorisation, contactez syndication@lemonde.fr. \nEn tant qu’abonné, vous pouvez offrir jusqu’à cinq articles par mois à l’un de vos proches grâce à la fonctionnalité « Offrir un article ». \n\nhttps://www.lemonde.fr/societe/article/2024/09/04/agrement-d-anticor-gabriel-attel-somme-par-la-justice-de-prendre-position-dans-les-vingt-quatre-heures_6304188_3224.html\n\nVéritable guerre des nerfs, le feuilleton Anticor semble s’étirer à l’infini. Mercredi 4 septembre, le tribunal administratif de Paris a rendu une nouvelle décision en faveur de l’association anticorruption. Laquelle cherche vainement à récupérer, auprès du gouvernement, son agrément, sésame qui lui permettait entre 2015 et 2023 de se constituer partie civile, notamment en cas d’inaction du parquet, dans les affaires d’atteinte à la probité. Dans son ordonnance de référé, le tribunal administratif a ordonné au premier ministre démissionnaire, Gabriel Attal, de « réexaminer la demande d’agrément présentée » en janvier par Anticor « dans un délai de vingt-quatre heures », « sous astreinte de 1 000 euros par jour de retard à l’expiration de ce délai ». Il enjoint à Matignon de prendre ainsi position et de motiver sa décision.",
+    "url": "https://www.lemonde.fr/societe/article/2024/09/04/agrement-d-anticor-gabriel-attel-somme-par-la-justice-de-prendre-position-dans-les-vingt-quatre-heures_6304188_3224.html",
+    "date": "2024-09-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 918,
+        "value": "Gabriel Attal"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2516,
+    "titre": "Corruption présumée au Tchad : dix perquisitions en France et en Belgique",
+    "contenu": "Les justices française et belge ont mené une vague de perquisitions dans une affaire présumée de corruption, visant notamment des cadres français d’un géant belge du BTP, en lien avec la construction d’un palace au Tchad. L’entreprise a rémunéré un commissaire du renseignement tchadien et retiré des millions d’euros en liquide sur son compte à la Société générale.",
+    "url": "https://www.mediapart.fr/journal/international/040924/corruption-presumee-au-tchad-dix-perquisitions-en-france-et-en-belgique",
+    "date": "2024-09-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 3051,
+        "value": "Tchad"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1857,
+        "value": "Michel Marstal"
+      },
+      {
+        "id": 1858,
+        "value": "Luc Bertrand"
+      },
+      {
+        "id": 1859,
+        "value": "Patrick Bonnetain"
+      },
+      {
+        "id": 1861,
+        "value": "Renaud Bentégeat"
+      },
+      {
+        "id": 1862,
+        "value": "Abderahman Moussa"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 137,
+        "value": "Société générale"
+      },
+      {
+        "id": 815,
+        "value": "Ackermans & van Haaren"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2505,
     "titre": "Jean-Christophe Cambadélis condamné pour détournement de fonds publics",
     "contenu": "Reconnu coupable d’avoir, entre 2015 et 2017, usé à des fins personnelles plus de 100 000 euros issus de son enveloppe de frais de mandat, l’ancien député de Paris est condamné à huit mois de prison avec sursis et 60 000 euros d’amende. Il annonce faire appel.",
@@ -51,6 +164,116 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2517,
+    "titre": "Jugé pour pantouflage, un ancien conseiller ministériel contractuel relaxé",
+    "contenu": "Le tribunal a précisé que l’absence de mention explicite aux contractuels dans l’article du code pénal qui définit la « prise illégale d’intérêts » ne suffit pas à les exclure du périmètre de ce délit.",
+    "url": "https://www.lemonde.fr/societe/article/2024/09/04/juge-pour-pantouflage-un-ancien-conseiller-ministeriel-contractuel-relaxe_6304079_3224.html",
+    "date": "2024-09-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1396,
+        "value": "Pierre-Yves Burlot"
+      },
+      {
+        "id": 2112,
+        "value": "Brune Poirson"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 186,
+        "value": "Ministère de l'Écologie"
+      },
+      {
+        "id": 571,
+        "value": "Séché Environnement"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2518,
+    "titre": "Pantouflage : les promoteurs Gecina et Novaxia condamnés pour avoir recruté Missika, ex-adjoint à l’urbanisme de Hidalgo",
+    "contenu": "La justice a estimé que les deux groupes immobiliers et leurs présidents respectifs s’étaient rendus coupables - une rareté - de complicité et de recel de prise illégale d’intérêts en recrutant Jean-Louis Missika, l’ancien bras droit d'Anne Hidalgo à la mairie de Paris.",
+    "url": "https://www.marianne.net/economie/pantouflage-les-promoteurs-gecina-et-novaxia-condamnes-pour-avoir-recrute-missika-ex-adjoint-a-lurbanisme-de-hidalgo",
+    "date": "2024-09-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 657,
+        "value": "Anne Hidalgo"
+      },
+      {
+        "id": 805,
+        "value": "Jean-Louis Missika"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 664,
+        "value": "Novaxia"
+      },
+      {
+        "id": 665,
+        "value": "Gecina"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2509,
@@ -659,6 +882,115 @@
         "value": "Agro-alimentaire"
       }
     ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2512,
+    "titre": "Rodolphe Saadé recrute la conseillère parlementaire de Roland Lescure à Bercy",
+    "contenu": "Agathe Bonnin, l'actuelle conseillère parlementaire de Roland Lescure, ministre – démissionnaire – délégué à l'industrie et à l'énergie, est pressentie pour rejoindre le groupe CMA CGM.",
+    "url": "https://www.lalettre.fr/fr/action-publique/2024/08/27/rodolphe-saade-recrute-la-conseillere-parlementaire-de-roland-lescure-a-bercy%252C110279993-bre",
+    "date": "2024-08-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1018,
+        "value": "Roland Lescure"
+      },
+      {
+        "id": 2109,
+        "value": "Agathe Bonnin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 721,
+        "value": "CMA CGM (Compagnie maritime d'affrètement - Compagnie générale maritime)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2513,
+    "titre": "L’enquête française qui fait trembler le Tchad",
+    "contenu": "Déclenchée après les révélations de Mediapart sur le million d’euros dépensé à Paris par le président tchadien pour l’achat de costumes de luxe, l’enquête du Parquet national financier s’intéresse désormais au patrimoine immobilier de sa famille en France. Celui-ci a été évalué à au moins 30 millions d’euros. Tensions au sommet entre les deux pays.",
+    "url": "https://www.mediapart.fr/journal/international/230824/l-enquete-francaise-qui-fait-trembler-le-tchad",
+    "date": "2024-08-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3051,
+        "value": "Tchad"
+      },
+      {
+        "id": 2765,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1999,
+        "value": "Mahamat Idriss Déby"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 64,
+        "value": "Office central pour la répression de la grande délinquance financière (OCRGDF)"
+      },
+      {
+        "id": 944,
+        "value": "Banque commerciale du Chari (BCC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -6846,6 +7178,10 @@
       {
         "id": 1396,
         "value": "Pierre-Yves Burlot"
+      },
+      {
+        "id": 2112,
+        "value": "Brune Poirson"
       }
     ],
     "personnes_morales": [
@@ -11912,6 +12248,55 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2515,
+    "titre": "Le lobby des Ehpad privés a fini par trouver sa DG",
+    "contenu": "Le Synerpa, qui représente les intérêts des maisons de retraite privées, vient de trouver sa nouvelle directrice générale, une fonction laissée vacante depuis un an. C'est Elsa Ptakhine, ex-conseillère de Marisol Touraine, qui représentera un secteur secoué par une crise inédite.",
+    "url": "https://www.lalettre.fr/fr/action-publique_lobbying/2024/05/13/le-lobby-des-ehpad-prives-a-fini-par-trouver-sa-dg%252C110224460-art",
+    "date": "2024-05-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2110,
+        "value": "Marisol Touraine"
+      },
+      {
+        "id": 2111,
+        "value": "Elsa Ptakhine"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 945,
+        "value": "Syndicat national des établissements et résidences pour personnes âgées (SYNERPA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2682,
+        "value": "Social"
+      },
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2262,
@@ -22688,6 +23073,10 @@
       {
         "id": 1396,
         "value": "Pierre-Yves Burlot"
+      },
+      {
+        "id": 2112,
+        "value": "Brune Poirson"
       }
     ],
     "personnes_morales": [
