@@ -887,6 +887,71 @@
     "a_la_une": false
   },
   {
+    "id": 2519,
+    "titre": "L’enquête pour prise illégale d’intérêts visant le PDG de TotalEnergies, Patrick Pouyanné, classée sans suite",
+    "contenu": "Trois associations reprochaient à Patrick Pouyanné d’avoir entretenu la confusion entre son mandat d’administrateur de Polytechnique et celui de PDG de TotalEnergies lors d’un projet d’implantation d’un bâtiment du groupe pétrolier sur le campus de l’école. Un projet finalement abandonné.",
+    "url": "https://www.lemonde.fr/societe/article/2024/08/27/l-enquete-pour-prise-illegale-d-interets-visant-le-pdg-de-totalenergies-patrick-pouyanne-classee-sans-suite_6297088_3224.html",
+    "date": "2024-08-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1917,
+        "value": "Patrick Pouyanné"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 150,
+        "value": "TotalEnergies"
+      },
+      {
+        "id": 946,
+        "value": "La Sphinx"
+      },
+      {
+        "id": 947,
+        "value": "Greenpeace"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2666,
+        "value": "Énergie"
+      },
+      {
+        "id": 2665,
+        "value": "Éducation / Enseignement"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2512,
     "titre": "Rodolphe Saadé recrute la conseillère parlementaire de Roland Lescure à Bercy",
     "contenu": "Agathe Bonnin, l'actuelle conseillère parlementaire de Roland Lescure, ministre – démissionnaire – délégué à l'industrie et à l'énergie, est pressentie pour rejoindre le groupe CMA CGM.",
