@@ -1,5 +1,45 @@
 [
   {
+    "id": 2521,
+    "titre": "Gabriel Attal, avant de quitter Matignon, redonne son agrément à Anticor",
+    "contenu": "Au terme d’un long bras de fer politique et judiciaire, le premier ministre démissionnaire a attribué, par un arrêté du jeudi 5 septembre, pour trois ans, l’agrément à l’association anticorruption indispensable pour qu’elle puisse se constituer partie civile.",
+    "url": "https://www.lemonde.fr/societe/article/2024/09/05/gabriel-attal-avant-de-quitter-matignon-redonne-son-agrement-a-anticor_6305025_3224.html",
+    "date": "2024-09-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 918,
+        "value": "Gabriel Attal"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2514,
     "titre": "Agrément d’Anticor : Gabriel Attal sommé par la justice de prendre position dans les vingt-quatre heures",
     "contenu": "Vous pouvez partager un article en cliquant sur les icônes de partage en haut à droite de celui-ci. \nLa reproduction totale ou partielle d’un article, sans l’autorisation écrite et préalable du Monde, est strictement interdite. \nPour plus d’informations, consultez nos conditions générales de vente. \nPour toute demande d’autorisation, contactez syndication@lemonde.fr. \nEn tant qu’abonné, vous pouvez offrir jusqu’à cinq articles par mois à l’un de vos proches grâce à la fonctionnalité « Offrir un article ». \n\nhttps://www.lemonde.fr/societe/article/2024/09/04/agrement-d-anticor-gabriel-attel-somme-par-la-justice-de-prendre-position-dans-les-vingt-quatre-heures_6304188_3224.html\n\nVéritable guerre des nerfs, le feuilleton Anticor semble s’étirer à l’infini. Mercredi 4 septembre, le tribunal administratif de Paris a rendu une nouvelle décision en faveur de l’association anticorruption. Laquelle cherche vainement à récupérer, auprès du gouvernement, son agrément, sésame qui lui permettait entre 2015 et 2023 de se constituer partie civile, notamment en cas d’inaction du parquet, dans les affaires d’atteinte à la probité. Dans son ordonnance de référé, le tribunal administratif a ordonné au premier ministre démissionnaire, Gabriel Attal, de « réexaminer la demande d’agrément présentée » en janvier par Anticor « dans un délai de vingt-quatre heures », « sous astreinte de 1 000 euros par jour de retard à l’expiration de ce délai ». Il enjoint à Matignon de prendre ainsi position et de motiver sa décision.",
