@@ -577,6 +577,135 @@
     "a_la_une": false
   },
   {
+    "id": 2529,
+    "titre": "Les conseillers macronistes soignent leur sortie dans le privé",
+    "contenu": "Des légions de collaborateurs revendent au plus offrant leur expérience en cabinet ministériel et le réseau qui va avec.",
+    "url": "https://www.lecanardenchaine.fr/",
+    "date": "2024-09-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 735,
+        "value": "Garance Pineau"
+      },
+      {
+        "id": 2109,
+        "value": "Agathe Bonnin"
+      },
+      {
+        "id": 2118,
+        "value": "Myassa Djebara"
+      },
+      {
+        "id": 2119,
+        "value": "Arthur Le Ber"
+      },
+      {
+        "id": 2120,
+        "value": "Thomas Hartog"
+      },
+      {
+        "id": 2121,
+        "value": "Zoé Waldmann"
+      },
+      {
+        "id": 2122,
+        "value": "Marie Morresi"
+      },
+      {
+        "id": 2123,
+        "value": "Pierre Jérémie"
+      },
+      {
+        "id": 2124,
+        "value": "Mélanie Mégraud"
+      },
+      {
+        "id": 2125,
+        "value": "Audran Demierre"
+      },
+      {
+        "id": 2126,
+        "value": "Thibaut Chaix"
+      },
+      {
+        "id": 2127,
+        "value": "Victor Manhès"
+      },
+      {
+        "id": 2128,
+        "value": "Matthieu Ellerbach"
+      },
+      {
+        "id": 2129,
+        "value": "Clément Léonarduzzi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 61,
+        "value": "Havas"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 181,
+        "value": "Veolia"
+      },
+      {
+        "id": 668,
+        "value": "Publicis Groupe"
+      },
+      {
+        "id": 721,
+        "value": "CMA CGM (Compagnie maritime d'affrètement - Compagnie générale maritime)"
+      },
+      {
+        "id": 954,
+        "value": "Airbnb"
+      },
+      {
+        "id": 955,
+        "value": "TF1"
+      },
+      {
+        "id": 956,
+        "value": "RATP"
+      },
+      {
+        "id": 957,
+        "value": "Hy24"
+      },
+      {
+        "id": 958,
+        "value": "Essilor International"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2518,
     "titre": "Pantouflage : les promoteurs Gecina et Novaxia condamnés pour avoir recruté Missika, ex-adjoint à l’urbanisme de Hidalgo",
     "contenu": "La justice a estimé que les deux groupes immobiliers et leurs présidents respectifs s’étaient rendus coupables - une rareté - de complicité et de recel de prise illégale d’intérêts en recrutant Jean-Louis Missika, l’ancien bras droit d'Anne Hidalgo à la mairie de Paris.",
@@ -66989,6 +67118,10 @@
       {
         "id": 1643,
         "value": "Jonathan Guémas"
+      },
+      {
+        "id": 2129,
+        "value": "Clément Léonarduzzi"
       }
     ],
     "personnes_morales": [
