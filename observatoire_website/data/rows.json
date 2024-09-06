@@ -40,6 +40,160 @@
     "a_la_une": false
   },
   {
+    "id": 2526,
+    "titre": "L’ex-ministre Michèle Alliot-Marie condamnée à six mois de prison avec sursis pour prise illégale d’intérêts",
+    "contenu": "Dans ce dossier, l’ancienne ministre de la défense, de l’intérieur, de la justice et des affaires étrangères sous Jacques Chirac puis Nicolas Sarkozy était visée pour son rôle présumé dans le versement de subventions à une association présidée par son père, lorsqu’elle était adjointe au maire de Saint-Jean-de-Luz.",
+    "url": "https://www.lemonde.fr/politique/article/2024/09/06/l-ex-ministre-michele-alliot-marie-condamnee-a-six-mois-de-prison-avec-sursis-pour-prise-illegale-d-interets_6305678_823448.html",
+    "date": "2024-09-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2754,
+        "value": "64 - Pyrénées-Atlantiques"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 683,
+        "value": "Michèle Alliot-Marie"
+      },
+      {
+        "id": 1472,
+        "value": "Bernard Marie"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2527,
+    "titre": "Le successeur de Wauquiez à la Région a lui aussi été épinglé pour son mésusage de l’argent public",
+    "contenu": "L’élu savoyard Fabrice Pannekoucke a été propulsé, jeudi 5 septembre, à la tête de la deuxième plus grande région de France. Il avait été mis en cause pour un emploi fantôme par la chambre régionale des comptes en 2019.",
+    "url": "https://www.mediapart.fr/journal/france/060924/le-successeur-de-wauquiez-la-region-lui-aussi-ete-epingle-pour-son-mesusage-de-l-argent-public",
+    "date": "2024-09-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2113,
+        "value": "Fabrice Pannekoucke"
+      },
+      {
+        "id": 2114,
+        "value": "Hervé Gaymard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2528,
+    "titre": "Dans le Var, encore un maire éreinté pour de l’argent dilapidé",
+    "contenu": "Faux documents, surfacturations, travaux mal ou non réalisés mais payés par le contribuable... Dans un rapport que s’est procuré Mediapart, la Chambre régionale des comptes de Paca démolit Jean-Pierre Giran (ex-LR), maire de Hyères et patron de la métropole Toulon-Provence-Méditerranée.",
+    "url": "https://www.mediapart.fr/journal/france/050924/dans-le-var-encore-un-maire-ereinte-pour-de-l-argent-dilapide",
+    "date": "2024-09-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2115,
+        "value": "Jean-Pierre Giran"
+      },
+      {
+        "id": 2116,
+        "value": "Roland Atlan"
+      },
+      {
+        "id": 2117,
+        "value": "Denis Infante"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      },
+      {
+        "id": 950,
+        "value": "ERGC"
+      },
+      {
+        "id": 951,
+        "value": "Société Nouvelle Vigna Méditerranée"
+      },
+      {
+        "id": 952,
+        "value": "Varester"
+      },
+      {
+        "id": 953,
+        "value": "SVCR"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2521,
     "titre": "Gabriel Attal, avant de quitter Matignon, redonne son agrément à Anticor",
     "contenu": "Au terme d’un long bras de fer politique et judiciaire, le premier ministre démissionnaire a attribué, par un arrêté du jeudi 5 septembre, pour trois ans, l’agrément à l’association anticorruption indispensable pour qu’elle puisse se constituer partie civile.",
