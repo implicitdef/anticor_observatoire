@@ -1,5 +1,45 @@
 [
   {
+    "id": 2523,
+    "titre": "Des pots-de-vin dans les bennes à ordures : le rapport accablant qui épingle les déchetteries parisiennes",
+    "contenu": "C’est une enquête administrative édifiante, dont les conclusions n’ont jamais été rendues publiques. Discrètement commandé fin 2019 à l’Inspection générale de la ville de Paris par la maire, Anne Hidalgo, suite à des soupçons de corruption dans des déchetteries de la capitale, ce rapport dévoilé par Libération a pourtant connu des développements judiciaires. Trois agents municipaux sont jugés ce vendredi pour avoir touché au moins 200 000 euros de la part de professionnels du BTP en échange du dépôt illégal de leurs déchets entre début 2016 et fin 2021. Selon l’enquête de la section économique et financière du parquet de Paris, l’argent était réparti «équitablement» entre les membres d’un même groupe. Poursuivis pour «corruption passive» et «blanchiment aggravé», ils encourent jusqu’à dix ans d’emprisonnement. Une affaire emblématique, pour ne pas dire systémique.",
+    "url": "https://www.liberation.fr/societe/police-justice/des-pots-de-vin-dans-les-bennes-a-ordures-le-rapport-accablant-qui-epingle-les-dechetteries-parisiennes-20240906_CBINPNMBEZDZRMMA3QVCTYUC3A/?redirected=1",
+    "date": "2024-09-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 948,
+        "value": "Inspection générale de la ville de Paris"
+      },
+      {
+        "id": 949,
+        "value": "Direction de la propreté et de l’eau (DPE)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2521,
     "titre": "Gabriel Attal, avant de quitter Matignon, redonne son agrément à Anticor",
     "contenu": "Au terme d’un long bras de fer politique et judiciaire, le premier ministre démissionnaire a attribué, par un arrêté du jeudi 5 septembre, pour trois ans, l’agrément à l’association anticorruption indispensable pour qu’elle puisse se constituer partie civile.",
@@ -38,6 +78,131 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2524,
+    "titre": "L’ultime manœuvre de Nicolas Sarkozy pour repousser le procès libyen a échoué",
+    "contenu": "La défense de l’ancien président a demandé la réouverture de l’enquête, estimant avoir découvert une pièce à décharge qui lui aurait été dissimulée. Une manipulation à laquelle le tribunal n’a pas donné suite, après un réquisitoire implacable du PNF.",
+    "url": "https://www.mediapart.fr/journal/france/050924/l-ultime-manoeuvre-de-nicolas-sarkozy-pour-repousser-le-proces-libyen-echoue",
+    "date": "2024-09-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 574,
+        "value": "Éric Woerth"
+      },
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 586,
+        "value": "Ziad Takieddine"
+      },
+      {
+        "id": 660,
+        "value": "Claude Guéant"
+      },
+      {
+        "id": 950,
+        "value": "Brice Hortefeux"
+      },
+      {
+        "id": 951,
+        "value": "Thierry Gaubert"
+      },
+      {
+        "id": 1152,
+        "value": "Michèle Marchand"
+      },
+      {
+        "id": 1618,
+        "value": "Alexandre Djouhri"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 141,
+        "value": "Sherpa"
+      },
+      {
+        "id": 152,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2522,
+    "titre": "Trafic d’influence autour du PSG : L’ancien vice-président macroniste de l’Assemblée Hugues Renson mis en examen",
+    "contenu": "Places pour des matchs et avantages… Hugues Renson est soupçonné de trafic d’influence. L’ancien vice-président macroniste de l’Assemblée Hugues Renson a été mis en examen jeudi à Paris. Il est suspecté d’avoir obtenu des billets dans le carré VIP du PSG contre des interventions en vue de décisions favorables de l’administration.",
+    "url": "https://www.20minutes.fr/sport/4108667-20240905-trafic-influence-autour-psg-ancien-vice-president-macroniste-assemblee-hugues-renson-mis-examen",
+    "date": "2024-09-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1016,
+        "value": "Hugues Renson"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 166,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2514,
