@@ -1,5 +1,70 @@
 [
   {
+    "id": 2530,
+    "titre": "Le directeur de cabinet de Michel Barnier est mis en cause dans l’affaire Darmanin/PSG",
+    "contenu": "Il y a quelques mois, Mediapart révélait qu’en 2017, Gérald Darmanin et son directeur de cabinet Jérôme Fournel avaient aidé le PSG à ne pas payer des dizaines de millions d’euros de taxes contre la jurisprudence de l’administration fiscale. Ce même Jérôme Fournel vient d’être promu auprès du nouveau premier ministre.",
+    "url": "https://www.mediapart.fr/journal/france/070924/le-directeur-de-cabinet-de-michel-barnier-est-mis-en-cause-dans-l-affaire-darmaninpsg",
+    "date": "2024-09-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 761,
+        "value": "Gérald Darmanin"
+      },
+      {
+        "id": 816,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 1016,
+        "value": "Hugues Renson"
+      },
+      {
+        "id": 1427,
+        "value": "Jérôme Fournel"
+      },
+      {
+        "id": 2130,
+        "value": "Michel Barnier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 27,
+        "value": "Direction générale des finances publiques (DGFIP)"
+      },
+      {
+        "id": 166,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 959,
+        "value": "Union de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2523,
     "titre": "Des pots-de-vin dans les bennes à ordures : le rapport accablant qui épingle les déchetteries parisiennes",
     "contenu": "C’est une enquête administrative édifiante, dont les conclusions n’ont jamais été rendues publiques. Discrètement commandé fin 2019 à l’Inspection générale de la ville de Paris par la maire, Anne Hidalgo, suite à des soupçons de corruption dans des déchetteries de la capitale, ce rapport dévoilé par Libération a pourtant connu des développements judiciaires. Trois agents municipaux sont jugés ce vendredi pour avoir touché au moins 200 000 euros de la part de professionnels du BTP en échange du dépôt illégal de leurs déchets entre début 2016 et fin 2021. Selon l’enquête de la section économique et financière du parquet de Paris, l’argent était réparti «équitablement» entre les membres d’un même groupe. Poursuivis pour «corruption passive» et «blanchiment aggravé», ils encourent jusqu’à dix ans d’emprisonnement. Une affaire emblématique, pour ne pas dire systémique.",
@@ -361,7 +426,7 @@
   {
     "id": 2514,
     "titre": "Agrément d’Anticor : Gabriel Attal sommé par la justice de prendre position dans les vingt-quatre heures",
-    "contenu": "Vous pouvez partager un article en cliquant sur les icônes de partage en haut à droite de celui-ci. \nLa reproduction totale ou partielle d’un article, sans l’autorisation écrite et préalable du Monde, est strictement interdite. \nPour plus d’informations, consultez nos conditions générales de vente. \nPour toute demande d’autorisation, contactez syndication@lemonde.fr. \nEn tant qu’abonné, vous pouvez offrir jusqu’à cinq articles par mois à l’un de vos proches grâce à la fonctionnalité « Offrir un article ». \n\nhttps://www.lemonde.fr/societe/article/2024/09/04/agrement-d-anticor-gabriel-attel-somme-par-la-justice-de-prendre-position-dans-les-vingt-quatre-heures_6304188_3224.html\n\nVéritable guerre des nerfs, le feuilleton Anticor semble s’étirer à l’infini. Mercredi 4 septembre, le tribunal administratif de Paris a rendu une nouvelle décision en faveur de l’association anticorruption. Laquelle cherche vainement à récupérer, auprès du gouvernement, son agrément, sésame qui lui permettait entre 2015 et 2023 de se constituer partie civile, notamment en cas d’inaction du parquet, dans les affaires d’atteinte à la probité. Dans son ordonnance de référé, le tribunal administratif a ordonné au premier ministre démissionnaire, Gabriel Attal, de « réexaminer la demande d’agrément présentée » en janvier par Anticor « dans un délai de vingt-quatre heures », « sous astreinte de 1 000 euros par jour de retard à l’expiration de ce délai ». Il enjoint à Matignon de prendre ainsi position et de motiver sa décision.",
+    "contenu": "Véritable guerre des nerfs, le feuilleton Anticor semble s’étirer à l’infini. Mercredi 4 septembre, le tribunal administratif de Paris a rendu une nouvelle décision en faveur de l’association anticorruption. Laquelle cherche vainement à récupérer, auprès du gouvernement, son agrément, sésame qui lui permettait entre 2015 et 2023 de se constituer partie civile, notamment en cas d’inaction du parquet, dans les affaires d’atteinte à la probité. Dans son ordonnance de référé, le tribunal administratif a ordonné au premier ministre démissionnaire, Gabriel Attal, de « réexaminer la demande d’agrément présentée » en janvier par Anticor « dans un délai de vingt-quatre heures », « sous astreinte de 1 000 euros par jour de retard à l’expiration de ce délai ». Il enjoint à Matignon de prendre ainsi position et de motiver sa décision.",
     "url": "https://www.lemonde.fr/societe/article/2024/09/04/agrement-d-anticor-gabriel-attel-somme-par-la-justice-de-prendre-position-dans-les-vingt-quatre-heures_6304188_3224.html",
     "date": "2024-09-04",
     "etiquettes": "",
