@@ -1,5 +1,195 @@
 [
   {
+    "id": 2532,
+    "titre": "Affaire PSG : la justice obtient des SMS de Darmanin qui confirment son implication",
+    "contenu": "Des messages rédigés par l’ancien ministre des comptes publics démontrent son intervention pour favoriser les affaires fiscales du club parisien lors du transfert de Neymar en 2017. Il se confirme qu’il a œuvré avec Jérôme Fournel, le nouveau directeur de cabinet du premier ministre Michel Barnier.",
+    "url": "https://www.mediapart.fr/journal/france/080924/affaire-psg-la-justice-obtient-des-sms-de-darmanin-qui-confirment-son-implication",
+    "date": "2024-09-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 761,
+        "value": "Gérald Darmanin"
+      },
+      {
+        "id": 816,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 968,
+        "value": "Nasser al-Khelaïfi"
+      },
+      {
+        "id": 978,
+        "value": "Neymar da Silva Santos Júnior"
+      },
+      {
+        "id": 1016,
+        "value": "Hugues Renson"
+      },
+      {
+        "id": 1427,
+        "value": "Jérôme Fournel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 27,
+        "value": "Direction générale des finances publiques (DGFIP)"
+      },
+      {
+        "id": 166,
+        "value": "Paris Saint Germain (PSG)"
+      },
+      {
+        "id": 619,
+        "value": "Ministère de l'Intérieur"
+      },
+      {
+        "id": 959,
+        "value": "Union de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      },
+      {
+        "id": 2677,
+        "value": "Police"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2531,
+    "titre": "Le policier corse qui exploitait les étrangers sans papiers",
+    "contenu": "Le chef adjoint de la police aux frontières de Figari a été révoqué de la police nationale, à la suite d’un rapport accablant de l’IGPN. Il est mis en examen pour corruption et extorsion aux dépens de personnes étrangères en situation irrégulière.",
+    "url": "https://www.mediapart.fr/journal/france/080924/le-policier-corse-qui-exploitait-les-etrangers-sans-papiers",
+    "date": "2024-09-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2722,
+        "value": "2A - Corse-du-Sud"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 235,
+        "value": "Inspection générale de la Police nationale (IGPN)"
+      },
+      {
+        "id": 404,
+        "value": "Direction nationale de la Police aux frontières (DNPAF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2677,
+        "value": "Police"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2533,
+    "titre": "L’intense lobbying et le projet de reconversion au PSG de l’ex-député macroniste Hugues Renson",
+    "contenu": "Mis en examen pour trafic d’influence, l’ancien vice-président de l’Assemblée nationale, qui a cherché à travailler au PSG, a servi d’intermédiaire en 2017 auprès de Gérald Darmanin, alors ministre de l’action et des comptes publics, dans le cadre de l’exonération fiscale du transfert au club du joueur brésilien Neymar.",
+    "url": "https://www.lemonde.fr/societe/article/2024/09/07/l-intense-lobbying-et-le-projet-de-reconversion-au-psg-de-l-ex-depute-macroniste-hugues-renson_6306645_3224.html",
+    "date": "2024-09-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 761,
+        "value": "Gérald Darmanin"
+      },
+      {
+        "id": 816,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 968,
+        "value": "Nasser al-Khelaïfi"
+      },
+      {
+        "id": 978,
+        "value": "Neymar da Silva Santos Júnior"
+      },
+      {
+        "id": 1016,
+        "value": "Hugues Renson"
+      },
+      {
+        "id": 1427,
+        "value": "Jérôme Fournel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 166,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      },
+      {
+        "id": 2677,
+        "value": "Police"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2530,
     "titre": "Le directeur de cabinet de Michel Barnier est mis en cause dans l’affaire Darmanin/PSG",
     "contenu": "Il y a quelques mois, Mediapart révélait qu’en 2017, Gérald Darmanin et son directeur de cabinet Jérôme Fournel avaient aidé le PSG à ne pas payer des dizaines de millions d’euros de taxes contre la jurisprudence de l’administration fiscale. Ce même Jérôme Fournel vient d’être promu auprès du nouveau premier ministre.",
@@ -58,6 +248,10 @@
       {
         "id": 2683,
         "value": "Sport"
+      },
+      {
+        "id": 2677,
+        "value": "Police"
       }
     ],
     "procedure": [],
