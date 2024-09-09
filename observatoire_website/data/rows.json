@@ -1,5 +1,89 @@
 [
   {
+    "id": 2534,
+    "titre": "Assistants fictifs du Rassemblement national : les faux documents de Jordan Bardella",
+    "contenu": "En 2015, comme d’autres petites mains dont le procès s’ouvre le 30 septembre à Paris, le jeune lepéniste était payé par l’Europe mais employé par le RN. Pour camoufler cet emploi fictif, l’actuel président du parti a aidé à produire de fausses preuves de travail, révèle un livre à paraître.",
+    "url": "https://www.liberation.fr/politique/assistants-fictifs-du-rassemblement-national-les-faux-documents-de-jordan-bardella-20240909_5IHPRZRD7NAORD7PNHD5UHJAIA/?redirected=1",
+    "date": "2024-09-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 442,
+        "value": "Kévin Pfeffer"
+      },
+      {
+        "id": 793,
+        "value": "Aymeric Chauprade"
+      },
+      {
+        "id": 804,
+        "value": "Jean-François Jalkh"
+      },
+      {
+        "id": 1019,
+        "value": "Jordan Bardella"
+      },
+      {
+        "id": 1965,
+        "value": "Martin Schulz"
+      },
+      {
+        "id": 2131,
+        "value": "Florian Philippot"
+      },
+      {
+        "id": 2132,
+        "value": "Ghislain Dubois"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 293,
+        "value": "Office européen de lutte antifraude (OLAF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2532,
     "titre": "Affaire PSG : la justice obtient des SMS de Darmanin qui confirment son implication",
     "contenu": "Des messages rédigés par l’ancien ministre des comptes publics démontrent son intervention pour favoriser les affaires fiscales du club parisien lors du transfert de Neymar en 2017. Il se confirme qu’il a œuvré avec Jérôme Fournel, le nouveau directeur de cabinet du premier ministre Michel Barnier.",
