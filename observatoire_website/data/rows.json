@@ -1,5 +1,66 @@
 [
   {
+    "id": 2535,
+    "titre": "Appels d’offres suspects : huit hauts gradés des «opex» français jugés pour favoritisme",
+    "contenu": "A partir de ce lundi 9 septembre s’ouvre devant la 32e chambre correctionnelle du tribunal judiciaire de Paris un procès assez exceptionnel. Huit militaires issus du Centre du soutien des opérations et des acheminements (CSOA) et du Commandement des opérations spéciales sont jugés pour favoritisme, et l’un d’entre eux pour corruption. Ils vont devoir s’expliquer sur la manière dont ont été passés, de 2011 à 2015, des appels d’offres pour le transport des militaires et de leurs équipements sur le théâtre d’opérations extérieures. Ce que le ministère des Armées appelle dans son jargon les «opex». Pour la période concernée, il s’agit essentiellement des missions en Afrique dans le cadre du dispositif Barkhane ou en Afghanistan où sont présents des contingents de soldats français.",
+    "url": "https://www.liberation.fr/societe/police-justice/appels-doffres-suspects-huit-hauts-grades-des-opex-francais-juge-pour-favoritisme-20240909_WADDMVHJ2RA7HIZWQ4V2KPVCWA/?redirected=1&redirected=1",
+    "date": "2024-09-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 6,
+        "value": "Cour des comptes (CDC)"
+      },
+      {
+        "id": 116,
+        "value": "Ministère des armées"
+      },
+      {
+        "id": 961,
+        "value": "Centre du soutien des opérations et des acheminements (CSOA)"
+      },
+      {
+        "id": 962,
+        "value": "Commandement des opérations spéciales (COS)"
+      },
+      {
+        "id": 963,
+        "value": "International Chartering Systems (ICS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2656,
+        "value": "Armement"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2534,
     "titre": "Assistants fictifs du Rassemblement national : les faux documents de Jordan Bardella",
     "contenu": "En 2015, comme d’autres petites mains dont le procès s’ouvre le 30 septembre à Paris, le jeune lepéniste était payé par l’Europe mais employé par le RN. Pour camoufler cet emploi fictif, l’actuel président du parti a aidé à produire de fausses preuves de travail, révèle un livre à paraître.",
@@ -82,6 +143,46 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2536,
+    "titre": "Crime organisé : le « repenti », mal-aimé de l’arsenal judiciaire français",
+    "contenu": "Seules 42 personnes bénéficient en France de ce statut, né il y a vingt ans. Un nouveau texte de loi devait être présenté, avant la dissolution de l’Assemblé, pour améliorer le dispositif autour de cet acteur judiciaire, bien connu en Italie et aux Etats-Unis.",
+    "url": "https://www.lemonde.fr/societe/article/2024/09/09/crime-organise-le-repenti-mal-aime-de-l-arsenal-judiciaire-francais_6308268_3224.html",
+    "date": "2024-09-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 964,
+        "value": "Commission nationale de protection et de réinsertion (CNPR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2532,
