@@ -1,5 +1,71 @@
 [
   {
+    "id": 2541,
+    "titre": "Un ancien conseiller de Nicolas Sarkozy dort en prison depuis plusieurs mois",
+    "contenu": "Le haut fonctionnaire Frank Supplisson, ayant travaillé auprès de l’ancien président ou de Christine Lagarde, est en détention depuis avril. Au cœur de multiples enquêtes de Mediapart, il est mis en cause dans plusieurs projets industriels spécieux, ayant conduit à des centaines de licenciements.",
+    "url": "https://www.mediapart.fr/journal/france/120924/un-ancien-conseiller-de-nicolas-sarkozy-dort-en-prison-depuis-plusieurs-mois",
+    "date": "2024-09-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2739,
+        "value": "45 - Loiret"
+      },
+      {
+        "id": 2748,
+        "value": "57 - Moselle"
+      },
+      {
+        "id": 2755,
+        "value": "65 - Hautes-Pyrénées"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 709,
+        "value": "Frank Supplisson"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 965,
+        "value": "Ascometal"
+      },
+      {
+        "id": 966,
+        "value": "Alpine Aluminium"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2670,
+        "value": "Industrie"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2540,
     "titre": "Gardiennage de ses chiens, site de rencontres, funérailles : les frais très personnels d’une députée RN",
     "contenu": "Chaque député dispose d’une enveloppe d’argent public pour financer ses frais d’élu. La députée du Pas-de-Calais Christine Engrand en a fait un tout autre usage. Le RN lui a renouvelé sa confiance après la dissolution, malgré des alertes internes.",
@@ -45,7 +111,7 @@
   },
   {
     "id": 2535,
-    "titre": "Appels d’offres suspects : huit hauts gradés des «opex» français jugés pour favoritisme",
+    "titre": "Appels d’offres suspects : huit hauts gradés des « opex » français jugés pour favoritisme",
     "contenu": "A partir de ce lundi 9 septembre s’ouvre devant la 32e chambre correctionnelle du tribunal judiciaire de Paris un procès assez exceptionnel. Huit militaires issus du Centre du soutien des opérations et des acheminements (CSOA) et du Commandement des opérations spéciales sont jugés pour favoritisme, et l’un d’entre eux pour corruption. Ils vont devoir s’expliquer sur la manière dont ont été passés, de 2011 à 2015, des appels d’offres pour le transport des militaires et de leurs équipements sur le théâtre d’opérations extérieures. Ce que le ministère des Armées appelle dans son jargon les «opex». Pour la période concernée, il s’agit essentiellement des missions en Afrique dans le cadre du dispositif Barkhane ou en Afghanistan où sont présents des contingents de soldats français.",
     "url": "https://www.liberation.fr/societe/police-justice/appels-doffres-suspects-huit-hauts-grades-des-opex-francais-juge-pour-favoritisme-20240909_WADDMVHJ2RA7HIZWQ4V2KPVCWA/?redirected=1&redirected=1",
     "date": "2024-09-09",
