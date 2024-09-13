@@ -1,5 +1,143 @@
 [
   {
+    "id": 2544,
+    "titre": "L'ancienne ministre et sénatrice de Saint-Pierre et Miquelon Annick Girardin déclarée inéligible pour un an par le Conseil constitutionnel",
+    "contenu": "L'ancienne ministre des Outre-mers (2017-2020) puis de la Mer (2020-2022) Annick Girardin a été déclarée inéligible pour une durée d'un an par le Conseil constitutionnel, invalidant de fait son élection en tant que sénatrice de Saint-Pierre et Miquelon en septembre 2023. Le Conseil constitutionnel a émis ce vendredi sa décision finale et prononcé \"l’inéligibilité de Mme. Girardin à tout mandat pour une durée d’un an à compter de la présente décision et de la déclarer démissionnaire d’office\". Le Conseil constitutionnel indique avoir constaté des irrégularités dans le dépôt des comptes de campagne de l'ancienne ministre.",
+    "url": "https://www.francetvinfo.fr/societe/justice/l-ancienne-ministre-et-senatrice-de-saint-pierre-et-miquelon-annick-girardin-declaree-ineligible-pour-un-an-par-le-conseil-constitutionnel_6779389.html",
+    "date": "2024-09-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3073,
+        "value": "975 - Saint-Pierre-et-Miquelon"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2133,
+        "value": "Annick Girardin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 180,
+        "value": "Commission nationale des comptes de campagne et des financements politiques (CNCCFP)"
+      },
+      {
+        "id": 237,
+        "value": "Conseil constitutionnel"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2545,
+    "titre": "Compiègne : la justice ouvre une enquête contre une élue soupçonnée de prise illégale d’intérêts",
+    "contenu": "Une enquête préliminaire a été ouverte par le procureur de la République de Compiègne, suite à un signalement de l’association Anticor 60, qui accuse la conseillère municipale déléguée au commerce d’avoir été présente lors de l’attribution d’une subvention à son propre magasin.",
+    "url": "https://www.leparisien.fr/oise-60/compiegne-la-justice-ouvre-une-enquete-contre-une-elue-soupconnee-de-prise-illegale-dinterets-12-09-2024-DNDSVUR32NDFVNIYXV2G3KF6VM.php",
+    "date": "2024-09-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2750,
+        "value": "60 - Oise"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2134,
+        "value": "Claudine Gréhan"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2542,
+    "titre": "Franck Proust jugé pour trafic d'influence : le président de Nîmes métropole relaxé en appel dans l'affaire de la Senim",
+    "contenu": "Plus de 20 ans après les faits qui lui étaient reprochés, un arrêt de la cour d'appel de Montpellier vient de mettre Franck Proust, définitivement, hors de cause, ce 12 septembre 2024. Le président de Nîmes métropole est relaxé des accusations de trafic d'influence dans le dossier de la Senim.",
+    "url": "https://france3-regions.francetvinfo.fr/occitanie/gard/nimes/franck-proust-juge-pour-trafic-d-influence-le-president-de-nimes-metropole-relaxe-en-appel-dans-l-affaire-de-la-senim-3030983.html",
+    "date": "2024-09-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2724,
+        "value": "30 - Gard"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2039,
+        "value": "Franck Proust"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 908,
+        "value": "Société d'équipement de Nîmes Métropole (SENIM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2541,
     "titre": "Un ancien conseiller de Nicolas Sarkozy dort en prison depuis plusieurs mois",
     "contenu": "Le haut fonctionnaire Frank Supplisson, ayant travaillé auprès de l’ancien président ou de Christine Lagarde, est en détention depuis avril. Au cœur de multiples enquêtes de Mediapart, il est mis en cause dans plusieurs projets industriels spécieux, ayant conduit à des centaines de licenciements.",
@@ -106,6 +244,46 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2543,
+    "titre": "Perquisition à la mairie de Saint-Sébastien-sur-Loire : une enquête ouverte pour favoritisme",
+    "contenu": "Mardi 10 septembre 2024, l’hôtel de ville de Saint-Sébastien-sur-Loire a été perquisitionné dans le cadre d’une enquête préliminaire ouverte pour favoritisme, indique le procureur de la République de Nantes ce mercredi. Il s’agit de vérifier les conditions du contrat conclu entre la commune et le Voyage à Nantes pour la conception de l’œuvre permanente de la Station nuage, inaugurée en 2020.",
+    "url": "https://www.ouest-france.fr/societe/faits-divers/perquisition-a-la-mairie-de-saint-sebastien-sur-loire-une-enquete-ouverte-pour-favoritisme-bf1ba196-704f-11ef-9636-7dbb9f35abc5",
+    "date": "2024-09-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2738,
+        "value": "44 - Loire-Atlantique"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 636,
+        "value": "Le Voyage à Nantes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
