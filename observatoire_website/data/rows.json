@@ -48,6 +48,59 @@
     "a_la_une": true
   },
   {
+    "id": 2546,
+    "titre": "Scandale des crèches privées : le livre qui accuse la ministre Aurore Bergé de petits arrangements",
+    "contenu": "Dans « les Ogres », à paraître le 18 septembre, le journaliste Victor Castanet affirme que l’ancienne ministre en charge de la Famille Aurore Bergé et Elsa Hervy, porte-parole du lobby des crèches privées, se sont entendues secrètement pour éviter une tempête médiatique. La ministre s’en défend.",
+    "url": "https://www.leparisien.fr/societe/famille/scandale-des-creches-privees-le-livre-qui-denonce-les-petits-arrangements-de-la-ministre-aurore-berge-13-09-2024-CIAWTZCMLBFKBKUBVLWCGGAOYQ.php",
+    "date": "2024-09-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 888,
+        "value": "Aurore Bergé"
+      },
+      {
+        "id": 889,
+        "value": "Elsa Hervy"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 43,
+        "value": "Ministère du travail"
+      },
+      {
+        "id": 232,
+        "value": "Fédération française des entreprises de crèches (FFEC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2682,
+        "value": "Social"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2545,
     "titre": "Compiègne : la justice ouvre une enquête contre une élue soupçonnée de prise illégale d’intérêts",
     "contenu": "Une enquête préliminaire a été ouverte par le procureur de la République de Compiègne, suite à un signalement de l’association Anticor 60, qui accuse la conseillère municipale déléguée au commerce d’avoir été présente lors de l’attribution d’une subvention à son propre magasin.",
@@ -134,6 +187,55 @@
         "value": "Relaxe / classement"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2548,
+    "titre": "Les contours du projet de Parquet national anticriminalité organisée pour lutter contre le narcotrafic et le blanchiment",
+    "contenu": "Dans un rapport que « Le Monde » s’est procuré, Jean-François Ricard, conseiller spécial du garde des sceaux, présente les solutions envisagées après l’audition de plus de 200 acteurs de la chaîne pénale.",
+    "url": "https://www.lemonde.fr/societe/article/2024/09/12/lutte-contre-le-narcotrafic-et-le-blanchiment-magistrats-specialises-coordination-renforcee-les-contours-du-projet-de-parquet-national-anticriminalite-organisee_6314288_3224.html",
+    "date": "2024-09-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1765,
+        "value": "Jean-François Ricard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 772,
+        "value": "Parquet national anticriminalité organisée (PNACO)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      },
+      {
+        "id": 2664,
+        "value": "Drogue"
+      }
+    ],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -282,6 +384,63 @@
       {
         "id": 2692,
         "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2547,
+    "titre": "Procès de l'ATC : le tribunal condamne et requalifie les faits en retenant la négligence",
+    "contenu": "En juin dernier, six personnes ont été jugées notamment pour des faits de détournement de fonds publics de 2012 à 2015. Dans son délibéré, rendu ce mardi 10 septembre, le tribunal a condamné les principaux prévenus en retenant la négligence, écartant de fait le caractère intentionnel de l'infraction.",
+    "url": "https://www.corsematin.com/article/faits-diversjustice/5250108848138114/proces-de-latc-le-tribunal-condamne-et-requalifie-les-faits-en-retenant-la-negligence",
+    "date": "2024-09-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2722,
+        "value": "2A - Corse-du-Sud"
+      },
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2135,
+        "value": "Vanina Pieri"
+      },
+      {
+        "id": 2136,
+        "value": "Didier Leonetti"
+      },
+      {
+        "id": 2137,
+        "value": "Alexandre Lanfranchi"
+      },
+      {
+        "id": 2138,
+        "value": "Jean-Pierre Casalta"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 967,
+        "value": "Agence du tourisme de la Corse (ATC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
       }
     ],
     "titre_corrige": "",
