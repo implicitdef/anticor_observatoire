@@ -1,5 +1,127 @@
 [
   {
+    "id": 2550,
+    "titre": "Accusé de prise illégale d’intérêts, l'ancien maire de Valbonne blanchi par la justice",
+    "contenu": "Une association de boxe accuse l’ancien maire de Valbonne, Marc Daunis et son 1er adjoint de l’époque de prise illégale d’intérêts. Ce vendredi matin, le tribunal judiciaire de Grasse a blanchi les élus.",
+    "url": "https://www.nicematin.com/justice/accuse-de-prise-illegale-d-interets-l-ancien-maire-de-valbonne-est-blanchi-par-la-justice-944553",
+    "date": "2024-09-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2140,
+        "value": "Marc Daunis"
+      },
+      {
+        "id": 2141,
+        "value": "Christophe Etoré"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2551,
+    "titre": "Deux nouvelles mises en examen après les poursuites contre un élu, la question de la corruption et du blanchiment au cœur du dossier",
+    "contenu": "Deux nouvelles mises en examen dans l'affaire Fourcassier, cet ancien maire de Saint-Jory en Haute-Garonne, poursuivi pour corruption passive et trafic d'influence. Le Gérant d'une agence de voyages et l'épouse de l'ancien élu sont à leur tour suspectés de complicité de corruption, abus de bien sociaux et recel.",
+    "url": "https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/deux-nouvelles-mises-en-examen-apres-les-poursuites-contre-un-elu-la-question-de-la-corruption-et-du-blanchiment-au-c-ur-du-dossier-3031397.html",
+    "date": "2024-09-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2725,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 605,
+        "value": "Thierry Fourcassier"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2549,
+    "titre": "En pleine campagne pour la présidence de la FFR : le maire de Gruissan, Didier Codorniou, visé par une enquête",
+    "contenu": "L’Équipe a révélé vendredi que Didier Cordorniou, le maire de Gruissan depuis 2001, était visé par une enquête dans le cadre de l’exercice de ses fonctions. L’Indépendant est en mesure de confirmer qu’une perquisition a bien eu lieu, jeudi 12 septembre, dans les locaux de la mairie. Elle concerne un dossier datant de 2019 concernant l’aménagement du plan d’eau des Ayguades.",
+    "url": "https://www.lindependant.fr/2024/09/13/perquisition-a-la-mairie-de-gruissan-didier-codorniou-visee-par-une-enquete-12195999.php",
+    "date": "2024-09-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2707,
+        "value": "11 - Aude"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2139,
+        "value": "Didier Cordorniou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 194,
+        "value": "Fédération française de rugby (FFR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2544,
     "titre": "L'ancienne ministre et sénatrice de Saint-Pierre et Miquelon Annick Girardin déclarée inéligible pour un an par le Conseil constitutionnel",
     "contenu": "L'ancienne ministre des Outre-mers (2017-2020) puis de la Mer (2020-2022) Annick Girardin a été déclarée inéligible pour une durée d'un an par le Conseil constitutionnel, invalidant de fait son élection en tant que sénatrice de Saint-Pierre et Miquelon en septembre 2023. Le Conseil constitutionnel a émis ce vendredi sa décision finale et prononcé \"l’inéligibilité de Mme. Girardin à tout mandat pour une durée d’un an à compter de la présente décision et de la déclarer démissionnaire d’office\". Le Conseil constitutionnel indique avoir constaté des irrégularités dans le dépôt des comptes de campagne de l'ancienne ministre.",
