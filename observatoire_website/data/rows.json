@@ -1,5 +1,199 @@
 [
   {
+    "id": 2554,
+    "titre": "CJIP Sotec : 520 000 € d’amende d’intérêt public pour complicité de corruption active d’agents publics étrangers",
+    "contenu": "Le 8 juillet 2024, le parquet de Paris et la société de droit gabonais Sotec ont conclu une Convention judiciaire d’intérêt public (CJIP). Aux termes de cette convention, validée deux jours plus tard par le président du Tribunal judiciaire de Paris, la société a accepté de payer une amende publique de 520 000 € en raison de faits de complicité de corruption active d’agents publics étrangers.",
+    "url": "https://www.dalloz-actualite.fr/flash/cjip-sotec-520-000-d-amende-d-interet-public-pour-complicite-de-corruption-active-d-agents-pub",
+    "date": "2024-09-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2797,
+        "value": "Gabon"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 87,
+        "value": "Tracfin"
+      },
+      {
+        "id": 968,
+        "value": "Consortium international de travaux publics (CITP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2691,
+        "value": "Convention judiciaire d'intérêt public (CJIP)"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2553,
+    "titre": "Le procès du bailleur social HMP rouvre un chapitre de vieilles pratiques politiques",
+    "contenu": "Six personnes comparaissent cette semaine au tribunal correctionnel de Marseille pour favoritisme et détournement de fonds publics. Un dossier de probité qui mêle anciens cadres de HMP et avocats proches de la droite locale, époque Gaudin.",
+    "url": "https://marsactu.fr/le-proces-du-bailleur-social-hmp-rouvre-un-chapitre-de-vieilles-pratiques-politiques/",
+    "date": "2024-09-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1463,
+        "value": "Renaud Muselier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 607,
+        "value": "Habitat Marseille Provence"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3053,
+        "value": "Logement"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2552,
+    "titre": "Procès des assistants parlementaires du FN : Marine Le Pen face au barrage de l’inéligibilité",
+    "contenu": "Poursuivie notamment pour «détournements de fonds publics», la patronne des députés d’extrême droite doit comparaître fin septembre dans l’affaire des collaborateurs européens qui menace ses ambitions pour la présidentielle de 2027.",
+    "url": "https://www.liberation.fr/societe/police-justice/proces-des-assistants-parlementaires-du-fn-marine-le-pen-face-au-barrage-de-lineligibilite-20240915_7CIDE3SNORCBHFF2EZ6ZDAJBLM/",
+    "date": "2024-09-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 412,
+        "value": "Julien Odoul"
+      },
+      {
+        "id": 694,
+        "value": "Louis Aliot"
+      },
+      {
+        "id": 2142,
+        "value": "Catherine Griset"
+      },
+      {
+        "id": 2143,
+        "value": "Thierry Légier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2555,
+    "titre": "Soupçons de favoritisme à la Maison des élèves, le dossier rebondit à Nîmes",
+    "contenu": "Le procureur d’Alès, Abdelkrim Grini s’est dessaisi, au profit du parquet de Nîmes, du dossier de la construction de la résidence étudiante gérée par les anciens élèves des Mines.",
+    "url": "https://www.midilibre.fr/2024/09/15/soupcons-de-favoritisme-a-la-maison-des-eleves-le-dossier-rebondit-a-nimes-12198090.php",
+    "date": "2024-09-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2724,
+        "value": "30 - Gard"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 28,
+        "value": "École nationale supérieure des mines d'Alès"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2550,
     "titre": "Accusé de prise illégale d’intérêts, l'ancien maire de Valbonne blanchi par la justice",
     "contenu": "Une association de boxe accuse l’ancien maire de Valbonne, Marc Daunis et son 1er adjoint de l’époque de prise illégale d’intérêts. Ce vendredi matin, le tribunal judiciaire de Grasse a blanchi les élus.",
