@@ -1,5 +1,153 @@
 [
   {
+    "id": 2557,
+    "titre": "« EM souhaite qu’on avance vite » : les mails d’un patron de McKinsey accablent le président",
+    "contenu": "Une enquête de « Cash Investigation » révèle des échanges inédits qui confirment l’implication d’une équipe du cabinet de conseil américain dans l’élection d’Emmanuel Macron en 2017. La loi interdit pourtant aux entreprises d’aider les candidats.",
+    "url": "https://www.mediapart.fr/journal/france/170924/em-souhaite-qu-avance-vite-les-mails-d-un-patron-de-mckinsey-accablent-le-president",
+    "date": "2024-09-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 648,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 1855,
+        "value": "Karim Tadjeddine"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 397,
+        "value": "McKinsey & Company"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2660,
+        "value": "Conseil"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2560,
+    "titre": "Affaire des assistants du RN : le « système » Le Pen raconté de l’intérieur",
+    "contenu": "Ancien collaborateur de trois eurodéputés Front national (FN, devenu Rassemblement national en 2018), Nicolas Franchinard a accepté de raconter à Mediapart les coulisses de l’affaire des soupçons d’emplois fictifs du parti d’extrême droite au Parlement européen.",
+    "url": "https://www.mediapart.fr/journal/france/170924/affaire-des-assistants-du-rn-le-systeme-le-pen-raconte-de-l-interieur",
+    "date": "2024-09-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 1311,
+        "value": "Jean-Luc Schaffhauser"
+      },
+      {
+        "id": 1981,
+        "value": "Nicolas Lesage"
+      },
+      {
+        "id": 2049,
+        "value": "Charles Van Houtte"
+      },
+      {
+        "id": 2151,
+        "value": "Nicolas Franchinard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2559,
+    "titre": "Dans l'Allier, l'ancien président du Conseil départemental Jean-Paul Dufrègne poursuivi pour détournement de fonds publics",
+    "contenu": "L'ancien président du Conseil départemental de l'Allier, Jean-Paul Dufrègne, est poursuivi pour détournement de fonds publics et complicité de faux en écriture publique. Le délibéré sera rendu le 18 octobre.",
+    "url": "https://www.lamontagne.fr/moulins-03000/actualites/dans-l-allier-jean-paul-dufregne-poursuivi-pour-detournement-de-fonds-publics-jugement-le-18-octobre_14563978/",
+    "date": "2024-09-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2700,
+        "value": "03 - Allier"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1666,
+        "value": "Jean-Paul Dufrègne"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2556,
     "titre": "Ingérences du Qatar : le rôle de l’avocat William Bourdon en question",
     "contenu": "L’avocat pénaliste a été rémunéré par deux intermédiaires, actuellement mis en examen, pour déposer des plaintes contre des personnalités liées à des régimes rivaux du Qatar. Il affirme n’avoir rien su des intentions réelles de ses bailleurs de fonds.",
@@ -121,6 +269,42 @@
     "a_la_une": false
   },
   {
+    "id": 2561,
+    "titre": "Le maire de Rethel, Joseph Afribo, sera jugé en octobre pour détournement de fonds publics",
+    "contenu": "Joseph Afribo comparaîtra devant le tribunal correctionnel de Charleville-Mézières le 21 octobre, dans l’affaire dite des « enveloppes ». Il encourt jusqu’à dix ans de prison et dix ans d’inéligibilité, indique le parquet de Charleville. Il est reproché à l’élu, qui fut durant 32 ans maire du village d’Acy-Romance, d’avoir encaissé, chaque année pendant trois décennies, des enveloppes d’argent liquide déposées en mairie par deux agriculteurs.",
+    "url": "https://www.lardennais.fr/id640811/article/2024-09-16/le-maire-de-rethel-joseph-afribo-sera-juge-en-octobre-pour-detournement-de-fonds",
+    "date": "2024-09-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2705,
+        "value": "08 - Ardennes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1903,
+        "value": "Joseph Afribo"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2553,
     "titre": "Le procès du bailleur social HMP rouvre un chapitre de vieilles pratiques politiques",
     "contenu": "Six personnes comparaissent cette semaine au tribunal correctionnel de Marseille pour favoritisme et détournement de fonds publics. Un dossier de probité qui mêle anciens cadres de HMP et avocats proches de la droite locale, époque Gaudin.",
@@ -167,6 +351,79 @@
     "a_la_une": false
   },
   {
+    "id": 2558,
+    "titre": "Le leader mondial du conseil Accenture a voulu piéger l’émission « Cash Investigation »",
+    "contenu": "Pour tenter de piéger les équipes d’Élise Lucet, le cabinet de conseil Accenture a mis sur pied une opération digne du « Bureau des légendes », d’après les aveux de son initiateur. Mediapart en révèle tous les détails.",
+    "url": "https://www.mediapart.fr/journal/france/150924/le-leader-mondial-du-conseil-accenture-voulu-pieger-l-emission-cash-investigation",
+    "date": "2024-09-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 678,
+        "value": "David Layani"
+      },
+      {
+        "id": 2148,
+        "value": "Élise Lucet"
+      },
+      {
+        "id": 2149,
+        "value": "Samuel Tamba"
+      },
+      {
+        "id": 2150,
+        "value": "Sophie Le Gall"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 88,
+        "value": "Onepoint"
+      },
+      {
+        "id": 116,
+        "value": "Ministère des armées"
+      },
+      {
+        "id": 368,
+        "value": "Accenture"
+      },
+      {
+        "id": 389,
+        "value": "France Télévisions"
+      },
+      {
+        "id": 969,
+        "value": "Premières Lignes télévision (PLTV)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias"
+      },
+      {
+        "id": 2660,
+        "value": "Conseil"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2552,
     "titre": "Procès des assistants parlementaires du FN : Marine Le Pen face au barrage de l’inéligibilité",
     "contenu": "Poursuivie notamment pour «détournements de fonds publics», la patronne des députés d’extrême droite doit comparaître fin septembre dans l’affaire des collaborateurs européens qui menace ses ambitions pour la présidentielle de 2027.",
@@ -177,6 +434,14 @@
       {
         "id": 2762,
         "value": "75 - Paris"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
       }
     ],
     "personnalites": [
