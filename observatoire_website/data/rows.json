@@ -1,5 +1,74 @@
 [
   {
+    "id": 2556,
+    "titre": "Ingérences du Qatar : le rôle de l’avocat William Bourdon en question",
+    "contenu": "L’avocat pénaliste a été rémunéré par deux intermédiaires, actuellement mis en examen, pour déposer des plaintes contre des personnalités liées à des régimes rivaux du Qatar. Il affirme n’avoir rien su des intentions réelles de ses bailleurs de fonds.",
+    "url": "https://www.lemonde.fr/pixels/article/2024/09/17/ingerences-du-qatar-le-role-de-l-avocat-william-bourdon-en-question_6320865_4408996.html",
+    "date": "2024-09-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2807,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 602,
+        "value": "Jean-Pierre Duthion"
+      },
+      {
+        "id": 1111,
+        "value": "Nabil Enassri"
+      },
+      {
+        "id": 1604,
+        "value": "William Bourdon"
+      },
+      {
+        "id": 1876,
+        "value": "Ahmed Naser Al-Raisi"
+      },
+      {
+        "id": 2144,
+        "value": "Ahmed Al-Assiri"
+      },
+      {
+        "id": 2145,
+        "value": "Jamal Khashoggi"
+      },
+      {
+        "id": 2147,
+        "value": "Ahmed Mansoor"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 822,
+        "value": "Gulf Centre for Human Rights"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2554,
     "titre": "CJIP Sotec : 520 000 € d’amende d’intérêt public pour complicité de corruption active d’agents publics étrangers",
     "contenu": "Le 8 juillet 2024, le parquet de Paris et la société de droit gabonais Sotec ont conclu une Convention judiciaire d’intérêt public (CJIP). Aux termes de cette convention, validée deux jours plus tard par le président du Tribunal judiciaire de Paris, la société a accepté de payer une amende publique de 520 000 € en raison de faits de complicité de corruption active d’agents publics étrangers.",
