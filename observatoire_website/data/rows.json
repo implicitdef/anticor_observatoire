@@ -1,5 +1,118 @@
 [
   {
+    "id": 2562,
+    "titre": "Affaire Bardella : «Libération» publie une partie des faux documents fabriqués par l’actuel président du RN",
+    "contenu": "Selon Libération, un agenda 2015 a été livré au siège du Rassemblement national en 2018, puis rempli à la main par Jordan Bardella, dans le but de lui fabriquer de fausses preuves du travail qu’il n’a semble-t-il jamais effectué à l’époque où il était l’assistant parlementaire de l’eurodéputé Jean-François Jalkh.",
+    "url": "https://www.liberation.fr/politique/elections/affaire-bardella-liberation-publie-une-partie-des-faux-documents-fabriques-par-lactuel-president-du-rn-20240919_OQ576RLFNZGS3AGSA4MHCSGHHA/",
+    "date": "2024-09-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 804,
+        "value": "Jean-François Jalkh"
+      },
+      {
+        "id": 1019,
+        "value": "Jordan Bardella"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2565,
+    "titre": "Blanchiment de fraude fiscale: amende de 6 millions d'euros pour la Danske Bank en France",
+    "contenu": "La première banque du Danemark a vu sa réputation entachée à partir de 2018 par un gigantesque scandale de blanchiment au travers de sa succursale estonienne, la Sampo Bank, absorbée en 2007.",
+    "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/blanchiment-de-fraude-fiscale-amende-de-6-millions-d-euros-pour-la-danske-bank-en-france_AD-202409180541.html",
+    "date": "2024-09-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3074,
+        "value": "Danemark"
+      },
+      {
+        "id": 2811,
+        "value": "Russie"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 87,
+        "value": "Tracfin"
+      },
+      {
+        "id": 970,
+        "value": "Danske Bank"
+      },
+      {
+        "id": 971,
+        "value": "Decobat"
+      },
+      {
+        "id": 972,
+        "value": "Sampo Bank"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2691,
+        "value": "Convention judiciaire d'intérêt public (CJIP)"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2557,
     "titre": "« EM souhaite qu’on avance vite » : les mails d’un patron de McKinsey accablent le président",
     "contenu": "Une enquête de « Cash Investigation » révèle des échanges inédits qui confirment l’implication d’une équipe du cabinet de conseil américain dans l’élection d’Emmanuel Macron en 2017. La loi interdit pourtant aux entreprises d’aider les candidats.",
@@ -117,6 +230,51 @@
     "a_la_une": false
   },
   {
+    "id": 2563,
+    "titre": "Affaire Perdriau : \"On est en présence de gens qui jouent la montre\", le procès pourrait ne pas se tenir avant 2026",
+    "contenu": "Selon l'avocat de Gilles Artigues, le maire de Saint-Etienne Gaël Perdriau jouerait la montre dans l’affaire dite du \"chantage à la sextape\". Le procès pourrait ne pas se tenir avant les élections municipales de 2026.",
+    "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/loire/saint-etienne/affaire-perdriau-on-est-en-presence-de-gens-qui-jouent-la-montre-le-proces-pourrait-ne-pas-se-tenir-avant-2026-3033641.html",
+    "date": "2024-09-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2736,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 937,
+        "value": "Gaël Perdriau"
+      },
+      {
+        "id": 938,
+        "value": "Gilles Artigues"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2559,
     "titre": "Dans l'Allier, l'ancien président du Conseil départemental Jean-Paul Dufrègne poursuivi pour détournement de fonds publics",
     "contenu": "L'ancien président du Conseil départemental de l'Allier, Jean-Paul Dufrègne, est poursuivi pour détournement de fonds publics et complicité de faux en écriture publique. Le délibéré sera rendu le 18 octobre.",
@@ -213,6 +371,113 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2566,
+    "titre": "La garde à vue de François Caillé levée, une enquête ouverte pour des faits présumés de corruption",
+    "contenu": "La garde à vue de François Caillé, PDG du groupe du même nom, est levée, ce mardi 17 septembre. Depuis des perquisitions hier au siège du groupe à Saint-Denis, lui et deux autres personnes étaient entendus au commissariat de Malartic. Une enquête est ouverte sur des faits présumés de corruption, et de trafic d'influence.",
+    "url": "https://la1ere.francetvinfo.fr/reunion/la-garde-a-vue-de-francois-caille-prolongee-une-enquete-ouverte-pour-des-faits-presumes-de-corruption-1522292.html",
+    "date": "2024-09-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2786,
+        "value": "974 - La Réunion"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2152,
+        "value": "François Caillé"
+      },
+      {
+        "id": 2153,
+        "value": "Nelly Darouèche"
+      },
+      {
+        "id": 2154,
+        "value": "David Vital"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 973,
+        "value": "Groupe Caillé"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2564,
+    "titre": "Scandale de l'Aselqo à Orléans : les primes touchées par l'ancienne équipe de direction étaient bien illégales",
+    "contenu": "Quatre anciens cadres de l'Aselqo condamnés ce mardi dans l'affaire des primes qui avaient ébranlé l'association d'animation urbaine à Orléans. La justice estime qu'ils ont perçu illégalement 330 000 euros en six ans : une somme qu'ils devront rembourser. L'ancien président est en revanche relaxé.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/scandale-de-l-aselqo-a-orleans-les-primes-touchees-par-l-equipe-de-direction-etaient-bien-illegales-8055612",
+    "date": "2024-09-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2739,
+        "value": "45 - Loiret"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1570,
+        "value": "Lionel Beaumont"
+      },
+      {
+        "id": 1571,
+        "value": "Bertrand Perrier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 673,
+        "value": "Anim'Orléans (ex-Aselqo)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2682,
+        "value": "Social"
+      },
+      {
+        "id": 3049,
+        "value": "Associatif / caritatif"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      },
+      {
+        "id": 2697,
+        "value": "Relaxe / classement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
