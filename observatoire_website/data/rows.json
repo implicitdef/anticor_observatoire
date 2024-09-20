@@ -52,6 +52,51 @@
     "a_la_une": true
   },
   {
+    "id": 2567,
+    "titre": "Bernard Arnault impose sa \"blacklist\" de médias aux cadres de LVMH",
+    "contenu": "Dans un mail, le PDG de LVMH dresse une liste de sept médias auxquels les dirigeants du groupe ont une interdiction absolue de parler sous peine de licenciement. La Lettre dévoile ce document interne envoyé aux membres du Comité exécutif.",
+    "url": "https://www.lalettre.fr/fr/entreprises_luxe-et-conso/2024/09/18/bernard-arnault-impose-sa-blacklist-de-medias-aux-cadres-de-lvmh,110307222-fac",
+    "date": "2024-09-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 690,
+        "value": "Bernard Arnault"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias"
+      },
+      {
+        "id": 3027,
+        "value": "Luxe"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2565,
     "titre": "Blanchiment de fraude fiscale: amende de 6 millions d'euros pour la Danske Bank en France",
     "contenu": "La première banque du Danemark a vu sa réputation entachée à partir de 2018 par un gigantesque scandale de blanchiment au travers de sa succursale estonienne, la Sampo Bank, absorbée en 2007.",
