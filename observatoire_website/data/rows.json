@@ -1,7 +1,7 @@
 [
   {
     "id": 2562,
-    "titre": "Affaire Bardella : «Libération» publie une partie des faux documents fabriqués par l’actuel président du RN",
+    "titre": "Affaire Bardella : Libération publie une partie des faux documents fabriqués par l’actuel président du RN",
     "contenu": "Selon Libération, un agenda 2015 a été livré au siège du Rassemblement national en 2018, puis rempli à la main par Jordan Bardella, dans le but de lui fabriquer de fausses preuves du travail qu’il n’a semble-t-il jamais effectué à l’époque où il était l’assistant parlementaire de l’eurodéputé Jean-François Jalkh.",
     "url": "https://www.liberation.fr/politique/elections/affaire-bardella-liberation-publie-une-partie-des-faux-documents-fabriques-par-lactuel-president-du-rn-20240919_OQ576RLFNZGS3AGSA4MHCSGHHA/",
     "date": "2024-09-19",
@@ -50,6 +50,118 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2570,
+    "titre": "Contrôle des mobilités professionnelles : la Haute Autorité examine désormais le risque d’influence étrangère",
+    "contenu": "Pour la première fois depuis la promulgation de la loi n° 2024-850 du 25 juillet 2024 visant à prévenir les ingérences étrangères en France, la Haute Autorité publie des avis relatifs aux projets de mobilité professionnelle de responsables publics pour lesquels elle apprécie le risque d’influence étrangère.",
+    "url": "https://www.hatvp.fr/presse/controle-des-mobilites-professionnelles-la-haute-autorite-examine-desormais-le-risque-dinfluence-etrangere/",
+    "date": "2024-09-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2569,
+    "titre": "Soupçons de malversations dans la gestion du circuit d'Albi, l'ancien gestionnaire convoqué par la justice pour une procédure de composition pénale",
+    "contenu": "L'ancien gestionnaire du circuit d'Albi est convoqué ce vendredi 20 septembre 2024 au tribunal pour une procédure de composition pénale, selon une source proche du dossier. Didier Sirgue est visé depuis plusieurs années par une enquête pour détournement d'argent public, corruption et prise illégale d'intérêt.",
+    "url": "https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/malversations-dans-la-gestion-du-circuit-d-albi-l-ancien-gestionnaire-convoque-par-la-justice-pour-une-audience-de-plaider-coupable-3034850.html",
+    "date": "2024-09-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2771,
+        "value": "81 - Tarn"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2156,
+        "value": "Didier Sirgue"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 975,
+        "value": "Circuit d'Albi"
+      },
+      {
+        "id": 976,
+        "value": "DS Events"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2568,
+    "titre": "Tout ce qui est reproché à Yannick Lucot, l'ancien directeur de Viltaïs, cité à comparaître le 11 décembre devant le tribunal",
+    "contenu": "Yannick Lucot, l’ancien directeur général de Viltaïs, association spécialisée dans la réinsertion et la prise en charge des mineurs isolés, est cité à comparaître, le 11 décembre devant le tribunal de Moulins pour, entre autres, détournement de fonds publics par une personne chargée de missions de service public.",
+    "url": "https://www.lamontagne.fr/moulins-03000/actualites/pourquoi-yannick-lucot-l-ancien-directeur-de-viltais-comparaitra-le-11-decembre-devant-le-tribunal_14565822/",
+    "date": "2024-09-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2700,
+        "value": "03 - Allier"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2155,
+        "value": "Yannick Lucot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 974,
+        "value": "Viltaïs"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2567,
