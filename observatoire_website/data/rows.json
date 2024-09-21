@@ -1,5 +1,67 @@
 [
   {
+    "id": 2571,
+    "titre": "Jugés pour corruption, le PDG et le haut gradé estiment n’avoir rien fait de mal",
+    "contenu": "La location d’avions gros-porteurs pour les opérations extérieures de l’armée française aurait donné lieu à des irrégularités coûteuses. Le patron de la société ICS et un ex-colonel de l’armée de l’air font face à des accusations de favoritisme au tribunal de Paris.",
+    "url": "https://www.mediapart.fr/journal/france/200924/juges-pour-corruption-le-pdg-et-le-haut-grade-estiment-n-avoir-rien-fait-de-mal",
+    "date": "2024-09-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 741,
+        "value": "Philippe Rives"
+      },
+      {
+        "id": 745,
+        "value": "Philippe de Fauque de Jonquières"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 6,
+        "value": "Cour des comptes (CDC)"
+      },
+      {
+        "id": 961,
+        "value": "Centre du soutien des opérations et des acheminements (CSOA)"
+      },
+      {
+        "id": 963,
+        "value": "International Chartering Systems (ICS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2656,
+        "value": "Armement"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2562,
     "titre": "Affaire Bardella : Libération publie une partie des faux documents fabriqués par l’actuel président du RN",
     "contenu": "Selon Libération, un agenda 2015 a été livré au siège du Rassemblement national en 2018, puis rempli à la main par Jordan Bardella, dans le but de lui fabriquer de fausses preuves du travail qu’il n’a semble-t-il jamais effectué à l’époque où il était l’assistant parlementaire de l’eurodéputé Jean-François Jalkh.",
@@ -38131,7 +38193,7 @@
       },
       {
         "id": 745,
-        "value": "Philippe de Jonquières"
+        "value": "Philippe de Fauque de Jonquières"
       }
     ],
     "personnes_morales": [
