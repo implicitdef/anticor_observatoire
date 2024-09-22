@@ -1,5 +1,70 @@
 [
   {
+    "id": 2572,
+    "titre": "CGT-Agroalimentaire : un an de prison avec sursis requis contre l’actuel dirigeant et son prédécesseur",
+    "contenu": "Julien Huck et son père, Alfred, ont comparu, jeudi 19 et vendredi 20 septembre, devant le tribunal de Bobigny dans une affaire de détournements de fonds qui implique également leurs compagnes respectives.",
+    "url": "https://www.lemonde.fr/politique/article/2024/09/21/cgt-agroalimentaire-un-an-de-prison-avec-sursis-requis-contre-l-actuel-dirigeant-et-son-predecesseur_6326323_823448.html",
+    "date": "2024-09-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2766,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2157,
+        "value": "Julien Huck"
+      },
+      {
+        "id": 2158,
+        "value": "Alfred Huck"
+      },
+      {
+        "id": 2159,
+        "value": "Jocelyne Hacquemand"
+      },
+      {
+        "id": 2160,
+        "value": "Diane Grandchamp"
+      },
+      {
+        "id": 2161,
+        "value": "Johnny Neto"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 257,
+        "value": "Confédération générale du travail (CGT)"
+      },
+      {
+        "id": 977,
+        "value": "Fédération nationale agroalimentaire et forestière (FNAF-CGT)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2654,
+        "value": "Agro-alimentaire"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2571,
     "titre": "Jugés pour corruption, le PDG et le haut gradé estiment n’avoir rien fait de mal",
     "contenu": "La location d’avions gros-porteurs pour les opérations extérieures de l’armée française aurait donné lieu à des irrégularités coûteuses. Le patron de la société ICS et un ex-colonel de l’armée de l’air font face à des accusations de favoritisme au tribunal de Paris.",
