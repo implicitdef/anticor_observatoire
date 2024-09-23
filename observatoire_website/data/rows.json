@@ -1,5 +1,102 @@
 [
   {
+    "id": 2574,
+    "titre": "Procès de François Thierry, ex-patron des stups : l’heure des comptes",
+    "contenu": "L’ancien patron de l’Office des stups est jugé à partir de ce 23 septembre devant la cour criminelle du Rhône pour avoir organisé la fausse garde à vue d’un informateur et favorisé l’importation en France de plusieurs tonnes de cannabis. Un scandale emblématique des dérives de la lutte antidrogue.",
+    "url": "https://www.liberation.fr/societe/police-justice/proces-de-francois-thierry-ex-patron-des-stups-lheure-des-comptes-20240923_CJMBMOOF2FHGTC6SJBMUGCETK4/",
+    "date": "2024-09-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 820,
+        "value": "François Thierry"
+      },
+      {
+        "id": 821,
+        "value": "Sophiane Hambli"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 63,
+        "value": "Office antistupéfiants (Ofast)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2664,
+        "value": "Drogue"
+      },
+      {
+        "id": 2677,
+        "value": "Police"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2573,
+    "titre": "Rachida Dati, une ministre confirmée dans le gouvernement Barnier malgré l’épée de Damoclès de la justice",
+    "contenu": "Mise en examen dans l’affaire « Carlos Ghosn » pour « corruption passive », la ministre de la culture a été reconduite au sein du gouvernement Barnier, alors que le Parquet national financier peaufine et va bientôt rendre son réquisitoire définitif en vue d’un éventuel renvoi devant le tribunal correctionnel.",
+    "url": "https://www.lemonde.fr/societe/article/2024/09/22/rachida-dati-une-ministre-confirmee-dans-le-gouvernement-barnier-malgre-l-epee-de-damocles-de-la-justice_6328440_3224.html",
+    "date": "2024-09-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 617,
+        "value": "Carlos Ghosn"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      },
+      {
+        "id": 277,
+        "value": "Ministère de la Culture"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2572,
     "titre": "CGT-Agroalimentaire : un an de prison avec sursis requis contre l’actuel dirigeant et son prédécesseur",
     "contenu": "Julien Huck et son père, Alfred, ont comparu, jeudi 19 et vendredi 20 septembre, devant le tribunal de Bobigny dans une affaire de détournements de fonds qui implique également leurs compagnes respectives.",
