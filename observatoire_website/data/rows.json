@@ -1,5 +1,98 @@
 [
   {
+    "id": 2575,
+    "titre": "La députée Sophia Chikirou mise en examen dans l’affaire des comptes de campagne de LFI de 2017",
+    "contenu": "Cette proche de Jean-Luc Mélenchon, à la fois directrice de la communication et deuxième plus gros prestataire de sa campagne de 2017, est suspectée d’avoir facturé des prestations avec une marge très supérieure à celles pratiquées par ses concurrents.",
+    "url": "https://www.lemonde.fr/societe/article/2024/09/24/sophia-chikirou-entendue-par-les-juges-dans-l-affaire-des-comptes-de-campagne-lfi-de-2017_6330994_3224.html",
+    "date": "2024-09-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 119,
+        "value": "Sophia Chikirou"
+      },
+      {
+        "id": 922,
+        "value": "Jean-Luc Mélenchon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 15,
+        "value": "La France Insoumise (LFI)"
+      },
+      {
+        "id": 180,
+        "value": "Commission nationale des comptes de campagne et des financements politiques (CNCCFP)"
+      },
+      {
+        "id": 474,
+        "value": "Mediascop"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2576,
+    "titre": "Huit mois de sursis requis contre le député Karl Olive pour prise illégale d’intérêts",
+    "contenu": "Plus de dix ans après son élection à la mairie de Poissy (Yvelines), le parquet de Versailles a requis lundi huit mois d'emprisonnement avec sursis contre le député macroniste et ex-maire LR de cette commune, Karl Olive, pour prise illégale d'intérêts pendant son mandat municipal. Le ministère public a également requis six et quatre mois de prison avec sursis contre deux autres prévenus, l'actuel directeur de la jeunesse et des sports à Poissy, et son père, ex-directeur adjoint des services de la mairie. Arrivé à la tête de la commune en 2014, Karl Olive est suspecté d'avoir favorisé par le biais d'un montage juridique le recrutement du premier au poste de directeur de la jeunesse et des sports de la ville.",
+    "url": "https://www.lefigaro.fr/flash-actu/huit-mois-de-sursis-requis-contre-le-depute-karl-olive-pour-prise-illegale-d-interets-20240923",
+    "date": "2024-09-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2768,
+        "value": "78 - Yvelines"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 413,
+        "value": "Karl Olive"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 13,
+        "value": "Renaissance"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2574,
     "titre": "Procès de François Thierry, ex-patron des stups : l’heure des comptes",
     "contenu": "L’ancien patron de l’Office des stups est jugé à partir de ce 23 septembre devant la cour criminelle du Rhône pour avoir organisé la fausse garde à vue d’un informateur et favorisé l’importation en France de plusieurs tonnes de cannabis. Un scandale emblématique des dérives de la lutte antidrogue.",
