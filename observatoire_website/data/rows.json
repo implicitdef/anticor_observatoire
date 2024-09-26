@@ -1,5 +1,218 @@
 [
   {
+    "id": 2578,
+    "titre": "Gouvernement Barnier : des ministres sous influence",
+    "contenu": "Plusieurs poids lourds du nouvel exécutif entretiennent des relations privilégiées avec des lobbies privés. Mediapart passe en revue cinq situations qui semblent être aux antipodes des exigences de défense de l’intérêt général.",
+    "url": "https://www.mediapart.fr/journal/france/250924/gouvernement-barnier-des-ministres-sous-influence",
+    "date": "2024-09-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 83,
+        "value": "Maud Bregeon"
+      },
+      {
+        "id": 214,
+        "value": "Annie Genevard"
+      },
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 2163,
+        "value": "Éric Liégeon"
+      },
+      {
+        "id": 2164,
+        "value": "Nathalie Delattre"
+      },
+      {
+        "id": 2165,
+        "value": "Sophie Primas"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      },
+      {
+        "id": 56,
+        "value": "Ministère de l'agriculture"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 101,
+        "value": "Électricité de France (EDF)"
+      },
+      {
+        "id": 277,
+        "value": "Ministère de la Culture"
+      },
+      {
+        "id": 487,
+        "value": "Parti radical (PR)"
+      },
+      {
+        "id": 569,
+        "value": "Fédération nationale des syndicats d'exploitants agricoles (FNSEA)"
+      },
+      {
+        "id": 978,
+        "value": "Sociétés d'aménagement foncier et d'établissement rural (SAFER)"
+      },
+      {
+        "id": 979,
+        "value": "Vin et société"
+      },
+      {
+        "id": 980,
+        "value": "Nouvelle Énergie (NE)"
+      },
+      {
+        "id": 981,
+        "value": "Institut polytechnique UniLaSalle"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2666,
+        "value": "Énergie"
+      },
+      {
+        "id": 2655,
+        "value": "Alcools"
+      },
+      {
+        "id": 2654,
+        "value": "Agro-alimentaire"
+      },
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2577,
+    "titre": "Le nouveau ministre de la francophonie rattrapé par un micmac d’emplois familiaux au Sénat",
+    "contenu": "Avant de rejoindre l’équipe de Michel Barnier, Thani Mohamed Soilihi s’est retrouvé au cœur d’un curieux échange de collaborateurs au palais du Luxembourg. Il avait recruté, contre l’embauche de l’un de ses proches, l’épouse de son collègue Joël Guerriau, par ailleurs mis en examen pour tentative de viol.",
+    "url": "https://www.mediapart.fr/journal/politique/250924/le-nouveau-ministre-de-la-francophonie-rattrape-par-un-micmac-d-emplois-familiaux-au-senat",
+    "date": "2024-09-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 783,
+        "value": "Joël Guerriau"
+      },
+      {
+        "id": 784,
+        "value": "Christine Guerriau"
+      },
+      {
+        "id": 2162,
+        "value": "Thani Mohamed Soilihi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 12,
+        "value": "Horizons"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2579,
+    "titre": "Après les révélations de «Libération» sur ses faux documents, Jordan Bardella change de version",
+    "contenu": "Après avoir évoqué de «fausses accusations», puis laissé entendre qu’il pouvait bien s’agir de son écriture, le président du RN conteste désormais avoir participé à l’élaboration de ces fausses preuves. «Libé» maintient ses affirmations.",
+    "url": "https://www.liberation.fr/politique/elections/apres-les-revelations-de-liberation-sur-ses-faux-documents-jordan-bardella-change-de-version-20240924_5ZHB4Y4BDFBHHCN2YWRZ3DDFG4/?redirected=1",
+    "date": "2024-09-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 804,
+        "value": "Jean-François Jalkh"
+      },
+      {
+        "id": 1019,
+        "value": "Jordan Bardella"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2575,
     "titre": "La députée Sophia Chikirou mise en examen dans l’affaire des comptes de campagne de LFI de 2017",
     "contenu": "Cette proche de Jean-Luc Mélenchon, à la fois directrice de la communication et deuxième plus gros prestataire de sa campagne de 2017, est suspectée d’avoir facturé des prestations avec une marge très supérieure à celles pratiquées par ses concurrents.",
