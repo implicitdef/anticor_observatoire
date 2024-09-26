@@ -1,5 +1,54 @@
 [
   {
+    "id": 2580,
+    "titre": "Une enquête ouverte contre Vincent Jeanbrun, le maire LR de L’Haÿ-les-Roses, pour prise illégale d’intérêts",
+    "contenu": "Le parquet de Créteil a annoncé l’ouverture d’une enquête contre Vincent Jeanbrun pour prise illégale d’intérêts et recel de prise illégale d’intérêts, confirmant des informations de Mediapart. Le député Les Républicains, aussi maire de L’Haÿ-les-Roses dans le Val-de-Marne, est soupçonné d’avoir attribué des logements à deux de ses collaborateurs, son directeur de cabinet et son chef de cabinet à la mairie. Confiée à la Brigade de répression de la délinquance économique, cette enquête fait suite à un signalement effectué par l’association de lutte contre la corruption Anticor, déposé mi-juillet.",
+    "url": "https://www.liberation.fr/societe/police-justice/une-enquete-ouverte-contre-vincent-jeanbrun-le-maire-lr-de-lhay-les-roses-pour-prise-illegale-dinterets-20240926_FFJFMKWLDZCCDCRJ56NFCJQSLI/?redirected=1",
+    "date": "2024-09-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2781,
+        "value": "94 - Val-de-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2166,
+        "value": "Vincent Jeanbrun"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 33,
+        "value": "Brigade de répression de la délinquance économique (BRDE)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2578,
     "titre": "Gouvernement Barnier : des ministres sous influence",
     "contenu": "Plusieurs poids lourds du nouvel exécutif entretiennent des relations privilégiées avec des lobbies privés. Mediapart passe en revue cinq situations qui semblent être aux antipodes des exigences de défense de l’intérêt général.",
@@ -169,6 +218,42 @@
     "a_la_une": false
   },
   {
+    "id": 2585,
+    "titre": "Patrick Matet, membre du collège de la HATVP, est nommé président par intérim",
+    "contenu": "Patrick Matet, conseiller honoraire à la Cour de cassation, membre et doyen du collège de la Haute Autorité, a été nommé président par intérim de la Haute Autorité.",
+    "url": "https://www.hatvp.fr/presse/patrick-matet-membre-du-college-de-la-haute-autorite-est-nomme-president-par-interim/",
+    "date": "2024-09-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2169,
+        "value": "Patrick Matet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2579,
     "titre": "Après les révélations de «Libération» sur ses faux documents, Jordan Bardella change de version",
     "contenu": "Après avoir évoqué de «fausses accusations», puis laissé entendre qu’il pouvait bien s’agir de son écriture, le président du RN conteste désormais avoir participé à l’élaboration de ces fausses preuves. «Libé» maintient ses affirmations.",
@@ -209,6 +294,37 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2584,
+    "titre": "Dordogne : Condamnation d’un ancien agent administratif pour détournement de fonds",
+    "contenu": "La sentence vient de tomber pour cet ancien agent de l’État qui aurait détourné plus de 330.000 euros",
+    "url": "https://www.20minutes.fr/faits_divers/4111775-20240924-dordogne-condamnation-ancien-agent-administratif-detournement-fonds",
+    "date": "2024-09-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2716,
+        "value": "24 - Dordogne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -265,6 +381,124 @@
     "a_la_une": true
   },
   {
+    "id": 2581,
+    "titre": "Ni médecin esthétique, ni neurologue, Olivier Véran se reconvertit dans… le conseil et le lobbying",
+    "contenu": "Selon les informations de « La Lettre », l'ancien député de l'Isère et ex-ministre de la Santé, Olivier Véran, a créé le 5 août dernier – soit moins d'un mois après les élections législatives – une société de conseil, baptisée Innov. Cette reconversion lui permettra, entre autres, de vendre son carnet d'adresses politique à des entreprises ou des entités publiques, selon le média.",
+    "url": "https://www.marianne.net/politique/ni-medecin-esthetique-ni-neurologue-olivier-veran-se-reconvertit-dans-le-conseil-et-le-lobbying",
+    "date": "2024-09-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2732,
+        "value": "38 - Isère"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 666,
+        "value": "Olivier Véran"
+      },
+      {
+        "id": 1085,
+        "value": "Xavier Niel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 103,
+        "value": "Ministère de la Santé"
+      },
+      {
+        "id": 983,
+        "value": "Lunettes pour tous"
+      },
+      {
+        "id": 984,
+        "value": "DrugOptimal"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2583,
+    "titre": "Des peines clémentes requises contre deux généraux « chefs de tout, mais responsables de rien »",
+    "contenu": "Des peines de prison avec sursis ont été réclamées lundi contre deux généraux, un colonel et un chef d’entreprise, tous protagonistes de l’affaire de location d’avions gros-porteurs pour les opérations extérieures de l'armée française, qui aurait donné lieu à des irrégularités coûteuses.",
+    "url": "https://www.mediapart.fr/journal/france/230924/des-peines-clementes-requises-contre-deux-generaux-chefs-de-tout-mais-responsables-de-rien",
+    "date": "2024-09-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 741,
+        "value": "Philippe Rives"
+      },
+      {
+        "id": 742,
+        "value": "Philippe Boussard"
+      },
+      {
+        "id": 744,
+        "value": "Christophe Marie"
+      },
+      {
+        "id": 745,
+        "value": "Philippe de Fauque de Jonquières"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 963,
+        "value": "International Chartering Systems (ICS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2656,
+        "value": "Armement"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2576,
     "titre": "Huit mois de sursis requis contre le député Karl Olive pour prise illégale d’intérêts",
     "contenu": "Plus de dix ans après son élection à la mairie de Poissy (Yvelines), le parquet de Versailles a requis lundi huit mois d'emprisonnement avec sursis contre le député macroniste et ex-maire LR de cette commune, Karl Olive, pour prise illégale d'intérêts pendant son mandat municipal. Le ministère public a également requis six et quatre mois de prison avec sursis contre deux autres prévenus, l'actuel directeur de la jeunesse et des sports à Poissy, et son père, ex-directeur adjoint des services de la mairie. Arrivé à la tête de la commune en 2014, Karl Olive est suspecté d'avoir favorisé par le biais d'un montage juridique le recrutement du premier au poste de directeur de la jeunesse et des sports de la ville.",
@@ -300,6 +534,55 @@
       {
         "id": 2695,
         "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2582,
+    "titre": "Périgord : Les magouilles financières de l’élu-entrepreneur Thierry Gauthier",
+    "contenu": "Homme d'affaires influent et élu local du Périgord, Thierry Gauthier aurait usé de son statut de conseiller communautaire pour transformer ses terrains agricoles en terrain constructible. Une plainte a été déposée pour prise illégale d’intérêt.",
+    "url": "https://www.streetpress.com/sujet/1726829765-perigord-magouilles-financieres-elu-entrepreneur-thierry-gauthier-plainte-prise-illegale-interet",
+    "date": "2024-09-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2716,
+        "value": "24 - Dordogne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2167,
+        "value": "Thierry Gauthier"
+      },
+      {
+        "id": 2168,
+        "value": "Jean-Jacques de Peretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 982,
+        "value": "Défendre l’intérêt général en Dordogne (DIGD)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
       }
     ],
     "titre_corrige": "",
