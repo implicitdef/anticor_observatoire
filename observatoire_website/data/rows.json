@@ -1,5 +1,67 @@
 [
   {
+    "id": 2596,
+    "titre": "«Nous avons reçu 41 CV depuis la dissolution»: quand les petites mains des cabinets ministériels tentent de se recaser dans le privé",
+    "contenu": "Depuis la nomination du gouvernement Barnier, les regards sont tournés vers les ministres sortants, pour connaître leurs futures aventures. Certains finiront-ils par céder aux sirènes des cabinets de relations publiques,comme Marlène Schiappa l’avait fait chez Tilder l’an passé ? Dans l’ombre, une valse plus rythmée que celle des ministres se joue depuis plusieurs semaines déjà : celle des conseillers et petites mains des cabinets ministériels, qui tentent de se recaser dans le privé après un passage en politique.",
+    "url": "https://www.lefigaro.fr/medias/nous-avons-recu-41-cv-depuis-la-dissolution-quand-les-petites-mains-des-cabinets-ministeriels-tentent-de-se-recaser-dans-le-prive-20240927",
+    "date": "2024-09-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2595,
+    "titre": "À Armentières, l’affaire Oulkébir fait trembler la mairie et enfonce un peu plus les précaires",
+    "contenu": "L’ancien directeur du centre social Roger Salengro d’Armentières est suspecté d’importants détournements de fonds destinés aux plus défavorisés. Fort d’appuis politiques et maçonniques, El Madani Oulkébir a longtemps bénéficié d’un aveuglement coupable.",
+    "url": "https://www.mediacites.fr/enquete/lille/2024/09/26/a-armentieres-laffaire-oulkebir-fait-trembler-la-mairie-et-enfonce-un-peu-plus-les-precaires/",
+    "date": "2024-09-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2749,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2177,
+        "value": "El Madani Oulkébir"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 985,
+        "value": "Centre Social Salengro"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2592,
     "titre": "Affaire Chikirou : les faits face à une communication mensongère",
     "contenu": "Depuis sa mise en examen dans l’affaire de la campagne 2017 de Jean-Luc Mélenchon, la députée Sophia Chikirou multiplie les protestations contre un « acharnement judiciaire » dans un dossier qui serait vide. Mediapart publie les éléments ayant justifié sa mise en examen.",
@@ -40,6 +102,46 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2594,
+    "titre": "Saint-Chamond : des \"dîners privés\" aux frais \"du contribuable\" dénoncés par l'élue d'extrême-droite Isabelle Surply",
+    "contenu": "La conseillère municipale Isabelle Surply accuse la mairie de Saint-Chamond d'organiser des dîners, aux frais des contribuables, factures à l'appui. Elle a déposé une plainte contre le maire Axel Dugua et contre X pour détournements de fonds publics et prise illégale d’intérêt auprès du Procureur de la République de Saint-Étienne.",
+    "url": "https://www.francebleu.fr/infos/politique/saint-chamond-des-diners-prives-aux-frais-du-contribuable-denonces-par-l-elue-d-extreme-droite-isabelle-surply-8629834",
+    "date": "2024-09-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2736,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2175,
+        "value": "Axel Dugua"
+      },
+      {
+        "id": 2176,
+        "value": "Isabelle Surply"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
