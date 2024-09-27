@@ -26,6 +26,55 @@
     "a_la_une": false
   },
   {
+    "id": 2600,
+    "titre": "Accusé d’avoir favorisé un informateur, l’ancien patron des stups François Thierry acquitté",
+    "contenu": "L’ancien patron des stups François Thierry, accusé d’avoir réalisé une garde à vue fictive en 2012, a été acquitté, vendredi 27 septembre, à Lyon, à l’issue d’un procès qui a souvent placé policiers et magistrats dos à dos. La mesure était « procéduralement irrégulière » mais il n’y avait « pas d’intention frauduleuse », car elle avait été menée « sous contrôle » et « en accord avec le parquet de Paris », a déclaré le président de la cour criminelle du Rhône, Eric Chalbos.",
+    "url": "https://www.lemonde.fr/societe/article/2024/09/27/accuse-d-avoir-favorise-un-informateur-l-ancien-patron-des-stups-francois-thierry-acquitte_6336880_3224.html",
+    "date": "2024-09-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 820,
+        "value": "François Thierry"
+      },
+      {
+        "id": 821,
+        "value": "Sophiane Hambli"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 63,
+        "value": "Office antistupéfiants (Ofast)"
+      },
+      {
+        "id": 987,
+        "value": "Office central pour la répression du trafic illicite des stupéfiants (OCRTIS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement / acquittement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2595,
     "titre": "À Armentières, l’affaire Oulkébir fait trembler la mairie et enfonce un peu plus les précaires",
     "contenu": "L’ancien directeur du centre social Roger Salengro d’Armentières est suspecté d’importants détournements de fonds destinés aux plus défavorisés. Fort d’appuis politiques et maçonniques, El Madani Oulkébir a longtemps bénéficié d’un aveuglement coupable.",
@@ -106,6 +155,46 @@
     "a_la_une": false
   },
   {
+    "id": 2599,
+    "titre": "Après l'Élysée, Rhizlane Bouachra rejoint Chanel",
+    "contenu": "La cheffe du service de presse de l'Élysée, Rhizlane Bouchra, quitte la Présidence de la République pour travailler chez Chanel.",
+    "url": "https://www.lalettre.fr/fr/action-publique_elysee-matignon/2024/09/26/apres-l-elysee-rhizlane-bouachra-rejoint-chanel%252C110310636-bre",
+    "date": "2024-09-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2179,
+        "value": "Rhizlane Bouchra"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 643,
+        "value": "Chanel"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2594,
     "titre": "Saint-Chamond : des \"dîners privés\" aux frais \"du contribuable\" dénoncés par l'élue d'extrême-droite Isabelle Surply",
     "contenu": "La conseillère municipale Isabelle Surply accuse la mairie de Saint-Chamond d'organiser des dîners, aux frais des contribuables, factures à l'appui. Elle a déposé une plainte contre le maire Axel Dugua et contre X pour détournements de fonds publics et prise illégale d’intérêt auprès du Procureur de la République de Saint-Étienne.",
@@ -142,6 +231,46 @@
         "value": "Plainte"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2598,
+    "titre": "Une enquête du PNF oblige le financier Dominique Romano à sortir de sa retraite israélienne",
+    "contenu": "Relocalisé en Israël, le financier Dominique Romano a dû quitter son exil pour répondre à une convocation de la justice française.",
+    "url": "https://www.lalettre.fr/fr/entreprises_finance/2024/09/26/une-enquete-du-pnf-oblige-le-financier-dominique-romano-a-sortir-de-sa-retraite-israelienne%252C110310694-art",
+    "date": "2024-09-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2800,
+        "value": "Israël"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1587,
+        "value": "Dominique Romano"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -456,6 +585,50 @@
         "value": "Justice"
       }
     ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2597,
+    "titre": "La Commission européenne refuse une plus grande transparence après le scandale \"corrosif\" du pantouflage",
+    "contenu": "La Commission européenne déclare qu'elle ne publiera pas immédiatement les détails des restrictions imposées à Henrik Morch, dont le transfert en début d'année de son département antitrust au cabinet d'avocats Paul, Weiss a suscité des protestations de la médiatrice de l'UE, Emily O'Reilly.",
+    "url": "https://fr.euronews.com/my-europe/2024/09/25/la-commission-europeenne-refuse-une-plus-grande-transparence-apres-le-scandale-corrosif-du",
+    "date": "2024-09-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1780,
+        "value": "Emily O'Reilly"
+      },
+      {
+        "id": 2178,
+        "value": "Henrik Morch"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 175,
+        "value": "Commission Européenne"
+      },
+      {
+        "id": 986,
+        "value": "Paul, Weiss, Rifkind, Wharton & Garrison"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -1883,7 +2056,7 @@
       },
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -2234,7 +2407,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -2507,7 +2680,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -7029,7 +7202,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -8142,7 +8315,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       },
       {
         "id": 2689,
@@ -8271,7 +8444,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -8506,7 +8679,7 @@
       },
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -8916,7 +9089,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -9851,7 +10024,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -14979,7 +15152,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -19060,7 +19233,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -19590,7 +19763,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -27041,7 +27214,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "Thierry Bandrac, ex-directeur des services techniques de Levallois, relaxé",
@@ -27082,7 +27255,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -28165,7 +28338,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -29725,7 +29898,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -31320,7 +31493,7 @@
       },
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "François Bayrou relaxé mais huit prévenus condamnés dans l’affaire des assistants parlementaires européens du MoDem",
@@ -32065,7 +32238,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -32872,7 +33045,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -34608,7 +34781,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -38861,7 +39034,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -39100,7 +39273,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -40910,7 +41083,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -41199,7 +41372,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -42743,7 +42916,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -43143,7 +43316,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -44835,7 +45008,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -44916,7 +45089,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -45910,7 +46083,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -49181,7 +49354,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -49689,7 +49862,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -51876,7 +52049,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -52439,7 +52612,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -52525,7 +52698,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -53540,7 +53713,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -53793,7 +53966,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -55248,7 +55421,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -55627,7 +55800,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -56337,7 +56510,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "Bernard Petit, ex-patron de la PJ parisienne, relaxé dans l'affaire des fuites au 36 quai des Orfèvres",
@@ -58985,7 +59158,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -60054,7 +60227,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -60470,7 +60643,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -61159,7 +61332,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -68493,7 +68666,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -69697,7 +69870,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
@@ -75808,7 +75981,7 @@
     "procedure": [
       {
         "id": 2697,
-        "value": "Relaxe / classement"
+        "value": "Relaxe / classement / acquittement"
       }
     ],
     "titre_corrige": "",
