@@ -1,5 +1,49 @@
 [
   {
+    "id": 2592,
+    "titre": "Affaire Chikirou : les faits face à une communication mensongère",
+    "contenu": "Depuis sa mise en examen dans l’affaire de la campagne 2017 de Jean-Luc Mélenchon, la députée Sophia Chikirou multiplie les protestations contre un « acharnement judiciaire » dans un dossier qui serait vide. Mediapart publie les éléments ayant justifié sa mise en examen.",
+    "url": "https://www.mediapart.fr/journal/france/260924/affaire-chikirou-les-faits-face-une-communication-mensongere",
+    "date": "2024-09-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 119,
+        "value": "Sophia Chikirou"
+      },
+      {
+        "id": 1543,
+        "value": "Marie-Pierre Oprandi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 15,
+        "value": "La France Insoumise (LFI)"
+      },
+      {
+        "id": 474,
+        "value": "Mediascop"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2580,
     "titre": "Une enquête ouverte contre Vincent Jeanbrun, le maire LR de L’Haÿ-les-Roses, pour prise illégale d’intérêts",
     "contenu": "Le parquet de Créteil a annoncé l’ouverture d’une enquête contre Vincent Jeanbrun pour prise illégale d’intérêts et recel de prise illégale d’intérêts, confirmant des informations de Mediapart. Le député Les Républicains, aussi maire de L’Haÿ-les-Roses dans le Val-de-Marne, est soupçonné d’avoir attribué des logements à deux de ses collaborateurs, son directeur de cabinet et son chef de cabinet à la mairie. Confiée à la Brigade de répression de la délinquance économique, cette enquête fait suite à un signalement effectué par l’association de lutte contre la corruption Anticor, déposé mi-juillet.",
@@ -45,6 +89,106 @@
         "value": "Enquête"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2590,
+    "titre": "Affaire François Caillé : nouvelle saisie dans l’enquête sur des soupçons de corruption",
+    "contenu": "Le Groupe Interministériel de Recherche (GIR) a procédé à la saisie d’un bien immobilier appartenant à David Vital, un proche de Caillé. Cette opération intervient dans le cadre de l’enquête portant sur des soupçons de favoritisme, corruption et trafic d’influence autour de l’attribution de marchés publics.",
+    "url": "https://freedom.fr/francois-caille-garde-vue-pour-trafic-dinfluence-et-blanchiment/",
+    "date": "2024-09-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2786,
+        "value": "974 - La Réunion"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2152,
+        "value": "François Caillé"
+      },
+      {
+        "id": 2153,
+        "value": "Nelly Darouèche"
+      },
+      {
+        "id": 2154,
+        "value": "David Vital"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 973,
+        "value": "Groupe Caillé"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2588,
+    "titre": "Du FN au RN : les emplois fictifs, une affaire de père en fille",
+    "contenu": "Alors que s’ouvre lundi 30 septembre le procès des assistants parlementaires du FN-RN, des documents prouvent que le parti d’extrême droite détournait les fonds européens pour rémunérer ses cadres et ses dirigeants bien avant 2004. Le préjudice global est estimé à 6,8 millions d’euros par le Parlement européen.",
+    "url": "https://www.politis.fr/articles/2024/09/enquete-fn-rn-emplois-fictifs-assistants-parlementaires-une-affaire-de-pere-en-fille/",
+    "date": "2024-09-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 665,
+        "value": "Jean-Marie Le Pen"
+      },
+      {
+        "id": 2171,
+        "value": "Jean-Marie Le Chevallier"
+      },
+      {
+        "id": 2172,
+        "value": "Robert Moreau"
+      },
+      {
+        "id": 2173,
+        "value": "Jean-Claude Martinez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -170,6 +314,82 @@
     "a_la_une": true
   },
   {
+    "id": 2589,
+    "titre": "Karine Gonnet, la présidente du tribunal de Fort-de-France, entendue à Paris par le Conseil Supérieur de la Magistrature",
+    "contenu": "La présidente du tribunal de Fort-de-France s'est expliquée ce mercredi (25 septembre) à Paris devant le Conseil supérieur de la magistrature, en parallèle de l’information judiciaire ouverte pour « corruption, prise illégale d’intérêts ou détournement de fonds publics » au CDAD.",
+    "url": "https://rci.fm/martinique/infos/Justice/Karine-Gonnet-la-presidente-du-tribunal-de-Fort-de-France-entendue-Paris-par-le",
+    "date": "2024-09-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2784,
+        "value": "972 - Martinique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2031,
+        "value": "Karine Gonnet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 362,
+        "value": "Conseil supérieur de la magistrature (CSM)"
+      },
+      {
+        "id": 902,
+        "value": "Conseil Départemental de l’Accès au Droit (CDAD)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2591,
+    "titre": "La protection des lanceurs d’alerte progresse mais des lacunes persistent, selon le Défenseur des droits",
+    "contenu": "Les lanceurs d’alerte bénéficient d’une meilleure protection, avec une amélioration du traitement de leurs signalements, mais des lacunes dans la réglementation persistent et leurs droits sont encore trop peu mis en avant par les pouvoirs publics, estime le Défenseur des droits dans un rapport publié mercredi 25 septembre. Dans ce rapport, portant sur les années 2022-2023, l’institution indépendante observe « qu’un tournant a été pris par le droit des lanceurs d’alerte », « nettement plus favorable » sur les protections apportées, « ambitieux » sur le recueil et les conditions de traitement des signalements.",
+    "url": "https://www.lemonde.fr/societe/article/2024/09/25/la-protection-des-lanceurs-d-alerte-progresse-mais-des-lacunes-persistent-selon-le-defenseur-des-droits_6333019_3224.html",
+    "date": "2024-09-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 565,
+        "value": "Défenseur des droits (DDD)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2577,
     "titre": "Le nouveau ministre de la francophonie rattrapé par un micmac d’emplois familiaux au Sénat",
     "contenu": "Avant de rejoindre l’équipe de Michel Barnier, Thani Mohamed Soilihi s’est retrouvé au cœur d’un curieux échange de collaborateurs au palais du Luxembourg. Il avait recruté, contre l’embauche de l’un de ses proches, l’épouse de son collègue Joël Guerriau, par ailleurs mis en examen pour tentative de viol.",
@@ -246,6 +466,46 @@
       {
         "id": 2651,
         "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2593,
+    "titre": "Unibail choisit un communicant des armées pour sa direction sûreté",
+    "contenu": "Pour remplacer le général Christophe Gomart, élu député européen en juin, l'exploitant de centres commerciaux s'apprête à recruter Florent Hivert, un lieutenant-colonel qui quitte l'armée début octobre. Il aura la charge de la sûreté et de la communication de crise du groupe.",
+    "url": "https://www.lalettre.fr/fr/entreprises/2024/09/25/unibail-choisit-un-communicant-des-armees-pour-sa-direction-surete%252C110310413-art",
+    "date": "2024-09-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2174,
+        "value": "Florent Hivert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 116,
+        "value": "Ministère des armées"
+      },
+      {
+        "id": 677,
+        "value": "Unibail-Rodamco-Westfield (URW)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
       }
     ],
     "theme": [],
@@ -442,6 +702,46 @@
     "a_la_une": false
   },
   {
+    "id": 2586,
+    "titre": "Carton rouge : le rapport de l'Agence anticorruption qui accuse la Fédération française de football",
+    "contenu": "Entre les billets en tribune présidentielle distribués sans réel contrôle, le flou régnant sur le nombre de véhicules fournis par son partenaire Volkswagen et leurs bénéficiaires effectifs, en passant par l’absence de registre recensant cadeaux et invitations offertes ainsi que l’attribution hors procédure de contrats de plusieurs centaines de milliers d’euros, la maison mère du foot français s’avère plus que poreuse aux risques de corruption. Tel est l’accablant constat dressé par l’Agence française anticorruption (AFA) à l’issue du contrôle effectué par ses équipes au sein de la Fédération française de football (FFF) et consigné dans un rapport confidentiel daté de janvier 2024.",
+    "url": "https://www.marianne.net/societe/carton-rouge-le-rapport-de-l-agence-anticorruption-qui-accuse-la-federation-francaise-de-football",
+    "date": "2024-09-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 74,
+        "value": "Agence française anticorruption (AFA)"
+      },
+      {
+        "id": 305,
+        "value": "Fédération française de football (FFF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2583,
     "titre": "Des peines clémentes requises contre deux généraux « chefs de tout, mais responsables de rien »",
     "contenu": "Des peines de prison avec sursis ont été réclamées lundi contre deux généraux, un colonel et un chef d’entreprise, tous protagonistes de l’affaire de location d’avions gros-porteurs pour les opérations extérieures de l'armée française, qui aurait donné lieu à des irrégularités coûteuses.",
@@ -534,6 +834,42 @@
       {
         "id": 2695,
         "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2587,
+    "titre": "Le maire de Grand-Fort-Philippe, Sony Clinquart, condamné en appel pour détournement de fonds publics",
+    "contenu": "Le maire de Grand Fort Philippe, Sony Clinquart, a été condamné ce lundi 23 septembre par la cour d'appel du Nord pour détournement de fonds publics. Il écope d'une peine de 6 mois de prison avec sursis, 5.000 euros d'amende et 2 ans d'inéligibilité, pour avoir fait embaucher par la mairie des secrétaires médicales pour les faire travailler à la maison médicale de cette commune de 5.000 habitants du Dunkerquois.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-maire-de-grand-fort-philippe-sony-clinquart-condamne-en-appel-pour-detournement-de-fonds-publics-8815151",
+    "date": "2024-09-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2749,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2170,
+        "value": "Sony Clinquart"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
       }
     ],
     "titre_corrige": "",
