@@ -1,5 +1,174 @@
 [
   {
+    "id": 2603,
+    "titre": "Affaire Alexis Kohler : la question cruciale de la prescription devant la cour d’appel de Paris",
+    "contenu": "La défense d’Alexis Kohler abat mardi devant la cour d'appel de Paris une carte majeure : appuyée par le ministère public, elle demande la prescription d’une bonne partie des faits de prise illégale d'intérêts reprochés au secrétaire général de l’Elysée pour ses liens familiaux avec l’armateur MSC.",
+    "url": "https://www.sudouest.fr/faits-divers/affaire-alexis-kohler-la-question-cruciale-de-la-prescription-devant-la-cour-d-appel-de-paris-21574501.php?csnt=1923dd9fc43",
+    "date": "2024-09-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1068,
+        "value": "Alexis Kohler"
+      },
+      {
+        "id": 2181,
+        "value": "Bruno Bézard"
+      },
+      {
+        "id": 2182,
+        "value": "Jean-Dominique Comolli"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 268,
+        "value": "Mediterranean Shipping Company (MSC)"
+      },
+      {
+        "id": 783,
+        "value": "Agence des participations de l'État (APE)"
+      },
+      {
+        "id": 988,
+        "value": "Chantiers de l’Atlantique (ex-STX France)"
+      },
+      {
+        "id": 989,
+        "value": "Grand port maritime du Havre (GPMH)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2602,
+    "titre": "Affaire des assistants parlementaires du RN : l’assistant de Louis Aliot n’aurait envoyé qu’un SMS pour 41 000 € de rémunération",
+    "contenu": "Le maire Rassemblement national de Perpignan Louis Aliot est appelé à comparaître à compter de ce lundi 30 septembre jusqu’au 27 novembre 2024 devant le tribunal correctionnel de Paris aux côtés de l’ex-Front national, de Marine Le Pen et 25 autres membres ou ex-membre du parti d’extrême droite pour détournements de fonds publics européens.",
+    "url": "https://www.lindependant.fr/2024/09/28/affaire-des-assistants-parlementaires-du-rn-lassistant-de-louis-aliot-naurait-envoye-quun-sms-pour-41-000-eur-de-remuneration-12227483.php",
+    "date": "2024-09-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      },
+      {
+        "id": 2756,
+        "value": "66 - Pyrénées-Orientales"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 694,
+        "value": "Louis Aliot"
+      },
+      {
+        "id": 2180,
+        "value": "Laurent Salles"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2601,
+    "titre": "Le président de la région Nouvelle-Aquitaine, Alain Rousset, mis en examen pour détournement de fonds publics",
+    "contenu": "Le président socialiste de la région Nouvelle-Aquitaine, Alain Rousset, a été mis en examen le 27 juin dernier, visé par une enquête pour détournement de fonds publics lors de sa campagne électorale de 2015.",
+    "url": "https://www.francetvinfo.fr/faits-divers/justice-proces/le-president-de-la-region-nouvelle-aquitaine-alain-rousset-mis-en-examen-pour-detournement-de-fonds-publics_6806959.html",
+    "date": "2024-09-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2727,
+        "value": "33 - Gironde"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 876,
+        "value": "Alain Rousset"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2596,
     "titre": "«Nous avons reçu 41 CV depuis la dissolution»: quand les petites mains des cabinets ministériels tentent de se recaser dans le privé",
     "contenu": "Depuis la nomination du gouvernement Barnier, les regards sont tournés vers les ministres sortants, pour connaître leurs futures aventures. Certains finiront-ils par céder aux sirènes des cabinets de relations publiques,comme Marlène Schiappa l’avait fait chez Tilder l’an passé ? Dans l’ombre, une valse plus rythmée que celle des ministres se joue depuis plusieurs semaines déjà : celle des conseillers et petites mains des cabinets ministériels, qui tentent de se recaser dans le privé après un passage en politique.",
@@ -860,6 +1029,41 @@
         "value": "Condamnation"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2604,
+    "titre": "Enquête financière à Talloires : le maire et des élus auditionnés sur leur gestion",
+    "contenu": "Fin août, le maire de Talloires-Montmin, Didier Sarda, son adjoint à l’urbanisme, le directeur général des services (DGS) de la commune, l’ancien DGS et plusieurs élus ont été auditionnés par la brigade financière de la police judiciaire de Lyon. La justice se penche sur la gestion de la commune. Droit dans ses bottes, le maire se défend.",
+    "url": "https://www.ledauphine.com/faits-divers-justice/2024/09/24/enquete-financiere-a-talloires-le-maire-et-des-elus-auditionnes-sur-leur-gestion",
+    "date": "2024-09-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2761,
+        "value": "74 - Haute-Savoie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2183,
+        "value": "Didier Sarda"
+      },
+      {
+        "id": 2184,
+        "value": "Bernard Fouqueré"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
