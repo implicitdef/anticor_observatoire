@@ -77,6 +77,59 @@
     "a_la_une": false
   },
   {
+    "id": 2605,
+    "titre": "Les secrets posthumes de la cheffe de cabinet du maire de Roanne, lanceuse d’alerte qui s’est suicidée",
+    "contenu": "La plus proche collaboratrice du maire LR de Roanne, Yves Nicolin, a mis fin à ses jours en juin. En toute confidentialité, Nathalie Goutorbe avait fait fuiter des informations sur des situations de conflit d’intérêts. Dans une lettre posthume consultée par Mediapart, elle disait ne plus avoir de « force » pour affronter une enquête judiciaire. Avant d’ajouter : « Je sais que le bon triomphera. »",
+    "url": "https://www.mediapart.fr/journal/france/290924/les-secrets-posthumes-de-la-cheffe-de-cabinet-du-maire-de-roanne-lanceuse-d-alerte-qui-s-est-suicidee",
+    "date": "2024-09-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2736,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2185,
+        "value": "Yves Nicolin"
+      },
+      {
+        "id": 2186,
+        "value": "Nathalie Goutorbe"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 744,
+        "value": "Transdev"
+      },
+      {
+        "id": 990,
+        "value": "Espace 2M"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2602,
     "titre": "Affaire des assistants parlementaires du RN : l’assistant de Louis Aliot n’aurait envoyé qu’un SMS pour 41 000 € de rémunération",
     "contenu": "Le maire Rassemblement national de Perpignan Louis Aliot est appelé à comparaître à compter de ce lundi 30 septembre jusqu’au 27 novembre 2024 devant le tribunal correctionnel de Paris aux côtés de l’ex-Front national, de Marine Le Pen et 25 autres membres ou ex-membre du parti d’extrême droite pour détournements de fonds publics européens.",
@@ -49743,6 +49796,56 @@
       }
     ],
     "theme": [],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2606,
+    "titre": "Roanne : l'opposition attire l'attention de la justice sur plusieurs décisions municipales ou communautaires",
+    "contenu": "À Roanne, des élus de l'opposition demandent à la justice de se pencher sur plusieurs décisions prises par le conseil municipal ou par Roannais agglomération. Le procureur de la République confirme avoir bien reçu ces signalements mardi. Ça concerne surtout des opérations immobilières.",
+    "url": "https://www.francebleu.fr/infos/politique/roanne-l-opposition-attire-l-attention-de-la-justice-sur-plusieurs-decisions-municipales-ou-communautaires-9596858",
+    "date": "2023-05-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2736,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2185,
+        "value": "Yves Nicolin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 744,
+        "value": "Transdev"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
     "procedure": [
       {
         "id": 2696,
