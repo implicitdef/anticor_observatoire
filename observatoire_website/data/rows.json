@@ -1,5 +1,70 @@
 [
   {
+    "id": 2607,
+    "titre": "Dans l’affaire des « consultants stars » d’EDF, la relaxe inattendue d’Henri Proglio",
+    "contenu": "Au vu des audiences qui s’étaient tenues au printemps, et de la confiance du Parquet national financier (PNF) dans la solidité de son dossier, la décision peut apparaître comme une surprise. Le tribunal correctionnel de Paris a relaxé, lundi 30 septembre, Henri Proglio, PDG d’EDF entre 2009 et 2014, et l’électricien public, qui étaient poursuivis pour « favoritisme ». Il leur était reproché d’avoir passé, sous la direction de l’homme d’affaires, une quarantaine de contrats de conseil avec des prestataires stars sans appel d’offres ni mise en concurrence, pour un montant total finalement évalué à 36 millions d’euros par le parquet dans son réquisitoire, après une première estimation à 22 millions.",
+    "url": "https://www.lemonde.fr/societe/article/2024/09/30/dans-l-affaire-des-consultants-stars-d-edf-la-relaxe-inattendue-d-henri-proglio_6339940_3224.html",
+    "date": "2024-09-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 715,
+        "value": "Stéphane Fouks"
+      },
+      {
+        "id": 716,
+        "value": "Henri Proglio"
+      },
+      {
+        "id": 1219,
+        "value": "Alain Bauer"
+      },
+      {
+        "id": 1403,
+        "value": "Jean-Marie Messier"
+      },
+      {
+        "id": 1408,
+        "value": "Paul Boury"
+      },
+      {
+        "id": 1504,
+        "value": "Alain Tchernonog"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 101,
+        "value": "Électricité de France (EDF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement / acquittement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2603,
     "titre": "Affaire Alexis Kohler : la question cruciale de la prescription devant la cour d’appel de Paris",
     "contenu": "La défense d’Alexis Kohler abat mardi devant la cour d'appel de Paris une carte majeure : appuyée par le ministère public, elle demande la prescription d’une bonne partie des faits de prise illégale d'intérêts reprochés au secrétaire général de l’Elysée pour ses liens familiaux avec l’armateur MSC.",
