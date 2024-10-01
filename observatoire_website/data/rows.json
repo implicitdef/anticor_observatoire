@@ -1,5 +1,62 @@
 [
   {
+    "id": 2608,
+    "titre": "Affaire Perdriau : le maire de Saint-Étienne s’enfonce mais joue la montre",
+    "contenu": "Les dernières confrontations devant les juges ont révélé l’isolement de l’élu face à la version des autres protagonistes de l’affaire du chantage à la sextape. Mais ses avocats multiplient les demandes procédurales, éloignant la perspective d’un jugement avant les prochaines municipales.",
+    "url": "https://www.mediapart.fr/journal/france/300924/affaire-perdriau-le-maire-de-saint-etienne-s-enfonce-mais-joue-la-montre",
+    "date": "2024-09-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2736,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 937,
+        "value": "Gaël Perdriau"
+      },
+      {
+        "id": 938,
+        "value": "Gilles Artigues"
+      },
+      {
+        "id": 1006,
+        "value": "Pierre Gauttieri"
+      },
+      {
+        "id": 1101,
+        "value": "Samy Kéfi-Jérôme"
+      },
+      {
+        "id": 1102,
+        "value": "Gilles Rossary-Lenglet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2607,
     "titre": "Dans l’affaire des « consultants stars » d’EDF, la relaxe inattendue d’Henri Proglio",
     "contenu": "Au vu des audiences qui s’étaient tenues au printemps, et de la confiance du Parquet national financier (PNF) dans la solidité de son dossier, la décision peut apparaître comme une surprise. Le tribunal correctionnel de Paris a relaxé, lundi 30 septembre, Henri Proglio, PDG d’EDF entre 2009 et 2014, et l’électricien public, qui étaient poursuivis pour « favoritisme ». Il leur était reproché d’avoir passé, sous la direction de l’homme d’affaires, une quarantaine de contrats de conseil avec des prestataires stars sans appel d’offres ni mise en concurrence, pour un montant total finalement évalué à 36 millions d’euros par le parquet dans son réquisitoire, après une première estimation à 22 millions.",
@@ -63,6 +120,58 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2611,
+    "titre": "Ouverture à Paris du procès de trois anciens dirigeants de la SEMSAMAR, ce lundi",
+    "contenu": "C’est ce lundi 30 septembre 2024 que va débuter le procès des anciens dirigeants de la SEMSAMAR. Jean-Paul Fischer, Marie-Paule Belenus Romana et Louis-Constant Fleming sont attendus à la barre du tribunal judiciaire de Paris, pour répondre notamment de faits de favoritisme, de prise illégale d’intérêts et de recels d’abus de biens sociaux. Ce procès doit durer deux semaines.",
+    "url": "https://la1ere.francetvinfo.fr/guadeloupe/ouverture-a-paris-du-proces-de-trois-anciens-dirigeants-de-la-semsamar-ce-lundi-1525742.html",
+    "date": "2024-09-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2187,
+        "value": "Jean-Paul Fischer"
+      },
+      {
+        "id": 2188,
+        "value": "Marie-Paule Belenus Romana"
+      },
+      {
+        "id": 2189,
+        "value": "Louis-Constant Fleming"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 770,
+        "value": "Semsamar"
+      },
+      {
+        "id": 992,
+        "value": "Mission interministérielle d’inspection du logement social (MIILOS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2603,
@@ -136,6 +245,46 @@
       {
         "id": 2695,
         "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2609,
+    "titre": "Anticor 56 interpelle la justice au sujet de l’office du tourisme de Vannes",
+    "contenu": "Le 10 juillet dernier, Anticor 56 a déposé un signalement au Procureur de la République de Vannes à l’encontre de l’office tourisme de Vannes (Golfe du Morbihan Vannes Tourisme, GMVT), indique un communiqué de presse datant du samedi 29 septembre. L’association, qui lutte contre la corruption et pour l‘éthique en politique, met en avant de possibles délits de « favoritisme et de détournement de fonds publics par négligence » au sein de l’établissement public, notamment entre 2018 et 2022.",
+    "url": "https://www.letelegramme.fr/morbihan/vannes-56000/anticor-56-interpelle-la-justice-au-sujet-de-loffice-du-tourisme-de-vannes-6672090.php",
+    "date": "2024-09-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2747,
+        "value": "56 - Morbihan"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 991,
+        "value": "Golfe du Morbihan Vannes Tourisme (GMVT)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
       }
     ],
     "titre_corrige": "",
@@ -2170,8 +2319,8 @@
     "theme": [],
     "procedure": [
       {
-        "id": 2695,
-        "value": "Procès"
+        "id": 2692,
+        "value": "Enquête"
       }
     ],
     "titre_corrige": "",
@@ -93566,6 +93715,22 @@
   },
   {
     "id": 2291,
+    "titre": "",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2610,
     "titre": "",
     "contenu": "",
     "url": "",
