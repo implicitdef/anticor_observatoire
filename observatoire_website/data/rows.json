@@ -1,5 +1,54 @@
 [
   {
+    "id": 2612,
+    "titre": "Claude Guéant relaxé en appel dans son procès pour «escroquerie» de frais de campagne en 2012",
+    "contenu": "Retournement de situation. Claude Guéant a été relaxé, ce mercredi 2 octobre, par la cour d’appel de Versailles dans une affaire où il lui était reproché d’avoir sciemment minoré ses comptes de campagne lors des élections législatives de 2012. L’ancien ministre de l’Intérieur avait été condamné en novembre 2022 à douze mois d’emprisonnement dont six mois ferme aménagés sous la forme d’une détention à domicile sous surveillance électronique.",
+    "url": "https://www.liberation.fr/societe/police-justice/claude-gueant-relaxe-en-appel-dans-son-proces-pour-escroquerie-de-frais-de-campagne-en-2012-20241002_2T4HSTWNCRFHFHLHV72IMQXE5I/?redirected=1",
+    "date": "2024-10-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2765,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 660,
+        "value": "Claude Guéant"
+      },
+      {
+        "id": 2190,
+        "value": "Jean-Christophe Baguet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement / acquittement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2608,
     "titre": "Affaire Perdriau : le maire de Saint-Étienne s’enfonce mais joue la montre",
     "contenu": "Les dernières confrontations devant les juges ont révélé l’isolement de l’élu face à la version des autres protagonistes de l’affaire du chantage à la sextape. Mais ses avocats multiplient les demandes procédurales, éloignant la perspective d’un jugement avant les prochaines municipales.",
