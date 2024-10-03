@@ -1,5 +1,66 @@
 [
   {
+    "id": 2613,
+    "titre": "Scandale des crèches privées : des documents démontrent \"l'entente\" entre Aurore Bergé et la Fédération française des entreprises de crèches",
+    "contenu": "Le journaliste Victor Castanet, qui accuse l'ex-ministre d'avoir tenté d'empêcher la tenue d'une commission d'enquête parlementaire sur les dysfonctionnements des crèches privées, a présenté des documents qui, selon lui, démontrent qu'Aurore Bergé a voulu \"étouffer l'incendie\".",
+    "url": "https://www.francetvinfo.fr/societe/info-franceinfo-dysfonctionnements-dans-les-creches-privees-des-documents-demontrent-l-entente-entre-aurore-berge-et-la-federation-francaise-des-entreprises-de-creches_6815789.html",
+    "date": "2024-10-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2768,
+        "value": "78 - Yvelines"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 888,
+        "value": "Aurore Bergé"
+      },
+      {
+        "id": 889,
+        "value": "Elsa Hervy"
+      },
+      {
+        "id": 962,
+        "value": "Victor Castanet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 232,
+        "value": "Fédération française des entreprises de crèches (FFEC)"
+      },
+      {
+        "id": 993,
+        "value": "Ministère des Solidarités"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2682,
+        "value": "Social"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2612,
     "titre": "Claude Guéant relaxé en appel dans son procès pour «escroquerie» de frais de campagne en 2012",
     "contenu": "Retournement de situation. Claude Guéant a été relaxé, ce mercredi 2 octobre, par la cour d’appel de Versailles dans une affaire où il lui était reproché d’avoir sciemment minoré ses comptes de campagne lors des élections législatives de 2012. L’ancien ministre de l’Intérieur avait été condamné en novembre 2022 à douze mois d’emprisonnement dont six mois ferme aménagés sous la forme d’une détention à domicile sous surveillance électronique.",
