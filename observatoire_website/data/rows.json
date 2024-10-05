@@ -1,5 +1,105 @@
 [
   {
+    "id": 2620,
+    "titre": "Fausses preuves pour emploi fantôme : nouvelles révélations sur Jordan Bardella",
+    "contenu": "L’actuel président du RN, Jordan Bardella, a-t-il truqué près de 1500 pages de documents pour maquiller l’emploi fictif qu’il a occupé en 2015 au Parlement européen ? Après de premières révélations, publiées en septembre, Libération a eu accès à de nouvelles pièces, bien plus nombreuses et toujours aussi incriminantes pour Bardella, qui n’est pourtant pas concerné par le procès en cours visant le RN et nombre de ses cadres, dont Marine Le Pen.",
+    "url": "https://www.liberation.fr/politique/fausses-preuves-pour-emploi-fantome-nos-nouvelles-revelations-sur-jordan-bardella-20241005_NO6N4VAQJREYTK5IAYK7RMVEXA/",
+    "date": "2024-10-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 804,
+        "value": "Jean-François Jalkh"
+      },
+      {
+        "id": 1019,
+        "value": "Jordan Bardella"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2619,
+    "titre": "En Martinique, la présidente du tribunal est soupçonnée de détournements",
+    "contenu": "Présidente du tribunal de Fort-de-France et du conseil départemental d’accès au droit de Martinique, Karine Gonnet est soupçonnée d’avoir fait supporter des dépenses somptuaires à cet organisme public. Son avocat dénonce une « cabale ». Le juge Tournaire est saisi de l’affaire.",
+    "url": "https://www.mediapart.fr/journal/france/041024/en-martinique-la-presidente-du-tribunal-est-soupconnee-de-detournements",
+    "date": "2024-10-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2784,
+        "value": "972 - Martinique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2030,
+        "value": "Micheline Virgal"
+      },
+      {
+        "id": 2031,
+        "value": "Karine Gonnet"
+      },
+      {
+        "id": 2191,
+        "value": "Laurent Sabatier"
+      },
+      {
+        "id": 2192,
+        "value": "Patrice Cambérou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 362,
+        "value": "Conseil supérieur de la magistrature (CSM)"
+      },
+      {
+        "id": 902,
+        "value": "Conseil Départemental de l’Accès au Droit (CDAD)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2613,
     "titre": "Scandale des crèches privées : des documents démontrent \"l'entente\" entre Aurore Bergé et la Fédération française des entreprises de crèches",
     "contenu": "Le journaliste Victor Castanet, qui accuse l'ex-ministre d'avoir tenté d'empêcher la tenue d'une commission d'enquête parlementaire sur les dysfonctionnements des crèches privées, a présenté des documents qui, selon lui, démontrent qu'Aurore Bergé a voulu \"étouffer l'incendie\".",
@@ -352,6 +452,90 @@
         "value": "Procès"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2621,
+    "titre": "Affaire Alexis Kohler : ces nouveaux mails qui fragilisent la défense du secrétaire général de l’Élysée",
+    "contenu": "Marianne révèle de nombreux messages échangés entre 2012 et 2014 entre les conseillers de Pierre Moscovici, alors ministre des Finances, et Alexis Kohler, alors membre de son cabinet, au sujet du constructeur naval STX et de l’armateur MSC. Ces échanges confirment qu’il n’existait pas de déport effectif du haut fonctionnaire pourtant lié personnellement à la famille propriétaire de MSC. Il était même tenu au courant des dossiers de financement des paquebots vendus par STX alors que la Commission européenne enquêtait sur ces montages financiers.",
+    "url": "https://www.marianne.net/politique/petites-indiscretions-grosses-revelations/affaire-alexis-kohler-ces-nouveaux-mails-qui-fragilisent-la-defense-du-secretaire-general-de-lelysee",
+    "date": "2024-09-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 801,
+        "value": "Pierre Moscovici"
+      },
+      {
+        "id": 1068,
+        "value": "Alexis Kohler"
+      },
+      {
+        "id": 1438,
+        "value": "Julien Denormandie"
+      },
+      {
+        "id": 2181,
+        "value": "Bruno Bézard"
+      },
+      {
+        "id": 2182,
+        "value": "Jean-Dominique Comolli"
+      },
+      {
+        "id": 2193,
+        "value": "Rémy Rioux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 268,
+        "value": "Mediterranean Shipping Company (MSC)"
+      },
+      {
+        "id": 783,
+        "value": "Agence des participations de l'État (APE)"
+      },
+      {
+        "id": 988,
+        "value": "Chantiers de l’Atlantique (ex-STX France)"
+      },
+      {
+        "id": 989,
+        "value": "Grand port maritime du Havre (GPMH)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
