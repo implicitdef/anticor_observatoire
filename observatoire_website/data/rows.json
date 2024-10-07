@@ -161,6 +161,46 @@
     "a_la_une": false
   },
   {
+    "id": 2622,
+    "titre": "Affaire des assistants du RN : pourquoi le tribunal a alourdi d'un million d'euros les montants reprochés au parti",
+    "contenu": "Le procès des assistants parlementaires des eurodéputés FN a été marqué, mercredi 2 octobre, par la décision du tribunal d’ajouter plus d’un million d’euros aux montants reprochés au parti.",
+    "url": "https://www.humanite.fr/politique/marine-le-pen/affaire-des-assistants-du-rn-pourquoi-le-tribunal-a-alourdi-dun-million-deuros-les-montants-reproches-au-parti",
+    "date": "2024-10-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2614,
     "titre": "Affaire Kohler: décision le 26 novembre sur la question cruciale de la prescription",
     "contenu": "La cour d'appel de Paris tranchera le 26 novembre la question de la prescription dans l'affaire de prise illégale d'intérêts reprochée au secrétaire général de l'Elysée, Alexis Kohler, pour ses liens familiaux avec l'armateur MSC, a-t-on appris mardi de source judiciaire.",
