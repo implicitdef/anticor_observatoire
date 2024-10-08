@@ -1,5 +1,49 @@
 [
   {
+    "id": 2623,
+    "titre": "Jean-Marie Le Pen sommé de rembourser 300 000 euros au Parlement européen",
+    "contenu": "Le Parlement européen réclame plus de 300 000 euros à Jean-Marie Le Pen pour avoir indûment facturé à l’institution des frais de mandat d’eurodéputé.",
+    "url": "https://www.lemonde.fr/societe/article/2024/10/07/jean-marie-le-pen-somme-de-rembourser-300-000-euros-au-parlement-europeen_6346011_3224.html",
+    "date": "2024-10-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 665,
+        "value": "Jean-Marie Le Pen"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 293,
+        "value": "Office européen de lutte antifraude (OLAF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2620,
     "titre": "Fausses preuves pour emploi fantôme : nouvelles révélations sur Jordan Bardella",
     "contenu": "L’actuel président du RN, Jordan Bardella, a-t-il truqué près de 1500 pages de documents pour maquiller l’emploi fictif qu’il a occupé en 2015 au Parlement européen ? Après de premières révélations, publiées en septembre, Libération a eu accès à de nouvelles pièces, bien plus nombreuses et toujours aussi incriminantes pour Bardella, qui n’est pourtant pas concerné par le procès en cours visant le RN et nombre de ses cadres, dont Marine Le Pen.",
