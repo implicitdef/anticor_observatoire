@@ -1,5 +1,258 @@
 [
   {
+    "id": 2624,
+    "titre": "Crèches : le bureau de l’Assemblée signale à la justice le cas d’Aurore Bergé, accusée de faux témoignage",
+    "contenu": "La députée macroniste est accusée par des députés de gauche de « faux témoignage » pour avoir récusé devant une commission d’enquête tout lien personnel avec une lobbyiste des crèches privées.",
+    "url": "https://www.lemonde.fr/politique/article/2024/10/09/creches-le-bureau-de-l-assemblee-signale-a-la-justice-le-cas-d-aurore-berge-accusee-de-faux-temoignage_6347397_823448.html",
+    "date": "2024-10-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 888,
+        "value": "Aurore Bergé"
+      },
+      {
+        "id": 889,
+        "value": "Elsa Hervy"
+      },
+      {
+        "id": 962,
+        "value": "Victor Castanet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 232,
+        "value": "Fédération française des entreprises de crèches (FFEC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2682,
+        "value": "Social"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2627,
+    "titre": "Détournement de fonds publics : l’ancien directeur général d’un office public de l’habitat condamné à neuf mois de prison avec sursis",
+    "contenu": "François Toulet, ancien directeur général de Tarn-et-Garonne habitat (TGH), comparaissait mardi 8 octobre 2024 devant le tribunal judiciaire de Montauban, en Tarn-et-Garonne. Il a été reconnu coupable de détournements de fonds publics, mais relaxé de prise illégale d’intérêts. Il écope de neuf mois de prison avec sursis et d’une amende de 20 000 euros.",
+    "url": "https://www.ladepeche.fr/2024/10/09/detournement-de-fonds-publics-lancien-directeur-general-dun-office-public-de-lhabitat-condamne-a-neuf-mois-de-prison-avec-sursis-12248100.php",
+    "date": "2024-10-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2772,
+        "value": "82 - Tarn-et-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2195,
+        "value": "François Toulet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 994,
+        "value": "Tarn-et-Garonne habitat (TGH)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2626,
+    "titre": "Le curieux montage de Lactalis pour encaisser en Belgique des redevances sur sa marque Président",
+    "contenu": "Jusqu'en 2022, les royalties demandées par Lactalis à sa filiale égyptienne pour l'utilisation de sa marque phare ont été perçues par la holding belge du géant laitier. Visé par une enquête du PNF, le groupe dément toute stratégie d'optimisation fiscale généralisée à l'ensemble de ses filiales étrangères.",
+    "url": "https://www.lalettre.fr/fr/entreprises/2024/10/09/le-curieux-montage-de-lactalis-pour-encaisser-en-belgique-des-redevances-sur-sa-marque-president%252C110315513-art",
+    "date": "2024-10-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3076,
+        "value": "Égypte"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1185,
+        "value": "Emmanuel Besnier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 434,
+        "value": "Lactalis"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2669,
+        "value": "Grande consommation"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2629,
+    "titre": "Confiscation des avoirs criminels : une nouvelle saisie record par les douanes en 2024",
+    "contenu": "Le montant de biens délictueux confisqués depuis le début de l’année par les douanes françaises s'élève à 240 millions d’euros.",
+    "url": "https://www.francetvinfo.fr/replay-radio/le-brief-eco/confiscation-des-avoirs-criminels-une-nouvelle-saisie-record-par-les-douanes-en-2024_6798004.html",
+    "date": "2024-10-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 344,
+        "value": "Direction générale des Douanes et Droits indirects"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2628,
+    "titre": "Des lobbyistes de l'alcool et du soda recalés d'un colloque sur la santé publique au Sénat",
+    "contenu": "Une dizaine de représentants d'intérêts du secteur du vin, du cognac et de la bière, mais aussi des sodas et de l'industrie agroalimentaire, se sont vu refuser leur inscription à un colloque sur la \"taxation comme outil de prévention en santé publique\".",
+    "url": "https://www.lalettre.fr/fr/action-publique_lobbying/2024/10/08/des-lobbyistes-de-l-alcool-et-du-soda-recales-d-un-colloque-sur-la-sante-publique-au-senat%2C110315015-art?cxt=PUB&utm_source=LLA&utm_medium=email&utm_campaign=AUTO_EDIT_SOM_PROS&did=109825881",
+    "date": "2024-10-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2655,
+        "value": "Alcools"
+      },
+      {
+        "id": 2669,
+        "value": "Grande consommation"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2625,
+    "titre": "Le sénateur Jean-Luc Brault dans le viseur de la justice",
+    "contenu": "Entendu par les policiers de la brigade financière d’Orléans dans le cadre d’une garde à vue, Jean-Luc Brault estime n’avoir rien à se reprocher.",
+    "url": "https://www.lanouvellerepublique.fr/loir-et-cher/commune/le-controis-en-sologne/prise-illegale-d-interets-et-favoritisme-en-loir-et-cher-le-senateur-jean-luc-brault-dans-le-viseur-de-la-justice",
+    "date": "2024-10-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2735,
+        "value": "41 - Loir-et-Cher"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2194,
+        "value": "Jean-Luc Brault"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2623,
     "titre": "Jean-Marie Le Pen sommé de rembourser 300 000 euros au Parlement européen",
     "contenu": "Le Parlement européen réclame plus de 300 000 euros à Jean-Marie Le Pen pour avoir indûment facturé à l’institution des frais de mandat d’eurodéputé.",
