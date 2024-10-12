@@ -1,5 +1,98 @@
 [
   {
+    "id": 2631,
+    "titre": "Condamné à de la prison ferme, l’ancien maire de Roquebrune-sur-Argens visé par un mandat d’arrêt",
+    "contenu": "Luc Jousse, maire de Roquebrune-sur-Argens (Var) de 2001 à 2016, a été condamné mardi à un an de prison ferme pour «prise illégale d’intérêts» par le tribunal correctionnel de Draguignan. Absent à l’audience et non représenté, il a été visé dans la foulée par un mandat d’arrêt.",
+    "url": "https://www.lefigaro.fr/nice/var-condamne-a-de-la-prison-ferme-l-ancien-maire-de-roquebrune-sur-argens-vise-par-un-mandat-d-arret-20241010",
+    "date": "2024-10-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2196,
+        "value": "Luc Jousse"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 400,
+        "value": "Société anonyme roquebrunoise de gestion événementielle et touristique (SEML Sarget)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      },
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2632,
+    "titre": "Un associé de Tilder se place au cabinet du ministre de la réussite scolaire",
+    "contenu": "Fidèle consultant du cabinet de conseil en communication depuis dix ans, Jean-Xavier Arnaud devient conseiller en communication d'Alexandre Portier, tout juste nommé ministre délégué chargé de la réussite scolaire et de l'enseignement professionnel.",
+    "url": "https://www.lalettre.fr/fr/entreprises_conseil-et-services/2024/10/10/un-associe-de-tilder-se-place-au-cabinet-du-ministre-de-la-reussite-scolaire%252C110315947-bre",
+    "date": "2024-10-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 456,
+        "value": "Alexandre Portier"
+      },
+      {
+        "id": 2197,
+        "value": "Jean-Xavier Arnaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 167,
+        "value": "Tilder"
+      },
+      {
+        "id": 213,
+        "value": "Ministère de l'Éducation nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2624,
     "titre": "Crèches : le bureau de l’Assemblée signale à la justice le cas d’Aurore Bergé, accusée de faux témoignage",
     "contenu": "La députée macroniste est accusée par des députés de gauche de « faux témoignage » pour avoir récusé devant une commission d’enquête tout lien personnel avec une lobbyiste des crèches privées.",
