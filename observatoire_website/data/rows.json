@@ -397,6 +397,47 @@
     "a_la_une": true
   },
   {
+    "id": 2630,
+    "titre": "Le discret rendez-vous d'Antoine Armand chez les patrons du CAC 40",
+    "contenu": "Le nouveau ministre de l'économie s'est rendu ce week-end au siège de l'Afep, le lobby des plus grands groupes hexagonaux. Trois jours avant le discours de politique générale de Michel Barnier, il y a écouté les recommandations d'une quinzaine de patrons du CAC 40.",
+    "url": "https://www.lalettre.fr/fr/entreprises/2024/10/03/le-discret-rendez-vous-d-antoine-armand-chez-les-patrons-du-cac-40%252C110313421-eve",
+    "date": "2024-10-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 21,
+        "value": "Antoine Armand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2613,
     "titre": "Scandale des crèches privées : des documents démontrent \"l'entente\" entre Aurore Bergé et la Fédération française des entreprises de crèches",
     "contenu": "Le journaliste Victor Castanet, qui accuse l'ex-ministre d'avoir tenté d'empêcher la tenue d'une commission d'enquête parlementaire sur les dysfonctionnements des crèches privées, a présenté des documents qui, selon lui, démontrent qu'Aurore Bergé a voulu \"étouffer l'incendie\".",
