@@ -1,5 +1,72 @@
 [
   {
+    "id": 2634,
+    "titre": "Un ex-fonctionnaire de Nantes métropole devant la justice pour marchés publics truqués",
+    "contenu": "Du lundi 14 au jeudi 17 octobre 2024, un ancien responsable du service de maîtrise d’ouvrage de la direction de l’assainissement de Nantes métropole (passé ensuite à la Ville de La Roche-sur-Yon) se retrouve devant le tribunal correctionnel de Nantes avec huit autres prévenus. Il est jugé pour favoritisme, trafic d’influence passif, recel d’abus de confiance et complicité d’escroquerie.",
+    "url": "https://www.ouest-france.fr/societe/justice/un-ex-fonctionnaire-de-nantes-metropole-devant-la-justice-pour-marches-publics-truques-eac2205e-81a2-11ef-8449-517f3066b99b",
+    "date": "2024-10-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2738,
+        "value": "44 - Loire-Atlantique"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 995,
+        "value": "Nantes Métropole"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2635,
+    "titre": "Didier Robert en correctionnelle : le parquet requiert 8 mois de prison avec sursis, une forte amende et 5 ans d'inéligibilité",
+    "contenu": "L'ancien président de la Région Réunion comparaît cette fois dans le cadre des indemnités de résidence perçues entre 2016 et 2019. Le jugement a été mis en délibéré et sera rendu le 5 novembre prochain.",
+    "url": "https://la1ere.francetvinfo.fr/reunion/didier-robert-en-correctionnelle-le-parquet-requiert-8-mois-de-prison-avec-sursis-une-forte-amende-et-5-ans-d-ineligibilite-1528050.html",
+    "date": "2024-10-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2786,
+        "value": "974 - La Réunion"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1392,
+        "value": "Didier Robert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2633,
     "titre": "Laurent Wauquiez offre un restaurant à plusieurs milliers d’euros à des journalistes de Valeurs Actuelles",
     "contenu": "L’ex-président d’Auvergne-Rhône-Alpes a de nouveau été épinglé par la chambre régionale des comptes pour «certaines pratiques contestables» avec l’argent de la région.",
@@ -42,6 +109,58 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2638,
+    "titre": "Affaire Perdriau à Saint-Étienne : fin de l’enquête sur le chantage à la sextape",
+    "contenu": "Lundi 7 octobre, le juge en charge de l’affaire du chantage à la sextape a rendu un « avis de fin d’information », mettant fin aux investigations. Sept personnes sont mises en examen dont le maire de Saint-Étienne, Gaël Perdriau (ex-LR). Un énième rebondissement dans ce scandale qui ne finit pas. Alors que le maire n’a toujours pas démissionné de son poste, nous vous proposons une chronologie exhaustive de l’affaire.",
+    "url": "https://www.rue89lyon.fr/2024/10/10/affaire-perdriau-saint-etienne-fin-enquete-chantage-sextape/",
+    "date": "2024-10-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2736,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 937,
+        "value": "Gaël Perdriau"
+      },
+      {
+        "id": 938,
+        "value": "Gilles Artigues"
+      },
+      {
+        "id": 1006,
+        "value": "Pierre Gauttieri"
+      },
+      {
+        "id": 1101,
+        "value": "Samy Kéfi-Jérôme"
+      },
+      {
+        "id": 1102,
+        "value": "Gilles Rossary-Lenglet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2631,
@@ -133,6 +252,51 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2637,
+    "titre": "Aqta : une enquête préliminaire ouverte pour prise illégale d’intérêt",
+    "contenu": "À la suite d’un signalement d’Anticor Morbihan, le parquet de Lorient a ouvert une enquête préliminaire à l’encontre de Philippe Le Ray, président d’Auray Quiberon terre atlantique (Aqta), et d’une ancienne directrice générale adjointe des services.",
+    "url": "https://www.ouest-france.fr/bretagne/auray-56400/morbihan-aqta-une-enquete-preliminaire-ouverte-pour-prise-illegale-dinteret-515234d4-8663-11ef-a461-dc3a2eb2c9d7",
+    "date": "2024-10-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2747,
+        "value": "56 - Morbihan"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2199,
+        "value": "Philippe Le Ray"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 996,
+        "value": "Auray Quiberon terre atlantique (Aqta)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -231,6 +395,37 @@
         "value": "Condamnation"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2636,
+    "titre": "La maire de Mespuits suspectée d’avoir empoché de l’argent prévu pour la cantine du collège",
+    "contenu": "La maire de Mespuits, dans l’Essonne, déjà démise de ses fonctions pour détournement de fonds, est désormais soupçonnée d’avoir empoché plus de 2.000 euros, prévus pour la cantine du collège.",
+    "url": "https://www.20minutes.fr/faits_divers/4114693-20241009-essonne-maire-mespuits-suspectee-avoir-empoche-argent-prevu-cantine-college",
+    "date": "2024-10-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2764,
+        "value": "91 - Essonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2198,
+        "value": "Sabine Lespagnol"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
