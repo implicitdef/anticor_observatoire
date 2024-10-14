@@ -1,5 +1,49 @@
 [
   {
+    "id": 2633,
+    "titre": "Laurent Wauquiez offre un restaurant à plusieurs milliers d’euros à des journalistes de Valeurs Actuelles",
+    "contenu": "L’ex-président d’Auvergne-Rhône-Alpes a de nouveau été épinglé par la chambre régionale des comptes pour «certaines pratiques contestables» avec l’argent de la région.",
+    "url": "https://www.liberation.fr/politique/argent-public-wauquiez-offre-un-restau-a-plusieurs-milliers-deuros-a-des-journalistes-de-valeurs-actuelles-20241011_QTUIRAONXNEDVN7VUN5VZMEIFY/?redirected=1",
+    "date": "2024-10-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 668,
+        "value": "Laurent Wauquiez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 219,
+        "value": "Valeurs actuelles"
+      },
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2631,
     "titre": "Condamné à de la prison ferme, l’ancien maire de Roquebrune-sur-Argens visé par un mandat d’arrêt",
     "contenu": "Luc Jousse, maire de Roquebrune-sur-Argens (Var) de 2001 à 2016, a été condamné mardi à un an de prison ferme pour «prise illégale d’intérêts» par le tribunal correctionnel de Draguignan. Absent à l’audience et non représenté, il a été visé dans la foulée par un mandat d’arrêt.",
