@@ -1,5 +1,124 @@
 [
   {
+    "id": 2643,
+    "titre": "Ce prêt opaque fait à Rachida Dati en 2007",
+    "contenu": "La ministre de la culture n’a pas déclaré aux différentes autorités de contrôle pour la transparence de la vie politique un prêt de 50 000 euros qui lui a été fait en 2007 par le dirigeant d’entreprises Henri Proglio.",
+    "url": "https://www.lemonde.fr/societe/article/2024/10/15/ce-pret-opaque-fait-a-rachida-dati-en-2007_6352118_3224.html",
+    "date": "2024-10-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 716,
+        "value": "Henri Proglio"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 277,
+        "value": "Ministère de la Culture"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2642,
+    "titre": "Corruption : la police décrypte le manuel du pot-de-vin des grandes entreprises françaises",
+    "contenu": "Comme tout phénomène criminel, la délinquance en col blanc s’adapte à son époque et aux évolutions législatives. Un rapport policier, obtenu par Mediapart, analyse les méthodes corruptrices utilisées par des entreprises françaises à l’étranger.",
+    "url": "https://www.mediapart.fr/journal/france/131024/corruption-la-police-decrypte-le-manuel-du-pot-de-vin-des-grandes-entreprises-francaises",
+    "date": "2024-10-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2803,
+        "value": "Libye"
+      },
+      {
+        "id": 3077,
+        "value": "Ghana"
+      },
+      {
+        "id": 2809,
+        "value": "République du Congo"
+      },
+      {
+        "id": 2793,
+        "value": "Chine"
+      },
+      {
+        "id": 2791,
+        "value": "Azerbaïdjan"
+      },
+      {
+        "id": 3078,
+        "value": "Ouzbékistan"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 137,
+        "value": "Société générale"
+      },
+      {
+        "id": 176,
+        "value": "Airbus"
+      },
+      {
+        "id": 997,
+        "value": "Sous-direction de la lutte contre la criminalité financière (SDLCF)"
+      },
+      {
+        "id": 998,
+        "value": "NextRoad Engineering (ex-Vectra)"
+      },
+      {
+        "id": 999,
+        "value": "Technip Energies"
+      },
+      {
+        "id": 1000,
+        "value": "Systra"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2634,
     "titre": "Un ex-fonctionnaire de Nantes métropole devant la justice pour marchés publics truqués",
     "contenu": "Du lundi 14 au jeudi 17 octobre 2024, un ancien responsable du service de maîtrise d’ouvrage de la direction de l’assainissement de Nantes métropole (passé ensuite à la Ville de La Roche-sur-Yon) se retrouve devant le tribunal correctionnel de Nantes avec huit autres prévenus. Il est jugé pour favoritisme, trafic d’influence passif, recel d’abus de confiance et complicité d’escroquerie.",
@@ -26,6 +145,55 @@
       }
     ],
     "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2641,
+    "titre": "Budget 2025 : comment CMA CGM a réussi pour le moment à sauver sa niche fiscale",
+    "contenu": "Depuis plusieurs semaines, le groupe de Rodolphe Saadé mène un lobbying tous azimuts pour faire entendre qu'une suppression du dispositif de la taxe au tonnage menacerait la compétitivité du fleuron national. Un futur amendement du député Philippe Brun dans le projet de loi de finances reste toutefois inquiétant pour CMA CGM.",
+    "url": "https://www.lalettre.fr/fr/entreprises/2024/10/11/budget-2025--comment-cma-cgm-a-reussi-pour-le-moment-a-sauver-sa-niche-fiscale%252C110326428-eve",
+    "date": "2024-10-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1950,
+        "value": "Rodolphe Saadé"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 721,
+        "value": "CMA CGM (Compagnie maritime d'affrètement - Compagnie générale maritime)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -63,6 +231,46 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2640,
+    "titre": "Haute-Garonne : les anciens président de la Chambre d'agriculture et maire de Lanta de retour au tribunal",
+    "contenu": "Presque deux ans jour pour jour après leur condamnation en première instance, Serge Bouscatel et Marc Mengaud étaient de retour devant le tribunal correctionnel de Toulouse. L’ancien président de la Chambre d’agriculture de la Haute-Garonne et celui qui était maire de Lanta comparaissaient après avoir fait appel dans une affaire dont le premier jugement les avait obligés à abandonner chacun leur mandat électif pour une durée de trois ans et demi. En plus de cette inéligibilité avec exécution provisoire, ils avaient écopé d’une peine respective de dix et six mois de prison avec sursis.",
+    "url": "https://actu.fr/occitanie/lanta_31271/haute-garonne-les-anciens-president-de-la-chambre-d-agriculture-et-maire-de-lanta-de-retour-au-tribunal_61713933.html",
+    "date": "2024-10-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2725,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1346,
+        "value": "Serge Bouscatel"
+      },
+      {
+        "id": 1347,
+        "value": "Marc Mengaud"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -206,6 +414,59 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2639,
+    "titre": "Procès de trois anciens dirigeants de la Semsamar : lourdes sanctions requises et délibéré attendu mi-décembre",
+    "contenu": "Ce jeudi a été consacré aux réquisitions et plaidoiries, à Paris, dans le procès Semsama. Après 6 jours d'audience, le Parquet National Financier a requis des peines de prison avec sursis et de lourdes sanctions à l'encontre de Jean-Paul Fisher et Marie-Paule Belenus Romana. Louis Constant Fleming, lui, pourrait bénéficier de la relaxe. Compte rendu d’audience.",
+    "url": "https://la1ere.francetvinfo.fr/guadeloupe/proces-de-trois-anciens-dirigeants-de-la-semsamar-lourdes-sanctions-requises-et-delibere-attendu-mi-decembre-1527956.html",
+    "date": "2024-10-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2187,
+        "value": "Jean-Paul Fischer"
+      },
+      {
+        "id": 2188,
+        "value": "Marie-Paule Belenus Romana"
+      },
+      {
+        "id": 2189,
+        "value": "Louis-Constant Fleming"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 770,
+        "value": "Semsamar"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2632,
@@ -1419,7 +1680,12 @@
       }
     ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
