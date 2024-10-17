@@ -1,5 +1,70 @@
 [
   {
+    "id": 2644,
+    "titre": "L’ex-ministre de la santé Agnès Firmin Le Bodo condamnée pour ses liens avec l’industrie pharmaceutique",
+    "contenu": "Pharmacienne de profession, Agnès Firmin Le Bodo a reçu de nombreux cadeaux de la part des laboratoires Urgo, de 2015 à 2020. L’ancienne ministre, qui siège aujourd’hui à l’Assemblée nationale, a reconnu les faits au terme d’une procédure de plaider-coupable, selon les informations de Mediapart.",
+    "url": "https://www.mediapart.fr/journal/france/171024/l-ex-ministre-de-la-sante-agnes-firmin-le-bodo-condamnee-pour-ses-liens-avec-l-industrie-pharmaceutique",
+    "date": "2024-10-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2763,
+        "value": "76 - Seine-Maritime"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 860,
+        "value": "Agnès Firmin Le Bodo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 12,
+        "value": "Horizons"
+      },
+      {
+        "id": 103,
+        "value": "Ministère de la Santé"
+      },
+      {
+        "id": 209,
+        "value": "Laboratoires Urgo"
+      },
+      {
+        "id": 260,
+        "value": "Direction générale de la Concurrence, de la Consommation et de la Répression des fraudes (DGCCRF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2690,
+        "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
+      },
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2643,
     "titre": "Ce prêt opaque fait à Rachida Dati en 2007",
     "contenu": "La ministre de la culture n’a pas déclaré aux différentes autorités de contrôle pour la transparence de la vie politique un prêt de 50 000 euros qui lui a été fait en 2007 par le dirigeant d’entreprises Henri Proglio.",
