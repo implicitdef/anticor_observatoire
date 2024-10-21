@@ -1318,6 +1318,51 @@
     "a_la_une": true
   },
   {
+    "id": 2645,
+    "titre": "Factures impayées de l'OPH : le parquet a ouvert une enquête",
+    "contenu": "Plus de trois cents millions de francs pacifique d'impayés à l'Office polynésien de l'habitat entre 2019 et 2021 : cet argent n'a pas été exigé par les autorités alors qu'il aurait dû l'être. Le président Brotherson a révélé cette affaire au grand jour le 22 août dernier devant les élus de l'Assemblée, pointant du doigt ses prédécesseurs. La procureure de la République s'est saisie du dossier et ouvert une enquête le 13 septembre dernier pour suspicion de délit de concussion.",
+    "url": "https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/factures-impayees-de-l-oph-le-parquet-a-ouvert-une-enquete-1526500.html",
+    "date": "2024-10-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2789,
+        "value": "987 - Polynésie Française"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2200,
+        "value": "Jean-Christophe Bouissou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1001,
+        "value": "Office polynésien de l'habitat (OPH)"
+      },
+      {
+        "id": 1002,
+        "value": "Tapura Huiraatira"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2617,
     "titre": "L'enquête préliminaire visant Eric Ciotti et son ex-épouse Caroline Magne pour cumuls d'emplois, classée par le Parquet national financier",
     "contenu": "L'enquête préliminaire du Parquet national financier visant Eric Ciotti et son ex-compagne vient d'être classée, ce lundi 30 octobre. Caroline Magne était soupçonnée de cumuls indus d'emplois publics. Selon une enquête publiée par le Canard enchaîné en 2022, cette dernière occupait plusieurs postes à la fois pendant une dizaine d'années.",
