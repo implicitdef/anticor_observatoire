@@ -65,6 +65,78 @@
     "a_la_une": true
   },
   {
+    "id": 2646,
+    "titre": "La HATVP décroche de nouveaux moyens pour lutter contre les ingérences étrangères",
+    "contenu": "Les effectifs de l'autorité administrative indépendante seront renforcés pour lui permettre de mener sa mission sur les ingérences étrangères. Fin mai, l'ex-président de la HATVP, Didier Migaud, s'était tourné vers le Sénat pour réclamer des moyens supplémentaires.",
+    "url": "https://www.lalettre.fr/fr/action-publique_parlement/2024/10/16/la-hatvp-decroche-de-nouveaux-moyens-pour-lutter-contre-les-ingerences-etrangeres%252C110328070-art",
+    "date": "2024-10-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2647,
+    "titre": "Perquisitions du parquet national financier au sein du groupe Avec et chez Bernard Bensaid",
+    "contenu": "Plusieurs entités du groupe de santé et le domicile de son fondateur ont reçu la visite de la police judiciaire. Parallèlement, le Parquet de Grenoble doit rendre son ordonnance suite à une plainte pour « prise illégale d’intérêt » et « détournements de fonds publics » contre l’entreprise et son patron.",
+    "url": "https://www.linforme.com/sante/article/perquisitions-du-parquet-national-financier-au-sein-du-groupe-avec-et-chez-bernard-bensaid_2153.html",
+    "date": "2024-10-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2781,
+        "value": "94 - Val-de-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1015,
+        "value": "Bernard Bensaid"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 313,
+        "value": "Avec (ex Doctegestio)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2643,
     "titre": "Ce prêt opaque fait à Rachida Dati en 2007",
     "contenu": "La ministre de la culture n’a pas déclaré aux différentes autorités de contrôle pour la transparence de la vie politique un prêt de 50 000 euros qui lui a été fait en 2007 par le dirigeant d’entreprises Henri Proglio.",
@@ -107,6 +179,188 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2650,
+    "titre": "Novo Nordisk espère se goinfrer avec son nouveau coupe-faim",
+    "contenu": "Un géant de la pharmacie veut affamer la Sécurité sociale avec son coupe-faim Wegovy. Pour obtenir le remboursement de son remède \"miracle\" contre l’obésité, le labo Novo Nordisk mène un intense lobbying en France. Il s'est attaché la bienveillance de quelques \"spécialistes\", généreusement arrosés…",
+    "url": "https://www.lecanardenchaine.fr/sante/49106-novo-nordisk-espere-se-goinfrer-avec-son-nouveau-coupe-faim",
+    "date": "2024-10-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2204,
+        "value": "Martine Laville"
+      },
+      {
+        "id": 2205,
+        "value": "Sébastien Czernichow"
+      },
+      {
+        "id": 2206,
+        "value": "Aurélien Rousseau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1007,
+        "value": "Novo Nordisk"
+      },
+      {
+        "id": 1008,
+        "value": "Société européenne de cardiologie"
+      },
+      {
+        "id": 1009,
+        "value": "Alliance du cœur"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2680,
+        "value": "Santé"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2649,
+    "titre": "Total, L’Oréal... quand des multinationales dictent leur loi à l’enseignement supérieur",
+    "contenu": "«Libération» s’est procuré des contrats de mécénat liant entreprises et universités : clause de non-dénigrement, possibilité pour les grands groupes d’influer sur le choix des conférences et des thèses… Une association de jeunes ingénieurs lance un appel à la transparence.",
+    "url": "https://www.liberation.fr/societe/education/total-loreal-quand-des-multinationales-dictent-leur-loi-a-lenseignement-superieur-20241015_2Z7DMDKAY5ABNMZACYYHF6O62U/",
+    "date": "2024-10-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 150,
+        "value": "TotalEnergies"
+      },
+      {
+        "id": 273,
+        "value": "École polytechnique"
+      },
+      {
+        "id": 656,
+        "value": "L'Oréal"
+      },
+      {
+        "id": 852,
+        "value": "Université Toulouse III - Paul Sabatier"
+      },
+      {
+        "id": 1004,
+        "value": "Université Paris Sciences & Lettres (PSL)"
+      },
+      {
+        "id": 1005,
+        "value": "École des Mines de Nancy"
+      },
+      {
+        "id": 1006,
+        "value": "Acadamia"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2665,
+        "value": "Éducation / Enseignement"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2648,
+    "titre": "Trafic d’influence pour LVMH : pourquoi un ancien commissaire de police a été condamné",
+    "contenu": "Recruté à la direction de la sécurité du groupe de luxe de Bernard Arnault, Jean-François Digeon a accepté une peine de huit mois de prison avec sursis après un «plaider coupable». Il ne comparaîtra donc pas, à partir du 13 novembre, au procès qui vise notamment Bernard Squarcini, ex-chef du renseignement intérieur, avec qui il travaillait.",
+    "url": "https://www.liberation.fr/societe/police-justice/trafic-dinfluence-pour-lvmh-pourquoi-un-ancien-commissaire-de-police-a-ete-condamne-20241015_TMWTREWYYVEDDFPPPF7QIGYZEQ/",
+    "date": "2024-10-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 719,
+        "value": "Bernard Squarcini"
+      },
+      {
+        "id": 2201,
+        "value": "Jean-François Digeon"
+      },
+      {
+        "id": 2202,
+        "value": "Laurent Marcadier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      },
+      {
+        "id": 152,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      },
+      {
+        "id": 1003,
+        "value": "Direction centrale des Renseignements généraux (RG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2690,
+        "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2642,
@@ -903,6 +1157,58 @@
       {
         "id": 2652,
         "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2651,
+    "titre": "Image 7 place deux consultantes à Matignon et Beauvau",
+    "contenu": "Deux consultantes d'Image 7 ont annoncé à leurs collègues leur départ pour un cabinet ministériel.",
+    "url": "https://www.lalettre.fr/fr/action-publique_elysee-matignon/2024/10/07/image-7-place-deux-consultantes-a-matignon-et-beauvau%252C110314609-bre",
+    "date": "2024-10-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2130,
+        "value": "Michel Barnier"
+      },
+      {
+        "id": 2207,
+        "value": "Florence Coupry"
+      },
+      {
+        "id": 2208,
+        "value": "Bruno Retailleau"
+      },
+      {
+        "id": 2209,
+        "value": "Rebecca David"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 99,
+        "value": "Image 7"
+      },
+      {
+        "id": 619,
+        "value": "Ministère de l'Intérieur"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
       }
     ],
     "theme": [],
