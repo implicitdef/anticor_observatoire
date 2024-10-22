@@ -45,6 +45,55 @@
     "a_la_une": false
   },
   {
+    "id": 2658,
+    "titre": "Affaire du centre de déchets GDE : prison avec sursis et lourde amende requises contre Alain Lambert, ex Président du département de l'Orne",
+    "contenu": "Le procès de l'affaire du centre de déchets de GDE se poursuit au tribunal correctionnel de Paris, ce lundi 21 octobre 2024. Deux ans de prison avec sursis et 100 000 euros d'amende ont été requis à l'encontre d'Alain Lambert, l'ancien Président du département de l'Orne, accusé de trafic d'influence dans ce dossier.",
+    "url": "https://france3-regions.francetvinfo.fr/normandie/orne/affaire-du-centre-de-dechets-gde-prison-avec-sursis-et-lourde-amende-requises-contre-alain-lambert-ex-president-du-departement-de-l-orne-3048547.html",
+    "date": "2024-10-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2751,
+        "value": "61 - Orne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 822,
+        "value": "Alain Lambert"
+      },
+      {
+        "id": 823,
+        "value": "Alain Pelleray"
+      },
+      {
+        "id": 2214,
+        "value": "Claude Dauphin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 173,
+        "value": "Guy Dauphin Environnment (GDE)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2654,
     "titre": "Le match entre Tony Parker et le maire de la station de ski des Gets, en Haute-Savoie, se termine au tribunal",
     "contenu": "L’ancien champion de basket, reconverti dans l’exploitation de stations de ski, avait vu sa candidature à la reprise de la station des Gets brutalement interrompue par le maire, lui aussi candidat. Henri Anthonioz vient d’être renvoyé devant la justice pour « délit de favoritisme » et « prise illégale d’intérêt ».",
