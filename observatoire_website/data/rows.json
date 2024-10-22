@@ -1,5 +1,247 @@
 [
   {
+    "id": 2656,
+    "titre": "Affaire André Santini : l’enquête confiée à un juge d’instruction",
+    "contenu": "Une information judiciaire a été ouverte par le parquet de Nanterre, après des plaintes pour « agression sexuelle » et « harcèlement sexuel et moral » à l’encontre du maire d’Issy-les-Moulineaux.",
+    "url": "https://www.lemonde.fr/societe/article/2024/10/21/affaire-andre-santini-l-enquete-confiee-a-un-juge-d-instruction_6357540_3224.html",
+    "date": "2024-10-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2765,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1234,
+        "value": "André Santini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 1012,
+        "value": "Brigade de répression de la délinquance aux personnes (BRDP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2654,
+    "titre": "Le match entre Tony Parker et le maire de la station de ski des Gets, en Haute-Savoie, se termine au tribunal",
+    "contenu": "L’ancien champion de basket, reconverti dans l’exploitation de stations de ski, avait vu sa candidature à la reprise de la station des Gets brutalement interrompue par le maire, lui aussi candidat. Henri Anthonioz vient d’être renvoyé devant la justice pour « délit de favoritisme » et « prise illégale d’intérêt ».",
+    "url": "https://www.leparisien.fr/faits-divers/le-match-entre-tony-parker-et-le-maire-de-la-station-de-ski-des-gets-en-haute-savoie-se-termine-au-tribunal-21-10-2024-BOBUWKDNJREPPI2MBG5YOTU3KQ.php",
+    "date": "2024-10-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2761,
+        "value": "74 - Haute-Savoie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1283,
+        "value": "Tony Parker"
+      },
+      {
+        "id": 1284,
+        "value": "Henri Anthonioz"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2652,
+    "titre": "Petits arrangements, soupçons de détournement : les bonnes affaires de la «GUD connexion» avec le FN aux régionales de 2015",
+    "contenu": "De nouveaux éléments nourrissent les soupçons visant des prestataires du Front national lors de la campagne des régionales 2015 du FN. La justice enquête sur des détournements de fonds au préjudice de l’Etat.",
+    "url": "https://www.liberation.fr/politique/petits-arrangements-soupcons-de-detournement-les-bonnes-affaires-de-la-gud-connexion-avec-le-fn-aux-regionales-de-2015-20241021_LV575HOICRBL7ACLURBFWKJHQ4/",
+    "date": "2024-10-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 697,
+        "value": "Wallerand de Saint-Just"
+      },
+      {
+        "id": 802,
+        "value": "Frédéric Chatillon"
+      },
+      {
+        "id": 803,
+        "value": "Axel Loustau"
+      },
+      {
+        "id": 2210,
+        "value": "Jean-François Michaud"
+      },
+      {
+        "id": 2211,
+        "value": "Sophie Bancarel"
+      },
+      {
+        "id": 2212,
+        "value": "Christophe Chabassol"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 87,
+        "value": "Tracfin"
+      },
+      {
+        "id": 157,
+        "value": "Riwal"
+      },
+      {
+        "id": 1010,
+        "value": "Presses de France"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2657,
+    "titre": "Notes de frais de représentation et de bouche d'Anne Hidalgo : victoire en justice pour la maire de Paris",
+    "contenu": "Le 17 octobre, le tribunal administratif de Paris a estimé qu'Anne Hidalgo n'avait pas à fournir ses frais de représentation et de restauration réclamés par trois associations.",
+    "url": "https://actu.fr/ile-de-france/paris_75056/notes-de-frais-de-representation-et-de-bouche-d-anne-hidalgo-victoire-en-justice-pour-la-maire-de-paris_61759623.html",
+    "date": "2024-10-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 657,
+        "value": "Anne Hidalgo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1013,
+        "value": "Union parisienne"
+      },
+      {
+        "id": 1014,
+        "value": "Rouler libre"
+      },
+      {
+        "id": 1015,
+        "value": "Comité Marais Paris"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2653,
+    "titre": "Affaire AAIR : sursis requis en appel contre le maire de Roubaix Guillaume Delbar",
+    "contenu": "Le procès en appel du maire de Roubaix Guillaume Delbar dans l'affaire de l'association AAIR s'est tenu ce jeudi devant la cour d'appel de Douai. L'avocat général a requis 3 mois de prison avec sursis à l'encontre de l'élu, soupçonné de négligence ayant permis un détournement de fonds public",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/affaire-aair-sursis-requis-en-appel-contre-le-maire-de-roubaix-guillaume-delbar-8557676",
+    "date": "2024-10-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2749,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1363,
+        "value": "Guillaume Delbar"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 545,
+        "value": "AAIR"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2644,
     "titre": "L’ex-ministre de la santé Agnès Firmin Le Bodo condamnée pour ses liens avec l’industrie pharmaceutique",
     "contenu": "Pharmacienne de profession, Agnès Firmin Le Bodo a reçu de nombreux cadeaux de la part des laboratoires Urgo, de 2015 à 2020. L’ancienne ministre, qui siège aujourd’hui à l’Assemblée nationale, a reconnu les faits au terme d’une procédure de plaider-coupable, selon les informations de Mediapart.",
@@ -3514,6 +3756,46 @@
         "value": "Procès"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2655,
+    "titre": "L'ex-patron de la DGSI aide des anciens du Trésor à traquer les contourneurs de sanctions",
+    "contenu": "Continuant à opérer comme consultant, l'ancien contre-espion français Patrick Calvar va épauler la très connectée société américaine Kharon, spécialisée dans les enquêtes sur le respect des sanctions économiques édictées par les autorités américaines.",
+    "url": "https://www.intelligenceonline.fr/renseignement-d-affaires/2024/09/23/l-ex-patron-de-la-dgsi-aide-des-anciens-du-tresor-a-traquer-les-contourneurs-de-sanctions,110308739-art",
+    "date": "2024-09-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2213,
+        "value": "Patrick Calvar"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 152,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      },
+      {
+        "id": 1011,
+        "value": "Kharon"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
