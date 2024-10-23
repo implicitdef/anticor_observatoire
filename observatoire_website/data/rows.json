@@ -1,5 +1,54 @@
 [
   {
+    "id": 2659,
+    "titre": "Comment la justice négociée est devenue prisée des cols blancs",
+    "contenu": "Ces procédures sont devenues un outil incontournable de la réponse pénale à la corruption et à la fraude fiscale. Le dispositif reste très discuté : est-ce un instrument au service de l’efficacité judiciaire ou l’illustration d’une justice à deux vitesses ?",
+    "url": "https://www.lemonde.fr/societe/article/2024/10/22/comment-la-justice-negociee-est-devenue-prisee-des-cols-blancs_6358250_3224.html",
+    "date": "2024-10-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      },
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2691,
+        "value": "Convention judiciaire d'intérêt public (CJIP)"
+      },
+      {
+        "id": 2690,
+        "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2656,
     "titre": "Affaire André Santini : l’enquête confiée à un juge d’instruction",
     "contenu": "Une information judiciaire a été ouverte par le parquet de Nanterre, après des plaintes pour « agression sexuelle » et « harcèlement sexuel et moral » à l’encontre du maire d’Issy-les-Moulineaux.",
@@ -206,6 +255,67 @@
     "a_la_une": true
   },
   {
+    "id": 2660,
+    "titre": "Trois ex-députés hors délai pour déposer leur déclaration de patrimoine",
+    "contenu": "Patrice Perrot, Pascal Lavergne et Rachel Keke ont tous trois eu leur fiche personnelle afficher la mention « déclaration non déposée » sur le site de la HATVP.",
+    "url": "https://www.lemonde.fr/politique/article/2024/10/21/trois-ex-deputes-hors-delai-pour-deposer-leur-declaration-de-patrimoine_6357734_823448.html",
+    "date": "2024-10-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 281,
+        "value": "Rachel Keke"
+      },
+      {
+        "id": 302,
+        "value": "Pascal Lavergne"
+      },
+      {
+        "id": 433,
+        "value": "Patrice Perrot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 13,
+        "value": "Renaissance"
+      },
+      {
+        "id": 15,
+        "value": "La France Insoumise (LFI)"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2657,
     "titre": "Notes de frais de représentation et de bouche d'Anne Hidalgo : victoire en justice pour la maire de Paris",
     "contenu": "Le 17 octobre, le tribunal administratif de Paris a estimé qu'Anne Hidalgo n'avait pas à fournir ses frais de représentation et de restauration réclamés par trois associations.",
@@ -242,6 +352,50 @@
       {
         "id": 2651,
         "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2661,
+    "titre": "«DRH officieux» de Barnier : un député saisit la HATVP",
+    "contenu": "L’élu écolo Emmanuel Duplessy demande à l’autorité d’effectuer un «contrôle a posteriori» sur le cas du conseiller non officiel du Premier ministre, qui n’a pas eu à se soumettre aux vérifications déontologiques.",
+    "url": "https://www.liberation.fr/politique/drh-officieux-de-barnier-un-depute-saisit-la-hatvp-20241018_QWVLAH3M5BHGNHQFGUWOA7AC7E/?redirected=1",
+    "date": "2024-10-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2130,
+        "value": "Michel Barnier"
+      },
+      {
+        "id": 2215,
+        "value": "Simon Dufeigneux"
+      },
+      {
+        "id": 2216,
+        "value": "Emmanuel Duplessy"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
       }
     ],
     "theme": [],
