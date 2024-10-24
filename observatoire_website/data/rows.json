@@ -1,5 +1,156 @@
 [
   {
+    "id": 2663,
+    "titre": "L'ex-ministre Thomas Cazenave retourné par le lobby des casinos en ligne",
+    "contenu": "Le député macroniste a déposé dans l'hémicycle un amendement travaillé par des lobbyistes de Betclic et l'Association française des jeux en ligne. Son contenu est à l'exact opposé des positions que l'ancien ministre défendait à Bercy.",
+    "url": "https://www.lalettre.fr/fr/action-publique_lobbying/2024/10/24/l-ex-ministre-thomas-cazenave-retourne-par-le-lobby-des-casinos-en-ligne%252C110331215-art",
+    "date": "2024-10-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 752,
+        "value": "Thomas Cazenave"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 1016,
+        "value": "Betclic"
+      },
+      {
+        "id": 1017,
+        "value": "Association française des jeux en ligne (AFJEL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2671,
+        "value": "Jeux d'argent"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2664,
+    "titre": "Marc-Etienne Lansade, maire de Cogolin, à nouveau mis en examen",
+    "contenu": "Marc-Etienne Lansade, l’édile de la commune du Var, déjà mis en cause dans plusieurs dossiers financiers et condamné en septembre pour « abus de faiblesse », a été mis en examen en septembre dans un nouveau dossier. Il est soupçonné d’avoir touché des sommes importantes en échange de l’attribution d’un important marché public.",
+    "url": "https://www.lemonde.fr/societe/article/2024/10/24/le-maire-de-cogolin-a-nouveau-mis-en-examen_6359139_3224.html",
+    "date": "2024-10-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2217,
+        "value": "Marc-Etienne Lansade"
+      },
+      {
+        "id": 2218,
+        "value": "Jean-Michel Hayotte"
+      },
+      {
+        "id": 2219,
+        "value": "Eric Giorsetti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 179,
+        "value": "Reconquête"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2662,
+    "titre": "Pannier-Runacher recycle un ex-ministre",
+    "contenu": "Le ministère d'Agnès Pannier-Runacher a accueilli pour une présentation Jean-François Carenco, anciennement aux Outre-Mer à présent à la Federec, le lobby des professionnels du… recyclage. Voilà qui tombe à point nommé.",
+    "url": "https://www.lecanardenchaine.fr/politique/49202-pannier-runacher-recycle-un-ex",
+    "date": "2024-10-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 739,
+        "value": "Jean-François Carenco"
+      },
+      {
+        "id": 1047,
+        "value": "Agnès Pannier-Runacher"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 115,
+        "value": "Fédération professionnelle des entreprises du recyclage (Federec)"
+      },
+      {
+        "id": 186,
+        "value": "Ministère de l'Écologie"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2659,
     "titre": "Comment la justice négociée est devenue prisée des cols blancs",
     "contenu": "Ces procédures sont devenues un outil incontournable de la réponse pénale à la corruption et à la fraude fiscale. Le dispositif reste très discuté : est-ce un instrument au service de l’efficacité judiciaire ou l’illustration d’une justice à deux vitesses ?",
