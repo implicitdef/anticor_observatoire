@@ -102,6 +102,51 @@
     "a_la_une": false
   },
   {
+    "id": 2667,
+    "titre": "Dix-huit mois de prison avec sursis requis contre le député Max Mathiasin",
+    "contenu": "Le député LIOT de Guadeloupe est poursuivi pour abus de confiance notamment, lorsqu’il était le directeur, jusqu’en 2016, de la caisse des écoles de Pointe-à-Pitre. Mardi 22 octobre 2024, le parquet a rendu ses réquisitions dans ce procès pour lequel il comparaît avec deux autres prévenus.",
+    "url": "https://www.ouest-france.fr/region-guadeloupe/guadeloupe-dix-huit-mois-de-prison-avec-sursis-requis-contre-le-depute-max-mathiasin-f004b316-9146-11ef-83a4-0ededa6d6967",
+    "date": "2024-10-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 373,
+        "value": "Max Mathiasin"
+      },
+      {
+        "id": 2221,
+        "value": "Bernard Leporcq"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1018,
+        "value": "Caisse des écoles de Pointe-à-Pitre"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2662,
     "titre": "Pannier-Runacher recycle un ex-ministre",
     "contenu": "Le ministère d'Agnès Pannier-Runacher a accueilli pour une présentation Jean-François Carenco, anciennement aux Outre-Mer à présent à la Federec, le lobby des professionnels du… recyclage. Voilà qui tombe à point nommé.",
@@ -138,6 +183,67 @@
       {
         "id": 2651,
         "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2666,
+    "titre": "Soupçons de corruption d’un député français : les indices autour du Qatar comme commanditaire se multiplient",
+    "contenu": "Le politologue Nabil Ennasri, mis en examen dans une affaire d’ingérence étrangère présumée, est soupçonné d’avoir corrompu l’ancien député français Hubert Julien-Laferrière. D’après les derniers éléments de l’enquête, une commission qatarie pourrait l’avoir rémunéré.",
+    "url": "https://www.sudouest.fr/justice/soupcons-de-corruption-d-un-depute-francais-les-indices-autour-du-qatar-comme-commanditaire-se-multiplient-21879134.php",
+    "date": "2024-10-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2807,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 274,
+        "value": "Hubert Julien-Laferrière"
+      },
+      {
+        "id": 602,
+        "value": "Jean-Pierre Duthion"
+      },
+      {
+        "id": 615,
+        "value": "Rachid M’Barki"
+      },
+      {
+        "id": 689,
+        "value": "Nabil Ennasri"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
       }
     ],
     "theme": [
@@ -196,6 +302,50 @@
         "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2665,
+    "titre": "Procès des assistants européens du RN : le passé décomposé de Julien Odoul",
+    "contenu": "A la barre du tribunal correctionnel de Paris ce mardi 22 octobre, le député RN de l’Yonne et Mylène Troszczynski, son employeuse officielle au Parlement européen entre octobre 2014 et juillet 2015, ont peiné à justifier leur quasi-absence de contacts lors de cette période. Lui collaborait en réalité au cabinet de Marine Le Pen.",
+    "url": "https://www.liberation.fr/societe/police-justice/proces-des-assistants-europeens-du-rn-le-passe-decompose-de-julien-odoul-20241022_46XNQ3NLQRHUNMUCWQJPCQZVQY/?redirected=1",
+    "date": "2024-10-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2779,
+        "value": "89 - Yonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 412,
+        "value": "Julien Odoul"
+      },
+      {
+        "id": 2220,
+        "value": "Mylène Troszczynski"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -551,7 +701,7 @@
     ],
     "theme": [],
     "procedure": [],
-    "titre_corrige": "",
+    "titre_corrige": "Le député écologiste Emmanuel Duplessy saisit la HATVP au sujet du \"DRH officieux\" de Michel Barnier",
     "a_la_une": false
   },
   {
@@ -840,7 +990,7 @@
   {
     "id": 2649,
     "titre": "Total, L’Oréal... quand des multinationales dictent leur loi à l’enseignement supérieur",
-    "contenu": "«Libération» s’est procuré des contrats de mécénat liant entreprises et universités : clause de non-dénigrement, possibilité pour les grands groupes d’influer sur le choix des conférences et des thèses… Une association de jeunes ingénieurs lance un appel à la transparence.",
+    "contenu": "Libération s’est procuré des contrats de mécénat liant entreprises et universités : clause de non-dénigrement, possibilité pour les grands groupes d’influer sur le choix des conférences et des thèses… Une association de jeunes ingénieurs lance un appel à la transparence.",
     "url": "https://www.liberation.fr/societe/education/total-loreal-quand-des-multinationales-dictent-leur-loi-a-lenseignement-superieur-20241015_2Z7DMDKAY5ABNMZACYYHF6O62U/",
     "date": "2024-10-15",
     "etiquettes": "",
@@ -955,7 +1105,7 @@
         "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
       }
     ],
-    "titre_corrige": "",
+    "titre_corrige": "Jean-François Digeon, ex-commissaire de police employé par LVMH, condamné dans le cadre d'une CRPC",
     "a_la_une": false
   },
   {
