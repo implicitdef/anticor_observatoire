@@ -1,5 +1,83 @@
 [
   {
+    "id": 2668,
+    "titre": "L'ancien préfet Alain Gardère condamné à deux ans de prison, dont un an ferme sous bracelet électronique",
+    "contenu": "« Arrangements » et « passe-droits » dans les services de l’Etat d’un côté, « système corruptif d’élus locaux » de l’autre : dix hommes – dont un ancien préfet, trois actuels ou anciens maires franciliens et des entrepreneurs du secteur de bâtiment et des travaux publics (BTP) – ont été condamnés, jeudi 24 octobre, à Paris. Au total, treize personnes et deux entreprises ont été jugées en mai et juin à Paris, dans un dossier à deux volets dont l’enquête avait débuté par des soupçons autour du train de vie d’Alain Gardère, 68 ans, ex-préfet de police de Marseille.",
+    "url": "https://www.lemonde.fr/societe/article/2024/10/24/corruption-et-trafic-d-influence-l-ancien-prefet-alain-gardere-condamne-a-deux-ans-de-prison-dont-un-an-ferme-sous-bracelet-electronique_6359245_3224.html",
+    "date": "2024-10-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1506,
+        "value": "Alain Gardère"
+      },
+      {
+        "id": 1507,
+        "value": "Antonio De Sousa"
+      },
+      {
+        "id": 1864,
+        "value": "Jean-François Oneto"
+      },
+      {
+        "id": 1865,
+        "value": "Sinclair Vouriot"
+      },
+      {
+        "id": 1930,
+        "value": "Gérald Hérault"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 634,
+        "value": "France Pierre"
+      },
+      {
+        "id": 678,
+        "value": "Conseil national des activités de sécurité privées (CNAPS)"
+      },
+      {
+        "id": 1019,
+        "value": "Banque BCP"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2663,
     "titre": "L'ex-ministre Thomas Cazenave retourné par le lobby des casinos en ligne",
     "contenu": "Le député macroniste a déposé dans l'hémicycle un amendement travaillé par des lobbyistes de Betclic et l'Association française des jeux en ligne. Son contenu est à l'exact opposé des positions que l'ancien ministre défendait à Bercy.",
@@ -442,6 +520,42 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2669,
+    "titre": "Joseph Afribo fixé sur son sort par la justice le 25 novembre dans l’affaire dite « des enveloppes »",
+    "contenu": "Le maire de Rethel comparaissait ce lundi 21 octobre 2024 devant le tribunal de Charleville-Mézières pour des faits qui remontent à la période où il était maire d’Acy-Romance.",
+    "url": "https://www.lardennais.fr/id653008/article/2024-10-21/joseph-afribo-fixe-sur-son-sort-par-la-justice-le-25-novembre-dans-laffaire-dite",
+    "date": "2024-10-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2705,
+        "value": "08 - Ardennes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1903,
+        "value": "Joseph Afribo"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2654,
