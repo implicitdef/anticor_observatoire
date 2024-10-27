@@ -558,6 +558,37 @@
     "a_la_une": false
   },
   {
+    "id": 2671,
+    "titre": "Le Conseil constitutionnel donne tort à la Ville d'Istres sur la demande de protection fonctionnelle du maire",
+    "contenu": "Le Conseil constitutionnel s’est penché le 10 octobre dernier sur un des arguments avancés par la Ville pour appuyer la controversée demande de protection fonctionnelle du maire. Et l’a invalidé.",
+    "url": "https://www.laprovence.com/article/region/6548404118152914/le-conseil-constitutionnel-donne-tort-a-la-ville-distres-sur-la-demande-de-protection-fonctionnelle-du-maire",
+    "date": "2024-10-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1568,
+        "value": "François Bernardini"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2654,
     "titre": "Le match entre Tony Parker et le maire de la station de ski des Gets, en Haute-Savoie, se termine au tribunal",
     "contenu": "L’ancien champion de basket, reconverti dans l’exploitation de stations de ski, avait vu sa candidature à la reprise de la station des Gets brutalement interrompue par le maire, lui aussi candidat. Henri Anthonioz vient d’être renvoyé devant la justice pour « délit de favoritisme » et « prise illégale d’intérêt ».",
@@ -775,6 +806,42 @@
     "a_la_une": false
   },
   {
+    "id": 2670,
+    "titre": "Prison ferme requise pour un ex-cadre de cette ville vendéenne, au cœur d'un « trafic d'influence »",
+    "contenu": "Un an de prison ferme et trois autres avec sursis ont été requis, mercredi 16 octobre 2024, contre un ancien cadre de la ville de La Roche-sur-Yon (Vendée), qui était jugé pour « trafic d’influence » et « atteinte la liberté d’accès ou à l’égalité des candidats dans les marchés publics » quand il travaillait comme chef de service à Nantes Métropole en 2009 et 2010.",
+    "url": "https://actu.fr/pays-de-la-loire/la-roche-sur-yon_85191/prison-ferme-requise-pour-un-ex-cadre-de-cette-ville-vendeenne-au-coeur-dun-trafic-dinfluence_61747523.html",
+    "date": "2024-10-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2738,
+        "value": "44 - Loire-Atlantique"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1020,
+        "value": "Société nationale d’études et de coordination (SNEC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "Prison ferme requise pour un ex-cadre de Nantes Métropole, jugé pour « trafic d'influence »",
+    "a_la_une": false
+  },
+  {
     "id": 2661,
     "titre": "«DRH officieux» de Barnier : un député saisit la HATVP",
     "contenu": "L’élu écolo Emmanuel Duplessy demande à l’autorité d’effectuer un «contrôle a posteriori» sur le cas du conseiller non officiel du Premier ministre, qui n’a pas eu à se soumettre aux vérifications déontologiques.",
@@ -925,6 +992,50 @@
     "a_la_une": true
   },
   {
+    "id": 2676,
+    "titre": "Un très proche de Barnier a joué les «DRH officieux» de Matignon tout en bossant dans le privé",
+    "contenu": "Simon Dufeigneux, ancien collaborateur du Premier ministre, a participé à constituer son cabinet à Matignon. Sans être officiellement nommé et en parallèle de son poste de direction chez Sisley. Il a ainsi évité le contrôle de la Haute Autorité pour la transparence de la vie publique, mais lui comme l’entourage de Barnier démentent tout «conflit d’intérêts».",
+    "url": "https://www.liberation.fr/politique/un-tres-proche-de-barnier-a-joue-les-drh-officieux-de-matignon-tout-en-bossant-dans-le-prive-20241017_F57SMNV7OBEOLONSSUK2C7TEAM/?redirected=1",
+    "date": "2024-10-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2130,
+        "value": "Michel Barnier"
+      },
+      {
+        "id": 2215,
+        "value": "Simon Dufeigneux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 1023,
+        "value": "Sisley"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "Un proche de Michel Barnier employé dans le privé a participé activement à la constitution du cabinet du nouveau Premier ministre",
+    "a_la_une": false
+  },
+  {
     "id": 2646,
     "titre": "La HATVP décroche de nouveaux moyens pour lutter contre les ingérences étrangères",
     "contenu": "Les effectifs de l'autorité administrative indépendante seront renforcés pour lui permettre de mener sa mission sur les ingérences étrangères. Fin mai, l'ex-président de la HATVP, Didier Migaud, s'était tourné vers le Sénat pour réclamer des moyens supplémentaires.",
@@ -954,6 +1065,63 @@
       {
         "id": 2672,
         "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2675,
+    "titre": "Nucléaire : un parfum de conflit d’intérêts souffle sur la future autorité de sûreté",
+    "contenu": "L’actuel directeur général de l’Agence nationale pour la gestion des déchets radioactifs peut-il prendre la tête de la future autorité de sûreté nucléaire, alors qu’elle devra se prononcer sur le centre de stockage qu’il a développé pendant dix ans ? La question secoue le monde de l’atome.",
+    "url": "https://www.mediapart.fr/journal/economie-et-social/161024/nucleaire-un-parfum-de-conflit-d-interets-souffle-sur-la-future-autorite-de-surete",
+    "date": "2024-10-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3068,
+        "value": "52 - Haute-Marne"
+      },
+      {
+        "id": 3946,
+        "value": "55 - Meuse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2222,
+        "value": "Pierre-Marie Abadie"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 101,
+        "value": "Électricité de France (EDF)"
+      },
+      {
+        "id": 1021,
+        "value": "Agence nationale pour la gestion des déchets radioactifs (ANDRA)"
+      },
+      {
+        "id": 1022,
+        "value": "Autorité de sûreté nucléaire et de radioprotection (ASNR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2666,
+        "value": "Énergie"
       }
     ],
     "procedure": [],
@@ -1102,6 +1270,42 @@
     "a_la_une": false
   },
   {
+    "id": 2672,
+    "titre": "Oui, Éric Dupond-Moretti peut redevenir avocat… mais sous certaines conditions",
+    "contenu": "Sollicitée par l’ancien ministre de la Justice, la Haute autorité pour la transparence de la vie publique a autorisé Éric Dupond-Moretti à redevenir avocat mais en émettant « certaines réserves ».",
+    "url": "https://www.20minutes.fr/politique/4115740-20241015-oui-eric-dupond-moretti-peut-redevenir-avocat-sous-certaines-conditions",
+    "date": "2024-10-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 658,
+        "value": "Éric Dupond-Moretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "Éric Dupond-Moretti peut redevenir avocat, sous certaines conditions",
+    "a_la_une": false
+  },
+  {
     "id": 2649,
     "titre": "Total, L’Oréal... quand des multinationales dictent leur loi à l’enseignement supérieur",
     "contenu": "Libération s’est procuré des contrats de mécénat liant entreprises et universités : clause de non-dénigrement, possibilité pour les grands groupes d’influer sur le choix des conférences et des thèses… Une association de jeunes ingénieurs lance un appel à la transparence.",
@@ -1220,6 +1424,50 @@
       }
     ],
     "titre_corrige": "Jean-François Digeon, ex-commissaire de police employé par LVMH, condamné dans le cadre d'une CRPC",
+    "a_la_une": false
+  },
+  {
+    "id": 2674,
+    "titre": "Le Conseil d’État désavoue la Haute autorité pour la transparence de la vie publique",
+    "contenu": "Alors qu’elle estimait que l’Institut Montaigne, comme tous les «think-tank», était soumis aux obligations déclaratives prévues par la loi pour la transparence de la vie publique, les sages du Palais Royal lui ont donné tort : un cercle de réflexion ne peut pas être considéré comme un lobbyiste.",
+    "url": "https://www.lefigaro.fr/actualite-france/le-conseil-d-etat-desavoue-la-haute-autorite-pour-la-transparence-de-la-vie-publique-20241014",
+    "date": "2024-10-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 327,
+        "value": "Conseil d'État"
+      },
+      {
+        "id": 729,
+        "value": "Institut Montaigne"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
     "a_la_une": false
   },
   {
@@ -1496,6 +1744,62 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2677,
+    "titre": "Accusée de détournement de fonds, la présidente du tribunal de Fort-de-France maintenue en poste par le Conseil supérieur de la magistrature",
+    "contenu": "C'est une victoire pour les avocats de la présidente du tribunal judiciaire de Fort-de-France, Karine Gonnet. Le Conseil supérieur de la magistrature (CSM) a rejeté la deman d'interdiction temporaire d'exercer qui était formulée à son encontre.",
+    "url": "https://www.lalettre.fr/fr/action-publique_collectivites-et-territoires/2024/10/10/accusee-de-detournement-de-fonds-la-presidente-du-tribunal-de-fort-de-france-maintenue-en-poste-par-le-conseil-superieur-de-la-magistrature,110315951-bre",
+    "date": "2024-10-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2784,
+        "value": "972 - Martinique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2030,
+        "value": "Micheline Virgal"
+      },
+      {
+        "id": 2031,
+        "value": "Karine Gonnet"
+      },
+      {
+        "id": 2191,
+        "value": "Laurent Sabatier"
+      },
+      {
+        "id": 2192,
+        "value": "Patrice Cambérou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 362,
+        "value": "Conseil supérieur de la magistrature (CSM)"
+      },
+      {
+        "id": 902,
+        "value": "Conseil Départemental de l’Accès au Droit (CDAD)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2638,
@@ -2121,6 +2425,42 @@
     "a_la_une": true
   },
   {
+    "id": 2680,
+    "titre": "Le maire de Pont-Sainte-Marie, Pascal Landréat, relaxé de la charge de détournement de fonds publics",
+    "contenu": "Pascal Landréat a été relaxé de l’essentiel des poursuites, à savoir le détournement de biens publics. Il a été condamné pour prise illégale d’intérêts mais sans peine d’inéligibilité. Une victoire pour le maire de Pont-Sainte-Marie qui peut conserver ses mandats.",
+    "url": "https://www.lest-eclair.fr/id647906/article/2024-10-07/le-maire-de-pont-sainte-marie-pascal-landreat-relaxe-pour-detournement-de-fonds",
+    "date": "2024-10-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 3063,
+        "value": "10 - Aube"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 638,
+        "value": "Pascal Landréat"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement / acquittement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2620,
     "titre": "Fausses preuves pour emploi fantôme : nouvelles révélations sur Jordan Bardella",
     "contenu": "L’actuel président du RN, Jordan Bardella, a-t-il truqué près de 1500 pages de documents pour maquiller l’emploi fictif qu’il a occupé en 2015 au Parlement européen ? Après de premières révélations, publiées en septembre, Libération a eu accès à de nouvelles pièces, bien plus nombreuses et toujours aussi incriminantes pour Bardella, qui n’est pourtant pas concerné par le procès en cours visant le RN et nombre de ses cadres, dont Marine Le Pen.",
@@ -2221,6 +2561,86 @@
     "a_la_une": true
   },
   {
+    "id": 2679,
+    "titre": "La vente controversée d'un restaurant pourrait précipiter la chute d'une agglomération déjà en pleine tempête judiciaire",
+    "contenu": "La vente d’un bien suscite des remous au sein de la communauté d’agglomération Gaillac-Graulhet. La collectivité est déjà secouée par la mise en examen de son président, Paul Salvador, pour corruption, prise illégale d’intérêt et favoritisme. Une opération immobilière déclenche de nouvelles interrogations et tensions.",
+    "url": "https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/la-vente-controversee-pourrait-precipiter-la-chute-d-une-agglomeration-deja-en-pleine-tempete-judiciaire-3041224.html",
+    "date": "2024-10-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2771,
+        "value": "81 - Tarn"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1113,
+        "value": "Paul Salvador"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2678,
+    "titre": "Exploitation du château de la Buzine : le petit-fils de Marcel Pagnol a porté plainte contre le maire de Marseille pour chantage et favoritisme",
+    "contenu": "Nicolas Pagnol, le petit-fils de Marcel Pagnol, a annoncé ce jeudi avoir porté plainte contre le maire de Marseille Benoît Payan pour chantage et favoritisme, rapporte France Bleu Provence(Nouvelle fenêtre). Dans sa plainte, dont il a publié un extrait sur le réseau X, Nicolas Pagnol évoque une \"tentative d'atteinte à la liberté et l'égalité d'accès aux marchés publics ou de délégation de service public\", ainsi qu’une \"tentative de chantage\" de la part de la municipalité. La plainte vise aussi Jean-Marc Coppola, adjoint au maire en charge de la culture.",
+    "url": "https://www.francetvinfo.fr/culture/patrimoine/exploitation-du-chateau-de-la-buzine-le-petit-fils-de-marcel-pagnol-a-porte-plainte-contre-le-maire-de-marseille-pour-chantage-et-favoritisme_6816956.html",
+    "date": "2024-10-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2223,
+        "value": "Benoît Payan"
+      },
+      {
+        "id": 2224,
+        "value": "Nicolas Pagnol"
+      },
+      {
+        "id": 2225,
+        "value": "Jean-Marc Coppola"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1024,
+        "value": "Château de la Buzine"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2630,
     "titre": "Le discret rendez-vous d'Antoine Armand chez les patrons du CAC 40",
     "contenu": "Le nouveau ministre de l'économie s'est rendu ce week-end au siège de l'Afep, le lobby des plus grands groupes hexagonaux. Trois jours avant le discours de politique générale de Michel Barnier, il y a écouté les recommandations d'une quinzaine de patrons du CAC 40.",
@@ -2257,6 +2677,54 @@
         "value": "Lobbying / Influence / Ingérence"
       }
     ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2673,
+    "titre": "Marché du Sedif : le PNF clôt l'enquête pour favoritisme, mais transmet le volet \"cyber\"",
+    "contenu": "Le Parquet national financier a classé, en août, la procédure ouverte pour favoritisme concernant l'attribution du marché de l'eau par le Syndicat des eaux d'Île-de-France à Veolia. La justice va toutefois poursuivre ses investigations sur l'accès frauduleux à des fichiers ultraconfidentiels.",
+    "url": "https://www.lalettre.fr/fr/entreprises_energie-et-environnement/2024/10/03/marche-du-sedif--le-pnf-clot-l-enquete-pour-favoritisme-mais-transmet-le-volet-cyber,110313448-art",
+    "date": "2024-10-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1234,
+        "value": "André Santini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 181,
+        "value": "Veolia"
+      },
+      {
+        "id": 182,
+        "value": "Suez"
+      },
+      {
+        "id": 183,
+        "value": "Syndicat des eaux d’Île-de-France (Sedif)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -2622,6 +3090,42 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2681,
+    "titre": "La Savoie accusée de soutenir abusivement les projets de Stéphane Courbit",
+    "contenu": "Le vice-président du département est visé par une plainte pour « prise illégale d’intérêt, corruption et trafic d’influence ». Les affaires hôtelières du producteur télé à Courchevel et Val d’Isère auraient prospéré grâce à son entremise.",
+    "url": "https://www.linforme.com/luxe/article/la-savoie-accusee-de-soutenir-abusivement-les-projets-de-stephane-courbit_2089.html",
+    "date": "2024-10-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2760,
+        "value": "73 - Savoie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1723,
+        "value": "Stéphane Courbit"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
