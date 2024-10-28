@@ -40,6 +40,103 @@
     "a_la_une": true
   },
   {
+    "id": 2689,
+    "titre": "Thierry Mandon, ancien secrétaire d'État, comparaît pour escroquerie et détournement de biens publics",
+    "contenu": "L'ancien secrétaire d'État socialiste Thierry Mandon doit être entendu devant le tribunal correctionnel de Saint-Étienne. Il est accusé de \"tentative de détournement de biens publics\" et \"escroquerie\" pour des faits remontant à son mandat de directeur général de la Cité du design de Saint-Étienne.",
+    "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/loire/saint-etienne/thierry-mandon-ancien-secretaire-d-etat-comparait-pour-escroquerie-et-detournement-de-biens-publics-3051802.html",
+    "date": "2024-10-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2736,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1253,
+        "value": "Thierry Mandon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 478,
+        "value": "Cité du design (Saint-Étienne)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2690,
+    "titre": "L’ex-maire en situation de conflit d’intérêts concernant la plateforme de compost au nord de Nantes",
+    "contenu": "D’après l’avis du déontologue, saisi par l’association anti-corruption Anticor, la situation de Fabrice Roussel – ancien maire socialiste de La Chapelle-sur-Erdre et désormais député – « a pu être à risque » au moment de prendre part au vote d’une subvention, en 2018, de 115 000 € en faveur de Terra Ter, dont le gérant n’était autre que son adjoint.",
+    "url": "https://www.ouest-france.fr/pays-de-la-loire/la-chapelle-sur-erdre-44240/lex-maire-en-situation-de-conflit-dinterets-concernant-la-plateforme-de-compost-au-nord-de-nantes-49e41dc8-9362-11ef-8d50-f75a8f5479a6",
+    "date": "2024-10-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2738,
+        "value": "44 - Loire-Atlantique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2226,
+        "value": "Fabrice Roussel"
+      },
+      {
+        "id": 2227,
+        "value": "Jean-Noël Lebossé"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 300,
+        "value": "Parti communiste français (PCF)"
+      },
+      {
+        "id": 1026,
+        "value": "Nantes Nord"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "Fabrice Roussel, ex-maire de La Chapelle-sur-Erdre, en situation de conflit d’intérêts concernant la plateforme de compost au nord de Nantes",
+    "a_la_une": false
+  },
+  {
     "id": 2668,
     "titre": "L'ancien préfet Alain Gardère condamné à deux ans de prison, dont un an ferme sous bracelet électronique",
     "contenu": "« Arrangements » et « passe-droits » dans les services de l’Etat d’un côté, « système corruptif d’élus locaux » de l’autre : dix hommes – dont un ancien préfet, trois actuels ou anciens maires franciliens et des entrepreneurs du secteur de bâtiment et des travaux publics (BTP) – ont été condamnés, jeudi 24 octobre, à Paris. Au total, treize personnes et deux entreprises ont été jugées en mai et juin à Paris, dans un dossier à deux volets dont l’enquête avait débuté par des soupçons autour du train de vie d’Alain Gardère, 68 ans, ex-préfet de police de Marseille.",
@@ -354,6 +451,59 @@
     "a_la_une": false
   },
   {
+    "id": 2686,
+    "titre": "Procès du RN : Timothée Houssin et Nicolas Bay jugés pour recel et détournement de fonds publics",
+    "contenu": "Les Normands Timothée Houssin et Nicolas Bay ont-ils indûment bénéficié de fonds européens entre 2014 et 2015 ? Les deux hommes sont mis en examen dans le cadre de l'affaire des assistants parlementaires européens du FN. Ils doivent s'expliquer devant le tribunal correctionnel de Paris, ce mercredi 23 octobre 2024.",
+    "url": "https://france3-regions.francetvinfo.fr/normandie/seine-maritime/proces-du-rn-timothee-houssin-et-nicolas-bay-juges-pour-recel-et-detournement-de-fonds-publics-3049405.html",
+    "date": "2024-10-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2719,
+        "value": "27 - Eure"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 259,
+        "value": "Timothée Houssin"
+      },
+      {
+        "id": 696,
+        "value": "Nicolas Bay"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2666,
     "titre": "Soupçons de corruption d’un député français : les indices autour du Qatar comme commanditaire se multiplient",
     "contenu": "Le politologue Nabil Ennasri, mis en examen dans une affaire d’ingérence étrangère présumée, est soupçonné d’avoir corrompu l’ancien député français Hubert Julien-Laferrière. D’après les derniers éléments de l’enquête, une commission qatarie pourrait l’avoir rémunéré.",
@@ -565,6 +715,59 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2687,
+    "titre": "Procès du RN : Julien Odoul et Mylène Troszczynski face à leurs contradictions et des preuves accablantes",
+    "contenu": "L’actuel porte-parole du Rassemblement National a répondu mardi 22 octobre devant le tribunal correctionnel de Paris des accusations de recel de détournement de fonds publics dont il fait l’objet pour son contrat d’assistant parlementaire avec l’eurodéputée, Mylène Troszczynski.",
+    "url": "https://www.humanite.fr/politique/assistants-parlementaires/proces-du-rn-julien-odoul-et-mylene-troszczynski-face-a-leurs-contradictions-et-des-preuves-accablantes",
+    "date": "2024-10-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2779,
+        "value": "89 - Yonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 412,
+        "value": "Julien Odoul"
+      },
+      {
+        "id": 2220,
+        "value": "Mylène Troszczynski"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -1106,6 +1309,42 @@
       }
     ],
     "titre_corrige": "Deux ans de prison avec sursis requis contre Rodrigue Solitude dans l’affaire Respire +",
+    "a_la_une": false
+  },
+  {
+    "id": 2688,
+    "titre": "Damien Castelain, un petit tour au tribunal et puis s’en va pas",
+    "contenu": "La justice passe… Damien Castelain reste. Vendredi 18 octobre, le président de la métropole européenne de Lille (MEL) dirigera les débats du conseil communautaire comme il le fait depuis une décennie. Mais pour ce conseil d’automne, le maire de Péronne‐en‐Mélantois se présentera dans de nouveaux habits : ceux d’un président jugé coupable de détournement de fonds publics, prise illégale d’intérêts  et recel d’abus de confiance.",
+    "url": "https://www.mediacites.fr/enquete/lille/2024/10/17/damien-castelain-un-petit-tour-au-tribunal-et-puis-sen-va-pas/",
+    "date": "2024-10-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2749,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 981,
+        "value": "Damien Castelain"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 290,
+        "value": "Métropole Européenne de Lille (MEL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
     "a_la_une": false
   },
   {
