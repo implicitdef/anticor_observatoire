@@ -1,5 +1,109 @@
 [
   {
+    "id": 2700,
+    "titre": "Au procès des assistants du RN, Louis Aliot en grande difficulté",
+    "contenu": "L’actuel maire (RN) de Perpignan n’a pas réussi à justifier de la réalité du travail effectué par l'un de ses anciens assistants au Parlement européen, ce mardi au tribunal judiciaire de Paris.",
+    "url": "https://www.mediapart.fr/journal/france/291024/au-proces-des-assistants-du-rn-louis-aliot-en-grande-difficulte",
+    "date": "2024-10-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2756,
+        "value": "66 - Pyrénées-Orientales"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 694,
+        "value": "Louis Aliot"
+      },
+      {
+        "id": 2180,
+        "value": "Laurent Salles"
+      },
+      {
+        "id": 2234,
+        "value": "Yann Le Pen"
+      },
+      {
+        "id": 2235,
+        "value": "Marie-Christine Boutonnet"
+      },
+      {
+        "id": 2236,
+        "value": "Charles Hourcade"
+      },
+      {
+        "id": 2237,
+        "value": "Dominique Bilde"
+      },
+      {
+        "id": 2238,
+        "value": "Loup Viallet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2702,
+    "titre": "Je n’ai pas fait gaffe, j’étais novice\": l’ancienne maire du Castellet poursuivie pour \"favoritisme",
+    "contenu": "Nicole Boizis et quatre coprévenus ont comparu jusqu’à tard dans la soirée de ce lundi devant le tribunal correctionnel de Toulon. Plusieurs marchés publics sont dans le collimateur de la justice.",
+    "url": "https://www.varmatin.com/justice/-je-n-ai-pas-fait-gaffe-j-etais-novice-l-ancienne-maire-du-castellet-poursuivie-pour-favoritisme--953782",
+    "date": "2024-10-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2239,
+        "value": "Nicole Boizis"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "Nicole Boizis, ex-maire du Castellet poursuivie pour \"favoritisme\"",
+    "a_la_une": false
+  },
+  {
     "id": 2691,
     "titre": "La justice enquête sur les liens entre Jean-Louis Borloo et Huawei",
     "contenu": "L’ex-ministre de Jacques Chirac et Nicolas Sarkozy est à l’origine d’une enquête judiciaire visant Huawei pour trafic d’influence, abus de biens sociaux et recel. En cause, un don du géant chinois des télécoms à l’une des fondations de Jean-Louis Borloo.",
@@ -59,6 +163,109 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2704,
+    "titre": "Prise illégale d'intérêt, détournement de fonds : le procès du maire de Saint-Marc-Jaumegarde reporté",
+    "contenu": "Le maire de Saint-Marc-Jaumegarde, Régis Martin, était jugé mardi pour prise illégale d’intérêt et détournement de fonds publics. Son état de santé l’empêcherait de comparaître.",
+    "url": "https://www.laprovence.com/article/politique/5492587972131514/prise-illegale-dinteret-detournement-de-fonds-le-proces-du-maire-de-saint-marc-jaumegarde-reporte",
+    "date": "2024-10-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2241,
+        "value": "Régis Martin"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "Le procès de Régis Martin, maire de Saint-Marc-Jaumegarde, reporté",
+    "a_la_une": false
+  },
+  {
+    "id": 2701,
+    "titre": "Procès en appel de Bernard Pancrel : 3 ans d’inéligibilité requis, au lieu des 10 ans prononcés en première instance",
+    "contenu": "L’ancien maire de Saint-François était jugé en appel, ce mardi, pour \"favoritisme, faux et complicité de faux\", après sa lourde condamnation prononcée en juillet dernier. Les réquisitions ont été revues à la baisse : le procureur général demande notamment 3 ans d’inéligibilité, au lieu des 10 ans décidés en première instance. Bernard Pancrel sera fixé sur son sort mi-janvier 2025.",
+    "url": "https://la1ere.francetvinfo.fr/guadeloupe/grande-terre/saint-francois/proces-en-appel-de-bernard-pancrel-3-ans-d-ineligibilite-requis-au-lieu-des-10-ans-prononces-en-premiere-instance-1532710.html",
+    "date": "2024-10-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1674,
+        "value": "Bernard Pancrel"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2703,
+    "titre": "Villepinte : la maire utilise un véhicule municipal conduit par deux agents… pour ses vacances en Bretagne",
+    "contenu": "La semaine dernière, le directeur du protocole a emprunté une voiture de la Ville pour conduire Martine Valleton (LR) à Saint-Malo. Si elle assure que ses accompagnants étaient « en congé », l’élue s’engage à rembourser les frais liés à ce déplacement personnel… et aux précédents.",
+    "url": "https://www.leparisien.fr/seine-saint-denis-93/villepinte-la-maire-utilise-un-vehicule-municipal-conduit-par-deux-agents-pour-ses-vacances-en-bretagne-29-10-2024-5F2OBVFMQZGGTBXEJD4AH3AYFY.php?ts=1730305850027",
+    "date": "2024-10-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2766,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2240,
+        "value": "Martine Valleton"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "Martine Valleton, maire de Villepinte, utilise un véhicule municipal conduit par deux agents pour ses vacances en Bretagne",
+    "a_la_une": false
   },
   {
     "id": 2682,
@@ -247,6 +454,37 @@
     "a_la_une": false
   },
   {
+    "id": 2694,
+    "titre": "Comores : le directeur de l'Union des mutuelles d'épargnes et de crédit placé sous contrôle judiciaire",
+    "contenu": "Aux Comores, le directeur de l'Union des Meck, des mutuelles d'épargnes et de crédit, a été placé sous contrôle judiciaire. Il est accusé de s'être enrichi durant l'acquisition du siège de l'institution.",
+    "url": "https://la1ere.francetvinfo.fr/mayotte/comores-le-directeur-de-l-union-des-mutuelles-d-epargnes-et-de-credit-place-sous-controle-judiciaire-1531525.html",
+    "date": "2024-10-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2787,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1028,
+        "value": "Union des mutuelles d’épargnes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2668,
     "titre": "L'ancien préfet Alain Gardère condamné à deux ans de prison, dont un an ferme sous bracelet électronique",
     "contenu": "« Arrangements » et « passe-droits » dans les services de l’Etat d’un côté, « système corruptif d’élus locaux » de l’autre : dix hommes – dont un ancien préfet, trois actuels ou anciens maires franciliens et des entrepreneurs du secteur de bâtiment et des travaux publics (BTP) – ont été condamnés, jeudi 24 octobre, à Paris. Au total, treize personnes et deux entreprises ont été jugées en mai et juin à Paris, dans un dossier à deux volets dont l’enquête avait débuté par des soupçons autour du train de vie d’Alain Gardère, 68 ans, ex-préfet de police de Marseille.",
@@ -421,6 +659,51 @@
       {
         "id": 2693,
         "value": "Mise en examen"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2699,
+    "titre": "Procès de Jean-Marie Bernard: le centre de gestion des Hautes-Alpes se constitue partie civile",
+    "contenu": "Le conseil d’administration du centre de gestion de la fonction publique territoriale des Hautes-Alpes (CDGFPT) a voté en ce sens mercredi 23 octobre. Neuf élus étaient pour la constitution de partie civile, six étaient contre.",
+    "url": "https://www.bfmtv.com/bfm-dici/proces-de-jean-marie-bernard-le-centre-de-gestion-des-hautes-alpes-se-constitue-partie-civile_AN-202410240570.html",
+    "date": "2024-10-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2702,
+        "value": "05 - Hautes-Alpes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2080,
+        "value": "Jean-Marie Bernard"
+      },
+      {
+        "id": 2233,
+        "value": "Alexandra Butel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1031,
+        "value": "Centre de gestion de la fonction publique territoriale des Hautes-Alpes (CDGFPT)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
       }
     ],
     "titre_corrige": "",
@@ -882,6 +1165,103 @@
     "a_la_une": false
   },
   {
+    "id": 2654,
+    "titre": "Station de ski : le maire des Gets sera jugé pour favoritisme et prise illégale d’intérêt en juin 2025",
+    "contenu": "Le maire de la commune des Gets (Haute-Savoie), Henri Anthonioz, est renvoyé devant le tribunal correctionnel en juin prochain pour prise illégale d’intérêt. Il est soupçonné de favoritisme dans l'attribution d'un marché d'exploitation du domaine skiable, pour lequel Tony Parker avait fait une offre.",
+    "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/haute-savoie/chamonix/station-de-ski-le-maire-des-gets-sera-juge-pour-favoritisme-et-prise-illegale-d-interet-en-juin-2025-3049174.html",
+    "date": "2024-10-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2761,
+        "value": "74 - Haute-Savoie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1283,
+        "value": "Tony Parker"
+      },
+      {
+        "id": 1284,
+        "value": "Henri Anthonioz"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2693,
+    "titre": "Une ex-élue locale dans le viseur de la justice pour ses liens avec Huawei",
+    "contenu": "Lilla Merabet, ancienne vice-présidente de la région Grand Est, est soupçonnée d’avoir perçu de l’argent du groupe chinois, via sa société de conseil, alors que Huawei doit ouvrir une usine dans la région d’ici à 2026. Une enquête préliminaire pour atteinte à la probité est menée par le Parquet national financier.",
+    "url": "https://www.challenges.fr/politique/une-ex-elue-locale-dans-le-viseur-de-la-justice-pour-ses-liens-avec-huawei_908896",
+    "date": "2024-10-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2229,
+        "value": "Lilla Merabet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 84,
+        "value": "Mouvement démocrate (MoDem)"
+      },
+      {
+        "id": 87,
+        "value": "Tracfin"
+      },
+      {
+        "id": 438,
+        "value": "Huawei"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2685,
+        "value": "Technologies"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2656,
     "titre": "Affaire André Santini : l’enquête confiée à un juge d’instruction",
     "contenu": "Une information judiciaire a été ouverte par le parquet de Nanterre, après des plaintes pour « agression sexuelle » et « harcèlement sexuel et moral » à l’encontre du maire d’Issy-les-Moulineaux.",
@@ -1039,46 +1419,6 @@
     ],
     "theme": [],
     "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 2654,
-    "titre": "Le match entre Tony Parker et le maire de la station de ski des Gets, en Haute-Savoie, se termine au tribunal",
-    "contenu": "L’ancien champion de basket, reconverti dans l’exploitation de stations de ski, avait vu sa candidature à la reprise de la station des Gets brutalement interrompue par le maire, lui aussi candidat. Henri Anthonioz vient d’être renvoyé devant la justice pour « délit de favoritisme » et « prise illégale d’intérêt ».",
-    "url": "https://www.leparisien.fr/faits-divers/le-match-entre-tony-parker-et-le-maire-de-la-station-de-ski-des-gets-en-haute-savoie-se-termine-au-tribunal-21-10-2024-BOBUWKDNJREPPI2MBG5YOTU3KQ.php",
-    "date": "2024-10-21",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2761,
-        "value": "74 - Haute-Savoie"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 1283,
-        "value": "Tony Parker"
-      },
-      {
-        "id": 1284,
-        "value": "Henri Anthonioz"
-      }
-    ],
-    "personnes_morales": [],
-    "categorie": [
-      {
-        "id": 2652,
-        "value": "Probité"
-      }
-    ],
-    "theme": [],
-    "procedure": [
-      {
-        "id": 2695,
-        "value": "Procès"
-      }
-    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -1422,6 +1762,42 @@
     "a_la_une": false
   },
   {
+    "id": 2697,
+    "titre": "Villiers-sur-Marne : Cette fonctionnaire aurait volé 15.000 euros au centre socioculturel",
+    "contenu": "La mairie de Villiers-sur-Marne (Val-de-Marne) a porté plainte ce mercredi contre une employée de l’Espace socioculturel d’aide à l’emploi (Escale) suspectée d’avoir détourné 15.000 euros des caisses de la structure",
+    "url": "https://www.20minutes.fr/faits_divers/4116359-20241018-villiers-marne-fonctionnaire-vole-15-000-euros-centre-socioculturel",
+    "date": "2024-10-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2781,
+        "value": "94 - Val-de-Marne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1030,
+        "value": "Espace socioculturel d’aide à l’emploi (Escale) de Villiers-sur-Marne"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2688,
     "titre": "Damien Castelain, un petit tour au tribunal et puis s’en va pas",
     "contenu": "La justice passe… Damien Castelain reste. Vendredi 18 octobre, le président de la métropole européenne de Lille (MEL) dirigera les débats du conseil communautaire comme il le fait depuis une décennie. Mais pour ce conseil d’automne, le maire de Péronne‐en‐Mélantois se présentera dans de nouveaux habits : ceux d’un président jugé coupable de détournement de fonds publics, prise illégale d’intérêts  et recel d’abus de confiance.",
@@ -1567,6 +1943,73 @@
     "a_la_une": false
   },
   {
+    "id": 2698,
+    "titre": "Une plainte déposée contre le chef de la police municipale de Mamoudzou",
+    "contenu": "Une plainte a été déposée contre le chef de la police municipale de Mamoudzou. Un policier municipal l'accuse de vol, détournement de fonds publics, faux en écriture et usage de faux.",
+    "url": "https://la1ere.francetvinfo.fr/mayotte/une-plainte-deposee-contre-le-chef-de-la-police-municipale-de-mamoudzou-1529311.html",
+    "date": "2024-10-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2787,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2696,
+    "titre": "Dix ans de lutte contre la délinquance financière : le bilan du parquet national financier (PNF)",
+    "contenu": "Le parquet national financier (PNF) célèbre en octobre 2024 une décennie d'engagement dans la lutte contre la délinquance économique et financière en France. Créé en réponse à des scandales de corruption et à la nécessité d'une transparence accrue, le PNF s'est imposé comme un acteur clé du paysage judiciaire français.",
+    "url": "https://www.lemondedudroit.fr/265-magazine/institutions/95152-dix-ans-lutte-contre-delinquance-financiere-le-bilan-du-parquet-national-financier.html",
+    "date": "2024-10-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2646,
     "titre": "La HATVP décroche de nouveaux moyens pour lutter contre les ingérences étrangères",
     "contenu": "Les effectifs de l'autorité administrative indépendante seront renforcés pour lui permettre de mener sa mission sur les ingérences étrangères. Fin mai, l'ex-président de la HATVP, Didier Migaud, s'était tourné vers le Sénat pour réclamer des moyens supplémentaires.",
@@ -1692,6 +2135,55 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2695,
+    "titre": "Soupçons de détournements de fonds publics à l'université d'Orléans : un procès prévu en décembre",
+    "contenu": "Un procès pour \"détournements de fonds publics\" et \"blanchiment aggravé\", aura lieu les 17 et 18 décembre prochain dans l'affaire de soupçons de détournements de fonds publics à l'université d'Orléans.",
+    "url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/soupcons-de-detournements-de-fonds-publics-a-l-universite-d-orleans-un-proces-prevu-en-decembre-3046261.html",
+    "date": "2024-10-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2739,
+        "value": "45 - Loiret"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2230,
+        "value": "Hechmi Toumi"
+      },
+      {
+        "id": 2231,
+        "value": "Éric Lespessailles"
+      },
+      {
+        "id": 2232,
+        "value": "Ary Bruand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1029,
+        "value": "Université d'Orléans"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
