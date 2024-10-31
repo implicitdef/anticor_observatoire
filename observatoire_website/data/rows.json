@@ -53,6 +53,80 @@
     "a_la_une": true
   },
   {
+    "id": 2707,
+    "titre": "Le parquet européen se saisit du cas Henrik Hololei, un eurocrate suspecté de corruption par le Qatar",
+    "contenu": "Le parquet européen «a décidé d’ouvrir une enquête d’office (“ex officio”)» sur Henrik Hololei, un haut fonctionnaire de la Commission européenne, après avoir pris connaissance de l’enquête de Libération publiée le 30 octobre. En effet, l’Office antifraude de l’Union européenne, a établi que l’Estonien, ancien patron de la direction générale des transports (l’équivalent d’un directeur d’administration centrale en France), s’était fait offrir par le Qatar des dizaines de vols en classe affaires et même des vacances tous frais payés pour des sommes représentant plusieurs dizaines de milliers d’euros en échange d’informations confidentielles portant sur la négociation, entre 2016 et 2019, de l’accord dit de «ciel ouvert» qui permet à Qatar Airways d’avoir accès librement, depuis 2021, à l’ensemble des aéroports de l’UE, un accord particulièrement généreux et sans réelles contreparties pour les compagnies européennes.",
+    "url": "https://www.liberation.fr/international/europe/le-parquet-europeen-se-saisit-du-cas-henrik-hololei-un-eurocrate-suspecte-de-corruption-20241031_QK4GT6FYABCLPDOQOU5VUROQJQ/",
+    "date": "2024-10-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2807,
+        "value": "Qatar"
+      },
+      {
+        "id": 3947,
+        "value": "Estonie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1306,
+        "value": "Ursula von der Leyen"
+      },
+      {
+        "id": 2242,
+        "value": "Henrik Hololei"
+      },
+      {
+        "id": 2243,
+        "value": "Ville Itälä"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 175,
+        "value": "Commission Européenne"
+      },
+      {
+        "id": 293,
+        "value": "Office européen de lutte antifraude (OLAF)"
+      },
+      {
+        "id": 1032,
+        "value": "Parquet européen (EPPO)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2700,
     "titre": "Au procès des assistants du RN, Louis Aliot en grande difficulté",
     "contenu": "L’actuel maire (RN) de Perpignan n’a pas réussi à justifier de la réalité du travail effectué par l'un de ses anciens assistants au Parlement européen, ce mardi au tribunal judiciaire de Paris.",
@@ -99431,6 +99505,22 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
+  },
+  {
+    "id": 2706,
+    "titre": "Le parquet européen se saisit du cas Henrik Hololei, un eurocrate suspecté de corruption par le Qatar",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "Le parquet européen «a décidé d’ouvrir une enquête d’office (“ex officio”)» sur Henrik Hololei, un haut fonctionnaire de la Commission européenne, après avoir pris connaissance de l’enquête de Libération publiée le 30 octobre. En effet, l’Office antifraude de l’Union européenne, a établi que l’Estonien, ancien patron de la direction générale des transports (l’équivalent d’un directeur d’administration centrale en France), s’était fait offrir par le Qatar des dizaines de vols en classe affaires et même des vacances tous frais payés pour des sommes représentant plusieurs dizaines de milliers d’euros en échange d’informations confidentielles portant sur la négociation, entre 2016 et 2019, de l’accord dit de «ciel ouvert» qui permet à Qatar Airways d’avoir accès librement, depuis 2021, à l’ensemble des aéroports de l’UE, un accord particulièrement généreux et sans réelles contreparties pour les compagnies européennes.",
+    "a_la_une": true
   },
   {
     "id": 2041,
