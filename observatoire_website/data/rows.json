@@ -1,5 +1,58 @@
 [
   {
+    "id": 2705,
+    "titre": "Alexandre Allegret-Pilot, le député « docteur Jekyll et Mister Hyde »",
+    "contenu": "Le Parquet national financier a ouvert une enquête sur les agissements de l’ancien fonctionnaire de Bercy devenu député UDR du Gard. Ce trentenaire au parcours atypique cultive un style qui tranche avec la quête de respectabilité de l’extrême droite.",
+    "url": "https://www.lemonde.fr/politique/article/2024/10/31/alexandre-allegret-pilot-le-depute-docteur-jekyll-et-mister-hyde_6368326_823448.html",
+    "date": "2024-10-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2724,
+        "value": "30 - Gard"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2003,
+        "value": "Alexandre Allegret-Pilot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 893,
+        "value": "Union des droites pour la République (UDR ex-Les Amis d'Éric Ciotti)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "Alexandre Allegret-Pilot, député UDR du Gard, est visé par une enquête du PNF",
+    "a_la_une": true
+  },
+  {
     "id": 2700,
     "titre": "Au procès des assistants du RN, Louis Aliot en grande difficulté",
     "contenu": "L’actuel maire (RN) de Perpignan n’a pas réussi à justifier de la réalité du travail effectué par l'un de ses anciens assistants au Parlement européen, ce mardi au tribunal judiciaire de Paris.",
@@ -12518,7 +12571,7 @@
       },
       {
         "id": 893,
-        "value": "Les Amis d'Éric Ciotti"
+        "value": "Union des droites pour la République (UDR ex-Les Amis d'Éric Ciotti)"
       }
     ],
     "categorie": [
