@@ -1,5 +1,57 @@
 [
   {
+    "id": 2708,
+    "titre": "Conflit juridique autour de la protection fonctionnelle d’Edouard Philippe au Havre",
+    "contenu": "Après un recours en justice d’une ex-cadre de la communauté urbaine du Havre, l’intercommunalité a dû retirer, le 4 juillet, une délibération d’avril octroyant la protection fonctionnelle à Edouard Philippe, visé dans une enquête préliminaire du Parquet national financier.",
+    "url": "https://www.lemonde.fr/societe/article/2024/11/01/conflit-juridique-autour-de-la-protection-fonctionnelle-d-edouard-philippe-au-havre_6371107_3224.html",
+    "date": "2024-11-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2763,
+        "value": "76 - Seine-Maritime"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1456,
+        "value": "Édouard Philippe"
+      },
+      {
+        "id": 1565,
+        "value": "Stéphanie de Bazelaire"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 670,
+        "value": "LH French Tech"
+      },
+      {
+        "id": 1033,
+        "value": "Le Havre Seine Métropole"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2705,
     "titre": "Alexandre Allegret-Pilot, le député « docteur Jekyll et Mister Hyde »",
     "contenu": "Le Parquet national financier a ouvert une enquête sur les agissements de l’ancien fonctionnaire de Bercy devenu député UDR du Gard. Ce trentenaire au parcours atypique cultive un style qui tranche avec la quête de respectabilité de l’extrême droite.",
