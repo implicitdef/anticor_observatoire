@@ -150,6 +150,89 @@
     "a_la_une": true
   },
   {
+    "id": 2712,
+    "titre": "Joël Guerriau aurait perçu 150 000 € : l’association Anticor réclame des comptes au Sénat",
+    "contenu": "Anticor a écrit à Gérard Larcher, président du Sénat, pour savoir si le sénateur de Loire-Atlantique, Joël Guerriau, continue de percevoir ses indemnités, qu’elle chiffre à près de 150 000 €, alors qu’il ne siège plus au Sénat depuis un an.",
+    "url": "https://www.ouest-france.fr/pays-de-la-loire/loire-atlantique/indemnites-de-joel-guerriau-anticor-reclame-des-comptes-au-senat-fb7f367e-9765-11ef-9921-e056d0673e10",
+    "date": "2024-10-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2738,
+        "value": "44 - Loire-Atlantique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 783,
+        "value": "Joël Guerriau"
+      },
+      {
+        "id": 2244,
+        "value": "Gérard Larcher"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 12,
+        "value": "Horizons"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2711,
+    "titre": "Le maire du Barcarès dans les Pyrénées-Orientales, mis en examen notamment pour \"corruption\" et \"favoritisme\", bientôt libéré sous caution",
+    "contenu": "Alain Ferrand, le maire du Barcarès (Pyrénées-Orientales), mis en examen notamment pour \"corruption\" et \"favoritisme\", sera bientôt libéré sous caution. Il sera placé sous contrôle judiciaire. Il était en détention provisoire depuis six mois. La caution, dont le montant n'a pas été dévoilé, a été payée.",
+    "url": "https://www.francetvinfo.fr/faits-divers/le-maire-du-barcares-dans-les-pyrenees-orientales-mis-en-examen-notamment-pour-corruption-et-favoritisme-bientot-libere-sous-caution_6870944.html",
+    "date": "2024-10-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2756,
+        "value": "66 - Pyrénées-Orientales"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 771,
+        "value": "Alain Ferrand"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2707,
     "titre": "Le parquet européen se saisit du cas Henrik Hololei, un eurocrate suspecté de corruption par le Qatar",
     "contenu": "Le parquet européen «a décidé d’ouvrir une enquête d’office (“ex officio”)» sur Henrik Hololei, un haut fonctionnaire de la Commission européenne, après avoir pris connaissance de l’enquête de Libération publiée le 30 octobre. En effet, l’Office antifraude de l’Union européenne, a établi que l’Estonien, ancien patron de la direction générale des transports (l’équivalent d’un directeur d’administration centrale en France), s’était fait offrir par le Qatar des dizaines de vols en classe affaires et même des vacances tous frais payés pour des sommes représentant plusieurs dizaines de milliers d’euros en échange d’informations confidentielles portant sur la négociation, entre 2016 et 2019, de l’accord dit de «ciel ouvert» qui permet à Qatar Airways d’avoir accès librement, depuis 2021, à l’ensemble des aéroports de l’UE, un accord particulièrement généreux et sans réelles contreparties pour les compagnies européennes.",
@@ -222,6 +305,42 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2710,
+    "titre": "Trois ans de prison dont deux avec sursis requis contre l'ancien maire d'Hesdin, Stéphane Sieczkowski",
+    "contenu": "Trois ans de prison dont deux avec sursis requis contre l'ancien maire d'Hesdin ce jeudi 31 octobre. Stéphane Sieczkowski était de nouveau jugé devant le tribunal de Boulogne, cette fois pour prise illégale d'intérêts, faux et usage de faux et subornation de témoin.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/trois-ans-de-prison-dont-deux-avec-sursis-requis-contre-l-ancien-maire-d-hesdin-stephane-sieczkowski-2036529",
+    "date": "2024-10-31",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2752,
+        "value": "62 - Pas-de-Calais"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 924,
+        "value": "Stéphane Sieczkowski-Samier"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2700,
