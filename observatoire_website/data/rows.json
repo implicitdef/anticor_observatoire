@@ -52,6 +52,51 @@
     "a_la_une": true
   },
   {
+    "id": 2709,
+    "titre": "L’affaire Dupond-Moretti permet à une fonctionnaire de ne pas être condamnée pour prise illégale d’intérêt",
+    "contenu": "La relaxe d’Éric Dupond-Moretti devant la Cour de Justice de la République a créé une nouvelle jurisprudence en cas de conflits d’intérêts.",
+    "url": "https://www.huffingtonpost.fr/justice/article/l-affaire-dupond-moretti-permet-a-une-fonctionnaire-de-ne-pas-etre-condamnee-pour-prise-illegale-d-interet_241665.html",
+    "date": "2024-11-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 658,
+        "value": "Éric Dupond-Moretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 68,
+        "value": "Cour de Justice de la République (CJR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement / acquittement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2705,
     "titre": "Alexandre Allegret-Pilot, le député « docteur Jekyll et Mister Hyde »",
     "contenu": "Le Parquet national financier a ouvert une enquête sur les agissements de l’ancien fonctionnaire de Bercy devenu député UDR du Gard. Ce trentenaire au parcours atypique cultive un style qui tranche avec la quête de respectabilité de l’extrême droite.",
