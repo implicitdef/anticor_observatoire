@@ -1,5 +1,108 @@
 [
   {
+    "id": 2715,
+    "titre": "Assistants fictifs du RN : Charles Van Houtte, le gestionnaire du système à la barre",
+    "contenu": "Entendu lundi 4 novembre par le tribunal, le comptable belge de 58 ans était la cheville ouvrière du système de détournement de fonds mis en place par le parti d’extrême droite. A coups d’assistants fantômes ou d’entreprises tout aussi fantoches.",
+    "url": "https://www.liberation.fr/societe/police-justice/assistants-fictifs-du-rn-le-gestionnaire-du-systeme-a-la-barre-20241103_M27YFS7SZVAIDDUMTEGXZW7H3I/?redirected=1",
+    "date": "2024-11-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 2049,
+        "value": "Charles Van Houtte"
+      },
+      {
+        "id": 2101,
+        "value": "Nicolas Crochet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 293,
+        "value": "Office européen de lutte antifraude (OLAF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2714,
+    "titre": "Manurhin : l'ex-PDG comparaît pour trafic d'influence",
+    "contenu": "Quatre hommes d'affaires, dont l'ancien PDG de l'entreprise d'armement mulhousienne Manurhin, comparaissent à partir de ce lundi 4 novembre devant le tribunal judiciaire de Paris. Ils sont poursuivis pour trafic d'influence, abus de biens sociaux et prises illégales d'intérêts.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/manurhin-l-ex-pdg-comparait-pour-trafic-d-influence-1215192",
+    "date": "2024-11-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2758,
+        "value": "68 - Haut-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2246,
+        "value": "Rémy Thannberger"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 1038,
+        "value": "Manurhin"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2656,
+        "value": "Armement"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "Rémy Thannberger, ex-PDG de Manurhin, comparaît pour trafic d'influence",
+    "a_la_une": false
+  },
+  {
     "id": 2708,
     "titre": "Conflit juridique autour de la protection fonctionnelle d’Edouard Philippe au Havre",
     "contenu": "Après un recours en justice d’une ex-cadre de la communauté urbaine du Havre, l’intercommunalité a dû retirer, le 4 juillet, une délibération d’avril octroyant la protection fonctionnelle à Edouard Philippe, visé dans une enquête préliminaire du Parquet national financier.",
