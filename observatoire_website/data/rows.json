@@ -1,5 +1,57 @@
 [
   {
+    "id": 2716,
+    "titre": "Netflix France : perquisition en cours pour blanchiment de fraude fiscale et travail dissimulé",
+    "contenu": "Comme d’autres multinationales avant elle, Netflix France est dans le viseur du Parquet national financier et de l’Office central de lutte contre la corruption et les infractions financières et fiscales. Ces deux institutions mènent ce mardi 5 novembre des perquisitions dans les locaux de la filiale française du géant du streaming américain, dans le IXe arrondissement de Paris. Ces investigations ont lieu dans le cadre d’une enquête préliminaire ouverte en novembre 2022 pour «blanchiment de fraude fiscale aggravée» et «travail dissimulé en bande organisée». L’accès aux locaux est encore filtré par les forces de l’ordre.",
+    "url": "https://www.liberation.fr/economie/economie-numerique/netflix-france-perquisition-en-cours-pour-blanchiment-de-fraude-fiscale-et-travail-dissimule-20241105_XSMLD56OVND3RJROGEZ7XI7Y4I/",
+    "date": "2024-11-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2858,
+        "value": "Pays-Bas"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 29,
+        "value": "Netflix"
+      },
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 2675,
+        "value": "Médias / Divertissement"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "Perquisitions chez Netflix France pour blanchiment de fraude fiscale et travail dissimulé",
+    "a_la_une": false
+  },
+  {
     "id": 2715,
     "titre": "Assistants fictifs du RN : Charles Van Houtte, le gestionnaire du système à la barre",
     "contenu": "Entendu lundi 4 novembre par le tribunal, le comptable belge de 58 ans était la cheville ouvrière du système de détournement de fonds mis en place par le parti d’extrême droite. A coups d’assistants fantômes ou d’entreprises tout aussi fantoches.",
@@ -6897,7 +6949,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       },
       {
         "id": 3027,
@@ -7534,7 +7586,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       },
       {
         "id": 2660,
@@ -12731,7 +12783,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -13776,7 +13828,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       },
       {
         "id": 2672,
@@ -16825,7 +16877,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -23649,7 +23701,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -24936,7 +24988,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -25233,7 +25285,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -25601,7 +25653,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -26398,7 +26450,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       },
       {
         "id": 2672,
@@ -28923,7 +28975,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       },
       {
         "id": 2672,
@@ -29048,7 +29100,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       },
       {
         "id": 2672,
@@ -32640,7 +32692,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -36254,7 +36306,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -38244,7 +38296,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -38423,7 +38475,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -38934,7 +38986,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -39136,7 +39188,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -40097,7 +40149,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -51087,7 +51139,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -61657,7 +61709,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -63847,7 +63899,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [
@@ -63946,7 +63998,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -69013,7 +69065,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -69053,7 +69105,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -72848,7 +72900,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -72969,7 +73021,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       },
       {
         "id": 2672,
@@ -74861,7 +74913,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       },
       {
         "id": 2672,
@@ -75581,7 +75633,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
@@ -76311,7 +76363,7 @@
     "theme": [
       {
         "id": 2675,
-        "value": "Médias"
+        "value": "Médias / Divertissement"
       }
     ],
     "procedure": [],
