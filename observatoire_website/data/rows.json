@@ -37,7 +37,56 @@
         "value": "Condamnation"
       }
     ],
-    "titre_corrige": "",
+    "titre_corrige": "Didier Robert, ex-président du Conseil régional de La Réunion, condamné à 8 mois de sursis, 100 000 € d'amende et 5 ans d'inéligibilité dans l'affaire des indemnités de résidence",
+    "a_la_une": false
+  },
+  {
+    "id": 2722,
+    "titre": "L'ex-députée Modem Maud Gatel retrouve le chemin du lobbying",
+    "contenu": "En parallèle de son mandat au Conseil de Paris, l'élue Modem Maud Gatel a rejoint le cabinet Iconic. L'ex-directrice du pôle influence de TBWA sera chargée de la com' stratégique et des affaires publiques au sein de l'agence d'influence montée par Marie-Virginie Klein.",
+    "url": "https://www.lalettre.fr/fr/action-publique_lobbying/2024/11/05/l-ex-deputee-modem-maud-gatel-retrouve-le-chemin-du-lobbying%252C110335667-art",
+    "date": "2024-11-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 210,
+        "value": "Maud Gatel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 84,
+        "value": "Mouvement démocrate (MoDem)"
+      },
+      {
+        "id": 1039,
+        "value": "Iconic"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "Maud Gatel, ex-députée Modem, rejoint le cabinet Iconic",
     "a_la_une": false
   },
   {
@@ -228,7 +277,7 @@
         "value": "Enquête"
       }
     ],
-    "titre_corrige": "",
+    "titre_corrige": "Perquisitions à la Ligue de football professionnel dans une enquête pour détournement de fonds publics",
     "a_la_une": true
   },
   {
@@ -707,6 +756,75 @@
     ],
     "titre_corrige": "",
     "a_la_une": false
+  },
+  {
+    "id": 2706,
+    "titre": "A la Commission européenne, le haut fonctionnaire Henrik Hololei gâté par le Qatar mais pas inquiété par la justice",
+    "contenu": "Voyages en classe affaires, vacances luxueuses tous frais payés… Pendant des années, l’Estonien Henrik Hololei, alors DG chargé des transports, a profité des largesses de l’émirat tout en menant les négociations sur un accord de «ciel ouvert» avec Qatar Airways. Mais le rapport de l’office antifraude de l’UE mettant au jour ces potentiels faits de corruption pourrait bien être enterré.",
+    "url": "https://www.liberation.fr/international/europe/a-la-commission-europeenne-le-haut-fonctionnaire-henrik-hololei-gate-par-le-qatar-mais-pas-inquiete-par-la-justice-20241029_YDIDZ4WETZH4NOR3XPOXHEXT3U/?redirected=1",
+    "date": "2024-10-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2807,
+        "value": "Qatar"
+      },
+      {
+        "id": 3947,
+        "value": "Estonie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1306,
+        "value": "Ursula von der Leyen"
+      },
+      {
+        "id": 2242,
+        "value": "Henrik Hololei"
+      },
+      {
+        "id": 2243,
+        "value": "Ville Itälä"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 175,
+        "value": "Commission Européenne"
+      },
+      {
+        "id": 293,
+        "value": "Office européen de lutte antifraude (OLAF)"
+      },
+      {
+        "id": 1032,
+        "value": "Parquet européen (EPPO)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
   },
   {
     "id": 2700,
@@ -100133,22 +100251,6 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
-  },
-  {
-    "id": 2706,
-    "titre": "Le parquet européen se saisit du cas Henrik Hololei, un eurocrate suspecté de corruption par le Qatar",
-    "contenu": "",
-    "url": "",
-    "date": null,
-    "etiquettes": "",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": "Le parquet européen «a décidé d’ouvrir une enquête d’office (“ex officio”)» sur Henrik Hololei, un haut fonctionnaire de la Commission européenne, après avoir pris connaissance de l’enquête de Libération publiée le 30 octobre. En effet, l’Office antifraude de l’Union européenne, a établi que l’Estonien, ancien patron de la direction générale des transports (l’équivalent d’un directeur d’administration centrale en France), s’était fait offrir par le Qatar des dizaines de vols en classe affaires et même des vacances tous frais payés pour des sommes représentant plusieurs dizaines de milliers d’euros en échange d’informations confidentielles portant sur la négociation, entre 2016 et 2019, de l’accord dit de «ciel ouvert» qui permet à Qatar Airways d’avoir accès librement, depuis 2021, à l’ensemble des aéroports de l’UE, un accord particulièrement généreux et sans réelles contreparties pour les compagnies européennes.",
-    "a_la_une": true
   },
   {
     "id": 2041,
