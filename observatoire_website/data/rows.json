@@ -1,5 +1,91 @@
 [
   {
+    "id": 2719,
+    "titre": "Didier Robert condamné à 8 mois de sursis, 100 000 € d'amende et 5 ans d'inéligibilité dans l'affaire des indemnités de résidence",
+    "contenu": "L’ancien président du Conseil régional de la Réunion a été condamné ce mardi 5 novembre par le tribunal correctionnel de Saint-Denis à 8 mois de prison avec sursis, 100 000 euros d'amende et 5 ans d'inéligibilité pour prise illégale d’intérêt et concussion dans l’affaire des indemnités de résidence. Le Parquet avait requis ces mêmes peines le 11 octobre dernier lors de l'audience.",
+    "url": "https://la1ere.francetvinfo.fr/reunion/didier-robert-condamne-a-8-mois-de-sursis-100-000-d-amende-et-5-ans-d-ineligibilite-dans-l-affaire-des-indemnites-de-residence-1534213.html",
+    "date": "2024-11-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2786,
+        "value": "974 - La Réunion"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1392,
+        "value": "Didier Robert"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2720,
+    "titre": "Lège-Cap-Ferret : amende avec sursis requis contre le maire poursuivi pour favoritisme",
+    "contenu": "Le maire et les présidents de l’Union des bateliers d’Arcachon sont poursuivis dans le cadre du marché des navettes maritimes entre Lège et Arcachon",
+    "url": "https://www.sudouest.fr/justice/lege-cap-ferret-amende-avec-sursis-requis-contre-le-maire-poursuivi-pour-favoritisme-22030189.php",
+    "date": "2024-11-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2727,
+        "value": "33 - Gironde"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2248,
+        "value": "Philippe de Gonneville"
+      },
+      {
+        "id": 2249,
+        "value": "Patrick du Fau de Lamothe"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 414,
+        "value": "Union des Bateliers Arcachonnais"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2716,
     "titre": "Netflix France : perquisition en cours pour blanchiment de fraude fiscale et travail dissimulé",
     "contenu": "Comme d’autres multinationales avant elle, Netflix France est dans le viseur du Parquet national financier et de l’Office central de lutte contre la corruption et les infractions financières et fiscales. Ces deux institutions mènent ce mardi 5 novembre des perquisitions dans les locaux de la filiale française du géant du streaming américain, dans le IXe arrondissement de Paris. Ces investigations ont lieu dans le cadre d’une enquête préliminaire ouverte en novembre 2022 pour «blanchiment de fraude fiscale aggravée» et «travail dissimulé en bande organisée». L’accès aux locaux est encore filtré par les forces de l’ordre.",
@@ -49,6 +135,131 @@
     ],
     "procedure": [],
     "titre_corrige": "Perquisitions chez Netflix France pour blanchiment de fraude fiscale et travail dissimulé",
+    "a_la_une": true
+  },
+  {
+    "id": 2721,
+    "titre": "Procès en appel de Jacques Lalié pour favoritisme : la décision est attendue le 26 novembre",
+    "contenu": "Le président de la province des îles Loyauté était jugé en appel, ce mardi 5 novembre, à Nouméa, suite à sa condamnation pour favoritisme dans l'attribution d'un marché public. La peine qui a été requise est plus lourde qu'en première instance : un an de prison avec sursis au lieu de six mois, une amende portée à un million de francs CFP et toujours un an d'inéligibilité. La décision est attendue le 26 novembre.",
+    "url": "https://la1ere.francetvinfo.fr/nouvellecaledonie/province-iles/proces-en-appel-de-jacques-lalie-pour-favoritisme-la-decision-est-attendue-le-26-novembre-1534183.html",
+    "date": "2024-11-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2788,
+        "value": "98 - Nouvelle Calédonie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1238,
+        "value": "Jacques Lalié"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2717,
+    "titre": "Soupçons de détournement de fonds publics : perquisitions à la Ligue de football professionnel",
+    "contenu": "Des perquisitions ont débuté, mardi 5 novembre, au siège de la Ligue de football professionnel (LFP), dans le 17e arrondissement de Paris, dans le cadre d’une enquête ouverte en février 2024 notamment pour détournement de fonds publics.",
+    "url": "https://www.francetvinfo.fr/sports/foot/soupcons-de-detournement-de-fonds-public-perquisitions-a-la-ligue-de-football-professionnel_6879065.html",
+    "date": "2024-11-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2247,
+        "value": "Vincent Labrune"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 159,
+        "value": "AC !! Anti-Corruption"
+      },
+      {
+        "id": 641,
+        "value": "Ligue de football professionnel (LFP)"
+      },
+      {
+        "id": 642,
+        "value": "CVC Capital Partners"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2718,
+    "titre": "Affaire des chalets du village de Noël du Barcarès : la sortie de prison du maire Alain Ferrand retardée par des difficultés de paiement de sa caution",
+    "contenu": "Si la cour d’appel d’Aix-en-Provence a donné droit jeudi dernier à sa remise en liberté, Alain Ferrand ne pourra finalement quitter le centre pénitentiaire que ce lundi 4 novembre en fin de journée ou mardi 5 novembre au matin. En cause : un problème administratif pour le paiement de la caution du maire du Barcarès.",
+    "url": "https://www.lindependant.fr/2024/11/04/affaire-des-chalets-du-village-de-noel-du-barcares-la-sortie-de-prison-du-maire-alain-ferrand-retarde-par-des-difficultes-de-paiement-de-sa-caution-12302360.php",
+    "date": "2024-11-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2756,
+        "value": "66 - Pyrénées-Orientales"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 771,
+        "value": "Alain Ferrand"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
     "a_la_une": false
   },
   {
