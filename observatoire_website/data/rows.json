@@ -1,5 +1,50 @@
 [
   {
+    "id": 2723,
+    "titre": "Agrément d’Anticor : le Conseil d’Etat confirme l’illégalité de la rédaction de l’arrêté de 2021",
+    "contenu": "Le Conseil d’Etat confirme l’annulation rétroactive de l’arrêté qui renouvelait l’agrément d’Anticor pour trois ans. L’association de lutte contre la corruption n’est cependant pas empêchée d’agir : elle a obtenu un nouvel agrément en septembre.",
+    "url": "https://www.lemonde.fr/societe/article/2024/11/06/agrement-d-anticor-le-conseil-d-etat-confirme-l-illegalite-de-la-redaction-de-l-arrete-de-2021_6380115_3224.html",
+    "date": "2024-11-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 655,
+        "value": "Jean Castex"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 327,
+        "value": "Conseil d'État"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2719,
     "titre": "Didier Robert condamné à 8 mois de sursis, 100 000 € d'amende et 5 ans d'inéligibilité dans l'affaire des indemnités de résidence",
     "contenu": "L’ancien président du Conseil régional de la Réunion a été condamné ce mardi 5 novembre par le tribunal correctionnel de Saint-Denis à 8 mois de prison avec sursis, 100 000 euros d'amende et 5 ans d'inéligibilité pour prise illégale d’intérêt et concussion dans l’affaire des indemnités de résidence. Le Parquet avait requis ces mêmes peines le 11 octobre dernier lors de l'audience.",
