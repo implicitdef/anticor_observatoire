@@ -45,6 +45,96 @@
     "a_la_une": false
   },
   {
+    "id": 2727,
+    "titre": "Des factures de téléphone colossales, un adjoint au maire visé par une enquête dans l'Oise",
+    "contenu": "Oumar Ba, un adjoint au maire de Compiègne (Oise), est visé par une enquête pour des factures de téléphone énormissimes, d'un montant de près de 15 000 euros, en moins de deux ans.",
+    "url": "https://actu.fr/hauts-de-france/compiegne_60159/des-factures-de-telephone-colossales-un-adjoint-au-maire-vise-par-une-enquete-dans-l-oise_61831484.html",
+    "date": "2024-11-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2750,
+        "value": "60 - Oise"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2250,
+        "value": "Oumar Ba"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2728,
+    "titre": "Les « business games », la « machine à cash » d’un enseignant-chercheur de La Rochelle",
+    "contenu": "Mathieu Paquerot a commercialisé auprès de son université les services de la société de son épouse, engrangeant ainsi licences, droits d’auteur et heures supplémentaires, sans que la présidence y trouve rien à redire. Le parquet de La Rochelle a ouvert une enquête.",
+    "url": "https://www.mediapart.fr/journal/france/071124/les-business-games-la-machine-cash-d-un-enseignant-chercheur-de-la-rochelle",
+    "date": "2024-11-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2711,
+        "value": "17 - Charente-Maritime"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2251,
+        "value": "Mathieu Paquerot"
+      },
+      {
+        "id": 2252,
+        "value": "Anne Queffelec-Paquerot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 1042,
+        "value": "IAE La Rochelle"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2665,
+        "value": "Éducation / Enseignement"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2725,
     "titre": "Recours aux cabinets de conseil par l’Etat : des syndicats de fonctionnaires reconnus parties civiles",
     "contenu": "La reconnaissance de ce statut permet d’avoir accès au dossier, de faire des demandes d’actes et éventuellement d’obtenir des dommages et intérêts. Entre 2018 et 2021, les fonds publics versés, notamment à McKinsey, avaient doublé, alors que le cabinet de conseil est soupçonné d’avoir aidé le candidat Macron dès 2016.",
@@ -105,6 +195,51 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2726,
+    "titre": "Affaire de la Couronnerie : Jean-François Bordat définitivement reconnu coupable, mais il y aura un nouveau procès",
+    "contenu": "La Cour de cassation a partiellement cassé le jugement de la cour d'appel d'Orléans dans l'affaire de la Couronnerie : la décision de culpabilité est confirmée pour Jean-François Bordat, mais sa peine de 3 ans de prison est annulée et sera réexaminée par la cour d'appel de Bourges.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/affaire-de-la-couronnerie-jean-francois-bordat-definitivement-reconnu-coupable-mais-il-y-aura-un-nouveau-proces-4824335",
+    "date": "2024-11-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2739,
+        "value": "45 - Loiret"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1255,
+        "value": "Jean-François Bordat"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 479,
+        "value": "T'Hand'M (ex-La Couronnerie)"
+      },
+      {
+        "id": 1041,
+        "value": "Sodexo"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -64227,7 +64362,7 @@
   {
     "id": 822,
     "titre": "André Santini visé par une nouvelle plainte pour prise illégale d'intérêt",
-    "contenu": "Le maire d'Issy-les-Moulineaux, André Santini, est visé par une nouvelle plainte pour \"prise illégale d'intérêt\". La plainte a été envoyée ce lundi au parquet de Nanterre par deux ex-collaborateurs du maire. \nEn tant que fonctionnaire, les deux hommes peuvent profiter de la \"protection fonctionnelle\", une assistance juridique dont peut bénéficier un agent public. Sauf qu'André Santini a fait voter au dernier conseil municipal, en sa présence mais sans prendre la parole, cette protection fonctionnelle pour sa défense dans cette affaire de soupçons d'agressions sexuelles. Une décision que ces agents municipaux veulent contester en justice au pénal, car eux ne peuvent pas en profiter, une telle protection n’a pas été proposée au vote par la collectivité.",
+    "contenu": "Le maire d'Issy-les-Moulineaux, André Santini, est visé par une nouvelle plainte pour \"prise illégale d'intérêt\". La plainte a été envoyée ce lundi au parquet de Nanterre par deux ex-collaborateurs du maire.  En tant que fonctionnaire, les deux hommes peuvent profiter de la protection fonctionnelle, une assistance juridique dont peut bénéficier un agent public. Sauf qu'André Santini a fait voter au dernier conseil municipal, en sa présence mais sans prendre la parole, cette protection fonctionnelle pour sa défense dans cette affaire de soupçons d'agressions sexuelles. Une décision que ces agents municipaux veulent contester en justice au pénal, car eux ne peuvent pas en profiter, une telle protection n’a pas été proposée au vote par la collectivité.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/andre-santini-vise-par-une-nouvelle-plainte-pour-prise-illegale-d-interet-1669054424",
     "date": "2022-11-21",
     "etiquettes": "",
@@ -65181,7 +65316,7 @@
     "personnes_morales": [
       {
         "id": 479,
-        "value": "La Couronnerie"
+        "value": "T'Hand'M (ex-La Couronnerie)"
       }
     ],
     "categorie": [
@@ -71220,7 +71355,7 @@
     "personnes_morales": [
       {
         "id": 479,
-        "value": "La Couronnerie"
+        "value": "T'Hand'M (ex-La Couronnerie)"
       }
     ],
     "categorie": [
