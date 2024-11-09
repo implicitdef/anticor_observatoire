@@ -1,5 +1,114 @@
 [
   {
+    "id": 2724,
+    "titre": "Procès des assistants parlementaires du FN : le risque d’une inéligibilité automatique pour Marine Le Pen",
+    "contenu": "La leader du parti d’extrême droite, en tant que présidente du FN à l’époque des faits, est poursuivie pour des détournements de fonds du Parlement européen, de 2011 à 2016. En cas de condamnation, la loi Sapin 2 de 2016 impose des peines obligatoires d’inéligibilité pendant cinq ans.",
+    "url": "https://www.lemonde.fr/societe/article/2024/11/08/proces-des-assistants-parlementaires-du-fn-le-risque-d-une-ineligibilite-automatique-pour-marine-le-pen_6384091_3224.html",
+    "date": "2024-11-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2725,
+    "titre": "Recours aux cabinets de conseil par l’Etat : des syndicats de fonctionnaires reconnus parties civiles",
+    "contenu": "La reconnaissance de ce statut permet d’avoir accès au dossier, de faire des demandes d’actes et éventuellement d’obtenir des dommages et intérêts. Entre 2018 et 2021, les fonds publics versés, notamment à McKinsey, avaient doublé, alors que le cabinet de conseil est soupçonné d’avoir aidé le candidat Macron dès 2016.",
+    "url": "https://www.lemonde.fr/societe/article/2024/11/07/recours-aux-cabinets-de-conseil-par-l-etat-des-syndicats-de-fonctionnaires-reconnus-partie-civile_6381259_3224.html",
+    "date": "2024-11-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 648,
+        "value": "Emmanuel Macron"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 13,
+        "value": "Renaissance"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 257,
+        "value": "Confédération générale du travail (CGT)"
+      },
+      {
+        "id": 364,
+        "value": "Capgemini"
+      },
+      {
+        "id": 368,
+        "value": "Accenture"
+      },
+      {
+        "id": 397,
+        "value": "McKinsey & Company"
+      },
+      {
+        "id": 1040,
+        "value": "Citwell"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2723,
     "titre": "Agrément d’Anticor : le Conseil d’Etat confirme l’illégalité de la rédaction de l’arrêté de 2021",
     "contenu": "Le Conseil d’Etat confirme l’annulation rétroactive de l’arrêté qui renouvelait l’agrément d’Anticor pour trois ans. L’association de lutte contre la corruption n’est cependant pas empêchée d’agir : elle a obtenu un nouvel agrément en septembre.",
