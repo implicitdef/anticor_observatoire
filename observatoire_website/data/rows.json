@@ -42,7 +42,7 @@
       }
     ],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 2727,
@@ -86706,7 +86706,7 @@
     "id": 1302,
     "titre": "Brigitte Barèges, maire LR de Montauban, retrouve son siège après une relaxe en appel",
     "contenu": "L'ex-maire LR de Montauban, Brigitte Barèges, a retrouvé mercredi soir son siège dont elle avait été déchue en février, après sa condamnation en première instance pour détournement de fonds publics, avant d'être finalement relaxé le 14 décembre en appel.\nLe 14 décembre la cour d'Appel de Toulouse a prononcé une relaxe spectaculaire alors que l'avocat général de la cour d'appel de Toulouse avait demandé, lors de l'audience du 28 octobre, six ans d'inéligibilité et 12 mois d'emprisonnement avec sursis contre l'élue.",
-    "url": "https://www.republicain-lorrain.fr/environnement/2021/12/29/gestion-des-dechets-menagers-nouvelle-plainte-d-anticor-pour-favoritisme-et-prise-illegale-d-interet-a-l-encontre-du-sydeme",
+    "url": "https://www.lefigaro.fr/flash-actu/la-maire-lr-de-montauban-retrouve-son-siege-apres-une-relaxe-en-appel-20211222",
     "date": "2021-12-22",
     "etiquettes": "82 – Tarn-et-Garonne,Brigitte Barèges,Les Républicains",
     "departement": [
@@ -86715,30 +86715,24 @@
         "value": "82 - Tarn-et-Garonne"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 1305,
-    "titre": "À Issoudun, le maire André Laignel visé par une plainte pour prise illégale d'intérêt",
-    "contenu": "L'élu municipal d'opposition, Christopher Albarao, accuse le maire d'Issoudun de \"prise illégale d'intérêt\" après le vote d'une délibération, au dernier conseil municipal. Cette délibération concerne l'octroi d'une subvention à l'Association des maires et élus de progrès (Amep) que préside André Laignel. L'opposant a déposé plainte, lundi 20 décembre, auprès de la procureure de la République.",
-    "url": "https://www.lemonde.fr/politique/article/2022/01/04/l-ancien-ministre-socialiste-philippe-martin-condamne-a-deux-ans-de-prison-avec-sursis-pour-emploi-fictif-a-l-assemblee-nationale_6108188_823448.html",
-    "date": "2021-12-21",
-    "etiquettes": "36 - Indre,André Laignel",
-    "departement": [
+    "personnalites": [
       {
-        "id": 2730,
-        "value": "36 - Indre"
+        "id": 2253,
+        "value": "Brigitte Barèges"
       }
     ],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
@@ -86748,7 +86742,7 @@
     "id": 1303,
     "titre": "A Roquebrune-sur-Argens, le 2e adjoint Robert Masson mis en examen dans une affaire de favoritisme",
     "contenu": "Robert Masson, référent de la Bouverie, a été mis en examen dans le cadre d’un litige impliquant l’ancien maire Luc Jousse. Il est aujourd’hui prévenu et sera renvoyé devant le tribunal de Draguignan pour une audience en mars prochain, confirme le parquet. Le litige, lui, remonte à 2010. Le dépôt de plainte concerne le port Petit Ferréol (port Soleil depuis 2013) aux Issambres, situé à un kilomètre de la plage de la Gaillarde. Ce terrain appartenait, jusqu’au début des années 2000, à la famille Scarani qui avait une entreprise de réparation de bateaux. Il a ensuite été cédé à la Ville de Roquebrune quelques années plus tard et revendu, par la suite, à la société Newport services que gérait Robert Masson.\nLuc Jousse, qui était maire de la commune entre 2001 et 2016, aurait alors privilégié New Port Services dans le cadre de cette délégation de service public (DSP).",
-    "url": "https://www.liberation.fr/societe/police-justice/franck-provost-mis-en-examen-pour-abus-de-biens-sociaux-et-fraude-fiscale-aggravee-20211223_U5627XMQ5FH7TKM4UXO324N7VE/?redirected=1",
+    "url": "https://www.varmatin.com/justice/a-roquebrune-sur-argens-le-2e-adjoint-robert-masson-mis-en-examen-dans-une-affaire-de-favoritisme-735217",
     "date": "2021-12-21",
     "etiquettes": "83 - Var,Luc Jousse,Robert Masson",
     "departement": [
@@ -86757,11 +86751,66 @@
         "value": "83 - Var"
       }
     ],
-    "personnalites": [],
+    "personnalites": [
+      {
+        "id": 2254,
+        "value": "Robert Masson"
+      }
+    ],
     "personnes_morales": [],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 1305,
+    "titre": "Issoudun : le maire André Laignel visé par une plainte pour \"prise illégale d'intérêt\"",
+    "contenu": "L'élu municipal d'opposition, Christopher Albarao, accuse le maire d'Issoudun de \"prise illégale d'intérêt\" après le vote d'une délibération, au dernier conseil municipal. Cette délibération concerne l'octroi d'une subvention à l'Association des maires et élus de progrès (Amep) que préside André Laignel. L'opposant a déposé plainte, lundi 20 décembre, auprès de la procureure de la République.",
+    "url": "https://www.lanouvellerepublique.fr/issoudun/issoudun-le-maire-andre-laignel-vise-par-une-plainte-pour-prise-illegale-d-interet",
+    "date": "2021-12-21",
+    "etiquettes": "36 - Indre,André Laignel",
+    "departement": [
+      {
+        "id": 2730,
+        "value": "36 - Indre"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1548,
+        "value": "Christopher Albarao"
+      },
+      {
+        "id": 1549,
+        "value": "André Laignel"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -86769,14 +86818,47 @@
     "id": 1304,
     "titre": "Soupçons de prise illégale d'intérêt : Éric Dupond-Moretti obtient satisfaction dans un acte de procédure",
     "contenu": "Visé par une enquête pour prise illégale d'intérêt, Éric Dupond-Moretti obtient ce mardi l'annulation de la décision en appel de la Cour de justice de la République de ne pas auditionner le procureur général, François Molins. Le garde des Sceaux a 5 jours pour déposer un pourvoi en cassation.",
-    "url": "https://www.lemonde.fr/international/article/2021/12/23/l-ex-premier-ministre-francais-francois-fillon-rejoint-un-geant-de-la-petrochimie-russe_6107169_3210.html",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/soupcons-de-prise-illegale-d-interets-la-cour-de-cassation-se-prononce-sur-un-pourvoi-d-eric-dupond-1640015197",
     "date": "2021-12-21",
     "etiquettes": "Éric Dupond-Moretti,Gouvernement Jean Castex,Ministère de la Justice",
-    "departement": [],
-    "personnalites": [],
-    "personnes_morales": [],
-    "categorie": [],
-    "theme": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 658,
+        "value": "Éric Dupond-Moretti"
+      },
+      {
+        "id": 681,
+        "value": "François Molins"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 68,
+        "value": "Cour de Justice de la République (CJR)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -86784,21 +86866,53 @@
   {
     "id": 1306,
     "titre": "Le patron des députés MoDem soupçonné de prise illégale d’intérêts",
-    "contenu": "Anticor a adressé, le 14 décembre dernier, un signalement au procureur de la République de Chambéry. L’association de lutte contre la corruption s’interroge sur un marché public qui a bénéficié à l’ancienne entreprise de Patrick Mignola, député de Savoie et président du groupe MoDem à l’Assemblée nationale. Xavier Dullin, ancien président du Grand Chambéry, déjà inquiété par une enquête préliminaire dans le cadre de l’organisation d’un salon d’affaires, est également mentionné.\nAnticor reproche au parlementaire proche de François Bayrou de s’être impliqué, entre 2015 et 2017, dans un des marchés publics de la construction de la piscine de Chambéry : le lot « revêtement de sol, revêtement des bassins ». Ce marché de près d’un million d’euros a bénéficié à Mignola Carrelages, entreprise du député aujourd’hui liquidée, alors même que Patrick Mignola siégeait au sein du Grand Chambéry, la communauté d’agglomération commanditaire.",
-    "url": "https://www.francebleu.fr/infos/faits-divers-justice/soupcons-de-prise-illegale-d-interets-la-cour-de-cassation-se-prononce-sur-un-pourvoi-d-eric-dupond-1640015197",
+    "contenu": "Anticor a adressé, le 14 décembre dernier, un signalement au procureur de la République de Chambéry. L’association de lutte contre la corruption s’interroge sur un marché public qui a bénéficié à l’ancienne entreprise de l’élu savoyard Patrick Mignola.",
+    "url": "https://www.mediacites.fr/complement-denquete/lyon/2021/12/20/le-patron-des-deputes-modem-soupconne-de-prise-illegale-dinterets/",
     "date": "2021-12-20",
     "etiquettes": "Anticor,François Bayrou,Mouvement démocrate,Patrick Mignola,Xavier Dullin",
-    "departement": [],
-    "personnalites": [],
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2760,
+        "value": "73 - Savoie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2255,
+        "value": "Patrick Mignola"
+      }
+    ],
     "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
       {
         "id": 66,
         "value": "Anticor"
+      },
+      {
+        "id": 84,
+        "value": "Mouvement démocrate (MoDem)"
       }
     ],
-    "categorie": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
