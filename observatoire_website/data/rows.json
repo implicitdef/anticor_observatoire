@@ -1,5 +1,59 @@
 [
   {
+    "id": 2729,
+    "titre": "Crèches People&Baby : « face à l’inertie des pouvoirs publics », Anticor porte plainte",
+    "contenu": "« Devant l’inertie des pouvoirs publics », Anticor a annoncé avoir porté plainte à Paris pour escroqueries et détournement de fonds publics contre le groupe de crèches privées People&Baby, épinglé dans une enquête du journaliste Victor Castanet.",
+    "url": "https://www.mediapart.fr/journal/fil-dactualites/121124/creches-peoplebaby-face-l-inertie-des-pouvoirs-publics-anticor-porte-plainte",
+    "date": "2024-11-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 962,
+        "value": "Victor Castanet"
+      },
+      {
+        "id": 2256,
+        "value": "Christophe Durieux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 1043,
+        "value": "People and baby"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2682,
+        "value": "Social"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2724,
     "titre": "Procès des assistants parlementaires du FN : le risque d’une inéligibilité automatique pour Marine Le Pen",
     "contenu": "La leader du parti d’extrême droite, en tant que présidente du FN à l’époque des faits, est poursuivie pour des détournements de fonds du Parlement européen, de 2011 à 2016. En cas de condamnation, la loi Sapin 2 de 2016 impose des peines obligatoires d’inéligibilité pendant cinq ans.",
