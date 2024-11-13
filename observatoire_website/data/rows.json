@@ -1,5 +1,58 @@
 [
   {
+    "id": 2730,
+    "titre": "Emplois fictifs de Penelope Fillon: François Fillon propose comment \"rendre l'argent\"",
+    "contenu": "L’ancien Premier ministre a proposé récemment à l’Assemblée nationale de lui verser près de 700.000 euros sur les 10 prochaines années. Un moyen de se présenter sous son meilleur jour avant son ultime procès prévu le 25 novembre.",
+    "url": "https://www.bfmtv.com/police-justice/info-bfmtv-emplois-fictifs-de-penelope-fillon-francois-fillon-propose-de-rendre-l-argent_AN-202411120467.html",
+    "date": "2024-11-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 123,
+        "value": "Éric Ciotti"
+      },
+      {
+        "id": 1388,
+        "value": "François Fillon"
+      },
+      {
+        "id": 1389,
+        "value": "Pénélope Fillon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2729,
     "titre": "Crèches People&Baby : « face à l’inertie des pouvoirs publics », Anticor porte plainte",
     "contenu": "« Devant l’inertie des pouvoirs publics », Anticor a annoncé avoir porté plainte à Paris pour escroqueries et détournement de fonds publics contre le groupe de crèches privées People&Baby, épinglé dans une enquête du journaliste Victor Castanet.",
