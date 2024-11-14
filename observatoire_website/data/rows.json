@@ -53,6 +53,51 @@
     "a_la_une": true
   },
   {
+    "id": 2731,
+    "titre": "Procès des assistants du RN : Cinq ans de prison et d’inéligibilité réclamés contre Marine Le Pen",
+    "contenu": "Cinq ans de prison dont deux ans ferme aménageables, et une peine d’inéligibilité de cinq ans. Voilà la réquisition qui a été faite ce mercredi soir à l’encontre de Marine Le Pen, dans l’affaire des assistants parlementaires du Rassemblement national. La présidente du RN est jugée devant le tribunal de Paris au côté de son parti et de 24 autres prévenus.",
+    "url": "https://www.20minutes.fr/justice/4121195-20241113-proces-assistants-parlementaires-fn-cinq-ans-prison-ineligibilite-requis-contre-marine-pen",
+    "date": "2024-11-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2729,
     "titre": "Crèches People&Baby : « face à l’inertie des pouvoirs publics », Anticor porte plainte",
     "contenu": "« Devant l’inertie des pouvoirs publics », Anticor a annoncé avoir porté plainte à Paris pour escroqueries et détournement de fonds publics contre le groupe de crèches privées People&Baby, épinglé dans une enquête du journaliste Victor Castanet.",
