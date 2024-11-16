@@ -1,5 +1,566 @@
 [
   {
+    "id": 2738,
+    "titre": "Fabrice Loher, un poisson-pilote de la pêche industrielle au ministère",
+    "contenu": "Alors que la pêche artisanale se meurt et que sa pratique industrielle ravage la biodiversité marine, le maire de Lorient et nouveau ministre de la mer vante ses liens avec les lobbys, et favorise les intérêts des plus gros acteurs du secteur.",
+    "url": "https://www.mediapart.fr/journal/ecologie/151124/fabrice-loher-un-poisson-pilote-de-la-peche-industrielle-au-ministere",
+    "date": "2024-11-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2747,
+        "value": "56 - Morbihan"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2261,
+        "value": "Fabrice Loher"
+      },
+      {
+        "id": 2262,
+        "value": "Olivier Le Nézet"
+      },
+      {
+        "id": 2263,
+        "value": "Florian Soisson"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 254,
+        "value": "Union des démocrates et indépendants (UDI)"
+      },
+      {
+        "id": 451,
+        "value": "Bloom"
+      },
+      {
+        "id": 1047,
+        "value": "Compagnie des pêches de Saint-Malo"
+      },
+      {
+        "id": 1048,
+        "value": "Comité national des pêches maritimes et des élevages marins"
+      },
+      {
+        "id": 1049,
+        "value": "XSEA"
+      },
+      {
+        "id": 1050,
+        "value": "Blue Fish"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2676,
+        "value": "Pêche"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2744,
+    "titre": "L’ancien secrétaire d’Etat Thierry Mandon condamné à douze mois de prison avec sursis",
+    "contenu": "Plusieurs délits financiers lui étaient reprochés pour un préjudice total de 22 000 euros. Outre les peines de prison et d’amende, il est condamné à cinq ans d’inéligibilité ainsi qu’à une interdiction définitive de présider ou de diriger un établissement public.",
+    "url": "https://www.lemonde.fr/politique/article/2024/11/15/l-ancien-secretaire-d-etat-thierry-mandon-condamne-a-douze-mois-de-prison-avec-sursis_6395512_823448.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default",
+    "date": "2024-11-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2736,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1253,
+        "value": "Thierry Mandon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 478,
+        "value": "Cité du design (Saint-Étienne)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2747,
+    "titre": "Le député Kerbrat, la drogue et l’argent public : récit d’une descente aux enfers",
+    "contenu": "Interpellé pendant qu’il achetait de la drogue, l’élu insoumis a, selon nos informations, financé sa consommation avec ses frais de députés. Interrogé par Mediapart, Andy Kerbrat admet avoir « fait n’importe quoi » avant de rembourser l’Assemblée, et revient longuement sur le « merdier » dans lequel il s’est « enfermé ».",
+    "url": "https://www.mediapart.fr/journal/politique/151124/le-depute-kerbrat-la-drogue-et-l-argent-public-recit-d-une-descente-aux-enfers",
+    "date": "2024-11-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 283,
+        "value": "Andy Kerbrat"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 15,
+        "value": "La France Insoumise (LFI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2664,
+        "value": "Drogue"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2745,
+    "titre": "Le Parquet national financier requiert un procès pour corruption contre Rachida Dati et Carlos Ghosn",
+    "contenu": "L'actuelle ministre de la Culture est soupçonnée d'avoir perçu 900 000 euros de la part de RNBV, filiale de l'alliance Renault-Nissan, sans contrepartie d'un travail réel, entre 2010 et 2012.",
+    "url": "https://www.francetvinfo.fr/politique/rachida-dati/le-parquet-national-financier-requiert-un-proces-pour-corruption-contre-rachida-dati-et-carlos-ghosn_6899237.html",
+    "date": "2024-11-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 617,
+        "value": "Carlos Ghosn"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2743,
+    "titre": "Les textos secrets entre le PDG de Pfizer et Ursula von der Leyen devant la justice",
+    "contenu": "Devant le tribunal de l’UE, ce 15 novembre, la défense de la Commission européenne a justifié son refus de rendre publics les SMS échangés entre sa présidente et Albert Bourla par le fait qu’ils ne soient pas si importants. Alors qu’elle négociait les plus gros contrats de l’histoire de l’institution en pleine crise du Covid-19.",
+    "url": "https://www.mediapart.fr/journal/international/151124/les-textos-secrets-entre-le-pdg-de-pfizer-et-ursula-von-der-leyen-devant-la-justice",
+    "date": "2024-11-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2804,
+        "value": "Luxembourg"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1306,
+        "value": "Ursula von der Leyen"
+      },
+      {
+        "id": 2272,
+        "value": "Albert Bourla"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 175,
+        "value": "Commission Européenne"
+      },
+      {
+        "id": 825,
+        "value": "Pfizer"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2680,
+        "value": "Santé"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2742,
+    "titre": "Réquisitions au procès d’Olivier Hoarau : le parquet réclame des peines lourdes",
+    "contenu": "Deux ans de prison avec sursis, 80.000 euros d’amende et cinq ans d’inéligibilité requis contre Olivier Hoarau, maire du Port. Plusieurs proches et partenaires sont également visés dans l’affaire du Cap Sacré-Cœur.",
+    "url": "https://www.zinfos974.com/requisitions-au-proces-dolivier-hoarau-le-parquet-reclame-des-peines-lourdes/",
+    "date": "2024-11-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2786,
+        "value": "974 - La Réunion"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2267,
+        "value": "Olivier Hoarau"
+      },
+      {
+        "id": 2268,
+        "value": "Fayzal Ahmed-Valy"
+      },
+      {
+        "id": 2269,
+        "value": "Bernard Payet"
+      },
+      {
+        "id": 2270,
+        "value": "Éric Heinz"
+      },
+      {
+        "id": 2271,
+        "value": "Leïla Moussa"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2748,
+    "titre": "94.000 euros d’argent public dépensés après qu’une proche du maire se présente aux municipales 2020 : la chambre des comptes épingle l'ancienne équipe municipale de Besançon",
+    "contenu": "Dans son rapport en septembre, la chambre régionale des comptes s’est intéressée à la gestion administrative de la ville de Besançon (Doubs) et d’une collaboratrice en particulier. Alexandra Cordier, membre du cabinet de l’ancien maire Jean-Louis Fousseret (LREM) avait été licenciée en janvier 2020, à trois mois de la fin de son contrat, et des élections municipales où elle était candidate dissidente.",
+    "url": "https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/100-000-euros-d-argent-public-depenses-apres-qu-une-proche-du-maire-se-presente-aux-municipales-2020-la-chambre-des-comptes-epingle-la-ville-de-besancon-3059659.html",
+    "date": "2024-11-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2717,
+        "value": "25 - Doubs"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2273,
+        "value": "Alexandra Cordier"
+      },
+      {
+        "id": 2274,
+        "value": "Jean-Louis Fousseret"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 96,
+        "value": "Chambre régionale des comptes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2734,
+    "titre": "L’action finale doit revenir aux humains\" : avec son IA anticorruption, Anticor numérise la surveillance citoyenne",
+    "contenu": "Les robots transformés en lanceurs d’alerte ? Avec l'aide d'informaticiens et d'ingénieurs, l’association « pour l'éthique en politique » Anticor a lancé un outil d'intelligence artificielle pour identifier de potentiels conflits d’intérêts et des anomalies dans les passations de marchés publics.",
+    "url": "https://www.marianne.net/societe/big-brother/laction-finale-doit-revenir-aux-humains-avec-son-ia-anticorruption-anticor-numerise-la-surveillance-citoyenne",
+    "date": "2024-11-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      },
+      {
+        "id": 2685,
+        "value": "Technologies"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2746,
+    "titre": "Nice : la mairie perquisitionnée sur l’organisation du «Nice climate summit» et de l’Eurovision junior",
+    "contenu": "Une enquête préliminaire avait été ouverte en août par le parquet de Marseille concernant les conditions d’organisation et de financement de ces deux événements, qui se sont tenus à Nice et auxquels était liée Laura Tenoudji, la femme du maire Christian Estrosi.",
+    "url": "https://www.lefigaro.fr/nice/nice-la-mairie-perquisitionnee-sur-l-organisation-du-nice-climate-summit-et-de-l-eurovision-junior-20241114",
+    "date": "2024-11-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 872,
+        "value": "Christian Estrosi"
+      },
+      {
+        "id": 883,
+        "value": "Laura Tenoudji"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2735,
+    "titre": "Perquisitions à la mairie de Montpellier pour des soupçons de détournements de fonds publics",
+    "contenu": "Cette perquisition a été effectuée par la brigade financière de la police judiciaire de la ville. Ces recherches s’effectuent dans le cadre de deux dossiers distincts, reposant tous deux sur des soupçons de détournements de fonds publics et recel de ce délit.",
+    "url": "https://www.leparisien.fr/faits-divers/perquisitions-a-la-mairie-de-montpellier-pour-des-soupcons-de-detournements-de-fonds-publics-14-11-2024-OEVXWCZSBZAKTL24R45LXG5E6M.php?ts=1731748680246",
+    "date": "2024-11-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2260,
+        "value": "Mickaël Delafosse"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2740,
+    "titre": "Procès Manurhin : prison avec sursis simple et amendes requises par le Parquet national financier",
+    "contenu": "Considérant que la seule intention caractérisait les délits de trafic d’influence et, par conséquent, d’abus de biens sociaux, les deux procureures du Parquet national financier ont requis trois ans et deux ans de prison avec sursis à l’encontre de l’ancien PDG de Manurhin, Rémy Thannberger, et de deux intermédiaires financiers, ainsi que des amendes. Tout en réduisant à la baisse les montants avancés jusqu’alors.",
+    "url": "https://www.lalsace.fr/faits-divers-justice/2024/11/14/proces-manurhin-prison-avec-sursis-et-amendes-requises-par-le-parquet-national-financier",
+    "date": "2024-11-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2758,
+        "value": "68 - Haut-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2246,
+        "value": "Rémy Thannberger"
+      },
+      {
+        "id": 2264,
+        "value": "Denis Samuel Lajeunesse"
+      },
+      {
+        "id": 2265,
+        "value": "Christian Ciganer-Albeniz"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 1038,
+        "value": "Manurhin"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2656,
+        "value": "Armement"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2730,
     "titre": "Emplois fictifs de Penelope Fillon: François Fillon propose comment \"rendre l'argent\"",
     "contenu": "L’ancien Premier ministre a proposé récemment à l’Assemblée nationale de lui verser près de 700.000 euros sur les 10 prochaines années. Un moyen de se présenter sous son meilleur jour avant son ultime procès prévu le 25 novembre.",
@@ -53,6 +614,107 @@
     "a_la_une": true
   },
   {
+    "id": 2749,
+    "titre": "Gérard Berger, l’ancien maire de Morzine devant la justice le 19 novembre pour prise illégale d’intérêt",
+    "contenu": "Gérard Berger, l’ancien maire de Morzine, comparaît devant le tribunal de Thonon-les-Bains, mardi 19 novembre. Il est accusé de « prise illégale d’intérêt » entre 2009 et 2015 et « d’atteinte à la liberté d’accès ou à l’égalité des candidats dans les marchés publics », de 2010 à 2023. Lucien Rastello, adjoint au maire à l’époque des faits, est lui aussi attendu à la barre pour les mêmes faits.",
+    "url": "https://www.lemessager.fr/649326141/article/2024-11-13/gerard-berger-l-ancien-maire-de-morzine-devant-la-justice-le-19-novembre-pour",
+    "date": "2024-11-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2761,
+        "value": "74 - Haute-Savoie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2275,
+        "value": "Gérard Berger"
+      },
+      {
+        "id": 2276,
+        "value": "Lucien Rastello"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2739,
+    "titre": "Les enquêtes visant l’association Dialogue franco-russe classées sans suite",
+    "contenu": "L’eurodéputé Thierry Mariani (Patriotes pour l’Europe, extrême droite), qui copréside l’association depuis 2012, et Yves Pozzo di Borgo, ancien sénateur centriste, membre de l’association et président d’une société de conseil, étaient au centre des investigations.",
+    "url": "https://www.lemonde.fr/societe/article/2024/11/13/les-enquetes-visant-l-association-dialogue-franco-russe-classees-sans-suite_6391882_3224.html",
+    "date": "2024-11-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 792,
+        "value": "Thierry Mariani"
+      },
+      {
+        "id": 1320,
+        "value": "Yves Pozzo di Borgo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      },
+      {
+        "id": 153,
+        "value": "Dialogue franco-russe"
+      },
+      {
+        "id": 254,
+        "value": "Union des démocrates et indépendants (UDI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement / acquittement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2731,
     "titre": "Procès des assistants du RN : Cinq ans de prison et d’inéligibilité réclamés contre Marine Le Pen",
     "contenu": "Cinq ans de prison dont deux ans ferme aménageables, et une peine d’inéligibilité de cinq ans. Voilà la réquisition qui a été faite ce mercredi soir à l’encontre de Marine Le Pen, dans l’affaire des assistants parlementaires du Rassemblement national. La présidente du RN est jugée devant le tribunal de Paris au côté de son parti et de 24 autres prévenus.",
@@ -96,6 +758,67 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2733,
+    "titre": "Bernard Squarcini devant la justice pour « trafic d’influence »",
+    "contenu": "Le procès de l’ancien patron du renseignement intérieur, soupçonné d’avoir mobilisé son réseau pour rendre des services au groupe LVMH, va s’ouvrir mercredi. Neuf autres prévenus sont jugés à ses côtés, mais pas l’entreprise de Bernard Arnault, qui a signé un accord transactionnel avec la justice en 2021.",
+    "url": "https://www.lemonde.fr/societe/article/2024/11/12/bernard-squarcini-devant-la-justice-pour-trafic-d-influence_6390193_3224.html",
+    "date": "2024-11-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 496,
+        "value": "François Ruffin"
+      },
+      {
+        "id": 690,
+        "value": "Bernard Arnault"
+      },
+      {
+        "id": 719,
+        "value": "Bernard Squarcini"
+      },
+      {
+        "id": 2201,
+        "value": "Jean-François Digeon"
+      },
+      {
+        "id": 2259,
+        "value": "Christian Flaesch"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      },
+      {
+        "id": 152,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2729,
@@ -152,6 +875,99 @@
     "a_la_une": true
   },
   {
+    "id": 2737,
+    "titre": "Entre associations d’élus et entreprises privées, le risque du mélange des genres",
+    "contenu": "Dépourvues de financement public, de nombreuses associations d’élus nouent des partenariats avec des entreprises privées pour financer des événements ou des actions. Chacune met en place ses propres garde-fous pour limiter les risques de collusion.",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2024/11/11/entre-associations-d-elus-et-entreprises-privees-le-risque-du-melange-des-genres_6387462_4355770.html",
+    "date": "2024-11-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2781,
+        "value": "94 - Val-de-Marne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1044,
+        "value": "Association des maires d’Ile-de-France (AMIF)"
+      },
+      {
+        "id": 1045,
+        "value": "Villes de France"
+      },
+      {
+        "id": 1046,
+        "value": "Association des maires ruraux de France (AMRF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2741,
+    "titre": "Le conseiller industrie de Sébastien Lecornu débauché par TotalEnergies",
+    "contenu": "En poste depuis 2022, le conseiller industrie et innovation de Sébastien Lecornu, Clément Le Gouellec, s'apprête à rejoindre l'énergéticien TotalEnergies.",
+    "url": "https://www.lalettre.fr/fr/entreprises_energie-et-environnement/2024/11/08/le-conseiller-industrie-de-sebastien-lecornu-debauche-par-totalenergies%252C110337099-bre",
+    "date": "2024-11-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 677,
+        "value": "Sébastien Lecornu"
+      },
+      {
+        "id": 2266,
+        "value": "Clément Le Gouellec"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 150,
+        "value": "TotalEnergies"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2666,
+        "value": "Énergie"
+      },
+      {
+        "id": 2670,
+        "value": "Industrie"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2724,
     "titre": "Procès des assistants parlementaires du FN : le risque d’une inéligibilité automatique pour Marine Le Pen",
     "contenu": "La leader du parti d’extrême droite, en tant que présidente du FN à l’époque des faits, est poursuivie pour des détournements de fonds du Parlement européen, de 2011 à 2016. En cas de condamnation, la loi Sapin 2 de 2016 impose des peines obligatoires d’inéligibilité pendant cinq ans.",
@@ -195,6 +1011,46 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2732,
+    "titre": "David et Cathy Guetta, rois de la nuit… et de l’optimisation fiscale",
+    "contenu": "Exilé à l’étranger, le célèbre tandem affectionne les paradis fiscaux comme Jersey ou Dubaï.",
+    "url": "https://www.linforme.com/medias-culture/article/david-et-cathy-guetta-rois-de-la-nuit-et-de-l-optimisation-fiscale_2229.html",
+    "date": "2024-11-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2257,
+        "value": "David Guetta"
+      },
+      {
+        "id": 2258,
+        "value": "Cathy Guetta"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2727,
