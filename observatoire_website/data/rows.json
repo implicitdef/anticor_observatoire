@@ -1,5 +1,174 @@
 [
   {
+    "id": 2751,
+    "titre": "Bourg-lès-Valence : les écologistes saisissent la justice après le fichage illégal des habitants",
+    "contenu": "Les écologistes de Bourg-lès-Valence font un signalement à la justice, après la publication du contrôle des comptes de la commune, par la chambre régionale des comptes. Ce rapport dévoile, entre autre, que la mairie a fiché près de 15 000 administrés.",
+    "url": "https://www.francebleu.fr/infos/politique/bourg-les-valence-les-ecologistes-saisissent-la-justice-apres-le-fichage-illegal-des-habitants-7420821",
+    "date": "2024-11-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2718,
+        "value": "26 - Drôme"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2284,
+        "value": "Marlène Mourier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 6,
+        "value": "Cour des comptes (CDC)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2696,
+        "value": "Révélation / signalement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2750,
+    "titre": "Procès Squarcini : les écoutes illégales liées à l’affaire du cercle de jeux Wagram",
+    "contenu": "Bernard Squarcini est poursuivi pour avoir à deux reprises fait placer sur écoutes le policier Franck Alioui, partie civile dans l’affaire, sous des prétextes fallacieux. Les liens du préfet avec l’équipe du Wagram remontent à la surface.",
+    "url": "https://www.mediapart.fr/journal/france/161124/proces-squarcini-les-ecoutes-illegales-liees-l-affaire-du-cercle-de-jeux-wagram",
+    "date": "2024-11-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 719,
+        "value": "Bernard Squarcini"
+      },
+      {
+        "id": 720,
+        "value": "Franck Alioui"
+      },
+      {
+        "id": 2277,
+        "value": "Robert Saby"
+      },
+      {
+        "id": 2278,
+        "value": "Michel Ferracci"
+      },
+      {
+        "id": 2279,
+        "value": "Philippe Terrazzoni"
+      },
+      {
+        "id": 2280,
+        "value": "Marie-Claire Giacomini"
+      },
+      {
+        "id": 2281,
+        "value": "François Casanova"
+      },
+      {
+        "id": 2282,
+        "value": "Alain Pouessel"
+      },
+      {
+        "id": 2283,
+        "value": "Christian Lothion"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      },
+      {
+        "id": 152,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      },
+      {
+        "id": 231,
+        "value": "Cercle de jeu Wagram"
+      },
+      {
+        "id": 1051,
+        "value": "Office central des courses et jeux (OCCJ)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2671,
+        "value": "Jeux d'argent"
+      },
+      {
+        "id": 2677,
+        "value": "Police"
+      },
+      {
+        "id": 3042,
+        "value": "Renseignement"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2752,
+    "titre": "Une enquête pour prise illégale d’intérêts ouverte à Valdeblore",
+    "contenu": "Suite au signalement d’administrés, la justice s’intéresse à l’attribution de plusieurs marchés publics à des entreprises ayant un lien avec la maire et son 1er adjoint.",
+    "url": "https://www.nicematin.com/justice/enquete-pour-prise-illegale-d-interet-a-valdeblore-957104",
+    "date": "2024-11-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2738,
     "titre": "Fabrice Loher, un poisson-pilote de la pêche industrielle au ministère",
     "contenu": "Alors que la pêche artisanale se meurt et que sa pratique industrielle ravage la biodiversité marine, le maire de Lorient et nouveau ministre de la mer vante ses liens avec les lobbys, et favorise les intérêts des plus gros acteurs du secteur.",
