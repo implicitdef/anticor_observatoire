@@ -1,5 +1,194 @@
 [
   {
+    "id": 2765,
+    "titre": "Le député RN Franck Allisio a omis de déclarer le double emploi de ses collaborateurs parlementaires",
+    "contenu": "En janvier 2023, le député RN Franck Allisio n’a pas déclaré à la Haute Autorité pour la transparence de la vie publique que deux de ses collaborateurs étaient par ailleurs employés de la région Provence-Alpes-Côte d’Azur. Un cumul interdit par la loi.",
+    "url": "https://www.mediapart.fr/journal/france/211124/le-depute-rn-franck-allisio-omis-de-declarer-le-double-emploi-de-ses-collaborateurs-parlementaires",
+    "date": "2024-11-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 12,
+        "value": "Franck Allisio"
+      },
+      {
+        "id": 2295,
+        "value": "Marc-Antoine Ponelle"
+      },
+      {
+        "id": 2296,
+        "value": "Louis Grégoire"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2767,
+    "titre": "MGEN : un fidèle de Marlène Schiappa recruté par Matthias Savignac",
+    "contenu": "Un des plus proches ex-collaborateurs de Marlène Schiappa a rejoint le groupe mutualiste MGEN comme conseiller du président Matthias Savignac, par ailleurs compagnon de l'ancienne ministre.",
+    "url": "https://www.lalettre.fr/fr/entreprises/2024/11/21/mgen--un-fidele-de-marlene-schiappa-recrute-par-matthias-savignac,110342677-bre",
+    "date": "2024-11-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 676,
+        "value": "Marlène Schiappa"
+      },
+      {
+        "id": 2297,
+        "value": "Alexandre Dimeck-Ghione"
+      },
+      {
+        "id": 2298,
+        "value": "Matthias Savignac"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 1058,
+        "value": "MGEN"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2766,
+    "titre": "Une perquisition au port de Nice dans l'enquête pour détournement de fonds publics visant Éric Ciotti. L'enquête porte sur la campagne des législatives de 2022.",
+    "contenu": "Une perquisition a été menée au port de Nice, dans les Alpes-Maritimes, mercredi 20 novembre, dans le cadre d'une enquête pour détournement de fonds publics, a appris France Bleu Azur(Nouvelle fenêtre) auprès du procureur de la République de Nice, confirmant une information de Nice-Matin(Nouvelle fenêtre). L'enquête porte sur la campagne des législatives en 2022 du député niçois.",
+    "url": "https://www.francetvinfo.fr/alpes-maritimes/nice-la-permanence-du-depute-eric-ciotti-a-ete-perquisitionnee-dans-le-cadre-d-une-enquete-pour-detournement-de-fonds-publics_6909293.html",
+    "date": "2024-11-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 123,
+        "value": "Éric Ciotti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2768,
+    "titre": "Bernard Arnault contraint d'aller au tribunal en tant que témoin dans l'affaire Squarcini",
+    "contenu": "Le milliardaire français a joué des pieds et des mains pour éviter de comparaître dans cette affaire impliquant notamment Bernard Squarcini, l'ancien numéro un du renseignement français. Mais le président du tribunal n'a rien voulu entendre.",
+    "url": "https://www.lecanardenchaine.fr/police-justice/49444-arnault-au-tribunal-pas-merci-la-justice",
+    "date": "2024-11-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 496,
+        "value": "François Ruffin"
+      },
+      {
+        "id": 690,
+        "value": "Bernard Arnault"
+      },
+      {
+        "id": 719,
+        "value": "Bernard Squarcini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2758,
     "titre": "Michel Vialay accusé de détournement de fonds publics",
     "contenu": "L’ancien maire de Mantes-la-Jolie entre 2005 et 2017, sera jugé le 23 mars 2025 pour détournement de fonds publics. Il est accusé de s’être fait rembourser des frais et plusieurs cadeaux.",
@@ -89,10 +278,10 @@
     "a_la_une": false
   },
   {
-    "id": 2761,
-    "titre": "L’Etat planque un rapport sur la corruption dans le sport",
-    "contenu": "Foot, basket, tennis, équitation… Deux mois après les JO, la corruption s’invite sur le podium. Dans un rapport resté secret et remis au ministère des Sports, l’Agence française anticorruption décerne ses médailles aux fédérations sportives. Les exploits de huit d'entre elles figurent en haut du tableau.",
-    "url": "https://www.lecanardenchaine.fr/police-justice/49430-deux-mois-apres-les-jo-la-corruption-sinvite-sur-le-podium?v=1732047168863",
+    "id": 2770,
+    "titre": "American Express doit 17 millions d'euros au fisc",
+    "contenu": "La Cour administrative d'appel de Paris vient de rejeter le recours déposé par American Express Carte France (AECF) contre un coûteux redressement fiscal. Le litige portait sur des montages financiers complexes impliquant plusieurs entités du groupe américain de cartes de crédit.",
+    "url": "https://gothamcity.fr/2024/11/19/american-express-doit-17-millions-deuros-au-fisc/",
     "date": "2024-11-19",
     "etiquettes": "",
     "departement": [
@@ -102,6 +291,108 @@
       }
     ],
     "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1062,
+        "value": "American Express (AmEx)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2773,
+    "titre": "En Guadeloupe, le député Max Mathiasin condamné à douze mois de prison avec sursis pour abus de confiance",
+    "contenu": "Les faits concernent l’utilisation d’une carte de carburant et la vente de deux véhicules par la Caisse des écoles, quand il dirigeait la structure, avant d’être élu député en 2017. A rebours des réquisitions, le tribunal n’a pas retenu la peine d’inéligibilité.",
+    "url": "https://www.lemonde.fr/societe/article/2024/11/19/en-guadeloupe-le-depute-max-mathiasin-condamne-a-douze-mois-de-prison-avec-sursis-pour-abus-de-confiance_6403105_3224.html",
+    "date": "2024-11-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 373,
+        "value": "Max Mathiasin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2761,
+    "titre": "L’Etat garde secret un rapport sur la corruption dans le sport",
+    "contenu": "Foot, basket, tennis, équitation… Deux mois après les JO, la corruption s’invite sur le podium. Dans un rapport resté secret et remis au ministère des Sports, l’Agence française anticorruption décerne ses médailles aux fédérations sportives. Les exploits de huit d'entre elles figurent en haut du tableau.",
+    "url": "https://www.lecanardenchaine.fr/police-justice/49430-deux-mois-apres-les-jo-la-corruption-sinvite-sur-le-podium?v=1732047168863",
+    "date": "2024-11-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2807,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 814,
+        "value": "Laurent de Gourcuff"
+      },
+      {
+        "id": 1145,
+        "value": "Noël Le Graët"
+      },
+      {
+        "id": 2293,
+        "value": "Pascal Grizot"
+      },
+      {
+        "id": 2294,
+        "value": "Thomas Collomb"
+      }
+    ],
     "personnes_morales": [
       {
         "id": 74,
@@ -114,6 +405,10 @@
       {
         "id": 154,
         "value": "Fédération française de tennis (FFT)"
+      },
+      {
+        "id": 188,
+        "value": "Roland-Garros"
       },
       {
         "id": 303,
@@ -157,6 +452,108 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2769,
+    "titre": "L’homme d’affaires qui a roulé la DGSE rattrapé par le fisc",
+    "contenu": "Patron d'un groupe de luxe, Alain Duménil pourrait être contraint de rembourser 36 millions d’euros à Bercy pour des montages fiscaux accrobatiques. Et ce ne sont pas ses anciens amis de la Direction générale de la sécurité extérieure qui vont pleurer sur son sort : les maîtres-espions français accusent Duménil de les avoir plumé de 15 à 25 millions.",
+    "url": "https://www.lecanardenchaine.fr/economie/49438-lhomme-daffaires-qui-a-roule-la-dgse-rattrape-par-le-fisc",
+    "date": "2024-11-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2299,
+        "value": "Alain Duménil"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1059,
+        "value": "Direction générale de la Sécurité extérieure (DGSE)"
+      },
+      {
+        "id": 1060,
+        "value": "Acanthe Développement"
+      },
+      {
+        "id": 1061,
+        "value": "Alliance Développement Capital"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 3042,
+        "value": "Renseignement"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2771,
+    "titre": "La justice enquête sur des détournements au sein de l’association de l’Inspection des finances",
+    "contenu": "Le parquet de Paris a ouvert une enquête sur de possibles malversations au sein de cette structure, qui regroupe les membres du plus prestigieux des grands corps de fonctionnaires d’État, a appris Mediapart. Les soupçons de détournements portent sur un total de 1 million d’euros.",
+    "url": "https://www.mediapart.fr/journal/france/191124/la-justice-enquete-sur-des-detournements-au-sein-de-l-association-de-l-inspection-des-finances",
+    "date": "2024-11-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2300,
+        "value": "Amélie Verdier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 168,
+        "value": "Brigade de répression de la délinquance astucieuse (BRDA)"
+      },
+      {
+        "id": 252,
+        "value": "Inspection générale des finances"
+      },
+      {
+        "id": 1063,
+        "value": "Association des membres de l’Inspection Générale des Finances"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -244,6 +641,100 @@
       }
     ],
     "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2764,
+    "titre": "Le député macroniste Karl Olive condamné à huit mois de prison avec sursis pour prise illégale d’intérêts",
+    "contenu": "L’ancien maire de Poissy a été jugé coupable d’avoir « commis des faits de prise illégale d’intérêt en participant au recrutement » du fils de l’ancien directeur général adjoint des services de Poissy en tant que directeur de la jeunesse et des sports de la ville. Il a annoncé faire appel de la décision.",
+    "url": "https://www.lemonde.fr/societe/article/2024/11/18/le-depute-macroniste-karl-olive-condamne-a-huit-mois-de-prison-avec-sursis-pour-prise-illegale-d-interets_6401229_3224.html",
+    "date": "2024-11-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2768,
+        "value": "78 - Yvelines"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 413,
+        "value": "Karl Olive"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2763,
+    "titre": "Les sanctions contre le pantouflage des conseillers ministériels contestées devant le Conseil constitutionnel",
+    "contenu": "Un ancien conseiller de Marlène Schiappa s’est vu interdire en début d’année de retourner en cabinet ministériel. Il conteste la sanction de la Haute Autorité pour la transparence de la vie publique, dont il n’avait pas respecté les règles sur les mobilités entre le public et le privé.",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2024/11/18/les-sanctions-contre-le-pantouflage-des-conseillers-ministeriels-contestees-devant-le-conseil-constitutionnel_6400810_4355770.html",
+    "date": "2024-11-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 676,
+        "value": "Marlène Schiappa"
+      },
+      {
+        "id": 2291,
+        "value": "Yenad Mlaraha"
+      },
+      {
+        "id": 2292,
+        "value": "Sarah El Haïry"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 237,
+        "value": "Conseil constitutionnel"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2660,
+        "value": "Conseil"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -363,6 +854,59 @@
     "a_la_une": false
   },
   {
+    "id": 2772,
+    "titre": "Soupçons de corruption d’un député: l’audition d’un lobbyiste en commission parlementaire retirée de l’enquête pénale",
+    "contenu": "Le lobbyiste Jean-Pierre Duthion, soupçonné d’avoir corrompu un ancien député français dans une affaire d’ingérence étrangère présumée, a obtenu le retrait de l’enquête pénale de toute référence à son audition en commission d’enquête parlementaire.",
+    "url": "https://www.mediapart.fr/journal/fil-dactualites/181124/soupcons-de-corruption-d-un-depute-l-audition-d-un-lobbyiste-en-commission-parlementaire-retiree",
+    "date": "2024-11-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2807,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 274,
+        "value": "Hubert Julien-Laferrière"
+      },
+      {
+        "id": 602,
+        "value": "Jean-Pierre Duthion"
+      },
+      {
+        "id": 689,
+        "value": "Nabil Ennasri"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2755,
     "titre": "Une enquête ouverte contre le groupe de crèches privées People & Baby, notamment pour escroqueries et détournement de fonds publics",
     "contenu": "Le groupe est visé par une plainte d'Anticor après la parution d'un livre-enquête du journaliste Victor Castanet, \"Les Ogres\".",
@@ -405,6 +949,54 @@
       {
         "id": 2682,
         "value": "Social"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2762,
+    "titre": "Affaire Dati-Ghosn : le PNF dénonce des « manœuvres de dissimulation »",
+    "contenu": "Dans son réquisitoire définitif, rendu le 13 novembre, et dont « Le Monde » a pris connaissance, le Parquet national financier a déploré « l’habillage juridique » du « pacte corruptif » présumé entre Rachida Dati et l’ex-PDG de Renault-Nissan, Carlos Ghosn.",
+    "url": "https://www.lemonde.fr/societe/article/2024/11/16/affaire-dati-ghosn-le-pnf-denonce-des-man-uvres-de-dissimulation_6397155_3224.html",
+    "date": "2024-11-16",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 617,
+        "value": "Carlos Ghosn"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2670,
+        "value": "Industrie"
       }
     ],
     "procedure": [],
@@ -46123,7 +46715,7 @@
       },
       {
         "id": 168,
-        "value": "Brigade de répression de la délinquance astucieuse"
+        "value": "Brigade de répression de la délinquance astucieuse (BRDA)"
       }
     ],
     "categorie": [
@@ -58823,7 +59415,7 @@
     "personnes_morales": [
       {
         "id": 168,
-        "value": "Brigade de répression de la délinquance astucieuse"
+        "value": "Brigade de répression de la délinquance astucieuse (BRDA)"
       },
       {
         "id": 267,
