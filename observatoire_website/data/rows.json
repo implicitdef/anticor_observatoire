@@ -1,5 +1,417 @@
 [
   {
+    "id": 2758,
+    "titre": "Michel Vialay accusé de détournement de fonds publics",
+    "contenu": "L’ancien maire de Mantes-la-Jolie entre 2005 et 2017, sera jugé le 23 mars 2025 pour détournement de fonds publics. Il est accusé de s’être fait rembourser des frais et plusieurs cadeaux.",
+    "url": "https://lagazette-yvelines.fr/2024/11/20/michel-vialay-accuse-de-detournement-de-fonds-publics/",
+    "date": "2024-11-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2768,
+        "value": "78 - Yvelines"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2289,
+        "value": "Michel Vialay"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2757,
+    "titre": "Affaires du Puy‐en‐Velay : un proche de Laurent Wauquiez dans le viseur du Parquet national financier",
+    "contenu": "Ex-collaborateur du patron des députés LR, quand celui-ci présidait la région Auvergne-Rhône-Alpes, Emmanuel Boyer dirige l’office de tourisme du Puy et contrôle le principal journal local. Il se trouve aujourd’hui au cœur de l’enquête judiciaire ouverte sur le marché public truqué des halles ponotes pour favoritisme et corruption, élargie depuis à d'autres dossiers.",
+    "url": "https://www.mediacites.fr/enquete/lyon/2024/11/19/affaires-du-puy-en-velay-un-proche-de-laurent-wauquiez-dans-le-viseur-du-parquet-national-financier/",
+    "date": "2024-11-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2737,
+        "value": "43 - Haute-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 668,
+        "value": "Laurent Wauquiez"
+      },
+      {
+        "id": 2288,
+        "value": "Emmanuel Boyer"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 820,
+        "value": "Marché Couvert - Les Halles Ponotes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2761,
+    "titre": "L’Etat planque un rapport sur la corruption dans le sport",
+    "contenu": "Foot, basket, tennis, équitation… Deux mois après les JO, la corruption s’invite sur le podium. Dans un rapport resté secret et remis au ministère des Sports, l’Agence française anticorruption décerne ses médailles aux fédérations sportives. Les exploits de huit d'entre elles figurent en haut du tableau.",
+    "url": "https://www.lecanardenchaine.fr/police-justice/49430-deux-mois-apres-les-jo-la-corruption-sinvite-sur-le-podium?v=1732047168863",
+    "date": "2024-11-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 74,
+        "value": "Agence française anticorruption (AFA)"
+      },
+      {
+        "id": 78,
+        "value": "Ministère des Sports"
+      },
+      {
+        "id": 154,
+        "value": "Fédération française de tennis (FFT)"
+      },
+      {
+        "id": 303,
+        "value": "Fédération française de judo, jujitsu, kendo et disciplines associées (FFJDA)"
+      },
+      {
+        "id": 305,
+        "value": "Fédération française de football (FFF)"
+      },
+      {
+        "id": 391,
+        "value": "Fédération française de natation (FFN)"
+      },
+      {
+        "id": 1054,
+        "value": "Fédération française d’équitation (FFE)"
+      },
+      {
+        "id": 1055,
+        "value": "Fédération française de basket-ball (FFBB)"
+      },
+      {
+        "id": 1056,
+        "value": "Fédération française de handball (FFHandball)"
+      },
+      {
+        "id": 1057,
+        "value": "Fédération française de golf (FFG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2760,
+    "titre": "Le maire de Palavas-les-Flots et l'ancien maire de Villeneuve-lès-Maguelone relaxés",
+    "contenu": "La justice a tranché deux fois : ce mardi 19 novembre 2024, la chambre correctionnelle près la cour d’appel de Montpellier a confirmé le jugement du tribunal correctionnel en relaxant le maire de Palavas-les-Flots, Christian Jeanjean et Noël Ségura, à l’époque un des chargés de mission de cette ville, maire de la commune voisine de Villeneuve-lès-Maguelone et vice-président de la Métropole de Montpellier des chefs présumés de prise illégale d’intérêt et d’emploi fictif.",
+    "url": "https://actu.fr/occitanie/palavas-les-flots_34192/herault-le-maire-de-palavas-les-flots-et-l-ancien-maire-de-villeneuve-les-maguelone-relaxes_61885311.html",
+    "date": "2024-11-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1512,
+        "value": "Christian Jeanjean"
+      },
+      {
+        "id": 1513,
+        "value": "Noël Ségura"
+      },
+      {
+        "id": 2290,
+        "value": "Gilles Haddouche"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement / acquittement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2756,
+    "titre": "Les cumuls de Guy Lefrand, maire d’Évreux, étudiés par le Parquet national financier",
+    "contenu": "Le maire d’Évreux Guy Lefrand a fait l’objet d’une enquête préliminaire du parquet de Rouen pour « prise illégale d’intérêts », classée sans suite mi-octobre. Il avait voté en faveur d'un plan d'investissement de 200 millions d'euros qui allait bénéficier, notamment, à une clinique privée d’Évreux où il travaillait en même temps comme médecin urgentiste et à laquelle il a accordé, par ailleurs, un permis de construire. Sauf que le Parquet national financier (PNF) s’intéresse désormais à cette affaire.",
+    "url": "https://www.marianne.net/societe/police-et-justice/prise-illegale-d-interets-les-cumuls-de-guy-lefrand-maire-devreux-etudies-par-le-parquet-national-financier",
+    "date": "2024-11-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2719,
+        "value": "27 - Eure"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2287,
+        "value": "Guy Lefrand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 1053,
+        "value": "Hôpital privé Pasteur d'Évreux"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2754,
+    "titre": "Pour 30 000 euros, Manuel Valls devient la nouvelle mascotte du Bahreïn",
+    "contenu": "L’ex-premier ministre s’est rendu au Bahreïn en juillet dans le cadre d’une vaste opération diplomatique et judiciaire en faveur du royaume. Il a été rémunéré 30 000 euros pour ce déplacement de trois jours, d’après des documents consultés par Mediapart.",
+    "url": "https://www.mediapart.fr/journal/france/181124/pour-30-000-euros-manuel-valls-devient-la-nouvelle-mascotte-du-bahrein",
+    "date": "2024-11-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3069,
+        "value": "Bahreïn"
+      },
+      {
+        "id": 2807,
+        "value": "Qatar"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 299,
+        "value": "Philippe Latombe"
+      },
+      {
+        "id": 1222,
+        "value": "Manuel Valls"
+      },
+      {
+        "id": 2285,
+        "value": "Philippe Feitussi"
+      },
+      {
+        "id": 2286,
+        "value": "Mohammed Bedjaoui"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 1052,
+        "value": "Cour internationale de justice (CIJ)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2660,
+        "value": "Conseil"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2759,
+    "titre": "Somme : le président du Département Stéphane Haussoulier fixé ce mardi dans son procès pour détournement de fonds",
+    "contenu": "Le tribunal correctionnel de Beauvais rend sa décision ce mardi à 8h30 dans le dossier Stéphane Haussoulier. Le président du Département de la Somme a été jugé en octobre pour abus de confiance, d’escroquerie et de blanchiment. Le parquet a requis 2 ans de prison avec sursis, 3 ans d’inéligibilité.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/somme-le-president-du-departement-stephane-haussoulier-fixe-ce-mardi-dans-son-proces-pour-detournement-de-fonds-8397975",
+    "date": "2024-11-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2770,
+        "value": "80 - Somme"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1330,
+        "value": "Stéphane Haussoulier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2755,
+    "titre": "Une enquête ouverte contre le groupe de crèches privées People & Baby, notamment pour escroqueries et détournement de fonds publics",
+    "contenu": "Le groupe est visé par une plainte d'Anticor après la parution d'un livre-enquête du journaliste Victor Castanet, \"Les Ogres\".",
+    "url": "https://www.francetvinfo.fr/societe/enfance-et-adolescence/une-enquete-ouverte-contre-le-groupe-de-creches-privees-people-baby-notamment-pour-escroqueries-et-detournement-de-fonds-publics_6905312.html",
+    "date": "2024-11-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 962,
+        "value": "Victor Castanet"
+      },
+      {
+        "id": 2256,
+        "value": "Christophe Durieux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 1043,
+        "value": "People and baby"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2682,
+        "value": "Social"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2751,
     "titre": "Bourg-lès-Valence : les écologistes saisissent la justice après le fichage illégal des habitants",
     "contenu": "Les écologistes de Bourg-lès-Valence font un signalement à la justice, après la publication du contrôle des comptes de la commune, par la chambre régionale des comptes. Ce rapport dévoile, entre autre, que la mairie a fiché près de 15 000 administrés.",
