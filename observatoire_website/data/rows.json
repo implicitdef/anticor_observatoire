@@ -1,5 +1,53 @@
 [
   {
+    "id": 2774,
+    "titre": "Enquête au Royaume-Uni et en France sur des soupçons de corruption chez Thales",
+    "contenu": "L'autorité britannique de lutte contre la délinquance financière a annoncé jeudi l'ouverture d'une enquête sur des soupçons de corruption au sein du groupe de haute technologie français Thales, menée conjointement avec le Parquet national financier (PNF) côté français.",
+    "url": "https://information.tv5monde.com/economie/enquete-au-royaume-uni-et-en-france-sur-des-soupcons-de-corruption-chez-thales-2749562",
+    "date": "2024-11-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3023,
+        "value": "Royaume-Uni"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 75,
+        "value": "Thales"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2765,
     "titre": "Le député RN Franck Allisio a omis de déclarer le double emploi de ses collaborateurs parlementaires",
     "contenu": "En janvier 2023, le député RN Franck Allisio n’a pas déclaré à la Haute Autorité pour la transparence de la vie publique que deux de ses collaborateurs étaient par ailleurs employés de la région Provence-Alpes-Côte d’Azur. Un cumul interdit par la loi.",
