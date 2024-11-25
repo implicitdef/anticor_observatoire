@@ -1,5 +1,105 @@
 [
   {
+    "id": 2775,
+    "titre": "Caisse des dépôts : un criminologue médiatique, un politique et un patron en procès",
+    "contenu": "Deux ex-patrons de la Caisse des dépôts, Augustin de Romanet et l’ancien secrétaire d’État Jean-Pierre Jouyet, sont jugés à partir de ce lundi pour « favoritisme » et « détournement de fonds publics », au côté d’Alain Bauer. Le célèbre criminologue est soupçonné d’avoir profité de contrats de complaisance.",
+    "url": "https://www.mediapart.fr/journal/france/251124/caisse-des-depots-un-criminologue-mediatique-un-politique-et-un-patron-en-proces",
+    "date": "2024-11-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 619,
+        "value": "Jean-Pierre Jouyet"
+      },
+      {
+        "id": 729,
+        "value": "Augustin de Romanet"
+      },
+      {
+        "id": 1219,
+        "value": "Alain Bauer"
+      },
+      {
+        "id": 1458,
+        "value": "Xavier Raufer (Christian de Bongain)"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 42,
+        "value": "Caisse des dépôts et consignations (CDC)"
+      },
+      {
+        "id": 109,
+        "value": "Aéroports de Paris (ADP)"
+      },
+      {
+        "id": 1064,
+        "value": "Guide Champérard"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2776,
+    "titre": "Trois ans d'inéligibilité requis contre Yves Michel, maire de Marseillan, poursuivi pour prise illégale d’intérêts et délit de favoritisme",
+    "contenu": "Ce vendredi 22 novembre, Yves Michel, maire de Marseillan et vice-président de l’Agglo du Bassin de Thau, était poursuivi devant le tribunal de Béziers avec six autres personnes dont le directeur général des services de sa mairie, son directeur des services techniques, mais encore deux maîtres d’œuvre et deux entrepreneurs en lien avec la famille du maire. La justice rendra son délibéré le 20 décembre prochain.",
+    "url": "https://www.midilibre.fr/2024/11/22/trois-ans-dineligibilite-requis-contre-yves-michel-maire-de-marseillan-poursuivi-pour-prise-illegale-dinterets-et-delit-de-favoritisme-12341043.php",
+    "date": "2024-11-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2301,
+        "value": "Yves Michel"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2774,
     "titre": "Enquête au Royaume-Uni et en France sur des soupçons de corruption chez Thales",
     "contenu": "L'autorité britannique de lutte contre la délinquance financière a annoncé jeudi l'ouverture d'une enquête sur des soupçons de corruption au sein du groupe de haute technologie français Thales, menée conjointement avec le Parquet national financier (PNF) côté français.",
@@ -144,6 +244,54 @@
       {
         "id": 2653,
         "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2777,
+    "titre": "Soupçons de favoritisme sur le méga marché public des déchets à Pau : un procès en juin 2025",
+    "contenu": "Monique Sémavoine, présidente du syndicat des déchets Valor Béarn, maire de Mazères-Lezons et vice-présidente de l’agglo, sera jugée à Pau le 2 juin 2025, où elle devra répondre de délit de favoritisme dans l’attribution du marché en 2020",
+    "url": "https://www.sudouest.fr/pyrenees-atlantiques/bearn/info-sud-ouest-soupcons-de-favoritisme-sur-le-mega-marche-public-des-dechets-a-pau-un-proces-en-juin-2025-22240077.php",
+    "date": "2024-11-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2754,
+        "value": "64 - Pyrénées-Atlantiques"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2302,
+        "value": "Monique Sémavoine"
+      },
+      {
+        "id": 2303,
+        "value": "Jean-Christophe Rhaut"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 441,
+        "value": "Valor Béarn"
+      },
+      {
+        "id": 442,
+        "value": "Urbaser Environnement"
+      },
+      {
+        "id": 571,
+        "value": "Séché Environnement"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
       }
     ],
     "theme": [],
@@ -32594,7 +32742,7 @@
       },
       {
         "id": 1458,
-        "value": "Xavier Raufer"
+        "value": "Xavier Raufer (Christian de Bongain)"
       }
     ],
     "personnes_morales": [
