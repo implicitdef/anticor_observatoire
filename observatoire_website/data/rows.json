@@ -64,6 +64,199 @@
     "a_la_une": true
   },
   {
+    "id": 2778,
+    "titre": "Soupçonnée de prise illégale d’intérêts, la maire de Bonac-Irazein comparaîtra au mois de février devant le tribunal correctionnel de Foix",
+    "contenu": "Après plus de deux ans d’enquête, la maire de Bonac-Irazein et une seconde personne comparaîtront au mois de février prochain devant le tribunal de Foix pour prise illégale d’intérêts et recel de prise illégal d’intérêts.",
+    "url": "https://www.ladepeche.fr/2024/11/24/soupconnee-de-prise-illegale-dinterets-la-maire-de-bonac-irazein-comparaitra-au-mois-de-fevrier-devant-le-tribunal-correctionnel-de-foix-12340646.php",
+    "date": "2024-11-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2706,
+        "value": "09 - Ariège"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 931,
+        "value": "Nadine Neny"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2780,
+    "titre": "Un ancien maire de la Côte d’Azur, visé par un mandat d’arrêt, poursuit sa folle cavale",
+    "contenu": "Luc Jousse, maire de Roquebrune-sur-Argens jusqu’à sa destitution en 2016, est en fuite après avoir été condamné à un an de prison ferme pour « pantouflage ». Son casier judiciaire porte déjà la trace de sept condamnations ces huit dernières années.",
+    "url": "https://www.mediapart.fr/journal/france/241124/un-ancien-maire-de-la-cote-d-azur-vise-par-un-mandat-d-arret-poursuit-sa-folle-cavale",
+    "date": "2024-11-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2196,
+        "value": "Luc Jousse"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 400,
+        "value": "Société anonyme roquebrunoise de gestion événementielle et touristique (SEML Sarget)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      },
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2782,
+    "titre": "Procès Squarcini : face au tribunal, les prestataires de LVMH nient toute « infiltration » du journal « Fakir » de François Ruffin",
+    "contenu": "Entre 2013 et 2016, le suivi du journal créé par François Ruffin coûtera plus de 2 millions d’euros au groupe de luxe, inégalement répartis entre des prestataires en cascade.",
+    "url": "https://www.lemonde.fr/societe/article/2024/11/23/proces-squarcini-face-au-tribunal-les-prestataires-de-lvmh-nient-toute-infiltration-du-journal-fakir_6410181_3224.html",
+    "date": "2024-11-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2770,
+        "value": "80 - Somme"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 496,
+        "value": "François Ruffin"
+      },
+      {
+        "id": 690,
+        "value": "Bernard Arnault"
+      },
+      {
+        "id": 719,
+        "value": "Bernard Squarcini"
+      },
+      {
+        "id": 916,
+        "value": "Jean-Charles Brisard"
+      },
+      {
+        "id": 2306,
+        "value": "Albert Farhat"
+      },
+      {
+        "id": 2307,
+        "value": "Hervé Séveno"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      },
+      {
+        "id": 843,
+        "value": "Fakir"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias / Divertissement"
+      },
+      {
+        "id": 3042,
+        "value": "Renseignement"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2779,
+    "titre": "Biens mal acquis : l’histoire tourmentée de la « Villa Suzette », propriété de la famille Sassou-Nguesso",
+    "contenu": "Saisie en 2015 par la justice française, qui la considère comme « un objet du blanchiment », cette maison des Yvelines appartient toujours au président du Congo-Brazzaville.",
+    "url": "https://www.lemonde.fr/afrique/article/2024/11/22/biens-mal-acquis-l-histoire-tourmentee-de-la-villa-suzette-propriete-de-la-famille-sassou-nguesso_6409455_3212.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=ios&lmd_source=default",
+    "date": "2024-11-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2768,
+        "value": "78 - Yvelines"
+      },
+      {
+        "id": 2809,
+        "value": "République du Congo"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1540,
+        "value": "Denis Sassou Nguesso"
+      },
+      {
+        "id": 2304,
+        "value": "Valentin Ambendet"
+      },
+      {
+        "id": 2305,
+        "value": "Wilfrid Nguesso"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2776,
     "titre": "Trois ans d'inéligibilité requis contre Yves Michel, maire de Marseillan, poursuivi pour prise illégale d’intérêts et délit de favoritisme",
     "contenu": "Ce vendredi 22 novembre, Yves Michel, maire de Marseillan et vice-président de l’Agglo du Bassin de Thau, était poursuivi devant le tribunal de Béziers avec six autres personnes dont le directeur général des services de sa mairie, son directeur des services techniques, mais encore deux maîtres d’œuvre et deux entrepreneurs en lien avec la famille du maire. La justice rendra son délibéré le 20 décembre prochain.",
@@ -96,6 +289,32 @@
         "value": "Procès"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2781,
+    "titre": "Une secrétaire de mairie du Tarn a détourné 140 000 € d’argent public",
+    "contenu": "Électroménager, ordinateurs, champagne, meubles, vélos : l’ex-secrétaire générale de la mairie de Mirandol, dans le nord du Tarn, a multiplié les achats personnels de 2017 à 2023 en détournant par tous les moyens possibles l’argent de la commune.",
+    "url": "https://www.ladepeche.fr/2024/11/22/nous-avions-confiance-en-elle-comment-une-secretaire-de-mairie-du-tarn-a-reussi-a-detourner-environ-140-000-eur-dargent-public-12338861.php",
+    "date": "2024-11-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2771,
+        "value": "81 - Tarn"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
