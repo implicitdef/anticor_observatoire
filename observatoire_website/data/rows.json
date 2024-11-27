@@ -1,5 +1,54 @@
 [
   {
+    "id": 2783,
+    "titre": "Soupçons de prise illégale d'intérêts d'Alexis Kohler : la cour d'appel de Paris confirme les poursuites contre le secrétaire général de l'Élysée",
+    "contenu": "La cour d'appel de Paris confirme les poursuites contre Alexis Kohler, le secrétaire général de l'Elysée, pour prise illégale d'intérêts dans l'enquête sur ses liens familiaux avec l'armateur MSC. La cour d'appel de Paris a écarté mardi la prescription soulevée par le secrétaire général de l'Elysée.",
+    "url": "https://www.francetvinfo.fr/politique/affaire/affaire-alexis-kohler/soupcons-de-prise-illegale-d-interet-d-alexis-kohler-la-cour-d-appel-de-paris-confirme-les-poursuites-contre-le-secretaire-general-de-l-elysee_6920570.html",
+    "date": "2024-11-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1068,
+        "value": "Alexis Kohler"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 268,
+        "value": "Mediterranean Shipping Company (MSC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2775,
     "titre": "Caisse des dépôts : un criminologue médiatique, un politique et un patron en procès",
     "contenu": "Deux ex-patrons de la Caisse des dépôts, Augustin de Romanet et l’ancien secrétaire d’État Jean-Pierre Jouyet, sont jugés à partir de ce lundi pour « favoritisme » et « détournement de fonds publics », au côté d’Alain Bauer. Le célèbre criminologue est soupçonné d’avoir profité de contrats de complaisance.",
