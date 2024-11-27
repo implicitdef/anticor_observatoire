@@ -1,5 +1,255 @@
 [
   {
+    "id": 2788,
+    "titre": "Appel du parquet national financier : Nicolas Best sera rejugé devant la cour d’appel de Paris",
+    "contenu": "Nicolas Best, l’ancien directeur du CHU de Nîmes et d’Annecy était jugé à Paris pour favoritisme et corruption sur fond d’attribution de travaux. Il était poursuivi par le parquet national financier qui vient de faire appel du jugement rendu par le tribunal judiciaire de Paris. Explications.",
+    "url": "https://www.midilibre.fr/2024/11/26/appel-du-parquet-national-financier-nicolas-best-sera-rejuge-devant-la-cour-dappel-de-paris-12349164.php",
+    "date": "2024-11-26",
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [
+      {
+        "id": 813,
+        "value": "Nicolas Best"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 162,
+        "value": "Centre hospitalier universitaire (CHU) de Nîmes"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2789,
+    "titre": "Des perquisitions du parquet national financier au port de pêche de Lorient Keroman",
+    "contenu": "Des perquisitions sont en cours au port de pêche de Lorient Keroman, ce mardi 26 novembre 2024, confirme le parquet national financier (PNF). Elles interviennent dans le cadre d’une enquête préliminaire ouverte par le PNF en avril 2024 des chefs de prise illégale d’intérêts, détournement de fonds publics, recel et blanchiment de ces infractions. Enquête ouverte après le signalement d’Anticor56.",
+    "url": "https://www.ouest-france.fr/bretagne/lorient-56100/des-perquisitions-du-parquet-national-financier-au-port-de-peche-de-lorient-9cfaaef8-abf6-11ef-9f0f-abd6acfb270c",
+    "date": "2024-11-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2747,
+        "value": "56 - Morbihan"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 1067,
+        "value": "Port de pêche de Keroman"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2787,
+    "titre": "Le fantôme corse classé secret-défense de Bernard Squarcini",
+    "contenu": "En quittant les services de renseignement intérieur, l’ex-patron de la DCRI a emporté avec lui près de 400 documents classifiés, une possible compromission du secret de la défense nationale. Un nom revient avec insistance dans cette masse documentaire : Igor Peccatte. Enquête sur une ombre de la République.",
+    "url": "https://www.mediapart.fr/journal/france/261124/le-fantome-corse-classe-secret-defense-de-bernard-squarcini",
+    "date": "2024-11-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      },
+      {
+        "id": 2722,
+        "value": "2A - Corse-du-Sud"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 719,
+        "value": "Bernard Squarcini"
+      },
+      {
+        "id": 854,
+        "value": "Pierre Ferracci"
+      },
+      {
+        "id": 1618,
+        "value": "Alexandre Djouhri"
+      },
+      {
+        "id": 1695,
+        "value": "Michel Tomi"
+      },
+      {
+        "id": 2281,
+        "value": "François Casanova"
+      },
+      {
+        "id": 2308,
+        "value": "Igor Peccatte"
+      },
+      {
+        "id": 2309,
+        "value": "Gérard Zerbi"
+      },
+      {
+        "id": 2310,
+        "value": "Robert Feliciaggi"
+      },
+      {
+        "id": 2311,
+        "value": "André Tarallo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      },
+      {
+        "id": 152,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      },
+      {
+        "id": 1066,
+        "value": "I scemi astutti"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2785,
+    "titre": "Le maire de Bouéni jugé ce mardi pour favoritisme et prise illégale d'intérêt",
+    "contenu": "Le maire de Bouéni, Mouslim Abdourahaman, est jugé ce mardi pour favoritisme et prise illégale d'intérêt dans le cadre de marchés publics passés par sa commune. Une enquête avait été ouverte suite à un rapport de la chambre régionale des comptes.",
+    "url": "https://la1ere.francetvinfo.fr/mayotte/le-maire-de-boueni-juge-ce-mardi-pour-favoritisme-et-prise-illegale-d-interet-1539946.html",
+    "date": "2024-11-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2787,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1278,
+        "value": "Mouslim Abdourahaman"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2786,
+    "titre": "Procès en appel pour favoritisme : Jacques Lalié condamné à un an de prison avec sursis, deux ans d'inéligibilité applicables de suite et un million d'amende",
+    "contenu": "Le délibéré a été rendu ce mardi 26 novembre, à Nouméa, dans le jugement en appel de Jacques Lalié pour favoritisme. Le président de la province des îles Loyauté est condamné à un an de prison avec sursis ; deux ans d’inéligibilité avec \"exécution provisoire\", c'est-à-dire immédiate ; et une amende d'un million de francs. Il devrait se pourvoir en cassation.",
+    "url": "https://la1ere.francetvinfo.fr/nouvellecaledonie/province-iles/proces-en-appel-pour-favoritisme-jacques-lalie-condamne-a-un-an-de-prison-avec-sursis-deux-ans-d-ineligibilite-et-un-million-d-amende-1539910.html",
+    "date": "2024-11-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2788,
+        "value": "98 - Nouvelle Calédonie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1238,
+        "value": "Jacques Lalié"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1065,
+        "value": "Union calédonienne (UC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2783,
     "titre": "Soupçons de prise illégale d'intérêts d'Alexis Kohler : la cour d'appel de Paris confirme les poursuites contre le secrétaire général de l'Élysée",
     "contenu": "La cour d'appel de Paris confirme les poursuites contre Alexis Kohler, le secrétaire général de l'Elysée, pour prise illégale d'intérêts dans l'enquête sur ses liens familiaux avec l'armateur MSC. La cour d'appel de Paris a écarté mardi la prescription soulevée par le secrétaire général de l'Elysée.",
@@ -111,6 +361,134 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2791,
+    "titre": "L'Agence anticorruption met en garde l'Inria et le CNRS",
+    "contenu": "La Lettre s'est procuré les quatre rapports de l'Agence française anticorruption sur les organismes publics de recherche. Si les enquêteurs n'ont pas pointé de failles majeures, leur audit demande à l'Inria, au CNRS, à l'ANR et à l'Inserm une montée en puissance sur le front de la prévention de la corruption.",
+    "url": "https://www.lalettre.fr/fr/action-publique_operateurs-de-l-etat/2024/11/25/l-agence-anticorruption-met-en-garde-l-inria-et-le-cnrs%252C110343601-art",
+    "date": "2024-11-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 74,
+        "value": "Agence française anticorruption (AFA)"
+      },
+      {
+        "id": 687,
+        "value": "Centre national de la recherche scientifique (CNRS)"
+      },
+      {
+        "id": 689,
+        "value": "Institut national de recherche en sciences et technologies du numérique (INRIA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2665,
+        "value": "Éducation / Enseignement / Recherche"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2790,
+    "titre": "Le maire de Rethel condamné à un an d'inéligibilité et 30 000 euros d'amende pour détournement de fonds publics",
+    "contenu": "Le tribunal de Charleville-Mézières (Ardennes) a condamné le maire de Rethel, Joseph Afribo, à un an d'inéligibilité et 30 000 euros d'amende pour des faits de détournement de fonds publics datant d'une période où il était à la tête d'Acy-Romance.",
+    "url": "https://france3-regions.francetvinfo.fr/grand-est/ardennes/rethel/le-maire-de-rethel-condamne-a-un-an-d-ineligibilite-et-30-000-euros-d-amende-pour-detournement-de-fonds-publics-3065713.html",
+    "date": "2024-11-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2705,
+        "value": "08 - Ardennes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1903,
+        "value": "Joseph Afribo"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2784,
+    "titre": "Le procès pour emplois fictifs de François Fillon renvoyé à 2025",
+    "contenu": "Le troisième procès dans l'affaire des emplois fictifs de François Fillon une nouvelle fois renvoyé. Si l'ex-Premier ministre a été reconnu coupable de détournement de fonds publics en avril 2024, les sanctions à son encontre devaient être réexaminées ce lundi 25 novembre. La cour d'appel de Paris a finalement renvoyé l'audience au 29 avril 2025, en raison de l'absence d'un avocat, hospitalisé.",
+    "url": "https://www.lepoint.fr/societe/le-proces-pour-emplois-fictifs-de-l-ex-premier-ministre-francois-fillon-renvoye-au-29-avril-2025--25-11-2024-2576230_23.php",
+    "date": "2024-11-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3036,
+        "value": "72 - Sarthe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1388,
+        "value": "François Fillon"
+      },
+      {
+        "id": 1389,
+        "value": "Pénélope Fillon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2778,
@@ -2208,6 +2586,10 @@
       {
         "id": 2762,
         "value": "75 - Paris"
+      },
+      {
+        "id": 3036,
+        "value": "72 - Sarthe"
       }
     ],
     "personnalites": [
@@ -2772,7 +3154,7 @@
     "theme": [
       {
         "id": 2665,
-        "value": "Éducation / Enseignement"
+        "value": "Éducation / Enseignement / Recherche"
       }
     ],
     "procedure": [],
@@ -6142,7 +6524,7 @@
     "theme": [
       {
         "id": 2665,
-        "value": "Éducation / Enseignement"
+        "value": "Éducation / Enseignement / Recherche"
       },
       {
         "id": 2672,
@@ -7844,6 +8226,10 @@
       {
         "id": 2762,
         "value": "75 - Paris"
+      },
+      {
+        "id": 3036,
+        "value": "72 - Sarthe"
       }
     ],
     "personnalites": [
@@ -13180,6 +13566,10 @@
       {
         "id": 2762,
         "value": "75 - Paris"
+      },
+      {
+        "id": 3036,
+        "value": "72 - Sarthe"
       }
     ],
     "personnalites": [
@@ -13445,7 +13835,7 @@
       },
       {
         "id": 2665,
-        "value": "Éducation / Enseignement"
+        "value": "Éducation / Enseignement / Recherche"
       }
     ],
     "procedure": [],
@@ -23080,7 +23470,7 @@
       },
       {
         "id": 2665,
-        "value": "Éducation / Enseignement"
+        "value": "Éducation / Enseignement / Recherche"
       }
     ],
     "procedure": [],
@@ -27337,7 +27727,7 @@
     "theme": [
       {
         "id": 2665,
-        "value": "Éducation / Enseignement"
+        "value": "Éducation / Enseignement / Recherche"
       }
     ],
     "procedure": [],
@@ -31276,7 +31666,7 @@
     "theme": [
       {
         "id": 2665,
-        "value": "Éducation / Enseignement"
+        "value": "Éducation / Enseignement / Recherche"
       }
     ],
     "procedure": [],
@@ -35973,6 +36363,10 @@
       {
         "id": 2762,
         "value": "75 - Paris"
+      },
+      {
+        "id": 3036,
+        "value": "72 - Sarthe"
       }
     ],
     "personnalites": [
@@ -38897,7 +39291,7 @@
     "theme": [
       {
         "id": 2665,
-        "value": "Éducation / Enseignement"
+        "value": "Éducation / Enseignement / Recherche"
       }
     ],
     "procedure": [
@@ -77793,7 +78187,7 @@
       },
       {
         "id": 2665,
-        "value": "Éducation / Enseignement"
+        "value": "Éducation / Enseignement / Recherche"
       },
       {
         "id": 3027,
@@ -80636,7 +81030,7 @@
     "theme": [
       {
         "id": 2665,
-        "value": "Éducation / Enseignement"
+        "value": "Éducation / Enseignement / Recherche"
       }
     ],
     "procedure": [],
@@ -81213,7 +81607,7 @@
     "theme": [
       {
         "id": 2665,
-        "value": "Éducation / Enseignement"
+        "value": "Éducation / Enseignement / Recherche"
       }
     ],
     "procedure": [],
@@ -85658,7 +86052,7 @@
     "theme": [
       {
         "id": 2665,
-        "value": "Éducation / Enseignement"
+        "value": "Éducation / Enseignement / Recherche"
       }
     ],
     "procedure": [],
