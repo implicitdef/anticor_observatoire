@@ -684,6 +684,94 @@
     "a_la_une": false
   },
   {
+    "id": 2794,
+    "titre": "Carla Bruni lâche Mimi Marchand : « Quelqu’un qui est allé en prison, ce n’est jamais par hasard »",
+    "contenu": "L’épouse de l’ancien chef de l’État a été à la peine face aux juges de l’affaire « Sauver Sarko », en marge du scandale libyen. Au point de devoir reconnaître l’existence d’un téléphone secret au cœur de l’affaire et de mettre en cause de manière très virulente son amie de trente ans.",
+    "url": "https://www.mediapart.fr/journal/france/221124/carla-bruni-lache-mimi-marchand-quelqu-un-qui-est-alle-en-prison-ce-n-est-jamais-par-hasard",
+    "date": "2024-11-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 586,
+        "value": "Ziad Takieddine"
+      },
+      {
+        "id": 1152,
+        "value": "Michèle Marchand"
+      },
+      {
+        "id": 1153,
+        "value": "Noël Dubus"
+      },
+      {
+        "id": 1447,
+        "value": "Carla Bruni-Sarkozy"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2792,
+    "titre": "Le maire des Gets, Henri Anthonioz, est décédé",
+    "contenu": "Henri Anthonioz, maire de la station des Gets depuis 2008, est décédé ce vendredi 22 novembre à l’âge de 73 ans. Elu depuis 1983, il occupait son troisième mandat en tant que premier magistrat. Un mandat notamment chahuté par les soupçons d’irrégularité qui entoure l’attribution de l’exploitation du domaine skiable de la station chablaisienne. Poursuivi pour délit de favoritisme, prise illégale d’intérêt, immixtion dans une fonction publique et concussion, Henri Anthonioz devait comparaître en juin 2025 devant le tribunal correctionnel de Bonneville.",
+    "url": "https://www.ledauphine.com/politique/2024/11/22/le-maire-des-gets-henri-anthonioz-est-decede",
+    "date": "2024-11-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2761,
+        "value": "74 - Haute-Savoie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1284,
+        "value": "Henri Anthonioz"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2776,
     "titre": "Trois ans d'inéligibilité requis contre Yves Michel, maire de Marseillan, poursuivi pour prise illégale d’intérêts et délit de favoritisme",
     "contenu": "Ce vendredi 22 novembre, Yves Michel, maire de Marseillan et vice-président de l’Agglo du Bassin de Thau, était poursuivi devant le tribunal de Béziers avec six autres personnes dont le directeur général des services de sa mairie, son directeur des services techniques, mais encore deux maîtres d’œuvre et deux entrepreneurs en lien avec la famille du maire. La justice rendra son délibéré le 20 décembre prochain.",
@@ -742,6 +830,51 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2793,
+    "titre": "Affaire Respire + : Rodrigue Solitude reconnu coupable de prise illégale d’intérêts par le tribunal correctionnel de Pointe-à-Pitre",
+    "contenu": "La décision est tombée dans l'affaire Respire +, du nom de cette société de masques chirurgicaux créé pendant la crise sanitaire en Guadeloupe. Rodrigue Solitude, l'ancien chef de cabinet du Conseil régional a été reconnu coupable de prise illégale d’intérêts par le tribunal correctionnel de Pointe-à-Pitre et condamné.",
+    "url": "https://la1ere.francetvinfo.fr/guadeloupe/affaire-respire-rodrigue-solitude-reconnu-coupable-de-prise-illegale-d-interet-par-le-tribunal-correctionnel-de-pointe-a-pitre-1538731.html",
+    "date": "2024-11-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1371,
+        "value": "Rodrigue Solitude"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 541,
+        "value": "Comité du tourisme des Iles de Guadeloupe (CTIG)"
+      },
+      {
+        "id": 546,
+        "value": "Respire+"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -2572,6 +2705,69 @@
         "value": "Procès"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2795,
+    "titre": "Un réseau de fraude à la TVA démantelé en Europe, 520 millions d’euros saisis",
+    "contenu": "Ce réseau de fraude, impliquant la mafia italienne, a conduit à une quarantaine de mandats d’arrêt. L’enquête a permis d’évaluer à 1,3 milliard d’euros le montant des fausses factures émises.",
+    "url": "https://www.lemonde.fr/international/article/2024/11/14/un-reseau-de-fraude-a-la-tva-demantele-en-europe-520-millions-d-euros-saisis_6393430_3210.html",
+    "date": "2024-11-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2801,
+        "value": "Italie"
+      },
+      {
+        "id": 2804,
+        "value": "Luxembourg"
+      },
+      {
+        "id": 2810,
+        "value": "République Tchèque"
+      },
+      {
+        "id": 3948,
+        "value": "Slovaquie"
+      },
+      {
+        "id": 3949,
+        "value": "Croatie"
+      },
+      {
+        "id": 3025,
+        "value": "Bulgarie"
+      },
+      {
+        "id": 3032,
+        "value": "Chypre"
+      },
+      {
+        "id": 2812,
+        "value": "Suisse"
+      },
+      {
+        "id": 2794,
+        "value": "Émirats arabes unis"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -5883,6 +6079,10 @@
       }
     ],
     "personnes_morales": [
+      {
+        "id": 541,
+        "value": "Comité du tourisme des Iles de Guadeloupe (CTIG)"
+      },
       {
         "id": 546,
         "value": "Respire+"
