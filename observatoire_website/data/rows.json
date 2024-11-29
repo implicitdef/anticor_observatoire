@@ -17579,6 +17579,42 @@
     "a_la_une": false
   },
   {
+    "id": 2433,
+    "titre": "Andhanouni Saïd, ancien maire de Chirongui, évite la prison ferme en appel",
+    "contenu": "Le délibéré en appel a été rendu ce jeudi matin concernant l'ancien maire de Chirongui, Andhanouni Saïd, dans l'affaire des radiations frauduleuses d'électeurs lors des élections départementales de 2021. La condamnation a été validée, mais la peine d'un an de prison ferme a été allégée à six mois avec sursis.",
+    "url": "https://la1ere.francetvinfo.fr/mayotte/l-ancien-maire-de-chirongui-andhanouni-said-evite-la-prison-ferme-en-appel-1503170.html",
+    "date": "2024-07-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2787,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1913,
+        "value": "Andhanouni Saïd"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2445,
     "titre": "Détournements de fonds publics, blanchiment... 14 personnes, dont le maire de Menton, placées en garde à vue",
     "contenu": "Dans le cadre de l’affaire sur la gestion des ports de Menton, désormais suivi par une juridiction spécialisée du parquet de Marseille, les enquêteurs ont procédé à une série d’opérations, mardi, dans les Alpes-Maritimes mais aussi en Corse.",
@@ -17615,42 +17651,6 @@
     ],
     "theme": [],
     "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 2433,
-    "titre": "L'ancien maire de Chirongui, Andhanouni Saïd, évite la prison ferme en appel",
-    "contenu": "Le délibéré en appel a été rendu ce jeudi matin concernant l'ancien maire de Chirongui, Andhanouni Saïd, dans l'affaire des radiations frauduleuses d'électeurs lors des élections départementales de 2021. La condamnation a été validée, mais la peine d'un an de prison ferme a été allégée à six mois avec sursis.",
-    "url": "https://la1ere.francetvinfo.fr/mayotte/l-ancien-maire-de-chirongui-andhanouni-said-evite-la-prison-ferme-en-appel-1503170.html",
-    "date": "2024-07-04",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2787,
-        "value": "976 - Mayotte"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 1913,
-        "value": "Andhanouni Saïd"
-      }
-    ],
-    "personnes_morales": [],
-    "categorie": [
-      {
-        "id": 2652,
-        "value": "Probité"
-      }
-    ],
-    "theme": [],
-    "procedure": [
-      {
-        "id": 2689,
-        "value": "Condamnation"
-      }
-    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -18032,6 +18032,47 @@
     "a_la_une": false
   },
   {
+    "id": 2465,
+    "titre": "Claudie Brun, ancienne maire de La Terrasse, condamnée pour prise illégale d’intérêts dans une affaire de permis de construire",
+    "contenu": "L’ancienne maire de La Terrasse a été condamnée ce mardi à une peine d’inéligibilité de cinq ans. Claudie Brun a été reconnue coupable de prise illégale d’intérêt pour avoir refusé de délivrer un permis de construire à un promoteur qui souhaitait bâtir un immeuble à côté de chez elle.",
+    "url": "https://www.ledauphine.com/faits-divers-justice/2024/07/02/l-ancienne-maire-condamnee-pour-prise-illegale-d-interets",
+    "date": "2024-07-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2732,
+        "value": "38 - Isère"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2040,
+        "value": "Claudie Brun"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2423,
     "titre": "Damien Castelain, le président de la Métropole européenne de Lille, condamné",
     "contenu": "Jugé pour quatre affaires différentes, Damien Castelain a notamment été condamné à 5 ans d'inéligibilité ce mardi par le tribunal de Lille, mais sans exécution provisoire. Le président de la Métropole européenne de Lille peut donc rester en poste.",
@@ -18107,47 +18148,6 @@
       }
     ],
     "theme": [],
-    "procedure": [
-      {
-        "id": 2689,
-        "value": "Condamnation"
-      }
-    ],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 2465,
-    "titre": "L’ancienne maire de La Terrasse condamnée pour prise illégale d’intérêts",
-    "contenu": "L’ancienne maire de La Terrasse a été condamnée ce mardi à une peine d’inéligibilité de cinq ans. Claudie Brun a été reconnue coupable de prise illégale d’intérêt pour avoir refusé de délivrer un permis de construire à un promoteur qui souhaitait bâtir un immeuble à côté de chez elle.",
-    "url": "https://www.ledauphine.com/faits-divers-justice/2024/07/02/l-ancienne-maire-condamnee-pour-prise-illegale-d-interets",
-    "date": "2024-07-02",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2732,
-        "value": "38 - Isère"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 2040,
-        "value": "Claudie Brun"
-      }
-    ],
-    "personnes_morales": [],
-    "categorie": [
-      {
-        "id": 2652,
-        "value": "Probité"
-      }
-    ],
-    "theme": [
-      {
-        "id": 2658,
-        "value": "BTP / Urbanisme / Immobilier"
-      }
-    ],
     "procedure": [
       {
         "id": 2689,
