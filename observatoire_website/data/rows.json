@@ -84,6 +84,47 @@
     "a_la_une": false
   },
   {
+    "id": 2786,
+    "titre": "Jacques Lalié, président de la province des îles Loyauté, condamné pour favoritisme à un an de prison avec sursis, deux ans d'inéligibilité applicables de suite et un million d'amende",
+    "contenu": "Le délibéré a été rendu ce mardi 26 novembre, à Nouméa, dans le jugement en appel de Jacques Lalié pour favoritisme. Le président de la province des îles Loyauté est condamné à un an de prison avec sursis ; deux ans d’inéligibilité avec \"exécution provisoire\", c'est-à-dire immédiate ; et une amende d'un million de francs. Il devrait se pourvoir en cassation.",
+    "url": "https://la1ere.francetvinfo.fr/nouvellecaledonie/province-iles/proces-en-appel-pour-favoritisme-jacques-lalie-condamne-a-un-an-de-prison-avec-sursis-deux-ans-d-ineligibilite-et-un-million-d-amende-1539910.html",
+    "date": "2024-11-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2788,
+        "value": "98 - Nouvelle Calédonie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1238,
+        "value": "Jacques Lalié"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1065,
+        "value": "Union calédonienne (UC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2787,
     "titre": "Le fantôme corse classé secret-défense de Bernard Squarcini",
     "contenu": "En quittant les services de renseignement intérieur, l’ex-patron de la DCRI a emporté avec lui près de 400 documents classifiés, une possible compromission du secret de la défense nationale. Un nom revient avec insistance dans cette masse documentaire : Igor Peccatte. Enquête sur une ombre de la République.",
@@ -209,47 +250,6 @@
     "a_la_une": false
   },
   {
-    "id": 2786,
-    "titre": "Procès en appel pour favoritisme : Jacques Lalié condamné à un an de prison avec sursis, deux ans d'inéligibilité applicables de suite et un million d'amende",
-    "contenu": "Le délibéré a été rendu ce mardi 26 novembre, à Nouméa, dans le jugement en appel de Jacques Lalié pour favoritisme. Le président de la province des îles Loyauté est condamné à un an de prison avec sursis ; deux ans d’inéligibilité avec \"exécution provisoire\", c'est-à-dire immédiate ; et une amende d'un million de francs. Il devrait se pourvoir en cassation.",
-    "url": "https://la1ere.francetvinfo.fr/nouvellecaledonie/province-iles/proces-en-appel-pour-favoritisme-jacques-lalie-condamne-a-un-an-de-prison-avec-sursis-deux-ans-d-ineligibilite-et-un-million-d-amende-1539910.html",
-    "date": "2024-11-26",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2788,
-        "value": "98 - Nouvelle Calédonie"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 1238,
-        "value": "Jacques Lalié"
-      }
-    ],
-    "personnes_morales": [
-      {
-        "id": 1065,
-        "value": "Union calédonienne (UC)"
-      }
-    ],
-    "categorie": [
-      {
-        "id": 2652,
-        "value": "Probité"
-      }
-    ],
-    "theme": [],
-    "procedure": [
-      {
-        "id": 2689,
-        "value": "Condamnation"
-      }
-    ],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
     "id": 2783,
     "titre": "Soupçons de prise illégale d'intérêts d'Alexis Kohler : la cour d'appel de Paris confirme les poursuites contre le secrétaire général de l'Élysée",
     "contenu": "La cour d'appel de Paris confirme les poursuites contre Alexis Kohler, le secrétaire général de l'Elysée, pour prise illégale d'intérêts dans l'enquête sur ses liens familiaux avec l'armateur MSC. La cour d'appel de Paris a écarté mardi la prescription soulevée par le secrétaire général de l'Elysée.",
@@ -363,6 +363,42 @@
     "a_la_une": true
   },
   {
+    "id": 2790,
+    "titre": "Joseph Afribo, maire de Rethel, condamné à un an d'inéligibilité et 30 000 euros d'amende pour détournement de fonds publics",
+    "contenu": "Le tribunal de Charleville-Mézières (Ardennes) a condamné le maire de Rethel, Joseph Afribo, à un an d'inéligibilité et 30 000 euros d'amende pour des faits de détournement de fonds publics datant d'une période où il était à la tête d'Acy-Romance.",
+    "url": "https://france3-regions.francetvinfo.fr/grand-est/ardennes/rethel/le-maire-de-rethel-condamne-a-un-an-d-ineligibilite-et-30-000-euros-d-amende-pour-detournement-de-fonds-publics-3065713.html",
+    "date": "2024-11-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2705,
+        "value": "08 - Ardennes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1903,
+        "value": "Joseph Afribo"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2791,
     "titre": "L'Agence anticorruption met en garde l'Inria et le CNRS",
     "contenu": "La Lettre s'est procuré les quatre rapports de l'Agence française anticorruption sur les organismes publics de recherche. Si les enquêteurs n'ont pas pointé de failles majeures, leur audit demande à l'Inria, au CNRS, à l'ANR et à l'Inserm une montée en puissance sur le front de la prévention de la corruption.",
@@ -403,42 +439,6 @@
       }
     ],
     "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 2790,
-    "titre": "Le maire de Rethel condamné à un an d'inéligibilité et 30 000 euros d'amende pour détournement de fonds publics",
-    "contenu": "Le tribunal de Charleville-Mézières (Ardennes) a condamné le maire de Rethel, Joseph Afribo, à un an d'inéligibilité et 30 000 euros d'amende pour des faits de détournement de fonds publics datant d'une période où il était à la tête d'Acy-Romance.",
-    "url": "https://france3-regions.francetvinfo.fr/grand-est/ardennes/rethel/le-maire-de-rethel-condamne-a-un-an-d-ineligibilite-et-30-000-euros-d-amende-pour-detournement-de-fonds-publics-3065713.html",
-    "date": "2024-11-25",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2705,
-        "value": "08 - Ardennes"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 1903,
-        "value": "Joseph Afribo"
-      }
-    ],
-    "personnes_morales": [],
-    "categorie": [
-      {
-        "id": 2652,
-        "value": "Probité"
-      }
-    ],
-    "theme": [],
-    "procedure": [
-      {
-        "id": 2689,
-        "value": "Condamnation"
-      }
-    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -641,6 +641,78 @@
     "a_la_une": false
   },
   {
+    "id": 2796,
+    "titre": "Affaire Alstom : un non-lieu et une information judiciaire parallèle en cours en lien avec le rôle d’Emmanuel Macron",
+    "contenu": "L’association Anticor a fait appel, le 4 novembre, de l’ordonnance de non-lieu rendue par un magistrat instructeur dans l’un des volets instruits pour « corruption d’agent public étranger ». Une information judiciaire est menée en parallèle, depuis fin 2022, sur un autre volet de l’affaire en lien avec l’actuel chef de l’Etat.",
+    "url": "https://www.lemonde.fr/societe/article/2024/11/22/affaire-alstom-un-non-lieu-et-une-information-judiciaire-parallele-en-cours-en-lien-avec-le-role-d-emmanuel-macron_6408641_3224.html",
+    "date": "2024-11-22",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 648,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 2312,
+        "value": "Patrick Kron"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 22,
+        "value": "General Electric"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 177,
+        "value": "Safran"
+      },
+      {
+        "id": 630,
+        "value": "Alstom"
+      },
+      {
+        "id": 988,
+        "value": "Chantiers de l’Atlantique (ex-STX France)"
+      },
+      {
+        "id": 999,
+        "value": "Technip Energies"
+      },
+      {
+        "id": 1068,
+        "value": "Alcatel"
+      },
+      {
+        "id": 1069,
+        "value": "Aéroport de Toulouse-Blagnac"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2779,
     "titre": "Biens mal acquis : l’histoire tourmentée de la « Villa Suzette », propriété de la famille Sassou-Nguesso",
     "contenu": "Saisie en 2015 par la justice française, qui la considère comme « un objet du blanchiment », cette maison des Yvelines appartient toujours au président du Congo-Brazzaville.",
@@ -834,51 +906,6 @@
     "a_la_une": false
   },
   {
-    "id": 2793,
-    "titre": "Affaire Respire + : Rodrigue Solitude reconnu coupable de prise illégale d’intérêts par le tribunal correctionnel de Pointe-à-Pitre",
-    "contenu": "La décision est tombée dans l'affaire Respire +, du nom de cette société de masques chirurgicaux créé pendant la crise sanitaire en Guadeloupe. Rodrigue Solitude, l'ancien chef de cabinet du Conseil régional a été reconnu coupable de prise illégale d’intérêts par le tribunal correctionnel de Pointe-à-Pitre et condamné.",
-    "url": "https://la1ere.francetvinfo.fr/guadeloupe/affaire-respire-rodrigue-solitude-reconnu-coupable-de-prise-illegale-d-interet-par-le-tribunal-correctionnel-de-pointe-a-pitre-1538731.html",
-    "date": "2024-11-21",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2783,
-        "value": "971 - Guadeloupe"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 1371,
-        "value": "Rodrigue Solitude"
-      }
-    ],
-    "personnes_morales": [
-      {
-        "id": 541,
-        "value": "Comité du tourisme des Iles de Guadeloupe (CTIG)"
-      },
-      {
-        "id": 546,
-        "value": "Respire+"
-      }
-    ],
-    "categorie": [
-      {
-        "id": 2652,
-        "value": "Probité"
-      }
-    ],
-    "theme": [],
-    "procedure": [
-      {
-        "id": 2689,
-        "value": "Condamnation"
-      }
-    ],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
     "id": 2774,
     "titre": "Enquête au Royaume-Uni et en France sur des soupçons de corruption chez Thales",
     "contenu": "L'autorité britannique de lutte contre la délinquance financière a annoncé jeudi l'ouverture d'une enquête sur des soupçons de corruption au sein du groupe de haute technologie français Thales, menée conjointement avec le Parquet national financier (PNF) côté français.",
@@ -1027,6 +1054,51 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2793,
+    "titre": "Rodrigue Solitude, ancien chef de cabinet du Conseil régional de Guadeloupe, reconnu coupable de prise illégale d’intérêts par le tribunal correctionnel de Pointe-à-Pitre dans l'affaire Respire +",
+    "contenu": "La décision est tombée dans l'affaire Respire +, du nom de cette société de masques chirurgicaux créé pendant la crise sanitaire en Guadeloupe. Rodrigue Solitude, l'ancien chef de cabinet du Conseil régional a été reconnu coupable de prise illégale d’intérêts par le tribunal correctionnel de Pointe-à-Pitre et condamné.",
+    "url": "https://la1ere.francetvinfo.fr/guadeloupe/affaire-respire-rodrigue-solitude-reconnu-coupable-de-prise-illegale-d-interet-par-le-tribunal-correctionnel-de-pointe-a-pitre-1538731.html",
+    "date": "2024-11-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1371,
+        "value": "Rodrigue Solitude"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 541,
+        "value": "Comité du tourisme des Iles de Guadeloupe (CTIG)"
+      },
+      {
+        "id": 546,
+        "value": "Respire+"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -1289,47 +1361,6 @@
       }
     ],
     "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
-    "id": 2773,
-    "titre": "En Guadeloupe, le député Max Mathiasin condamné à douze mois de prison avec sursis pour abus de confiance",
-    "contenu": "Les faits concernent l’utilisation d’une carte de carburant et la vente de deux véhicules par la Caisse des écoles, quand il dirigeait la structure, avant d’être élu député en 2017. A rebours des réquisitions, le tribunal n’a pas retenu la peine d’inéligibilité.",
-    "url": "https://www.lemonde.fr/societe/article/2024/11/19/en-guadeloupe-le-depute-max-mathiasin-condamne-a-douze-mois-de-prison-avec-sursis-pour-abus-de-confiance_6403105_3224.html",
-    "date": "2024-11-19",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2783,
-        "value": "971 - Guadeloupe"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 373,
-        "value": "Max Mathiasin"
-      }
-    ],
-    "personnes_morales": [
-      {
-        "id": 5,
-        "value": "Assemblée Nationale"
-      }
-    ],
-    "categorie": [
-      {
-        "id": 2652,
-        "value": "Probité"
-      }
-    ],
-    "theme": [],
-    "procedure": [
-      {
-        "id": 2689,
-        "value": "Condamnation"
-      }
-    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -1621,8 +1652,49 @@
     "a_la_une": false
   },
   {
+    "id": 2773,
+    "titre": "Max Mathiasin, député de la Guadeloupe, condamné à douze mois de prison avec sursis pour abus de confiance",
+    "contenu": "Les faits concernent l’utilisation d’une carte de carburant et la vente de deux véhicules par la Caisse des écoles, quand il dirigeait la structure, avant d’être élu député en 2017. A rebours des réquisitions, le tribunal n’a pas retenu la peine d’inéligibilité.",
+    "url": "https://www.lemonde.fr/societe/article/2024/11/19/en-guadeloupe-le-depute-max-mathiasin-condamne-a-douze-mois-de-prison-avec-sursis-pour-abus-de-confiance_6403105_3224.html",
+    "date": "2024-11-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 373,
+        "value": "Max Mathiasin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2764,
-    "titre": "Le député macroniste Karl Olive condamné à huit mois de prison avec sursis pour prise illégale d’intérêts",
+    "titre": "Karl Olive, député des Yvelines, condamné à huit mois de prison avec sursis pour prise illégale d’intérêts",
     "contenu": "L’ancien maire de Poissy a été jugé coupable d’avoir « commis des faits de prise illégale d’intérêt en participant au recrutement » du fils de l’ancien directeur général adjoint des services de Poissy en tant que directeur de la jeunesse et des sports de la ville. Il a annoncé faire appel de la décision.",
     "url": "https://www.lemonde.fr/societe/article/2024/11/18/le-depute-macroniste-karl-olive-condamne-a-huit-mois-de-prison-avec-sursis-pour-prise-illegale-d-interets_6401229_3224.html",
     "date": "2024-11-18",
@@ -2225,55 +2297,6 @@
     "a_la_une": true
   },
   {
-    "id": 2744,
-    "titre": "L’ancien secrétaire d’Etat Thierry Mandon condamné à douze mois de prison avec sursis",
-    "contenu": "Plusieurs délits financiers lui étaient reprochés pour un préjudice total de 22 000 euros. Outre les peines de prison et d’amende, il est condamné à cinq ans d’inéligibilité ainsi qu’à une interdiction définitive de présider ou de diriger un établissement public.",
-    "url": "https://www.lemonde.fr/politique/article/2024/11/15/l-ancien-secretaire-d-etat-thierry-mandon-condamne-a-douze-mois-de-prison-avec-sursis_6395512_823448.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default",
-    "date": "2024-11-15",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2762,
-        "value": "75 - Paris"
-      },
-      {
-        "id": 2736,
-        "value": "42 - Loire"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 1253,
-        "value": "Thierry Mandon"
-      }
-    ],
-    "personnes_morales": [
-      {
-        "id": 14,
-        "value": "Parti Socialiste (PS)"
-      },
-      {
-        "id": 478,
-        "value": "Cité du design (Saint-Étienne)"
-      }
-    ],
-    "categorie": [
-      {
-        "id": 2652,
-        "value": "Probité"
-      }
-    ],
-    "theme": [],
-    "procedure": [
-      {
-        "id": 2689,
-        "value": "Condamnation"
-      }
-    ],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
     "id": 2747,
     "titre": "Le député Kerbrat, la drogue et l’argent public : récit d’une descente aux enfers",
     "contenu": "Interpellé pendant qu’il achetait de la drogue, l’élu insoumis a, selon nos informations, financé sa consommation avec ses frais de députés. Interrogé par Mediapart, Andy Kerbrat admet avoir « fait n’importe quoi » avant de rembourser l’Assemblée, et revient longuement sur le « merdier » dans lequel il s’est « enfermé ».",
@@ -2480,6 +2503,55 @@
       {
         "id": 2695,
         "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2744,
+    "titre": "Thierry Mandon, ex-secrétaire d’Etat, condamné à douze mois de prison avec sursis",
+    "contenu": "Plusieurs délits financiers lui étaient reprochés pour un préjudice total de 22 000 euros. Outre les peines de prison et d’amende, il est condamné à cinq ans d’inéligibilité ainsi qu’à une interdiction définitive de présider ou de diriger un établissement public.",
+    "url": "https://www.lemonde.fr/politique/article/2024/11/15/l-ancien-secretaire-d-etat-thierry-mandon-condamne-a-douze-mois-de-prison-avec-sursis_6395512_823448.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=android&lmd_source=default",
+    "date": "2024-11-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2736,
+        "value": "42 - Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1253,
+        "value": "Thierry Mandon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 478,
+        "value": "Cité du design (Saint-Étienne)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
       }
     ],
     "titre_corrige": "",
@@ -3422,51 +3494,6 @@
     "a_la_une": false
   },
   {
-    "id": 2726,
-    "titre": "Affaire de la Couronnerie : Jean-François Bordat définitivement reconnu coupable, mais il y aura un nouveau procès",
-    "contenu": "La Cour de cassation a partiellement cassé le jugement de la cour d'appel d'Orléans dans l'affaire de la Couronnerie : la décision de culpabilité est confirmée pour Jean-François Bordat, mais sa peine de 3 ans de prison est annulée et sera réexaminée par la cour d'appel de Bourges.",
-    "url": "https://www.francebleu.fr/infos/faits-divers-justice/affaire-de-la-couronnerie-jean-francois-bordat-definitivement-reconnu-coupable-mais-il-y-aura-un-nouveau-proces-4824335",
-    "date": "2024-11-06",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2739,
-        "value": "45 - Loiret"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 1255,
-        "value": "Jean-François Bordat"
-      }
-    ],
-    "personnes_morales": [
-      {
-        "id": 479,
-        "value": "T'Hand'M (ex-La Couronnerie)"
-      },
-      {
-        "id": 1041,
-        "value": "Sodexo"
-      }
-    ],
-    "categorie": [
-      {
-        "id": 2652,
-        "value": "Probité"
-      }
-    ],
-    "theme": [],
-    "procedure": [
-      {
-        "id": 2689,
-        "value": "Condamnation"
-      }
-    ],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
     "id": 2723,
     "titre": "Agrément d’Anticor : le Conseil d’Etat confirme l’illégalité de la rédaction de l’arrêté de 2021",
     "contenu": "Le Conseil d’Etat confirme l’annulation rétroactive de l’arrêté qui renouvelait l’agrément d’Anticor pour trois ans. L’association de lutte contre la corruption n’est cependant pas empêchée d’agir : elle a obtenu un nouvel agrément en septembre.",
@@ -3512,8 +3539,53 @@
     "a_la_une": true
   },
   {
+    "id": 2726,
+    "titre": "Jean-François Bordat définitivement reconnu coupable dans l'affaire de la Couronnerie, mais il y aura un nouveau procès",
+    "contenu": "La Cour de cassation a partiellement cassé le jugement de la cour d'appel d'Orléans dans l'affaire de la Couronnerie : la décision de culpabilité est confirmée pour Jean-François Bordat, mais sa peine de 3 ans de prison est annulée et sera réexaminée par la cour d'appel de Bourges.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/affaire-de-la-couronnerie-jean-francois-bordat-definitivement-reconnu-coupable-mais-il-y-aura-un-nouveau-proces-4824335",
+    "date": "2024-11-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2739,
+        "value": "45 - Loiret"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1255,
+        "value": "Jean-François Bordat"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 479,
+        "value": "T'Hand'M (ex-La Couronnerie)"
+      },
+      {
+        "id": 1041,
+        "value": "Sodexo"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2719,
-    "titre": "Didier Robert condamné à 8 mois de sursis, 100 000 € d'amende et 5 ans d'inéligibilité dans l'affaire des indemnités de résidence",
+    "titre": "Didier Robert, ancien président du Conseil régional de la Réunion, condamné à 8 mois de sursis, 100 000 € d'amende et 5 ans d'inéligibilité dans l'affaire des indemnités de résidence",
     "contenu": "L’ancien président du Conseil régional de la Réunion a été condamné ce mardi 5 novembre par le tribunal correctionnel de Saint-Denis à 8 mois de prison avec sursis, 100 000 euros d'amende et 5 ans d'inéligibilité pour prise illégale d’intérêt et concussion dans l’affaire des indemnités de résidence. Le Parquet avait requis ces mêmes peines le 11 octobre dernier lors de l'audience.",
     "url": "https://la1ere.francetvinfo.fr/reunion/didier-robert-condamne-a-8-mois-de-sursis-100-000-d-amende-et-5-ans-d-ineligibilite-dans-l-affaire-des-indemnites-de-residence-1534213.html",
     "date": "2024-11-05",
@@ -4825,7 +4897,7 @@
   },
   {
     "id": 2668,
-    "titre": "L'ancien préfet Alain Gardère condamné à deux ans de prison, dont un an ferme sous bracelet électronique",
+    "titre": "Alain Gardère, ancien préfet, condamné à deux ans de prison, dont un an ferme sous bracelet électronique",
     "contenu": "« Arrangements » et « passe-droits » dans les services de l’Etat d’un côté, « système corruptif d’élus locaux » de l’autre : dix hommes – dont un ancien préfet, trois actuels ou anciens maires franciliens et des entrepreneurs du secteur de bâtiment et des travaux publics (BTP) – ont été condamnés, jeudi 24 octobre, à Paris. Au total, treize personnes et deux entreprises ont été jugées en mai et juin à Paris, dans un dossier à deux volets dont l’enquête avait débuté par des soupçons autour du train de vie d’Alain Gardère, 68 ans, ex-préfet de police de Marseille.",
     "url": "https://www.lemonde.fr/societe/article/2024/10/24/corruption-et-trafic-d-influence-l-ancien-prefet-alain-gardere-condamne-a-deux-ans-de-prison-dont-un-an-ferme-sous-bracelet-electronique_6359245_3224.html",
     "date": "2024-10-24",
@@ -6141,44 +6213,8 @@
     "a_la_une": false
   },
   {
-    "id": 2688,
-    "titre": "Damien Castelain, un petit tour au tribunal et puis s’en va pas",
-    "contenu": "La justice passe… Damien Castelain reste. Vendredi 18 octobre, le président de la métropole européenne de Lille (MEL) dirigera les débats du conseil communautaire comme il le fait depuis une décennie. Mais pour ce conseil d’automne, le maire de Péronne‐en‐Mélantois se présentera dans de nouveaux habits : ceux d’un président jugé coupable de détournement de fonds publics, prise illégale d’intérêts  et recel d’abus de confiance.",
-    "url": "https://www.mediacites.fr/enquete/lille/2024/10/17/damien-castelain-un-petit-tour-au-tribunal-et-puis-sen-va-pas/",
-    "date": "2024-10-17",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2749,
-        "value": "59 - Nord"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 981,
-        "value": "Damien Castelain"
-      }
-    ],
-    "personnes_morales": [
-      {
-        "id": 290,
-        "value": "Métropole Européenne de Lille (MEL)"
-      }
-    ],
-    "categorie": [
-      {
-        "id": 2651,
-        "value": "Actualité"
-      }
-    ],
-    "theme": [],
-    "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
     "id": 2644,
-    "titre": "L’ex-ministre de la santé Agnès Firmin Le Bodo condamnée pour ses liens avec l’industrie pharmaceutique",
+    "titre": "Agnès Firmin Le Bodo, ex-ministre de la santé, condamnée pour ses liens avec l’industrie pharmaceutique",
     "contenu": "Pharmacienne de profession, Agnès Firmin Le Bodo a reçu de nombreux cadeaux de la part des laboratoires Urgo, de 2015 à 2020. L’ancienne ministre, qui siège aujourd’hui à l’Assemblée nationale, a reconnu les faits au terme d’une procédure de plaider-coupable, selon les informations de Mediapart.",
     "url": "https://www.mediapart.fr/journal/france/171024/l-ex-ministre-de-la-sante-agnes-firmin-le-bodo-condamnee-pour-ses-liens-avec-l-industrie-pharmaceutique",
     "date": "2024-10-17",
@@ -6240,6 +6276,42 @@
     ],
     "titre_corrige": "Agnès Firmin Le Bodo, ex-ministre de la santé, condamnée pour ses liens avec l’industrie pharmaceutique",
     "a_la_une": true
+  },
+  {
+    "id": 2688,
+    "titre": "Damien Castelain, un petit tour au tribunal et puis s’en va pas",
+    "contenu": "La justice passe… Damien Castelain reste. Vendredi 18 octobre, le président de la métropole européenne de Lille (MEL) dirigera les débats du conseil communautaire comme il le fait depuis une décennie. Mais pour ce conseil d’automne, le maire de Péronne‐en‐Mélantois se présentera dans de nouveaux habits : ceux d’un président jugé coupable de détournement de fonds publics, prise illégale d’intérêts  et recel d’abus de confiance.",
+    "url": "https://www.mediacites.fr/enquete/lille/2024/10/17/damien-castelain-un-petit-tour-au-tribunal-et-puis-sen-va-pas/",
+    "date": "2024-10-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2749,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 981,
+        "value": "Damien Castelain"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 290,
+        "value": "Métropole Européenne de Lille (MEL)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2676,
@@ -7221,7 +7293,7 @@
   },
   {
     "id": 2631,
-    "titre": "Condamné à de la prison ferme, l’ancien maire de Roquebrune-sur-Argens visé par un mandat d’arrêt",
+    "titre": "Luc Jousse, ex-maire de Roquebrune-sur-Argens condamné à de la prison ferme, visé par un mandat d’arrêt",
     "contenu": "Luc Jousse, maire de Roquebrune-sur-Argens (Var) de 2001 à 2016, a été condamné mardi à un an de prison ferme pour «prise illégale d’intérêts» par le tribunal correctionnel de Draguignan. Absent à l’audience et non représenté, il a été visé dans la foulée par un mandat d’arrêt.",
     "url": "https://www.lefigaro.fr/nice/var-condamne-a-de-la-prison-ferme-l-ancien-maire-de-roquebrune-sur-argens-vise-par-un-mandat-d-arret-20241010",
     "date": "2024-10-10",
@@ -7469,7 +7541,7 @@
   },
   {
     "id": 2627,
-    "titre": "Détournement de fonds publics : l’ancien directeur général d’un office public de l’habitat condamné à neuf mois de prison avec sursis",
+    "titre": "François Toulet, ancien directeur général de Tarn-et-Garonne habitat, condamné à neuf mois de prison avec sursis pour détournement de fonds publics",
     "contenu": "François Toulet, ancien directeur général de Tarn-et-Garonne habitat (TGH), comparaissait mardi 8 octobre 2024 devant le tribunal judiciaire de Montauban, en Tarn-et-Garonne. Il a été reconnu coupable de détournements de fonds publics, mais relaxé de prise illégale d’intérêts. Il écope de neuf mois de prison avec sursis et d’une amende de 20 000 euros.",
     "url": "https://www.ladepeche.fr/2024/10/09/detournement-de-fonds-publics-lancien-directeur-general-dun-office-public-de-lhabitat-condamne-a-neuf-mois-de-prison-avec-sursis-12248100.php",
     "date": "2024-10-09",
@@ -9936,7 +10008,7 @@
   },
   {
     "id": 2584,
-    "titre": "Dordogne : Condamnation d’un ancien agent administratif pour détournement de fonds",
+    "titre": "Condamnation d’un ancien agent administratif pour détournement de fonds en Dordogne",
     "contenu": "La sentence vient de tomber pour cet ancien agent de l’État qui aurait détourné plus de 330.000 euros",
     "url": "https://www.20minutes.fr/faits_divers/4111775-20240924-dordogne-condamnation-ancien-agent-administratif-detournement-fonds",
     "date": "2024-09-24",
@@ -10292,42 +10364,6 @@
     "a_la_une": false
   },
   {
-    "id": 2587,
-    "titre": "Le maire de Grand-Fort-Philippe, Sony Clinquart, condamné en appel pour détournement de fonds publics",
-    "contenu": "Le maire de Grand Fort Philippe, Sony Clinquart, a été condamné ce lundi 23 septembre par la cour d'appel du Nord pour détournement de fonds publics. Il écope d'une peine de 6 mois de prison avec sursis, 5.000 euros d'amende et 2 ans d'inéligibilité, pour avoir fait embaucher par la mairie des secrétaires médicales pour les faire travailler à la maison médicale de cette commune de 5.000 habitants du Dunkerquois.",
-    "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-maire-de-grand-fort-philippe-sony-clinquart-condamne-en-appel-pour-detournement-de-fonds-publics-8815151",
-    "date": "2024-09-23",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2749,
-        "value": "59 - Nord"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 2170,
-        "value": "Sony Clinquart"
-      }
-    ],
-    "personnes_morales": [],
-    "categorie": [
-      {
-        "id": 2652,
-        "value": "Probité"
-      }
-    ],
-    "theme": [],
-    "procedure": [
-      {
-        "id": 2689,
-        "value": "Condamnation"
-      }
-    ],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
     "id": 2582,
     "titre": "Périgord : Les magouilles financières de l’élu-entrepreneur Thierry Gauthier",
     "contenu": "Homme d'affaires influent et élu local du Périgord, Thierry Gauthier aurait usé de son statut de conseiller communautaire pour transformer ses terrains agricoles en terrain constructible. Une plainte a été déposée pour prise illégale d’intérêt.",
@@ -10422,6 +10458,42 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2587,
+    "titre": "Sony Clinquart, maire de Grand-Fort-Philippe, condamné en appel pour détournement de fonds publics",
+    "contenu": "Le maire de Grand Fort Philippe, Sony Clinquart, a été condamné ce lundi 23 septembre par la cour d'appel du Nord pour détournement de fonds publics. Il écope d'une peine de 6 mois de prison avec sursis, 5.000 euros d'amende et 2 ans d'inéligibilité, pour avoir fait embaucher par la mairie des secrétaires médicales pour les faire travailler à la maison médicale de cette commune de 5.000 habitants du Dunkerquois.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-maire-de-grand-fort-philippe-sony-clinquart-condamne-en-appel-pour-detournement-de-fonds-publics-8815151",
+    "date": "2024-09-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2749,
+        "value": "59 - Nord"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2170,
+        "value": "Sony Clinquart"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -11183,7 +11255,7 @@
   },
   {
     "id": 2564,
-    "titre": "Scandale de l'Aselqo à Orléans : les primes touchées par l'ancienne équipe de direction étaient bien illégales",
+    "titre": "Quatre anciens cadres de l'Aselqo (Orléans) condamnés pour avoir touché des primes illégales",
     "contenu": "Quatre anciens cadres de l'Aselqo condamnés ce mardi dans l'affaire des primes qui avaient ébranlé l'association d'animation urbaine à Orléans. La justice estime qu'ils ont perçu illégalement 330 000 euros en six ans : une somme qu'ils devront rembourser. L'ancien président est en revanche relaxé.",
     "url": "https://www.francebleu.fr/infos/faits-divers-justice/scandale-de-l-aselqo-a-orleans-les-primes-touchees-par-l-equipe-de-direction-etaient-bien-illegales-8055612",
     "date": "2024-09-17",
@@ -11864,57 +11936,8 @@
     "a_la_une": false
   },
   {
-    "id": 2548,
-    "titre": "Les contours du projet de Parquet national anticriminalité organisée pour lutter contre le narcotrafic et le blanchiment",
-    "contenu": "Dans un rapport que « Le Monde » s’est procuré, Jean-François Ricard, conseiller spécial du garde des sceaux, présente les solutions envisagées après l’audition de plus de 200 acteurs de la chaîne pénale.",
-    "url": "https://www.lemonde.fr/societe/article/2024/09/12/lutte-contre-le-narcotrafic-et-le-blanchiment-magistrats-specialises-coordination-renforcee-les-contours-du-projet-de-parquet-national-anticriminalite-organisee_6314288_3224.html",
-    "date": "2024-09-12",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2762,
-        "value": "75 - Paris"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 1765,
-        "value": "Jean-François Ricard"
-      }
-    ],
-    "personnes_morales": [
-      {
-        "id": 7,
-        "value": "Ministère de la justice"
-      },
-      {
-        "id": 772,
-        "value": "Parquet national anticriminalité organisée (PNACO)"
-      }
-    ],
-    "categorie": [
-      {
-        "id": 2651,
-        "value": "Actualité"
-      }
-    ],
-    "theme": [
-      {
-        "id": 3024,
-        "value": "Justice"
-      },
-      {
-        "id": 2664,
-        "value": "Drogue"
-      }
-    ],
-    "procedure": [],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
     "id": 2541,
-    "titre": "Un ancien conseiller de Nicolas Sarkozy dort en prison depuis plusieurs mois",
+    "titre": "Frank Supplisson, haut fonctionnaire et ex-conseiller de Nicolas Sarkozy, est en détention depuis avril",
     "contenu": "Le haut fonctionnaire Frank Supplisson, ayant travaillé auprès de l’ancien président ou de Christine Lagarde, est en détention depuis avril. Au cœur de multiples enquêtes de Mediapart, il est mis en cause dans plusieurs projets industriels spécieux, ayant conduit à des centaines de licenciements.",
     "url": "https://www.mediapart.fr/journal/france/120924/un-ancien-conseiller-de-nicolas-sarkozy-dort-en-prison-depuis-plusieurs-mois",
     "date": "2024-09-12",
@@ -11975,6 +11998,55 @@
         "value": "Condamnation"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2548,
+    "titre": "Les contours du projet de Parquet national anticriminalité organisée pour lutter contre le narcotrafic et le blanchiment",
+    "contenu": "Dans un rapport que « Le Monde » s’est procuré, Jean-François Ricard, conseiller spécial du garde des sceaux, présente les solutions envisagées après l’audition de plus de 200 acteurs de la chaîne pénale.",
+    "url": "https://www.lemonde.fr/societe/article/2024/09/12/lutte-contre-le-narcotrafic-et-le-blanchiment-magistrats-specialises-coordination-renforcee-les-contours-du-projet-de-parquet-national-anticriminalite-organisee_6314288_3224.html",
+    "date": "2024-09-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1765,
+        "value": "Jean-François Ricard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 772,
+        "value": "Parquet national anticriminalité organisée (PNACO)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      },
+      {
+        "id": 2664,
+        "value": "Drogue"
+      }
+    ],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -12639,51 +12711,6 @@
     "a_la_une": false
   },
   {
-    "id": 2526,
-    "titre": "L’ex-ministre Michèle Alliot-Marie condamnée à six mois de prison avec sursis pour prise illégale d’intérêts",
-    "contenu": "Dans ce dossier, l’ancienne ministre de la défense, de l’intérieur, de la justice et des affaires étrangères sous Jacques Chirac puis Nicolas Sarkozy était visée pour son rôle présumé dans le versement de subventions à une association présidée par son père, lorsqu’elle était adjointe au maire de Saint-Jean-de-Luz.",
-    "url": "https://www.lemonde.fr/politique/article/2024/09/06/l-ex-ministre-michele-alliot-marie-condamnee-a-six-mois-de-prison-avec-sursis-pour-prise-illegale-d-interets_6305678_823448.html",
-    "date": "2024-09-06",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2754,
-        "value": "64 - Pyrénées-Atlantiques"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 683,
-        "value": "Michèle Alliot-Marie"
-      },
-      {
-        "id": 1472,
-        "value": "Bernard Marie"
-      }
-    ],
-    "personnes_morales": [
-      {
-        "id": 11,
-        "value": "Les Républicains (LR) (ex-UMP)"
-      }
-    ],
-    "categorie": [
-      {
-        "id": 2652,
-        "value": "Probité"
-      }
-    ],
-    "theme": [],
-    "procedure": [
-      {
-        "id": 2689,
-        "value": "Condamnation"
-      }
-    ],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
     "id": 2527,
     "titre": "Le successeur de Wauquiez à la Région a lui aussi été épinglé pour son mésusage de l’argent public",
     "contenu": "L’élu savoyard Fabrice Pannekoucke a été propulsé, jeudi 5 septembre, à la tête de la deuxième plus grande région de France. Il avait été mis en cause pour un emploi fantôme par la chambre régionale des comptes en 2019.",
@@ -12724,6 +12751,51 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2526,
+    "titre": "Michèle Alliot-Marie, ex-ministre, condamnée à six mois de prison avec sursis pour prise illégale d’intérêts",
+    "contenu": "Dans ce dossier, l’ancienne ministre de la défense, de l’intérieur, de la justice et des affaires étrangères sous Jacques Chirac puis Nicolas Sarkozy était visée pour son rôle présumé dans le versement de subventions à une association présidée par son père, lorsqu’elle était adjointe au maire de Saint-Jean-de-Luz.",
+    "url": "https://www.lemonde.fr/politique/article/2024/09/06/l-ex-ministre-michele-alliot-marie-condamnee-a-six-mois-de-prison-avec-sursis-pour-prise-illegale-d-interets_6305678_823448.html",
+    "date": "2024-09-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2754,
+        "value": "64 - Pyrénées-Atlantiques"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 683,
+        "value": "Michèle Alliot-Marie"
+      },
+      {
+        "id": 1472,
+        "value": "Bernard Marie"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -13072,7 +13144,7 @@
   },
   {
     "id": 2505,
-    "titre": "Jean-Christophe Cambadélis condamné pour détournement de fonds publics",
+    "titre": "Jean-Christophe Cambadélis, ex-député de Paris, condamné pour détournement de fonds publics",
     "contenu": "Reconnu coupable d’avoir, entre 2015 et 2017, usé à des fins personnelles plus de 100 000 euros issus de son enveloppe de frais de mandat, l’ancien député de Paris est condamné à huit mois de prison avec sursis et 60 000 euros d’amende. Il annonce faire appel.",
     "url": "https://www.lemonde.fr/societe/article/2024/09/04/jean-christophe-cambadelis-condamne-pour-detournement-de-fonds-publics_6303958_3224.html",
     "date": "2024-09-04",
@@ -13306,7 +13378,7 @@
   },
   {
     "id": 2518,
-    "titre": "Pantouflage : les promoteurs Gecina et Novaxia condamnés pour avoir recruté Missika, ex-adjoint à l’urbanisme de Hidalgo",
+    "titre": "Les promoteurs immobiliers Gecina et Novaxia condamnés pour avoir recruté Missika, ex-adjoint à l’urbanisme de Hidalgo",
     "contenu": "La justice a estimé que les deux groupes immobiliers et leurs présidents respectifs s’étaient rendus coupables - une rareté - de complicité et de recel de prise illégale d’intérêts en recrutant Jean-Louis Missika, l’ancien bras droit d'Anne Hidalgo à la mairie de Paris.",
     "url": "https://www.marianne.net/economie/pantouflage-les-promoteurs-gecina-et-novaxia-condamnes-pour-avoir-recrute-missika-ex-adjoint-a-lurbanisme-de-hidalgo",
     "date": "2024-09-04",
@@ -13434,6 +13506,42 @@
     "a_la_une": false
   },
   {
+    "id": 2508,
+    "titre": "Gilles Bourdouleix, maire de Cholet, condamné à une amende de 1 000 € dans l'affaire de la protection fonctionnelle",
+    "contenu": "Gilles Bourdouleix, le maire de Cholet (Maine-et-Loire), a été condamné ce mardi 3 septembre 2024 en appel à une amende de 1 000 €, pour être resté dans la salle lors du vote sur sa protection fonctionnelle en 2021.",
+    "url": "https://www.ouest-france.fr/pays-de-la-loire/cholet-49300/vote-sur-sa-protection-fonctionnelle-gilles-bourdouleix-condamne-a-une-amende-de-1-000-euros-en-appel-47e2e572-69f0-11ef-87ff-6b83746dd621",
+    "date": "2024-09-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2742,
+        "value": "49 - Maine-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 974,
+        "value": "Gilles Bourdouleix"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2504,
     "titre": "Le refus d’Attal de réexaminer l’agrément d’Anticor devant le juge administratif",
     "contenu": "Le premier ministre avait jusqu’au 26 août pour appliquer une décision de justice l’obligeant à réexaminer l’agrément de l’association de lutte contre la corruption lui permettant d’ester en justice. En l’absence de réponse, elle demande au tribunal administratif d’infliger au gouvernement une astreinte de mille euros par jour de retard.",
@@ -13472,42 +13580,6 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
-  },
-  {
-    "id": 2508,
-    "titre": "Protection fonctionnelle : le maire de Cholet, Gilles Bourdouleix, condamné à une amende de 1 000 €",
-    "contenu": "Gilles Bourdouleix, le maire de Cholet (Maine-et-Loire), a été condamné ce mardi 3 septembre 2024 en appel à une amende de 1 000 €, pour être resté dans la salle lors du vote sur sa protection fonctionnelle en 2021.",
-    "url": "https://www.ouest-france.fr/pays-de-la-loire/cholet-49300/vote-sur-sa-protection-fonctionnelle-gilles-bourdouleix-condamne-a-une-amende-de-1-000-euros-en-appel-47e2e572-69f0-11ef-87ff-6b83746dd621",
-    "date": "2024-09-03",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2742,
-        "value": "49 - Maine-et-Loire"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 974,
-        "value": "Gilles Bourdouleix"
-      }
-    ],
-    "personnes_morales": [],
-    "categorie": [
-      {
-        "id": 2652,
-        "value": "Probité"
-      }
-    ],
-    "theme": [],
-    "procedure": [
-      {
-        "id": 2689,
-        "value": "Condamnation"
-      }
-    ],
-    "titre_corrige": "",
-    "a_la_une": false
   },
   {
     "id": 2511,
@@ -13721,7 +13793,7 @@
   },
   {
     "id": 2500,
-    "titre": "Thierry Chauvin, maire de la commune de Saint-Martin-de-Boscherville, est définitivement condamné",
+    "titre": "Thierry Chauvin, maire de la commune de Saint-Martin-de-Boscherville, définitivement condamné pour prise illégale d'intérêts dans le cadre de la construction d'une maison de santé",
     "contenu": "Après une longue procédure, l'édile de la commune de Saint-Martin-de-Boscherville est définitivement condamné pour prise d'illégale d'intérêts. Pour rappel, l'élu était en procédure pour prise illégale d'intérêts dans le cadre de la construction d'une maison de santé.",
     "url": "https://www.lecourriercauchois.fr/actualite-368566-saint-martin-de-boscherville-thierry-chauvin-maire-de-la-commune-est-definitivement-condamne",
     "date": "2024-09-01",
