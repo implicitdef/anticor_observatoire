@@ -49,6 +49,329 @@
     "a_la_une": false
   },
   {
+    "id": 2799,
+    "titre": "Affaire France Pierre : condamnés, les maires “démissionnés“ par le préfet",
+    "contenu": "Un arrêté préfectoral, publié le 25 novembre et signé par Pierre Ory, le préfet de Seine-et-Marne, a ordonné la démission d’office de Jean-François Oneto, maire (LR) d’Ozoir-la-Ferrière, et de Sainclair Vouriot, maire (CNIP) de Saint-Thibault-des-Vignes. Les deux édiles avaient été condamnés le 24 octobre dernier par le tribunal correctionnel de Paris dans le cadre de l’affaire de corruption dite “France Pierre“.",
+    "url": "https://mesinfos.fr/77330-ozoir-la-ferriere/affaire-france-pierre-condamnes-les-maires-demissionnes-par-le-prefet-211557.html",
+    "date": "2024-11-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2767,
+        "value": "77 - Seine-et-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1864,
+        "value": "Jean-François Oneto"
+      },
+      {
+        "id": 2313,
+        "value": "Sainclair Vouriot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 1070,
+        "value": "Centre national des indépendants et paysans (CNIP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2804,
+    "titre": "Bureaux, voiture, collaborateur attitré… La justice enquête sur les anciens présidents d’EDF",
+    "contenu": "Les moyens financiers mis à disposition de ses ex-patrons par le groupe public sont-ils justifiés ? Le Parquet national financier a ouvert une enquête préliminaire sur des soupçons de «détournement de fonds publics» et de «recel» de ce délit.",
+    "url": "https://www.liberation.fr/societe/police-justice/bureaux-voiture-collaborateur-attitre-la-justice-enquete-sur-les-anciens-presidents-dedf-20241128_45EIFP4ODFH37MUKM4ODZN3TQ4/",
+    "date": "2024-11-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 716,
+        "value": "Henri Proglio"
+      },
+      {
+        "id": 2316,
+        "value": "Pierre Gadonneix"
+      },
+      {
+        "id": 2317,
+        "value": "François Roussely"
+      },
+      {
+        "id": 2318,
+        "value": "Jean-Bernard Lévy"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 101,
+        "value": "Électricité de France (EDF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2666,
+        "value": "Énergie"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2801,
+    "titre": "L’ancien maire de Trets, Jean-Claude Feraud, devant le tribunal pour 17 cas de favoritisme",
+    "contenu": "Un an après ses condamnations pour harcèlement moral et vol, l'ancien maire de Trets, Jean-Claude Féraud, repasse devant le tribunal, cette fois pour favoritisme et détournement. Au fil une audience prévue sur trois jours, il plaide la bonne foi et des problèmes de mémoire.",
+    "url": "https://marsactu.fr/lancien-maire-de-trets-jean-claude-feraud-devant-le-tribunal-pour-17-cas-de-favoritisme/",
+    "date": "2024-11-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2314,
+        "value": "Jean-Claude Féraud"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2803,
+    "titre": "Patrick Balkany demande l'annulation de sa peine d'inéligibilité pour se représenter à Levallois-Perret en 2026",
+    "contenu": "Patrick Balkany a récemment saisi la justice pour faire annuler la peine d’inéligibilité à laquelle il a été condamné, en 2019. Il souhaite pouvoir ainsi se présenter aux élections municipales de 2026 dans son fief de Levallois-Perret (Hauts-de-Seine).",
+    "url": "https://www.bfmtv.com/paris/info-bfmtv-patrick-balkany-demande-l-annulation-de-sa-peine-d-ineligibilite-pour-se-representer-a-levallois-perret-en-2026_AN-202411280586.html",
+    "date": "2024-11-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2765,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 646,
+        "value": "Patrick Balkany"
+      },
+      {
+        "id": 1043,
+        "value": "Isabelle Balkany"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2806,
+    "titre": "Rachida Dati aurait touché près de 2 millions d’euros pour réaliser du lobbying au Parlement européen",
+    "contenu": "La ministre de la Culture est soupçonnée d'avoir réalisé du lobbying contre plusieurs centaines de milliers d'euros lorsqu'elle était députée européenne. Selon le magazine « le Nouvel Obs », qui a consulté le réquisitoire du Parquet national financier, le montant total serait supérieur aux 900 000 euros annoncés.",
+    "url": "https://www.humanite.fr/societe/azerbaidjan/rachida-dati-aurait-touche-pres-de-2-millions-deuros-pour-realiser-du-lobbying-au-parlement-europeen-selon-le-nouvel-obs",
+    "date": "2024-11-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 617,
+        "value": "Carlos Ghosn"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2800,
+    "titre": "De la prison ferme et de l'inéligibilité avec exécution provisoire requises contre le maire de Bouéni",
+    "contenu": "Le maire de Bouéni, Mouslim Abdourahaman, était jugé ce mardi pour favoritisme et prise illégale d'intérêt dans le cadre de marché public. Le parquet a requis trois ans de prison, dont un avec sursis, 100.000 euros d'amende, mais aussi une peine d'inéligibilité avec exécution provisoire, c'est-à-dire une perte immédiate de son mandat.",
+    "url": "https://la1ere.francetvinfo.fr/mayotte/de-la-prison-ferme-et-de-l-ineligibilite-avec-execution-provisoire-requises-contre-le-maire-de-boueni-1540312.html",
+    "date": "2024-11-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2787,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1278,
+        "value": "Mouslim Abdourahaman"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2805,
+    "titre": "Jean-François Copé visé par une enquête préliminaire pour son usage des chauffeurs de la mairie de Meaux",
+    "contenu": "Une investigation a été ouverte par le parquet de Paris en juin. Elle fait suite à un signalement de l’association de lutte contre la corruption Anticor, en février 2023, pour des faits présumés de « détournement de fonds publics ».",
+    "url": "https://www.lemonde.fr/societe/article/2024/11/27/jean-francois-cope-vise-par-une-enquete-preliminaire-pour-son-usage-des-chauffeurs-de-la-mairie-de-meaux_6417401_3224.html",
+    "date": "2024-11-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2767,
+        "value": "77 - Seine-et-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1351,
+        "value": "Jean-François Copé"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2788,
     "titre": "Appel du parquet national financier : Nicolas Best sera rejugé devant la cour d’appel de Paris",
     "contenu": "Nicolas Best, l’ancien directeur du CHU de Nîmes et d’Annecy était jugé à Paris pour favoritisme et corruption sur fond d’attribution de travaux. Il était poursuivi par le parquet national financier qui vient de faire appel du jugement rendu par le tribunal judiciaire de Paris. Explications.",
@@ -346,6 +669,51 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2802,
+    "titre": "Sylvain Berrios, député de Saint-Maur, visé par une plainte pour prise illégale d’intérêt",
+    "contenu": "L’ex-maire LR de Saint-Maur, devenu député, réfute toutes les accusations de l’association AC !, qui le soupçonne d’avoir favorisé l’entreprise de sa compagne. Il regrette des « rumeurs » sur sa vie privée. Le parquet de Créteil a ouvert une enquête.",
+    "url": "https://www.leparisien.fr/val-de-marne-94/sylvain-berrios-depute-de-saint-maur-vise-par-une-plainte-pour-prise-illegale-dinteret-26-11-2024-LM63OIFD5RE6JIR7VU4LXBUBDY.php?ts=1732981335546",
+    "date": "2024-11-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2781,
+        "value": "94 - Val-de-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2315,
+        "value": "Sylvain Berrios"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 12,
+        "value": "Horizons"
+      },
+      {
+        "id": 159,
+        "value": "AC !! Anti-Corruption"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2775,
@@ -102626,6 +102994,22 @@
   },
   {
     "id": 2102,
+    "titre": "",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2798,
     "titre": "",
     "contenu": "",
     "url": "",
