@@ -288,6 +288,54 @@
     "a_la_une": false
   },
   {
+    "id": 2807,
+    "titre": "Un arrangement administratif entre la France et la Suisse fait perdre 300 millions d'euros aux comptes publics chaque année",
+    "contenu": "Un règlement entre les deux pays permet aux grands groupes français internationaux de bénéficier d’un régime dérogatoire avantageux, certains de leurs cadres hauts placés échappent ainsi aux cotisations sociales françaises.",
+    "url": "https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/info-franceinfo-un-reglement-entre-la-france-et-la-suisse-fait-perdre-300-millions-d-euros-aux-comptes-publics_6895523.html",
+    "date": "2024-11-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2812,
+        "value": "Suisse"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      },
+      {
+        "id": 150,
+        "value": "TotalEnergies"
+      },
+      {
+        "id": 1071,
+        "value": "Michelin"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2800,
     "titre": "De la prison ferme et de l'inéligibilité avec exécution provisoire requises contre le maire de Bouéni",
     "contenu": "Le maire de Bouéni, Mouslim Abdourahaman, était jugé ce mardi pour favoritisme et prise illégale d'intérêt dans le cadre de marché public. Le parquet a requis trois ans de prison, dont un avec sursis, 100.000 euros d'amende, mais aussi une peine d'inéligibilité avec exécution provisoire, c'est-à-dire une perte immédiate de son mandat.",
