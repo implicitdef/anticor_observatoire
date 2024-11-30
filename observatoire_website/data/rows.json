@@ -1,5 +1,54 @@
 [
   {
+    "id": 2797,
+    "titre": "La justice ouvre une enquête contre la députée RN Christine Engrand",
+    "contenu": "La députée du Pas-de-Calais est soupçonnée de détournements de fonds publics. Elle avait pioché dans son enveloppe de l’Assemblée pour payer notamment la pension de ses deux chiens ou les obsèques de sa mère, comme l’avait révélé Mediapart.",
+    "url": "https://www.mediapart.fr/journal/france/291124/la-justice-ouvre-une-enquete-contre-la-deputee-rn-christine-engrand",
+    "date": "2024-11-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2752,
+        "value": "62 - Pas-de-Calais"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 177,
+        "value": "Christine Engrand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2788,
     "titre": "Appel du parquet national financier : Nicolas Best sera rejugé devant la cour d’appel de Paris",
     "contenu": "Nicolas Best, l’ancien directeur du CHU de Nîmes et d’Annecy était jugé à Paris pour favoritisme et corruption sur fond d’attribution de travaux. Il était poursuivi par le parquet national financier qui vient de faire appel du jugement rendu par le tribunal judiciaire de Paris. Explications.",
