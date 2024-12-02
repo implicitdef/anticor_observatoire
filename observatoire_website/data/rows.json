@@ -1,5 +1,162 @@
 [
   {
+    "id": 2810,
+    "titre": "Scandale « CumCum » : le gouvernement français refuse de bloquer des techniques de contournement de l’impôt sur les dividendes, révélées en 2018 par « Le Monde »",
+    "contenu": "Des élus tentent de profiter des discussions sur le budget 2025 pour éliminer définitivement cette fraude fiscale sophistiquée, qui rapporterait entre 1,5 et 3 milliards d’euros de rentrées fiscales supplémentaires par an. Mais le gouvernement s’oppose à ces solutions.",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2024/12/02/scandale-cumcum-le-gouvernement-francais-s-aligne-sur-les-banques-face-aux-tentatives-de-mettre-fin-a-la-fraude-sur-les-dividendes_6424588_4355770.html",
+    "date": "2024-12-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2319,
+        "value": "Laurent Saint-Martin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 137,
+        "value": "Société générale"
+      },
+      {
+        "id": 147,
+        "value": "Fédération bancaire française"
+      },
+      {
+        "id": 511,
+        "value": "BPCE"
+      },
+      {
+        "id": 1073,
+        "value": "Natixis"
+      },
+      {
+        "id": 1074,
+        "value": "HSBC"
+      },
+      {
+        "id": 1075,
+        "value": "Crédit Agricole"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2808,
+    "titre": "Une enquête ouverte sur des aides accordées par la Région à deux écoles Espérance banlieues",
+    "contenu": "Saisi par un signalement du groupe local Anticor 44, le parquet de Nantes a lancé une enquête pour vérifier dans quelles conditions la Région a octroyé des subventions à deux écoles du réseau Espérance banlieues, à Angers et au Mans. La participation aux votes d’un des membres fondateurs d’une des écoles est scrutée de près.",
+    "url": "https://www.ouest-france.fr/education/ecole/une-enquete-ouverte-sur-des-aides-accordees-par-la-region-a-deux-ecoles-esperance-banlieues-a796ddfe-ae27-11ef-b968-56ee5c51c9ef",
+    "date": "2024-11-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2738,
+        "value": "44 - Loire-Atlantique"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 1072,
+        "value": "Espérance banlieues"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2811,
+    "titre": "À Saint-Martin-de-Valgalgues, le maire emploie la femme du premier adjoint, l’opposition saisit la justice",
+    "contenu": "Les élus d’opposition de la commune du nord d’Alès y voient une suspicion de prise illégale d’intérêts. Ils comptent saisir le procureur de la République.",
+    "url": "https://www.midilibre.fr/2024/11/29/a-saint-martin-de-valgalgues-le-maire-emploie-la-femme-du-premier-adjoint-lopposition-saisit-la-justice-12355432.php",
+    "date": "2024-11-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2724,
+        "value": "30 - Gard"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2320,
+        "value": "Claude Cerpedes"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 300,
+        "value": "Parti communiste français (PCF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2797,
     "titre": "La justice ouvre une enquête contre la députée RN Christine Engrand",
     "contenu": "La députée du Pas-de-Calais est soupçonnée de détournements de fonds publics. Elle avait pioché dans son enveloppe de l’Assemblée pour payer notamment la pension de ses deux chiens ou les obsèques de sa mère, comme l’avait révélé Mediapart.",
@@ -43,6 +200,47 @@
       {
         "id": 2692,
         "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2812,
+    "titre": "Le directeur financier du CHU de Nice condamné à de la prison avec sursis pour escroquerie",
+    "contenu": "Dans le cadre d’une procédure de reconnaissance de culpabilité de faits d’abus de confiance et d’escroquerie, le directeur des affaires financières du CHU de Nice (Alpes-Maritimes) a récemment été condamné à trois ans de prison avec sursis.",
+    "url": "https://www.ouest-france.fr/provence-alpes-cote-dazur/nice-06000/le-directeur-financier-du-chu-de-nice-condamne-a-de-la-prison-avec-sursis-pour-escroquerie-73233376-ae61-11ef-8992-707451e15361",
+    "date": "2024-11-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1888,
+        "value": "Philippe Klimczak"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 635,
+        "value": "Centre Hospitalier Universitaire de Nice (CHU de Nice)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
       }
     ],
     "titre_corrige": "",
@@ -285,7 +483,69 @@
     ],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
+  },
+  {
+    "id": 2809,
+    "titre": "Trafic d’influence au profit de LVMH : 4 ans de prison avec sursis requis contre Bernard Squarcini",
+    "contenu": "Le parquet a requis ce jeudi quatre ans d’emprisonnement à l’encontre de l’ex-patron du renseignement intérieur Bernard Squarcini. Il est notamment accusé d’avoir organisé une opération de surveillance de François Ruffin et du journal « Fakir » pour le compte du groupe de luxe LVMH, détenu par Bernard Arnault.",
+    "url": "https://www.ouest-france.fr/societe/justice/trafic-dinfluence-au-profit-de-lvmh-4-ans-de-prison-avec-sursis-requis-contre-bernard-squarcini-5428856c-adcf-11ef-9b54-3c56a96f72e2",
+    "date": "2024-11-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 496,
+        "value": "François Ruffin"
+      },
+      {
+        "id": 690,
+        "value": "Bernard Arnault"
+      },
+      {
+        "id": 719,
+        "value": "Bernard Squarcini"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      },
+      {
+        "id": 152,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      },
+      {
+        "id": 843,
+        "value": "Fakir"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3042,
+        "value": "Renseignement"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
   },
   {
     "id": 2807,
@@ -417,7 +677,7 @@
     "theme": [],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 2788,
