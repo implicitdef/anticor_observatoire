@@ -1,5 +1,282 @@
 [
   {
+    "id": 2818,
+    "titre": "Cipav : franc-maçonnerie affairiste, corruption, commissions occultes… La justice épingle la caisse de retraite",
+    "contenu": "Quatre personnes, dont le directeur général et l’ex-présidente du conseil d’administration de la caisse des indépendants et des autoentrepreneurs, ont été mises en examen en octobre, notamment pour «corruption» ou «prise illégale d’intérêts». La vente d’immeubles à Paris est décortiquée par les enquêteurs.",
+    "url": "https://www.liberation.fr/societe/police-justice/cipav-franc-maconnerie-affairiste-corruption-commissions-occultes-la-justice-epingle-la-caisse-de-retraite-20241203_PDGGLEEKBRDYBP3VUCXIDRD2GI/",
+    "date": "2024-12-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2324,
+        "value": "François Clouet"
+      },
+      {
+        "id": 2325,
+        "value": "Marie-Laure Schneider"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 6,
+        "value": "Cour des comptes (CDC)"
+      },
+      {
+        "id": 283,
+        "value": "Caisse interprofessionnelle de prévoyance et d'assurance vieillesse des professions libérales (CIPAV)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2682,
+        "value": "Social"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2822,
+    "titre": "Enquête sur les sources du site d'investigation Disclose : la journaliste Ariane Lavrilleux convoquée par une juge",
+    "contenu": "La journaliste du site d'investigation Disclose Ariane Lavrilleux, visée par une enquête sur des atteintes au secret défense, est convoquée le 17 janvier par une juge d'instruction en vue d'une mise en examen pour \"appropriation et divulgation d'un secret de la défense nationale\", a annoncé mardi 3 décembre le média dans un communiqué(Nouvelle fenêtre). Le parquet de Paris n'a pas souhaité confirmer cette convocation.",
+    "url": "https://www.francetvinfo.fr/economie/medias/enquete-sur-les-sources-du-site-d-investigation-disclose-la-journaliste-ariane-lavrilleux-convoquee-par-une-juge_6933821.html",
+    "date": "2024-12-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1150,
+        "value": "Ariane Lavrilleux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 152,
+        "value": "Direction générale de la Sécurité intérieure (DGSI)"
+      },
+      {
+        "id": 354,
+        "value": "Disclose"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias / Divertissement"
+      },
+      {
+        "id": 3042,
+        "value": "Renseignement"
+      },
+      {
+        "id": 2656,
+        "value": "Armement"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2816,
+    "titre": "Le président du conseil départemental de la Somme, Stéphane Haussoulier, condamné à trois ans de prison avec sursis pour escroquerie et blanchiment d'argent",
+    "contenu": "La justice lui reproche le détournement de près de 370 000 euros, sur une période allant de juin 2016 à décembre 2023, dans le cadre de ses différentes fonctions : vice-président puis président du département de la Somme, maire de Saint-Valery-sur-Somme, président du syndicat mixte de la Baie de Somme et secrétaire de la Fédération régionale des travaux publics des Hauts-de-France. Stéphane Haussoulier avait demandé, sur cette période de sept ans, le remboursement en double voire en triple de 173 notes de frais.",
+    "url": "https://www.francetvinfo.fr/faits-divers/justice-proces/le-president-du-conseil-departemental-de-la-somme-stephane-haussoulier-condamne-a-trois-ans-de-prison-avec-sursis-pour-abus-de-confiance-escroquerie-et-blanchiment-d-argent_6933566.html",
+    "date": "2024-12-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2770,
+        "value": "80 - Somme"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1330,
+        "value": "Stéphane Haussoulier"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2817,
+    "titre": "La France épingle les opérations d’influence de l’Azerbaïdjan auprès des indépendantistes des outre-mer",
+    "contenu": "Viginum, le service de l’Etat chargé de détecter les «ingérences numériques étrangères», détaille dans un rapport les campagnes en ligne menées autour du «Baku Initiative Group», une organisation azerbaïdjanaise dont l’activité se focalise sur les mouvements indépendantistes des outre-mer français.",
+    "url": "https://www.liberation.fr/international/europe/la-france-epingle-les-operations-dinfluence-de-lazerbaidjan-aupres-des-independantistes-des-outre-mer-20241202_TTTTR2WBIVA6TMKZ57NDPA7NGA/?redirected=1",
+    "date": "2024-12-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2791,
+        "value": "Azerbaïdjan"
+      },
+      {
+        "id": 2788,
+        "value": "98 - Nouvelle Calédonie"
+      },
+      {
+        "id": 2789,
+        "value": "987 - Polynésie Française"
+      },
+      {
+        "id": 2784,
+        "value": "972 - Martinique"
+      },
+      {
+        "id": 2785,
+        "value": "973 - Guyane"
+      },
+      {
+        "id": 2722,
+        "value": "2A - Corse-du-Sud"
+      },
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1597,
+        "value": "Ilham Aliyev"
+      },
+      {
+        "id": 2323,
+        "value": "Kemi Seba"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1076,
+        "value": "Viginum"
+      },
+      {
+        "id": 1077,
+        "value": "Baku Initiative Group"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2821,
+    "titre": "Les liens cachés d’un géant du journalisme avec le gouvernement américain",
+    "contenu": "L’OCCRP, le plus important réseau de médias d’investigation au monde, a dissimulé l’ampleur de ses liens avec le gouvernement américain, qui fournit la moitié de son budget, bénéficie d’un droit de veto sur ses dirigeants et finance des enquêtes sur la Russie ou le Venezuela.",
+    "url": "https://www.mediapart.fr/journal/international/021224/les-liens-caches-d-un-geant-du-journalisme-avec-le-gouvernement-americain",
+    "date": "2024-12-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2796,
+        "value": "États-Unis"
+      },
+      {
+        "id": 2811,
+        "value": "Russie"
+      },
+      {
+        "id": 3950,
+        "value": "Venezuela"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2327,
+        "value": "Drew Sullivan"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 731,
+        "value": "Organized Crime and Corruption Reporting Project (OCCRP)"
+      },
+      {
+        "id": 1078,
+        "value": "Agence des États-Unis pour le développement international (USAID)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias / Divertissement"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2810,
     "titre": "Scandale « CumCum » : le gouvernement français refuse de bloquer des techniques de contournement de l’impôt sur les dividendes, révélées en 2018 par « Le Monde »",
     "contenu": "Des élus tentent de profiter des discussions sur le budget 2025 pour éliminer définitivement cette fraude fiscale sophistiquée, qui rapporterait entre 1,5 et 3 milliards d’euros de rentrées fiscales supplémentaires par an. Mais le gouvernement s’oppose à ces solutions.",
@@ -125,6 +402,42 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2824,
+    "titre": "Détournement de fonds et fausse facture, l’ex-comptable de la municipalité condamnée",
+    "contenu": "Une comptable qui travaillait pour la municipalité de Jussey a été condamnée par le tribunal de Vesoul. Elle a été reconnue coupable d’avoir détourné l’argent des régies de la commune ainsi que d’avoir falsifié une facture du Centre communal d’action social (CCAS). Le mari de la prévenue ainsi qu’un membre du CCAS ont également été condamnés.",
+    "url": "https://www.estrepublicain.fr/faits-divers-justice/2024/11/30/detournement-de-fonds-et-fausse-facture-l-ex-comptable-de-la-municipalite-condamnee",
+    "date": "2024-11-30",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 3951,
+        "value": "70 - Haute-Saône"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1079,
+        "value": "Centre communal d’action social (CCAS) de Jussey"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -556,6 +869,46 @@
     "a_la_une": false
   },
   {
+    "id": 2823,
+    "titre": "Le procès de la vente du domaine des Albatros, à Penmarc’h, renvoyé au 26 juin 2025",
+    "contenu": "Une ancienne élue de Penmarc’h (Finistère) était convoquée devant le tribunal de Quimper. Elle est prévenue dans une affaire de prise illégale d’intérêts par un élu public dans une affaire dont il assure l’administration ou la surveillance. L’audience a été renvoyée au 26 juin 2025.",
+    "url": "https://quimper.maville.com/actu/actudet_-le-proces-de-la-vente-du-domaine-des-albatros-a-penmarc-h-renvoye-au-26-juin-2025-_-6573757_actu.Htm",
+    "date": "2024-11-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2721,
+        "value": "29 - Finistère"
+      },
+      {
+        "id": 2765,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1314,
+        "value": "Nathalie Poulard"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2803,
     "titre": "Patrick Balkany demande l'annulation de sa peine d'inéligibilité pour se représenter à Levallois-Perret en 2026",
     "contenu": "Patrick Balkany a récemment saisi la justice pour faire annuler la peine d’inéligibilité à laquelle il a été condamné, en 2019. Il souhaite pouvoir ainsi se présenter aux élections municipales de 2026 dans son fief de Levallois-Perret (Hauts-de-Seine).",
@@ -845,6 +1198,88 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2819,
+    "titre": "Le procès de Valérie Bozzi, la maire de Grosseto-Prugna, à nouveau renvoyé",
+    "contenu": "L'élue de droite devait être jugée ce 27 novembre aux côtés de deux autres prévenus, dont son compagnon, dans une affaire d'attribution de marché public portant sur un dispositif de vidéosurveillance à Porticcio. Le dossier sera audiencé le 12 mars.",
+    "url": "https://www.corsematin.com/article/faits-diversjustice/1248488383841415/prise-illegale-dinterets-le-proces-de-valerie-bozzi-la-maire-de-grosseto-prugna-a-nouveau-renvoye",
+    "date": "2024-11-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1158,
+        "value": "Valérie Bozzi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2820,
+    "titre": "Six ans plus tard, l’affaire Alain Suguenot refait surface : des élus ont été entendus par la police",
+    "contenu": "Pendant que le maire de Beaune Alain Suguenot préparait la 164e Vente des vins, des policiers de l’office central de lutte contre la corruption et les infractions financières et fiscales ont interrogé de nombreux élus sur l’implication de son épouse et de sa fille dans son travail de parlementaire, au commissariat de Chenôve.",
+    "url": "https://www.bienpublic.com/faits-divers-justice/2024/11/27/affaire-suguenot-des-elus-ont-ete-entendus-par-la-police",
+    "date": "2024-11-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2714,
+        "value": "21 - Côte-d'Or"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2326,
+        "value": "Alain Suguenot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2788,
@@ -18667,6 +19102,10 @@
       {
         "id": 2721,
         "value": "29 - Finistère"
+      },
+      {
+        "id": 2765,
+        "value": "92 - Hauts-de-Seine"
       }
     ],
     "personnalites": [
@@ -71098,6 +71537,10 @@
       {
         "id": 2721,
         "value": "29 - Finistère"
+      },
+      {
+        "id": 2765,
+        "value": "92 - Hauts-de-Seine"
       }
     ],
     "personnalites": [
@@ -80180,7 +80623,7 @@
       },
       {
         "id": 1597,
-        "value": "lham Aliyev"
+        "value": "Ilham Aliyev"
       },
       {
         "id": 1598,
