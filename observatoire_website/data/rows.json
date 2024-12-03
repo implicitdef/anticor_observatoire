@@ -81,6 +81,54 @@
     "a_la_une": false
   },
   {
+    "id": 2814,
+    "titre": "Biens mal acquis et esclavage moderne : les oubliés du domaine de Rifaat al-Assad",
+    "contenu": "Dans les années 1980, l’oncle du dictateur syrien, alors en rupture de ban, s’est installé dans un immense domaine du Val-d’Oise, avec des dizaines de salariés. Depuis, il a été condamné pour blanchiment d’argent et détournement de fonds publics. Les familles autrefois à son service ont été abandonnées à leur sort.",
+    "url": "https://www.mediapart.fr/journal/france/011224/biens-mal-acquis-et-esclavage-moderne-les-oublies-du-domaine-de-rifaat-al-assad",
+    "date": "2024-12-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2782,
+        "value": "95 - Val-d'Oise"
+      },
+      {
+        "id": 2813,
+        "value": "Syrie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1528,
+        "value": "Bachar al-Assad"
+      },
+      {
+        "id": 1529,
+        "value": "Rifaat al-Assad"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 125,
+        "value": "Agence de Gestion et de Recouvrement des Avoirs Saisis et Confisqués (AGRASC)"
+      },
+      {
+        "id": 141,
+        "value": "Sherpa"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2808,
     "titre": "Une enquête ouverte sur des aides accordées par la Région à deux écoles Espérance banlieues",
     "contenu": "Saisi par un signalement du groupe local Anticor 44, le parquet de Nantes a lancé une enquête pour vérifier dans quelles conditions la Région a octroyé des subventions à deux écoles du réseau Espérance banlieues, à Angers et au Mans. La participation aux votes d’un des membres fondateurs d’une des écoles est scrutée de près.",
@@ -241,6 +289,125 @@
       {
         "id": 2689,
         "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2813,
+    "titre": "Révélations sur les crèches privées : la ministre chargée de la petite enfance annonce avoir saisi le procureur",
+    "contenu": "La saisie concerne essentiellement les dénonciations contenues dans le livre de Victor Castanet, portant sur les pratiques d’optimisation financière du groupe People & Baby, selon l’entourage de la ministre à l’Agence France-Presse.",
+    "url": "https://www.lemonde.fr/societe/article/2024/11/29/revelations-sur-les-creches-privees-la-ministre-chargee-de-la-petite-enfance-annonce-avoir-saisi-le-procureur_6420268_3224.html",
+    "date": "2024-11-29",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 962,
+        "value": "Victor Castanet"
+      },
+      {
+        "id": 2256,
+        "value": "Christophe Durieux"
+      },
+      {
+        "id": 2321,
+        "value": "Agnès Canayer"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1043,
+        "value": "People and baby"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2682,
+        "value": "Social"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2815,
+    "titre": "18 millions d'euros destinés à l’habitat détournés, l’ancien président de l’OPH de Bobigny mis en examen",
+    "contenu": "Dans l'affaire de détournements de fonds publics concernant l'OPH de Bobigny, l’ancien président et un directeur de l’OPH de Bobigny ont été mis en examen. Une information judiciaire a été ouverte. L’enquête se poursuit.",
+    "url": "https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/exclusif-18-millions-d-euros-destines-a-l-habitat-detournes-l-ancien-president-de-l-oph-de-bobigny-mis-en-examen-3067228.html",
+    "date": "2024-11-28",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2766,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1178,
+        "value": "Jonathan Berrebi"
+      },
+      {
+        "id": 2322,
+        "value": "Mallé Koïta"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 33,
+        "value": "Brigade de répression de la délinquance économique (BRDE)"
+      },
+      {
+        "id": 254,
+        "value": "Union des démocrates et indépendants (UDI)"
+      },
+      {
+        "id": 433,
+        "value": "Est Ensemble Habitat"
+      },
+      {
+        "id": 520,
+        "value": "Agence nationale de contrôle du logement social (ANCOLS)"
+      },
+      {
+        "id": 521,
+        "value": "Office Public de l'Habitat (OPH) de Bobigny"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3053,
+        "value": "Logement"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
       }
     ],
     "titre_corrige": "",
