@@ -1,5 +1,132 @@
 [
   {
+    "id": 2831,
+    "titre": "Au Havre, une directrice d'association licenciée sur fond de soupçons de malversations financières",
+    "contenu": "La directrice de l'association Nautilia, spécialisée dans la prise en charge des personnes souffrant d'addictions ou victimes de violences conjugales, a été remerciée après la découverte par l'ARS Normandie de \"dépenses injustifiables et injustifiées\". Une procédure judiciaire pénale est en cours.",
+    "url": "https://www.lepoulpe.info/au-havre-une-directrice-d-association-licenciee-sur-fond-de-soupcons-de-malversations-financieres",
+    "date": "2024-12-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2763,
+        "value": "76 - Seine-Maritime"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2336,
+        "value": "Cécile Boeuf"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1083,
+        "value": "Nautilia"
+      },
+      {
+        "id": 1084,
+        "value": "Oppelia"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2682,
+        "value": "Social"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2833,
+    "titre": "Karaté : une plainte pénale dénonce de « graves dysfonctionnements » au sein de la fédération",
+    "contenu": "Treize licenciés de la FFKDA ont porté plainte contre X pour des soupçons de corruption passive et de trafic d’influence passif, de faux et usurpation de titres au sein de la fédération, mercredi 4 décembre, veille des élections fédérales.",
+    "url": "https://www.lemonde.fr/sport/article/2024/12/05/karate-une-plainte-penale-denonce-de-graves-dysfonctionnements-au-sein-de-la-federation_6431804_3242.html",
+    "date": "2024-12-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1086,
+        "value": "Fédération française de karaté (FFK / FFKAMA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2832,
+    "titre": "Le procès du maire de Saint-Pryvé-Saint-Mesmin, Thierry Cousin, finalement reporté",
+    "contenu": "L'édile devait être jugé pour prise illégale d’intérêts et corruption passive, jeudi 5 décembre, devant le tribunal correctionnel d'Orléans. Mais le procès a finalement dû être reporté.",
+    "url": "https://www.larep.fr/saint-pryve-saint-mesmin-45750/actualites/le-proces-du-maire-de-saint-pryve-saint-mesmin-thierry-cousin-finalement-reporte_14607543/",
+    "date": "2024-12-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2739,
+        "value": "45 - Loiret"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 606,
+        "value": "Thierry Cousin"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1085,
+        "value": "Pierrimmo conseil"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2828,
     "titre": "Procès de Jean-Marie Bernard: trois ans d'inéligibilité requis",
     "contenu": "15 mois d'emprisonnement avec sursis, 10.000 euros d'amende et trois ans inéligibilité: voici ce qui a été requis contre Jean-Marie Bernard mercredi 4 décembre. Il était jugé pour détournement, prise illégale d’intérêt et favoritisme dans le cadre de deux affaires distinctes.",
@@ -36,6 +163,91 @@
     "a_la_une": false
   },
   {
+    "id": 2830,
+    "titre": "Reconnu coupable de prise illégale d'intérêts, l'ancien maire d'Hesdin condamné à porter un bracelet électronique",
+    "contenu": "L'ex-plus jeune maire de France va devoir le porter pendant huit mois. Stéphane Sieczkowski écope également d'une peine d'inéligibilité de 5 ans.",
+    "url": "https://www.francetvinfo.fr/faits-divers/justice-proces/pas-de-calais-reconnu-coupable-de-prise-illegale-d-interets-l-ancien-maire-d-hesdin-condamne-a-porter-un-bracelet-electronique_6937571.html",
+    "date": "2024-12-05",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2752,
+        "value": "62 - Pas-de-Calais"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 924,
+        "value": "Stéphane Sieczkowski-Samier"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2829,
+    "titre": "Affaire du cirque Georget près de Tours : le maire de Luynes dans le viseur d’Anticor",
+    "contenu": "Une enquête préliminaire doit permettre de se pencher sur le volet financier de l’affaire du cirque Georget après que l’association Anticor 41 a signalé au procureur des soupçons de détournement de biens publics à Luynes, apprend-on mercredi 4 décembre 2024.",
+    "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/luynes/affaire-du-cirque-georget-pres-de-tours-le-maire-de-luynes-dans-le-viseur-d-anticor",
+    "date": "2024-12-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2735,
+        "value": "41 - Loir-et-Cher"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2334,
+        "value": "Hervé Georget"
+      },
+      {
+        "id": 2335,
+        "value": "Bertrand Ritouret"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 1082,
+        "value": "Cirque Georget"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2827,
     "titre": "Appel d’offres \"bidon\", documents antidatés… Des élus accusés de favoritisme et de prise illégale d’intérêt à Massat",
     "contenu": "Mardi 3 décembre, le maire de Massat Michel Loubet, son adjoint Bernard Viprey et l’ancien président de l’association Pays de l’Ours – Adet François Arcangeli, architecte de métier, comparaissaient devant le tribunal de Foix pour des soupçons de favoritisme, de faux et usage de faux et de recel de favoritisme dans le cadre de la construction de la halle du Pouech.",
@@ -62,7 +274,12 @@
         "value": "François Arcangeli"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 1081,
+        "value": "Pays de l’Ours – Adet"
+      }
+    ],
     "categorie": [
       {
         "id": 2652,
@@ -268,6 +485,59 @@
     "a_la_une": true
   },
   {
+    "id": 2834,
+    "titre": "Soupçons de conflit d'intérêts : Alexis Kohler dénonce la confirmation des poursuites et se pourvoit en cassation",
+    "contenu": "Le secrétaire général de l'Elysée Alexis Kohler dénonce le rejet \"ubuesque\" par la cour d'appel de Paris la semaine dernière de la prescription des faits de prise illégale d'intérêts qui lui sont reprochés et annonce se pourvoir en cassation, dans un communiqué transmis mardi à l'AFP.",
+    "url": "https://www.challenges.fr/politique/soupcons-de-conflit-d-interets-alexis-kohler-denonce-la-confirmation-des-poursuites-et-se-pourvoit-en-cassation_913418",
+    "date": "2024-12-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1068,
+        "value": "Alexis Kohler"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 268,
+        "value": "Mediterranean Shipping Company (MSC)"
+      },
+      {
+        "id": 988,
+        "value": "Chantiers de l’Atlantique (ex-STX France)"
+      },
+      {
+        "id": 989,
+        "value": "Grand port maritime du Havre (GPMH)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2825,
     "titre": "Agrivoltaïsme : la Coordination Rurale de Corrèze demande l'ouverture d'une enquête pour trafic d'influence",
     "contenu": "La présidente de la Coordination Rurale 19 a déposé une requête pour ouvrir une enquête sur la Foncière Rurale au tribunal de Tulle, ce lundi 2 décembre. Le syndicat s'inquiète d'un possible conflit d'intérêts et de trafic d'influence au sein de cet organisme chargé d'acquérir des terres pour installer des panneaux photovoltaïques.",
@@ -308,6 +578,37 @@
       {
         "id": 2652,
         "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2835,
+    "titre": "Dans les cabinets ministériels, la tendance naissante des déports préventifs",
+    "contenu": "Mieux vaut prévenir que guérir. Dans les cabinets ministériels, l’expression pourrait devenir le nouveau credo de ceux qui voient, dans les règles imposées pour prévenir les conflits d’intérêts, un frein à leurs carrières construites entre secteur privé et secteur public.\n\nPour éviter un futur refus de la Haute autorité de la transparence de la vie publique (HATVP), certains conseillers prennent désormais leurs précautions avant même de rejoindre l’équipe d’un ministre : ils se déportent des entreprises — ou des secteurs entiers — qu’ils pourraient être amenés à rejoindre à leur départ, selon plusieurs témoignages anonymes glanés par Politico.",
+    "url": "https://www.politico.eu/article/dans-les-cabinets-ministeriels-la-tendance-naissante-des-deports-preventifs/",
+    "date": "2024-12-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
       }
     ],
     "theme": [],
@@ -527,6 +828,71 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2836,
+    "titre": "Soupçons de favoritisme à la Caisse des dépôts: un an de prison ferme requis contre le PDG des aéroports de Paris",
+    "contenu": "A l’encontre d’Augustin de Romanet, le parquet a requis trois ans d’emprisonnement dont deux avec sursis, ainsi qu’une amende de 200.000 euros. Quant à Jean-Pierre Jouyet, le ministère public a estimé que le prévenu avait adopté un « positionnement plus sain » et « différent » de celui de ses coprévenus et requis en conséquence un an de prison avec sursis et 50.000 euros d’amende à son encontre.  A l’encontre d’Alain Bauer, poursuivi pour recel de favoritisme et recel de détournement de fonds publics, le parquet a requis trois ans de prison dont deux avec sursis, 375.000 euros d’amende ainsi qu’une exclusion des marchés publics pour une période de cinq ans, estimant qu’il avait « bénéficié des contreparties financières » émanant de ces contrats.",
+    "url": "https://www.mediapart.fr/journal/fil-dactualites/021224/soupcons-de-favoritisme-la-caisse-des-depots-un-de-prison-ferme-requis-contre-le-pdg-des-aeroport",
+    "date": "2024-12-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 619,
+        "value": "Jean-Pierre Jouyet"
+      },
+      {
+        "id": 729,
+        "value": "Augustin de Romanet"
+      },
+      {
+        "id": 1219,
+        "value": "Alain Bauer"
+      },
+      {
+        "id": 1458,
+        "value": "Xavier Raufer (Christian de Bongain)"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 42,
+        "value": "Caisse des dépôts et consignations (CDC)"
+      },
+      {
+        "id": 109,
+        "value": "Aéroports de Paris (ADP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
