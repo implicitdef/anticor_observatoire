@@ -1,5 +1,255 @@
 [
   {
+    "id": 2841,
+    "titre": "A l’Ecole polytechnique, du flou et des doutes autour du remboursement de la « pantoufle »",
+    "contenu": "Après la réforme de 2015, une première promotion de polytechniciens est appelée à rembourser la rémunération perçue pendant leur scolarité s’ils n’ont pas suffisamment travaillé pour l’Etat.",
+    "url": "https://www.lemonde.fr/campus/article/2024/12/10/a-l-ecole-polytechnique-du-flou-et-des-doutes-autour-du-remboursement-de-la-pantoufle_6439196_4401467.html",
+    "date": "2024-12-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2764,
+        "value": "91 - Essonne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 273,
+        "value": "École polytechnique"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2665,
+        "value": "Éducation / Enseignement / Recherche"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2838,
+    "titre": "Corruption : près de 80 % des affaires d’atteinte à la probité concernent les hommes",
+    "contenu": "La corruption était l’infraction pénale la plus représentée dans les affaires jugées en première instance pour des atteintes à la probité en 2021 et 2022, suivie de celle de détournement de fonds ou de biens publics, selon une étude de l’Agence française anticorruption (AFA) publiée lundi 9 décembre. A l’occasion de la Journée internationale de lutte contre la corruption, l’AFA, créée en 2016 et qui a pour mission d’objectiver le phénomène corruptif, a analysé 504 décisions de justice de première instance rendues entre le 1er janvier 2021 et le 31 décembre 2022 portant sur des atteintes à la probité, correspondant à 489 affaires et 1 350 prévenus.",
+    "url": "https://www.liberation.fr/societe/police-justice/corruption-pres-de-80-des-affaires-datteinte-a-la-probite-concernent-les-hommes-20241209_QC723JDOOFEKFH4VVIWOUMYTSU/?redirected=1&redirected=1",
+    "date": "2024-12-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 74,
+        "value": "Agence française anticorruption (AFA)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2840,
+    "titre": "Les liens financiers et politiques d’un proche de Marine Le Pen avec le régime Al-Assad",
+    "contenu": "Sous couvert d’antisionisme militant et d’opérations publicitaires, Frédéric Chatillon, ancien chef du GUD et vieil ami de Marine Le Pen, s’est converti en lobbyiste du régime syrien.",
+    "url": "https://www.mediapart.fr/journal/politique/091224/les-liens-financiers-et-politiques-d-un-proche-de-marine-le-pen-avec-le-regime-al-assad",
+    "date": "2024-12-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2813,
+        "value": "Syrie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 802,
+        "value": "Frédéric Chatillon"
+      },
+      {
+        "id": 1528,
+        "value": "Bachar al-Assad"
+      },
+      {
+        "id": 2338,
+        "value": "Olivier Duguet"
+      },
+      {
+        "id": 2339,
+        "value": "Saadallah Agha al-Qalaa"
+      },
+      {
+        "id": 2340,
+        "value": "Alain Soral"
+      },
+      {
+        "id": 2341,
+        "value": "Nahed Tlass"
+      },
+      {
+        "id": 2342,
+        "value": "Mustafa Tlass"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 157,
+        "value": "Riwal"
+      },
+      {
+        "id": 1088,
+        "value": "Groupe union défense (GUD)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2837,
+    "titre": "Mélanie Boulanger, ancienne maire de Canteleu, définitivement relaxée des accusations de complicité de trafic de drogue",
+    "contenu": "Le parquet s’étant désisté de l’appel contre le jugement rendu en première instance, l’ancienne maire de Canteleu (Seine-Maritime) Mélanie Boulanger est définitivement relaxée des accusations de complicité de trafic de stupéfiants.",
+    "url": "https://www.lemonde.fr/societe/article/2024/12/09/l-ex-maire-de-canteleu-definitivement-relaxee-des-accusations-de-complicite-de-trafic-de-drogue_6438558_3224.html",
+    "date": "2024-12-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2763,
+        "value": "76 - Seine-Maritime"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 929,
+        "value": "Mélanie Boulanger"
+      },
+      {
+        "id": 1988,
+        "value": "Aziz Meziani"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2664,
+        "value": "Drogue"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement / acquittement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2839,
+    "titre": "Narcotrafic : « Ces millions d’euros à disposition des groupes criminels sont des facteurs de corruption et de déstabilisation majeurs »",
+    "contenu": "Franck Rastoul, procureur général près la cour d’appel d’Aix-en-Provence, estime, dans un entretien au « Monde », que le développement des extorsions à Marseille souligne les velléités de contrôle de territoires de la part de narcotrafiquants aux moyens financiers toujours plus importants.",
+    "url": "https://www.lemonde.fr/societe/article/2024/12/09/narcotrafic-ces-millions-d-euros-a-disposition-des-groupes-criminels-sont-des-facteurs-de-corruption-et-de-destabilisation-majeurs_6438559_3224.html",
+    "date": "2024-12-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2337,
+        "value": "Franck Rastoul"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1087,
+        "value": "DZ Mafia"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2664,
+        "value": "Drogue"
+      },
+      {
+        "id": 2674,
+        "value": "Mafia / Crime organisé"
+      },
+      {
+        "id": 3024,
+        "value": "Justice"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2831,
     "titre": "Au Havre, une directrice d'association licenciée sur fond de soupçons de malversations financières",
     "contenu": "La directrice de l'association Nautilia, spécialisée dans la prise en charge des personnes souffrant d'addictions ou victimes de violences conjugales, a été remerciée après la découverte par l'ARS Normandie de \"dépenses injustifiables et injustifiées\". Une procédure judiciaire pénale est en cours.",
