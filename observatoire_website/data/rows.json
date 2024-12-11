@@ -40,6 +40,42 @@
     "a_la_une": false
   },
   {
+    "id": 2842,
+    "titre": "Le maire de Bouéni condamné à de la prison ferme avec exécution provisoire pour favoritisme et prise illégale d'intérêt",
+    "contenu": "La justice a rendu son jugement ce mardi matin concernant le maire de Bouéni, reconnu coupable de favoritisme et de prise illégale d'intérêt. Mouslim Abdourahaman a notamment été condamné à trois ans de prison, dont un avec sursis, avec exécution provisoire. Il restera donc en prison même s'il fait appel.",
+    "url": "https://la1ere.francetvinfo.fr/mayotte/le-maire-de-boueni-condamne-a-de-la-prison-ferme-avec-execution-provisoire-pour-favoritisme-et-prise-illegale-d-interet-1544035.html",
+    "date": "2024-12-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2787,
+        "value": "976 - Mayotte"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1278,
+        "value": "Mouslim Abdourahaman"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2838,
     "titre": "Corruption : près de 80 % des affaires d’atteinte à la probité concernent les hommes",
     "contenu": "La corruption était l’infraction pénale la plus représentée dans les affaires jugées en première instance pour des atteintes à la probité en 2021 et 2022, suivie de celle de détournement de fonds ou de biens publics, selon une étude de l’Agence française anticorruption (AFA) publiée lundi 9 décembre. A l’occasion de la Journée internationale de lutte contre la corruption, l’AFA, créée en 2016 et qui a pour mission d’objectiver le phénomène corruptif, a analysé 504 décisions de justice de première instance rendues entre le 1er janvier 2021 et le 31 décembre 2022 portant sur des atteintes à la probité, correspondant à 489 affaires et 1 350 prévenus.",
@@ -14206,6 +14242,46 @@
       }
     ],
     "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2843,
+    "titre": "La Cour de justice de l’UE condamne Apple à payer treize milliards d’euros d’arriérés fiscaux",
+    "contenu": "Selon un arrêt de la Cour de justice de l’Union européenne (CJUE), rendu mardi 10 septembre, le géant américain Apple est condamné à verser treize milliards d’euros au gouvernement irlandais.",
+    "url": "https://www.euractiv.fr/section/economie/news/la-cour-de-justice-de-lue-condamne-apple-a-payer-treize-milliards-deuros-darrieres-fiscaux/",
+    "date": "2024-09-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 3952,
+        "value": "Irlande"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1089,
+        "value": "Apple"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 2685,
+        "value": "Technologies"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
