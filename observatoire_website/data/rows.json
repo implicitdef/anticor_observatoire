@@ -1,5 +1,62 @@
 [
   {
+    "id": 2846,
+    "titre": "Condamné pour détournement de fonds, le patron de la droite lyonnaise va devoir démissionner",
+    "contenu": "Le chef de file de la droite à la métropole de Lyon et maire de la commune de Caluire-et-Cuire, Philippe Cochet (LR), a été condamné ce mercredi à un an de prison ferme et cinq ans d’inéligibilité avec exécution provisoire pour détournements de fonds publics.",
+    "url": "https://www.lefigaro.fr/lyon/condamne-pour-detournement-de-fonds-le-patron-de-la-droite-lyonnaise-va-devoir-demissionner-20241211",
+    "date": "2024-12-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1585,
+        "value": "Philippe Cochet"
+      },
+      {
+        "id": 2344,
+        "value": "Laetitia Cochet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2841,
     "titre": "A l’Ecole polytechnique, du flou et des doutes autour du remboursement de la « pantoufle »",
     "contenu": "Après la réforme de 2015, une première promotion de polytechniciens est appelée à rembourser la rémunération perçue pendant leur scolarité s’ils n’ont pas suffisamment travaillé pour l’Etat.",
@@ -40,6 +97,58 @@
     "a_la_une": false
   },
   {
+    "id": 2845,
+    "titre": "La police judiciaire compte créer un groupe d'enquêteurs dédiés à la lutte contre la \"narcorruption\"",
+    "contenu": "La police judiciaire va mettre en place un groupe d'enquêteurs dédiés à la lutte contre la \"narcorruption\", la corruption liée au narcotrafic, devenue l'une des \"premières armes\" du crime organisé, a annoncé mardi 10 décembre à l'AFP le chef de l'office chargé de la lutte contre la grande délinquance financière (OCLCIFF). Les enquêteurs seront intégrés aux effectifs de l'OCLCIFF de la Direction nationale de la police judiciaire (DNPJ). Cet office central, chargé d'enquêter notamment sur les dossiers politico-financiers ou de fraude fiscale les plus complexes, fête cette année ses dix ans.",
+    "url": "https://www.francetvinfo.fr/societe/drogue/la-police-judiciaire-compte-creer-un-groupe-d-enqueteurs-dedies-a-la-lutte-contre-la-narcorruption_6947624.html",
+    "date": "2024-12-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 7,
+        "value": "Ministère de la justice"
+      },
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 189,
+        "value": "Direction nationale de la Police judiciaire (DNPJ)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3024,
+        "value": "Justice"
+      },
+      {
+        "id": 2677,
+        "value": "Police"
+      },
+      {
+        "id": 2664,
+        "value": "Drogue"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2842,
     "titre": "Le maire de Bouéni condamné à de la prison ferme avec exécution provisoire pour favoritisme et prise illégale d'intérêt",
     "contenu": "La justice a rendu son jugement ce mardi matin concernant le maire de Bouéni, reconnu coupable de favoritisme et de prise illégale d'intérêt. Mouslim Abdourahaman a notamment été condamné à trois ans de prison, dont un avec sursis, avec exécution provisoire. Il restera donc en prison même s'il fait appel.",
@@ -70,6 +179,110 @@
       {
         "id": 2689,
         "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2849,
+    "titre": "À Creil, les affaires immobilières de la mairie dans le viseur de la justice",
+    "contenu": "La justice examine des transactions immobilières de la mairie de Creil, un des derniers bastions socialistes des Hauts-de-France. Sur le départ, son édile, Jean-Claude Villemain, a validé plusieurs opérations de cession suspectes.",
+    "url": "https://www.lalettre.fr/fr/action-publique_collectivites-et-territoires/2024/12/09/a-creil-les-affaires-immobilieres-de-la-mairie-dans-le-viseur-de-la-justice%252C110348816-art",
+    "date": "2024-12-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2750,
+        "value": "60 - Oise"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2346,
+        "value": "Jean-Claude Villemain"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2848,
+    "titre": "Areva paye une amende de 4,8 millions d’euros pour mettre fin à des poursuites pour corruption en Mongolie",
+    "contenu": "Le président du tribunal de Paris a accepté une amende, signée le 2 décembre, payée par l’ex-société Areva, de 4,8 millions d’euros contre l’abandon des poursuites pour corruption d’agents publics étrangers, liées à ses activités minières en Mongolie entre 2013 et 2017, lundi 9 décembre. Cet accord a eu lieu dans le cadre d’une convention judiciaire d’intérêt public (CJIP, alternative aux poursuites pour les personnes morales) avec le Parquet national financier (PNF).",
+    "url": "https://www.lemonde.fr/economie/article/2024/12/09/areva-paye-une-amende-de-4-8-millions-d-euros-pour-mettre-fin-a-des-poursuites-pour-corruption-en-mongolie_6438162_3234.html",
+    "date": "2024-12-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3953,
+        "value": "Mongolie"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 32,
+        "value": "Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF)"
+      },
+      {
+        "id": 75,
+        "value": "Thales"
+      },
+      {
+        "id": 140,
+        "value": "Dassault Aviation"
+      },
+      {
+        "id": 176,
+        "value": "Airbus"
+      },
+      {
+        "id": 516,
+        "value": "Areva"
+      },
+      {
+        "id": 1090,
+        "value": "Orano Mining"
+      },
+      {
+        "id": 1091,
+        "value": "Eurotradia"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2691,
+        "value": "Convention judiciaire d'intérêt public (CJIP)"
       }
     ],
     "titre_corrige": "",
@@ -284,6 +497,127 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2851,
+    "titre": "Conflits d'intérêts et ventes immobilières \"discutables\" : la Chambre régionale des comptes s'intéresse à une commune du Loir-et-Cher",
+    "contenu": "Un rapport de la Chambre régionale des comptes pointe des \"risques déontologiques\" dans la gestion de la commune du Controis-en-Sologne, dans le Loir-et-Cher, lorsque Jean-Luc Brault, désormais sénateur, en était le maire.",
+    "url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/loir-cher/conflits-d-interets-et-ventes-immobilieres-discutables-la-chambre-regionale-des-comptes-s-interesse-a-une-commune-du-loir-et-cher-3070720.html",
+    "date": "2024-12-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2735,
+        "value": "41 - Loir-et-Cher"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2194,
+        "value": "Jean-Luc Brault"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 358,
+        "value": "Idex"
+      },
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      },
+      {
+        "id": 1092,
+        "value": "Aqualia"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2850,
+    "titre": "Condamné pour détournement de fonds publics, le président de la Somme a fini par démissionner",
+    "contenu": "Le 3 décembre, Stéphane Haussoulier a été condamné à trois ans de prison avec sursis, 30 000 euros d’amende et trois ans d’inéligibilité. Sous pression, le président du Département de la Somme – qui a fait appel de la décision du tribunal de Beauvais – a annoncé sa démission ce vendredi.",
+    "url": "https://www.lavoixdunord.fr/1531037/article/2024-12-06/condamne-pour-detournement-de-fonds-publics-le-president-de-la-somme-fini-par",
+    "date": "2024-12-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2770,
+        "value": "80 - Somme"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1330,
+        "value": "Stéphane Haussoulier"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2852,
+    "titre": "L’ancien maire de Charenton condamné pour prise illégale d’intérêts dans une construction immobilière",
+    "contenu": "Jean-Marie Brétillon (LR), a été condamné à huit mois de prison avec sursis et à une amende de 10 000 euros. L’ex-élu du Val-de-Marne annonce faire appel de la décision. La majorité municipale a refusé ce mardi de lui accorder la protection fonctionnelle, c’est-à-dire de payer ses frais d’avocat.",
+    "url": "https://www.leparisien.fr/val-de-marne-94/lancien-maire-de-charenton-condamne-pour-prise-illegale-dinterets-dans-une-construction-immobiliere-06-12-2024-U2ZHOPZBKJF2REXVC7SWV75GAE.php",
+    "date": "2024-12-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2781,
+        "value": "94 - Val-de-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2347,
+        "value": "Jean-Marie Brétillon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2831,
@@ -583,6 +917,59 @@
     "a_la_une": false
   },
   {
+    "id": 2853,
+    "titre": "Jean-Marie Bernard jugé devant le tribunal correctionnel pour \"favoritisme\" et \"détournements de fonds publics\"",
+    "contenu": "Le président du conseil départemental des Hautes-Alpes, Jean-Marie Bernard, est jugé ce mercredi devant le tribunal de Lyon dans le cadre d'une procédure ouverture en 2019, notamment pour \"favoritisme\" et \"détournements de fonds publics\".",
+    "url": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/hautes-alpes/jean-marie-bernard-juge-devant-le-tribunal-correctionnel-pour-favoritisme-et-detournements-de-fonds-publics-3070246.html",
+    "date": "2024-12-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2702,
+        "value": "05 - Hautes-Alpes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2080,
+        "value": "Jean-Marie Bernard"
+      },
+      {
+        "id": 2348,
+        "value": "Fabrice Hurth"
+      },
+      {
+        "id": 2349,
+        "value": "Jérôme Scholly"
+      },
+      {
+        "id": 2350,
+        "value": "Béatrice Chevalier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2826,
     "titre": "L'ancien ministre du Travail Olivier Dussopt jugé en appel pour favoritisme",
     "contenu": "L'ancien maire d'Annonay et ancien ministre du Travail Olivier Dussopt est jugé ce mercredi 4 décembre devant la cour d'appel de Paris pour favoritisme. Il avait été relaxé en première instance.",
@@ -624,6 +1011,79 @@
         "value": "Procès"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2854,
+    "titre": "Rachida Dati payée 900 000 euros par Renault : ce que le parquet national financier lui reproche",
+    "contenu": "Après cinq ans d’enquête, le PNF vient de requérir un procès contre l’ex-patron de Renault Carlos Ghosn et la ministre de la culture. Le ministère public estime que si Rachida Dati a été rémunérée, c’était dans le but de défendre les intérêts du constructeur automobile au Parlement européen.",
+    "url": "https://www.mediapart.fr/journal/france/041224/rachida-dati-payee-900-000-euros-par-renault-ce-que-le-parquet-national-financier-lui-reproche",
+    "date": "2024-12-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2758,
+        "value": "68 - Haut-Rhin"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 617,
+        "value": "Carlos Ghosn"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 41,
+        "value": "Renault-Nissan"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2670,
+        "value": "Industrie"
+      },
+      {
+        "id": 2687,
+        "value": "Transports / Logistique"
+      }
+    ],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -682,6 +1142,42 @@
     "a_la_une": false
   },
   {
+    "id": 2844,
+    "titre": "En Isère, la nouvelle préfète obtient pour son fils un passe-droit dans le collège le plus élitiste de Grenoble",
+    "contenu": "Tout juste nommée préfète de l’Isère, Catherine Séguin a inscrit son fils à la Cité scolaire internationale de Grenoble. Sans passer les tests obligatoires pour intégrer cet établissement convoité. Au mépris des textes en vigueur, le rectorat assure que le procédé est « conforme à l’usage ».",
+    "url": "https://www.mediapart.fr/journal/france/031224/en-isere-la-nouvelle-prefete-obtient-pour-son-fils-un-passe-droit-dans-le-college-le-plus-elitiste-de-gren",
+    "date": "2024-12-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2732,
+        "value": "38 - Isère"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2343,
+        "value": "Catherine Séguin"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2665,
+        "value": "Éducation / Enseignement / Recherche"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2822,
     "titre": "Enquête sur les sources du site d'investigation Disclose : la journaliste Ariane Lavrilleux convoquée par une juge",
     "contenu": "La journaliste du site d'investigation Disclose Ariane Lavrilleux, visée par une enquête sur des atteintes au secret défense, est convoquée le 17 janvier par une juge d'instruction en vue d'une mise en examen pour \"appropriation et divulgation d'un secret de la défense nationale\", a annoncé mardi 3 décembre le média dans un communiqué(Nouvelle fenêtre). Le parquet de Paris n'a pas souhaité confirmer cette convocation.",
@@ -730,6 +1226,54 @@
         "value": "Armement"
       }
     ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2847,
+    "titre": "Jordan Bardella remet la main dans le pot de confiture européen",
+    "contenu": "Malgré le procès de Marine Le Pen pour détournement de fonds publics, le grand chef du Rassemblement national espérait toujours faire de l’un de ses collaborateurs son… assistant parlementaire à Bruxelles. Mais après les acrobaties salariales des élus lepénistes, l'institution ne l'a pas entendu de cette oreille.",
+    "url": "https://www.lecanardenchaine.fr/politique/49543-bardella-remet-la-main-dans-le-pot-de-confiture-europeen",
+    "date": "2024-12-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      },
+      {
+        "id": 1019,
+        "value": "Jordan Bardella"
+      },
+      {
+        "id": 2345,
+        "value": "François Paradol"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
