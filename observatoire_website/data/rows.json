@@ -250,6 +250,51 @@
     "a_la_une": false
   },
   {
+    "id": 2861,
+    "titre": "Au tribunal, la banque UBS face à son lanceur d’alerte",
+    "contenu": "Devant le tribunal correctionnel de Paris, qui juge depuis mardi 3 décembre, et pour cinq jours d’audience, son ancien employeur, UBS France, le lanceur d’alerte Nicolas Forissier a raconté comment la banque suisse l’avait « harcelé ». La banque, elle, est constante : elle nie tout en bloc.",
+    "url": "https://www.ouest-france.fr/societe/justice/si-cetait-a-refaire-je-le-referai-au-tribunal-la-banque-ubs-face-a-son-lanceur-dalerte-1afec744-b264-11ef-a378-714f5f35b53b",
+    "date": "2024-12-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 195,
+        "value": "Nicolas Forissier"
+      },
+      {
+        "id": 1386,
+        "value": "Stéphanie Gibaud"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 79,
+        "value": "UBS"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2659,
+        "value": "Banque / Finance / Capital-risque"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2845,
     "titre": "La police judiciaire compte créer un groupe d'enquêteurs dédiés à la lutte contre la \"narcorruption\"",
     "contenu": "La police judiciaire va mettre en place un groupe d'enquêteurs dédiés à la lutte contre la \"narcorruption\", la corruption liée au narcotrafic, devenue l'une des \"premières armes\" du crime organisé, a annoncé mardi 10 décembre à l'AFP le chef de l'office chargé de la lutte contre la grande délinquance financière (OCLCIFF). Les enquêteurs seront intégrés aux effectifs de l'OCLCIFF de la Direction nationale de la police judiciaire (DNPJ). Cet office central, chargé d'enquêter notamment sur les dossiers politico-financiers ou de fraude fiscale les plus complexes, fête cette année ses dix ans.",
