@@ -57,6 +57,159 @@
     "a_la_une": true
   },
   {
+    "id": 2857,
+    "titre": "Karim Oumeddour, élu de Montélimar jugé pour prise illégale d'intérêts",
+    "contenu": "Le conseiller municipal et conseiller départemental de Montélimar Karim Oumeddour était jugé mardi 10 décembre à Valence dans la Drôme, pour prise illégale d'intérêts. Dix-huit mois de prison avec sursis, 30.000 euros d'amende et trois ans d'inéligibilité ont été requis. Jugement le 21 janvier 2025.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/karim-oumeddour-elu-de-montelimar-juge-pour-prise-illegale-d-interets-est-il-victime-d-une-vengeance-politique-3145663",
+    "date": "2024-12-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2718,
+        "value": "26 - Drôme"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2351,
+        "value": "Karim Oumeddour"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 1093,
+        "value": "Urban Trip"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2859,
+    "titre": "L’ex-présidente d’une association de parents d’élèves du Havre condamnée pour avoir détourné 500.000 euros",
+    "contenu": "Deux anciens dirigeants de la PEEP du Havre ont été condamnés mardi pour le détournement de 429.475 euros. L’ex-présidente a écopé de 12 mois de prison avec sursis.",
+    "url": "https://www.20minutes.fr/justice/4128464-20241211-havre-ex-presidente-association-parents-eleves-condamnee-avoir-detourne-500-000-euros",
+    "date": "2024-12-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2763,
+        "value": "76 - Seine-Maritime"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1094,
+        "value": "Fédération des Parents d’Elèves de l’Enseignement Public (PEEP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2860,
+    "titre": "Le jugement en appel d’Olivier Dussopt tombera le 7 février",
+    "contenu": "L’ex-ministre ardéchois Olivier Dussopt (Renaissance) connaîtra la décision de la cour d’appel de Paris le 7 février prochain. Il était soupçonné de « favoritisme » dans l’attribution du marché public de l’eau en 2009, lorsqu’il était maire d’Annonay en Ardèche, au profit du groupe de fourniture et de traitement de l’eau Saur.",
+    "url": "https://www.ledauphine.com/faits-divers-justice/2024/12/11/soupcon-de-favoritisme-le-jugement-en-appel-d-olivier-dussopt-tombera-le-7-fevrier",
+    "date": "2024-12-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2704,
+        "value": "07 - Ardèche"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 608,
+        "value": "Olivier Dussopt"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 93,
+        "value": "Saur (Société d'aménagement urbain et rural)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2858,
+    "titre": "Paul Giacobbi obtient sa protection fonctionnelle devant la justice",
+    "contenu": "Les magistrats du tribunal administratif de Bastia ont annulé la décision de la Collectivité de Corse de refuser la protection fonctionnelle à Paul Giacobbi, ancien président du conseil exécutif de 2010 à 2015. Cela concernait deux dossiers judiciaires.",
+    "url": "https://france3-regions.francetvinfo.fr/corse/paul-giacobbi-obtient-sa-protection-fonctionnelle-devant-la-justice-3074452.html",
+    "date": "2024-12-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2352,
+        "value": "Paul Giacobbi"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2841,
     "titre": "A l’Ecole polytechnique, du flou et des doutes autour du remboursement de la « pantoufle »",
     "contenu": "Après la réforme de 2015, une première promotion de polytechniciens est appelée à rembourser la rémunération perçue pendant leur scolarité s’ils n’ont pas suffisamment travaillé pour l’Etat.",
@@ -289,6 +442,42 @@
     "a_la_une": false
   },
   {
+    "id": 2856,
+    "titre": "CHU de Bordeaux : l’ingénieur général poursuivi pour favoritisme relaxé par le tribunal",
+    "contenu": "Le tribunal correctionnel de Bordeaux a relaxé ce lundi un ingénieur général du CHU qui était poursuivi pour favoritisme dans le cadre de commandes passées auprès d’une entreprise de BTP. Lié par un contrat pluriannuel avec cette société avec un plafond de 500 000 euros, le CHU avait, en 2017 engagé 300 000 euros de commandes supplémentaires avec cette même société. Celles-ci se trouvaient de fait, hors marché.",
+    "url": "https://www.sudouest.fr/gironde/bordeaux/chu-de-bordeaux-l-ingenieur-general-poursuivi-pour-favoritisme-relaxe-par-le-tribunal-22464968.php",
+    "date": "2024-12-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2727,
+        "value": "33 - Gironde"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 1025,
+        "value": "Centre Hospitalier​ Universitaire de Bordeaux (CHU Bordeaux)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement / acquittement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2838,
     "titre": "Corruption : près de 80 % des affaires d’atteinte à la probité concernent les hommes",
     "contenu": "La corruption était l’infraction pénale la plus représentée dans les affaires jugées en première instance pour des atteintes à la probité en 2021 et 2022, suivie de celle de détournement de fonds ou de biens publics, selon une étude de l’Agence française anticorruption (AFA) publiée lundi 9 décembre. A l’occasion de la Journée internationale de lutte contre la corruption, l’AFA, créée en 2016 et qui a pour mission d’objectiver le phénomène corruptif, a analysé 504 décisions de justice de première instance rendues entre le 1er janvier 2021 et le 31 décembre 2022 portant sur des atteintes à la probité, correspondant à 489 affaires et 1 350 prévenus.",
@@ -316,6 +505,47 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2855,
+    "titre": "Lège-Cap-Ferret : le maire et les bateliers relaxés",
+    "contenu": "Le tribunal correctionnel de Bordeaux a relaxé, ce lundi 9 décembre, le maire de Lège-Cap-Ferret Philippe de Gonneville ainsi que le président et l’ex-président de l’Union des bateliers Arcachonnais (UBA).",
+    "url": "https://www.sudouest.fr/gironde/lege-cap-ferret/lege-cap-ferret-le-maire-et-les-bateliers-relaxes-22463903.php",
+    "date": "2024-12-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2727,
+        "value": "33 - Gironde"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2248,
+        "value": "Philippe de Gonneville"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 414,
+        "value": "Union des Bateliers Arcachonnais"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement / acquittement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
