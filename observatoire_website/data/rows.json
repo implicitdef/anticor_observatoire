@@ -1,43 +1,39 @@
 [
   {
-    "id": 2846,
-    "titre": "Condamné pour détournement de fonds, le patron de la droite lyonnaise va devoir démissionner",
-    "contenu": "Le chef de file de la droite à la métropole de Lyon et maire de la commune de Caluire-et-Cuire, Philippe Cochet (LR), a été condamné ce mercredi à un an de prison ferme et cinq ans d’inéligibilité avec exécution provisoire pour détournements de fonds publics.",
-    "url": "https://www.lefigaro.fr/lyon/condamne-pour-detournement-de-fonds-le-patron-de-la-droite-lyonnaise-va-devoir-demissionner-20241211",
-    "date": "2024-12-11",
+    "id": 2865,
+    "titre": "Fausses accusations contre le couple Garrido-Corbière : L’ex-président de l’UDI Jean-Christophe Lagarde mis en examen",
+    "contenu": "Jean-Christophe Lagarde a été mis en examen dans l’enquête à Paris sur un article du Point en juin 2022 accusant indûment l’ancienne députée LFI Raquel Garrido et son conjoint le député Alexis Corbière (ex-Insoumis) d’exploiter une femme de ménage sans papiers. Jean-Christophe Lagarde, ancien maire de Drancy en Seine-Saint-Denis, a été mis en examen le 8 octobre pour « escroquerie en bande organisée et recel de biens provenant d’un vol », a précisé le parquet de Paris.",
+    "url": "https://www.20minutes.fr/politique/4129057-20241213-fausses-accusations-contre-couple-garrido-corbiere-ex-president-udi-jean-christophe-lagarde-mis-examen",
+    "date": "2024-12-13",
     "etiquettes": "",
     "departement": [
       {
-        "id": 2713,
-        "value": "69 - Rhône"
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2766,
+        "value": "93 - Seine-Saint-Denis"
       }
     ],
     "personnalites": [
       {
-        "id": 1585,
-        "value": "Philippe Cochet"
+        "id": 130,
+        "value": "Alexis Corbière"
       },
       {
-        "id": 2344,
-        "value": "Laetitia Cochet"
+        "id": 208,
+        "value": "Raquel Garrido"
+      },
+      {
+        "id": 926,
+        "value": "Jean-Christophe Lagarde"
       }
     ],
     "personnes_morales": [
       {
-        "id": 3,
-        "value": "Parquet National Financier (PNF)"
-      },
-      {
-        "id": 5,
-        "value": "Assemblée Nationale"
-      },
-      {
-        "id": 11,
-        "value": "Les Républicains (LR) (ex-UMP)"
-      },
-      {
-        "id": 66,
-        "value": "Anticor"
+        "id": 254,
+        "value": "Union des démocrates et indépendants (UDI)"
       }
     ],
     "categorie": [
@@ -49,12 +45,48 @@
     "theme": [],
     "procedure": [
       {
-        "id": 2689,
-        "value": "Condamnation"
+        "id": 2693,
+        "value": "Mise en examen"
       }
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2864,
+    "titre": "François Bayrou, la morale dans les chaussettes",
+    "contenu": "Hier chantre de la lutte contre les atteintes à la probité, le nouveau premier ministre a multiplié ces derniers temps les déclarations polémiques en défense de mis en cause dans des affaires politico-financières. Il est personnellement toujours sous la menace d’un procès en appel dans l’affaire du MoDem.",
+    "url": "https://www.mediapart.fr/journal/france/131224/francois-bayrou-la-morale-dans-les-chaussettes",
+    "date": "2024-12-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 673,
+        "value": "François Bayrou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 84,
+        "value": "Mouvement démocrate (MoDem)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2857,
@@ -179,6 +211,58 @@
     "a_la_une": false
   },
   {
+    "id": 2862,
+    "titre": "Le Parlement européen refuse de payer le directeur de cabinet de Jordan Bardella comme assistant parlementaire",
+    "contenu": "Dans le contexte du procès des assistants parlementaires du FN, le président du RN a demandé l’embauche à temps partiel de François Paradol. Une situation qui prévalait avant 2024, mais que l’institution refuse de reconduire.",
+    "url": "https://www.lemonde.fr/politique/article/2024/12/11/le-parlement-europeen-refuse-de-payer-le-directeur-de-cabinet-de-jordan-bardella-comme-assistant-parlementaire_6442702_823448.html",
+    "date": "2024-12-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1019,
+        "value": "Jordan Bardella"
+      },
+      {
+        "id": 2345,
+        "value": "François Paradol"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2858,
     "titre": "Paul Giacobbi obtient sa protection fonctionnelle devant la justice",
     "contenu": "Les magistrats du tribunal administratif de Bastia ont annulé la décision de la Collectivité de Corse de refuser la protection fonctionnelle à Paul Giacobbi, ancien président du conseil exécutif de 2010 à 2015. Cela concernait deux dossiers judiciaires.",
@@ -205,6 +289,120 @@
       }
     ],
     "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2846,
+    "titre": "Philippe Cochet, patron de la droite lyonnaise et maire de Caluire-et-Cuire, va devoir démissionner suite à sa condamnation pour détournement de fonds publics",
+    "contenu": "Le chef de file de la droite à la métropole de Lyon et maire de la commune de Caluire-et-Cuire, Philippe Cochet (LR), a été condamné ce mercredi à un an de prison ferme et cinq ans d’inéligibilité avec exécution provisoire pour détournements de fonds publics.",
+    "url": "https://www.lefigaro.fr/lyon/condamne-pour-detournement-de-fonds-le-patron-de-la-droite-lyonnaise-va-devoir-demissionner-20241211",
+    "date": "2024-12-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1585,
+        "value": "Philippe Cochet"
+      },
+      {
+        "id": 2344,
+        "value": "Laetitia Cochet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2863,
+    "titre": "Un dossier fiscal classifié « secret-défense » : la folle demande visant à protéger Bernard Arnault",
+    "contenu": "À l’été 2022, Bernard Arnault panique à l’idée qu’un député LFI arrive à la tête de la commission des finances de l’Assemblée nationale. Des représentants du patron de LVMH demandent alors à faire classifier son dossier fiscal personnel. L’administration a résisté à cette demande extraordinaire.",
+    "url": "https://www.mediapart.fr/journal/france/111224/un-dossier-fiscal-classifie-secret-defense-la-folle-demande-visant-proteger-bernard-arnault",
+    "date": "2024-12-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 129,
+        "value": "Éric Coquerel"
+      },
+      {
+        "id": 690,
+        "value": "Bernard Arnault"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 3027,
+        "value": "Luxe"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -549,6 +747,83 @@
       }
     ],
     "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2866,
+    "titre": "DZ Mafia : comment les milieux corses et marseillais se sont rapprochés",
+    "contenu": "Le cas de Yassine Akhazzane, mis en examen dans une affaire d’extorsion et qui agirait comme prestataire de service, illustrerait, selon les enquêteurs, les liens noués par les insulaires avec le groupe criminel marseillais. Une alliance née au gré de rencontres lors de séjours en prison.",
+    "url": "https://www.lemonde.fr/societe/article/2024/12/09/dz-mafia-comment-les-milieux-corses-et-marseillais-se-sont-rapproches_6438068_3224.html",
+    "date": "2024-12-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2722,
+        "value": "2A - Corse-du-Sud"
+      },
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2353,
+        "value": "Yassine Akhazzane"
+      },
+      {
+        "id": 2354,
+        "value": "SCH (Julien Schwarzer)"
+      },
+      {
+        "id": 2355,
+        "value": "Pascal Gomez-Galeote"
+      },
+      {
+        "id": 2356,
+        "value": "Appien Coti"
+      },
+      {
+        "id": 2357,
+        "value": "Toussaint Mocchi"
+      },
+      {
+        "id": 2358,
+        "value": "Juan-Gino Marti"
+      },
+      {
+        "id": 2359,
+        "value": "Karim Tir"
+      },
+      {
+        "id": 2360,
+        "value": "Mohamed Seghier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1087,
+        "value": "DZ Mafia"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2674,
+        "value": "Mafia / Crime organisé"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -34436,51 +34711,6 @@
     "a_la_une": false
   },
   {
-    "id": 2129,
-    "titre": "Caluire-et-Cuire. Le maire Philippe Cochet jugé en 2025 pour détournement de fonds publics",
-    "contenu": "Le maire de Caluire-et-Cuire et son épouse, Lætitia, seront jugés en 2025 par le tribunal correctionnel de Paris. Le couple devra répondre de faits de « détournement de fonds publics » et « fraude pour l’obtention d’une allocation d’aide aux travailleurs privés d’emploi ». La justice soupçonne Lætitia Cochet d’avoir bénéficié d’un emploi, quasi-fictif, d’attachée parlementaire auprès de son mari, qui a été député entre 2002 et 2017. L’épouse du maire de Caluire aurait également bénéficié d’indemnités de chômage indues, à la suite de son licenciement, décidé après la perte du mandat de député de Philippe Cochet en 2017.",
-    "url": "https://tribunedelyon.fr/justice/caluire-et-cuire-le-maire-philippe-cochet-juge-en-2025-pour-detournement-de-fonds-publics/",
-    "date": "2024-04-04",
-    "etiquettes": "",
-    "departement": [
-      {
-        "id": 2713,
-        "value": "69 - Rhône"
-      }
-    ],
-    "personnalites": [
-      {
-        "id": 1585,
-        "value": "Philippe Cochet"
-      },
-      {
-        "id": 1586,
-        "value": "Lætitia Cochet"
-      }
-    ],
-    "personnes_morales": [
-      {
-        "id": 11,
-        "value": "Les Républicains (LR) (ex-UMP)"
-      }
-    ],
-    "categorie": [
-      {
-        "id": 2652,
-        "value": "Probité"
-      }
-    ],
-    "theme": [],
-    "procedure": [
-      {
-        "id": 2695,
-        "value": "Procès"
-      }
-    ],
-    "titre_corrige": "",
-    "a_la_une": false
-  },
-  {
     "id": 2130,
     "titre": "Ciblé par le PNF, le financier Dominique Romano ne quitte plus Israël",
     "contenu": "Deux mois après avoir été entendu par le Parquet national financier, qui enquête sur les profits générés par ses délits d'initiés à la Bourse de New York, l'homme d'affaires Dominique Romano s'est relocalisé en Israël, où il est resté.",
@@ -34578,6 +34808,51 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2129,
+    "titre": "Philippe Cochet, maire de Caluire-et-Cuire, sera jugé en 2025 pour détournement de fonds publics",
+    "contenu": "Le maire de Caluire-et-Cuire et son épouse, Lætitia, seront jugés en 2025 par le tribunal correctionnel de Paris. Le couple devra répondre de faits de « détournement de fonds publics » et « fraude pour l’obtention d’une allocation d’aide aux travailleurs privés d’emploi ». La justice soupçonne Lætitia Cochet d’avoir bénéficié d’un emploi, quasi-fictif, d’attachée parlementaire auprès de son mari, qui a été député entre 2002 et 2017. L’épouse du maire de Caluire aurait également bénéficié d’indemnités de chômage indues, à la suite de son licenciement, décidé après la perte du mandat de député de Philippe Cochet en 2017.",
+    "url": "https://tribunedelyon.fr/justice/caluire-et-cuire-le-maire-philippe-cochet-juge-en-2025-pour-detournement-de-fonds-publics/",
+    "date": "2024-04-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1585,
+        "value": "Philippe Cochet"
+      },
+      {
+        "id": 1586,
+        "value": "Lætitia Cochet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -105740,6 +106015,22 @@
   },
   {
     "id": 2422,
+    "titre": "",
+    "contenu": "",
+    "url": "",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2867,
     "titre": "",
     "contenu": "",
     "url": "",
