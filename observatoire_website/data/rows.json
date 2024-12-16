@@ -1,5 +1,85 @@
 [
   {
+    "id": 2868,
+    "titre": "Un rapport confidentiel met à nu les combines du cartel de l’eau",
+    "contenu": "L’Autorité de la concurrence s’est penchée sur un sujet explosif : les stratégies d’entente dans le domaine de l’eau, et leurs conséquences sur l’augmentation des factures payées par les usagers. Le patron d’une filiale du leader mondial Veolia vient d’être mis en examen à Paris pour corruption et pratiques anticoncurrentielles.",
+    "url": "https://www.mediapart.fr/journal/france/151224/un-rapport-confidentiel-met-nu-les-combines-du-cartel-de-l-eau",
+    "date": "2024-12-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2768,
+        "value": "78 - Yvelines"
+      },
+      {
+        "id": 2763,
+        "value": "76 - Seine-Maritime"
+      },
+      {
+        "id": 2732,
+        "value": "38 - Isère"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2361,
+        "value": "Laurent Nugier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 33,
+        "value": "Brigade de répression de la délinquance économique (BRDE)"
+      },
+      {
+        "id": 90,
+        "value": "Vinci"
+      },
+      {
+        "id": 93,
+        "value": "Saur (Société d'aménagement urbain et rural)"
+      },
+      {
+        "id": 181,
+        "value": "Veolia"
+      },
+      {
+        "id": 182,
+        "value": "Suez"
+      },
+      {
+        "id": 462,
+        "value": "Eiffage"
+      },
+      {
+        "id": 1095,
+        "value": "Autorité de la concurrence"
+      },
+      {
+        "id": 1096,
+        "value": "Syndicat interdépartemental pour l'assainissement de l'agglomération parisienne (SIAAP)"
+      },
+      {
+        "id": 1097,
+        "value": "IRH Ingénieur Conseil"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2865,
     "titre": "Fausses accusations contre le couple Garrido-Corbière : L’ex-président de l’UDI Jean-Christophe Lagarde mis en examen",
     "contenu": "Jean-Christophe Lagarde a été mis en examen dans l’enquête à Paris sur un article du Point en juin 2022 accusant indûment l’ancienne députée LFI Raquel Garrido et son conjoint le député Alexis Corbière (ex-Insoumis) d’exploiter une femme de ménage sans papiers. Jean-Christophe Lagarde, ancien maire de Drancy en Seine-Saint-Denis, a été mis en examen le 8 octobre pour « escroquerie en bande organisée et recel de biens provenant d’un vol », a précisé le parquet de Paris.",
