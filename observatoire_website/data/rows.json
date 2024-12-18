@@ -1,5 +1,98 @@
 [
   {
+    "id": 2872,
+    "titre": "En restant maire, François Bayrou renoue avec la tradition des Premiers ministres cumulards",
+    "contenu": "En conseil municipal de Pau (Pyrénées-Atlantiques), François Bayrou a annoncé lundi 16 décembre qu’il comptait rester maire de la ville malgré sa nomination comme Premier ministre. Un choix à rebours des derniers chefs de gouvernement qui étaient dans son cas.",
+    "url": "https://www.ouest-france.fr/politique/francois-bayrou/en-restant-maire-francois-bayrou-renoue-avec-la-vielle-tradition-des-premiers-ministres-cumulards-e5be8b54-bbb0-11ef-953b-0627f277a2ee",
+    "date": "2024-12-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2754,
+        "value": "64 - Pyrénées-Atlantiques"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 673,
+        "value": "François Bayrou"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 84,
+        "value": "Mouvement démocrate (MoDem)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2873,
+    "titre": "JO-2024: classement de la plainte pour favoritisme visant le marché public de la mascotte",
+    "contenu": "La plainte pour favoritisme visant le marché public de la création de la mascotte des Jeux olympiques de Paris (JOP) attribué à une filiale d’Havas a été classée sans suite. Le Parquet national financier (PNF) a classé cette plainte, déposée quelques semaines avant les Jeux d’été par le studio de création Mascotte Plus, pour absence d’infraction.",
+    "url": "https://www.mediapart.fr/journal/fil-dactualites/151224/jo-2024-classement-de-la-plainte-pour-favoritisme-visant-le-marche-public-de-la-mascotte",
+    "date": "2024-12-15",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 9,
+        "value": "Comité d'organisation des Jeux olympiques et paralympiques d'été de 2024 (COJOP)"
+      },
+      {
+        "id": 61,
+        "value": "Havas"
+      },
+      {
+        "id": 904,
+        "value": "Mascotte Plus"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2668,
+        "value": "Communication / Événementiel"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement / acquittement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2868,
     "titre": "Un rapport confidentiel met à nu les combines du cartel de l’eau",
     "contenu": "L’Autorité de la concurrence s’est penchée sur un sujet explosif : les stratégies d’entente dans le domaine de l’eau, et leurs conséquences sur l’augmentation des factures payées par les usagers. Le patron d’une filiale du leader mondial Veolia vient d’être mis en examen à Paris pour corruption et pratiques anticoncurrentielles.",
@@ -165,6 +258,103 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2874,
+    "titre": "Législatives dans le Gard : l’élection d’Alexandre Allegret-Pilot confirmée par le Conseil constitutionnel",
+    "contenu": "Peu après les élections législatives anticipées ayant vu la victoire du député UDR (Ciottiste) dans la 5e circonscription du Gard, l’avocat Nordine Tria, également candidat, avait posé un recours, convaincu de son inéligibilité.",
+    "url": "https://www.midilibre.fr/2024/12/13/legislatives-dans-le-gard-lelection-dalexandre-allegret-pilot-confirmee-par-le-conseil-constitutionnel-12390256.php",
+    "date": "2024-12-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2724,
+        "value": "30 - Gard"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2003,
+        "value": "Alexandre Allegret-Pilot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 893,
+        "value": "Union des droites pour la République (UDR ex-Les Amis d'Éric Ciotti)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2869,
+    "titre": "Procès pour marché truqué à Villejuif : l’ex-maire relaxé, le promoteur condamné pour trafic d’influence",
+    "contenu": "Franck Le Bohellec comme les autres prévenus ont été blanchis des soupçons de favoritisme dans le marché de la halle des sports Colette-Besson. L’ancien adjoint aux sports et le promoteur, reconnus coupables de certains faits, devront verser respectivement une amende de 25 000 euros et 250 000 euros.",
+    "url": "https://www.leparisien.fr/val-de-marne-94/proces-pour-marche-truque-a-villejuif-lex-maire-relaxe-le-promoteur-condamne-pour-trafic-dinfluence-13-12-2024-772HMGLWQBHEDJM3AKYEJESSK4.php",
+    "date": "2024-12-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2781,
+        "value": "94 - Val-de-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1564,
+        "value": "Franck Le Bohellec"
+      },
+      {
+        "id": 1873,
+        "value": "Michel Monin"
+      },
+      {
+        "id": 2362,
+        "value": "Philippe Jung"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1098,
+        "value": "Demathieu et Bard Immobilier"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement / acquittement"
+      },
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -339,6 +529,51 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2870,
+    "titre": "Nouvelle date de procès pour l'ancien directeur de Viltaïs, Yannick Lucot",
+    "contenu": "L'ancien directeur de l'association moulinoise Viltaïs, Yannick Lucot, devait comparaître mercredi 11 décembre devant le tribunal correctionnel de Moulins, pour détournement de fonds publics, prise illégale d'intérêt, faux dans un document administratif et escroquerie. Le dossier a été renvoyé au lundi 15 septembre 2025, après suppléments d'information et expertise financière.",
+    "url": "https://www.lamontagne.fr/moulins-03000/actualites/nouvelle-date-de-proces-pour-l-ancien-directeur-de-viltais-yannick-lucot_14610710/",
+    "date": "2024-12-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2700,
+        "value": "03 - Allier"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2155,
+        "value": "Yannick Lucot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 802,
+        "value": "Groupe SOS"
+      },
+      {
+        "id": 974,
+        "value": "Viltaïs"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -106786,6 +107021,22 @@
     "titre": "Dupond-Moretti accuse des juges de le «salir», la plus haute magistrate de France le recadre",
     "contenu": "",
     "url": "https://www.liberation.fr/societe/police-justice/dupond-moretti-accuse-des-juges-de-le-salir-la-plus-haute-magistrate-de-france-le-recadre-20220304_WTC6KTJFOJH3NAMRXHT2J56TOU/?redirected=1",
+    "date": null,
+    "etiquettes": "",
+    "departement": [],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2871,
+    "titre": "En restant maire, François Bayrou renoue avec la tradition des Premiers ministres cumulards",
+    "contenu": "",
+    "url": "",
     "date": null,
     "etiquettes": "",
     "departement": [],
