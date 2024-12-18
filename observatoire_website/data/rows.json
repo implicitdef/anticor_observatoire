@@ -40,6 +40,63 @@
     "a_la_une": true
   },
   {
+    "id": 2875,
+    "titre": "Nicolas Sarkozy définitivement condamné à trois ans de prison dont un an ferme dans l’affaire des écoutes",
+    "contenu": "La décision dans ce dossier, aussi appelé Bismuth, intervient à quelques jours de l’ouverture d’un nouveau procès pour l’ex-chef de l’Etat, celui des soupçons de financement libyen de sa campagne présidentielle 2007, qui doit s’ouvrir le 6 janvier 2025.",
+    "url": "https://www.lemonde.fr/societe/article/2024/12/18/nicolas-sarkozy-definitivement-condamne-a-trois-ans-de-prison-dont-un-an-ferme-dans-l-affaire-des-ecoutes_6455528_3224.html",
+    "date": "2024-12-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 1126,
+        "value": "Gilbert Azibert"
+      },
+      {
+        "id": 1127,
+        "value": "Thierry Herzog"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 184,
+        "value": "Cour de cassation"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2873,
     "titre": "JO-2024: classement de la plainte pour favoritisme visant le marché public de la mascotte",
     "contenu": "La plainte pour favoritisme visant le marché public de la création de la mascotte des Jeux olympiques de Paris (JOP) attribué à une filiale d’Havas a été classée sans suite. Le Parquet national financier (PNF) a classé cette plainte, déposée quelques semaines avant les Jeux d’été par le studio de création Mascotte Plus, pour absence d’infraction.",
