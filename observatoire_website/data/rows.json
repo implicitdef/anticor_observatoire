@@ -1,5 +1,326 @@
 [
   {
+    "id": 2881,
+    "titre": "Le géant chinois de la fast fashion Shein s'offre les conseils de Christophe Castaner",
+    "contenu": "L'ancien ministre de l'intérieur, tout comme l'avocate Nicole Guedj et l'ex-dirigeant du Medef Bernard Spitz, a été nommé au sein d'un comité destiné à conseiller Shein sur son impact social et environnemental.",
+    "url": "https://www.lalettre.fr/fr/entreprises/2024/12/20/le-geant-chinois-de-la-fast-fashion-shein-s-offre-les-conseils-de-christophe-castaner,110354595-gra",
+    "date": "2024-12-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 663,
+        "value": "Christophe Castaner"
+      },
+      {
+        "id": 2366,
+        "value": "Bernard Spitz"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 932,
+        "value": "Shein"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 3071,
+        "value": "Habillement / Mode"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2884,
+    "titre": "Le président déchu du département de la Somme a un logement social à Paris",
+    "contenu": "Domicilié et élu en Picardie depuis 1989 avec des mandats importants, Stéphane Haussoulier bénéficie cependant d’un logement social dans la capitale depuis vingt-cinq ans. Il vient par ailleurs d’être condamné pour détournements de fonds publics.",
+    "url": "https://www.mediapart.fr/journal/france/201224/le-president-dechu-du-departement-de-la-somme-un-logement-social-paris",
+    "date": "2024-12-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2770,
+        "value": "80 - Somme"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1330,
+        "value": "Stéphane Haussoulier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 3053,
+        "value": "Logement"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2883,
+    "titre": "Révélations sur les soucis judiciaires d’Alain Duménil, la bête noire de la DGSE",
+    "contenu": "Des sociétés liées à l’homme d’affaires, connu pour s’être lancé dans un bras de fer financier et judiciaire avec les services de renseignement, sont visées par deux enquêtes du parquet de Paris.",
+    "url": "https://www.challenges.fr/entreprise/revelations-sur-les-soucis-judiciaires-dalain-dumenil-la-bete-noire-de-la-dgse_594526",
+    "date": "2024-12-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2299,
+        "value": "Alain Duménil"
+      },
+      {
+        "id": 2367,
+        "value": "Bernard Bajolet"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 87,
+        "value": "Tracfin"
+      },
+      {
+        "id": 1059,
+        "value": "Direction générale de la Sécurité extérieure (DGSE)"
+      },
+      {
+        "id": 1060,
+        "value": "Acanthe Développement"
+      },
+      {
+        "id": 1061,
+        "value": "Alliance Développement Capital"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2882,
+    "titre": "Bruno Le Maire, une reconversion très stratégique dans les semi-conducteurs",
+    "contenu": "Alors que l’Etat a prévu de dépenser 5 milliards d’euros dans ce secteur, l’ancien ministre de l’économie rejoint le néerlandais ASML, qui réfléchit à investir en France. La Haute Autorité pour la transparence de la vie publique a validé ce mouvement.",
+    "url": "https://www.lemonde.fr/economie/article/2024/12/19/bruno-le-maire-une-reconversion-tres-strategique-dans-les-semi-conducteurs_6458003_3234.html",
+    "date": "2024-12-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 730,
+        "value": "Bruno Le Maire"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 1102,
+        "value": "ASML (Advanced Semiconductor Materials Lithography)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2685,
+        "value": "Technologies"
+      },
+      {
+        "id": 2670,
+        "value": "Industrie"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2885,
+    "titre": "Insultes, menaces, pressions : les méthodes de Rachida Dati contre la presse",
+    "contenu": "La ministre de la culture rappelait publiquement l’importance de défendre l’indépendance de la presse. En coulisses, elle n’a cessé de faire pression sur les rédactions qui enquêtent sur elle. Et insulté certains patrons de médias.",
+    "url": "https://www.mediapart.fr/journal/france/191224/insultes-menaces-pressions-les-methodes-de-rachida-dati-contre-la-presse",
+    "date": "2024-12-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 277,
+        "value": "Ministère de la Culture"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias / Divertissement"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2876,
+    "titre": "Une facture à 30.000 euros… Le très cher hors forfait téléphonique d’Anne Hidalgo à Tahiti",
+    "contenu": "Selon « Le Canard enchaîné », la maire de Paris Anne Hidalgo se serait servie de son téléphone sans un forfait adapté lors de son voyage en Nouvelle-Calédonie et en Polynésie française en 2023",
+    "url": "https://www.20minutes.fr/paris/4130046-20241219-facture-30-000-euros-tres-cher-hors-forfait-telephonique-anne-hidalgo-tahiti",
+    "date": "2024-12-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 657,
+        "value": "Anne Hidalgo"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2886,
+    "titre": "Affaire des écoutes : Nicolas Sarkozy saisit la CEDH après sa condamnation définitive",
+    "contenu": "L'ex-président Nicolas Sarkozy saisit la Cour européenne des droits de l'Homme après sa condamnation définitive prononcée par la Cour de cassation dans l'affaire dite des écoutes.",
+    "url": "https://www.europe1.fr/politique/affaire-des-ecoutes-nicolas-sarkozy-saisit-la-cedh-apres-sa-condamnation-definitive-235828",
+    "date": "2024-12-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 502,
+        "value": "Cour européenne des droits de l'Homme (CEDH)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2872,
     "titre": "En restant maire, François Bayrou renoue avec la tradition des Premiers ministres cumulards",
     "contenu": "En conseil municipal de Pau (Pyrénées-Atlantiques), François Bayrou a annoncé lundi 16 décembre qu’il comptait rester maire de la ville malgré sa nomination comme Premier ministre. Un choix à rebours des derniers chefs de gouvernement qui étaient dans son cas.",
@@ -95,6 +416,91 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2877,
+    "titre": "Réduction d'impôt : Bardella joue avec le fisc",
+    "contenu": "La petite astuce du RN pour faire vendre le bouquin du patron : pour un don au RN supérieur à 50 euros, le livre, vendu 22,90 euros, est offert. Avec la réduction d’impôt de 66 % sur les versements aux partis, le tout revient à 17 euros pour les donateurs. Mais la combine risque fort de se retourner contre ses auteurs.",
+    "url": "https://www.lecanardenchaine.fr/politique/49705-bardella-joue-avec-le-fisc",
+    "date": "2024-12-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1019,
+        "value": "Jordan Bardella"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 180,
+        "value": "Commission nationale des comptes de campagne et des financements politiques (CNCCFP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2887,
+    "titre": "L’ex-maire d’Argenteuil condamné à un an de prison avec sursis pour détournement de fonds publics",
+    "contenu": "Philippe Doucet (PS) avait cumulé deux systèmes de remboursement de ses frais de représentation. Condamné la semaine dernière par le tribunal de Paris, l’ancien élu va devoir rembourser 45 000 euros à la commune. Il reste libre de se présenter à des élections après décembre 2025.",
+    "url": "https://www.leparisien.fr/val-d-oise-95/lex-maire-dargenteuil-condamne-a-un-an-de-prison-avec-sursis-pour-detournement-de-fonds-publics-16-12-2024-QIOP3JRSWZB7FHI3EXTFBXE22E.php?ts=1734794658439",
+    "date": "2024-12-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2782,
+        "value": "95 - Val-d'Oise"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 618,
+        "value": "Philippe Doucet"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2690,
+        "value": "Comparution avec reconnaissance préalable de culpabilité (CRPC)"
+      },
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2873,
@@ -228,6 +634,119 @@
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2878,
+    "titre": "Empêcher les taxes et orienter la prévention : les méthodes du lobby de l’alcool pour influer sur les politiques publiques",
+    "contenu": "La cellule investigation de Radio France a enquêté sur la stratégie d’influence du lobby de l’alcool qui tente de peser dans l’élaboration du budget de la sécurité sociale et dans les campagnes de prévention, grâce à ses nombreux relais dans la classe politique.",
+    "url": "https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/enquete-empecher-les-taxes-et-orienter-la-prevention-les-methodes-du-lobby-de-l-alcool-pour-influer-sur-les-politiques-publiques_6925190.html",
+    "date": "2024-12-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 51,
+        "value": "Ugo Bernalicis"
+      },
+      {
+        "id": 235,
+        "value": "Jérôme Guedj"
+      },
+      {
+        "id": 408,
+        "value": "Yannick Neuder"
+      },
+      {
+        "id": 2164,
+        "value": "Nathalie Delattre"
+      },
+      {
+        "id": 2206,
+        "value": "Aurélien Rousseau"
+      },
+      {
+        "id": 2363,
+        "value": "Hendrik Davi"
+      },
+      {
+        "id": 2364,
+        "value": "Association nationale des élus de la vigne et du vin (ANEV)"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 15,
+        "value": "La France Insoumise (LFI)"
+      },
+      {
+        "id": 588,
+        "value": "Brasseurs de France"
+      },
+      {
+        "id": 713,
+        "value": "Anthenor"
+      },
+      {
+        "id": 914,
+        "value": "Mission interministérielle de lutte contre les drogues et les conduites addictives (MIDELCA)"
+      },
+      {
+        "id": 915,
+        "value": "Santé publique France (SPF)"
+      },
+      {
+        "id": 979,
+        "value": "Vin et société"
+      },
+      {
+        "id": 1099,
+        "value": "Direction générale de la santé (DGS)"
+      },
+      {
+        "id": 1100,
+        "value": "Addictions France"
+      },
+      {
+        "id": 1101,
+        "value": "L'Après (L'Association pour une République écologique et sociale)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      },
+      {
+        "id": 2655,
+        "value": "Alcools"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2865,
@@ -407,6 +926,78 @@
         "id": 2697,
         "value": "Relaxe / classement / acquittement"
       },
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2888,
+    "titre": "Soupçons de favoritisme : le conseil départemental de la Somme perquisitionné, quelques jours après la démission du président",
+    "contenu": "Le président du département, Stéphane Haussoulier, a fait appel de sa condamnation, le 3 décembre, à trois ans d’emprisonnement avec sursis, trois ans d’inéligibilité et 30 000 euros d’amende pour détournement de biens publics, escroquerie et blanchiment.",
+    "url": "https://www.lemonde.fr/politique/article/2024/12/13/soupcons-de-favoritisme-le-conseil-departemental-de-la-somme-perquisitionne-quelques-jours-apres-la-demission-du-president_6447083_823448.html",
+    "date": "2024-12-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2770,
+        "value": "80 - Somme"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1330,
+        "value": "Stéphane Haussoulier"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2880,
+    "titre": "Trafic d'influence à la mairie de Nantes : 30 mois de prison avec sursis pour un ancien fonctionnaire",
+    "contenu": "Le tribunal correctionnel de Nantes a prononcé jeudi 12 décembre 2024, trente mois de prison avec sursis et 30.000 € d'amende à l'encontre d'un ancien cadre de la ville de La Roche-sur-Yon. Il était jugé notamment pour \"trafic d'influence\" quand il travaillait comme chef de service à Nantes Métropole en 2009 et 2010.",
+    "url": "https://france3-regions.francetvinfo.fr/pays-de-la-loire/loire-atlantique/nantes/trafic-d-influence-a-la-mairie-de-nantes-30-mois-de-prison-avec-sursis-pour-un-ancien-fonctionnaire-3076150.html",
+    "date": "2024-12-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2738,
+        "value": "44 - Loire-Atlantique"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 995,
+        "value": "Nantes Métropole"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
       {
         "id": 2689,
         "value": "Condamnation"
@@ -721,6 +1312,42 @@
     ],
     "titre_corrige": "",
     "a_la_une": true
+  },
+  {
+    "id": 2879,
+    "titre": "Quand la conseillère régionale Anne-Sophie Fontaine ment sur ses revenus",
+    "contenu": "La déclaration d’intérêts de la conseillère régionale Anne-Sophie Fontaine vient d’être rendue publique par la Haute autorité pour la transparence de la vie publique (HATVP). Elle y a déclaré ses revenus et ses indemnités d’élue. Manquent ses indemnités versées par le conseil régional. Elle déclare 4400 euros de revenus nets mensuels alors que ses rémunérations s’élèvent à près de 7000 euros nets mensuels.",
+    "url": "https://www.oisehebdo.fr/2024/12/11/quand-la-conseillere-regionale-anne-sophie-fontaine-ment-sur-ses-revenus/",
+    "date": "2024-12-11",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2750,
+        "value": "60 - Oise"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2365,
+        "value": "Anne-Sophie Fontaine"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
   },
   {
     "id": 2863,
@@ -9643,6 +10270,10 @@
     ],
     "personnalites": [],
     "personnes_morales": [
+      {
+        "id": 995,
+        "value": "Nantes Métropole"
+      },
       {
         "id": 1020,
         "value": "Société nationale d’études et de coordination (SNEC)"
