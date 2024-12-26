@@ -1,5 +1,58 @@
 [
   {
+    "id": 2890,
+    "titre": "« Pacte de silence » : pourquoi la mise en examen d’Alexis Kohler est confirmée",
+    "contenu": "La cour d’appel de Paris a confirmé fin novembre les poursuites judiciaires contre le secrétaire général de l’Élysée, mis en examen pour prise illégale d’intérêts. Mediapart a pris connaissance de l’arrêt de la cour. Il dresse un constat accablant des pratiques mises en œuvre par la haute fonction publique, se considérant au-dessus des lois.",
+    "url": "https://www.mediapart.fr/journal/politique/201224/pacte-de-silence-pourquoi-la-mise-en-examen-d-alexis-kohler-est-confirmee",
+    "date": "2024-12-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1068,
+        "value": "Alexis Kohler"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 268,
+        "value": "Mediterranean Shipping Company (MSC)"
+      },
+      {
+        "id": 988,
+        "value": "Chantiers de l’Atlantique (ex-STX France)"
+      },
+      {
+        "id": 989,
+        "value": "Grand port maritime du Havre (GPMH)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2693,
+        "value": "Mise en examen"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2881,
     "titre": "Le géant chinois de la fast fashion Shein s'offre les conseils de Christophe Castaner",
     "contenu": "L'ancien ministre de l'intérieur, tout comme l'avocate Nicole Guedj et l'ex-dirigeant du Medef Bernard Spitz, a été nommé au sein d'un comité destiné à conseiller Shein sur son impact social et environnemental.",
@@ -241,6 +294,42 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2889,
+    "titre": "L’ancien maire de Toulon Hubert Falco demeure condamné à l’inéligibilité",
+    "contenu": "Condamné en appel à une peine d’inéligibilité avec exécution provisoire pour détournement de fonds publics, l’ancien maire de Toulon avait saisi la Cour de cassation sur ce point, dans le cadre d’une question prioritaire de constitutionnalité. Il a été débouté.",
+    "url": "https://www.lefigaro.fr/marseille/l-ancien-maire-de-toulon-hubert-falco-demeure-condamne-a-l-ineligibilite-20241219",
+    "date": "2024-12-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1333,
+        "value": "Hubert Falco"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
