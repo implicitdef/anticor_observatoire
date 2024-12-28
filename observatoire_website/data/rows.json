@@ -1,5 +1,177 @@
 [
   {
+    "id": 2891,
+    "titre": "«Faux témoignage», «corruption», «financement irrégulier»… Les aventures judiciaires des membres du gouvernement Bayrou",
+    "contenu": "Une «République exemplaire», promettait Emmanuel Macron en 2017. L’engagement est loin d’être tenu. Dans le nouveau gouvernement, de nombreux ministres, dont le Premier ministre lui-même, ont déjà été condamnés par la justice ou font l’objet d’une enquête judiciaire en cours.",
+    "url": "https://www.liberation.fr/politique/elections/faux-temoignage-corruption-financement-irregulier-les-aventures-judiciaires-des-membres-du-gouvernement-bayrou-20241226_Q67GRI6ABVADTOP5S3KHKZDJGE/?redirected=1&redirected=1",
+    "date": "2024-12-26",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2751,
+        "value": "61 - Orne"
+      },
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      },
+      {
+        "id": 2795,
+        "value": "Espagne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 344,
+        "value": "Véronique Louwagie"
+      },
+      {
+        "id": 355,
+        "value": "Laurent Marcangeli"
+      },
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 673,
+        "value": "François Bayrou"
+      },
+      {
+        "id": 888,
+        "value": "Aurore Bergé"
+      },
+      {
+        "id": 1206,
+        "value": "Philippe Tabarot"
+      },
+      {
+        "id": 1222,
+        "value": "Manuel Valls"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 84,
+        "value": "Mouvement démocrate (MoDem)"
+      },
+      {
+        "id": 277,
+        "value": "Ministère de la Culture"
+      },
+      {
+        "id": 1103,
+        "value": "Ministère des Transports"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2894,
+    "titre": "Scandale des immatriculations : derrière les garages fictifs, des fraudeurs par milliers et un Etat défaillant",
+    "contenu": "En privatisant le système d’immatriculation des véhicules, en 2017, l’Etat a ouvert la voie aux fraudes en tous genres. Préfectures et forces de l’ordre sont aujourd’hui noyées sous les opérations fictives.",
+    "url": "https://www.lemonde.fr/societe/article/2024/12/25/scandale-des-immatriculations-derriere-les-garages-fictifs-des-fraudeurs-par-milliers-et-un-etat-defaillant_6466250_3224.html",
+    "date": "2024-12-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 619,
+        "value": "Ministère de l'Intérieur"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2896,
+    "titre": "LVMH ferme sa parenthèse fiscale en Belgique en rapatriant les holdings du groupe",
+    "contenu": "Le groupe de luxe pilote désormais depuis Paris sa banque interne dotée d'un actif de 28 milliards d'euros. Cette société belge dans le collimateur du fisc français depuis 2019 avait suscité la plus grande perquisition civile menée en France. LVMH tente de tirer un trait sur des années de douceurs fiscales décrochées outre-Quiévrain.",
+    "url": "https://www.lalettre.fr/fr/entreprises_luxe-et-conso/2024/12/24/lvmh-ferme-sa-parenthese-fiscale-en-belgique-en-rapatriant-les-holdings-du-groupe%252C110355635-eve",
+    "date": "2024-12-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 690,
+        "value": "Bernard Arnault"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 104,
+        "value": "LVMH - Moët Hennessy Louis Vuitton"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2890,
     "titre": "« Pacte de silence » : pourquoi la mise en examen d’Alexis Kohler est confirmée",
     "contenu": "La cour d’appel de Paris a confirmé fin novembre les poursuites judiciaires contre le secrétaire général de l’Élysée, mis en examen pour prise illégale d’intérêts. Mediapart a pris connaissance de l’arrêt de la cour. Il dresse un constat accablant des pratiques mises en œuvre par la haute fonction publique, se considérant au-dessus des lois.",
@@ -53,6 +225,87 @@
     "a_la_une": false
   },
   {
+    "id": 2897,
+    "titre": "Épinglé pour fraude fiscale : un milliardaire britannique se voit saisir 461 millions d'euros par la justice française, un record",
+    "contenu": "La chambre de l'instruction de la cour d'appel de Paris a confirmé dans un arrêt rendu jeudi, des saisies à hauteur de 461 millions d'euros sur le patrimoine d’Adrien Labi, un homme d’affaires britannique.",
+    "url": "https://www.cnews.fr/monde/2024-12-20/epingle-pour-fraude-fiscale-un-milliardaire-britannique-se-voit-saisir-461",
+    "date": "2024-12-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 3023,
+        "value": "Royaume-Uni"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 758,
+        "value": "Adrien Labi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2893,
+    "titre": "Haplincourt : le maire Michel Flahaut poursuivi pour détournement de fonds publics",
+    "contenu": "Le maire d’Haplincourt est poursuivi par le tribunal d’Arras pour détournement de fonds publics. Il est aussi soupçonné d’abus de confiance, d’avoir produit et fait usage de faux en écriture publique et de travail dissimulé. Sa compagne est poursuivie pour recel de deux de ces délits. L’audience a été fixée à octobre 2025.",
+    "url": "https://www.lavoixdunord.fr/1535827/article/2024-12-20/haplincourt-le-maire-michel-flahaut-poursuivi-pour-detournement-de-fonds-publics",
+    "date": "2024-12-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2752,
+        "value": "62 - Pas-de-Calais"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1820,
+        "value": "Michel Flahaut"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2881,
     "titre": "Le géant chinois de la fast fashion Shein s'offre les conseils de Christophe Castaner",
     "contenu": "L'ancien ministre de l'intérieur, tout comme l'avocate Nicole Guedj et l'ex-dirigeant du Medef Bernard Spitz, a été nommé au sein d'un comité destiné à conseiller Shein sur son impact social et environnemental.",
@@ -98,6 +351,42 @@
       }
     ],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2895,
+    "titre": "Le maire de Marseillan Yves Michel condamné à 15 mois de prison avec sursis et une peine d’inéligibilité de 2 ans",
+    "contenu": "L’élu était poursuivi pour prise illégale d’intérêts et délit de favoritisme dans le cadre de l’attribution de marchés publics sur sa commune. Il a annoncé faire appel.",
+    "url": "https://www.midilibre.fr/2024/12/20/le-maire-de-marseillan-yves-michel-condamne-a-15-mois-de-prison-avec-sursis-et-une-peine-dineligibilite-de-2-ans-12405369.php",
+    "date": "2024-12-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2301,
+        "value": "Yves Michel"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -193,6 +482,50 @@
       {
         "id": 2667,
         "value": "Fiscalité"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2898,
+    "titre": "Un homme condamné en France à cinq ans de prison pour trafic de drogue extradé depuis Dubaï",
+    "contenu": "Un homme de 38 ans condamné à cinq ans de prison pour trafic de stupéfiants en France vient d'être extradé depuis Dubaï, une procédure rare, annonce dans un communiqué de presse la procureure de Paris vendredi 20 décembre. Cet homme avait pris la fuite en 2020, en profitant de l'aide d'agents de la police aux frontières (PAF) de l'aéroport d'Orly, ajoute le parquet de Paris sollicité par franceinfo. Ils avaient consulté illégalement pour lui des fichiers afin qu'il puisse disparaître avant l'arrivée des enquêteurs.",
+    "url": "https://www.francetvinfo.fr/faits-divers/un-homme-condamne-en-france-a-5-ans-de-prison-pour-trafic-de-drogue-extrade-depuis-dubai_6967505.html",
+    "date": "2024-12-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2794,
+        "value": "Émirats arabes unis"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 404,
+        "value": "Direction nationale de la Police aux frontières (DNPAF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2664,
+        "value": "Drogue"
       }
     ],
     "procedure": [],
@@ -330,6 +663,50 @@
         "value": "Condamnation"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2892,
+    "titre": "Le groupe français Lactalis règle 475 millions d’euros au fisc français pour «clore un différend»",
+    "contenu": "Le groupe laitier Lactalis (Président, Lactel, Bridel) a annoncé jeudi régler 475 millions d’euros au fisc français pour «clore un différend portant sur des opérations internationales de financement». Une enquête préliminaire, diligentée par le parquet national financier pour ces mêmes faits, est toujours en cours, a précisé le groupe. Elle porte «sur des suspicions de minoration de son bénéfice imposable par le groupe Lactalis», indiquait déjà en juillet une source judiciaire.",
+    "url": "https://www.lefigaro.fr/societes/le-groupe-francais-lactalis-regle-475-millions-d-euros-au-fisc-francais-pour-clore-un-differend-20241219",
+    "date": "2024-12-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2745,
+        "value": "53 - Mayenne"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 434,
+        "value": "Lactalis"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 2669,
+        "value": "Grande consommation"
+      }
+    ],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
