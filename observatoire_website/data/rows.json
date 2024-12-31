@@ -1,5 +1,40 @@
 [
   {
+    "id": 2923,
+    "titre": "Anticor perd son agrément devant la Haute Autorité pour la transparence de la vie publique",
+    "contenu": "Deux anciens membres de l’association de lutte contre la corruption avaient saisi le tribunal administratif pour contester le renouvellement de l’agrément accordé en octobre 2022 par la HATVP.",
+    "url": "https://www.lemonde.fr/societe/article/2024/12/27/anticor-perd-son-agrement-devant-la-haute-autorite-pour-la-transparence-de-la-vie-publique_6470378_3224.html",
+    "date": "2024-12-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2891,
     "titre": "«Faux témoignage», «corruption», «financement irrégulier»… Les aventures judiciaires des membres du gouvernement Bayrou",
     "contenu": "Une «République exemplaire», promettait Emmanuel Macron en 2017. L’engagement est loin d’être tenu. Dans le nouveau gouvernement, de nombreux ministres, dont le Premier ministre lui-même, ont déjà été condamnés par la justice ou font l’objet d’une enquête judiciaire en cours.",
@@ -96,6 +131,46 @@
     "a_la_une": true
   },
   {
+    "id": 2912,
+    "titre": "Entre Total et l’université de Strasbourg, un financement opaque de plusieurs millions d’euros",
+    "contenu": "Le collectif Scientifiques en rébellion tente d’obtenir des informations sur l’influence de l’entreprise Total à l’université de Strasbourg par l’intermédiaire de ses dons. Ces jeunes doctorants ont pu compiler de premiers chiffres mais l’institution rechigne à communiquer.",
+    "url": "https://www.mediapart.fr/journal/france/251224/entre-total-et-l-universite-de-strasbourg-un-financement-opaque-de-plusieurs-millions-d-euros",
+    "date": "2024-12-25",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 150,
+        "value": "TotalEnergies"
+      },
+      {
+        "id": 1106,
+        "value": "Université de Strasbourg"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2665,
+        "value": "Éducation / Enseignement / Recherche"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2894,
     "titre": "Scandale des immatriculations : derrière les garages fictifs, des fraudeurs par milliers et un Etat défaillant",
     "contenu": "En privatisant le système d’immatriculation des véhicules, en 2017, l’Etat a ouvert la voie aux fraudes en tous genres. Préfectures et forces de l’ordre sont aujourd’hui noyées sous les opérations fictives.",
@@ -123,6 +198,47 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2922,
+    "titre": "A Décines, des opposants à Laurence Fautra ouvrent un front judiciaire avant les municipales de 2026",
+    "contenu": "Le parquet de Lyon a confirmé à Mediacités avoir ouvert une enquête préliminaire à la suite d’une plainte pour « prise illégale d’intérêts ». Déposée cet été par une ancienne élue socialiste de la ville, celle-ci vise la maire LR de Décines-Charpieu.",
+    "url": "https://www.mediacites.fr/enquete/lyon/2024/12/23/a-decines-des-opposants-a-laurence-fautra-ouvrent-un-front-judiciaire-avant-les-municipales-de-2026/",
+    "date": "2024-12-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2380,
+        "value": "Laurence Fautra"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -167,6 +283,365 @@
         "value": "Fiscalité"
       }
     ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2911,
+    "titre": "Philippe Tabarot, nouveau ministre des Transports et ex-assistant de sa sœur à 100 000 euros par an",
+    "contenu": "«CheckNews» a reconstitué les rémunérations obtenues par l’ancien collaborateur de Michèle Tabarot à l’Assemblée et à la mairie du Cannet, dans le cadre d’un cumul qui n’a rien à envier à celui de l’ex-femme d’Eric Ciotti.",
+    "url": "https://www.liberation.fr/checknews/philippe-tabarot-nouveau-ministre-des-transports-et-ex-assistant-de-sa-soeur-a-100-000-euros-par-an-20241224_HBSJLPJETBGRPNHK5UGGTG4QYA/?redirected=1",
+    "date": "2024-12-24",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 524,
+        "value": "Michèle Tabarot"
+      },
+      {
+        "id": 1206,
+        "value": "Philippe Tabarot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 1103,
+        "value": "Ministère des Transports"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2921,
+    "titre": "Affaire des mandats spéciaux : deux anciens élus essuient un refus du conseil des Hauts-d’Anjou",
+    "contenu": "Le conseil municipal des Hauts-d’Anjou (Maine-et-Loire) a étudié la protection fonctionnelle sollicitée par deux anciens élus, mis en cause dans l’affaire relative aux mandats spéciaux qui leur avaient été accordés en 2017 pour compenser la différence d’indemnités. Il a décidé de ne pas accorder cette protection en raison des risques juridiques trop importants pour l’ensemble des élus du conseil municipal actuel.",
+    "url": "https://www.ouest-france.fr/pays-de-la-loire/les-hauts-d-anjou-49330/affaire-des-mandats-speciaux-deux-anciens-elus-essuient-un-refus-du-conseil-des-hauts-danjou-ffd69964-c10a-11ef-8952-e83e02de38bc",
+    "date": "2024-12-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2742,
+        "value": "49 - Maine-et-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1345,
+        "value": "Maryline Lézé"
+      },
+      {
+        "id": 2378,
+        "value": "Alain Foucher"
+      },
+      {
+        "id": 2379,
+        "value": "Patrick Dauger"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2920,
+    "titre": "JO d’hiver 2030 : Michel Barnier accusé de conflit d’intérêts",
+    "contenu": "Le 17 décembre, l’ancien Premier ministre Michel Barnier a accepté de provisoirement prendre les commandes du comité d’organisation des Jeux olympiques d’hiver 2030, organisés dans les Alpes françaises. D’après Politico, l’objectif de cette manœuvre serait d’apaiser l’agitation autour du laborieux casting — un de plus en cette fin d’année — devant déterminer le visage du futur patron de l’événement. Vendredi 20 décembre, le député de la Savoie Jean-François Coulomme (La France insoumise) a chargé Michel Barnier. Dans une lettre adressée à la procureure de Paris, l’élu invite la magistrate à se pencher sur un éventuel « délit de prise illégale d’intérêts ».",
+    "url": "https://reporterre.net/JO-d-hiver-2030-Michel-Barnier-accuse-de-conflit-d-interets",
+    "date": "2024-12-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2760,
+        "value": "73 - Savoie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 135,
+        "value": "Jean-François Coulomme"
+      },
+      {
+        "id": 2130,
+        "value": "Michel Barnier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 1110,
+        "value": "Comité d’organisation des Jeux olympiques d’hiver 2030"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2902,
+    "titre": "Les multiples conflits d’intérêts familiaux du sénateur de Loir-et-Cher Jean-Luc Brault",
+    "contenu": "Déjà visé par une enquête préliminaire du parquet de Blois, l’ancien maire du Controis-en-Sologne, membre du groupe Les Indépendants-République et territoires au Sénat, est critiqué par la chambre régionale des comptes, notamment pour avoir signé plusieurs marchés publics au profit de ses enfants.",
+    "url": "https://www.lemonde.fr/societe/article/2024/12/23/les-multiples-conflits-d-interets-familiaux-du-senateur-du-loir-et-cher-jean-luc-brault_6463177_3224.html",
+    "date": "2024-12-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2735,
+        "value": "41 - Loir-et-Cher"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2194,
+        "value": "Jean-Luc Brault"
+      },
+      {
+        "id": 2371,
+        "value": "Marc Brault"
+      },
+      {
+        "id": 2372,
+        "value": "Grégory Brault"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      },
+      {
+        "id": 1092,
+        "value": "Aqualia"
+      },
+      {
+        "id": 1104,
+        "value": "Cisénergie"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2901,
+    "titre": "Détournement de fonds à la CTM : l'institution a déposé plainte",
+    "contenu": "Dans un communiqué de presse paru le vendredi 20 décembre, la Collectivité Territoriale de Martinique (CTM) annonce déposer plainte auprès du Procureur de la République dans l’affaire de fraude présumée, relative à la Prestation Compensatrice du Handicap (PCH).",
+    "url": "https://la1ere.francetvinfo.fr/martinique/detournement-de-fonds-a-la-ctm-l-institution-a-depose-plainte-1547428.html",
+    "date": "2024-12-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2784,
+        "value": "972 - Martinique"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2919,
+    "titre": "La fronde s’organise contre le transfert du Stade de France à un proche de Macron",
+    "contenu": "La décision d’engager des négociations exclusives avec le groupe GL Events, qui a accompagné Emmanuel Macron dans sa conquête du pouvoir, pour gérer le Stade de France, suscite d’importants remous. Au point de pousser les concessionnaires sortants, les géants du BTP Bouygues et Vinci, à attaquer l’appel d’offres mené par l’État.",
+    "url": "https://www.mediapart.fr/journal/france/211224/la-fronde-s-organise-contre-le-transfert-du-stade-de-france-un-proche-de-macron",
+    "date": "2024-12-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2766,
+        "value": "93 - Seine-Saint-Denis"
+      },
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 648,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 659,
+        "value": "Amélie Oudéa-Castéra"
+      },
+      {
+        "id": 2376,
+        "value": "Olivier Ginon"
+      },
+      {
+        "id": 2377,
+        "value": "Nicolas Dupeux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 24,
+        "value": "Élysée"
+      },
+      {
+        "id": 90,
+        "value": "Vinci"
+      },
+      {
+        "id": 763,
+        "value": "GL Events"
+      },
+      {
+        "id": 791,
+        "value": "Bouygues"
+      },
+      {
+        "id": 1109,
+        "value": "Paris Entertainment Company (PEC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      },
+      {
+        "id": 2658,
+        "value": "BTP / Urbanisme / Immobilier"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2899,
+    "titre": "Voyage d'Anne Hidalgo à Tahiti : une facture téléphonique colossale, la mairie de Paris justifie cette somme",
+    "contenu": "La dernière polémique de l’année pour Anne Hidalgo. Mardi dernier, le Canard enchainé révélait que lors de son voyage polémique à Tahiti en novembre 2023, la facture de téléphone de la maire de Paris avait explosé : plus de 30 000 euros en raison d’une mauvaise compatibilité avec le réseau local. Face à une polémique toujours plus forte sur les réseaux sociaux et aux questions lors du dernier Conseil de Paris, l’entourage d’Anne Hidalgo a dénoncé « un montant fantaisiste » auprès de BFM Paris Île-de-France et assure que la facture s’élève plutôt à 11 600 euros.",
+    "url": "https://actu.fr/ile-de-france/paris_75056/voyage-d-anne-hidalgo-a-tahiti-une-facture-telephonique-colossale-la-mairie-de-paris-justifie-cette-somme_62034851.html",
+    "date": "2024-12-21",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 657,
+        "value": "Anne Hidalgo"
+      },
+      {
+        "id": 1421,
+        "value": "Pierre Rabadan"
+      },
+      {
+        "id": 2368,
+        "value": "Jacques Martial"
+      },
+      {
+        "id": 2369,
+        "value": "Pierre Thomas"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -489,6 +964,55 @@
     "a_la_une": false
   },
   {
+    "id": 2900,
+    "titre": "Semsamar : prison avec sursis, amendes et confiscations pour ses dirigeants",
+    "contenu": "À Paris, Marie-Paule Bélénus Romana et Jean-Paul Fischer ont tous deux été reconnus, coupables jeudi de prise illégale d'intérêts, d'abus de biens sociaux et de favoritisme. Poursuivi pour prise illégale d'intérêts, Louis-Constant Fleming a été relaxé.",
+    "url": "https://www.guadeloupe.franceantilles.fr/actualite/justice/semsamar-prison-avec-sursis-amendes-et-confiscations-pour-ses-dirigeants-1016609.php",
+    "date": "2024-12-20",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2783,
+        "value": "971 - Guadeloupe"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2187,
+        "value": "Jean-Paul Fischer"
+      },
+      {
+        "id": 2189,
+        "value": "Louis-Constant Fleming"
+      },
+      {
+        "id": 2370,
+        "value": "Marie-Paule Bélénus Romana"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 770,
+        "value": "Semsamar"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2898,
     "titre": "Un homme condamné en France à cinq ans de prison pour trafic de drogue extradé depuis Dubaï",
     "contenu": "Un homme de 38 ans condamné à cinq ans de prison pour trafic de stupéfiants en France vient d'être extradé depuis Dubaï, une procédure rare, annonce dans un communiqué de presse la procureure de Paris vendredi 20 décembre. Cet homme avait pris la fuite en 2020, en profitant de l'aide d'agents de la police aux frontières (PAF) de l'aéroport d'Orly, ajoute le parquet de Paris sollicité par franceinfo. Ils avaient consulté illégalement pour lui des fichiers afin qu'il puisse disparaître avant l'arrivée des enquêteurs.",
@@ -528,6 +1052,54 @@
         "value": "Drogue"
       }
     ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2918,
+    "titre": "Attaqué en justice, le maire de Perpignan, Louis Aliot, continue de ne pas communiquer ses notes de frais",
+    "contenu": "Bruno Nougayrède, chef de file de l’opposition municipale et candidat aux municipales de 2026 à Perpignan, saisit ce jeudi le tribunal administratif pour exiger davantage de transparence sur les dépenses faites avec les cartes bancaires de la Ville. Un recours a aussi été déposé par une association.",
+    "url": "https://www.francebleu.fr/infos/politique/perpignan-le-maire-louis-aliot-attaque-en-justice-continue-de-ne-pas-communiquer-ses-notes-de-frais-6301820",
+    "date": "2024-12-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2756,
+        "value": "66 - Pyrénées-Orientales"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 694,
+        "value": "Louis Aliot"
+      },
+      {
+        "id": 2375,
+        "value": "Bruno Nougayrède"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      },
+      {
+        "id": 505,
+        "value": "Commission d'accès aux documents administratifs (CADA)"
+      },
+      {
+        "id": 1108,
+        "value": "Transparence Citoyenne"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
@@ -787,6 +1359,215 @@
     "a_la_une": false
   },
   {
+    "id": 2908,
+    "titre": "Détournements de fonds à l'université d'Orléans : deux ans de prison avec sursis requis contre Hechmi Toumi",
+    "contenu": "Après deux jours d'audience, le procès de l'affaire des détournements de fonds à l'université d'Orléans touche à sa fin devant le tribunal correctionnel. Ce mercredi matin, une peine de deux ans de prison avec sursis a été requise contre Hechmi Toumi, l'ancien directeur de l'UFR Sciences.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/detournements-de-fonds-a-l-universite-d-orleans-deux-ans-de-prison-avec-sursis-requis-contre-hechmi-toumi-2650109",
+    "date": "2024-12-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2739,
+        "value": "45 - Loiret"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2230,
+        "value": "Hechmi Toumi"
+      },
+      {
+        "id": 2231,
+        "value": "Éric Lespessailles"
+      },
+      {
+        "id": 2232,
+        "value": "Ary Bruand"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1029,
+        "value": "Université d'Orléans"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2917,
+    "titre": "L’ancien directeur des services techniques de la Régie des Transports de l’Aisne pourrait être condamné en appel pour favoritisme",
+    "contenu": "Relaxé en première instance, il était rejugé ce mercredi 18 décembre 2024 aux côtés d’un commercial d’un distributeur de cars et de bus pour corruption et atteinte à l’égalité des candidats à des marchés publics.",
+    "url": "https://www.aisnenouvelle.fr/id589463/article/2024-12-18/lancien-directeur-des-services-techniques-de-la-regie-des-transports-de-laisne",
+    "date": "2024-12-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2699,
+        "value": "02 - Aisne"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2915,
+    "titre": "20 000 € d’amende et trois ans d’inéligibilité pour l’ancien maire de Morzine",
+    "contenu": "Jugé pour prise illégale d’intérêts et délit de favoritisme, l’ancien maire de Morzine, Gérard Berger, a été condamné ce mardi 17 décembre à 30 000 € d’amende (dont 10 000 € avec sursis), ainsi qu’à une peine d’inéligibilité de trois ans.",
+    "url": "https://www.ledauphine.com/faits-divers-justice/2024/12/17/prise-illegale-d-interets-et-favoritisme-20-000-d-amende-et-trois-ans-d-ineligibilite-pour-l-ancien-maire",
+    "date": "2024-12-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2761,
+        "value": "74 - Haute-Savoie"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2275,
+        "value": "Gérard Berger"
+      },
+      {
+        "id": 2276,
+        "value": "Lucien Rastello"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2910,
+    "titre": "Affaire de l'extension du Cap Sacré-Coeur : prison avec sursis et cinq ans d'inéligibilité pour le maire du Port",
+    "contenu": "Le tribunal correctionnel de Saint-Denis condamne Olivier Hoarau et son ex-premier adjoint à 15 mois de prison avec sursis, 50 000 euros d'amende et cinq ans d'inéligibilité dans l'affaire du centre commercial Cap Sacré-Coeur. La défense a fait appel.",
+    "url": "https://la1ere.francetvinfo.fr/reunion/port/affaire-de-l-extension-du-cap-sacre-coeur-prison-avec-sursis-et-cinq-ans-d-ineligibilite-pour-le-maire-du-port-1546144.html",
+    "date": "2024-12-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2786,
+        "value": "974 - La Réunion"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2267,
+        "value": "Olivier Hoarau"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 87,
+        "value": "Tracfin"
+      },
+      {
+        "id": 599,
+        "value": "Groupe Casino"
+      },
+      {
+        "id": 1105,
+        "value": "Cap Sacré-Coeur"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2903,
+    "titre": "Chloé Ridel aux aguets sur la lutte anticorruption au Parlement européen",
+    "contenu": "L'élue socialiste Chloé Ridel va coprésider l'intergroupe anticorruption du Parlement européen. Alors que Bruxelles cherche à colmater les brèches constatées après le Qatargate, l'eurodéputée demande plus de transparence et s'attaque à la pratique des \"revolving doors\".",
+    "url": "https://www.lalettre.fr/fr/action-publique_parlement/2024/12/17/chloe-ridel-aux-aguets-sur-la-lutte-anticorruption-au-parlement-europeen%2C110353059-art",
+    "date": "2024-12-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2373,
+        "value": "Chloé Ridel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      },
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2872,
     "titre": "En restant maire, François Bayrou renoue avec la tradition des Premiers ministres cumulards",
     "contenu": "En conseil municipal de Pau (Pyrénées-Atlantiques), François Bayrou a annoncé lundi 16 décembre qu’il comptait rester maire de la ville malgré sa nomination comme Premier ministre. Un choix à rebours des derniers chefs de gouvernement qui étaient dans son cas.",
@@ -823,6 +1604,135 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2913,
+    "titre": "François Fillon rembourse le salaire de son prête-plume à l'Assemblée pour éviter un nouveau procès",
+    "contenu": "Le parquet national financier a classé, vendredi le 13 décembre, l'enquête préliminaire pour \"détournement de fonds publics\" visant François Fillon. Celle-ci concernait l'embauche de Maël Renouard en qualité d'assistant parlementaire pour écrire \"Faire\", son livre programme en vue de la présidentielle de 2017.",
+    "url": "https://www.bfmtv.com/police-justice/info-bfmtv-emplois-fictifs-francois-fillon-rembourse-le-salaire-de-son-prete-plume-a-l-assemblee-pour-eviter-un-nouveau-proces_AN-202412170580.html",
+    "date": "2024-12-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1388,
+        "value": "François Fillon"
+      },
+      {
+        "id": 2374,
+        "value": "Maël Renouard"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2914,
+    "titre": "Inéligibilité confirmée pour l'ex-maire de Sanary-sur-Mer",
+    "contenu": "La cour d'appel d'Aix-en-Provence a confirmé mardi l'inéligibilité pour cinq ans avec exécution provisoire contre l'ancien maire de Sanary-sur-Mer, Ferdinand Bernhard, condamné pour détournement de fonds, mais pas sa peine de prison ferme.",
+    "url": "https://www.lexpress.fr/societe/detournement-ineligibilite-confirmee-pour-lex-maire-de-sanary-sur-mer-var-DSY42ELB3RGFXNTEVNMHWPJEI4/",
+    "date": "2024-12-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2004,
+        "value": "Ferdinand Bernhard"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2916,
+    "titre": "Le PNF enquête sur l'étude d’opinion sur Laurent Wauquiez financée par la Région",
+    "contenu": "Le Parquet national financier (PNF) a élargi une enquête déjà ouverte visant le patron des députés LR, à une étude commandée en 2021 par la Région Auvergne-Rhône-Alpes.",
+    "url": "https://www.lopinion.fr/politique/le-pnf-enquete-sur-letude-dopinion-sur-laurent-wauquiez-financee-par-la-region",
+    "date": "2024-12-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 668,
+        "value": "Laurent Wauquiez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      },
+      {
+        "id": 1107,
+        "value": "Mediascopie"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -965,6 +1875,55 @@
         "value": "Condamnation"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2909,
+    "titre": "Mediacités gagne en appel face à l’ancien ministre Patrick Ollier",
+    "contenu": "Le président de la métropole du Grand Paris poursuivait le journal pour ses révélations sur le dépôt d’une plainte pour « détournement de fonds publics » et « prise illégale d’intérêts » qui le visait indirectement, en tant que maire de Rueil-Malmaison.",
+    "url": "https://www.mediacites.fr/la-fabrique/national/2024/12/16/justice-mediacites-gagne-en-appel-face-a-lancien-ministre-patrick-ollier/",
+    "date": "2024-12-16",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2765,
+        "value": "92 - Hauts-de-Seine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 688,
+        "value": "Patrick Ollier"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 66,
+        "value": "Anticor"
+      },
+      {
+        "id": 107,
+        "value": "Mediacités"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2675,
+        "value": "Médias / Divertissement"
+      }
+    ],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -1469,6 +2428,118 @@
         "value": "Condamnation"
       }
     ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2906,
+    "titre": "Enquête sur les emplois familiaux : perquisition des locaux de la Région Réunion",
+    "contenu": "Les locaux de la Région Réunion ont été perquisitionnés ce mardi 10 décembre 2024 dans le cadre d'une enquête concernant des emplois familiaux présumés. Après la juridiction administrative, une enquête avait été ouverte en mars dernier par la procureure de Saint-Denis pour discrimination à l'embauche au Conseil régional.",
+    "url": "https://la1ere.francetvinfo.fr/reunion/enquete-sur-les-emplois-familiaux-perquisition-des-locaux-de-la-region-reunion-1544590.html",
+    "date": "2024-12-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2786,
+        "value": "974 - La Réunion"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1476,
+        "value": "Huguette Bello"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2905,
+    "titre": "L'ancien maire de Metz, Dominique Gros, relaxé par la cour d'appel",
+    "contenu": "La cour d'appel de Metz (Moselle) a décidé, ce jeudi 12 décembre, de relaxer l'ancien maire de la ville, Dominique Gros, de toutes les charges qui pesaient contre lui dans une affaire de prise illégale d'intérêts.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/pris-illegale-d-interets-l-ancien-maire-de-metz-dominique-gros-relaxe-par-la-cour-d-appel-6921070",
+    "date": "2024-12-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2748,
+        "value": "57 - Moselle"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 789,
+        "value": "Dominique Gros"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 14,
+        "value": "Parti Socialiste (PS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement / acquittement"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2907,
+    "titre": "L'ancien président de la chambre d'agriculture de Haute-Garonne et l'ancien maire de Lanta dispensés de peine en appel",
+    "contenu": "La cour d'appel de Toulouse a rendu sa décision concernant l'ancien président de la chambre d’agriculture de Haute-Garonne et l’ancien maire de Lanta. Les deux hommes ont été dispensés de peine. En 2022, ils avaient été condamnés pour infractions aux règles d’urbanisme et prise illégale d’intérêt.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/l-ancien-president-de-la-chambre-d-agriculture-de-haute-garonne-et-l-ancien-maire-de-lanta-blanchis-en-appel-4054470",
+    "date": "2024-12-12",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2725,
+        "value": "31 - Haute-Garonne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1346,
+        "value": "Serge Bouscatel"
+      },
+      {
+        "id": 1347,
+        "value": "Marc Mengaud"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
   },
@@ -6319,6 +7390,47 @@
     "a_la_une": false
   },
   {
+    "id": 2904,
+    "titre": "Le Rassemblement national abdique dans l'un de ses recours contre le fisc",
+    "contenu": "Le parti de Marine Le Pen était prié par la justice de s'acquitter d'une dette fiscale de 1,8 million d'euros dans le cadre de l'affaire dite des \"kits de campagne\". Le Rassemblement national s'est désisté d'un recours au tribunal administratif de Paris, mais un autre contentieux demeure.",
+    "url": "https://www.lalettre.fr/fr/action-publique_partis-et-elections/2024/11/19/le-rassemblement-national-abdique-dans-l-un-de-ses-recours-contre-le-fisc%252C110341439-art",
+    "date": "2024-11-19",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 314,
+        "value": "Marine Le Pen"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 16,
+        "value": "Rassemblement National (RN), ex Front National (FN)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2756,
     "titre": "Les cumuls de Guy Lefrand, maire d’Évreux, étudiés par le Parquet national financier",
     "contenu": "Le maire d’Évreux Guy Lefrand a fait l’objet d’une enquête préliminaire du parquet de Rouen pour « prise illégale d’intérêts », classée sans suite mi-octobre. Il avait voté en faveur d'un plan d'investissement de 200 millions d'euros qui allait bénéficier, notamment, à une clinique privée d’Évreux où il travaillait en même temps comme médecin urgentiste et à laquelle il a accordé, par ailleurs, un permis de construire. Sauf que le Parquet national financier (PNF) s’intéresse désormais à cette affaire.",
@@ -7647,7 +8759,12 @@
       }
     ],
     "theme": [],
-    "procedure": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
