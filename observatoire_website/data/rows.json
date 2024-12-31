@@ -35,6 +35,63 @@
     "a_la_une": false
   },
   {
+    "id": 2924,
+    "titre": "La Cour des comptes étrille la gestion du magot de la formation des employés à domicile",
+    "contenu": "Dans un rapport révélé par Mediapart, l’institution critique sévèrement « le conflit d’intérêts » entre la Fepem, fédération patronale du secteur, et Iperia, l’entreprise qui règne sur la formation professionnelle des assistantes maternelles et des employés à domicile. Un marché à 100 millions d’euros par an.",
+    "url": "https://www.mediapart.fr/journal/economie-et-social/271224/la-cour-des-comptes-etrille-la-gestion-du-magot-de-la-formation-des-employes-domicile",
+    "date": "2024-12-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2082,
+        "value": "Marie Béatrice Levaux"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 6,
+        "value": "Cour des comptes (CDC)"
+      },
+      {
+        "id": 926,
+        "value": "Fédération des particuliers employeurs de France (FEPEM)"
+      },
+      {
+        "id": 927,
+        "value": "Iperia"
+      },
+      {
+        "id": 928,
+        "value": "Domicile & compétences"
+      },
+      {
+        "id": 1111,
+        "value": "Association paritaire nationale d’innovation et de formation (APNI)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2682,
+        "value": "Social"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2891,
     "titre": "«Faux témoignage», «corruption», «financement irrégulier»… Les aventures judiciaires des membres du gouvernement Bayrou",
     "contenu": "Une «République exemplaire», promettait Emmanuel Macron en 2017. L’engagement est loin d’être tenu. Dans le nouveau gouvernement, de nombreux ministres, dont le Premier ministre lui-même, ont déjà été condamnés par la justice ou font l’objet d’une enquête judiciaire en cours.",
