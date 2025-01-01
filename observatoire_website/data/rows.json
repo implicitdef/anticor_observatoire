@@ -35,6 +35,79 @@
     "a_la_une": false
   },
   {
+    "id": 2925,
+    "titre": "Emprise du narcotrafic en France : chronique de quinze années d’un aveuglement collectif",
+    "contenu": "La plongée dans les notes, analyses et rapports des services de lutte contre les trafics de stupéfiants retrace l’édifiante histoire d’une progression continue de cette criminalité face à un pouvoir politique et policier incapable de l’enrayer.",
+    "url": "https://www.lemonde.fr/societe/article/2024/12/27/lutte-contre-le-narcotrafic-chronique-de-quinze-annees-d-aveuglement_6469159_3224.html",
+    "date": "2024-12-27",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 820,
+        "value": "François Thierry"
+      },
+      {
+        "id": 1326,
+        "value": "Frédéric Veaux"
+      },
+      {
+        "id": 2381,
+        "value": "Dimitri Zoulas"
+      },
+      {
+        "id": 2382,
+        "value": "Fabrice Gardon"
+      },
+      {
+        "id": 2383,
+        "value": "Eric Arella"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 63,
+        "value": "Office antistupéfiants (Ofast)"
+      },
+      {
+        "id": 189,
+        "value": "Direction nationale de la Police judiciaire (DNPJ)"
+      },
+      {
+        "id": 987,
+        "value": "Office central pour la répression du trafic illicite des stupéfiants (OCRTIS)"
+      },
+      {
+        "id": 1112,
+        "value": "Service d'information, de renseignement et d'analyse stratégique sur la criminalité organisée (SIRASCO)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2664,
+        "value": "Drogue"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2924,
     "titre": "La Cour des comptes étrille la gestion du magot de la formation des employés à domicile",
     "contenu": "Dans un rapport révélé par Mediapart, l’institution critique sévèrement « le conflit d’intérêts » entre la Fepem, fédération patronale du secteur, et Iperia, l’entreprise qui règne sur la formation professionnelle des assistantes maternelles et des employés à domicile. Un marché à 100 millions d’euros par an.",
