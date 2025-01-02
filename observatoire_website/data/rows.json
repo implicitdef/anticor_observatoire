@@ -1,5 +1,50 @@
 [
   {
+    "id": 2927,
+    "titre": "Un chef d’entreprise et élu de Dordogne soupçonné de prise illégale d’intérêts",
+    "contenu": "Le chef d’entreprise Thierry Gauthier est visé par une enquête pour prise illégale d’intérêts en tant qu’adjoint au maire de Beynac. La question porte sur des parcelles destinées à ses activités commerciales",
+    "url": "https://www.sudouest.fr/justice/un-chef-d-entreprise-et-elu-de-dordogne-soupconne-de-prise-illegale-d-interets-21789442.php",
+    "date": "2025-01-02",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2716,
+        "value": "24 - Dordogne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2167,
+        "value": "Thierry Gauthier"
+      },
+      {
+        "id": 2168,
+        "value": "Jean-Jacques de Peretti"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 6,
+        "value": "Cour des comptes (CDC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2694,
+        "value": "Plainte"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2923,
     "titre": "Anticor perd son agrément devant la Haute Autorité pour la transparence de la vie publique",
     "contenu": "Deux anciens membres de l’association de lutte contre la corruption avaient saisi le tribunal administratif pour contester le renouvellement de l’agrément accordé en octobre 2022 par la HATVP.",
@@ -512,6 +557,42 @@
       }
     ],
     "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2926,
+    "titre": "Coucou, revoilou McKinsey, Boston Consulting Group et les autres !",
+    "contenu": "Comme si de rien n'était, Bercy continue à recourir à haute dose aux cabinets de conseil. Dernière opération : un appel d'offres à 3 millions d'euros pour demander à des privés de faire le boulot à la place de l'Etat. Sans garantie contre le mélange des genres.",
+    "url": "https://www.lecanardenchaine.fr/politique/49759-coucou-revoilou-les-cabinets-de-conseil",
+    "date": "2024-12-23",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2660,
+        "value": "Conseil"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
