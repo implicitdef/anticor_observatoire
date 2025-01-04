@@ -1,5 +1,193 @@
 [
   {
+    "id": 2931,
+    "titre": "Dîners à 180 000 euros : Laurent Wauquiez sommé de donner la liste de ses invités",
+    "contenu": "Le Conseil d’Etat a rejeté le recours de la région Auvergne-Rhône-Alpes visant à éviter de dévoiler les dessous d’une opération de communication au profit de son ancien président.",
+    "url": "https://www.liberation.fr/politique/diners-a-180-000-euros-laurent-wauquiez-somme-de-donner-la-liste-de-ses-invites-20250103_4EOXPSXVXZBHFETP7YIADI6H6M/?redirected=1&redirected=1",
+    "date": "2025-01-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2713,
+        "value": "69 - Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 668,
+        "value": "Laurent Wauquiez"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      },
+      {
+        "id": 431,
+        "value": "Chambres régionale des comptes (CRC)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2928,
+    "titre": "La justice enquête sur le service des achats du ministère de l’intérieur",
+    "contenu": "Un général de gendarmerie a été suspendu du service qui gère les marchés d’équipements pour le ministère de l’intérieur. L’enquête porte notamment sur le rôle d’un intermédiaire qui dispose d’un réseau important au sein des forces de sécurité et a déjà été condamné pour trafic d’influence en 2011.",
+    "url": "https://www.mediapart.fr/journal/france/030125/corruption-la-justice-enquete-sur-le-service-des-achats-du-ministere-de-l-interieur",
+    "date": "2025-01-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2384,
+        "value": "Xavier Lejeune"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 75,
+        "value": "Thales"
+      },
+      {
+        "id": 619,
+        "value": "Ministère de l'Intérieur"
+      },
+      {
+        "id": 1113,
+        "value": "Gendarmerie nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2930,
+    "titre": "Le maire de Joinville-le-Pont accusé de « prise illégale d’intérêts » pour sa pharmacie",
+    "contenu": "Olivier Dosne (Libres !) fait l’objet d’une enquête préliminaire ouverte par le parquet de Créteil. Un habitant lui reproche d’avoir profité de sa position pour valoriser le foncier de son officine. Il conteste ces accusations, par le biais de son avocat.",
+    "url": "https://www.leparisien.fr/val-de-marne-94/val-de-marne-le-maire-de-joinville-accuse-de-prise-illegale-dinterets-pour-sa-pharmacie-03-01-2025-PHL3BWJP6RHDDCGDONOOCOJGUE.php?ts=1736018562411",
+    "date": "2025-01-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2781,
+        "value": "94 - Val-de-Marne"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2388,
+        "value": "Olivier Dosne"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 797,
+        "value": "Soyons libres"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2929,
+    "titre": "Un ancien commissaire européen pris la main dans le cash",
+    "contenu": "Poids lourd de la politique belge, ancien commissaire européen à la Justice, Didier Reynders est depuis le 3 décembre soupçonné d’avoir blanchi près d’un million d’euros reçu en cash. Une enquête au parfum kazakh et aux forts relents de corruption qui pourrait empuantir l’ambiance, en Belgique comme en France où il est un intime de Nicolas Sarkozy.",
+    "url": "https://www.blast-info.fr/articles/2024/belgique-un-ancien-commissaire-europeen-pris-la-main-dans-le-cash-OX-7SImgSKu-n3Cu-AP_Cg",
+    "date": "2025-01-03",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 597,
+        "value": "Didier Reynders"
+      },
+      {
+        "id": 660,
+        "value": "Claude Guéant"
+      },
+      {
+        "id": 1108,
+        "value": "Jean-François Étienne Des Rosaies"
+      },
+      {
+        "id": 2385,
+        "value": "Jean-Claude Fontinoy"
+      },
+      {
+        "id": 2386,
+        "value": "Armand De Decker"
+      },
+      {
+        "id": 2387,
+        "value": "Jean-François Tossens"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2927,
     "titre": "Un chef d’entreprise et élu de Dordogne soupçonné de prise illégale d’intérêts",
     "contenu": "Le chef d’entreprise Thierry Gauthier est visé par une enquête pour prise illégale d’intérêts en tant qu’adjoint au maire de Beynac. La question porte sur des parcelles destinées à ses activités commerciales",
