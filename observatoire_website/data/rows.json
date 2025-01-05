@@ -1,5 +1,40 @@
 [
   {
+    "id": 2932,
+    "titre": "Lanton : l’ex-conseiller municipal à l’urbanisme débouté",
+    "contenu": "La maire de Lanton avait retiré en août 2022 la délégation de fonction et de signature de l’ex-conseiller municipal à l’urbanisme de sa majorité. Il demandait l’annulation de cette décision mais le tribunal ne l’a pas suivi",
+    "url": "https://www.sudouest.fr/gironde/arcachon/lanton-l-ex-conseiller-municipal-a-l-urbanisme-deboute-22705105.php",
+    "date": "2025-01-04",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2727,
+        "value": "33 - Gironde"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1358,
+        "value": "Marie Larrue"
+      },
+      {
+        "id": 1360,
+        "value": "Damien Belloc"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2931,
     "titre": "Dîners à 180 000 euros : Laurent Wauquiez sommé de donner la liste de ses invités",
     "contenu": "Le Conseil d’Etat a rejeté le recours de la région Auvergne-Rhône-Alpes visant à éviter de dévoiler les dessous d’une opération de communication au profit de son ancien président.",
