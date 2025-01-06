@@ -373,6 +373,73 @@
     "a_la_une": false
   },
   {
+    "id": 2934,
+    "titre": "La Cour fait les mauvais comptes des privatisations locales",
+    "contenu": "Les pertes pour le public, les bénéfices pour le privé ! Dans un rapport paru le 19 décembre, la Cour des comptes dresse un bilan croquignolet de la privatisation des services publics locaux partout en France. Exemples choisis en Moselle, Hautes-Alpes, Hérault, Puy-de-Dôme, etc.",
+    "url": "https://www.lecanardenchaine.fr/societe/49798-la-cour-fait-les-mauvais-comptes-des-privatisations-locales",
+    "date": "2025-01-01",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2723,
+        "value": "2B - Haute-Corse"
+      },
+      {
+        "id": 2748,
+        "value": "57 - Moselle"
+      },
+      {
+        "id": 2702,
+        "value": "05 - Hautes-Alpes"
+      },
+      {
+        "id": 2728,
+        "value": "34 - Hérault"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 6,
+        "value": "Cour des comptes (CDC)"
+      },
+      {
+        "id": 74,
+        "value": "Agence française anticorruption (AFA)"
+      },
+      {
+        "id": 90,
+        "value": "Vinci"
+      },
+      {
+        "id": 182,
+        "value": "Suez"
+      },
+      {
+        "id": 346,
+        "value": "Compagnie des Alpes"
+      },
+      {
+        "id": 1114,
+        "value": "Groupe Tranchant"
+      },
+      {
+        "id": 1115,
+        "value": "Groupe Ferrandi"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2923,
     "titre": "Anticor perd son agrément devant la Haute Autorité pour la transparence de la vie publique",
     "contenu": "Deux anciens membres de l’association de lutte contre la corruption avaient saisi le tribunal administratif pour contester le renouvellement de l’agrément accordé en octobre 2022 par la HATVP.",
