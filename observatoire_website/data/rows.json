@@ -1,5 +1,145 @@
 [
   {
+    "id": 2937,
+    "titre": "Le nouveau député corse, l’ami gendarme et les fausses procurations",
+    "contenu": "Suppléant du nouveau ministre Laurent Marcangeli, Xavier Lacombe va faire son entrée à l’Assemblée nationale mercredi. En Corse, il a été mis en cause par un gendarme dans une affaire de fausses procurations. Le nouveau député est d’ailleurs attendu fin janvier dans le bureau d’un juge d’instruction.",
+    "url": "https://www.mediapart.fr/journal/france/080125/le-nouveau-depute-corse-l-ami-gendarme-et-les-fausses-procurations",
+    "date": "2025-01-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2722,
+        "value": "2A - Corse-du-Sud"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 355,
+        "value": "Laurent Marcangeli"
+      },
+      {
+        "id": 2395,
+        "value": "Xavier Lacombe"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 12,
+        "value": "Horizons"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2936,
+    "titre": "Le procès du maire de Tarbes Gérard Trémège, prévu à Pau début mars, repoussé en fin d'année",
+    "contenu": "Le procès de Gérard Trémège, le maire de Tarbes, qui devait être jugé à Pau du 3 au 7 mars prochain dans une affaire de favoritisme lors de l'attribution de marchés publics, aura finalement lieu en fin d'année, en octobre ou novembre.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-proces-de-gerard-tremege-prevu-a-pau-debut-mars-repousse-en-fin-d-annee-5935951",
+    "date": "2025-01-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2755,
+        "value": "65 - Hautes-Pyrénées"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 845,
+        "value": "Gérard Trémège"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2935,
+    "titre": "Jugement clément pour des généraux accusés de favoritisme",
+    "contenu": "DesDes peines modérées et quelques relaxes. Tel est l’épilogue du procès pour favoritisme et corruption qui s’est tenu en septembre dernier à Paris, où comparaissaient deux généraux en retraite, six officiers supérieurs de l’armée de l’air et un chef d’entreprise. Peu médiatisé, ce procès portait sur les conditions d’affrètement d’avions gros-porteurs pour les opérations extérieures (Opex) de l’armée française sur la période 2011-2018.",
+    "url": "https://www.mediapart.fr/journal/france/070125/jugement-clement-pour-des-generaux-accuses-de-favoritisme",
+    "date": "2025-01-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 741,
+        "value": "Philippe Rives"
+      },
+      {
+        "id": 742,
+        "value": "Philippe Boussard"
+      },
+      {
+        "id": 744,
+        "value": "Christophe Marie"
+      },
+      {
+        "id": 745,
+        "value": "Philippe de Fauque de Jonquières"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 961,
+        "value": "Centre du soutien des opérations et des acheminements (CSOA)"
+      },
+      {
+        "id": 963,
+        "value": "International Chartering Systems (ICS)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2933,
     "titre": "Soupçons de financement libyen : le procès de Nicolas Sarkozy et de ses proches s’ouvre à Paris",
     "contenu": "L’ancien président de la République est accusé d’avoir noué un « pacte de corruption » avec l’ex-dictateur libyen Mouammar Kadhafi dès 2005. Parmi les douze autres prévenus de cette affaire : trois anciens ministres, Brice Hortefeux, Claude Guéant et Eric Woerth, un ex-dignitaire libyen et les intermédiaires Ziad Takieddine et Alexandre Djouhri.",
@@ -63945,7 +64085,12 @@
         "value": "Gérard Trémège"
       }
     ],
-    "personnes_morales": [],
+    "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
     "categorie": [
       {
         "id": 2652,
