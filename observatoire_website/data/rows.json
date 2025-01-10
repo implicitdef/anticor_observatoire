@@ -1,5 +1,45 @@
 [
   {
+    "id": 2938,
+    "titre": "40 000 euros : le très cher nouveau fauteuil du président du Sénat",
+    "contenu": "40 000 : c’est, en euros, le coût du nouveau siège du président du Sénat, en l’occurrence Gérard Larcher, selon le Canard enchaîné qui précise même que le prix du trône en question est «hors taxes». Si la chambre haute a confirmé l’achat de la nouvelle assise présidentielle (ainsi que d’une doublure de remplacement), elle n’a pas voulu valider le prix (ni le démentir).",
+    "url": "https://www.liberation.fr/politique/le-tres-cher-nouveau-fauteuil-du-president-du-senat-20250109_D2TTQ5OY2NHNNLJPZK66CXKEIA/",
+    "date": "2025-01-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2244,
+        "value": "Gérard Larcher"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 4,
+        "value": "Sénat"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2937,
     "titre": "Le nouveau député corse, l’ami gendarme et les fausses procurations",
     "contenu": "Suppléant du nouveau ministre Laurent Marcangeli, Xavier Lacombe va faire son entrée à l’Assemblée nationale mercredi. En Corse, il a été mis en cause par un gendarme dans une affaire de fausses procurations. Le nouveau député est d’ailleurs attendu fin janvier dans le bureau d’un juge d’instruction.",
