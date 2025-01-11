@@ -1,5 +1,86 @@
 [
   {
+    "id": 2940,
+    "titre": "« Barbouzeries » autour du PSG : ce que l’ex-député Hugues Renson a dit au juge d’instruction",
+    "contenu": "« Le Monde » a pris connaissance de l’interrogatoire de première comparution de l’ex-vice-président macroniste de l’Assemblée nationale Hugues Renson, mis en examen pour « trafic d’influence » en septembre 2024 dans l’affaire du Paris Saint-Germain.",
+    "url": "https://www.lemonde.fr/societe/article/2025/01/09/barbouzeries-autour-du-psg-ce-que-l-ex-depute-hugues-renson-a-dit-au-juge-d-instruction_6489915_3224.html",
+    "date": "2025-01-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2807,
+        "value": "Qatar"
+      },
+      {
+        "id": 2790,
+        "value": "Arabie Saoudite"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 761,
+        "value": "Gérald Darmanin"
+      },
+      {
+        "id": 816,
+        "value": "Jean-Martial Ribes"
+      },
+      {
+        "id": 968,
+        "value": "Nasser al-Khelaïfi"
+      },
+      {
+        "id": 1016,
+        "value": "Hugues Renson"
+      },
+      {
+        "id": 2396,
+        "value": "Daniel Markham"
+      },
+      {
+        "id": 2397,
+        "value": "Victoriano Melero"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 5,
+        "value": "Assemblée Nationale"
+      },
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 166,
+        "value": "Paris Saint Germain (PSG)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2938,
     "titre": "40 000 euros : le très cher nouveau fauteuil du président du Sénat",
     "contenu": "40 000 : c’est, en euros, le coût du nouveau siège du président du Sénat, en l’occurrence Gérard Larcher, selon le Canard enchaîné qui précise même que le prix du trône en question est «hors taxes». Si la chambre haute a confirmé l’achat de la nouvelle assise présidentielle (ainsi que d’une doublure de remplacement), elle n’a pas voulu valider le prix (ni le démentir).",
@@ -35,6 +116,58 @@
       }
     ],
     "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2939,
+    "titre": "La face sombre du crédit d’impôt recherche",
+    "contenu": "Première niche fiscale pour les entreprises, le dispositif de soutien à la recherche et au développement est aussi devenu un vrai business, avec sa face sombre, entre effet d’aubaine, petits arrangements et fraudes avérées.",
+    "url": "https://www.lemonde.fr/economie/article/2025/01/09/la-face-sombre-du-credit-d-impot-recherche_6488932_3234.html",
+    "date": "2025-01-09",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 30,
+        "value": "Ministère de l'économie et des finances"
+      },
+      {
+        "id": 87,
+        "value": "Tracfin"
+      },
+      {
+        "id": 291,
+        "value": "Unilabs"
+      },
+      {
+        "id": 364,
+        "value": "Capgemini"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 2660,
+        "value": "Conseil"
+      }
+    ],
     "procedure": [],
     "titre_corrige": "",
     "a_la_une": false
