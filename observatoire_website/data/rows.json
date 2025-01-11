@@ -1,5 +1,187 @@
 [
   {
+    "id": 2941,
+    "titre": "La chute de Dark Bank, le « banquier » du crime organisé qui aurait aidé à blanchir plus de 1 milliard d’euros",
+    "contenu": "La justice française a mis au jour un vaste réseau international de blanchiment d’argent en cryptomonnaies, selon les informations du « Monde ». La France a demandé l’extradition du principal suspect de ce dossier, arrêté en août aux Etats-Unis.",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2025/01/10/la-chute-de-dark-bank-le-banquier-du-crime-organise-qui-aurait-aide-a-blanchir-plus-d-un-milliard-d-euros_6490703_4355770.html",
+    "date": "2025-01-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2795,
+        "value": "Espagne"
+      },
+      {
+        "id": 2801,
+        "value": "Italie"
+      },
+      {
+        "id": 3066,
+        "value": "Monaco"
+      },
+      {
+        "id": 3023,
+        "value": "Royaume-Uni"
+      },
+      {
+        "id": 2858,
+        "value": "Pays-Bas"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      },
+      {
+        "id": 3954,
+        "value": "Turquie"
+      },
+      {
+        "id": 2794,
+        "value": "Émirats arabes unis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2398,
+        "value": "Huzefa Hafiz Ismail (Dark Bank)"
+      },
+      {
+        "id": 2399,
+        "value": "Ekaterina Zhdanova"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 64,
+        "value": "Office central pour la répression de la grande délinquance financière (OCRGDF)"
+      },
+      {
+        "id": 120,
+        "value": "Binance"
+      },
+      {
+        "id": 455,
+        "value": "Juridiction nationale de lutte contre la criminalité organisée (JUNALCO)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2661,
+        "value": "Cryptomonnaies"
+      },
+      {
+        "id": 2664,
+        "value": "Drogue"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2945,
+    "titre": "La condamnation de Jean-Pierre Maggi et Luc Jorda partiellement invalidée en cassation",
+    "contenu": "Les anciens hommes forts du service d'incendie et de secours des Bouches-du-Rhône (Sdis 13) seront rejugés en appel sur les faits de détournement de fonds publics. L'arrêt de la cour de 2022 a été en partie cassé par la Cour de cassation, cet automne.",
+    "url": "https://marsactu.fr/la-condamnation-de-jean-pierre-maggi-et-luc-jorda-partiellement-invalidee-en-cassation/",
+    "date": "2025-01-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2708,
+        "value": "13 - Bouches-du-Rhône"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1696,
+        "value": "Luc Jorda"
+      },
+      {
+        "id": 1697,
+        "value": "Jean-Pierre Maggi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 1116,
+        "value": "Service départemental d’incendie et de secours des Bouches-du-Rhône (Sdis 13)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2689,
+        "value": "Condamnation"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2946,
+    "titre": "Un signalement visant Tikehau Capital atterrit au Parquet national financier",
+    "contenu": "Un ex-cadre du groupe de gestion a dénoncé auprès de l'Autorité des marchés financiers de possibles pratiques anticoncurrentielles lors du rachat de LMB Aerospace fin 2021. Il affirme que le fonds cofondé par Antoine Flamarion et Mathieu Chabran a eu accès aux autres offres de rachat de ce fournisseur de l'industrie aéronautique et militaire.",
+    "url": "https://www.lalettre.fr/fr/entreprises_finance/2025/01/10/un-signalement-visant-tikehau-capital-atterrit-au-parquet-national-financier%252C110359564-eve",
+    "date": "2025-01-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 178,
+        "value": "Autorité des Marchés Financiers (AMF)"
+      },
+      {
+        "id": 1117,
+        "value": "Tikehau Capital"
+      },
+      {
+        "id": 1118,
+        "value": "LMB Aerospace"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2656,
+        "value": "Armement"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2940,
     "titre": "« Barbouzeries » autour du PSG : ce que l’ex-député Hugues Renson a dit au juge d’instruction",
     "contenu": "« Le Monde » a pris connaissance de l’interrogatoire de première comparution de l’ex-vice-président macroniste de l’Assemblée nationale Hugues Renson, mis en examen pour « trafic d’influence » en septembre 2024 dans l’affaire du Paris Saint-Germain.",
@@ -78,7 +260,7 @@
     ],
     "procedure": [],
     "titre_corrige": "",
-    "a_la_une": false
+    "a_la_une": true
   },
   {
     "id": 2938,
@@ -173,6 +355,54 @@
     "a_la_une": false
   },
   {
+    "id": 2943,
+    "titre": "« 165 992 euros la réunion » : les rémunérations astronomiques et opaques du Conseil constitutionnel",
+    "contenu": "Les Sages de l’institution gardienne de la Constitution perçoivent une rémunération qui n’a aucune base légale, dénonce un rapport de la députée LFI Marianne Maximi dans lequel elle révèle l’indemnité astronomique versée à l’ancien président Valéry Giscard d'Estaing lorsqu’il siégeait au Conseil.",
+    "url": "https://www.challenges.fr/politique/165-992-euros-la-reunion-les-remunerations-astronomiques-et-opaques-du-conseil-constitutionnel_595715",
+    "date": "2025-01-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 378,
+        "value": "Marianne Maximi"
+      },
+      {
+        "id": 738,
+        "value": "Florence Parly"
+      },
+      {
+        "id": 2400,
+        "value": "Valéry Giscard d'Estaing"
+      },
+      {
+        "id": 2401,
+        "value": "Laurent Fabius"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 237,
+        "value": "Conseil constitutionnel"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2937,
     "titre": "Le nouveau député corse, l’ami gendarme et les fausses procurations",
     "contenu": "Suppléant du nouveau ministre Laurent Marcangeli, Xavier Lacombe va faire son entrée à l’Assemblée nationale mercredi. En Corse, il a été mis en cause par un gendarme dans une affaire de fausses procurations. Le nouveau député est d’ailleurs attendu fin janvier dans le bureau d’un juge d’instruction.",
@@ -257,6 +487,89 @@
     "a_la_une": false
   },
   {
+    "id": 2942,
+    "titre": "Trois nouvelles inculpations dans l’enquête sur le Qatargate",
+    "contenu": "Suspectés d’avoir participé à une entreprise de corruption et d’ingérence au sein du Parlement européen, un ex-conseiller politique, un conseiller et un ancien assistant parlementaire du groupe social-démocrate (S&D) ont été inculpés.",
+    "url": "https://www.lesoir.be/646845/article/2025-01-08/trois-nouvelles-inculpations-dans-lenquete-sur-le-qatargate",
+    "date": "2025-01-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2757,
+        "value": "67 - Bas-Rhin"
+      },
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [],
+    "personnes_morales": [
+      {
+        "id": 65,
+        "value": "Parlement Européen"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2944,
+    "titre": "Un service du ministère de l’Intérieur visé par une enquête, un général de gendarmerie suspendu",
+    "contenu": "Le Parquet national financier a ouvert une enquête portant sur des soupçons de corruption au sein du service des achats du ministère de l’Intérieur.",
+    "url": "https://www.20minutes.fr/faits_divers/4132709-20250108-corruption-service-ministere-interieur-vise-enquete-general-gendarmerie-suspendu",
+    "date": "2025-01-08",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2384,
+        "value": "Xavier Lejeune"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 75,
+        "value": "Thales"
+      },
+      {
+        "id": 619,
+        "value": "Ministère de l'Intérieur"
+      },
+      {
+        "id": 1113,
+        "value": "Gendarmerie nationale"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2935,
     "titre": "Jugement clément pour des généraux accusés de favoritisme",
     "contenu": "DesDes peines modérées et quelques relaxes. Tel est l’épilogue du procès pour favoritisme et corruption qui s’est tenu en septembre dernier à Paris, où comparaissaient deux généraux en retraite, six officiers supérieurs de l’armée de l’air et un chef d’entreprise. Peu médiatisé, ce procès portait sur les conditions d’affrètement d’avions gros-porteurs pour les opérations extérieures (Opex) de l’armée française sur la période 2011-2018.",
@@ -305,6 +618,94 @@
       {
         "id": 2652,
         "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2948,
+    "titre": "L’élection législative dans la 5e  circonscription de Seine-Saint-Denis devrait être annulée prochainement",
+    "contenu": "Dans les prochaines semaines, le Conseil constitutionnel devrait, selon toute vraisemblance, annuler l’élection législative dans la 5e circonscription de Seine-Saint-Denis. Les comptes de campagne du député LFI sortant Aly Diouara ont en effet été rejetés : il avait reçu de l’argent d’une association dont il est membre. Or, comme n’importe quel postulant à la fonction de député est censé le savoir, le financement d’une campagne électorale par une personne morale est totale­ment prohibé.",
+    "url": "https://www.lecanardenchaine.fr/politique/49857-match-retour-dans-le-9-3",
+    "date": "2025-01-07",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2766,
+        "value": "93 - Seine-Saint-Denis"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2025,
+        "value": "Aly Diouara"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 15,
+        "value": "La France Insoumise (LFI)"
+      },
+      {
+        "id": 237,
+        "value": "Conseil constitutionnel"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2947,
+    "titre": "Affaire AGS : Houria Aouimeur obtient l'appui du Défenseur des droits",
+    "contenu": "Houria Aouimeur, qui dirigeait l'organisme de garantie des salaires (AGS) supervisé par l'Unédic et le Medef, va contester son licenciement devant les prud'hommes fin janvier et la cour d'appel de Paris début février. Le Défenseur des droits, qui la crédite d'avoir dénoncé de possibles malversations financières, lui a reconnu un statut de lanceuse d'alerte.",
+    "url": "https://www.lalettre.fr/fr/action-publique_operateurs-de-l-etat/2025/01/06/affaire-ags--houria-aouimeur-obtient-l-appui-du-defenseur-des-droits%252C110357392-eve",
+    "date": "2025-01-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2402,
+        "value": "Houria Aouimeur"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 111,
+        "value": "Medef"
+      },
+      {
+        "id": 258,
+        "value": "Association pour la gestion du régime de Garantie des créances des Salariés"
+      },
+      {
+        "id": 259,
+        "value": "Unédic"
+      },
+      {
+        "id": 565,
+        "value": "Défenseur des droits (DDD)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
       }
     ],
     "theme": [],
