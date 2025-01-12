@@ -1,5 +1,79 @@
 [
   {
+    "id": 2949,
+    "titre": "L’ombre de Rachida Dati apparaît au détour du dossier des barbouzeries autour du PSG",
+    "contenu": "Mis en examen, un ancien policier antiterroriste et ancien salarié du club parisien avait cherché à se renseigner, en 2019, sur les déplacements en avion d’une actionnaire de Renault et son avocat, qui venaient de porter plainte contre Rachida Dati et l’ex-PDG de Renault-Nissan, Carlos Ghosn.",
+    "url": "https://www.lemonde.fr/societe/article/2025/01/10/l-ombre-de-rachida-dati-apparait-au-detour-du-dossier-des-barbouzeries-autour-du-psg_6491627_3224.html",
+    "date": "2025-01-10",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 616,
+        "value": "Rachida Dati"
+      },
+      {
+        "id": 617,
+        "value": "Carlos Ghosn"
+      },
+      {
+        "id": 817,
+        "value": "Tayeb Benabderrahmane"
+      },
+      {
+        "id": 818,
+        "value": "Malik Nait-Liman"
+      },
+      {
+        "id": 1231,
+        "value": "Danièle Coutaz-Repland"
+      },
+      {
+        "id": 1232,
+        "value": "Jean-Paul Baduel"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2683,
+        "value": "Sport"
+      },
+      {
+        "id": 2672,
+        "value": "Lobbying / Influence / Ingérence"
+      }
+    ],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2941,
     "titre": "La chute de Dark Bank, le « banquier » du crime organisé qui aurait aidé à blanchir plus de 1 milliard d’euros",
     "contenu": "La justice française a mis au jour un vaste réseau international de blanchiment d’argent en cryptomonnaies, selon les informations du « Monde ». La France a demandé l’extradition du principal suspect de ce dossier, arrêté en août aux Etats-Unis.",
