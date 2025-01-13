@@ -1,5 +1,53 @@
 [
   {
+    "id": 2952,
+    "titre": "Macron et McKinsey : la justice enquête sur des liens anciens et secrets",
+    "contenu": "Les juges qui investiguent sur le rôle de McKinsey dans les campagnes présidentielles 2017 et 2022 du chef de l’État s’intéressent aussi au début de la relation entre la firme américaine et Emmanuel Macron, avant sa première élection, selon des informations de Mediapart.",
+    "url": "https://www.mediapart.fr/journal/france/130125/macron-et-mckinsey-la-justice-enquete-sur-des-liens-anciens-et-secrets",
+    "date": "2025-05-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 648,
+        "value": "Emmanuel Macron"
+      },
+      {
+        "id": 1855,
+        "value": "Karim Tadjeddine"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
+      {
+        "id": 69,
+        "value": "La République En Marche (LREM)"
+      },
+      {
+        "id": 397,
+        "value": "McKinsey & Company"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2950,
     "titre": "Le ministre des Transports, Philippe Tabarot, visé par une enquête pour détournement de fonds publics",
     "contenu": "Le ministre des Transports, Philippe Tabarot, est visé par une enquête préliminaire pour prise illégale d’intérêts, détournement de fonds publics et recel de ces infractions, selon franceinfo ce lundi.",
