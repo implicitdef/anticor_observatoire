@@ -1,5 +1,49 @@
 [
   {
+    "id": 2950,
+    "titre": "Le ministre des Transports, Philippe Tabarot, visé par une enquête pour détournement de fonds publics",
+    "contenu": "Le ministre des Transports, Philippe Tabarot, est visé par une enquête préliminaire pour prise illégale d’intérêts, détournement de fonds publics et recel de ces infractions, selon franceinfo ce lundi.",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/le-ministre-des-transports-philippe-tabarot-vise-par-une-enquete-pour-detournement-de-fonds-publics-8416104",
+    "date": "2025-01-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2703,
+        "value": "06 - Alpes-Maritimes"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 1206,
+        "value": "Philippe Tabarot"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 95,
+        "value": "Haute autorité pour la transparence de la vie publique (HATVP)"
+      },
+      {
+        "id": 1103,
+        "value": "Ministère des Transports"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
     "id": 2949,
     "titre": "L’ombre de Rachida Dati apparaît au détour du dossier des barbouzeries autour du PSG",
     "contenu": "Mis en examen, un ancien policier antiterroriste et ancien salarié du club parisien avait cherché à se renseigner, en 2019, sur les déplacements en avion d’une actionnaire de Renault et son avocat, qui venaient de porter plainte contre Rachida Dati et l’ex-PDG de Renault-Nissan, Carlos Ghosn.",
@@ -784,6 +828,47 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2951,
+    "titre": "Au Puy-en-Velay, une nouvelle garde à vue du Parquet national financier autour du chantier de l'église des Carmes",
+    "contenu": "Le Parquet national financier (PNF) enquête toujours au Puy-en-Velay... Après le Marché couvert et l'office de tourisme, l’église des Carmes est une fois encore dans le viseur. Lundi 6 janvier, les enquêteurs ont placé Armel Le Compagnon en garde à vue, à Clermont-Ferrand, plus de quatre ans après l’arrêt des travaux sur l’édifice ponot par son entreprise, en liquidation judiciaire en 2020.",
+    "url": "https://www.leveil.fr/puy-en-velay-43000/faits-divers/au-puy-en-velay-une-nouvelle-garde-a-vue-du-parquet-national-financier-autour-du-chantier-de-l-eglise-des-carmes_14622105/",
+    "date": "2025-01-06",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2737,
+        "value": "43 - Haute-Loire"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2403,
+        "value": "Armel Le Compagnon"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2692,
+        "value": "Enquête"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
