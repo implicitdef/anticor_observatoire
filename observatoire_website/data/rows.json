@@ -1,5 +1,146 @@
 [
   {
+    "id": 2959,
+    "titre": "Cinq anciens ministres d'Emmanuel Macron nommés chevaliers de la Légion d'honneur",
+    "contenu": "Les noms de 1702 lauréats civils de la promotion du 1ᵉʳ janvier de la Légion d'honneur et de l'ordre du Mérite ont été publiés samedi au Journal officiel.\nParmi eux sont nommés \"chevaliers\" cinq anciens ministres d'Emmanuel Macron : Rima Abdul Malak, Clément Beaune, Olivier Dussopt, Marlène Schiappa et Amélie Oudéa-Castéra.",
+    "url": "https://www.tf1info.fr/politique/cinq-anciens-ministres-d-emmanuel-macron-nommes-chevaliers-de-la-legion-d-honneur-clement-beaune-marlene-schiappa-rima-abdul-malak-olivier-dussopt-amelie-oudea-castera-2345534.html",
+    "date": "2025-01-18",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 608,
+        "value": "Olivier Dussopt"
+      },
+      {
+        "id": 659,
+        "value": "Amélie Oudéa-Castéra"
+      },
+      {
+        "id": 676,
+        "value": "Marlène Schiappa"
+      },
+      {
+        "id": 1756,
+        "value": "Clément Beaune"
+      },
+      {
+        "id": 2407,
+        "value": "Rima Abdul Malak"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 370,
+        "value": "Ordre national de la Légion d'honneur"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2957,
+    "titre": "L’ancien commissaire européen Thierry Breton rejoint un conseil consultatif de Bank of America",
+    "contenu": "Vous pouvez partager un article en cliquant sur les icônes de partage en haut à droite de celui-ci. \nLa reproduction totale ou partielle d’un article, sans l’autorisation écrite et préalable du Monde, est strictement interdite. \nPour plus d’informations, consultez nos conditions générales de vente. \nPour toute demande d’autorisation, contactez syndication@lemonde.fr. \nEn tant qu’abonné, vous pouvez offrir jusqu’à cinq articles par mois à l’un de vos proches grâce à la fonctionnalité « Offrir un article ». \n\nhttps://www.lemonde.fr/international/article/2025/01/17/l-ancien-commissaire-europeen-thierry-breton-rejoint-un-conseil-consultatif-de-bank-of-america_6502998_3210.html\n\nPour Thierry Breton, pas besoin de délai de deux ans de transition ou de « période de refroidissement ». L’ancien commissaire européen au marché intérieur (2019-2024) va pouvoir intégrer le conseil consultatif international de Bank of America, à peine cinq mois après sa démission de son poste à Bruxelles, a confirmé la Commission européenne dans un avis de son comité d’éthique, publié sur son site Internet mercredi 15 janvier, et qui est longtemps passé inaperçu. L’ancien commissaire français avait informé son ancien employeur de ce projet en octobre 2024. La Commission a été traumatisée par différents « pantouflages » ces dernières années, notamment la nomination en 2016 de son ancien président portugais José Manuel Barroso chez Goldman Sachs pour diriger sa filiale européenne.",
+    "url": "https://www.lemonde.fr/international/article/2025/01/17/l-ancien-commissaire-europeen-thierry-breton-rejoint-un-conseil-consultatif-de-bank-of-america_6502998_3210.html",
+    "date": "2025-01-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2792,
+        "value": "Belgique"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 828,
+        "value": "Thierry Breton"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 175,
+        "value": "Commission Européenne"
+      },
+      {
+        "id": 1121,
+        "value": "Bank of America"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2653,
+        "value": "Pantouflages"
+      }
+    ],
+    "theme": [],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": true
+  },
+  {
+    "id": 2961,
+    "titre": "Les grosses ficelles de Shein pour payer des impôts ridicules en France",
+    "contenu": "Le site chinois, devenu le deuxième plus gros vendeur de vêtements dans l’Hexagone, a mis en place un savant schéma d’optimisation fiscale. De quoi écorner encore plus son image alors qu’il se démène pour la travailler, en missionnant des personnalités comme Christophe Castaner.",
+    "url": "https://www.linforme.com/grande-conso/article/les-grosses-ficelles-de-shein-pour-payer-des-impots-ridicules-en-france_2459.html",
+    "date": "2025-01-17",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      },
+      {
+        "id": 2793,
+        "value": "Chine"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 663,
+        "value": "Christophe Castaner"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 932,
+        "value": "Shein"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2651,
+        "value": "Actualité"
+      }
+    ],
+    "theme": [
+      {
+        "id": 2667,
+        "value": "Fiscalité"
+      },
+      {
+        "id": 3071,
+        "value": "Habillement / Mode"
+      }
+    ],
+    "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
     "id": 2954,
     "titre": "Condamné à l’inéligibilité, le maire de Caluire‐et‐Cuire Philippe Cochet refuse sa « démission d’office »",
     "contenu": "Ce mardi 14 janvier, l’ex-député du Rhône a demandé au juge des référés du tribunal administratif de Lyon de suspendre en urgence le retrait de son mandat municipal, après sa condamnation pour l’emploi fictif de sa femme.",
@@ -63,6 +204,75 @@
       }
     ],
     "personnes_morales": [
+      {
+        "id": 11,
+        "value": "Les Républicains (LR) (ex-UMP)"
+      }
+    ],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2695,
+        "value": "Procès"
+      }
+    ],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2958,
+    "titre": "Sarkozy lâche déjà Guéant et Hortefeux : « Que les autres s’expliquent, c’est pas moi quand même ! »",
+    "contenu": "Avant même de rentrer dans le fond des accusations, le procès des financements libyens a montré, lundi 13 janvier, une réalité qui commence à poindre derrière l’énergie que met l’ancien président de la République à se défendre : il marche sur un fil.",
+    "url": "https://www.mediapart.fr/journal/france/140125/sarkozy-lache-deja-gueant-et-hortefeux-que-les-autres-s-expliquent-c-est-pas-moi-quand-meme",
+    "date": "2025-01-14",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2762,
+        "value": "75 - Paris"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 584,
+        "value": "Nicolas Sarkozy"
+      },
+      {
+        "id": 585,
+        "value": "Mouammar Kadhafi"
+      },
+      {
+        "id": 586,
+        "value": "Ziad Takieddine"
+      },
+      {
+        "id": 660,
+        "value": "Claude Guéant"
+      },
+      {
+        "id": 950,
+        "value": "Brice Hortefeux"
+      },
+      {
+        "id": 951,
+        "value": "Thierry Gaubert"
+      },
+      {
+        "id": 2392,
+        "value": "Abdallah Senoussi"
+      }
+    ],
+    "personnes_morales": [
+      {
+        "id": 3,
+        "value": "Parquet National Financier (PNF)"
+      },
       {
         "id": 11,
         "value": "Les Républicains (LR) (ex-UMP)"
@@ -226,6 +436,42 @@
     ],
     "theme": [],
     "procedure": [],
+    "titre_corrige": "",
+    "a_la_une": false
+  },
+  {
+    "id": 2960,
+    "titre": "Soupçon de favoritisme au Castellet: l’ancienne maire et ses coprévenus relaxés",
+    "contenu": "L’ancienne maire du Castellet Nicole Boizis et quatre coprévenus ont été relaxés ce lundi après que le tribunal a constaté un vice de procédure.",
+    "url": "https://www.varmatin.com/faits-divers/soupcon-de-favoritisme-au-castellet-l-ancienne-maire-et-ses-coprevenus-relaxes-967547",
+    "date": "2025-01-13",
+    "etiquettes": "",
+    "departement": [
+      {
+        "id": 2773,
+        "value": "83 - Var"
+      }
+    ],
+    "personnalites": [
+      {
+        "id": 2239,
+        "value": "Nicole Boizis"
+      }
+    ],
+    "personnes_morales": [],
+    "categorie": [
+      {
+        "id": 2652,
+        "value": "Probité"
+      }
+    ],
+    "theme": [],
+    "procedure": [
+      {
+        "id": 2697,
+        "value": "Relaxe / classement / acquittement"
+      }
+    ],
     "titre_corrige": "",
     "a_la_une": false
   },
